@@ -1,12 +1,12 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=9ae1382b68cd4db3\"> JEDSOUL</a>. Updates every Wednesday.",
-  "num_followers": 295541,
+  "num_followers": 295597,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOogEIq8Xfmj5MU4xd9E0pnHIpuC",
+  "snapshot_id": "AAAAAKvp06Rkb5bVv3Y2biXnoLHxAVFJ",
   "tracks": [
     {
       "added_at": "2026-11-19 21:12:58",
@@ -367,6 +367,22 @@
       "duration_ms": 202666,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/7IKkZ9SvqxVyx6kJzZWZBS"
+    },
+    {
+      "added_at": "2026-11-20 18:09:22",
+      "album": {
+        "name": "can we be friends?",
+        "url": "https://open.spotify.com/album/3UKWGrwTjo8DF0Vo1MVyRw"
+      },
+      "artists": [
+        {
+          "name": "Veronica",
+          "url": "https://open.spotify.com/artist/6u7k7tbT583IHziqzFAC8j"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "can we be friends?",
+      "url": "https://open.spotify.com/track/0DTYSTfFCLOaRLFcMYQwC9"
     },
     {
       "added_at": "2026-11-19 21:12:58",

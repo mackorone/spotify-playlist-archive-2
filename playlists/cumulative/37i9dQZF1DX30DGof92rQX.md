@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Aashir Wajahat, Sabaat Batin
 
-780 songs - 1 day 17 hr 57 min
+781 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Rung Grehan Band](https://open.spotify.com/track/3QnEKN1yEWWcwYCXm4xlV3) | [Grehan Band](https://open.spotify.com/artist/4NjwzFMg5JOIpWmlkZMSKT), [Farheen Raza Jaffry](https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc) | [Rung Grehan Band](https://open.spotify.com/album/4OImWQR8nh4aWoKfjraElo) | 1:52 | 2024-06-28 | 2024-08-10 |
 | [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 | 2025-05-26 | 2025-09-10 |
 | [Ruxaana](https://open.spotify.com/track/7IiueoPtKbX2eFrvbi75WG) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Roshni](https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS) | 2:55 | 2025-12-20 | 2026-05-08 |
+| [SAA](https://open.spotify.com/track/0iQkrHHwG7xk6edqgOsp4H) | [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [SAA](https://open.spotify.com/album/45Y285WlaIja8eAVvcuIhB) | 2:55 | 2026-11-20 |  |
 | [Saamnay](https://open.spotify.com/track/2A8b65AmkmmxWn2aefltbB) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saamnay](https://open.spotify.com/album/5OcSH00bOVFQj4XYdsFwnA) | 3:44 | 2024-08-22 | 2025-01-17 |
 | [Saanware](https://open.spotify.com/track/3LWQnTmtnLL2ZaaYJBcFWD) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [Wake Up Call](https://open.spotify.com/album/10dC38ihjvwpAWiPpGj8YP) | 2:57 | 2026-11-06 |  |
 | [Saat Din](https://open.spotify.com/track/460aVPwkgwa0rCEP9RbQRS) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Saat Din](https://open.spotify.com/album/4VgwV8mizo2Wdri3650zZs) | 3:35 | 2025-06-19 | 2025-10-04 |

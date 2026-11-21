@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,376 likes - 100 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,437 likes - 100 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Bila Yesu](https://open.spotify.com/track/16Wzy0bdcr7xgD3EtlX9Kt) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Bila Yesu](https://open.spotify.com/album/1uZtboHemFWWR9qqBPM3Tn) | 3:09 |
 | 100 | [Jionyeshe](https://open.spotify.com/track/3m9wyUG1ck3CeUbO1cLK4N) | [Eve Nyasha Ngoloma](https://open.spotify.com/artist/3SQ5WVOVJxLhEWztbS3Ba5) | [Jionyeshe](https://open.spotify.com/album/0ZxXIUqgm7A5CSyE6vhygQ) | 9:56 |
 
-Snapshot ID: `AAAAABxCiB3GjOH3+mvhfQwsn458nm5V`
+Snapshot ID: `AAAAANf+hTZzR8pIgVdqE0gMTicMYczX`

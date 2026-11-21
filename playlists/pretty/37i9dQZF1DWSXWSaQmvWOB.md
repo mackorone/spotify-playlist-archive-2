@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,493 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,530 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 114 | [DIG! \(feat\. Brian Jackson\)](https://open.spotify.com/track/58MkiOEe314jQ1MBUq3T49) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU) | [DIG! \(feat\. Brian Jackson\)](https://open.spotify.com/album/6GiZ0tbtdGBq8XvkJNndWM) | 3:36 |
 | 115 | [Do Whatchu Gotta](https://open.spotify.com/track/62BJVIeKG6pyFvJJKflaHi) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f) | [Do Whatchu Gotta](https://open.spotify.com/album/7ah6GnmzfDb4WWe1uFm8tq) | 3:38 |
 
-Snapshot ID: `AAAAAFi3V02rrG6leSYVJrhnGcyyBVmt`
+Snapshot ID: `AAAAAAcqeV82gG24E88LR7MMc6dYHaTq`

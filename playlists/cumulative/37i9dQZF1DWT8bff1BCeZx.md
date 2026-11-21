@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,184 songs - 3 day 7 hr 16 min
+1,185 songs - 3 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [Glory](https://open.spotify.com/track/5el1T5NryeZvpNHeJJPobD) | [Skie Music](https://open.spotify.com/artist/5P4rch630qIMkSGKTlpZlO), [Where Feet Fail](https://open.spotify.com/artist/2KkKTdEPbNFFktcgVmK6yq), [Sekrade](https://open.spotify.com/artist/1fxpWAJkirYUPNg2ASbeaG) | [Glory](https://open.spotify.com/album/3k8bMfGadEgQJBSO6HWf2M) | 2:03 | 2025-04-04 | 2025-08-22 |
 | [Glory](https://open.spotify.com/track/3TGW1lycFSanbIGhrJfsqa) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Glory](https://open.spotify.com/album/4OYbbYDPLgdoOhaacCqpPH) | 3:19 | 2025-01-31 | 2025-02-28 |
 | [Glory in the Highest](https://open.spotify.com/track/7BP5kZnojytuqBqkE2cPAC) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [MOG MUSIC](https://open.spotify.com/artist/17ACo7QahQIRPKlonJnOlc) | [Glory in the Highest](https://open.spotify.com/album/0qClQx2FhcApLMHSHiYDOc) | 4:01 | 2026-10-16 |  |
-| [go back](https://open.spotify.com/track/4fhVo2oTvsbOvUDKhsYx1O) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [go back](https://open.spotify.com/album/7FLrjtMHZgWVS0gA1xGOEU) | 2:06 | 2026-08-21 |  |
+| [go back](https://open.spotify.com/track/4fhVo2oTvsbOvUDKhsYx1O) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [go back](https://open.spotify.com/album/7FLrjtMHZgWVS0gA1xGOEU) | 2:06 | 2026-08-21 | 2026-11-21 |
 | [God Can Be Trusted](https://open.spotify.com/track/5CNicakfagnfTLTLr1Jhnb) | [Sarah Wonders](https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo) | [God Can Be Trusted](https://open.spotify.com/album/60zpP3RZC41VP5Pdk2FeHq) | 4:35 | 2026-09-04 | 2026-10-09 |
 | [God Dey 2](https://open.spotify.com/track/4vsztLGXcb6rntiTMqT0J7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Gospel Force](https://open.spotify.com/artist/00M1UkoSlitGAaMN2ng5kh) | [God Dey 2](https://open.spotify.com/album/5DLvmyPdGCBK9MSTEm0yTR) | 7:12 | 2026-03-27 | 2026-05-22 |
 | [God Dey Bless Me \(Speak Those Things\)](https://open.spotify.com/track/7eBAU5baxFA64rwtxxc2z9) | [Cwesi Oteng](https://open.spotify.com/artist/6H7Ys5lGiJHzAwchWf1faM) | [Mercy Project](https://open.spotify.com/album/4ZzJkaKsWA2oRVqhOaPjrX) | 5:02 | 2023-05-26 | 2025-06-20 |
@@ -991,6 +991,7 @@
 | [Tasted](https://open.spotify.com/track/0VSRo5qR7cP9PVtoFC9U3M) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Highly Lifted](https://open.spotify.com/album/0lr2KKVfyzpkmoQkPccGtg) | 5:19 | 2026-08-07 | 2026-08-28 |
 | [Teach Me](https://open.spotify.com/track/37vfiHVsdmfJ9YYpvQn7w8) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Rays Of Tamara](https://open.spotify.com/album/31Ph0MBb9Y85Q8VqwA0Moi) | 3:08 | 2026-03-13 | 2026-04-17 |
 | [Tehillah Gbedu](https://open.spotify.com/track/3lMhMhG8iy0FvxSJpalmDh) | [Kidamrproducer](https://open.spotify.com/artist/381cD0cV1gKQO9450pDGRx), [David Kida](https://open.spotify.com/artist/50cYD84szsuxLcCjTfTDZ7), [Kida Praise Crew](https://open.spotify.com/artist/1F2Vpu8yyro7Se0ziyQcfV) | [Tehillah Gbedu](https://open.spotify.com/album/6UEEtKQFjxAaeNexLuv8TX) | 29:12 | 2025-09-05 | 2025-10-10 |
+| [TENKI \- Remix](https://open.spotify.com/track/1WMk0lkidxPEoKGTzUhFaM) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj), [Drizilik](https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P), [Shadow Boxxer](https://open.spotify.com/artist/1V6ZXpsxkb3B5pyilT9kJn), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm) | [TENKI \(Remix\)](https://open.spotify.com/album/3CyoT7afZvbi9wMkRN2wuw) | 4:47 | 2026-11-20 |  |
 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 | 2025-05-30 | 2025-06-27 |
 | [Testify](https://open.spotify.com/track/3XC8ZwFfShSkYPPi3uFu2q) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [Testify](https://open.spotify.com/album/2WM9Kn4hSMzBFQjis4Ra4d) | 3:26 | 2026-02-27 | 2026-03-20 |
 | [Testimony](https://open.spotify.com/track/4CvRBlb037cLVjINtyBs5B) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [Testimony](https://open.spotify.com/album/3ciBLODDNJrmlOczWHpMk4) | 3:25 | 2025-02-07 | 2025-03-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Guddhist Gunatita, Baby Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,213 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,469 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Millionz](https://open.spotify.com/track/35nnC1CkiFCnfhCuEIfJQx) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Millionz](https://open.spotify.com/album/1i6350vDfRmlOozvH0OZQr) | 3:02 |
 | 50 | [Type G](https://open.spotify.com/track/2VhL5aPzVoGvniMFKgLmrq) | [Zombie Bleu](https://open.spotify.com/artist/0CelpCXw05DJ5EH7893QRv) | [Type G](https://open.spotify.com/album/0shX2EZZkqVPMGVOgLlPNb) | 3:11 |
 
-Snapshot ID: `AAAAAOm0my4jzh3LvB0kki/CJzmf6tPL`
+Snapshot ID: `AAAAAA966NiLApjfTwbgMdBXXhG+bQkI`

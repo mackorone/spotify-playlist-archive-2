@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 
 > Close Mic, Muted Strings, Cozy Vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,367 likes - 103 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,403 likes - 103 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 | 102 | [Reminisce](https://open.spotify.com/track/6JAgrPR2SsSQbMKQLKU3Li) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Reminisce](https://open.spotify.com/album/00I4uPtckukweP7GVOqZsk) | 2:31 |
 | 103 | [Le Silence](https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Le Silence](https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe) | 2:10 |
 
-Snapshot ID: `AAAAAEyA8qsMYqSG/ZeD8sO1MA6xRJR5`
+Snapshot ID: `AAAAAADy8NCOMl+bXc/ibL3Bg4YdJAJr`

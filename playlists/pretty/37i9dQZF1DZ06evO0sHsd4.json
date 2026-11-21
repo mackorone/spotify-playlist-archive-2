@@ -1,33 +1,13 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 26216,
+  "num_followers": 26239,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAD05CeW0TGW1bECzPZhv+GF",
+  "snapshot_id": "av48AAAAAACc7pSET1f0TsmKlge8w2Oc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Karpe Diem",
-        "url": "https://open.spotify.com/album/0GLwhdYcDSdPJIxOcl5KEF"
-      },
-      "artists": [
-        {
-          "name": "Marcos Villalobos",
-          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Karpe Diem",
-      "url": "https://open.spotify.com/track/7hkVzMHYeoOp1NACDB6rKp"
-    },
     {
       "added_at": null,
       "album": {
@@ -487,6 +467,26 @@
       "duration_ms": 180077,
       "name": "Efectos Del Alcohol",
       "url": "https://open.spotify.com/track/7t6HuMtRqE3dZwZZ7us0dU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Karpe Diem",
+        "url": "https://open.spotify.com/album/0GLwhdYcDSdPJIxOcl5KEF"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Karpe Diem",
+      "url": "https://open.spotify.com/track/7hkVzMHYeoOp1NACDB6rKp"
     },
     {
       "added_at": null,

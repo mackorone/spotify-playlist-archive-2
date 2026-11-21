@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Marcos Witt",
+  "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Israel & New Breed, Unified Sound, Adrienne Bailon-Houghton, Claudette Bailon, Diana Marie, Travy Joe, Aaron Moses, & Nate Diaz",
   "name": "Navidad Cristiana",
   "tracks": [
     {
@@ -1012,6 +1012,28 @@
       "duration_ms": 192386,
       "name": "El Burrito De Bel\u00e9n",
       "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
+    },
+    {
+      "album": {
+        "name": "El Burrito Sabanero (Remix 2026)",
+        "url": "https://open.spotify.com/album/4dcUAJ7JNpTmWIpBzXQa4g"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Luis de Perikin",
+          "url": "https://open.spotify.com/artist/5KICVlxM5ZkWdDduGTsjdH"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164077,
+      "name": "El Burrito Sabanero - Remix 2026",
+      "url": "https://open.spotify.com/track/7H4S4BB4CBD23Bbl45EJlf"
     },
     {
       "album": {
@@ -2182,6 +2204,24 @@
       "duration_ms": 180066,
       "name": "Gloria En Las Alturas",
       "url": "https://open.spotify.com/track/3lNc3Z1Lei2yQ1NMzFARMi"
+    },
+    {
+      "album": {
+        "name": "Our Navidad",
+        "url": "https://open.spotify.com/album/6R48GS0xn4M00egWPd8zmO"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199373,
+      "name": "Gloria En Las Alturas",
+      "url": "https://open.spotify.com/track/3gGoORVKzvGvY7jtlNWnER"
     },
     {
       "album": {
@@ -4860,7 +4900,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 99632,
       "name": "Venid Adoremos",
       "url": "https://open.spotify.com/track/6ySZuXcrBuqtaDOTZmt5lB"
@@ -5232,7 +5272,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 192171,
       "name": "Ya Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY"

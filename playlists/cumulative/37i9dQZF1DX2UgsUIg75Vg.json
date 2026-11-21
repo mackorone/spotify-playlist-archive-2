@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: LAYA",
+  "description": "Chill r&b. Cover: Rema",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 222579,
       "name": "Always Be Mine (feat. Jordan Ward)",
       "url": "https://open.spotify.com/track/1lOZSJPpreVaSCmP5M4ZjW"
@@ -3010,6 +3010,24 @@
       "duration_ms": 132468,
       "name": "BBY CRUMBS",
       "url": "https://open.spotify.com/track/4J73olXlMdSvckMRU5brDF"
+    },
+    {
+      "album": {
+        "name": "be alright",
+        "url": "https://open.spotify.com/album/4ZvHuLQDYuAToRifmjywO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237623,
+      "name": "be alright",
+      "url": "https://open.spotify.com/track/3terdrsJOxPmBb8n3pyGdR"
     },
     {
       "album": {
@@ -10317,6 +10335,24 @@
     },
     {
       "album": {
+        "name": "Fast Asleep",
+        "url": "https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Fast Asleep",
+      "url": "https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA"
+    },
+    {
+      "album": {
         "name": "FatalAttraction",
         "url": "https://open.spotify.com/album/1wQzK1Wp22pzqyKQsMqYau"
       },
@@ -10470,6 +10506,28 @@
       "duration_ms": 196850,
       "name": "Feel A Way (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0PgqpFFX4WxBbXhjkONk5b"
+    },
+    {
+      "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
     },
     {
       "album": {
@@ -14072,7 +14130,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 187226,
       "name": "Here They Come II",
       "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
@@ -17074,7 +17132,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 186665,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/4sIhUC7HG2VWAsuQPwIrXw"
@@ -17440,7 +17498,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 209453,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
@@ -17698,7 +17756,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 198500,
       "name": "Knockin (feat. The Paradox)",
       "url": "https://open.spotify.com/track/2wUpORtJQ4AcvUezVXIBhG"
@@ -26428,7 +26486,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 129925,
       "name": "right/left",
       "url": "https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ"
@@ -30424,7 +30482,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 184212,
       "name": "Stitch Me Up",
       "url": "https://open.spotify.com/track/1bIlHTjsRPtIGBaZL0QiXZ"
@@ -36154,7 +36212,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 227298,
       "name": "Wish I Knew - feat. Odeal",
       "url": "https://open.spotify.com/track/63CcTfHILsttIHnUjUUbv2"

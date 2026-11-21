@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Alexandre Poulin
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,805 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,813 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 38 | [Ensorcelée](https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Ensorcelée](https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i) | 2:43 |
 | 39 | [Voz de mi vida](https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk) | [Luan Larobina](https://open.spotify.com/artist/37q74NMKjVZ4fwH0OZhk6h) | [Voz de mi vida](https://open.spotify.com/album/2s7tiJxU39CIoTA8jnmgKt) | 3:36 |
 | 40 | [Dans une autre vie](https://open.spotify.com/track/1VJdtTZWeTouSi3y6ik8zR) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Dans une autre vie](https://open.spotify.com/album/7eBxs9932wKP0HmVMtpuE0) | 3:59 |
-| 41 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 |
-| 42 | [J'y crois encore](https://open.spotify.com/track/2oG5zzMtDMuzVa2B6BkiYJ) | [Sarcass](https://open.spotify.com/artist/48tVSe8bX8VQqQoZcfvjKT), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [J'y crois encore](https://open.spotify.com/album/0CrimEx2EQaG7ogzNcqAzO) | 2:41 |
+| 41 | [J'y crois encore](https://open.spotify.com/track/2oG5zzMtDMuzVa2B6BkiYJ) | [Sarcass](https://open.spotify.com/artist/48tVSe8bX8VQqQoZcfvjKT), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [J'y crois encore](https://open.spotify.com/album/0CrimEx2EQaG7ogzNcqAzO) | 2:41 |
+| 42 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 |
 | 43 | [Black Cloud](https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Black Cloud](https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS) | 4:29 |
 | 44 | [Avant qu'il soit trop tard](https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N) | 2:40 |
 | 45 | [Otherwise, I'm Fine](https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Don't Be Funny Without Me](https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry) | 2:50 |
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 50 | [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 |
 | 51 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
 | 52 | [Your Name](https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Your Name](https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH) | 3:12 |
-| 53 | [Cendres](https://open.spotify.com/track/4yLkTYwLbvvqm6p4stPKz1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Sous\-bois](https://open.spotify.com/album/53kSoH8auDnrL91XJsWXiC) | 4:02 |
-| 54 | [pauvre pomme](https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [pauvre pomme](https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv) | 3:57 |
+| 53 | [pauvre pomme](https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [pauvre pomme](https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv) | 3:57 |
+| 54 | [Cendres](https://open.spotify.com/track/4yLkTYwLbvvqm6p4stPKz1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Sous\-bois](https://open.spotify.com/album/53kSoH8auDnrL91XJsWXiC) | 4:02 |
 | 55 | [Magané](https://open.spotify.com/track/4I5xQzIE8Bm2OJ9MOST2Gr) | [Orange Lessard](https://open.spotify.com/artist/4Y7Z6989C1MbKYFpCVtvC6) | [Magané](https://open.spotify.com/album/5PBlB7kpvAKPcyXPJ7uQvH) | 2:03 |
-| 56 | [Stranger](https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Stranger](https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U) | 3:55 |
-| 57 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 |
-| 58 | [Je fais confiance au temps](https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM) | [Je fais confiance au temps](https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U) | 3:17 |
+| 56 | [Je fais confiance au temps](https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM) | [Je fais confiance au temps](https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U) | 3:17 |
+| 57 | [Stranger](https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Stranger](https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U) | 3:55 |
+| 58 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 |
 | 59 | [reel talk](https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [t.o.m\. ou la trajectoire des perséides](https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY) | 3:19 |
 | 60 | [Toujours la roue](https://open.spotify.com/track/0u6PUG1Kj52GhSI1mcdJd1) | [Valois Fauteux](https://open.spotify.com/artist/3isJMJbCH8xMzvqF5QGQU7) | [Volume 1 : Origine](https://open.spotify.com/album/0Ca5FfdvP0jxsvbcOcYe2v) | 3:39 |
 | 61 | [Super bien!](https://open.spotify.com/track/3t2ya5ED1KFuHVmpn0o5Az) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Super bien!](https://open.spotify.com/album/77W5QOajnFZoldYWtIqq7I) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 |
 | 75 | [Qu'est\-ce que je viens faire ici ?](https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [xx](https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4) | 2:14 |
 
-Snapshot ID: `AAAAAOaeRL5cmh9hat4pJY2i2p9MnZS8`
+Snapshot ID: `AAAAAPifKF03/FwevwXJQ34hTd2nNfsP`

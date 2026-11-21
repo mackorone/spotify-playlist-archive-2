@@ -1,12 +1,12 @@
 {
   "description": "Sempre aggiornata \ud83d\ude08 Con nuovi brani di Sfera Ebbasta, FreshMula, Enny P, Saintpaul e tanti altri.",
-  "num_followers": 56387,
+  "num_followers": 56403,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK4+juCyOKAhbApaEB1cPD7K/tm5",
+  "snapshot_id": "AAAAAFa5V1Uvc/AOIsbhahC/3wWHaujL",
   "tracks": [
     {
       "added_at": "2026-11-20 00:01:55",
@@ -70,10 +70,18 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 211160,
-      "name": "Victory Lap",
+      "duration_ms": 211170,
+      "name": "Victory Lap (feat. Shiva, Geolier)",
       "url": "https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4"
     },
     {
@@ -174,10 +182,14 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
       "duration_ms": 193040,
-      "name": "Moonlight",
+      "name": "Moonlight (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS"
     },
     {

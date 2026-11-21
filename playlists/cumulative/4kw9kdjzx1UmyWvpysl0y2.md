@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,341 songs - 3 day 2 hr 18 min
+1,342 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-05-01 | 2023-07-25 |
 | [Beacon](https://open.spotify.com/track/0QSgN6pgdJdCBSNCAxHyok) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Beacon](https://open.spotify.com/album/17xeRw9ytYLac0hjH8PAmB) | 3:20 | 2025-01-09 | 2025-04-02 |
 | [BEAMS](https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [BEAMS](https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS) | 2:58 | 2024-03-20 | 2024-06-07 |
+| [BEATSHOOTBACK](https://open.spotify.com/track/0ypsmQomyN8Ts9LtESRgwb) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [VRG](https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh) | [BEATSHOOTBACK](https://open.spotify.com/album/0zRAEoiaCgOmWE6SUwTLYR) | 3:20 | 2026-11-20 |  |
 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-07 | 2024-11-01 |
 | [Before I Go](https://open.spotify.com/track/7cRN38N0djEeO6YDFAtHrc) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [vanru](https://open.spotify.com/artist/0BLfDCxhXd4mFmVv1KjJjV) | [Before I Go](https://open.spotify.com/album/1GSUJcKaEBCio5XhM6mWE3) | 2:36 | 2025-11-20 | 2026-02-27 |
 | [Beg For Mercy](https://open.spotify.com/track/4lPpWCtwDlcSRGp1TPz4g4) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Beg For Mercy](https://open.spotify.com/album/3KfvY5Y0Pqm6N7bBG55j59) | 2:11 | 2025-12-03 | 2026-03-31 |

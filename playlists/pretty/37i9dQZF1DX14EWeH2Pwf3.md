@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Sfera nelle 🎧 di tutti, e in cover della playlist urban più 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,683 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,593 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [800 cv](https://open.spotify.com/track/5enru95abMUdvoZGqaWqjL) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:20 |
 | 2 | [Sentire La Musica](https://open.spotify.com/track/70m2SuBHRCkxVpgqpXZPDk) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono Post Mortem](https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO) | 3:26 |
 | 3 | [NON SEI PIÙ TU \(feat\. Lazza\)](https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TUTTO È POSSIBILE \- ATTO II](https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK) | 2:54 |
-| 4 | [Moonlight](https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:13 |
+| 4 | [Moonlight \(feat\. Tony Boy\)](https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:13 |
 | 5 | [Bugie](https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bugie](https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG) | 3:13 |
 | 6 | [KOPI LUWAK \(feat\. Kid Yugi, Marracash\)](https://open.spotify.com/track/6ieM664umhAKbH2Te9FabJ) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [JUNKIE MUSIK](https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l) | 3:33 |
 | 7 | [WINNER](https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [WINNER](https://open.spotify.com/album/7l5EaoBmfnW0Fy2zWERCwt) | 3:05 |
 | 8 | [Sipario feat\. Promessa](https://open.spotify.com/track/1eLDswtuYz5COqLRXyGOcv) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 2:01 |
 | 9 | [NEON \- Le Ali \(feat\. Elisa\)](https://open.spotify.com/track/76cEI7LczlKZ1yLAHIoPBJ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:27 |
-| 10 | [Victory Lap](https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:31 |
+| 10 | [Victory Lap \(feat\. Shiva, Geolier\)](https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:31 |
 | 11 | [DISOBBEDIRE! \(feat\. 18K\)](https://open.spotify.com/track/7gOPPSiPMAzVV395MZMicg) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [Anche gli Eroi Muoiono Post Mortem](https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO) | 2:58 |
 | 12 | [E Allora](https://open.spotify.com/track/1XzHasEgB7QoXXtoD3sUKY) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 1:51 |
 | 13 | [CASINI](https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CASINI](https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN) | 3:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 54 | [CHROME HEARTS \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [WAR](https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B) | 2:44 |
 | 55 | [PROIETTILI \(feat\. Noyz Narcos, Guè, RRARI DAL TACCO\)](https://open.spotify.com/track/6aCwrGD1DSdpTcE4NATPdR) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [JUNKIE MUSIK](https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l) | 2:50 |
 
-Snapshot ID: `AAAAAOvZdnN09jcPMMUZ9b3Gp3MYQa0s`
+Snapshot ID: `AAAAAKrr2hRacSNI86u4hpWwIQfi9lqb`

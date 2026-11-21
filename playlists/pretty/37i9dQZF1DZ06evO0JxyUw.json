@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 280437,
+  "num_followers": 280450,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAACXEKwD/vwSw6BQWiC1lkqJ",
+  "snapshot_id": "av48AAAAAADiV2SLCE2AgnyFtCtzMuFB",
   "tracks": [
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Addams Family 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1jhL3hfmzNgwgHZhkfpebG"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 43636,
-      "name": "The Addams Family - Theme",
-      "url": "https://open.spotify.com/track/1ghMIzXESR7hQpfCWDogEX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Addams Family 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jhL3hfmzNgwgHZhkfpebG"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 43636,
+      "name": "The Addams Family - Theme",
+      "url": "https://open.spotify.com/track/1ghMIzXESR7hQpfCWDogEX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santo",
         "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 183414,
       "name": "Santo",
       "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Save Me from Myself",
-      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
     },
     {
       "added_at": null,
@@ -975,6 +959,22 @@
       "duration_ms": 245295,
       "name": "Pipe (feat. XNDA)",
       "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Save Me from Myself",
+      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

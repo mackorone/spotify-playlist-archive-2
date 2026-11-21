@@ -5,6 +5,46 @@
   "tracks": [
     {
       "album": {
+        "name": "(club) blood / fever",
+        "url": "https://open.spotify.com/album/4ttGpIBe7GNRop5mdhqjCh"
+      },
+      "artists": [
+        {
+          "name": "josh & sam who are twins",
+          "url": "https://open.spotify.com/artist/3eFJwmWWuiOiGlzW0CAjIM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "(club) blood",
+      "url": "https://open.spotify.com/track/1d8wLX5V7JiJS8FjyWmwAV"
+    },
+    {
+      "album": {
+        "name": "(club) blood / fever",
+        "url": "https://open.spotify.com/album/4ttGpIBe7GNRop5mdhqjCh"
+      },
+      "artists": [
+        {
+          "name": "josh & sam who are twins",
+          "url": "https://open.spotify.com/artist/3eFJwmWWuiOiGlzW0CAjIM"
+        },
+        {
+          "name": "Seren Forever ",
+          "url": "https://open.spotify.com/artist/2MHVB5NprrBjlSC8XlUcN1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "(club) fever - vocal mix",
+      "url": "https://open.spotify.com/track/0q8rPv4rjMk4YtTzYFv4ju"
+    },
+    {
+      "album": {
         "name": "2.22pm wishyouwerestillhere",
         "url": "https://open.spotify.com/album/5HQAp8WbHDAdmTj1gabQtf"
       },
@@ -1416,7 +1456,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 213989,
       "name": "Children of the Myst",
       "url": "https://open.spotify.com/track/16cQT4i6Bs8aYS2lbf74fw"
@@ -4438,7 +4478,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 157166,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/0v2mAfQSS7in9DVw7ZNu6R"
@@ -4820,6 +4860,28 @@
       "duration_ms": 184646,
       "name": "Longing Protocol",
       "url": "https://open.spotify.com/track/72Pdo1TpRsYvcQw5WwRJMd"
+    },
+    {
+      "album": {
+        "name": "Longing Protocol (Flica's Remix)",
+        "url": "https://open.spotify.com/album/59cXFXPkTW87gg8HKnez5j"
+      },
+      "artists": [
+        {
+          "name": "Flica",
+          "url": "https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff"
+        },
+        {
+          "name": "DJ Wei",
+          "url": "https://open.spotify.com/artist/0yEGCcd4tH68Ou2xmfwyTN"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Longing Protocol - Flica's Remix",
+      "url": "https://open.spotify.com/track/39Xa3rBWXEuz4ABahQzyPm"
     },
     {
       "album": {
@@ -6460,7 +6522,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 242903,
       "name": "our lives entwined - edit",
       "url": "https://open.spotify.com/track/6GVqBIddPI2CPZrWM1SbbD"

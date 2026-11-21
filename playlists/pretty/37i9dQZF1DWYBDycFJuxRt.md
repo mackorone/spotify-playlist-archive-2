@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 桑田 佳祐 \*👉 <a href="https://spice.eplus.jp/articles/350433">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,016 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,007 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 73 | [すきになる](https://open.spotify.com/track/0eDvi7H4cgkYldH6Kvg1tX) | [さらば帝国](https://open.spotify.com/artist/5T2tJY3Aot8SKA5K9SYwW7) | [すきになる](https://open.spotify.com/album/3xqFO82nn6BXgBhDZIBRJD) | 2:13 |
 | 74 | [カカシ](https://open.spotify.com/track/7nx4FU8cEMOrKb8g0HA1bR) | [THE RAPTOLS](https://open.spotify.com/artist/0PfC73YU6spbJ76k2CRb3O) | [カカシ](https://open.spotify.com/album/4yD4PaTC7kF6AOM2jiQRo6) | 3:36 |
 
-Snapshot ID: `AAAAAHnlPzA+9GC+ykDoZfejIISrNTP2`
+Snapshot ID: `AAAAAM1rLJNubOwjBw47fhnTijv2NwQu`

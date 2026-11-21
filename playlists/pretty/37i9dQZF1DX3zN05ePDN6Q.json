@@ -1,13 +1,33 @@
 {
   "description": "boom bap renasce todo dia. Foto: Majis, Ci\u00e7a",
-  "num_followers": 90039,
+  "num_followers": 90042,
   "original_name": "Boom Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALGGWZXsD3ircDj5I+OYgRuiWMyw",
+  "snapshot_id": "AAAAAHvVClE7gcATpGOOTObT2LTgH7/m",
   "tracks": [
+    {
+      "added_at": "2026-11-20 03:01:49",
+      "album": {
+        "name": "ELE OU EU",
+        "url": "https://open.spotify.com/album/0L5wTiV0WFcU0O8STViSVa"
+      },
+      "artists": [
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "ELE OU EU",
+      "url": "https://open.spotify.com/track/2JzR21cU3q1QPi3YTI98B4"
+    },
     {
       "added_at": "2026-11-20 03:01:49",
       "album": {

@@ -2,7 +2,7 @@
 
 ### [State of Mind](https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC)
 
-> Up and down I\-95\. Cover: Westside Gunn
+> Up and down I\-95\. Cover: Fergie Baby
 
 2,238 songs - 4 day 5 hr 48 min
 

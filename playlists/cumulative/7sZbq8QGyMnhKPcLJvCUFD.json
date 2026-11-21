@@ -2703,6 +2703,28 @@
     },
     {
       "album": {
+        "name": "can't help myself",
+        "url": "https://open.spotify.com/album/1azCNb1eL8BtYRSpfv1GkW"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "hxrtly",
+          "url": "https://open.spotify.com/artist/5kQHsD2Du8pX3ECsgfdG7v"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122631,
+      "name": "can't help myself",
+      "url": "https://open.spotify.com/track/0qk0oErXjRy83VMzJN7jrj"
+    },
+    {
+      "album": {
         "name": "Can't Say No",
         "url": "https://open.spotify.com/album/3ChgqHnbhZNKP8bzyKOyVX"
       },
@@ -10630,6 +10652,32 @@
       "duration_ms": 197052,
       "name": "Make Me Move",
       "url": "https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5"
+    },
+    {
+      "album": {
+        "name": "Make Me Move (Alximo Remix)",
+        "url": "https://open.spotify.com/album/1wOmtGuh6el66hcWOaTQVb"
+      },
+      "artists": [
+        {
+          "name": "Culture Code",
+          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        },
+        {
+          "name": "Alximo",
+          "url": "https://open.spotify.com/artist/0YRuhTBk1GXQQSlHQjI3Yp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140250,
+      "name": "Make Me Move - Alximo Remix",
+      "url": "https://open.spotify.com/track/3S7BPgd1qnoN1HLVxPshSZ"
     },
     {
       "album": {

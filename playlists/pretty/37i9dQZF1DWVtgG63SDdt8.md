@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,465 likes - 99 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,621 likes - 99 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Empty \- Reimagined](https://open.spotify.com/track/0OCombqpiWh6SHIXVun8Ff) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Sharon Pearson](https://open.spotify.com/artist/6ghOSYkLNdetIfHLIRhgSd) | [Empty \(Reimagined\)](https://open.spotify.com/album/0w3Qx2badcORsX6ncXJ7Bc) | 4:41 |
 | 99 | [One Thing](https://open.spotify.com/track/5OIBtIGJwPbj60q2eZsLfa) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [Roll Out The Red Carpet \(Live\)](https://open.spotify.com/album/0xR3MqMHD6dB4tf3glkSYD) | 5:30 |
 
-Snapshot ID: `AAAAANxDRTAVdTxyk9dqLTFlOWZ2Rd/f`
+Snapshot ID: `AAAAAErmGZ6iO3LZhtSY/T9uv2Anx+/F`

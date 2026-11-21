@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111966,
+  "num_followers": 111965,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH2oVN7/+H9Cd0LEDnUl+EI89Hfj",
+  "snapshot_id": "AAAAACTxg4PTQ5pLSk4pDPnRdjpsHVda",
   "tracks": [
     {
       "added_at": "2024-03-12 14:33:08",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Shanghai Nights",
-      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Slowmotion",
         "url": "https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 148315,
       "name": "Slowmotion",
       "url": "https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Shanghai Nights",
+      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Myth",
-        "url": "https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s"
-      },
-      "artists": [
-        {
-          "name": "Ben Jammin' Beats",
-          "url": "https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi"
-        }
-      ],
-      "duration_ms": 115662,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Autumn Briefs",
         "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf"
+        "name": "Myth",
+        "url": "https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s"
       },
       "artists": [
         {
-          "name": "M.I Hakone",
-          "url": "https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v"
+          "name": "Ben Jammin' Beats",
+          "url": "https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi"
         }
       ],
-      "duration_ms": 124336,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400"
+      "duration_ms": 115662,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -807,6 +791,22 @@
       "duration_ms": 124235,
       "name": "Milk & Cookies",
       "url": "https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf"
+      },
+      "artists": [
+        {
+          "name": "M.I Hakone",
+          "url": "https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v"
+        }
+      ],
+      "duration_ms": 124336,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Time Brings Change",
-        "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
-      },
-      "artists": [
-        {
-          "name": "C4C",
-          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Through The Garden",
         "url": "https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 126486,
       "name": "Through The Garden",
       "url": "https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Time Brings Change",
+        "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Floating Free",
+        "url": "https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu"
+      },
+      "artists": [
+        {
+          "name": "Veritas",
+          "url": "https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj"
+        }
+      ],
+      "duration_ms": 248711,
+      "name": "Floating Free",
+      "url": "https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Everywhere Home",
         "url": "https://open.spotify.com/album/3hSioPf1pQddF0pUKDK2s0"
       },
@@ -995,34 +1011,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Floating Free",
-        "url": "https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu"
+        "name": "Surp",
+        "url": "https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83"
       },
       "artists": [
         {
-          "name": "Veritas",
-          "url": "https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj"
+          "name": "Wavy Naps",
+          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
         }
       ],
-      "duration_ms": 248711,
-      "name": "Floating Free",
-      "url": "https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "reality",
-        "url": "https://open.spotify.com/album/7zjk5CmvoP6k8M17vOrSc6"
-      },
-      "artists": [
-        {
-          "name": "mr.neab",
-          "url": "https://open.spotify.com/artist/2cZLcgAsOeknY8nJGwt5Bg"
-        }
-      ],
-      "duration_ms": 121481,
-      "name": "reality",
-      "url": "https://open.spotify.com/track/6eGpjRTgqSs8JfLPJcSSts"
+      "duration_ms": 154074,
+      "name": "Surp",
+      "url": "https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "CRAFT",
-        "url": "https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a"
+        "name": "reality",
+        "url": "https://open.spotify.com/album/7zjk5CmvoP6k8M17vOrSc6"
       },
       "artists": [
         {
-          "name": "Farazi",
-          "url": "https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg"
+          "name": "mr.neab",
+          "url": "https://open.spotify.com/artist/2cZLcgAsOeknY8nJGwt5Bg"
         }
       ],
-      "duration_ms": 166363,
-      "name": "BEACH",
-      "url": "https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe"
+      "duration_ms": 121481,
+      "name": "reality",
+      "url": "https://open.spotify.com/track/6eGpjRTgqSs8JfLPJcSSts"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Surp",
-        "url": "https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83"
+        "name": "CRAFT",
+        "url": "https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a"
       },
       "artists": [
         {
-          "name": "Wavy Naps",
-          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
+          "name": "Farazi",
+          "url": "https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg"
         }
       ],
-      "duration_ms": 154074,
-      "name": "Surp",
-      "url": "https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0"
+      "duration_ms": 166363,
+      "name": "BEACH",
+      "url": "https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Green Cats Cave",
-        "url": "https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o"
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/30XHpT09SCggYG5pq0pXqv"
       },
       "artists": [
         {
-          "name": "A\u00f6m",
-          "url": "https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf"
+          "name": "David Cutter Music",
+          "url": "https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF"
         }
       ],
-      "duration_ms": 162711,
-      "name": "Green Cats Cave",
-      "url": "https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J"
+      "duration_ms": 150230,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/2UZTfsfSUknvgAQwkg4fWX"
     }
   ],
   "unique_name": "Sunset Chill",

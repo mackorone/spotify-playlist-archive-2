@@ -1,13 +1,29 @@
 {
   "description": "from your FYP and beyond. Cover: Drake",
-  "num_followers": 2036060,
+  "num_followers": 2035704,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIMCBDtN+MGb6/ZXwn4/FXg9ATDm",
+  "snapshot_id": "AAAAAIbVV8mRBVCO1SAE8PVdyVSOqcAK",
   "tracks": [
+    {
+      "added_at": "2026-11-20 18:57:50",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 120865,
+      "name": "AHH YEA",
+      "url": "https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI"
+    },
     {
       "added_at": "2026-11-20 05:02:00",
       "album": {

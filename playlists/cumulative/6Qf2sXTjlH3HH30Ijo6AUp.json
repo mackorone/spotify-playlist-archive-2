@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 232468,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6IlndvOS9bIQjfYBxYAkG3"
@@ -2914,7 +2914,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 216826,
       "name": "Gold Dust",
       "url": "https://open.spotify.com/track/2E3DKXFLClONjv5v5XqdjP"
@@ -4060,6 +4060,24 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/40OyQFrLnXrebT6YHvk1ut"
+      },
+      "artists": [
+        {
+          "name": "Odhran Murphy",
+          "url": "https://open.spotify.com/artist/33flJthxKOZaTdeOZHJez0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180358,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/0jqNKeV79upzQ3BAI5vlxB"
     },
     {
       "album": {
@@ -5878,7 +5896,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 141428,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/6CNCGWiVR5NUZFtZMQxQBe"
@@ -8382,7 +8400,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 201806,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/3c4RoSCwI819I23g0JJX1S"

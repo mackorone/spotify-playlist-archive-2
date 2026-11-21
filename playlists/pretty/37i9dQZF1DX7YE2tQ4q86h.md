@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Slayyyter is THE main pop girl emergency✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,110 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,180 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [hey boyyy](https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [hey boyyy](https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga) | 4:38 |
 | 2 | [Hooves](https://open.spotify.com/track/1zhMSR3ocV1XDCmRq5HgCa) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Hooves](https://open.spotify.com/album/1ygCcvWb90Nmn1ySI4SY4I) | 2:18 |
-| 3 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:12 |
+| 3 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:11 |
 | 4 | [On And On](https://open.spotify.com/track/2vaDXEwnLHbnNtmf0o9NhS) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [On And On](https://open.spotify.com/album/7HYcKh7LOMwYQmFSsxma1Z) | 2:43 |
 | 5 | [Digital Girlfriend](https://open.spotify.com/track/4BuyW9oEVj7oliRL4P2kcs) | [Ruby Rose Turner](https://open.spotify.com/artist/6F8yrN99JnFHqSF9CZcj2V) | [Digital Girlfriend](https://open.spotify.com/album/00sDhwoeQA2f09emh8BPzo) | 2:51 |
 | 6 | [Blood In Your Eyes \(from GTAVI: The Album\)](https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Blood In Your Eyes \(from GTAVI: The Album\)](https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO) | 2:41 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 101 | [PARTIES IN LA](https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [PARTIES IN LA](https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw) | 2:28 |
 | 102 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 
-Snapshot ID: `AAAAAMiLn40HZ2lAqThJn6jH7OmQg3hP`
+Snapshot ID: `AAAAAIJFcyjnnArjxvCgSnZl0URxneXx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,185 likes - 199 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,219 likes - 199 songs - 11 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 198 | [If You Turn Back Now \- Live at Carnegie Hall](https://open.spotify.com/track/0v0BMYE3RHQI8vANQRCGd6) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Live at Carnegie Hall](https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt) | 5:37 |
 | 199 | [FF](https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:22 |
 
-Snapshot ID: `AAAAAEHNamQU5ZIU7F3fTpsmn6Z+inpv`
+Snapshot ID: `AAAAALcOJGmEjaR5eXVMPHtWM6R+ePBg`

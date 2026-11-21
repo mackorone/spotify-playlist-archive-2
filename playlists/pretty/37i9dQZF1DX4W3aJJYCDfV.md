@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Grand Theft Auto VI, Rema ft\. Wizkid, beabadoobee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,543 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,337 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 |
+| 1 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 |
 | 2 | [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 |
 | 3 | [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 |
 | 4 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 10 | [Candy Love](https://open.spotify.com/track/0LHZzgNNxHOVRwZh02mzWd) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Stargazer](https://open.spotify.com/album/5vbmIGe4EuGvdzMcOPxilt) | 2:44 |
 | 11 | [Break Ya Neck](https://open.spotify.com/track/65f7oyUrmKCKtb9cErD0Bp) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Here, Forever](https://open.spotify.com/album/2Ulg9K7ts7BP2nApQQrJf6) | 3:04 |
 | 12 | [HOUSE IS ON FIRE](https://open.spotify.com/track/0CbMwaXazqaiiP0m0Cqq3z) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [HOUSE IS ON FIRE](https://open.spotify.com/album/2b8zTYkFEC4SYEri4RXGlZ) | 2:52 |
-| 13 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
+| 13 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 14 | [Leave With Me](https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Leave With Me \(Featured in Always Lalisa\)](https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn) | 3:04 |
 | 15 | [TRDWFE \(from GTAVI: The Album\)](https://open.spotify.com/track/4EYS7wMKi6m0eqnWsbmJWD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [TRDWFE \(from GTAVI: The Album\)](https://open.spotify.com/album/2zNiwxpt15iD9uXomdz8pv) | 2:36 |
 | 16 | [Evil](https://open.spotify.com/track/33fdsT0aOPGhHe3YUaWQz4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Evil](https://open.spotify.com/album/2kd3EO629nFKikFxc7MpH4) | 3:00 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Actions](https://open.spotify.com/track/0YTpBIJP8QQXT73An0fxCF) | [MONOH](https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Actions](https://open.spotify.com/album/6yNSClN0hlc7jv7qwFGG8q) | 2:15 |
 | 99 | [Openness](https://open.spotify.com/track/2o4er8PAV3TeDWBjTZ9rnO) | [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [The 11th Hour](https://open.spotify.com/album/0pfRLdRxFCbjNtX7dREDyg) | 2:58 |
 
-Snapshot ID: `AAAAAH+m07SGkemKrpk1vMiOiX/Mmo+m`
+Snapshot ID: `AAAAABuKlAaIB58MK6sZFMpHt2wV9x3j`

@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Zach Bryan, Cody Johnson &amp; Cameron Whitcomb
 
-350 songs - 18 hr 48 min
+351 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-07-22 |  |
 | [Ain't Seen Nothing Yet](https://open.spotify.com/track/4gSKV3UqLQIGBWaUP43fNJ) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Blood, Sweat & Beers](https://open.spotify.com/album/3NEZ300hZRpbhOdHCmTlwQ) | 1:45 | 2026-10-23 |  |
 | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/track/2EiJiEYSo7vfryttFuDuIw) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/album/080pSIFP4RIZmTbyRrwsE0) | 3:14 | 2024-07-13 | 2026-11-07 |
-| [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2025-04-30 |  |
+| [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2025-04-30 | 2026-11-21 |
 | [Already Gone](https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Already Gone](https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou) | 2:49 | 2026-08-14 |  |
 | [Always Be Mine](https://open.spotify.com/track/7dG5PEETAeTTPGDBitMnOo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Always Be Mine](https://open.spotify.com/album/3JJQ2x9Egr2mHPlaeCFOUN) | 3:03 | 2024-07-06 | 2024-11-02 |
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-11-02 | 2026-05-05 |
@@ -112,6 +112,7 @@
 | [Girl In Green](https://open.spotify.com/track/3r5dLsCxsir9EIzl5NtMZB) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [First Dance](https://open.spotify.com/album/7N11EFT1PaUGiaNrzFGezt) | 2:11 | 2025-03-25 | 2026-11-07 |
 | [GOD & GUNS N’ ROSES](https://open.spotify.com/track/0ryWwDkI0VcjMYJBrN9Fir) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [GOD & GUNS N’ ROSES](https://open.spotify.com/album/5bnproodqEP0tHybDjDF72) | 3:36 | 2025-04-23 |  |
 | [Good Faith](https://open.spotify.com/track/57QLRAvrHOIkoU8yAU5WnZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Outlier](https://open.spotify.com/album/79zGm562qzMTvoxJtoHRn5) | 3:44 | 2026-11-06 |  |
+| [Good Lord](https://open.spotify.com/track/7v6GQMlq3Vejxue251OKvc) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Good Lord](https://open.spotify.com/album/20bzdjZZyvuHwoj9zY1xsI) | 2:48 | 2026-11-20 |  |
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-12-17 | 2026-11-07 |
 | [GRAVE](https://open.spotify.com/track/2YvricIxdfPXF8ztbHPcpP) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [let go letters](https://open.spotify.com/album/0u2pxDH76QyAKifAdQykXg) | 3:11 | 2025-05-24 | 2026-11-07 |
 | [Growin’ Up Raising You](https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Growin’ Up Raising You](https://open.spotify.com/album/1jdW9gWypFKDZvnStebVG5) | 3:15 | 2023-12-08 | 2024-01-13 |

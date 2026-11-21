@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-710 songs - 2 day 0 hr 6 min
+711 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [Soul](https://open.spotify.com/track/1wqLqn1y8nrmm97RZdYlCL) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [JustOG](https://open.spotify.com/artist/6sVnlgchiVPQOsqMkNlQvV), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Soul](https://open.spotify.com/album/553RUHvkweFtnFVeaV8SX4) | 2:24 | 2025-10-17 | 2025-11-28 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-09-27 | 2025-02-07 |
 | [Steadfast \(Give Thanks\)](https://open.spotify.com/track/4pNHkvZiVOqsKmlpZTxRmn) | [James Pringle](https://open.spotify.com/artist/6zkTqZtCq2WEPpDCWg7NxT), [Langa Mbonambi](https://open.spotify.com/artist/66InXHufoSqNQGp5zOaH5S) | [Steadfast \(Give Thanks\)](https://open.spotify.com/album/6bKKYFu1giy5HRRo2LXG2P) | 4:38 | 2026-08-21 | 2026-08-28 |
+| [Steps](https://open.spotify.com/track/6Y38oLBkVNVhKxZyi8A6Dv) | [Miracle Paul](https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Steps](https://open.spotify.com/album/13SWcyFtYqRDuOgOvC2i6t) | 3:03 | 2026-11-13 |  |
 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 | 2026-05-29 | 2026-10-27 |
 | [Sunday Prayer](https://open.spotify.com/track/0QPQRZ7E729E6IqmSdIQGj) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sunday Prayer](https://open.spotify.com/album/0NxPkzXdu69FShASmeWzQP) | 3:03 | 2025-10-03 | 2026-02-27 |
 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 | 2025-07-18 | 2025-10-31 |
@@ -688,7 +689,7 @@
 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 | 2024-09-27 |  |
 | [You are the reason](https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Still](https://open.spotify.com/album/4b3zDcT5IgrA6MTPRo4qvy) | 2:24 | 2026-11-06 |  |
 | [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 | 2025-06-27 | 2025-08-08 |
-| [You Are There](https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX) | [You Are There](https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm) | 6:21 | 2026-02-20 |  |
+| [You Are There](https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX) | [You Are There](https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm) | 6:21 | 2026-02-20 | 2026-11-21 |
 | [You Are Yahweh](https://open.spotify.com/track/7Cfe74owuRtozH7Yyx3WSI) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You Are Yahweh](https://open.spotify.com/album/5jx5lmaMmzQZ6NA4QWiDfp) | 4:38 | 2024-09-30 | 2025-11-28 |
 | [You Light up My World](https://open.spotify.com/track/3tOpvUIflyoYJOGF8XgnfL) | [Rayen Drapper](https://open.spotify.com/artist/5q4vaBtxc1QBQADgAw8Idw), [The Excentric](https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3) | [You Light up My World](https://open.spotify.com/album/3o8LzmiJVGc8Hv800JhMIa) | 2:17 | 2025-06-20 | 2025-07-11 |
 | [You Love Me](https://open.spotify.com/track/19GWStqMBCbCN4dmWu7D9H) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [You Love Me](https://open.spotify.com/album/7JhjE23QaNnQxa4nT3AQBk) | 3:26 | 2025-04-18 | 2025-06-06 |

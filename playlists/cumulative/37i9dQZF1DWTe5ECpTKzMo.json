@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. Russo en portada.",
+  "description": "La tierra del Rap de oro puro. Ian Cordova en portada.",
   "name": "Hip-Hop MX 24k",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 291314,
       "name": "A Toda Hora",
       "url": "https://open.spotify.com/track/7AApA6u8jKnrQwhOtZ8EvF"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 229813,
       "name": "El Catr\u00edn",
       "url": "https://open.spotify.com/track/5ZEtlzWIMKPyLcZUbTbn5w"
@@ -1860,6 +1860,24 @@
       "duration_ms": 196000,
       "name": "La Pichichi",
       "url": "https://open.spotify.com/track/3obRLzzRD1CAy1wfU9DCqI"
+    },
+    {
+      "album": {
+        "name": "La Plebada",
+        "url": "https://open.spotify.com/album/5daBg4nUJUUXpaCqu1LaEK"
+      },
+      "artists": [
+        {
+          "name": "Los Comandos",
+          "url": "https://open.spotify.com/artist/3RAAVsS7QjNsiLkRe083Ay"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127358,
+      "name": "La Plebada",
+      "url": "https://open.spotify.com/track/2i5UayaXWLZO1o6vzqvTSX"
     },
     {
       "album": {
@@ -2885,6 +2903,50 @@
     },
     {
       "album": {
+        "name": "PH19",
+        "url": "https://open.spotify.com/album/2vmreCXk68D1B2UGfTHsuX"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214491,
+      "name": "Patto D'Onore",
+      "url": "https://open.spotify.com/track/4ac4YpE0VkHBx14OuASWXI"
+    },
+    {
+      "album": {
+        "name": "Patto D'Onore",
+        "url": "https://open.spotify.com/album/1vJRjA9VNAjpLLNlOiJMUW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214491,
+      "name": "Patto D'Onore",
+      "url": "https://open.spotify.com/track/6je1urczCCZLzhKDwJGXkm"
+    },
+    {
+      "album": {
         "name": "PDC",
         "url": "https://open.spotify.com/album/5iWSCExZCT7cIZnNqRYxNY"
       },
@@ -3206,7 +3268,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
@@ -3276,6 +3338,24 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "album": {
+        "name": "Parece Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0Re3fo7qmcnoCp5vGuqiy1"
+      },
+      "artists": [
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Rey Salmon",
+      "url": "https://open.spotify.com/track/4aYHnE7rBSpNVMhtpMQPdr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Zoë Livay \(Spotify <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,940 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,957 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Luzacstraat](https://open.spotify.com/track/5IH1bXoWQd64kOIwfpT1Kc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Kijk Je Naar Mij?](https://open.spotify.com/album/0Dmabzo3P2nHBYb0fWpDZu) | 3:00 |
 | 80 | [Stuurloos](https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Stuurloos](https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1) | 2:40 |
 
-Snapshot ID: `AAAAAGfSoD5yR2zmGaqV3SFvNlScS3yG`
+Snapshot ID: `AAAAAIM2e9luUD87fQsu34KPt1p8tTYU`

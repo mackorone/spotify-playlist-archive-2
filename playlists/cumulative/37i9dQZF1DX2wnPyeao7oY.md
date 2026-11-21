@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: nighlight
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: nightlight
 
 1,024 songs - 2 day 11 hr 46 min
 

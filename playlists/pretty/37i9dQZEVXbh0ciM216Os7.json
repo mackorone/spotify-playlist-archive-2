@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAaKNOdY3q1c1+TcZN9Zii7Rm6dt",
+  "snapshot_id": "AAAAAGMSN9UP2scFIUhDBNXzxfQGKdRT",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:00",
@@ -51,6 +51,30 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
+        "name": "Electric Future Gangster",
+        "url": "https://open.spotify.com/album/1TQAwsDbmpDimK8nMyxZU7"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 272292,
+      "name": "Hell Nah",
+      "url": "https://open.spotify.com/track/4hqYSmz7ZNXPJwhiNDV3hb"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
         "name": "Thank God It's Christmas... Again!",
         "url": "https://open.spotify.com/album/5uVEnSIzW6j6u4BOgRQcLs"
       },
@@ -83,6 +107,22 @@
       "duration_ms": 293760,
       "name": "Alone In A Crowd - Remastered 2021",
       "url": "https://open.spotify.com/track/3EvP0TJmgGWrn10OUmUOM1"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 184875,
+      "name": "Sweet Like Candy",
+      "url": "https://open.spotify.com/track/1QusS0DZ2KK8ukxsAoFZPK"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -163,22 +203,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Grand Theft Auto VI: The Album",
-        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 184875,
-      "name": "Sweet Like Candy",
-      "url": "https://open.spotify.com/track/1QusS0DZ2KK8ukxsAoFZPK"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "WELCOME (feat. Eminem)",
         "url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd"
       },
@@ -199,26 +223,6 @@
       "duration_ms": 162412,
       "name": "WELCOME (feat. Eminem)",
       "url": "https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Heavy Is The Crown",
-        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 88586,
-      "name": "Airbender",
-      "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -284,17 +288,21 @@
           "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         },
         {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
-          "name": "Cormega",
-          "url": "https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8"
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Kyah Baby",
+          "url": "https://open.spotify.com/artist/7Fkz3rPi9NU6jw2f5yxzWY"
         }
       ],
-      "duration_ms": 226447,
-      "name": "Brolic",
-      "url": "https://open.spotify.com/track/6dRYsxmtk5bjOVGBvuzQ8g"
+      "duration_ms": 167363,
+      "name": "Dominant Confidence",
+      "url": "https://open.spotify.com/track/1gLCXfNCSYOCHkfxxBMlpX"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -315,22 +323,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205845,
-      "name": "petal - angry live version",
-      "url": "https://open.spotify.com/track/2u9Fh3hOKD4JPWyb8JvHeM"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "Horseback (Special Edition)",
         "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
       },
@@ -343,6 +335,22 @@
       "duration_ms": 167373,
       "name": "Horseback - Special Edition",
       "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205845,
+      "name": "petal - angry live version",
+      "url": "https://open.spotify.com/track/2u9Fh3hOKD4JPWyb8JvHeM"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -379,22 +387,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Bass X Machina (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/5TYPpGgTI1V9xNK1YX8ubU"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 150037,
-      "name": "HONOR KiLLING (Main Titles)",
-      "url": "https://open.spotify.com/track/4LWAK40UqU7QxiQKNRN480"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "Next Time, Believe Me",
         "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
       },
@@ -411,6 +403,22 @@
       "duration_ms": 123472,
       "name": "Next Time, Believe Me",
       "url": "https://open.spotify.com/track/0RDqgzJOIyDblSzcQprisc"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Bass X Machina (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5TYPpGgTI1V9xNK1YX8ubU"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 150037,
+      "name": "HONOR KiLLING (Main Titles)",
+      "url": "https://open.spotify.com/track/4LWAK40UqU7QxiQKNRN480"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -443,26 +451,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Dooley Wap",
-        "url": "https://open.spotify.com/album/0N7M20RMx526EAJ9VZ9dqZ"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        }
-      ],
-      "duration_ms": 223566,
-      "name": "Dooley Wap",
-      "url": "https://open.spotify.com/track/5Mav4sj55v2tLwx0iL1Som"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "No Gas",
         "url": "https://open.spotify.com/album/5z9QdvSbQ5zZ59SFaM0Vbr"
       },
@@ -479,6 +467,26 @@
       "duration_ms": 170666,
       "name": "No Gas",
       "url": "https://open.spotify.com/track/64OHtiwZoSclo8HoHr50R7"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Dooley Wap",
+        "url": "https://open.spotify.com/album/0N7M20RMx526EAJ9VZ9dqZ"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "Dooley Wap",
+      "url": "https://open.spotify.com/track/5Mav4sj55v2tLwx0iL1Som"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -551,6 +559,22 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
+        "name": "Saturday Night Special",
+        "url": "https://open.spotify.com/album/02HBLc2f2YYFHCrZgzwuKB"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 142481,
+      "name": "Saturday Night Special",
+      "url": "https://open.spotify.com/track/0oCg92LLjPhNnhsc3P88wP"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
         "name": "Dancing On The Wall (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE"
       },
@@ -567,22 +591,6 @@
       "duration_ms": 271230,
       "name": "So What - Arlo Parks Summer Was Ecstasy Version",
       "url": "https://open.spotify.com/track/1WYRF7RM8hsBe4edlS4Lze"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Saturday Night Special",
-        "url": "https://open.spotify.com/album/02HBLc2f2YYFHCrZgzwuKB"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 142481,
-      "name": "Saturday Night Special",
-      "url": "https://open.spotify.com/track/0oCg92LLjPhNnhsc3P88wP"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -615,22 +623,6 @@
       "duration_ms": 315824,
       "name": "Returns",
       "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Hell Or High Water",
-        "url": "https://open.spotify.com/album/4k3syhWjhgTAoxITEmyqED"
-      },
-      "artists": [
-        {
-          "name": "\u30a4\u30f3\u30b0\u30f4\u30a7\u30a4\u30fb\u30de\u30eb\u30e0\u30b9\u30c6\u30a3\u30fc\u30f3",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "(On The) Battlefield",
-      "url": "https://open.spotify.com/track/5NjXiw0GLZiUQ2jHsXp0XJ"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -691,6 +683,22 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
+        "name": "Hell Or High Water",
+        "url": "https://open.spotify.com/album/4k3syhWjhgTAoxITEmyqED"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30f3\u30b0\u30f4\u30a7\u30a4\u30fb\u30de\u30eb\u30e0\u30b9\u30c6\u30a3\u30fc\u30f3",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "(On The) Battlefield",
+      "url": "https://open.spotify.com/track/5NjXiw0GLZiUQ2jHsXp0XJ"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
         "name": "Live in London",
         "url": "https://open.spotify.com/album/6iUzScK0kAxb8XcImftCj6"
       },
@@ -703,6 +711,22 @@
       "duration_ms": 251800,
       "name": "Trouble Shooter - Live: O2 Arena, London \u2013 October 29, 2016",
       "url": "https://open.spotify.com/track/7B1mClEw0rgL6kzaAaxKUy"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "I Want A Rocket (From \"Club Kid\")",
+        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 282668,
+      "name": "I Want A Rocket - From \"Club Kid\"",
+      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -723,22 +747,6 @@
       "duration_ms": 171330,
       "name": "Tesra for Piano",
       "url": "https://open.spotify.com/track/3NG22KKplOm5AjObTLluIW"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "I Want A Rocket (From \"Club Kid\")",
-        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 282668,
-      "name": "I Want A Rocket - From \"Club Kid\"",
-      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
     },
     {
       "added_at": "2026-11-20 05:00:00",

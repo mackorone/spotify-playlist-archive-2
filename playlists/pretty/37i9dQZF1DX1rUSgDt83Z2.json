@@ -1,12 +1,12 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 82188,
+  "num_followers": 82197,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACwzlR4wFpYHXKOeEFSfR1/pI9B3",
+  "snapshot_id": "AAAAACNZmm2JZYLxVghG8b4POMQmrVPN",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:42",
@@ -143,8 +143,8 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Huisje Aan De Zee",
-        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
         }
       ],
-      "duration_ms": 166815,
-      "name": "Huisje Aan De Zee",
-      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
+      "duration_ms": 173031,
+      "name": "Patronen",
+      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -235,8 +235,8 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Vrouw Van De Wereld",
-        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
+        "name": "Huisje Aan De Zee",
+        "url": "https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
         }
       ],
-      "duration_ms": 173031,
-      "name": "Patronen",
-      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
+      "duration_ms": 166815,
+      "name": "Huisje Aan De Zee",
+      "url": "https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
+        "name": "Zaterdag",
+        "url": "https://open.spotify.com/album/6XjibqogPY8nHCfO6LxBwv"
+      },
+      "artists": [
+        {
+          "name": "Sabien",
+          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
+        }
+      ],
+      "duration_ms": 183794,
+      "name": "Zaterdag (Akoestisch)",
+      "url": "https://open.spotify.com/track/0ruFNPpOJweogVfyfBadpD"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
         "name": "Ook Maar Een Mens",
         "url": "https://open.spotify.com/album/1PiffcQz64z5cW7A4PedKe"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 207133,
       "name": "Ook Maar Een Mens",
       "url": "https://open.spotify.com/track/1ANI5lXz3XUycm6tTOxZ7Q"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
-        "name": "Zaterdag",
-        "url": "https://open.spotify.com/album/6XjibqogPY8nHCfO6LxBwv"
-      },
-      "artists": [
-        {
-          "name": "Sabien",
-          "url": "https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o"
-        }
-      ],
-      "duration_ms": 183794,
-      "name": "Zaterdag (Akoestisch)",
-      "url": "https://open.spotify.com/track/0ruFNPpOJweogVfyfBadpD"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
+        "name": "Teveel Is Niet Genoeg",
+        "url": "https://open.spotify.com/album/7gRDr3BmTd9R0XnlOgjJE7"
+      },
+      "artists": [
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "duration_ms": 199134,
+      "name": "Waar Heb Je Op Gewacht",
+      "url": "https://open.spotify.com/track/0ZPXDZWfZCFECzPS39PZYj"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
         "name": "Tijd Genoeg",
         "url": "https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 155899,
       "name": "Als je dat maar weet",
       "url": "https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
-        "name": "Onder Mijn Huid",
-        "url": "https://open.spotify.com/album/26sxmbUvqKpa88X0XzoeWR"
-      },
-      "artists": [
-        {
-          "name": "FLEUR",
-          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Daarboven",
-      "url": "https://open.spotify.com/track/16LnFe5k54hGXBdOA2mwN3"
     }
   ],
   "unique_name": "Helemaal NL",

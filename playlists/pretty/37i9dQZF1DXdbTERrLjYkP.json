@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Grace Enger",
-  "num_followers": 219628,
+  "num_followers": 219634,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQhqzeFTYmiRV7JOcjIAa+91lES",
+  "snapshot_id": "AAAAAFgblsGWyHqrj6CpewHwZ1BWNDJy",
   "tracks": [
     {
       "added_at": "2026-11-20 05:14:19",
@@ -39,6 +39,38 @@
       "duration_ms": 188996,
       "name": "Belle Of The Ball",
       "url": "https://open.spotify.com/track/4BMSTla2bxnKi2GV3DnWSg"
+    },
+    {
+      "added_at": "2026-11-21 03:20:34",
+      "album": {
+        "name": "Slip Knot",
+        "url": "https://open.spotify.com/album/0BwFjrDaxQGwfF1XAT9nAt"
+      },
+      "artists": [
+        {
+          "name": "Syd Hudson",
+          "url": "https://open.spotify.com/artist/0RQfr3D9JzuXGAak4PLYUR"
+        }
+      ],
+      "duration_ms": 178431,
+      "name": "Slip Knot",
+      "url": "https://open.spotify.com/track/2hmobee62KB9XJUH6rtE2f"
+    },
+    {
+      "added_at": "2026-11-21 03:14:42",
+      "album": {
+        "name": "Me, myself and I",
+        "url": "https://open.spotify.com/album/5We74rgkbzaokVKhBT0fll"
+      },
+      "artists": [
+        {
+          "name": "Leyla Sabo",
+          "url": "https://open.spotify.com/artist/2q5r36O9E3LiI3tu0eVtGy"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Me, myself and I",
+      "url": "https://open.spotify.com/track/5HsJa1eoK3PW1nxoZqAiH0"
     },
     {
       "added_at": "2026-11-20 05:14:19",
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2026-07-10 15:28:37",
       "album": {
-        "name": "Hurts",
-        "url": "https://open.spotify.com/album/5kRVr5kcCtBZuIL6C5aycN"
-      },
-      "artists": [
-        {
-          "name": "Kerr Mercer",
-          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL"
-    },
-    {
-      "added_at": "2026-07-10 15:28:37",
-      "album": {
         "name": "SIDES OF MY PEN",
         "url": "https://open.spotify.com/album/12IL9L3DtwEbkJ7q3JYts0"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 165221,
       "name": "SIDES OF MY PEN",
       "url": "https://open.spotify.com/track/3MKfTmgTZbA9i2hL57mzTU"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
-        "name": "FRANKENSTEIN",
-        "url": "https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "FRANKENSTEIN",
-      "url": "https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

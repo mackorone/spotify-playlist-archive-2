@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,845 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,846 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 21 | [Satisfaction](https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [FONVILLE](https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 1:42 |
 | 22 | [Aragon](https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:55 |
 | 23 | [Papa Was A Rolling Stone](https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:33 |
-| 24 | [Sunshine \- Demo](https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:00 |
-| 25 | [What You Won't Do For Love](https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [No Stranger To Love](https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5) | 5:50 |
+| 24 | [What You Won't Do For Love](https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [No Stranger To Love](https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5) | 5:50 |
+| 25 | [Sunshine \- Demo](https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:00 |
 | 26 | [Can't You See Me](https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 6:58 |
 | 27 | [Searching](https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 5:05 |
 | 28 | [Hey Lover](https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 2:22 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 46 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 |
 | 47 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 |
 | 48 | [Slip n' Slide](https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Might Be Surprised \(Expanded Edition\)](https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6) | 4:29 |
-| 49 | [Dangerous Vibes \(Emmaculate Remix / Edit\)](https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W) | 3:25 |
-| 50 | [Good To Me featuring Roy Ayers](https://open.spotify.com/track/4tkHOrHOLYOR6tirUYnczt) | [Down To The Bone](https://open.spotify.com/artist/6LTnvdWwpOFwGtVIOrhwZb), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Future Boogie](https://open.spotify.com/album/0OBtOp7tSMC6FHJLRazIKk) | 7:36 |
+| 49 | [Good To Me featuring Roy Ayers](https://open.spotify.com/track/4tkHOrHOLYOR6tirUYnczt) | [Down To The Bone](https://open.spotify.com/artist/6LTnvdWwpOFwGtVIOrhwZb), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Future Boogie](https://open.spotify.com/album/0OBtOp7tSMC6FHJLRazIKk) | 7:36 |
+| 50 | [Dangerous Vibes \(Emmaculate Remix / Edit\)](https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W) | 3:25 |
 
-Snapshot ID: `avzqgAAAAADyYHzMFe/jG4laDdPdaL79`
+Snapshot ID: `av48AAAAAAARWKgcJp+9HC9kUOMApgu/`

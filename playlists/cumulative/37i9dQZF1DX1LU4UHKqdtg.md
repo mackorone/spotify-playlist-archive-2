@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: NAYEON
 
-1,873 songs - 4 day 2 hr 13 min
+1,874 songs - 4 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1313,6 +1313,7 @@
 | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/6Q6xoyS5cJ8jQbsJhcahEt) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/album/3rytWLCteW328NgdL5E6PA) | 3:02 | 2022-07-28 | 2022-10-05 |
 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 | 2026-09-04 | 2026-10-23 |
 | [Say It](https://open.spotify.com/track/2oDizoGsTI166tSrBsotGT) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Say It](https://open.spotify.com/album/7uXc6ya1gTIT7JtnKtqXEW) | 3:04 | 2026-06-25 | 2026-08-12 |
+| [SAY IT TO MY FACE](https://open.spotify.com/track/3hKmy6Y5qzkx7xqA3u4tC6) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ICONIC](https://open.spotify.com/album/25h8LIMoPhLF8f5kT2BuIk) | 3:09 | 2026-11-20 |  |
 | [Say My Name](https://open.spotify.com/track/07LJ6qegqwX8rRm37SxwRN) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY, Lover](https://open.spotify.com/album/77XpHSPU2ctQxUhgVgekoX) | 2:39 | 2025-11-05 | 2026-04-22 |
 | [Say My Name](https://open.spotify.com/track/2lDOkJgVMNz4iMmoAHhhqC) | [Say Yes!](https://open.spotify.com/artist/7sPKpBhx7fwPp9wMGYvQJI) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:19 | 2023-04-10 | 2023-06-28 |
 | [SCARLET](https://open.spotify.com/track/0Z8bWd7z22v31G4pWdnpRX) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [DOOR](https://open.spotify.com/album/6pPe2DC79gdVq5SiQG6TuK) | 3:44 | 2022-09-20 | 2022-11-18 |

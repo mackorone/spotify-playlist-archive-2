@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "4 DA POPPIN'",
+        "url": "https://open.spotify.com/album/7hKjdSxPxbEumo52i77huI"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176118,
+      "name": "BALOTELLI (SUPA)",
+      "url": "https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU"
+    },
+    {
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 123000,
       "name": "BeBe",
       "url": "https://open.spotify.com/track/5GZTusIWd5rWT6QlQ3RVb3"
@@ -4208,7 +4226,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 171584,
       "name": "El Classico",
       "url": "https://open.spotify.com/track/1Q0SAIQM1UwhMo1niXOB5M"
@@ -6777,6 +6795,28 @@
     },
     {
       "album": {
+        "name": "Time and Space",
+        "url": "https://open.spotify.com/album/0DHDiiApo6bKBpz1UfZuQH"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Jaiye (feat. FOLA)",
+      "url": "https://open.spotify.com/track/44ymppaLcjHZmRDqlojZbL"
+    },
+    {
+      "album": {
         "name": "Jaiye (Ihe Geme)",
         "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
       },
@@ -7584,7 +7624,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 229811,
       "name": "KOWOPE",
       "url": "https://open.spotify.com/track/5mMkcsSWFnSzFsh9RF9NPO"
@@ -8757,6 +8797,28 @@
     },
     {
       "album": {
+        "name": "Money In A Wheelbarrow",
+        "url": "https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151909,
+      "name": "Money In A Wheelbarrow",
+      "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
       },
@@ -9118,7 +9180,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 202758,
       "name": "Na Money",
       "url": "https://open.spotify.com/track/3t1pZTZDedrrHRbxlXeVA1"
@@ -13694,6 +13756,24 @@
       "duration_ms": 193790,
       "name": "Where You Dey Go (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0Dxn6EaJKcjQuLg8gzviIH"
+    },
+    {
+      "album": {
+        "name": "WHITE LAMBO",
+        "url": "https://open.spotify.com/album/3FaUK0uSyAxqfdfW26VuZv"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "WHITE LAMBO",
+      "url": "https://open.spotify.com/track/1tTWlIdLDCWepo55CRkU0w"
     },
     {
       "album": {

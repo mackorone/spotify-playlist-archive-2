@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Brunello
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,891 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,916 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Password](https://open.spotify.com/track/468W5Xam03SaZ7AEjvtGzG) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8), [Genish](https://open.spotify.com/artist/12rfpY7qPWCqM5kN8q1Ry1), [Alon Aboutboul](https://open.spotify.com/artist/4gPrtFqjAIU9dqcGlJ3HN2) | [Password](https://open.spotify.com/album/3Z5WB0hymx6X1at5tI9gws) | 3:41 |
 | 2 | [Low Effort](https://open.spotify.com/track/1wea00ieN9teG7W91s9bau) | [Steve N](https://open.spotify.com/artist/0he1A3HWxtr44Ifk21DNKH), [Mert Erkan](https://open.spotify.com/artist/3aRIQ7ZH2Z4p5GO2IImSfn) | [Low Effort](https://open.spotify.com/album/6WkCtbdfhajq1uMd3ATa6S) | 3:28 |
 | 3 | [Clown Shoes](https://open.spotify.com/track/3PfdD5fDE4tIF1qU6y60a9) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU) | [Clown Shoes](https://open.spotify.com/album/4PSgcmIAvZn0x642mqrXPi) | 6:21 |
-| 4 | [Can't trust](https://open.spotify.com/track/1yiY5TDDwhaoMo9fxQZWEL) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Nick Tew](https://open.spotify.com/artist/6kAltUK8dRKYEec1oMHSpG), [Samson](https://open.spotify.com/artist/2qVxcqQOKs71tTbtmLWabN) | [Can't trust](https://open.spotify.com/album/18ZtbVrKS0ujkYn6JVFidf) | 4:04 |
+| 4 | [Can't Trust](https://open.spotify.com/track/1yiY5TDDwhaoMo9fxQZWEL) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Nick Tew](https://open.spotify.com/artist/6kAltUK8dRKYEec1oMHSpG), [Samson](https://open.spotify.com/artist/2qVxcqQOKs71tTbtmLWabN) | [Can't Trust](https://open.spotify.com/album/18ZtbVrKS0ujkYn6JVFidf) | 4:04 |
 | 5 | [Promise](https://open.spotify.com/track/5pa3Rblf2AbLWr02CmvQ9a) | [Auggië](https://open.spotify.com/artist/5NExMFya2Tu4I4DlTHKOMe), [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Promise](https://open.spotify.com/album/1Mcyg6pxYjil9wBNdkjbht) | 5:44 |
 | 6 | [Burn Me Down](https://open.spotify.com/track/56xw1tdkoN3xeGvessiHqb) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Burn Me Down](https://open.spotify.com/album/1MJs5zVGOSUTa1LErbwRIo) | 2:39 |
 | 7 | [Personal](https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Personal](https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [U Ain't Lyin'](https://open.spotify.com/track/2Jiax1WNF2PvupJP0Rn6EL) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [All Stars 10](https://open.spotify.com/album/4BgswkEYUQ1Cn7WVXbDwYi) | 3:35 |
 | 100 | [Supersonic](https://open.spotify.com/track/7AR28GCSNaTSOeO2vTIpEx) | [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj) | [Supersonic](https://open.spotify.com/album/10aJoyfBqpfg1NA6gLmgep) | 5:42 |
 
-Snapshot ID: `AAAAAAJFgGw1q+laStp8c0OsuTkpMVUp`
+Snapshot ID: `AAAAAPuyc00sGoJmRrtLZ3OVGmZZpPDe`

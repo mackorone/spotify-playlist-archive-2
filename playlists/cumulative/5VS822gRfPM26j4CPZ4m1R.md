@@ -4,7 +4,7 @@
 
 > Playlist
 
-668 songs - 1 day 15 hr 32 min
+669 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Mushroom Kingdom](https://open.spotify.com/track/6C40VUwa4lNFJDReMXxtJB) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy), [Zoë Fox and the Rocket Clocks](https://open.spotify.com/artist/2A9Ed9zQfvv9Ns78PDEagE) | [Mushroom Kingdom](https://open.spotify.com/album/5UmChVJOC7yIyp5ZFgcf4H) | 2:59 | 2023-10-25 |  |
 | [Music in the Village](https://open.spotify.com/track/2hZgmZlpOanu4MWp7DyO2S) | [RMZ](https://open.spotify.com/artist/1Oynd9dV5i5f8DBTjZhwzg) | [Music in the Village](https://open.spotify.com/album/11kGJnXlBucIVIIBsbgHov) | 5:16 | 2023-10-25 |  |
 | [My Baby Blues](https://open.spotify.com/track/1HTsTRZPDYWzShikgyZNH1) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Stay Around](https://open.spotify.com/album/4ucx366gQtYYZLU2XRGDXz) | 3:04 | 2023-10-25 |  |
+| [My Living Room](https://open.spotify.com/track/6N0SQvbChzzupoNGis0sOe) | [Chuck Suave](https://open.spotify.com/artist/3AsoN7oDEpiTlHy9cJHz6A) | [My Living Room](https://open.spotify.com/album/4UNdDJhOx9c1N2EUGxMJPe) | 3:42 | 2026-11-20 |  |
 | [N Seoul Tower](https://open.spotify.com/track/7eC0BPXH3NkNSwAPqyM83T) | [Aaron Joseph Russo](https://open.spotify.com/artist/5TYkSC09ELxgz8OEgLRzOU) | [N Seoul Tower](https://open.spotify.com/album/0tAzqKIDlC4UuIQpsodljo) | 3:27 | 2023-10-25 |  |
 | [Needin'](https://open.spotify.com/track/4SnuTNap0vwzg5IOjQEzXp) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Future Plans](https://open.spotify.com/album/6OIg0UtNM5vE2BSgXxtZHv) | 2:52 | 2023-10-25 |  |
 | [Network](https://open.spotify.com/track/4VH2JbTRoFP0llxwMVfsll) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Peer 2 Peer](https://open.spotify.com/album/0yj7MLtNm1dfYoiqU0hONP) | 3:18 | 2023-10-25 |  |

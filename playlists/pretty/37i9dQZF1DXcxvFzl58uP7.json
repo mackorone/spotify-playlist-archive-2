@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Gabriela Bee",
-  "num_followers": 1150544,
+  "num_followers": 1150553,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOaM/7j1OflKBtneGCX5NKigARWM",
+  "snapshot_id": "AAAAAO2/tAB/fBraabb5stCf0U+apqZa",
   "tracks": [
     {
       "added_at": "2026-11-20 05:03:10",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-11-20 05:03:10",
       "album": {
+        "name": "casandra",
+        "url": "https://open.spotify.com/album/2Isyha8kYfpcmi5VZijLyY"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "casandra",
+      "url": "https://open.spotify.com/track/5xxlq2rPFNbO3uTi8bRNUe"
+    },
+    {
+      "added_at": "2026-11-20 05:03:10",
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
-    },
-    {
-      "added_at": "2026-11-20 05:03:10",
-      "album": {
-        "name": "casandra",
-        "url": "https://open.spotify.com/album/2Isyha8kYfpcmi5VZijLyY"
-      },
-      "artists": [
-        {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        },
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "casandra",
-      "url": "https://open.spotify.com/track/5xxlq2rPFNbO3uTi8bRNUe"
     },
     {
       "added_at": "2026-11-20 05:03:10",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-11-20 05:03:10",
       "album": {
-        "name": "The Bed I Made",
-        "url": "https://open.spotify.com/album/0SnCg2Vli2V2i5sh21E4lp"
-      },
-      "artists": [
-        {
-          "name": "The Softies",
-          "url": "https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "I Said What I Said",
-      "url": "https://open.spotify.com/track/2etUjNggUGmR9rbD91qvzP"
-    },
-    {
-      "added_at": "2026-11-20 05:03:10",
-      "album": {
         "name": "make you cry",
         "url": "https://open.spotify.com/album/1GGtED4kpxgLY2BDVlmlX3"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 154718,
       "name": "make you cry",
       "url": "https://open.spotify.com/track/3kD93YRdJxY2rJZpPyCWES"
+    },
+    {
+      "added_at": "2026-11-20 05:03:10",
+      "album": {
+        "name": "The Bed I Made",
+        "url": "https://open.spotify.com/album/0SnCg2Vli2V2i5sh21E4lp"
+      },
+      "artists": [
+        {
+          "name": "The Softies",
+          "url": "https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "I Said What I Said",
+      "url": "https://open.spotify.com/track/2etUjNggUGmR9rbD91qvzP"
     },
     {
       "added_at": "2026-11-20 05:03:10",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-11-20 05:03:10",
       "album": {
-        "name": "If Only With You",
-        "url": "https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 194388,
-      "name": "If Only With You",
-      "url": "https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5"
-    },
-    {
-      "added_at": "2026-11-20 05:03:10",
-      "album": {
         "name": "gum",
         "url": "https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 221120,
       "name": "gum v6.4",
       "url": "https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a"
+    },
+    {
+      "added_at": "2026-11-20 05:03:10",
+      "album": {
+        "name": "If Only With You",
+        "url": "https://open.spotify.com/album/7IOq1qMeQV9EGN2T9VefyQ"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 194388,
+      "name": "If Only With You",
+      "url": "https://open.spotify.com/track/2PIvjua6UjS2tnPHXLCNn5"
     },
     {
       "added_at": "2026-11-20 05:03:10",

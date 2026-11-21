@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 421269,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 178709,
       "name": "COMO FUERA",
       "url": "https://open.spotify.com/track/7vWP4YzXQVp0BuP8IbVE5i"
@@ -3067,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+        "url": "https://open.spotify.com/album/7hvLc1GT15iRwqmOkw8yP9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192170,
+      "name": "I Knew It, I Knew You x Our Song - Live From The 60th CMA Awards",
+      "url": "https://open.spotify.com/track/0sYnWbdznUbJExknlyf03S"
+    },
+    {
+      "album": {
         "name": "i think he's got a girl",
         "url": "https://open.spotify.com/album/6WqVX0Qw2ZwmpHIkD3uZ64"
       },
@@ -3188,6 +3206,28 @@
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
+    },
+    {
+      "album": {
+        "name": "In My Life (2026 Mix)",
+        "url": "https://open.spotify.com/album/1to0XdSL1xPYywcR1wa3mV"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        },
+        {
+          "name": "Owen Cooper",
+          "url": "https://open.spotify.com/artist/14ZrgI1EkE7kaAb0mBKiSa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203890,
+      "name": "In My Life - 2026 Mix",
+      "url": "https://open.spotify.com/track/146LeDzQGuty7sAVuyZvmR"
     },
     {
       "album": {
@@ -3528,6 +3568,24 @@
       "duration_ms": 120320,
       "name": "Lali, Tini - 1Amor (EN VIVO) / @River - Buenos Aires 2026",
       "url": "https://open.spotify.com/track/6Eg7a09lTggpzzdOHs76WM"
+    },
+    {
+      "album": {
+        "name": "Las mas bonitas son p#tas",
+        "url": "https://open.spotify.com/album/2cag3Hwu0GW3QiRFpT8deb"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158801,
+      "name": "Las mas bonitas son p#tas",
+      "url": "https://open.spotify.com/track/0cBpT2wN2wxjks14Ln1s1J"
     },
     {
       "album": {
@@ -4624,7 +4682,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 152318,
       "name": "Olimpo",
       "url": "https://open.spotify.com/track/0CkdeezVG7sqiFlWDnIUhd"
@@ -5022,7 +5080,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -5166,7 +5224,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 131764,
       "name": "Quebec",
       "url": "https://open.spotify.com/track/2ob7ZotnJQiHcmbERf0OZR"
@@ -6400,7 +6458,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 115081,
       "name": "Tina Tuesday - Tina Tuesday Freestyle",
       "url": "https://open.spotify.com/track/2js52Fy88rld60B5vUu5ED"
@@ -6624,7 +6682,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 321579,
       "name": "Unloveu - Live From the WILDWORLD Tour",
       "url": "https://open.spotify.com/track/3jxFV2A3tEB5KMAYZQEpRX"
@@ -6838,7 +6896,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 196202,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/6kwjEQRMac5bswLSUiY5gm"
@@ -7122,7 +7180,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 154889,
       "name": "\u00daltima Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/3RvPXSkVUNq7Rp63uvLYOY"

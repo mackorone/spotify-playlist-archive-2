@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 376810,
+  "num_followers": 376819,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAADfpvIV7MId3pb1aofJWFIV",
+  "snapshot_id": "av48AAAAAAA6BcZu/+26M3IgRTa6ZXPO",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powerlight",
-        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
+        "name": "Constellations: The Universe of Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 352001,
-      "name": "Fall in Love with Me",
-      "url": "https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P"
+      "duration_ms": 141293,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constellations: The Universe of Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
+        "name": "Powerlight",
+        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 141293,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
+      "duration_ms": 352001,
+      "name": "Fall in Love with Me",
+      "url": "https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P"
     },
     {
       "added_at": null,

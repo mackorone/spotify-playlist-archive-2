@@ -1,12 +1,12 @@
 {
   "description": "Dedicata a chi non ha rischiato ed \u00e8 sempre andato al massimo  \u26a1\ufe0f",
-  "num_followers": 13635,
+  "num_followers": 13636,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgbndX/BuZNR80kUhzcai+yHCN/",
+  "snapshot_id": "AAAAAJPTR7o41DYeLI09WZjt6WW1V532",
   "tracks": [
     {
       "added_at": "2026-01-25 23:01:07",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "Daniel Sentacruz Ensemble: Solo Grandi Successi",
+        "url": "https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Sentacruz Ensemble",
+          "url": "https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26"
+        }
+      ],
+      "duration_ms": 222767,
+      "name": "Linda Bella Linda - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "Eiffel 65 (Italian Album)",
         "url": "https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "Daniel Sentacruz Ensemble: Solo Grandi Successi",
-        "url": "https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Sentacruz Ensemble",
-          "url": "https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26"
-        }
-      ],
-      "duration_ms": 222767,
-      "name": "Linda Bella Linda - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Rockmantic Collection",
-        "url": "https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3"
-      },
-      "artists": [
-        {
-          "name": "Alberto Camerini",
-          "url": "https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "La bottega del caffe'",
-      "url": "https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "12000 lune",
         "url": "https://open.spotify.com/album/6FAodIEfgmPYI0sL3KEWHQ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 141226,
       "name": "Pafff.. bum!",
       "url": "https://open.spotify.com/track/3rIyt8qnPDXR8GRaWeiVtX"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Rockmantic Collection",
+        "url": "https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3"
+      },
+      "artists": [
+        {
+          "name": "Alberto Camerini",
+          "url": "https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "La bottega del caffe'",
+      "url": "https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC"
     },
     {
       "added_at": "2026-01-25 23:01:07",

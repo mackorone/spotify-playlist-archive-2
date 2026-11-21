@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,551 songs - 4 day 1 hr 2 min
+2,552 songs - 4 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [air balloon](https://open.spotify.com/track/5c9q5CvAtO4xDTnyQuGKuO) | [Almo X](https://open.spotify.com/artist/77LNTMtPR18hlGEqqXMOgh) | [air balloon](https://open.spotify.com/album/6FMI7m8KpFoqWZlTJwCDEm) | 1:59 | 2022-12-23 | 2025-07-11 |
 | [air hands](https://open.spotify.com/track/6nfneranC6kjljdYNiQTXx) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [air hands](https://open.spotify.com/album/1hr6RbmKByoUitF2kpVZkc) | 1:58 | 2022-08-05 | 2022-08-12 |
 | [Air V](https://open.spotify.com/track/0itPjvqfCq6Od5hMAVeJYi) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Air V](https://open.spotify.com/album/30uDAdGTkafGoJVlEoPQfD) | 2:28 | 2023-07-13 | 2026-02-07 |
-| [airport lounge](https://open.spotify.com/track/2y225iVzB8I0koqZ7COics) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [airport lounge](https://open.spotify.com/album/7jDK6sly8TagsDRDmvY2wf) | 2:40 | 2026-11-20 |  |
+| [airport lounge](https://open.spotify.com/track/2y225iVzB8I0koqZ7COics) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [airport lounge](https://open.spotify.com/album/7jDK6sly8TagsDRDmvY2wf) | 2:40 | 2026-11-20 | 2026-11-21 |
 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-09-27 | 2025-07-26 |
 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 | 2023-10-06 | 2025-11-15 |
 | [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2022-04-15 | 2022-10-14 |
@@ -1741,6 +1741,7 @@
 | [pistachios forever](https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [pistachios forever](https://open.spotify.com/album/0K2AeWTHKIEQSBq0oPbIF4) | 3:03 | 2024-03-22 |  |
 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 | 2023-03-08 | 2025-07-26 |
 | [Plant Haze](https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu) | [WFPB](https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM) | [Plant Haze](https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA) | 2:01 | 2022-12-16 | 2025-07-11 |
+| [Play](https://open.spotify.com/track/6hh6fPLk8tTwLOJRFNdR7b) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Play](https://open.spotify.com/album/0xkGFvVHCgDyNZ51qz0oB8) | 1:30 | 2026-11-20 |  |
 | [Play and Stop](https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Viro Aronowitz](https://open.spotify.com/album/6PyEDBCGsADSxhoRksNFxQ) | 1:45 | 2022-09-02 | 2025-05-24 |
 | [Playdew](https://open.spotify.com/track/6P6iIyHwCCHWC7IsRUV8Mp) | [Picky Vines](https://open.spotify.com/artist/05DroYv02C0y45iNlXCqXf) | [Playdew](https://open.spotify.com/album/1mbkGqUxjkGLOf7vEv2Ia5) | 2:21 | 2022-04-15 | 2022-05-27 |
 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 | 2022-04-15 | 2022-05-27 |

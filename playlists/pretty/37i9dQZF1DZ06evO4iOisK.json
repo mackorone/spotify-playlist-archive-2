@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 28642,
+  "num_followers": 28647,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAAv5G9DQ4EWNSqBq+EkaNJ/",
+  "snapshot_id": "av48AAAAAACNupZxwMSDQRhewE3sjsgE",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIAR",
-        "url": "https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk"
+        "name": "4",
+        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 245053,
-      "name": "SINGING",
-      "url": "https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB"
+      "duration_ms": 225173,
+      "name": "COME IN SUMMER",
+      "url": "https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+        "name": "LIAR",
+        "url": "https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 225173,
-      "name": "COME IN SUMMER",
-      "url": "https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath"
+      "duration_ms": 245053,
+      "name": "SINGING",
+      "url": "https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Stand by me",
+      "url": "https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MILLION",
         "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
       },
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 232426,
-      "name": "Stand by me",
-      "url": "https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU"
+      "duration_ms": 229453,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 300173,
       "name": "\u541b\u304c\u3044\u305f\u590f",
       "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 229453,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi"
     },
     {
       "added_at": null,

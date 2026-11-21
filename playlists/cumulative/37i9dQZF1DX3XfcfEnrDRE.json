@@ -366,7 +366,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 125426,
       "name": "And The Next Day (TOMORROW)",
       "url": "https://open.spotify.com/track/2vqbT0BHcqmRQnbCZ7akIW"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 261597,
       "name": "before the world began",
       "url": "https://open.spotify.com/track/3oqjKpRNlNlC7usmofeVdN"
@@ -857,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Broken Things",
+        "url": "https://open.spotify.com/album/5U3P7yeWLU5CQ3qyqTB92D"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Dani Lyra",
+          "url": "https://open.spotify.com/artist/7mJXskCHqtGzhCevJvGLhn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155024,
+      "name": "Broken Things",
+      "url": "https://open.spotify.com/track/3zgRdTgC3REy20xlsM6gGX"
+    },
+    {
+      "album": {
         "name": "Brother Jack",
         "url": "https://open.spotify.com/album/5prLglkfDSZNCswJ2xzbqn"
       },
@@ -922,7 +944,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 181975,
       "name": "Can't Believe You're Mine",
       "url": "https://open.spotify.com/track/2PQcxTWll5XQQJKTIRIZ3L"
@@ -1335,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/5cMwQ6RcsVEdLoxKJT1MHa"
+      },
+      "artists": [
+        {
+          "name": "Mountains in the Sea",
+          "url": "https://open.spotify.com/artist/50Kp4ZEm61EGHyYgnfTL7Z"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208905,
+      "name": "Come See What the Lord Has Done",
+      "url": "https://open.spotify.com/track/5JMVWbDro9MFPQGLCnwVBr"
+    },
+    {
+      "album": {
         "name": "Come What May",
         "url": "https://open.spotify.com/album/0kBsmG4T0XwOPIrq7LKJpc"
       },
@@ -1466,7 +1506,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 244998,
       "name": "Complacent",
       "url": "https://open.spotify.com/track/1FTlLv3y8kkU1qy0jqGOpa"
@@ -1600,7 +1640,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 122723,
       "name": "CYCLES",
       "url": "https://open.spotify.com/track/3NGtZoRSoVtJBkm7d7nOxz"
@@ -1618,7 +1658,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 216195,
       "name": "Cynical and Jaded",
       "url": "https://open.spotify.com/track/7JaJ2fuj8ThMybzb1JMvgW"
@@ -2551,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Sophomore Year",
+        "url": "https://open.spotify.com/album/7cpjW23C2P2IoETCq18mQI"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169900,
+      "name": "Feels Like High School Again",
+      "url": "https://open.spotify.com/track/7p7o5Ne7mfinJmBPu9BOBE"
+    },
+    {
+      "album": {
         "name": "Fighting Myself",
         "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
       },
@@ -2938,6 +2996,24 @@
       "duration_ms": 148643,
       "name": "Get Me Outta The Way",
       "url": "https://open.spotify.com/track/68wrokN3yZVgnnH1fgcgGp"
+    },
+    {
+      "album": {
+        "name": "Get This Far",
+        "url": "https://open.spotify.com/album/2NZmteaYUBnVBecCXYlLFn"
+      },
+      "artists": [
+        {
+          "name": "Living Again",
+          "url": "https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235489,
+      "name": "Get This Far",
+      "url": "https://open.spotify.com/track/3encXQfnLc6Z6LK4lQarun"
     },
     {
       "album": {
@@ -3989,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "A Special Place in Heaven",
+        "url": "https://open.spotify.com/album/2hI3xWb1gBbWVdRQP1wYr2"
+      },
+      "artists": [
+        {
+          "name": "Beach Chapel",
+          "url": "https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232853,
+      "name": "I Don't Want to Die",
+      "url": "https://open.spotify.com/track/6TjsV4NaDofpzpQKfgKGSg"
+    },
+    {
+      "album": {
         "name": "I Just Hope",
         "url": "https://open.spotify.com/album/2kxfrcZOhEJv3I0QoeVQ9A"
       },
@@ -4472,7 +4566,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 205243,
       "name": "In The Process",
       "url": "https://open.spotify.com/track/6RhHKS2Kgd4wEUPCatC3ga"
@@ -5002,6 +5096,24 @@
       "duration_ms": 413276,
       "name": "Lamb (feat. Tiffany Hudson) - Live",
       "url": "https://open.spotify.com/track/0RG4tDb9PCACXsbzxBcxUa"
+    },
+    {
+      "album": {
+        "name": "Lay Down My Life",
+        "url": "https://open.spotify.com/album/4RCwxT5IZEpxL5ODmXRQOp"
+      },
+      "artists": [
+        {
+          "name": "Ivan Castro",
+          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291745,
+      "name": "Lay Down My Life",
+      "url": "https://open.spotify.com/track/3SAVcfWlWtTabxNKP0rsbc"
     },
     {
       "album": {
@@ -6041,6 +6153,28 @@
     },
     {
       "album": {
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/3Cpmi52OhAnTGywMUTcUso"
+      },
+      "artists": [
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        },
+        {
+          "name": "AMXNRADIO",
+          "url": "https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340427,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/7yyxe10KvMqfCnw0vGjBg7"
+    },
+    {
+      "album": {
         "name": "Love Like Raindrops Made of Light",
         "url": "https://open.spotify.com/album/6EwSzxPcvgqlgHngQ0x2SU"
       },
@@ -6710,7 +6844,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 201879,
       "name": "Punk Rock Diamond in the Rough",
       "url": "https://open.spotify.com/track/2iBnj5YEs0BjqLD17HGiQP"
@@ -6876,7 +7010,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 164500,
       "name": "Rebels In The Town",
       "url": "https://open.spotify.com/track/78BPtaDsUBE8BFkwVChfCS"
@@ -7040,6 +7174,24 @@
       "duration_ms": 141177,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR"
+    },
+    {
+      "album": {
+        "name": "how it feels to be with YOU",
+        "url": "https://open.spotify.com/album/4NK5VNnhYovr5tctT1zUkK"
+      },
+      "artists": [
+        {
+          "name": "Seven7h Way",
+          "url": "https://open.spotify.com/artist/12ULdx7URT1ylRKozDRHM7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "right now (i can\u2019t help but fall in love)",
+      "url": "https://open.spotify.com/track/35gH6OyvIaNz2RRXnl9eXo"
     },
     {
       "album": {
@@ -7242,6 +7394,24 @@
       "duration_ms": 203874,
       "name": "Save Me - Bonus Track",
       "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+    },
+    {
+      "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/0ypejZnUC1REB7wE1PLaba"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247480,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/71uSTMTvKJyXPH4bEuUlxo"
     },
     {
       "album": {
@@ -7484,7 +7654,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 157525,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3QF6iuS9hNBxSVGVhSSVZB"
@@ -7542,6 +7712,24 @@
       "duration_ms": 230284,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+    },
+    {
+      "album": {
+        "name": "stay for a while",
+        "url": "https://open.spotify.com/album/4PdKh3hh65wJa6bdi4u9iq"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252248,
+      "name": "stay for a while",
+      "url": "https://open.spotify.com/track/76KiKWkrFreJlMkuySlfHe"
     },
     {
       "album": {
@@ -7820,7 +8008,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 154585,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/21yNrcEHo9vFSbuByDgHeg"
@@ -7910,7 +8098,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 199946,
       "name": "TEENAGE LOUD",
       "url": "https://open.spotify.com/track/7k69pjLXh2vvaSXcd1BF6i"
@@ -8008,6 +8196,24 @@
       "duration_ms": 218412,
       "name": "that's my life",
       "url": "https://open.spotify.com/track/3RzeND9jTPsTDv8wiHIDfm"
+    },
+    {
+      "album": {
+        "name": "The Dark We Call True",
+        "url": "https://open.spotify.com/album/2Gq54TnPYpwe5jTQdMj4vx"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242171,
+      "name": "The Dark We Call True",
+      "url": "https://open.spotify.com/track/0jDLkjyO37uprzvkfoClzI"
     },
     {
       "album": {
@@ -8308,7 +8514,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 210000,
       "name": "This Is The Love",
       "url": "https://open.spotify.com/track/7wr0gntMKI6TkR7OQRDH0w"
@@ -8910,7 +9116,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 204407,
       "name": "what do YOU see in me?",
       "url": "https://open.spotify.com/track/2oM3BAYmZNAweKCOK6Dd6j"
@@ -9004,6 +9210,24 @@
       "duration_ms": 138846,
       "name": "Where To Find Me",
       "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
+    },
+    {
+      "album": {
+        "name": "Where You Wanna Go?",
+        "url": "https://open.spotify.com/album/4Kp83V6fPZsRCTIhEQrYvY"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Where You Wanna Go?",
+      "url": "https://open.spotify.com/track/4EXVUpX1nrqNfPFIcoZNel"
     },
     {
       "album": {
@@ -9311,6 +9535,24 @@
     },
     {
       "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/4byyHQlJ3yhAjfrLkyw8Mi"
+      },
+      "artists": [
+        {
+          "name": "The Waiting",
+          "url": "https://open.spotify.com/artist/7A9JWD3Bi8KMuSCL4CMoj1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/1suj6IbkF8htRIpGUDPYmN"
+    },
+    {
+      "album": {
         "name": "YEAR OF VICTORY",
         "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
       },
@@ -9326,6 +9568,28 @@
       "duration_ms": 230444,
       "name": "YEAR OF VICTORY",
       "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
+    },
+    {
+      "album": {
+        "name": "Yes, And",
+        "url": "https://open.spotify.com/album/5cgIptDJNsR6JUil19k9zM"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Dari Odman",
+          "url": "https://open.spotify.com/artist/5K8ftA3zcqxdj5OiGE2FDQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135784,
+      "name": "Yes, And",
+      "url": "https://open.spotify.com/track/1DFpLc8U8FyGJsR5dgecsp"
     },
     {
       "album": {

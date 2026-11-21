@@ -1,12 +1,12 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 41777,
+  "num_followers": 41782,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO8MisbY2aof/t3DApa99KiANWs3",
+  "snapshot_id": "AAAAACZxYBWbvhx7/pPEJjnTJNCsb5qE",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:59",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Amparito",
+      "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
+    },
+    {
+      "added_at": "2026-11-20 05:00:59",
+      "album": {
         "name": "Milenario, Vol. 3",
         "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 265026,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
-    },
-    {
-      "added_at": "2026-11-20 05:00:59",
-      "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Amparito",
-      "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
     },
     {
       "added_at": "2026-11-20 05:00:59",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Trio Vegabaje\u00f1o",
+          "url": "https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "CANTARES DE NAVIDAD",
+      "url": "https://open.spotify.com/track/2Iv6YBslkxslMJQsxshZh5"
+    },
+    {
+      "added_at": "2026-11-20 05:00:59",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 378373,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
-    },
-    {
-      "added_at": "2026-11-20 05:00:59",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Trio Vegabaje\u00f1o",
-          "url": "https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "CANTARES DE NAVIDAD",
-      "url": "https://open.spotify.com/track/2Iv6YBslkxslMJQsxshZh5"
     },
     {
       "added_at": "2026-11-20 05:00:59",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
-        "name": "Cantares de Navidad",
-        "url": "https://open.spotify.com/album/5QVUro4ilT7jzJ7o7cQWNF"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "El Cuerpo Me Pide",
-      "url": "https://open.spotify.com/track/1Lyrs8yitreWlFDxY20X9E"
-    },
-    {
-      "added_at": "2026-11-20 05:00:59",
-      "album": {
         "name": "Estrellas de Navidad",
         "url": "https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU"
       },
@@ -1307,6 +1287,26 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
+        "name": "Cantares de Navidad",
+        "url": "https://open.spotify.com/album/5QVUro4ilT7jzJ7o7cQWNF"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 299666,
+      "name": "El Cuerpo Me Pide",
+      "url": "https://open.spotify.com/track/1Lyrs8yitreWlFDxY20X9E"
+    },
+    {
+      "added_at": "2026-11-20 05:00:59",
+      "album": {
         "name": "Jerry Christmas",
         "url": "https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
-        "name": "Navidad Caribe\u00f1a: Desde Quisqueya y Puerto Rico",
-        "url": "https://open.spotify.com/album/0ChiBQiatrvyHDGABY7V68"
-      },
-      "artists": [
-        {
-          "name": "Dimension Dominicana",
-          "url": "https://open.spotify.com/artist/2MghxItTMU77qHH5Q7yBCf"
-        }
-      ],
-      "duration_ms": 302520,
-      "name": "Parranda Quisqueyana",
-      "url": "https://open.spotify.com/track/09JoV9u9sijtmIWY9j0NX6"
-    },
-    {
-      "added_at": "2026-11-20 05:00:59",
-      "album": {
         "name": "Ponle Salsa a Tu Navidad",
         "url": "https://open.spotify.com/album/4RDkbrYWX7pb7BH3lhMIC1"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 300893,
       "name": "El Burrito de Belen",
       "url": "https://open.spotify.com/track/2qAmDGh1zscmI2VHWngoFq"
+    },
+    {
+      "added_at": "2026-11-20 05:00:59",
+      "album": {
+        "name": "Navidad Caribe\u00f1a: Desde Quisqueya y Puerto Rico",
+        "url": "https://open.spotify.com/album/0ChiBQiatrvyHDGABY7V68"
+      },
+      "artists": [
+        {
+          "name": "Dimension Dominicana",
+          "url": "https://open.spotify.com/artist/2MghxItTMU77qHH5Q7yBCf"
+        }
+      ],
+      "duration_ms": 302520,
+      "name": "Parranda Quisqueyana",
+      "url": "https://open.spotify.com/track/09JoV9u9sijtmIWY9j0NX6"
     },
     {
       "added_at": "2026-11-20 05:00:59",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
+        "name": "Merenboom Vol. 4",
+        "url": "https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 298280,
+      "name": "El Avion",
+      "url": "https://open.spotify.com/track/5mpvrAdbbSvThDIKygCrPL"
+    },
+    {
+      "added_at": "2026-11-20 05:00:59",
+      "album": {
         "name": "Salsa Gorda... En Navidad",
         "url": "https://open.spotify.com/album/0cUdixbO0a8X22BfXiC9CF"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
-        "name": "Merenboom Vol. 4",
-        "url": "https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 298280,
-      "name": "El Avion",
-      "url": "https://open.spotify.com/track/5mpvrAdbbSvThDIKygCrPL"
-    },
-    {
-      "added_at": "2026-11-20 05:00:59",
-      "album": {
         "name": "Duelo Cumbiambero En Navidad",
         "url": "https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 178400,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/7DIeziYfgC6i2chzXCh5Vc"
+    },
+    {
+      "added_at": "2026-11-20 05:00:59",
+      "album": {
+        "name": "Cumbi\u00f3n Navide\u00f1o",
+        "url": "https://open.spotify.com/album/0Bnjodya04yeqd3wCQyz3q"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Cumbi\u00f3n Navide\u00f1o",
+      "url": "https://open.spotify.com/track/38DjBRQvyzMheIL0XoLiOb"
     },
     {
       "added_at": "2026-11-20 05:00:59",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
-        "name": "Cumbi\u00f3n Navide\u00f1o",
-        "url": "https://open.spotify.com/album/0Bnjodya04yeqd3wCQyz3q"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Cumbi\u00f3n Navide\u00f1o",
-      "url": "https://open.spotify.com/track/38DjBRQvyzMheIL0XoLiOb"
-    },
-    {
-      "added_at": "2026-11-20 05:00:59",
-      "album": {
         "name": "Diciembre Colombiano",
         "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
       },
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
-        "name": "Milenario, Vol. 1",
-        "url": "https://open.spotify.com/album/6yGR9lJFtZACoDo4haXjMq"
+        "name": "Pinceladas Navide\u00f1as",
+        "url": "https://open.spotify.com/album/7K2KQx0hhTB5nxaJXdfyFi"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 173493,
-      "name": "Amerindio",
-      "url": "https://open.spotify.com/track/6OOGXA7qm09X3PKrptesLB"
+      "duration_ms": 337815,
+      "name": "Como T\u00fa No Hay Nada",
+      "url": "https://open.spotify.com/track/1yWT9S8QC3WGyar5n6Fz72"
     },
     {
       "added_at": "2026-11-20 05:00:59",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
-        "name": "Pinceladas Navide\u00f1as",
-        "url": "https://open.spotify.com/album/7K2KQx0hhTB5nxaJXdfyFi"
+        "name": "Milenario, Vol. 1",
+        "url": "https://open.spotify.com/album/6yGR9lJFtZACoDo4haXjMq"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 337815,
-      "name": "Como T\u00fa No Hay Nada",
-      "url": "https://open.spotify.com/track/1yWT9S8QC3WGyar5n6Fz72"
+      "duration_ms": 173493,
+      "name": "Amerindio",
+      "url": "https://open.spotify.com/track/6OOGXA7qm09X3PKrptesLB"
     },
     {
       "added_at": "2026-11-20 05:00:59",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2026-11-20 05:00:59",
       "album": {
-        "name": "Merengues Navidenos",
-        "url": "https://open.spotify.com/album/2usHQCaqxUQ2Xy0uSi0ajB"
+        "name": "Llegaron las Navidades",
+        "url": "https://open.spotify.com/album/4hvJF5DSvgVxQ8hy1AiNPB"
       },
       "artists": [
         {
-          "name": "Dimension Dominicana",
-          "url": "https://open.spotify.com/artist/2MghxItTMU77qHH5Q7yBCf"
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
         }
       ],
-      "duration_ms": 171773,
-      "name": "Brisas de Pascuas",
-      "url": "https://open.spotify.com/track/3pRuGASS7CiUjztQ3EVlPg"
+      "duration_ms": 278176,
+      "name": "Navidad Hasta Amanecer",
+      "url": "https://open.spotify.com/track/3TtdsOdFJ3FNFrabLeEZ6h"
     }
   ],
   "unique_name": "Navidad Con Sabor",

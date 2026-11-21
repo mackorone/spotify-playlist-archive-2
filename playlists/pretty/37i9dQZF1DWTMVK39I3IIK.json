@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDukpR43JX9jD+q3hLHpD5HTfnv",
+  "snapshot_id": "AAAAAAMGiGPzk49CuJsRtgkHi/U0KGAl",
   "tracks": [
     {
       "added_at": "2026-11-13 11:05:59",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
-        "url": "https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y"
-      },
-      "artists": [
-        {
-          "name": "milo",
-          "url": "https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF"
-        }
-      ],
-      "duration_ms": 179312,
-      "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
-      "url": "https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "F\u00f8r du siger farvel",
         "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 185719,
       "name": "F\u00f8r du siger farvel",
       "url": "https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
+        "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
+        "url": "https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y"
+      },
+      "artists": [
+        {
+          "name": "milo",
+          "url": "https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF"
+        }
+      ],
+      "duration_ms": 179312,
+      "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
+      "url": "https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp"
     },
     {
       "added_at": "2026-11-13 11:05:59",
@@ -635,38 +635,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "Septembersol",
-        "url": "https://open.spotify.com/album/2zGAvHYfKm6dHMx31A8FoU"
-      },
-      "artists": [
-        {
-          "name": "Mona Moroni",
-          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Septembersol",
-      "url": "https://open.spotify.com/track/7G49uERj3bMgHiqfv4PVMf"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "verden er blaa (feat. ozzy)",
         "url": "https://open.spotify.com/album/6gfzN6qpkN9Z6S6VdxdEM9"
       },
@@ -687,6 +655,22 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
+        "name": "Septembersol",
+        "url": "https://open.spotify.com/album/2zGAvHYfKm6dHMx31A8FoU"
+      },
+      "artists": [
+        {
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Septembersol",
+      "url": "https://open.spotify.com/track/7G49uERj3bMgHiqfv4PVMf"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
         "name": "Ex",
         "url": "https://open.spotify.com/album/2WbVqZz1QNnaBThiOEgbQY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 127704,
       "name": "Hvem Ved",
       "url": "https://open.spotify.com/track/2JDX7Ix4o73gyu28j1kqf8"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
+        "name": "Kun for os",
+        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 200674,
+      "name": "Kun for os",
+      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
       "added_at": "2026-11-13 11:05:59",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT"
-      },
-      "artists": [
-        {
-          "name": "Yangze",
-          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
-        }
-      ],
-      "duration_ms": 172169,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "Going about my day",
         "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 131440,
       "name": "lao shi",
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "duration_ms": 172169,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5"
     },
     {
       "added_at": "2026-11-13 11:05:59",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
+        "name": "Infrar\u00f8d",
+        "url": "https://open.spotify.com/album/5Hi0UdVPpFA4xLlnH7Rngj"
+      },
+      "artists": [
+        {
+          "name": "Nikolaj Manuel Vonsild",
+          "url": "https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Infrar\u00f8d",
+      "url": "https://open.spotify.com/track/0vMQPo3QV3i1jAKGkhg9tK"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
         "name": "S\u00e6tter Alt P\u00e5 Spil",
         "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "Infrar\u00f8d",
-        "url": "https://open.spotify.com/album/5Hi0UdVPpFA4xLlnH7Rngj"
-      },
-      "artists": [
-        {
-          "name": "Nikolaj Manuel Vonsild",
-          "url": "https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Infrar\u00f8d",
-      "url": "https://open.spotify.com/track/0vMQPo3QV3i1jAKGkhg9tK"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "Var det dig, der var derinde?",
         "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "Heliumtanker",
-        "url": "https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Heliumtanker",
-      "url": "https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -1163,6 +1147,38 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
+        "name": "Heliumtanker",
+        "url": "https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Heliumtanker",
+      "url": "https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/5ixLrST22xz2PcqTsHb6zu"
+      },
+      "artists": [
+        {
+          "name": "Brimheim",
+          "url": "https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/42TZ8v1FCmjONt811taDFA"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
         "name": "Jetlag",
         "url": "https://open.spotify.com/album/5rNJuFVUU2CwTBWB8Zw5fk"
       },
@@ -1175,26 +1191,6 @@
       "duration_ms": 241587,
       "name": "Jetlag",
       "url": "https://open.spotify.com/track/6HtKaapCZGhHKvuWatfaLk"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
-        "name": "H\u00f8j P\u00e5 Livet",
-        "url": "https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa"
-      },
-      "artists": [
-        {
-          "name": "144Hz",
-          "url": "https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e"
-        },
-        {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
-        }
-      ],
-      "duration_ms": 219062,
-      "name": "H\u00f8j P\u00e5 Livet",
-      "url": "https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t"
     }
   ],
   "unique_name": "ung kniv ",

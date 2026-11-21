@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,724 songs - 4 day 4 hr 46 min
+1,726 songs - 4 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Bells of Silver](https://open.spotify.com/track/1XX3C3KiBmSuK4U3XCJmaz) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [Bells of Silver](https://open.spotify.com/album/3kjhYsro9GvEOGGKIlLoVe) | 4:08 | 2026-08-04 | 2026-08-30 |
 | [Ben Zelf Ook Bang](https://open.spotify.com/track/033unkA5mTh0HhibYAHqyo) | [Vain](https://open.spotify.com/artist/4tRzcUW6cv8dwq9ZzI4RAS) | [Ben Zelf Ook Bang](https://open.spotify.com/album/2uCOTLMVDmovHeAB634nUS) | 2:08 | 2026-04-07 | 2026-05-03 |
 | [Benny Golson's Dream](https://open.spotify.com/track/7gc5i4FXNAmSE9Z6lo284V) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Manosanta Hard Soul](https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Francesco Consaga](https://open.spotify.com/artist/46YcHNc1RagPGq1l8t7N6L), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Carlo Colombo](https://open.spotify.com/artist/6CPbxGm2Uetd32H4OX1aZS) | [Benny Golson's Dream](https://open.spotify.com/album/24XNVoPLWV20KW97h3NJb2) | 4:21 | 2024-07-11 | 2025-12-28 |
+| [Best Of Both Worlds](https://open.spotify.com/track/0ep1bQzqyWJNcIOvwVSxim) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [GTA \(Growth, Trust & Affection\)](https://open.spotify.com/album/5AmotIpxQ42TDzWYj1IIMR) | 4:38 | 2026-11-20 |  |
 | [Better \- Acoustic](https://open.spotify.com/track/7ALzwV00n3SoxEjjvyfO13) | [Nana Elan](https://open.spotify.com/artist/0kzPNnI3XMmI9Fd76tSx6m) | [Love Drain](https://open.spotify.com/album/0HGcgPhdIYu2BAiCd4gJZ4) | 2:24 | 2026-10-14 | 2026-11-12 |
 | [Better Days](https://open.spotify.com/track/5EHqm4dl8qRHTL0CBmYOY4) | [Csmit](https://open.spotify.com/artist/7I6GUB1abNwkgA9F6LUsHI) | [Better Days](https://open.spotify.com/album/1X2maX9DBDkbhHTJonabWQ) | 2:16 | 2025-12-27 | 2026-01-24 |
 | [Better Than This](https://open.spotify.com/track/7Idbp14EBaAC3LYhj68tWq) | [Emily Gray](https://open.spotify.com/artist/02s2pHJ0TIns6EsWRw2YM3) | [Better Than This](https://open.spotify.com/album/0WrS9xN9HbSwVTvlZgHEQL) | 2:54 | 2026-08-13 | 2026-09-17 |
@@ -204,6 +205,7 @@
 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 | 2026-01-07 | 2026-02-03 |
 | [Brave](https://open.spotify.com/track/57wOH1yfVPll97iyI0Xp98) | [Mister Chorister](https://open.spotify.com/artist/2gj1byWvrljHj1FWzSWXUd) | [Brave](https://open.spotify.com/album/3PIlwfrx8NPZChCynoVF7V) | 3:41 | 2026-08-11 | 2026-09-17 |
 | [Break the Chain](https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [My Tribe \- EP](https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh) | 3:27 | 2025-11-11 | 2025-12-21 |
+| [Breakfast in Belgium](https://open.spotify.com/track/7qv5b3Sg2vzDacfy278gUb) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [WHERE](https://open.spotify.com/album/26uB4soPBKHN6BYkEEXYXs) | 3:33 | 2026-11-20 |  |
 | [Bridge of Boldness](https://open.spotify.com/track/79566wwkKbJ9BZk7RSaus9) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Bridge of Boldness](https://open.spotify.com/album/7vvWldpJbLUdRHPMWdzNHG) | 3:00 | 2024-02-15 | 2025-12-28 |
 | [Bright As The Stars](https://open.spotify.com/track/5vZMfAHNm6MeaomaddB4Fq) | [Kathi Fran](https://open.spotify.com/artist/10QZVs0DFiNYbYrkKEE385) | [Bright As The Stars](https://open.spotify.com/album/6Mx8feGql3vMv1cPzdWPHH) | 3:18 | 2026-01-29 | 2026-02-28 |
 | [Bright Lights of Gaza](https://open.spotify.com/track/0fr2XR7BwfggHtpCX685sl) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT), [Gianluca Urbano](https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG), [Alfredo Posillipo](https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0) | [Bright Lights of Gaza](https://open.spotify.com/album/330q4uPmolaxV7TIAlpmmh) | 4:15 | 2024-06-13 | 2025-12-28 |

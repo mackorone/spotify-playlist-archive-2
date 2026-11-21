@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,983 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,071 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 19 | [Garage Girls \- Sunship Radio Edit](https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Onyx Stone](https://open.spotify.com/artist/0IiNeUzuPmo1LuTb9SPaXf), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Garage Girls](https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M) | 3:20 |
 | 20 | [Sincere](https://open.spotify.com/track/2bbIrLn5rnn8uCsPBwf8vA) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Clubbed To Death](https://open.spotify.com/album/0OstemuKkqQrvIieOxmQzh) | 3:58 |
 | 21 | [Ain't No Stoppin Us \- Oracles Mix](https://open.spotify.com/track/4YwaWXAmeB2PpDQWTLlSvR) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [J.J](https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss), [Oracles](https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb) | [Ain't No Stoppin Us \(Oracles Remix\)](https://open.spotify.com/album/2Yay81iM1lJlNAwtxQO9EC) | 5:42 |
-| 22 | [I Refuse \(What You Want\) \- Industry Standard Radio Mix](https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P) | [Somore](https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw), [Damon Trueitt](https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey) | [I Refuse: Collected, Vol.1 \(Remixes\)](https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4) | 3:27 |
-| 23 | [No Good 4 Me \(feat\. Megaman, Romeo and Lisa Maffia\)](https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Lisa Maffia](https://open.spotify.com/artist/2tiBXBk9svXUlNxP52KA6V), [Megaman](https://open.spotify.com/artist/4jA144upx725mAobOElW0G), [Romeo](https://open.spotify.com/artist/2GScgDHsZg7NaXXL0WtEbO) | [Execute](https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8) | 6:02 |
+| 22 | [No Good 4 Me \(feat\. Megaman, Romeo and Lisa Maffia\)](https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Lisa Maffia](https://open.spotify.com/artist/2tiBXBk9svXUlNxP52KA6V), [Megaman](https://open.spotify.com/artist/4jA144upx725mAobOElW0G), [Romeo](https://open.spotify.com/artist/2GScgDHsZg7NaXXL0WtEbO) | [Execute](https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8) | 6:02 |
+| 23 | [I Refuse \(What You Want\) \- Industry Standard Radio Mix](https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P) | [Somore](https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw), [Damon Trueitt](https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey) | [I Refuse: Collected, Vol.1 \(Remixes\)](https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4) | 3:27 |
 | 24 | [R U Sleeping \- Bump 'N' Flex Remix](https://open.spotify.com/track/1iNeRmlqIPPcxyCAuCOi3m) | [Indo](https://open.spotify.com/artist/4gt3u2InsxUukBFlEpri1l), [Bump N Flex](https://open.spotify.com/artist/0LvmNTiOy87XfAsYd1ubZp) | [R U Sleeping](https://open.spotify.com/album/2nRTDFUgW236bepQTOA5ST) | 5:04 |
 | 25 | [Never Gonna Let You Go \- Kelly G Bump\-N\-Go Dub Edit](https://open.spotify.com/track/6ja7ocYMj2FpuENgXexBrH) | [Tina Moore](https://open.spotify.com/artist/0bxfUFzgizyJXJK7A3iQ8u), [Kelly G.](https://open.spotify.com/artist/0mG3A01g7vJFOHrHRzgzEb) | [Never Gonna Let You Go](https://open.spotify.com/album/0FAmqcsD2sDWlBygKeLpwl) | 3:57 |
 | 26 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
 | 75 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
 
-Snapshot ID: `AAAAAGzuhSrlnONbjgYYajtvcITz2CAm`
+Snapshot ID: `AAAAAGSvRNB/Cd02mFMehcGkGgNk/4N4`

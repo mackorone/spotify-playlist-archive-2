@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,346 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,350 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 53 | [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 |
 | 54 | [Amor à Luz do Dia](https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Amor à Luz do Dia](https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX) | 3:45 |
 | 55 | [MergulhoFundo](https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog) | [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl) | [Al\-Kimiya, Ato I](https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s) | 4:16 |
-| 56 | [Sem ter que me explicar](https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 1:59 |
+| 56 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
 | 57 | [Jeito Certo](https://open.spotify.com/track/271UeLAttA5JHMV0uJoral) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Jeito Certo](https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx) | 3:10 |
-| 58 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
+| 58 | [Sem ter que me explicar](https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 1:59 |
 | 59 | [Te Faria](https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Te Faria](https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW) | 3:04 |
 | 60 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 |
 | 61 | [não vou parar](https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [não vou parar](https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB) | 2:25 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 63 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 64 | [TRATO](https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [TRATO](https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO) | 2:29 |
 | 65 | [Sinais de Relevância](https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Visto por Último](https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg) | 1:58 |
-| 66 | [Se For Com Você](https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE) | [GAEL](https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr), [EVY](https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU) | [Se For Com Você](https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay) | 2:50 |
-| 67 | [Carta](https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Carta](https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST) | 2:24 |
+| 66 | [Carta](https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Carta](https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST) | 2:24 |
+| 67 | [Se For Com Você](https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE) | [GAEL](https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr), [EVY](https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU) | [Se For Com Você](https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay) | 2:50 |
 | 68 | [Deixa Eu Te Amar](https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC) | [Drana](https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Deixa eu Te Amar](https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8) | 4:00 |
 | 69 | [COMO ELA FAZ](https://open.spotify.com/track/3iB07baQMJKsQDyZTck8g9) | [Aura Soul](https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT), [Dee Double Dee](https://open.spotify.com/artist/3qeTcXLyWKs2wFY1zNGFhC), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [SKY](https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl) | 4:05 |
 | 70 | [Me Deixa Ser Pausa](https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Me Deixa Ser Pausa](https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0) | 2:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 75 | [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 |
 
-Snapshot ID: `AAAAAKSPYxPCPrel+yP4btQACuRt0n7Y`
+Snapshot ID: `AAAAAF5OCaYMLKrXf9qid0vLbkPu3T5X`

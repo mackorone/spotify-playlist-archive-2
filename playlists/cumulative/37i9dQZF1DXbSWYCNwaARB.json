@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: ISEGYE IDOL)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: CL)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -742,6 +742,24 @@
       "duration_ms": 193733,
       "name": "B[OO]M-BOXX",
       "url": "https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS"
+    },
+    {
+      "album": {
+        "name": "NA-sty",
+        "url": "https://open.spotify.com/album/51rRu095tBKzJNUCZJRhTF"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "BABY ANGEL",
+      "url": "https://open.spotify.com/track/7JXoLRWkHwObCvM7jpPcjL"
     },
     {
       "album": {
@@ -5275,6 +5293,24 @@
     },
     {
       "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/25h8LIMoPhLF8f5kT2BuIk"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142870,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/1eP2AytiZlppmvR0VVdylu"
+    },
+    {
+      "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
       },
@@ -7230,7 +7266,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 154987,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b"
@@ -8508,7 +8544,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 172000,
       "name": "REBELS",
       "url": "https://open.spotify.com/track/3hPaJFQztzjAiXAziNVh6W"

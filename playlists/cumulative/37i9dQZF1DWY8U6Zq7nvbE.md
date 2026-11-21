@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-480 songs - 1 day 1 hr 54 min
+482 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [fever dream \- acoustic](https://open.spotify.com/track/6wGQdHqW4u9GfLYO7dHLi3) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [fever dream \(acoustic\)](https://open.spotify.com/album/32AyiIwcpzKyuSsOKyxQx5) | 3:31 | 2021-03-11 | 2022-10-13 |
 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 | 2024-10-18 |  |
 | [Firestone \- Live Acoustic Version](https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Firestone \(Live Acoustic Version\)](https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy) | 3:46 | 2022-11-11 | 2023-10-28 |
+| [Firework](https://open.spotify.com/track/1yl5k2PhUnzNoE2TvpJMc6) | [The Window Seat](https://open.spotify.com/artist/4c0Ut9fYpFrlTbxXwm6jbQ) | [Firework](https://open.spotify.com/album/6ghO1FazBARXkx0HUJ0zxA) | 3:45 | 2026-11-20 |  |
 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2022-11-25 | 2023-10-28 |
 | [Fix You \- Live for There With Care](https://open.spotify.com/track/5mXqmmuvjxHXHrn2tGsSXv) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Fix You \(Live for There With Care\)](https://open.spotify.com/album/023LZ57ICg2J7J8LiIBmlQ) | 6:09 | 2023-06-09 | 2023-09-01 |
 | [Flow \(Acoustic Version\)](https://open.spotify.com/track/1nQG8NkT0mLo7iZscof0YS) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Szabo](https://open.spotify.com/artist/1Sfa6q3hJQmNsaLi9DozYi) | [Flow \(Acoustic Version\)](https://open.spotify.com/album/1xL0s1ffZ0frJXKwRsLR6M) | 3:10 | 2021-03-11 | 2022-11-12 |
@@ -314,6 +315,7 @@
 | [Most of Us Are Strangers](https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Most of Us Are Strangers](https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE) | 3:42 | 2021-03-11 | 2023-10-28 |
 | [Most of Us Are Strangers](https://open.spotify.com/track/7jVRAVYEckMldApsscdFDn) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Most of Us Are Strangers](https://open.spotify.com/album/0xKjkqxLAx0gzBPhnnkQNe) | 3:42 | 2021-03-11 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 | 2022-09-30 | 2026-03-20 |
+| [Mr\. Brightside](https://open.spotify.com/track/2Z6PHfCIo5Sx3gJxa49xjX) | [Natalie Ivy](https://open.spotify.com/artist/5cMYTKAIq2gnhAtZxg7asC) | [Mr\. Brightside](https://open.spotify.com/album/2YIzAnMe47pQFyiTl4OrR5) | 3:57 | 2026-11-20 |  |
 | [My Love \- Acoustic](https://open.spotify.com/track/4DFfEiSy8xyYhNkrgAzXx0) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 3:02 | 2022-11-25 | 2023-04-14 |
 | [Nangilima \- Acoustic in Isby](https://open.spotify.com/track/1HJpeLvjjld7yMytQHruNJ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Acoustic in Isby](https://open.spotify.com/album/7mWKfFxovOPJfuEk7qGWbq) | 4:09 | 2022-08-31 | 2023-10-28 |
 | [Nervous \- Piano Version](https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:14 | 2023-02-17 | 2023-10-28 |

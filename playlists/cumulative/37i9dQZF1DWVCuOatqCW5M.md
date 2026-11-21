@@ -2,9 +2,9 @@
 
 ### [New Music Friday I\-Pop ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> Latest music from Aditya Rikhari, Shreya Ghoshal, Banjaare, Faheem Abdullah and more.
+> Latest music from Aditya Rikhari, Shreya Ghoshal, Faheem Abdullah and more.
 
-1,998 songs - 4 day 17 hr 25 min
+1,999 songs - 4 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1289,6 +1289,7 @@
 | [Nazdeekiyan](https://open.spotify.com/track/0ooh6BU5j8DMSZElRHDxja) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Prabhjee Kaur](https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt) | [Nazdeekiyan](https://open.spotify.com/album/3slyxXFCyTBbwM0YLo3tsv) | 3:02 | 2024-09-13 | 2024-10-12 |
 | [Nazdeekiyon Mein Bhi](https://open.spotify.com/track/4ok3yA4DRz7NWCDHBC4q8O) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Nazdeekiyon Mein Bhi](https://open.spotify.com/album/5tjDcisSUE44CT2RMFqw5s) | 4:36 | 2023-10-20 | 2023-11-25 |
 | [Nazm](https://open.spotify.com/track/3ap7ZFUHQeo9cQCnTVkolA) | [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe), [Shreya Basu](https://open.spotify.com/artist/5Uqvr3Y38ZDZiQl2qU9OKw) | [Nazm](https://open.spotify.com/album/21R1wLWAlcaLrZeBP7YEPo) | 3:02 | 2026-11-20 |  |
+| [Nazr\-E\-Karam \(From "Between Distances"\)](https://open.spotify.com/track/5n1z4byTO4NyGCMipY1zeq) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Nazr\-E\-Karam \(From "Between Distances"\)](https://open.spotify.com/album/3O5KyDnZvjgsHncB943x8H) | 3:57 | 2026-11-20 |  |
 | [Nede Nede](https://open.spotify.com/track/6RzaWtRw6wWwqGgzMFHRg1) | [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Nede Nede](https://open.spotify.com/album/0sHXwq9lzbH4ZhH7vResqt) | 3:20 | 2024-10-25 | 2024-11-15 |
 | [Neendein](https://open.spotify.com/track/3L8boIL0HlXw8AtXE8XdIP) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 3:14 | 2024-04-12 | 2024-05-18 |
 | [Ni Main Jaana](https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Ni Main Jaana](https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK) | 4:17 | 2023-04-28 | 2023-06-10 |

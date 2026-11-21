@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Droomsindroom, Barto, Riaan Benadé, Kurt Darren, Juan Boucher, Danny Smoke en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,015 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,042 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 74 | [Al Wat Ek Wil Hê](https://open.spotify.com/track/7a6SwIG3fQusFlCI4ig6VC) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Al Wat Ek Wil Hê](https://open.spotify.com/album/3mhTfrH8gZWE2zfrAj4PBS) | 2:44 |
 | 75 | [Koelboks Koning \(feat\. Ricus Nel\)](https://open.spotify.com/track/19ZL0JZXhb9Yqb6YKEotxw) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Koelboks Koning \(feat\. Ricus Nel\)](https://open.spotify.com/album/6QFtTfhhZP1y0MSnn8v3LL) | 2:36 |
 
-Snapshot ID: `AAAAAPnIQ2qRnBGC0DcNlP0KGS5S32EW`
+Snapshot ID: `AAAAAHDnUltqEL9lAjOEC4+uWp2ftUya`

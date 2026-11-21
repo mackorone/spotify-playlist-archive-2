@@ -1,13 +1,61 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Parisalexa",
-  "num_followers": 60625,
+  "description": "R&B of the moment by the artists of the future. Cover: Gabriel Jacoby",
+  "num_followers": 60628,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZgHqW5ZEh9pheJxDMwpK0VIyTP",
+  "snapshot_id": "AAAAAAVVvnuZxDMSFZMoE70kyuZFULyC",
   "tracks": [
+    {
+      "added_at": "2026-11-20 06:27:18",
+      "album": {
+        "name": "be alright",
+        "url": "https://open.spotify.com/album/4ZvHuLQDYuAToRifmjywO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 237623,
+      "name": "be alright",
+      "url": "https://open.spotify.com/track/3terdrsJOxPmBb8n3pyGdR"
+    },
+    {
+      "added_at": "2026-11-13 08:11:32",
+      "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/21E7pXh1vBqkTOIJIsbKoR"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/2b6o3jzIhpH5sWFxrsa0x5"
+    },
+    {
+      "added_at": "2026-11-06 18:12:42",
+      "album": {
+        "name": "Don't Stare At The Flame",
+        "url": "https://open.spotify.com/album/1Zh57V6mWKWHld4H1KtzWX"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "duration_ms": 159803,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/156QdHdgJMAyy1B8oHzAcJ"
+    },
     {
       "added_at": "2026-11-13 08:11:32",
       "album": {
@@ -69,70 +117,6 @@
       "url": "https://open.spotify.com/track/6LelmrJwN9peV60f3KNI6N"
     },
     {
-      "added_at": "2026-11-13 08:11:32",
-      "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/21E7pXh1vBqkTOIJIsbKoR"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/2b6o3jzIhpH5sWFxrsa0x5"
-    },
-    {
-      "added_at": "2026-11-06 18:12:42",
-      "album": {
-        "name": "Don't Stare At The Flame",
-        "url": "https://open.spotify.com/album/1Zh57V6mWKWHld4H1KtzWX"
-      },
-      "artists": [
-        {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
-        }
-      ],
-      "duration_ms": 159803,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/156QdHdgJMAyy1B8oHzAcJ"
-    },
-    {
-      "added_at": "2026-11-13 18:11:06",
-      "album": {
-        "name": "SUNRISE & SUNSETS",
-        "url": "https://open.spotify.com/album/4C2CtLMLk3x2KCTzY7b9by"
-      },
-      "artists": [
-        {
-          "name": "EJ Ross",
-          "url": "https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB"
-        }
-      ],
-      "duration_ms": 194667,
-      "name": "SUNRISE & SUNSETS",
-      "url": "https://open.spotify.com/track/6J5p839wuK7HVilHTmbpMO"
-    },
-    {
-      "added_at": "2026-11-13 08:11:32",
-      "album": {
-        "name": "Luh Mo\u2019 Love",
-        "url": "https://open.spotify.com/album/1xiZuYFl2ZVHkH8ElnU54h"
-      },
-      "artists": [
-        {
-          "name": "EJ Jones",
-          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
-        }
-      ],
-      "duration_ms": 251080,
-      "name": "Love Is Gone",
-      "url": "https://open.spotify.com/track/7xyDs0qioJ7pbEVbsyWobe"
-    },
-    {
       "added_at": "2026-10-30 04:36:33",
       "album": {
         "name": "MACHIKO",
@@ -153,6 +137,54 @@
       "url": "https://open.spotify.com/track/1NnuJJhYaiY5sRaanMyj7P"
     },
     {
+      "added_at": "2026-11-20 06:27:18",
+      "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/2bU2rVOpwQDGa0efpr8QX8"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 221814,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/4xkGzIrly6tzBB2ScBDlet"
+    },
+    {
+      "added_at": "2026-11-20 06:27:18",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/4YkeLdX8Bh4XCXz7AksGt6"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/0xJErtvPm1ThhucOMyuaBt"
+    },
+    {
+      "added_at": "2026-11-13 18:11:06",
+      "album": {
+        "name": "SUNRISE & SUNSETS",
+        "url": "https://open.spotify.com/album/4C2CtLMLk3x2KCTzY7b9by"
+      },
+      "artists": [
+        {
+          "name": "EJ Ross",
+          "url": "https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB"
+        }
+      ],
+      "duration_ms": 194667,
+      "name": "SUNRISE & SUNSETS",
+      "url": "https://open.spotify.com/track/6J5p839wuK7HVilHTmbpMO"
+    },
+    {
       "added_at": "2026-11-13 08:11:32",
       "album": {
         "name": "Superstar",
@@ -167,6 +199,86 @@
       "duration_ms": 175972,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0pwsSPpKWAkvJZsNI3Btu4"
+    },
+    {
+      "added_at": "2026-11-13 08:11:32",
+      "album": {
+        "name": "Luh Mo\u2019 Love",
+        "url": "https://open.spotify.com/album/1xiZuYFl2ZVHkH8ElnU54h"
+      },
+      "artists": [
+        {
+          "name": "EJ Jones",
+          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
+        }
+      ],
+      "duration_ms": 251080,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/7xyDs0qioJ7pbEVbsyWobe"
+    },
+    {
+      "added_at": "2026-11-20 06:27:18",
+      "album": {
+        "name": "luv religion",
+        "url": "https://open.spotify.com/album/6pPWJbzmHQXLBaLZaRRzbJ"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "luv religion",
+      "url": "https://open.spotify.com/track/3rljZmMtmTaVWmS1NLlXMD"
+    },
+    {
+      "added_at": "2026-11-13 08:11:32",
+      "album": {
+        "name": "JEDSOUL",
+        "url": "https://open.spotify.com/album/7wYPOORBi3uxPh7NCGN1WV"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "NOT YOUR MAN",
+      "url": "https://open.spotify.com/track/2Y5AvklDqieQ3mPg5H6vnc"
+    },
+    {
+      "added_at": "2026-11-20 06:27:18",
+      "album": {
+        "name": "Crying on the Internet",
+        "url": "https://open.spotify.com/album/1qeRp6loebO7DHxHZHzzLr"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "Crying on the Internet",
+      "url": "https://open.spotify.com/track/6VScPG8qvV66EZiVQB6Sjt"
+    },
+    {
+      "added_at": "2026-11-20 06:27:18",
+      "album": {
+        "name": "Falling Star",
+        "url": "https://open.spotify.com/album/116nCdc2grKmlE7TWqzeK6"
+      },
+      "artists": [
+        {
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
+        }
+      ],
+      "duration_ms": 184886,
+      "name": "Falling Star",
+      "url": "https://open.spotify.com/track/3GVQ2ND6tAWHeQemkgpRPe"
     },
     {
       "added_at": "2026-11-13 08:11:32",
@@ -189,20 +301,20 @@
       "url": "https://open.spotify.com/track/7o0Nw1ab2ZqHYNUatC4IdR"
     },
     {
-      "added_at": "2026-11-13 08:11:32",
+      "added_at": "2026-11-20 06:27:18",
       "album": {
-        "name": "JEDSOUL",
-        "url": "https://open.spotify.com/album/7wYPOORBi3uxPh7NCGN1WV"
+        "name": "Halle Berry",
+        "url": "https://open.spotify.com/album/6X61cAoyP6uoHH01rCcaic"
       },
       "artists": [
         {
-          "name": "JEDSOUL",
-          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+          "name": "Amal Zenab",
+          "url": "https://open.spotify.com/artist/70etnSmOIT4EJ5metyZe0y"
         }
       ],
-      "duration_ms": 181000,
-      "name": "NOT YOUR MAN",
-      "url": "https://open.spotify.com/track/2Y5AvklDqieQ3mPg5H6vnc"
+      "duration_ms": 228437,
+      "name": "Halle Berry",
+      "url": "https://open.spotify.com/track/040NmIFYjP3KG2kZXzWpHX"
     },
     {
       "added_at": "2026-10-30 04:36:33",
@@ -273,6 +385,22 @@
       "url": "https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr"
     },
     {
+      "added_at": "2026-11-20 06:27:18",
+      "album": {
+        "name": "Your Side Of The Bed",
+        "url": "https://open.spotify.com/album/1veX6AKnqRMrNqVzUVOAwm"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 163325,
+      "name": "Your Side Of The Bed",
+      "url": "https://open.spotify.com/track/2rx95oP5wHJPlJmrDXQSjU"
+    },
+    {
       "added_at": "2026-11-13 08:11:32",
       "album": {
         "name": "Vibing In The Corner",
@@ -319,6 +447,22 @@
       "duration_ms": 171038,
       "name": "Love Is On The Line",
       "url": "https://open.spotify.com/track/5Er50XhyFEapUAwV1Uvapa"
+    },
+    {
+      "added_at": "2026-11-20 06:27:18",
+      "album": {
+        "name": "Katina Daughter Deluxe",
+        "url": "https://open.spotify.com/album/4v9WZgVKz7fN73DdppknX2"
+      },
+      "artists": [
+        {
+          "name": "Cyanca",
+          "url": "https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Jesse Jackson",
+      "url": "https://open.spotify.com/track/7CG5edqstvkVKUaBwxLi1m"
     },
     {
       "added_at": "2026-11-13 08:11:32",
@@ -535,22 +679,6 @@
       "duration_ms": 193562,
       "name": "Care For Me",
       "url": "https://open.spotify.com/track/2EzboMQm7LEKWnbmkcORG8"
-    },
-    {
-      "added_at": "2026-11-06 18:12:42",
-      "album": {
-        "name": "Fighting For You",
-        "url": "https://open.spotify.com/album/3kACpJckq6rBSFMlMaPOES"
-      },
-      "artists": [
-        {
-          "name": "Breez Kennedy",
-          "url": "https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Fighting For You",
-      "url": "https://open.spotify.com/track/2PLMAJV47bfUyI5mHRzFxL"
     },
     {
       "added_at": "2026-09-25 07:19:01",
@@ -1269,22 +1397,6 @@
       "url": "https://open.spotify.com/track/5vpX6U5qb4culzcLyCfbH5"
     },
     {
-      "added_at": "2026-08-21 04:58:28",
-      "album": {
-        "name": "HONEYMOON",
-        "url": "https://open.spotify.com/album/2MB8L7pWjQ99nF9If8JTmY"
-      },
-      "artists": [
-        {
-          "name": "Parisalexa",
-          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "HONEYMOON",
-      "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
-    },
-    {
       "added_at": "2026-09-11 04:02:25",
       "album": {
         "name": "ATTITUDE ERA!",
@@ -1631,22 +1743,6 @@
     {
       "added_at": "2026-09-04 04:02:39",
       "album": {
-        "name": "I Didn't Want It This Way",
-        "url": "https://open.spotify.com/album/1I0dLTwIAWzDYSHlk8QrAE"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 178819,
-      "name": "I Didn't Want It This Way",
-      "url": "https://open.spotify.com/track/3VISSZwf0nc2m9cfbdKdVA"
-    },
-    {
-      "added_at": "2026-09-04 04:02:39",
-      "album": {
         "name": "Cry When I'm Alone",
         "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
       },
@@ -1691,22 +1787,6 @@
       "duration_ms": 141176,
       "name": "Fair Exchange",
       "url": "https://open.spotify.com/track/6w7R8Ki7x3X4GxpHNS5IPf"
-    },
-    {
-      "added_at": "2026-08-28 04:08:27",
-      "album": {
-        "name": "Need It Bad",
-        "url": "https://open.spotify.com/album/6M4IFOVXilA7SPewofxSKs"
-      },
-      "artists": [
-        {
-          "name": "EJ Jones",
-          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
-        }
-      ],
-      "duration_ms": 186821,
-      "name": "Need It Bad",
-      "url": "https://open.spotify.com/track/1rP3G14xhp8AnaWsBr8dnw"
     },
     {
       "added_at": "2026-08-14 04:57:25",
@@ -2353,38 +2433,6 @@
       "url": "https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4"
     },
     {
-      "added_at": "2026-07-10 05:29:33",
-      "album": {
-        "name": "RAX",
-        "url": "https://open.spotify.com/album/01kT2Oh03HzYUpIP8nrCaM"
-      },
-      "artists": [
-        {
-          "name": "Zae France",
-          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
-        }
-      ],
-      "duration_ms": 174287,
-      "name": "RAX",
-      "url": "https://open.spotify.com/track/0G6tAQnK1t8EWKCBZYYRph"
-    },
-    {
-      "added_at": "2026-07-17 04:38:08",
-      "album": {
-        "name": "Champagne & Lace",
-        "url": "https://open.spotify.com/album/0BDVoMb8Ry73OcefLlnMtd"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 158816,
-      "name": "Champagne & Lace",
-      "url": "https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn"
-    },
-    {
       "added_at": "2026-06-19 04:01:58",
       "album": {
         "name": "AMA",
@@ -2691,22 +2739,6 @@
       "duration_ms": 195790,
       "name": "WTF",
       "url": "https://open.spotify.com/track/2oyLgQOfWSA5Q1BH4LzuOJ"
-    },
-    {
-      "added_at": "2026-06-12 05:12:18",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/5UMHDHfNoyrIo66RuMjOBV"
-      },
-      "artists": [
-        {
-          "name": "Oranj Goodman",
-          "url": "https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG"
-        }
-      ],
-      "duration_ms": 138378,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/09GXjYOGBhcuOHbW1tBJP3"
     },
     {
       "added_at": "2026-06-05 04:01:54",
@@ -3187,22 +3219,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Don\u2019t Come Home",
-        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
-      },
-      "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        }
-      ],
-      "duration_ms": 131189,
-      "name": "Call Me When You Can",
-      "url": "https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Block Party",
         "url": "https://open.spotify.com/album/2YUSE19lgw3BftKj9skiW3"
       },
@@ -3487,22 +3503,6 @@
       "duration_ms": 195687,
       "name": "96 Camry",
       "url": "https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "H.O.M.B.",
-        "url": "https://open.spotify.com/album/5m2qjxXMxSU1U1ZIz4bdY6"
-      },
-      "artists": [
-        {
-          "name": "Qui",
-          "url": "https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396"
-        }
-      ],
-      "duration_ms": 169816,
-      "name": "H.O.M.B.",
-      "url": "https://open.spotify.com/track/4ALENBl3OIYOSWaUk6ILXd"
     },
     {
       "added_at": "2026-05-29 04:02:53",

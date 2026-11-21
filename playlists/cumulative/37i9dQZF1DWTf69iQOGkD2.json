@@ -3887,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Ningu\u00e9m \u00e9 de Ferro",
+        "url": "https://open.spotify.com/album/7Gvyyq6TAEgs6iUcmbxz7a"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186119,
+      "name": "Ningu\u00e9m \u00e9 de Ferro",
+      "url": "https://open.spotify.com/track/1PfrU7H0oZ7e1UQzyWJV2z"
+    },
+    {
+      "album": {
         "name": "Nossa Vibe",
         "url": "https://open.spotify.com/album/0TcAzOaoNuVh0X1Agn8hfX"
       },
@@ -6680,7 +6698,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 129962,
       "name": "Solidificando a Caminhada",
       "url": "https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE"

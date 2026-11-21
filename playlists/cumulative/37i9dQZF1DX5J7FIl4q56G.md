@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: DOWN
 
-12,983 songs - 35 day 20 hr 1 min
+12,984 songs - 35 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3911,7 +3911,7 @@
 | [Fake It](https://open.spotify.com/track/1LEahwlIlV0FwXAD7i0kuT) | [Renesans](https://open.spotify.com/artist/7KCdElfDqnvhKYAWOyPGSr) | [Fake It](https://open.spotify.com/album/2omJ8wSqvrVxGlv3QLfFz5) | 4:02 | 2026-10-09 | 2026-11-06 |
 | [Fake Love](https://open.spotify.com/track/0KoqFNztWNRLjYdUAeaJj3) | [Divide The Fall](https://open.spotify.com/artist/3w02P5LROmfJbh1YFHvtmC), [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Fake Love](https://open.spotify.com/album/48Vudq8aMfSykg0yGP2wtI) | 3:43 | 2024-03-08 | 2024-03-16 |
 | [FAKE!](https://open.spotify.com/track/6g7JPXJTlS9qxhwtxcGKJe) | [Nerv](https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b) | [FAKE!](https://open.spotify.com/album/21F1OUwaPAC2HdnNs4f6MX) | 3:22 | 2024-06-07 | 2024-06-15 |
-| [Fakebreaker](https://open.spotify.com/track/0yl8eeCsUlBnVrhf2KV5N9) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3), [REEBZ](https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t) | [GOD MODE level 03: No Damage](https://open.spotify.com/album/0I2ucrXdC9pUjkrUxQiy3U) | 3:43 | 2026-11-20 |  |
+| [Fakebreaker](https://open.spotify.com/track/0yl8eeCsUlBnVrhf2KV5N9) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3), [REEBZ](https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t) | [GOD MODE level 03: No Damage](https://open.spotify.com/album/0I2ucrXdC9pUjkrUxQiy3U) | 3:43 | 2026-11-20 | 2026-11-21 |
 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-02 | 2022-12-10 |
 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-07-14 | 2023-07-22 |
 | [Falcon](https://open.spotify.com/track/4KkDLPwDQT7IMU2p1eIv78) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Falcon](https://open.spotify.com/album/482tW8CH2QTOiDZyEyvDrg) | 3:47 | 2025-10-24 | 2025-11-08 |
@@ -7634,6 +7634,7 @@
 | [No Breakout](https://open.spotify.com/track/71aDYOdm1wB69ObSLrTzm3) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [No Breakout](https://open.spotify.com/album/6rA8maZl8sy0IDVOziSp7G) | 3:11 | 2025-06-20 | 2025-07-11 |
 | [No control](https://open.spotify.com/track/0YDbo0oaK5jGW8R9dfJPP1) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [No control](https://open.spotify.com/album/5N8pKJl8RO70CJCXuOJ2W5) | 4:06 | 2022-04-22 | 2022-04-29 |
 | [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 | 2022-12-02 | 2022-12-10 |
+| [No Damage](https://open.spotify.com/track/5d9jTJO7khYMgE8ZjYvuRd) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [GOD MODE level 03: No Damage](https://open.spotify.com/album/0I2ucrXdC9pUjkrUxQiy3U) | 3:36 | 2026-11-20 |  |
 | [No Escape](https://open.spotify.com/track/7mxNGEdEMHgLWlkPvWWOg3) | [Cold Steel](https://open.spotify.com/artist/2inu89bjNrWjp92nEqloP2) | [No Escape](https://open.spotify.com/album/2sZFL31RydO7aHupJpJF50) | 3:01 | 2025-09-05 | 2025-09-20 |
 | [No Escape \(feat\. Ricky Armellino\)](https://open.spotify.com/track/1pkUPzDpI7bHlUAEui4Lqx) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX), [Ricky Armellino](https://open.spotify.com/artist/7IliS1XcnvZjZmAsAs40Xw) | [Halloweentown](https://open.spotify.com/album/5VBp5SugcYFefQ6k9MevP6) | 3:29 | 2022-09-30 | 2022-10-08 |
 | [No Evil](https://open.spotify.com/track/1zO6NIKsqvH5p578KXr97T) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [No Evil](https://open.spotify.com/album/5CA2LhicOyfJdDq5vosOpD) | 2:30 | 2023-03-31 | 2023-04-09 |

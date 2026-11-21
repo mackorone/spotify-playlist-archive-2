@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Ruïnosa y las Strippers de Rahola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,691 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,742 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [CÁLLATE YA](https://open.spotify.com/track/2Koj4wXXKYUiETuqGsXbNZ) | [8 y Medio](https://open.spotify.com/artist/29xJWp07Ld04lmvT0tizaR), [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ) | [CÁLLATE YA](https://open.spotify.com/album/5mokadGvpHWIwDgHso747O) | 1:56 |
 | 100 | [Billete de ida](https://open.spotify.com/track/433I508hFqLs4EHsFLY8PW) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [Billete de ida](https://open.spotify.com/album/3TkvcKqekmS3sb87xugbGf) | 3:19 |
 
-Snapshot ID: `AAAAABWG9K0fnGC24gSzbMidyn9+BWC8`
+Snapshot ID: `AAAAAHyJdwv0Y4fTLzVEfAo9wY1dgcXN`

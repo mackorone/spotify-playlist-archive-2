@@ -1,12 +1,12 @@
 {
   "description": "Sfera nelle \ud83c\udfa7 di tutti, e in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
-  "num_followers": 1114683,
+  "num_followers": 1114593,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOvZdnN09jcPMMUZ9b3Gp3MYQa0s",
+  "snapshot_id": "AAAAAKrr2hRacSNI86u4hpWwIQfi9lqb",
   "tracks": [
     {
       "added_at": "2026-11-20 00:01:56",
@@ -70,10 +70,14 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
       "duration_ms": 193040,
-      "name": "Moonlight",
+      "name": "Moonlight (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS"
     },
     {
@@ -182,10 +186,18 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 211160,
-      "name": "Victory Lap",
+      "duration_ms": 211170,
+      "name": "Victory Lap (feat. Shiva, Geolier)",
       "url": "https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4"
     },
     {

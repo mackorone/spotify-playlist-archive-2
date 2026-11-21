@@ -4,7 +4,7 @@
 
 > musica per un autunno non proprio felice \(gianmaria in cover\)
 
-1,810 songs - 3 day 11 hr 14 min
+1,811 songs - 3 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1188,6 +1188,7 @@
 | [peggio per te](https://open.spotify.com/track/1XkOV0IbbzZ9tC3UcAeRjF) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [G.bit](https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs) | [peggio per te](https://open.spotify.com/album/6XiHGfiJ1AJPcYDGIinT2o) | 2:10 | 2024-05-09 | 2024-07-12 |
 | [PEGGIO X ME](https://open.spotify.com/track/4wf7JDYqfgerUSm7o5D5Xj) | [LIL CIU](https://open.spotify.com/artist/1gIo0q3Sj8MHi9DRqiOJlW) | [PEGGIO X ME](https://open.spotify.com/album/0Ty4csTDjqi50rfMUECSR4) | 2:16 | 2023-12-14 | 2024-01-19 |
 | [Peggiore Mostro](https://open.spotify.com/track/1GbP7LY61Ep0gaU3rVv1FM) | [GRACE](https://open.spotify.com/artist/5AVXKxGMQaToDCdbBqGlIR) | [Peggiore Mostro](https://open.spotify.com/album/3JAjJ9QXpqCpwstS8HzfsZ) | 2:16 | 2024-04-18 | 2024-06-01 |
+| [Pelle sensibile](https://open.spotify.com/track/0zMMiy5xAj4oSKQIOX6nqC) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Pelle sensibile](https://open.spotify.com/album/7KqW6BA6yThGVApwhp1NFc) | 3:20 | 2026-11-20 |  |
 | [PENSAMI + FORTE](https://open.spotify.com/track/68YhFfjXOORniqsSL1wCPT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [PENSAMI + FORTE](https://open.spotify.com/album/7bVQZGfsaoNASKRS9H8Hlp) | 2:23 | 2026-06-11 | 2026-07-18 |
 | [PENSAVO FOSSE AMORE](https://open.spotify.com/track/6IYQF6zaOxhn8OGFivyT5J) | [Sad Twins](https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P) | [PENSAVO FOSSE AMORE](https://open.spotify.com/album/3Rr2xikWPobfmJoC8pW1bK) | 2:41 | 2024-10-17 | 2025-01-17 |
 | [penso a te](https://open.spotify.com/track/7jvDfz3I1JZYOaW4c5plrc) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [penso a te](https://open.spotify.com/album/1ezAixItQx43roebtin0Bc) | 2:22 | 2022-09-22 | 2023-01-13 |

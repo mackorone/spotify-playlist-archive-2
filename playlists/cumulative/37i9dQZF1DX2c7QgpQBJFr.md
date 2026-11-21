@@ -4,7 +4,7 @@
 
 > la nuova scena pop 🇮🇹 VEROSIMILE in cover
 
-1,666 songs - 3 day 7 hr 44 min
+1,667 songs - 3 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1121,6 +1121,7 @@
 | [PAURA DI ME](https://open.spotify.com/track/2mjOVIN374WM756hIds37D) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [PAURA DI ME](https://open.spotify.com/album/1vNdfcGM7TC8vBFeNI7872) | 3:16 | 2025-09-11 | 2025-10-17 |
 | [PAURA DI VIVERE](https://open.spotify.com/track/11pSZMUwEXOEuxSYY5nSxl) | [Niel](https://open.spotify.com/artist/2T6ID3nhar3gC5LCMJzRV8) | [PAURA DI VIVERE](https://open.spotify.com/album/1bCbkQlvOFNUvGeULWJyxh) | 3:50 | 2025-10-16 | 2025-11-14 |
 | [PEGGIO DI COSÌ](https://open.spotify.com/track/7x4PciuQrmMr6YW7SaUjFx) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [PEGGIO DI COSÌ](https://open.spotify.com/album/2KBXv5o2hBSE4172C0fXhp) | 2:42 | 2024-09-19 | 2024-11-15 |
+| [Pelle sensibile](https://open.spotify.com/track/0zMMiy5xAj4oSKQIOX6nqC) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Pelle sensibile](https://open.spotify.com/album/7KqW6BA6yThGVApwhp1NFc) | 3:20 | 2026-11-20 |  |
 | [Penny](https://open.spotify.com/track/0ggQvRsBDnkzyJxjFvOr2s) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Penny](https://open.spotify.com/album/4SwP4HbigFbeijbcn76bx1) | 3:43 | 2026-02-12 | 2026-03-20 |
 | [PENSAMI + FORTE](https://open.spotify.com/track/68YhFfjXOORniqsSL1wCPT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [PENSAMI + FORTE](https://open.spotify.com/album/7bVQZGfsaoNASKRS9H8Hlp) | 2:23 | 2026-06-11 | 2026-07-03 |
 | [PENSARCI BENE](https://open.spotify.com/track/5IKylHyPzlqYpOLV604Xa0) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [PENSARCI BENE](https://open.spotify.com/album/16nfVhVC0eJuRrdvNZzY3W) | 2:37 | 2026-09-10 | 2026-10-09 |

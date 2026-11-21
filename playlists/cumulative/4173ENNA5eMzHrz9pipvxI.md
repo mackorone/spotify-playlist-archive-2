@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Lavern
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: A7S x Loreen
 
-2,105 songs - 4 day 5 hr 23 min
+2,107 songs - 4 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Find Out Who We Are](https://open.spotify.com/track/4l6l24NpbjB40Kv6MgRiaW) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Find Out Who We Are \(feat\. Lusaint\)](https://open.spotify.com/album/1vjph34Y6lOE0t6FXwz9AV) | 4:18 | 2022-10-28 | 2022-11-11 |
 | [Fine Day](https://open.spotify.com/track/3LAAC4YVKoRRqzZ7mIT5Wu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Fine Day](https://open.spotify.com/album/1E3ZxLvPj6bJa3aT4ZuxH5) | 2:16 | 2023-08-17 | 2023-09-01 |
 | [Fine Day \(Ninkid Remix\)](https://open.spotify.com/track/3R8ae3SyEdVm4uEq9gnJwd) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Ninkid](https://open.spotify.com/artist/1YpcWKZ6C4hf2Qzj9X3ens) | [Fine Day \(Ninkid Remix\)](https://open.spotify.com/album/1RRLgXkN2UswX5A6wbAcug) | 2:13 | 2023-02-17 | 2023-02-25 |
+| [Fire](https://open.spotify.com/track/3gXPPeGYuBhNHCrOXBwsrQ) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Fire](https://open.spotify.com/album/19bfTUc47e6s9zFw5vNHsd) | 3:43 | 2026-11-20 |  |
 | [Fit The Tempo](https://open.spotify.com/track/3yXgRhLAjW7I3vRv8QY43C) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [VIKTOR](https://open.spotify.com/artist/40opAACGmFD5yvWfvg4b1V) | [Fit The Tempo](https://open.spotify.com/album/4ZjEvuT2fAJPc46RluNFAK) | 2:32 | 2026-05-14 |  |
 | [Flare](https://open.spotify.com/track/6QeeRsxS1wfIIThMPYOnIK) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [Flare](https://open.spotify.com/album/04Sl8BlSR2PwDHmYBry2xR) | 2:23 | 2022-09-16 | 2022-10-01 |
 | [Flare \- Slowed Version](https://open.spotify.com/track/4vZsuTtUHmHnTHkECe9bFC) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [Flare \(Slowed Version\)](https://open.spotify.com/album/0NALFe4QHceeAWkMUWkmUz) | 2:41 | 2023-01-05 | 2023-01-13 |
@@ -1029,6 +1030,7 @@
 | [Let It Drop](https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Let It Drop](https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V) | 3:13 | 2023-08-25 | 2023-09-26 |
 | [Let It Rain](https://open.spotify.com/track/5NMfwSnH5QarfMKiCl10GO) | [Luke Miller](https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD), [OFFDATA](https://open.spotify.com/artist/2Gy19A1Xs1NuIHND1dCh7p) | [Let It Rain](https://open.spotify.com/album/1OeAgQpEOIyuE5ghCasm9H) | 2:26 | 2024-10-17 | 2024-11-15 |
 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 | 2024-09-19 | 2024-10-04 |
+| [LET ME BE \(Chrissyjeey Remix\)](https://open.spotify.com/track/2Pao2iHUTnrd4F2JFyuLVm) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Chrissyjeey](https://open.spotify.com/artist/4t1OwXCd8p5VD9DEqsbOjJ) | [LET ME BE \(Chrissyjeey Remix\)](https://open.spotify.com/album/1GBijF0ZhZ9pkjQCwrSlZx) | 3:10 | 2026-11-20 |  |
 | [LET ME BE \(Hypaton Remix\)](https://open.spotify.com/track/5Vey5CAjwhUBCnF3YUegQt) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [LET ME BE \(Hypaton Remix\)](https://open.spotify.com/album/6HcicZeeiK4bIOuWmwOCtf) | 2:36 | 2026-08-07 |  |
 | [LET ME BE \(Justė Remix\)](https://open.spotify.com/track/3N2XG1mOYr7gCCCPulkuAY) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key) | [LET ME BE \(Justė Remix\)](https://open.spotify.com/album/5vCcSSKmG4sPt8ZcXu0DwN) | 3:00 | 2026-08-21 |  |
 | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 | 2026-09-03 |  |

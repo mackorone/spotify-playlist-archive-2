@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta, bouyon & dembow du moment\. Photo : Miimii KDS x LeJuh x Pyroman
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,502 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,561 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 7 | [Pow Pow / Allo Doudou](https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Pow Pow / Allo Doudou](https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB) | 3:39 |
 | 8 | [Pétasse](https://open.spotify.com/track/1MKvyJAan3aRJor3oXgFi8) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [Bad’Deey](https://open.spotify.com/artist/2Kn5tP2Yo9UUM9QXkuHIhp), [Foxii](https://open.spotify.com/artist/5nU3O7mV2w9OiOxQFzlHEv), [JD](https://open.spotify.com/artist/0qcbI7oxRa27auD5l0dY57) | [Pétasse](https://open.spotify.com/album/4culMC71D8kGehVlRvTNsA) | 2:35 |
 | 9 | [Boss](https://open.spotify.com/track/0pz9Nm8wMv50rUffkzfwqD) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i) | [Boss](https://open.spotify.com/album/05rvHy2DwAcmER2H1udQV4) | 2:34 |
-| 10 | [Shatdemshat](https://open.spotify.com/track/5QAFhRSOuI5VBMDDGkT1GA) | [St Unit](https://open.spotify.com/artist/3ZgxAwvBnX0CSGmeFWCuQU), [Alvin Brown Beats](https://open.spotify.com/artist/06YsgAfOVUoiazGBN7eYfZ) | [Colipays, Pt.3](https://open.spotify.com/album/09OjJBv369YC2VZzBsHO64) | 1:57 |
+| 10 | [Shatdemshat](https://open.spotify.com/track/5QAFhRSOuI5VBMDDGkT1GA) | [St Unit](https://open.spotify.com/artist/3ZgxAwvBnX0CSGmeFWCuQU), [Alvin Brown Beats](https://open.spotify.com/artist/06YsgAfOVUoiazGBN7eYfZ) | [Colipays, Pt\. 3](https://open.spotify.com/album/09OjJBv369YC2VZzBsHO64) | 1:57 |
 | 11 | [Mèm si \- Doudou](https://open.spotify.com/track/6b17tacwa5AMfcKtsW6LUu) | [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT), [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p), [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Mèm si \(Doudou\)](https://open.spotify.com/album/15JqPPc93sMs9mwiOes3vq) | 3:35 |
 | 12 | [Sexy Lady](https://open.spotify.com/track/7JM7cd2IAwlpHcnNccC5B7) | [cecinelle](https://open.spotify.com/artist/2qU3ETtkQqxFy6JZyMucBh) | [Sexy Lady](https://open.spotify.com/album/5WD5Z4vkzmn2yqC3DcA2CQ) | 2:39 |
 | 13 | [Nikki](https://open.spotify.com/track/5yWthlFYMiTdL5l80OpqV1) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [TONIGHT](https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Asi cash](https://open.spotify.com/track/0N9XeFuRyRUT6YTiOOkQ6c) | [Pj Man](https://open.spotify.com/artist/37bx3LDHxYirUq9niuHsOb), [Phéno](https://open.spotify.com/artist/3pYEsQmBEFB5729odpEjLS) | [Asi cash](https://open.spotify.com/album/2gpq7RnLa2AgVS71fEGWra) | 2:46 |
 | 50 | [PSY](https://open.spotify.com/track/6zeJ4cgidkzSEieyvm5FSv) | [ZOE LUCY](https://open.spotify.com/artist/0fi0UZMwNy8fGhjvcnnuD2), [Sansand](https://open.spotify.com/artist/0MJlQlTR7mSGW1mmwm94PZ) | [PSY](https://open.spotify.com/album/5tqMm59NxAHrLOZsdzXdGS) | 2:43 |
 
-Snapshot ID: `AAAAAJxdmmfpiSLn6LHjNCx6MwLKx43P`
+Snapshot ID: `AAAAANtXLYBQVymxUX1yeRnYbtZ6hi7O`

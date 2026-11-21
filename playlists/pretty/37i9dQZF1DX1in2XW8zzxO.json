@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 108686,
+  "num_followers": 108744,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADCr5RELEKyVnm3o//qOM7XUfIp2",
+  "snapshot_id": "AAAAAFjbmLxLRzfVWK5A6wk/AJNvIwsz",
   "tracks": [
     {
       "added_at": "2026-09-10 22:02:20",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
+        "name": "The Legacy EP King of Barcadi",
+        "url": "https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH"
+      },
+      "artists": [
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        }
+      ],
+      "duration_ms": 290041,
+      "name": "6 foot 7 Foot - Remix",
+      "url": "https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
         "name": "Khetiwe",
         "url": "https://open.spotify.com/album/7LSJg8madvQUCxFIecgHmG"
       },
@@ -1143,50 +1159,6 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "The Legacy EP King of Barcadi",
-        "url": "https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH"
-      },
-      "artists": [
-        {
-          "name": "Enny Man Da Guitar",
-          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
-        }
-      ],
-      "duration_ms": 290041,
-      "name": "6 foot 7 Foot - Remix",
-      "url": "https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
-        "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
-        "url": "https://open.spotify.com/album/24HHO3WJUHveNkQF5gfOmL"
-      },
-      "artists": [
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        },
-        {
-          "name": "Ndibo Ndibs",
-          "url": "https://open.spotify.com/artist/6rEdZVv3UyRT6jibugZN9x"
-        },
-        {
-          "name": "Djy Zan SA",
-          "url": "https://open.spotify.com/artist/6G8cF1dY05cxy99pzEdGya"
-        }
-      ],
-      "duration_ms": 458761,
-      "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
-      "url": "https://open.spotify.com/track/42C3ZqhZ08eCsIOwmW3xZJ"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
         "name": "Pelo Tse Thata (feat. DJ Maphorisa)",
         "url": "https://open.spotify.com/album/49Q8RG3DoTw58SuAZP2jSG"
       },
@@ -1215,6 +1187,34 @@
       "duration_ms": 372168,
       "name": "Pelo Tse Thata (feat. DJ Maphorisa)",
       "url": "https://open.spotify.com/track/740a5PyydGEN0fDTNPwRQ7"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
+        "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
+        "url": "https://open.spotify.com/album/24HHO3WJUHveNkQF5gfOmL"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "Ndibo Ndibs",
+          "url": "https://open.spotify.com/artist/6rEdZVv3UyRT6jibugZN9x"
+        },
+        {
+          "name": "Djy Zan SA",
+          "url": "https://open.spotify.com/artist/6G8cF1dY05cxy99pzEdGya"
+        }
+      ],
+      "duration_ms": 458761,
+      "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
+      "url": "https://open.spotify.com/track/42C3ZqhZ08eCsIOwmW3xZJ"
     },
     {
       "added_at": "2026-09-10 22:02:20",
@@ -1383,38 +1383,22 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
-        "name": "Skuta Baba (Remix Pack)",
-        "url": "https://open.spotify.com/album/05xMiDYYKjQ6jt8AYgyCGr"
+        "name": "Bass Outra !",
+        "url": "https://open.spotify.com/album/2f8SzIxSBQW10s8ge33O59"
       },
       "artists": [
         {
-          "name": "WOODBLOCK DJS",
-          "url": "https://open.spotify.com/artist/4U1nhrvg5AujdFVNDYdxnQ"
+          "name": "Sgija Keys",
+          "url": "https://open.spotify.com/artist/3nMUXRbnQ1LAixKdBCt0Ti"
         },
         {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Loatinover Pounds",
-          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
-        },
-        {
-          "name": "G-TECH 2bit",
-          "url": "https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0"
-        },
-        {
-          "name": "Venom",
-          "url": "https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2"
-        },
-        {
-          "name": "Mochen",
-          "url": "https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg"
+          "name": "M00tion",
+          "url": "https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j"
         }
       ],
-      "duration_ms": 260209,
-      "name": "Skuta Baba - Pitori Remix",
-      "url": "https://open.spotify.com/track/5FsDe3oTjRtEuzZcYUGiF2"
+      "duration_ms": 351503,
+      "name": "Bass Outra !",
+      "url": "https://open.spotify.com/track/6r5GQYg2Z3Jfz4KIxrFjTH"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

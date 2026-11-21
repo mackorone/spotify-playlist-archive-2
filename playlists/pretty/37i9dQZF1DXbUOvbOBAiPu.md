@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Dua Lipa, Warhaus, Zoë Livay,  Jul & J Balvin, Adèle Castillon, Zwangere Guy & Sef and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,932 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,050 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:12 |
+| 1 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:11 |
 | 2 | [Just a Spark Away](https://open.spotify.com/track/15dKV97tfPah9U97C307uo) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Just a Spark Away](https://open.spotify.com/album/2m6M5dDi2OUxYa1oFG3BDW) | 2:54 |
 | 3 | [Zolang Als Het Kan](https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Zolang Als Het Kan](https://open.spotify.com/album/0mhKIkLsJZUJ60YqxHTJ8b) | 3:00 |
 | 4 | [Janken](https://open.spotify.com/track/0f3CzmKThDf78TjsqZOjkC) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [De Traantjes](https://open.spotify.com/album/0R78i6SLaYmPaSVi0HJHWU) | 2:12 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 13 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
 | 14 | [LET ME LOVE U?](https://open.spotify.com/track/2IQCI291KZPzxZVut7Lrip) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [LET ME LOVE U?](https://open.spotify.com/album/2BhrigAOtSWvXKsWbL9S9C) | 2:26 |
 | 15 | [lumière bleue](https://open.spotify.com/track/7JNYcxW2CXCInrrXaT6ABy) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [la forteresse](https://open.spotify.com/album/2POSTbp0bu75bHYaJXkX6f) | 3:47 |
-| 16 | [Around The World](https://open.spotify.com/track/6M13rru1yByqJG8NqCNha2) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Around The World](https://open.spotify.com/album/6SEUHbva11yfBYcuurWGoK) | 2:06 |
+| 16 | [All Around The World \(La La La La La\)](https://open.spotify.com/track/6M13rru1yByqJG8NqCNha2) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [All Around The World \(La La La La La\)](https://open.spotify.com/album/6SEUHbva11yfBYcuurWGoK) | 2:06 |
 | 17 | [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 |
 | 18 | [Volte\-face](https://open.spotify.com/track/3NTVVrc04FtcpNq94XH56J) | [Anouk](https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS) | [Volte\-face](https://open.spotify.com/album/22MXT6eNm3Z7fuEvTwI8yT) | 2:59 |
 | 19 | [Ça fait mal](https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Ça fait mal](https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU) | 2:39 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 67 | [LEMONS..](https://open.spotify.com/track/3B9mfxJXkjOOimmLF9JnML) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [REALEYES..](https://open.spotify.com/album/2YbnHnkD7BpQbqLpkkHKlo) | 3:33 |
 | 68 | [Scuba](https://open.spotify.com/track/3p1NIjk7tUKV57RJlMZtTT) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Scuba](https://open.spotify.com/album/5ijpDOOLDPhNHSkQJ5D5OG) | 2:45 |
 | 69 | [Bomba](https://open.spotify.com/track/1CR9oQiSN6ll7d7EANwml1) | [MC V.E.G.A](https://open.spotify.com/artist/52BJprbpf5RwjNEjhCYHv8), [Avilo](https://open.spotify.com/artist/0wsdRPYAfXmk3s9dfc3cfE) | [Bomba](https://open.spotify.com/album/7GOQsxR48UbMVGRnsM7M7z) | 2:24 |
-| 70 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
+| 70 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 71 | [ÇA DEVIENT PARO](https://open.spotify.com/track/0z1y0mm4TBXlikCbL7dCPo) | [KLIBR&FRIENDS](https://open.spotify.com/artist/6VBMUX11wD2jF80BOPXCaw), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [Mad Rey](https://open.spotify.com/artist/1RPMb5s6cee0xfgR8XNvyx) | [ÇA DEVIENT PARO](https://open.spotify.com/album/4NekcONjOFe3uupB8Bxyn9) | 1:46 |
 | 72 | [Lost \(In All The Lights\)](https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Lost \(In All The Lights\)](https://open.spotify.com/album/354PlL7RC6QKmolEblejz6) | 3:16 |
 | 73 | [Limewood](https://open.spotify.com/track/51TJRPkBwuElvU11NeJuRt) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Limewood](https://open.spotify.com/album/5blAp6zsldtdGua0bzpITn) | 4:12 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 124 | [EPITAPH](https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [EPITAPH](https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj) | 3:08 |
 | 125 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 
-Snapshot ID: `AAAAAAcWU4cxxt1SBwBZ1NzeO7QRh4UF`
+Snapshot ID: `AAAAAPRHjlbltfqJlxhDNrINQaapPG3O`

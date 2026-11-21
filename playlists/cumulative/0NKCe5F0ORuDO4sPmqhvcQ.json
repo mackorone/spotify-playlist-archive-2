@@ -12503,6 +12503,24 @@
     },
     {
       "album": {
+        "name": "Summer High",
+        "url": "https://open.spotify.com/album/3zHpJKyqlWCC0qL0HqCbrR"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Summer High",
+      "url": "https://open.spotify.com/track/0iRT3x0q20SPDWaWbKCPJ7"
+    },
+    {
+      "album": {
         "name": "A Slushii Summer",
         "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
       },

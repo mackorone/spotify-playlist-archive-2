@@ -4,7 +4,7 @@
 
 > Lo nuevo de toda Iberoamérica\. Foto: Myke Towers,  Rauw Alejandro
 
-14,908 songs - 32 day 18 hr 24 min
+14,909 songs - 32 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5474,7 +5474,7 @@
 | [Gloria](https://open.spotify.com/track/7g6hdsFsrG5uRvZqbHJ6QW) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Epifanías](https://open.spotify.com/album/0MiX5iS0BA78SNf2EQ7wFz) | 3:20 | 2022-12-16 | 2022-12-24 |
 | [Gluten Free](https://open.spotify.com/track/6RhlG7oPVXMM3d2dukBcuY) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Topo](https://open.spotify.com/artist/4Miyqlo31ghyJFM5QycK1J), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Gluten Free](https://open.spotify.com/album/378gbiJvDPvppoYOfOeg7h) | 4:32 | 2022-03-25 | 2022-04-02 |
 | [GO !](https://open.spotify.com/track/5YXz70oFfLpWdTYHDWDAQM) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [CULTO II](https://open.spotify.com/album/6JuQ1TJnbqDp9O5stQGOJx) | 2:40 | 2025-05-02 | 2025-05-10 |
-| [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 | 2026-11-20 |  |
+| [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 | 2026-11-20 |  |
 | [GO GO GO](https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6) | [La Crema](https://open.spotify.com/album/1LliLGMCamo6OZ0SQBGINc) | 2:57 | 2023-08-25 | 2023-09-02 |
 | [GOATSTAR](https://open.spotify.com/track/4i9QkVLqzN6c3fNSaNJPNo) | [Emilio Cabra](https://open.spotify.com/artist/0v3BbC31xeFTsSemq1ApgI) | [GOATSTAR](https://open.spotify.com/album/7uCmrTga14ObB0lM6acn3Q) | 2:35 | 2026-09-25 | 2026-10-03 |
 | [Gobiérname](https://open.spotify.com/track/6Nh3jUe0llv1BsbyGraH5T) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Gobiérname](https://open.spotify.com/album/3cAjgVllvtmZAFN8xodK08) | 3:31 | 2022-08-26 | 2022-09-03 |
@@ -14360,6 +14360,7 @@
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-04-01 | 2022-04-09 |
 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 | 2023-05-05 | 2023-05-13 |
 | [VUELTIANDO](https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [VUELTIANDO](https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh) | 2:54 | 2023-04-28 | 2023-05-06 |
+| [Vuelve](https://open.spotify.com/track/43cwMuALbAYrTplAXStPMa) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Se Toco El T\#tito Con Mi Gl\*ck](https://open.spotify.com/album/2J33n3xk9ArHdSdJf09zfR) | 4:50 | 2026-11-20 |  |
 | [Vuelve](https://open.spotify.com/track/4rKEWNZrYYo66knSxFxE2J) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Vuelve](https://open.spotify.com/album/7Gh08NTaT7OVUQmUT0GJ76) | 4:50 | 2026-10-09 | 2026-10-17 |
 | [Vuelve](https://open.spotify.com/track/4Qkq9NRnnWSiwfeWjQJXaW) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Vuelve](https://open.spotify.com/album/22YKWWUjZorWKzYWb0CcKJ) | 3:26 | 2024-10-18 | 2024-10-26 |
 | [vuelve](https://open.spotify.com/track/565mWLRnlRTcfGdruoxJbP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [vuelve](https://open.spotify.com/album/5Lw8CZl4zZG5uMxvHeqJnE) | 3:21 | 2022-04-29 | 2022-05-07 |

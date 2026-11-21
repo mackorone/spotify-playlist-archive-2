@@ -21395,6 +21395,24 @@
     },
     {
       "album": {
+        "name": "Pelle sensibile",
+        "url": "https://open.spotify.com/album/7KqW6BA6yThGVApwhp1NFc"
+      },
+      "artists": [
+        {
+          "name": "CHANDIE",
+          "url": "https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200378,
+      "name": "Pelle sensibile",
+      "url": "https://open.spotify.com/track/0zMMiy5xAj4oSKQIOX6nqC"
+    },
+    {
+      "album": {
         "name": "Penny",
         "url": "https://open.spotify.com/album/4SwP4HbigFbeijbcn76bx1"
       },

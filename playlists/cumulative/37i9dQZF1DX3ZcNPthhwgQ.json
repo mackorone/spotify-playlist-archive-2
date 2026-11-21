@@ -7223,6 +7223,24 @@
     },
     {
       "album": {
+        "name": "Mi Esposa Consentida",
+        "url": "https://open.spotify.com/album/7tkgA8z4fg8ewU72q6njVM"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Mi Esposa Consentida",
+      "url": "https://open.spotify.com/track/7C27k5lANwonEIe2cKN48D"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },

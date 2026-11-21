@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 114763,
+  "num_followers": 114787,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAADOSXxQ7nr1gvp37yMdMRa",
+  "snapshot_id": "av48AAAAAABkg+fh5CfmqfOQ3oUlXvLP",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,25 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 131263,
-      "name": "LILY WAS A CAVALIER",
-      "url": "https://open.spotify.com/track/5ZzoyYAFQr3L0IBQTovBjy"
+      "duration_ms": 145099,
+      "name": "PANGEA",
+      "url": "https://open.spotify.com/track/4aAoJzg1L7TRWPNsuPzZD4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U"
     },
     {
       "added_at": null,
@@ -139,22 +155,6 @@
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 145099,
-      "name": "PANGEA",
-      "url": "https://open.spotify.com/track/4aAoJzg1L7TRWPNsuPzZD4"
+      "duration_ms": 131263,
+      "name": "LILY WAS A CAVALIER",
+      "url": "https://open.spotify.com/track/5ZzoyYAFQr3L0IBQTovBjy"
     },
     {
       "added_at": null,
@@ -398,15 +398,11 @@
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
         }
       ],
-      "duration_ms": 157349,
-      "name": "RENO",
-      "url": "https://open.spotify.com/track/65CWvURRoOpaCZbuwaV4ZA"
+      "duration_ms": 178334,
+      "name": "WALLFLOWER",
+      "url": "https://open.spotify.com/track/20cre5t6pqsZPCF794uJpT"
     },
     {
       "added_at": null,

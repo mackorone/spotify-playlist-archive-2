@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 595457,
+  "num_followers": 595477,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMdCh674NRyf9aZFTlLesBAMuLgE",
+  "snapshot_id": "AAAAAAtjD+svfaBGfLObabB7Wu3/1Ev5",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:57",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
+      },
+      "artists": [
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
         "name": "Take My Mind",
         "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
       },
@@ -891,18 +907,22 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
+        "name": "Faded Eyes",
+        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
       },
       "artists": [
         {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
+      "duration_ms": 177713,
+      "name": "Faded Eyes",
+      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
     },
     {
       "added_at": "2026-11-20 05:01:57",
@@ -927,26 +947,6 @@
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
-        "name": "Faded Eyes",
-        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177713,
-      "name": "Faded Eyes",
-      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
     },
     {
       "added_at": "2026-11-20 05:01:57",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
-        "name": "Ice 2 Water",
-        "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Ronis Goliath",
-          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 196700,
-      "name": "Ice 2 Water",
-      "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
         "name": "Natural Blues (TECIE)",
         "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 252857,
       "name": "Natural Blues (TECIE)",
       "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
+        "name": "Ice 2 Water",
+        "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 196700,
+      "name": "Ice 2 Water",
+      "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
     },
     {
       "added_at": "2026-11-20 05:01:57",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
+        "name": "Talking Slow",
+        "url": "https://open.spotify.com/album/0pZoi7Kis24QwZB90HWfTU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Talking Slow",
+      "url": "https://open.spotify.com/track/5KmU1Uqh0YCSRBsMDZuDkY"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
         "name": "Kumeleli",
         "url": "https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
-        "name": "Talking Slow",
-        "url": "https://open.spotify.com/album/0pZoi7Kis24QwZB90HWfTU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Talking Slow",
-      "url": "https://open.spotify.com/track/5KmU1Uqh0YCSRBsMDZuDkY"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/0W94RDU5UFKmOHCFVQ7hXf"
       },
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
-        "name": "Burnin\u2019",
-        "url": "https://open.spotify.com/album/346v48psajNjK5sLdY78de"
-      },
-      "artists": [
-        {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        },
-        {
-          "name": "Mosoo",
-          "url": "https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh"
-        }
-      ],
-      "duration_ms": 243391,
-      "name": "Burnin\u2019",
-      "url": "https://open.spotify.com/track/5u7x59PqCM2jqQt6iDreY8"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
         "name": "Rivers and Homes Retake",
         "url": "https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 265511,
       "name": "Rivers and Homes Retake",
       "url": "https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
+        "name": "Burnin\u2019",
+        "url": "https://open.spotify.com/album/346v48psajNjK5sLdY78de"
+      },
+      "artists": [
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Mosoo",
+          "url": "https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh"
+        }
+      ],
+      "duration_ms": 243391,
+      "name": "Burnin\u2019",
+      "url": "https://open.spotify.com/track/5u7x59PqCM2jqQt6iDreY8"
     },
     {
       "added_at": "2026-11-20 05:01:57",
@@ -1819,6 +1819,50 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
+        "name": "Running Out",
+        "url": "https://open.spotify.com/album/0hs7KLRxIYydUpi47MBgZM"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "David Mackay",
+          "url": "https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt"
+        },
+        {
+          "name": "briqs",
+          "url": "https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Running Out",
+      "url": "https://open.spotify.com/track/7adewMzPhFcGwTD378YXjY"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
         "name": "Piece Of Me",
         "url": "https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO"
       },
@@ -1839,26 +1883,6 @@
       "duration_ms": 189651,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
-        "name": "Kamwana",
-        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 152975,
-      "name": "Kamwana",
-      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-11-20 05:01:57",
@@ -1907,30 +1931,6 @@
       "duration_ms": 192250,
       "name": "AHA",
       "url": "https://open.spotify.com/track/6qL1lMdzVr9Gdz2VoZoCLy"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
-        "name": "Running Out",
-        "url": "https://open.spotify.com/album/0hs7KLRxIYydUpi47MBgZM"
-      },
-      "artists": [
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        },
-        {
-          "name": "David Mackay",
-          "url": "https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt"
-        },
-        {
-          "name": "briqs",
-          "url": "https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Running Out",
-      "url": "https://open.spotify.com/track/7adewMzPhFcGwTD378YXjY"
     },
     {
       "added_at": "2026-11-20 05:01:57",
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
+        "name": "8pm",
+        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "duration_ms": 354098,
+      "name": "8pm",
+      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
         "name": "Secrets (feat. True Motion)",
         "url": "https://open.spotify.com/album/5VTJ4q6s1ATldSf3ahOt40"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 195121,
       "name": "Secrets - feat. True Motion",
       "url": "https://open.spotify.com/track/45qrI4aHPLxc7jzIgwjUMQ"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
-        "name": "8pm",
-        "url": "https://open.spotify.com/album/0NNBgo3NYs9eUXnEC0wC3a"
-      },
-      "artists": [
-        {
-          "name": "Walid Martinez",
-          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
-        }
-      ],
-      "duration_ms": 354098,
-      "name": "8pm",
-      "url": "https://open.spotify.com/track/3mlUchN9dQr9Ybu3linuGK"
     },
     {
       "added_at": "2026-11-20 05:01:57",
@@ -2471,26 +2471,6 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
-        "name": "Casablanca",
-        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
-      },
-      "artists": [
-        {
-          "name": "Lilya Mandre",
-          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 285148,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
         "name": "Let's Get Down",
         "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
       },
@@ -2507,6 +2487,26 @@
       "duration_ms": 195692,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
+      },
+      "artists": [
+        {
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "duration_ms": 285148,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
     },
     {
       "added_at": "2026-11-20 05:01:57",
@@ -2583,6 +2583,26 @@
     {
       "added_at": "2026-11-20 05:01:57",
       "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/7itzZ1nCtkAh5tQ7HBhNBs"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Jinger Stone",
+          "url": "https://open.spotify.com/artist/0zuvB6HALKZ3cUfyzfq6Y2"
+        }
+      ],
+      "duration_ms": 280688,
+      "name": "Ake Tsabe",
+      "url": "https://open.spotify.com/track/0VsfEtKqtkLuT1csgVTomO"
+    },
+    {
+      "added_at": "2026-11-20 05:01:57",
+      "album": {
         "name": "AD02: Pans Of Death / Rounds",
         "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
       },
@@ -2635,26 +2655,6 @@
       "duration_ms": 199125,
       "name": "Turned A Key",
       "url": "https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx"
-    },
-    {
-      "added_at": "2026-11-20 05:01:57",
-      "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 197829,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
     }
   ],
   "unique_name": "Tantra",

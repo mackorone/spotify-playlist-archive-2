@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 257452,
       "name": "Man Ye The Shell (Theme from \"March of Giants\" Soundtrack)",
       "url": "https://open.spotify.com/track/2W7KuHPg6Uqph2y9asQprB"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 177613,
       "name": "The Day Will Come",
       "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 429440,
       "name": "The Key to Lallybroch",
       "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
@@ -2774,6 +2774,24 @@
       "duration_ms": 128556,
       "name": "This Wandering Day",
       "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153416,
+      "name": "Thrain",
+      "url": "https://open.spotify.com/track/55kqcP6bC5cvxdqGkDjo61"
     },
     {
       "album": {

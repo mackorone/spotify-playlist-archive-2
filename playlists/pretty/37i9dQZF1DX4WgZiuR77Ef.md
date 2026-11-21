@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,944 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,921 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Gotta Keep on Movin'](https://open.spotify.com/track/2jnOjKvvOH7BZSAJmwdCr7) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Gotta Keep on Movin'](https://open.spotify.com/album/4eoPasodTB5I1MmQBC0qzI) | 4:05 |
 | 100 | [Let's Get a Groove On](https://open.spotify.com/track/6nNHyyYKi90iRQbLuIdO8O) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/0MKoTL2lYJ3hUVDYyhmyTi) | 2:54 |
 
-Snapshot ID: `AAAAACs+VU+Z9EQaEB1PxozW7p0mvweD`
+Snapshot ID: `AAAAADY1j55dJf70nu8WepeWic+JP8YK`

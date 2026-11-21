@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Soarito",
-  "num_followers": 56348,
+  "num_followers": 56367,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF33zyhCYFZP5aYzkQqRwPBJbBHh",
+  "snapshot_id": "AAAAAOY2G8RDLZyBl9f+T1Bz6CaI/MW/",
   "tracks": [
     {
       "added_at": "2026-11-20 00:00:37",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-11-20 00:00:37",
       "album": {
-        "name": "COR D'\u00c1GUA",
-        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 272637,
-      "name": "TA TUDO BEM",
-      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
-    },
-    {
-      "added_at": "2026-11-20 00:00:37",
-      "album": {
         "name": "Reservado",
         "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
+    },
+    {
+      "added_at": "2026-11-20 00:00:37",
+      "album": {
+        "name": "COR D'\u00c1GUA",
+        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 272637,
+      "name": "TA TUDO BEM",
+      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
     },
     {
       "added_at": "2026-11-20 00:00:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-11-20 00:00:37",
       "album": {
+        "name": "SWEET LIKE SUGAR",
+        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 170723,
+      "name": "SWEET LIKE SUGAR",
+      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
+    },
+    {
+      "added_at": "2026-11-20 00:00:37",
+      "album": {
         "name": "Chakras",
         "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
-    },
-    {
-      "added_at": "2026-11-20 00:00:37",
-      "album": {
-        "name": "SWEET LIKE SUGAR",
-        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 170723,
-      "name": "SWEET LIKE SUGAR",
-      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
     },
     {
       "added_at": "2026-11-20 00:00:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-11-20 00:00:37",
       "album": {
-        "name": "Menino Da Mam\u00e3 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LZsPR3MOg0h3B4927BAXO"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 198300,
-      "name": "N\u00e3o Presto",
-      "url": "https://open.spotify.com/track/5DKTdgyYNXI8MGOM2GemRe"
-    },
-    {
-      "added_at": "2026-11-20 00:00:37",
-      "album": {
         "name": "Bon Vivan",
         "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 137910,
       "name": "Bon Vivan",
       "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
+    },
+    {
+      "added_at": "2026-11-20 00:00:37",
+      "album": {
+        "name": "Menino Da Mam\u00e3 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LZsPR3MOg0h3B4927BAXO"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "N\u00e3o Presto",
+      "url": "https://open.spotify.com/track/5DKTdgyYNXI8MGOM2GemRe"
     },
     {
       "added_at": "2026-11-20 00:00:37",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-11-20 00:00:37",
       "album": {
-        "name": "10 MINUTOS",
-        "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
-      },
-      "artists": [
-        {
-          "name": "ATJ",
-          "url": "https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "10 MINUTOS",
-      "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
-    },
-    {
-      "added_at": "2026-11-20 00:00:37",
-      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 156672,
       "name": "Chamadas",
       "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
+    },
+    {
+      "added_at": "2026-11-20 00:00:37",
+      "album": {
+        "name": "10 MINUTOS",
+        "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
+      },
+      "artists": [
+        {
+          "name": "ATJ",
+          "url": "https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "10 MINUTOS",
+      "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
     },
     {
       "added_at": "2026-11-20 00:00:37",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2026-11-20 00:00:37",
       "album": {
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
+    },
+    {
+      "added_at": "2026-11-20 00:00:37",
+      "album": {
         "name": "Set Do Black Spygo Vol.2",
         "url": "https://open.spotify.com/album/603eL3sEFGT6HoXBASoyOR"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 458666,
       "name": "Set Do Black Spygo Vol.2 - \"Teu Nome\"",
       "url": "https://open.spotify.com/track/2ie2w6zRuo3aP1UbTntVZb"
-    },
-    {
-      "added_at": "2026-11-20 00:00:37",
-      "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2026-11-20 00:00:37",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-11-20 00:00:37",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
-    },
-    {
-      "added_at": "2026-11-20 00:00:37",
-      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
+    },
+    {
+      "added_at": "2026-11-20 00:00:37",
+      "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     }
   ],
   "unique_name": "Seda",

@@ -644,7 +644,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 310973,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/0Ls0HlOqQtCpoPwUu5yLzc"
@@ -3403,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "The Look Of Love (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1agyPrdD71MVix3PDPXHSC"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324933,
+      "name": "Maybe You'll Be There - Alternate Take",
+      "url": "https://open.spotify.com/track/6illMdSnnZcPGGjhrZpwYI"
+    },
+    {
+      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -4742,7 +4760,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 267720,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"

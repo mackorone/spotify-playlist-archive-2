@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-244 songs - 14 hr 28 min
+248 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,10 @@
 | [A Real Show](https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [A Real Show](https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z) | 2:54 | 2023-04-14 | 2026-05-26 |
 | [A Sight for Sore Eyes](https://open.spotify.com/track/35Fa1nwTxHXMJPYcK2mSGI) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [A Sight for Sore Eyes](https://open.spotify.com/album/5BpnW3JV6KgmIoUd5CDiAD) | 4:21 | 2024-06-11 |  |
 | [A Simple Book](https://open.spotify.com/track/2djXr7LTah8IBtXTviKLA7) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:35 | 2023-03-03 | 2026-05-26 |
+| [A Small Thing Again](https://open.spotify.com/track/6FWoFBxcm8eObSs1u4EwKe) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Small Thing Again](https://open.spotify.com/album/4Eda385DeRnw3pyJ980nZh) | 3:27 | 2026-11-20 |  |
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-03-03 |  |
 | [A Window to Your Soul](https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 3:40 | 2023-04-14 |  |
+| [Able to Find Someone](https://open.spotify.com/track/2PFFa093JmpjTrWPgJlGeM) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Able to Find Someone](https://open.spotify.com/album/4mJbkDBN6biifYA4U5vdGf) | 3:10 | 2026-11-20 |  |
 | [After You've Gone](https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:42 | 2023-04-20 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2023-03-03 | 2026-03-28 |
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
@@ -92,6 +94,7 @@
 | [Horizon](https://open.spotify.com/track/3gD9Y09QDMmCjGH0R7q9y0) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Horizon](https://open.spotify.com/album/2uO7xE78Jyf8t5jL14Q63F) | 3:07 | 2024-01-12 |  |
 | [How’s It Going?](https://open.spotify.com/track/6tht37fb8QeaNohZIudAwH) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [How’s It Going?](https://open.spotify.com/album/6bkFMHlTu3sX5y0oYtm8At) | 2:39 | 2024-07-22 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Get Along Without You Very Well](https://open.spotify.com/album/5vuJzfoymsh3VnwGiN09X7) | 5:25 | 2024-03-08 |  |
+| [I just came to say hi](https://open.spotify.com/track/1TXtFuuqbbTtiesj5UM1M8) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [I just came to say hi](https://open.spotify.com/album/1qpoiptsJQ9pEr4dEhdIoE) | 3:10 | 2026-11-20 |  |
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2023-03-03 | 2024-07-23 |
 | [I still hear your voice](https://open.spotify.com/track/0xem0NbddWGyPE3crPyn1e) | [Trio in Transit](https://open.spotify.com/artist/5N4Y1kGWdM70gOzO41lvk1) | [I still hear your voice](https://open.spotify.com/album/34a4pBS2njnk6XJxyUc1BC) | 3:13 | 2025-10-14 |  |
 | [I'll Be There](https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [I'll Be There](https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH) | 3:50 | 2023-12-22 |  |
@@ -118,6 +121,7 @@
 | [Late Reflections](https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Late Reflections](https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO) | 3:41 | 2023-04-14 | 2024-09-10 |
 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-04-27 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2023-03-03 | 2024-09-10 |
+| [Let’s Take 5](https://open.spotify.com/track/5vnqjALO8BlUFkfoqzMXJI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let’s Take 5](https://open.spotify.com/album/75grrGfprZLXtQHfK42Rw2) | 3:03 | 2026-11-20 |  |
 | [Like a Starfish in the Sea](https://open.spotify.com/track/3BoZ25lh3CE3wkrkVl49qT) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Beauty Becomes You](https://open.spotify.com/album/4sBnW9DTjFjoZQQtVRedpm) | 3:07 | 2023-10-20 |  |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 | 2026-03-28 |
 | [Lonely Streets](https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [At Least I Know](https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN) | 6:08 | 2023-08-10 |  |
@@ -232,7 +236,7 @@
 | [We Talk Later](https://open.spotify.com/track/0ypKIgecf2ubbenc0qcuj7) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [We Talk Later](https://open.spotify.com/album/7xnclPUMXH1kocR3SJhZBK) | 2:50 | 2023-09-29 | 2026-05-26 |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2023-03-03 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2023-03-03 |  |
-| [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 |  |
+| [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 | 2026-11-21 |
 | [When You're Near](https://open.spotify.com/track/0DTowMkNIYpSZpccbahA7f) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [When You're Near](https://open.spotify.com/album/1AfSswzeUZp98XWmslxzI6) | 4:07 | 2024-09-09 |  |
 | [Where Are You?](https://open.spotify.com/track/1G9aTMIOFrVvsxthH1c20e) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Where Are You?](https://open.spotify.com/album/2VPB60I319VrZoxrSwEOX0) | 3:05 | 2024-05-24 |  |
 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-03-03 | 2026-03-28 |

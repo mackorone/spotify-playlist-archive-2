@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-743 songs - 1 day 17 hr 29 min
+744 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 | 2022-03-18 | 2022-03-31 |
 | [Strangers \(feat\. Linney\)](https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Strangers \(feat\. Linney\)](https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP) | 3:15 | 2023-10-09 | 2024-03-23 |
 | [SUFFOCATING \(with Adalaide Adams\)](https://open.spotify.com/track/48Uh86xRi2vWHwh47e5hOn) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [DON DARKOE](https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [SUFFOCATING \(with Adalaide Adams\)](https://open.spotify.com/album/4yV2olLPyN2fXujzf7wmlL) | 2:45 | 2026-09-15 |  |
+| [Summer High](https://open.spotify.com/track/0iRT3x0q20SPDWaWbKCPJ7) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Summer High](https://open.spotify.com/album/3zHpJKyqlWCC0qL0HqCbrR) | 2:54 | 2026-11-20 |  |
 | [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 | 2022-09-23 | 2022-10-06 |
 | [Summer Nights \(feat\. emma løv & Loote\)](https://open.spotify.com/track/2DOySVSvMKh95vZpIfcaWM) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Summer Nights \(feat\. emma løv & Loote\)](https://open.spotify.com/album/4RSVAG5I1nKLaa1nEAKiXG) | 2:24 | 2023-09-22 | 2024-03-23 |
 | [Sun & Moon \- Manila Killa Remix](https://open.spotify.com/track/1ulJG8ELvRv1za2KTYoPSP) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [10 Years of Group Therapy](https://open.spotify.com/album/23US2GpiBRMbvmVkPqZkRw) | 4:13 | 2022-01-07 | 2022-06-28 |

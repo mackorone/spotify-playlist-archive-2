@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3707,
+  "num_followers": 3708,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAABWeMwYEbr8+gCvZAy2hVwL",
+  "snapshot_id": "av48AAAAAAAqCavAoTo4Cd0kaagOCLRY",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
+        "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
+        "url": "https://open.spotify.com/album/6jbAVahDN7PJc3FzhunYOe"
       },
       "artists": [
         {
@@ -708,13 +708,17 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+          "name": "Sarah Roston",
+          "url": "https://open.spotify.com/artist/44C3vWqUJwprMS1MtcY98U"
+        },
+        {
+          "name": "Dom M",
+          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
         }
       ],
-      "duration_ms": 172009,
-      "name": "O Jogo Virou",
-      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
+      "duration_ms": 156631,
+      "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
+      "url": "https://open.spotify.com/track/4h4z8f6vGbbESfSiBJZ19b"
     },
     {
       "added_at": null,
@@ -743,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
-        "url": "https://open.spotify.com/album/6jbAVahDN7PJc3FzhunYOe"
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN"
       },
       "artists": [
         {
@@ -752,17 +756,13 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Sarah Roston",
-          "url": "https://open.spotify.com/artist/44C3vWqUJwprMS1MtcY98U"
-        },
-        {
-          "name": "Dom M",
-          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Voc\u00eas V\u00e3o Ter Que Me Engolir (Zagallo)",
-      "url": "https://open.spotify.com/track/4h4z8f6vGbbESfSiBJZ19b"
+      "duration_ms": 172009,
+      "name": "O Jogo Virou",
+      "url": "https://open.spotify.com/track/187pijczzR58jQMhlyQbH8"
     },
     {
       "added_at": null,
@@ -1027,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem que t\u00e1 vindo no porte?",
-        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 150711,
-      "name": "Quem que t\u00e1 vindo no porte?",
-      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fed Tracks #14: Recado",
         "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 161095,
       "name": "Fed Tracks #14: Recado",
       "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem que t\u00e1 vindo no porte?",
+        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 150711,
+      "name": "Quem que t\u00e1 vindo no porte?",
+      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
     },
     {
       "added_at": null,

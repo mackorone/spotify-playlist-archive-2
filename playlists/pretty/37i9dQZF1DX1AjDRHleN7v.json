@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 421122,
+  "num_followers": 421173,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH41Uc9aQkMNoO66RXUVL32cbHCW",
+  "snapshot_id": "AAAAAFoKCabP7xuoTTOGFPLwXgfMgLMi",
   "tracks": [
     {
       "added_at": "2026-11-20 03:02:02",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-11-20 03:02:02",
       "album": {
+        "name": "LAGUM EM TODO LUGAR",
+        "url": "https://open.spotify.com/album/08FwwaLmTrw3ZGs5I2qD9j"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 181738,
+      "name": "\u2060\u2060REGGAE BOM - Ao Vivo no Bal\u00e3o, SC",
+      "url": "https://open.spotify.com/track/4jcbSBccqJgqd2VWMmhV5a"
+    },
+    {
+      "added_at": "2026-11-20 03:02:02",
+      "album": {
         "name": "Maneva 20 Anos, Origem - Ao Vivo",
         "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 217503,
       "name": "Denso e Dan\u00e7o",
       "url": "https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON"
-    },
-    {
-      "added_at": "2026-11-20 03:02:02",
-      "album": {
-        "name": "LAGUM EM TODO LUGAR",
-        "url": "https://open.spotify.com/album/08FwwaLmTrw3ZGs5I2qD9j"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 181738,
-      "name": "\u2060\u2060REGGAE BOM - Ao Vivo no Bal\u00e3o, SC",
-      "url": "https://open.spotify.com/track/4jcbSBccqJgqd2VWMmhV5a"
     },
     {
       "added_at": "2026-11-20 03:02:02",
@@ -555,22 +555,18 @@
     {
       "added_at": "2026-11-20 03:02:02",
       "album": {
-        "name": "Emaranhei",
-        "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
+        "name": "Eita",
+        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Emaranhei",
-      "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
+      "duration_ms": 183867,
+      "name": "Eita",
+      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
     },
     {
       "added_at": "2026-11-20 03:02:02",
@@ -647,18 +643,22 @@
     {
       "added_at": "2026-11-20 03:02:02",
       "album": {
-        "name": "Eita",
-        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+        "name": "Emaranhei",
+        "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
         }
       ],
-      "duration_ms": 183867,
-      "name": "Eita",
-      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
+      "duration_ms": 171692,
+      "name": "Emaranhei",
+      "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
     },
     {
       "added_at": "2026-11-20 03:02:02",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-11-20 03:02:02",
       "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 198175,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/4DsxUkkPv7SPXTxMuVUW1A"
+    },
+    {
+      "added_at": "2026-11-20 03:02:02",
+      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 197834,
       "name": "Amor Bom",
       "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
-    },
-    {
-      "added_at": "2026-11-20 03:02:02",
-      "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 198175,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/4DsxUkkPv7SPXTxMuVUW1A"
     },
     {
       "added_at": "2026-11-20 03:02:02",

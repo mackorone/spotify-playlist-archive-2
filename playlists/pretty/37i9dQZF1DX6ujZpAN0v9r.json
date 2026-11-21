@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 707696,
+  "num_followers": 707761,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMv3cdKOaZnIGNUUmYMg/5U6p/Z5",
+  "snapshot_id": "AAAAAG3CgpEv/mJxCqRTYT70iTLS2kBp",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP"
     },
     {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 75297,
-      "name": "flower",
-      "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Saturdays = Youth",
@@ -215,6 +199,22 @@
       "duration_ms": 323373,
       "name": "Kim & Jessie",
       "url": "https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 75297,
+      "name": "flower",
+      "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
     },
     {
       "added_at": "2022-09-28 23:01:40",
@@ -707,18 +707,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Hover",
-        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
+        "name": "Psychocandy (Expanded Version)",
+        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
       },
       "artists": [
         {
-          "name": "the sleepover disaster",
-          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
         }
       ],
-      "duration_ms": 297813,
-      "name": "Dark Star",
-      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
+      "duration_ms": 102333,
+      "name": "Taste of Cindy",
+      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
     },
     {
       "added_at": "2024-10-15 03:39:28",
@@ -739,18 +739,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy (Expanded Version)",
-        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
       },
       "artists": [
         {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+          "name": "the sleepover disaster",
+          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
         }
       ],
-      "duration_ms": 102333,
-      "name": "Taste of Cindy",
-      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
+      "duration_ms": 297813,
+      "name": "Dark Star",
+      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
     },
     {
       "added_at": "2021-06-03 02:39:04",

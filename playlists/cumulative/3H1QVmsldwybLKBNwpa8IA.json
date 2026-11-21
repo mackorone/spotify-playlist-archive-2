@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "As Long As We're Together",
+        "url": "https://open.spotify.com/album/28gsEjdPh1kFMlCSLascpt"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188804,
+      "name": "As Long As We're Together",
+      "url": "https://open.spotify.com/track/78jHcBSqpVgMwmQIQiczSR"
+    },
+    {
+      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/2SHlXY3Z9gKK2MPExaWR8M"
       },

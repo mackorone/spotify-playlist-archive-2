@@ -4,7 +4,7 @@
 
 > The best new music by independent Experimental artists\. B0YG1RL on cover\. Artwork by Thami Nabil.
 
-2,346 songs - 7 day 12 hr 40 min
+2,347 songs - 7 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -957,6 +957,7 @@
 | [Iceland \(Original Mix\)](https://open.spotify.com/track/2vNKrQg8mMLHwDEv9qcXLA) | [Rautu](https://open.spotify.com/artist/6RAjggwom3h4d1CTM4zojc), [The Void Wanderer](https://open.spotify.com/artist/3o9HwR9cZWdRt1eRU95fMo) | [Iceland](https://open.spotify.com/album/3uam8elYAZo6n6gmrAU0Zq) | 3:46 | 2022-03-09 | 2022-04-14 |
 | [Icicle](https://open.spotify.com/track/2WlwKisGmrNb2jZOxF1D8Y) | [Somatoast](https://open.spotify.com/artist/6TgxNzWMXI7y4dhm5sPBL5) | [Creation is Creation](https://open.spotify.com/album/2DEIzs4eWUQdB4NSTyC3bD) | 4:37 | 2022-03-09 | 2022-04-28 |
 | [Icy blue](https://open.spotify.com/track/43khXVriVkQBjUI9kNSIK9) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Rincones Seguros](https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5) | 3:22 | 2021-04-01 | 2021-06-04 |
+| [IDKW2TU](https://open.spotify.com/track/02x9wWn5dzcJrPcD2EkUKa) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [IDKW2TU](https://open.spotify.com/album/5yYpZHFXzEhxynQBK1AKbZ) | 3:25 | 2026-11-20 |  |
 | [Idling](https://open.spotify.com/track/1dZdMonNiAd30UWAkIgXrD) | [Dyrghé](https://open.spotify.com/artist/6vFsn15wnD00UJdCEKZImT) | [Idling](https://open.spotify.com/album/0d2r9FImZVJ0oCKLmUx5uW) | 4:06 | 2021-07-09 | 2021-09-14 |
 | [Idola](https://open.spotify.com/track/7nSYRCgV95Zz6XIbrixJ5y) | [Melaina Kol](https://open.spotify.com/artist/0t19UNl8aSQGryDSfuW5gT) | [Okay that’s a great idea because if I do that then](https://open.spotify.com/album/7f2q21NZ5i7YDjCikM51rU) | 4:02 | 2026-09-03 |  |
 | [If Anything](https://open.spotify.com/track/05Id2KGI1qVa67tQeg2MBh) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [If Anything](https://open.spotify.com/album/0q29rzT91aR2Jy5EssSDPZ) | 2:40 | 2021-06-24 | 2021-08-31 |
@@ -1071,7 +1072,7 @@
 | [just a little more life with u](https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [just a little more life with u](https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P) | 3:13 | 2022-08-03 | 2022-09-01 |
 | [JUST A WORM](https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU) | [DJ Girl](https://open.spotify.com/artist/1DONuOPYFilfKkB5rpBkfe) | [RUNGBELLER](https://open.spotify.com/album/5CgnsKqbZOGrdA0ljoUZVm) | 4:40 | 2024-03-13 | 2024-06-20 |
 | [Just Me, Selling Desires](https://open.spotify.com/track/7erIdv0TTM04ZjvVtTJEsy) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Just Me, Selling Desires](https://open.spotify.com/album/6fU3Rgpdz3JIqrXZqloTsE) | 2:42 | 2021-03-11 | 2021-03-25 |
-| [JV Jordan](https://open.spotify.com/track/3ZMAVbspTpxPB7LFkTiQBg) | [Donatell](https://open.spotify.com/artist/02fjEKYRLC2XhQrTKLJy3d), [Zack Sekoff](https://open.spotify.com/artist/2Jk17dvbqUDGvraV7KyLrq) | [Water, CA](https://open.spotify.com/album/2JV2XSr6HdiSJt7DIGGNvr) | 2:41 | 2026-08-19 |  |
+| [JV Jordan](https://open.spotify.com/track/3ZMAVbspTpxPB7LFkTiQBg) | [Donatell](https://open.spotify.com/artist/02fjEKYRLC2XhQrTKLJy3d), [Zack Sekoff](https://open.spotify.com/artist/2Jk17dvbqUDGvraV7KyLrq) | [Water, CA](https://open.spotify.com/album/2JV2XSr6HdiSJt7DIGGNvr) | 2:41 | 2026-08-19 | 2026-11-21 |
 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f) | 5:54 | 2023-08-30 | 2023-11-20 |
 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7KYswH2kUpHwYo81gatUsJ) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/6G7f7Qxs5DgFxNipIjZ6hZ) | 5:54 | 2023-08-30 | 2023-11-30 |
 | [K](https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Euphoria](https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag) | 4:15 | 2025-10-17 | 2026-03-21 |

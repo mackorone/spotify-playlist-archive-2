@@ -9021,6 +9021,24 @@
     },
     {
       "album": {
+        "name": "\u5982\u679c\u6ce1\u5728\u97f3\u6a02\u9084\u600e\u9ebc\u53ef\u80fdemo",
+        "url": "https://open.spotify.com/album/1BjygyCjQQILViK4MYEor9"
+      },
+      "artists": [
+        {
+          "name": "Forty \u984f\u4e16\u7433",
+          "url": "https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157281,
+      "name": "\u5982\u679c\u6ce1\u5728\u97f3\u6a02\u9084\u600e\u9ebc\u53ef\u80fdemo",
+      "url": "https://open.spotify.com/track/5IJjRtuY0aTPFtfbIIfYPH"
+    },
+    {
+      "album": {
         "name": "\u59b3\u4e0d\u96e2\u958b\u6211\u90fd\u5728",
         "url": "https://open.spotify.com/album/4M8aicVeZI4kWO5PznbkKl"
       },

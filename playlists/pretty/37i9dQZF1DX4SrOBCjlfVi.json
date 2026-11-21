@@ -1,13 +1,29 @@
 {
   "description": "All the New Joints featuring YFN Lucci, Playboi Carti, Gunna and more!",
-  "num_followers": 398224,
+  "num_followers": 398396,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOhPKefKRCuuXNyDe16oMn6WIgYf",
+  "snapshot_id": "AAAAAEZzbZLf+l9saPgqLuaOW5R7bo53",
   "tracks": [
+    {
+      "added_at": "2026-11-20 18:57:11",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 120865,
+      "name": "AHH YEA",
+      "url": "https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI"
+    },
     {
       "added_at": "2026-11-20 05:01:30",
       "album": {

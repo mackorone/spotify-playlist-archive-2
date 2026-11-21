@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Rick Duff, Gustavo Mioto
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,603 likes - 200 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,601 likes - 200 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 199 | [Spin Me Like a Record](https://open.spotify.com/track/2o9MXcSYfubOQuqfxsLHlp) | [The Wild Palominos](https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO) | [Spin Me Like a Record](https://open.spotify.com/album/1DPDyhj2Rx2hwmvBUUX7Sn) | 2:58 |
 | 200 | [God Knows I Try](https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [God Knows I Try](https://open.spotify.com/album/7IQPPigGG11oSuzWYIEKZF) | 3:25 |
 
-Snapshot ID: `AAAAAPDY8jWuUs7NYem3yvIKvq8Th0P8`
+Snapshot ID: `AAAAAM5aPAXflHo782/3neDoM8u9aJkV`

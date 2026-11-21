@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,916,330 likes - 153 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,916,449 likes - 153 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 38 | [Last Light](https://open.spotify.com/track/3932goXgKPODhBKfAIaeuo) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Last Light](https://open.spotify.com/album/587YrMwGDJoET6yIwDaNUA) | 2:31 |
 | 39 | [Veranda](https://open.spotify.com/track/4XoxeBjlebxva3UpSBULCl) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Veranda](https://open.spotify.com/album/3GZqBOHrpOyPFQu1ux6n2F) | 2:21 |
 | 40 | [Before We Knew](https://open.spotify.com/track/6U20TztvUrp7ccU75MAvIX) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Before We Knew](https://open.spotify.com/album/5Gt05duxvTbV2BIsNCGxgY) | 2:46 |
-| 41 | [Whipering Waltz](https://open.spotify.com/track/1Tx3Nbs4r8PbAfQgYetqGV) | [Beckon Keasmith](https://open.spotify.com/artist/3ojYDRTLXj4iuVdrJWoxei) | [Whipering Waltz](https://open.spotify.com/album/0XHqMSZO0g6l9MyfNmazMH) | 2:55 |
+| 41 | [Whispering Waltz](https://open.spotify.com/track/1Tx3Nbs4r8PbAfQgYetqGV) | [Beckon Keasmith](https://open.spotify.com/artist/3ojYDRTLXj4iuVdrJWoxei) | [Whispering Waltz](https://open.spotify.com/album/0XHqMSZO0g6l9MyfNmazMH) | 2:55 |
 | 42 | [Ocean Drifts](https://open.spotify.com/track/2jBjQX5k5cEC2I76Zjg2dC) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Ocean Drifts](https://open.spotify.com/album/6SKJtsfbyXTfhSjOl6Zu5C) | 2:33 |
 | 43 | [The Looking Glass](https://open.spotify.com/track/2Dvek7u6bKE9IY5Qu4l132) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Looking Glass](https://open.spotify.com/album/674Qk06OEafqD12pfPz035) | 2:29 |
 | 44 | [Norvind](https://open.spotify.com/track/4oKCvwy2l6AscLtYB4BHlE) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Norvind](https://open.spotify.com/album/37CoYcioNl1f7xqO1ouUK4) | 2:25 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 152 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 153 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 |
 
-Snapshot ID: `AAAAAMwq7GWQ7sybJ/ABrYp3zimr2CVR`
+Snapshot ID: `AAAAAAZopM8mls1x3YRDaYuhSdxTAyM0`

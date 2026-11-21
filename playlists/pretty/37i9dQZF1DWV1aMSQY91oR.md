@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,225 likes - 48 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,257 likes - 48 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [Keeper](https://open.spotify.com/track/58l7AtNOamVs2JWDXLvnyE) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Keeper](https://open.spotify.com/album/1IVtwaOi0441aa5xlrKVtf) | 2:37 |
 | 48 | [Never Left](https://open.spotify.com/track/35zKLzdHPLIUgXYLpX9T4y) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Never Left](https://open.spotify.com/album/0GHQcRFWJRabw6UEgFn5jy) | 3:25 |
 
-Snapshot ID: `AAAAAFiLqwM5+xHMQ8Pem8RLRdopp3sg`
+Snapshot ID: `AAAAANGBoacwLxlFMaQ3MMkYQq7/hcs9`

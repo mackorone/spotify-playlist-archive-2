@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,624 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,644 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 17 | [The Joker](https://open.spotify.com/track/7gJ3QOh4SVrGXaVL5lFh3w) | [SAKURA](https://open.spotify.com/artist/4CEz4WJQ9VkNsa5JdXRE8q) | [daylight](https://open.spotify.com/album/1ns1zXYtubxZhrV5xAjC9I) | 4:11 |
 | 18 | [Romance](https://open.spotify.com/track/75OqiU9QFLNeLTLvOCudWr) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Romance](https://open.spotify.com/album/6SUTDYK3cMr9mFR82UU5vG) | 2:38 |
 | 19 | [Magic](https://open.spotify.com/track/4Cab8axKMPvZbxpwgGQhUJ) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:31 |
-| 20 | [After Rain](https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Terminal 3](https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC) | 2:55 |
+| 20 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 |
 | 21 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
 | 22 | [手紙](https://open.spotify.com/track/3VOrB7FMHUrDH4TI9DjIvs) | [BENNIE K](https://open.spotify.com/artist/198kwzJsDRvjEEroTJKzKu) | [essence](https://open.spotify.com/album/5oWRkFcQ2ru6jEeqIChVWB) | 4:21 |
 | 23 | [Eternal Memories](https://open.spotify.com/track/6pCpIYbnrWOkx7YBuGkCsl) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Eternal Memories](https://open.spotify.com/album/03nmKyFKIKgETpwn5TCRek) | 5:09 |
-| 24 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 |
+| 24 | [After Rain](https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Terminal 3](https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC) | 2:55 |
 | 25 | [Lady Soul \(Day\-lite Version\)](https://open.spotify.com/track/2LvTZDycD0ZzlwXuCedIY3) | [ACO](https://open.spotify.com/artist/1G29J8b3UnUFUilGCbUlXf) | [Lady Soul](https://open.spotify.com/album/1wHCBE51BOkm2B54mAxzTg) | 6:34 |
 | 26 | [Moonlight](https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:29 |
 | 27 | [Buddies](https://open.spotify.com/track/5MUtNMkyc3wG8k4Zwzdvmv) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Buddies](https://open.spotify.com/album/6vDY8mPP5fAjhbk5T2reay) | 3:59 |
-| 28 | [OVERHEAT](https://open.spotify.com/track/0Bm1E39pljqvab5us0ucUO) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB) | [OVERHEAT](https://open.spotify.com/album/5EbV1i5shtromh6PVT61qs) | 3:22 |
-| 29 | [四季ノ唄](https://open.spotify.com/track/1iTvJFjCflwCz9RYJXzcsz) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3) | [アイの実](https://open.spotify.com/album/1TI6TIPrTHe2WV8GrUAVKC) | 4:58 |
+| 28 | [四季ノ唄](https://open.spotify.com/track/1iTvJFjCflwCz9RYJXzcsz) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3) | [アイの実](https://open.spotify.com/album/1TI6TIPrTHe2WV8GrUAVKC) | 4:58 |
+| 29 | [OVERHEAT](https://open.spotify.com/track/0Bm1E39pljqvab5us0ucUO) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB) | [OVERHEAT](https://open.spotify.com/album/5EbV1i5shtromh6PVT61qs) | 3:22 |
 | 30 | [been so long](https://open.spotify.com/track/1mBq2k3CJq5bXWDrprKbNi) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [Planet Shining](https://open.spotify.com/album/2cPylo5CrePCII64XeTZnT) | 5:51 |
 | 31 | [Over The Moon \- feat\. Sagiri Sól](https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Juliet is the moon](https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19) | 3:23 |
 | 32 | [HIT NUMBER \- EVISBEATSとPUNCH REMIX](https://open.spotify.com/track/3qAT9iw2AiiJ0CxTcqxQn1) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ストライク！](https://open.spotify.com/album/5mJrUjgKk7jzSr9TohY7qx) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 49 | [LET'S GO!](https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 6:07 |
 | 50 | [Love / Hate](https://open.spotify.com/track/2dr0U0kEHfZv19o0lESsPO) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Love / Hate](https://open.spotify.com/album/7IVEMKNDRehODrCp0owdds) | 4:36 |
 
-Snapshot ID: `AAAAAFcWyW8NMMr5Mu+IwCFDFPwhHmlW`
+Snapshot ID: `AAAAAMPnxXVYemd0jIfXAVnsrfDPzYr+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1036138,
+  "num_followers": 1036219,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAA8aTn992CDoy4vI7P8xNRj",
+  "snapshot_id": "av48AAAAAACwfM/HisW66wh+ZP5suJ7x",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/14tYU9p33apTBRtDnfwKyz"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 173786,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/4L1n2UCV41ZzvBin118Aie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/1jYXfyqPjptyl9xuiNu42Z"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 209676,
       "name": "Oiga",
       "url": "https://open.spotify.com/track/66X4n0kUTnozDpvpEHnOzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/14tYU9p33apTBRtDnfwKyz"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 173786,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/4L1n2UCV41ZzvBin118Aie"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/61HrsOIuBD36ERPk77792M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Baladas Favoritas",
         "url": "https://open.spotify.com/album/7Db7VCq3IQIgkzJxdsvQSy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 208486,
       "name": "Manantial De Llanto",
       "url": "https://open.spotify.com/track/2ddqucsZ04B82NxZcXPVsw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/61HrsOIuBD36ERPk77792M"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alza El Vuelo",
-        "url": "https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "Tiernas Mentiras",
-      "url": "https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 158241,
       "name": "Aunque Ya Tengas Marido",
       "url": "https://open.spotify.com/track/1modDYKBVY7mi6wo3vd6P4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alza El Vuelo",
+        "url": "https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "Tiernas Mentiras",
+      "url": "https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb"
     },
     {
       "added_at": null,

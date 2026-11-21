@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Jonah Kagen",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Buffalo Traffic Jam",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -896,6 +896,24 @@
       "duration_ms": 213333,
       "name": "baggy t-shirt",
       "url": "https://open.spotify.com/track/6P6y5Sn1hqBiGK8dfhuDjK"
+    },
+    {
+      "album": {
+        "name": "Barely Holding On",
+        "url": "https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Barely Holding On",
+      "url": "https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm"
     },
     {
       "album": {
@@ -5725,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "It Takes a Village",
+        "url": "https://open.spotify.com/album/3OugHLgxMWbfRNQbvpel77"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200145,
+      "name": "It Takes a Village",
+      "url": "https://open.spotify.com/track/4JtMzcsJc7nAzxX6I2MJuY"
+    },
+    {
+      "album": {
         "name": "King of Having Fun",
         "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3"
       },
@@ -6570,7 +6606,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 199696,
       "name": "Love In Reverse",
       "url": "https://open.spotify.com/track/0UFRS2HsHHTzzyu0gFp7hB"
@@ -7306,7 +7342,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 176963,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1fKlw3VYpNwz2KUqUO0Kou"
@@ -9413,6 +9449,24 @@
     },
     {
       "album": {
+        "name": "Sweet Tooth Sugar High",
+        "url": "https://open.spotify.com/album/5q4FvUELBTC66mkRSPILqY"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Sweet Tooth Sugar High",
+      "url": "https://open.spotify.com/track/3ZcN5U1u7Lh7bcdeE2NC0p"
+    },
+    {
+      "album": {
         "name": "Swim the River",
         "url": "https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb"
       },
@@ -10164,7 +10218,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 185533,
       "name": "Thirst Trap",
       "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"

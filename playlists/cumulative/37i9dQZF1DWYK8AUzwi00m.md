@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-337 songs - 13 hr 0 min
+339 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Merry Little XMAS](https://open.spotify.com/track/3KYhdw2FCJPe4OYFhZki2P) | [Approachable Animals](https://open.spotify.com/artist/6nceKCpE6e0TmuXMxg37IR) | [A Merry Little XMAS](https://open.spotify.com/album/0Ucerz2HM5MYkdr2W1ZvvN) | 2:10 | 2024-11-14 | 2025-10-04 |
 | [A Winter Dream](https://open.spotify.com/track/2D3DEsReLtkRjhkBZGnFXu) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [A Winter Dream](https://open.spotify.com/album/02qxE1vlx06foF6dbmhqgB) | 2:06 | 2025-11-12 |  |
 | [Aesthetic Christmas](https://open.spotify.com/track/2IwjwcZbQbkAPgwtGu8G0s) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Merry Christmas \(Lofi beats\)](https://open.spotify.com/album/3nFx4sv8We0GyLBq1tk7pa) | 2:57 | 2021-12-20 |  |
+| [After The Last Bell](https://open.spotify.com/track/4Ed9d6LEPUfym9ssZEfmUu) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [After The Last Bell](https://open.spotify.com/album/5Ap7dO4Tl3JXDDKhZaXogh) | 2:49 | 2026-11-20 |  |
 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/2h8EHpeJcIVOvWS4r4LwCo) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/1E7eg4EWi1s52uiVxp0UfH) | 2:26 | 2022-11-11 | 2023-10-20 |
 | [all i want for christmas is lofi](https://open.spotify.com/track/7rNTCi9j9WIc1kxQSor5Ak) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [all i want for christmas is lofi](https://open.spotify.com/album/1wG31235BfrJ6nbjRmArhT) | 3:02 | 2022-12-25 | 2023-10-20 |
 | [all i want for christmas is you](https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [all i want for christmas is you](https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq) | 2:32 | 2022-11-11 |  |
@@ -290,6 +291,7 @@
 | [Snowflakes Falling](https://open.spotify.com/track/4dst2H6GqLCXQ1PdtaXSru) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Snowflakes Falling](https://open.spotify.com/album/2QVtKjHLLHFrHDTQJLEw03) | 2:06 | 2022-12-09 |  |
 | [SNOWMAN](https://open.spotify.com/track/5FDlU08eFeBHVIqpOkbh16) | [chateau\_lounge](https://open.spotify.com/artist/69AjHyxWyUkSN7pmLIbXwd) | [SNOWMAN](https://open.spotify.com/album/0GE7b3xACXmFmkpiw6TEKM) | 1:52 | 2022-11-11 | 2025-09-05 |
 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 | 2022-11-11 |  |
+| [Snowy Boots](https://open.spotify.com/track/5TAKeQzyQ0lYbIk3wolNDi) | [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [Camel Club](https://open.spotify.com/artist/0DnMTgzJhXU3qGNGFuYY3q) | [Snowy Boots](https://open.spotify.com/album/2DPmy9BEqUBlJ0ACxx8P9e) | 1:50 | 2026-11-20 |  |
 | [Soaring Reindeer](https://open.spotify.com/track/4MQW3WYzs5EVQr96g5r4MZ) | [Tiger Movie](https://open.spotify.com/artist/1XDpB5sGAzaiBV1qFYs84m) | [Have a Lofi Christmas](https://open.spotify.com/album/5zEOGPCoL5NDWyk2XutPss) | 2:38 | 2022-11-11 | 2025-09-05 |
 | [soft snow](https://open.spotify.com/track/1Ez7Jwh7fsdVDrXSoDfH5v) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [soft snow](https://open.spotify.com/album/3Dt4o0dyF7qxIy1yA5sWl0) | 2:50 | 2026-11-06 |  |
 | [Spiced Cider](https://open.spotify.com/track/1gnY6i00HmpEhVjKv8xqN7) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Spiced Cider](https://open.spotify.com/album/4NCQKzsgYo2vJxJjpuhtXo) | 2:16 | 2026-11-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 825838,
+  "num_followers": 825804,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxYCGvSoPbAU1jwoIo59KAGU4RG",
+  "snapshot_id": "AAAAACb/8AJDfgv7jqhDTin1dey63R/V",
   "tracks": [
     {
       "added_at": "2026-10-15 19:31:25",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
+        "name": "Nossa Miss\u00e3o",
+        "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Quero Ser Feliz Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
         "name": "Dominguinho",
         "url": "https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 196320,
       "name": "Lembrei de N\u00f3s",
       "url": "https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
-        "name": "Nossa Miss\u00e3o",
-        "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Quero Ser Feliz Tamb\u00e9m",
-      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Ana E Jorge (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 318026,
-      "name": "\u00c9 Isso A\u00ed (The Blower'S Daughter) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
         "name": "Silva & Liniker (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 230746,
       "name": "Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Ana E Jorge (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 318026,
+      "name": "\u00c9 Isso A\u00ed (The Blower'S Daughter) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Frejat Ao Vivo No Rock In Rio",
-        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 215253,
-      "name": "Por Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Frejat Ao Vivo No Rock In Rio",
+        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "Por Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Ivete Sangalo",
-        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
-      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
         "name": "Silva Canta Marisa",
         "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 195400,
       "name": "Beija Eu",
       "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Ivete Sangalo",
+        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
+      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
         "name": "Nenhuma Dor",
         "url": "https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 237150,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 106452,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+        "name": "Me Chama de Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
         }
       ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+      "duration_ms": 212812,
+      "name": "Insista Em Mim",
+      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1323,6 +1319,26 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
         "name": "Alian\u00e7a",
         "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
-        "name": "Me Chama de Gato Que Eu Sou Sua",
-        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Insista Em Mim",
-      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 231616,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
     },
     {
       "added_at": "2026-10-15 19:31:25",

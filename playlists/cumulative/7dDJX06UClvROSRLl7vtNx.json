@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 142142,
       "name": "burn me down",
       "url": "https://open.spotify.com/track/5n6m0IMINOotiNaDGIwPdx"
@@ -9829,6 +9829,24 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/3jpg6IuGok7GtqcmjI5hKO"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144832,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/1R2pBGvnBIpwsI0mQcuFnc"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/0yOar1nX6C9LUZafZcbvj6"
       },
@@ -14390,7 +14408,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2LieJ0JcPygJdQuX0D0BJY"
@@ -29380,6 +29398,24 @@
       "duration_ms": 133608,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/7zy7y4Z2jgH9xcBrSV7lPV"
+    },
+    {
+      "album": {
+        "name": "Take Me To The Water",
+        "url": "https://open.spotify.com/album/1hblO5dtAmKbikUj83TJ46"
+      },
+      "artists": [
+        {
+          "name": "sleepy dude",
+          "url": "https://open.spotify.com/artist/3IIgBMK6g6AltNT8iPPJsI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Take Me To The Water",
+      "url": "https://open.spotify.com/track/5vlyzmNFduneVJO1BX3Ov8"
     },
     {
       "album": {

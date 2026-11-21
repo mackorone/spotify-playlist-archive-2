@@ -15284,6 +15284,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "date_added": "2026-11-19",
@@ -60380,6 +60384,10 @@
         {
           "name": "Berq",
           "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        },
+        {
+          "name": "LudoWic",
+          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
         }
       ],
       "date_added": "2026-11-19",
@@ -82820,7 +82828,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 214024,
       "name": "Christmas Wouldn't Be The Same Without You",
       "url": "https://open.spotify.com/track/2hDM51kUzQJJtju0M2h033"
@@ -114484,6 +114492,24 @@
       "duration_ms": 164584,
       "name": "Dominando",
       "url": "https://open.spotify.com/track/4BoNYdfcYG2hfoT4LCcSke"
+    },
+    {
+      "album": {
+        "name": "DOMINIC",
+        "url": "https://open.spotify.com/album/2rLoZjGBmdkAnyj5Yvzh3X"
+      },
+      "artists": [
+        {
+          "name": "Edb",
+          "url": "https://open.spotify.com/artist/6HsOYlhc6djdiv6ikVfrGE"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173038,
+      "name": "DOMINIC",
+      "url": "https://open.spotify.com/track/3kYC46RG86cmngYmhURDRI"
     },
     {
       "album": {
@@ -171253,7 +171279,7 @@
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },
@@ -235103,6 +235129,24 @@
     },
     {
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3HyCyLodVfdUsL9dQyi4ru"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121386,
+      "name": "keine freunde",
+      "url": "https://open.spotify.com/track/2ANRzIoEoHfEGdovYeWzJn"
+    },
+    {
+      "album": {
         "name": "Keine Freunde",
         "url": "https://open.spotify.com/album/3rKaVrHcJevhNSViwB8EvI"
       },
@@ -245820,6 +245864,28 @@
       "duration_ms": 147281,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/0pnvxWtt5XqLSVx0TEec1u"
+    },
+    {
+      "album": {
+        "name": "LOCKED IN (EUROLUXE)",
+        "url": "https://open.spotify.com/album/2H2FFVVPzAYw3Qhw3IAxbb"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133437,
+      "name": "LAMINE YAMAL (feat. La Pantera)",
+      "url": "https://open.spotify.com/track/4iUjotWvNyG99ldTZTRysc"
     },
     {
       "album": {

@@ -1,142 +1,198 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2673,
+  "num_followers": 2674,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAGEAre+qGPzboHfLfgi3pumZ+7bUmm",
+  "snapshot_id": "AAAGEkyms9Ep3lIkoXP7Nn3qMwCT95We",
   "tracks": [
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "surfboard",
-        "url": "https://open.spotify.com/album/6V2Wd7GS3NcYjeHQKqG4tQ"
+        "name": "Bad Down To The Bone",
+        "url": "https://open.spotify.com/album/7lG0b7vZhsE2pJZKCohnDE"
       },
       "artists": [
         {
-          "name": "Guru Griff",
-          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
+          "name": "Rebel Road",
+          "url": "https://open.spotify.com/artist/6S7kR53XKNCHwHCNXMmJRx"
         }
       ],
-      "duration_ms": 125106,
-      "name": "surfboard",
-      "url": "https://open.spotify.com/track/7Hj5UfdCLNDVw1ZGsrX2EO"
+      "duration_ms": 219986,
+      "name": "Bad Down To The Bone",
+      "url": "https://open.spotify.com/track/2nmGT1TzfDffWhHdECGWUY"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Hook, Line & Sinker",
-        "url": "https://open.spotify.com/album/1MzS7cfToOOeTVyqoaXlff"
+        "name": "Hyvink\u00e4\u00e4n j\u00e4lkeen Mars",
+        "url": "https://open.spotify.com/album/5VQF9jR4WBnrl5HWXCMMTV"
       },
       "artists": [
         {
-          "name": "Jonathan Nyberg",
-          "url": "https://open.spotify.com/artist/5yNtIiXSd1OiHh5ukCFQAP"
+          "name": "Raptori",
+          "url": "https://open.spotify.com/artist/2borB1YWJN6giuvN920B1X"
         }
       ],
-      "duration_ms": 264426,
-      "name": "Hook, Line & Sinker",
-      "url": "https://open.spotify.com/track/4A4LxzqzrMagjEQHokmHpV"
+      "duration_ms": 183373,
+      "name": "Suomenkielinen rap-biisi XL",
+      "url": "https://open.spotify.com/track/7zbtgsJnzmr4Y6HzRX37SM"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Vampyr",
-        "url": "https://open.spotify.com/album/3X73oonkZruCHZdc6OPCR9"
+        "name": "For Rachael Whenever I May Find Her",
+        "url": "https://open.spotify.com/album/3L4OSiJewOCj4MsdVxARCs"
       },
       "artists": [
         {
-          "name": "Rebi",
-          "url": "https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH"
+          "name": "Firechild",
+          "url": "https://open.spotify.com/artist/4mqCjZFDJXzwqsJY4hzyVj"
         }
       ],
-      "duration_ms": 212786,
-      "name": "Vampyr",
-      "url": "https://open.spotify.com/track/4DNvL5xeBafLdUnc065tdu"
+      "duration_ms": 167414,
+      "name": "For Rachael Whenever I May Find Her",
+      "url": "https://open.spotify.com/track/3D4wBVvxlt7wRRunFQPmcD"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Idiot",
-        "url": "https://open.spotify.com/album/0seBKZUFsHsL4N0xfJhYbG"
+        "name": "SUPERLATEX",
+        "url": "https://open.spotify.com/album/55vIWKWfCKuk4rDyM8ze3L"
       },
       "artists": [
         {
-          "name": "Anel & Dirty D",
-          "url": "https://open.spotify.com/artist/5Rj4iXgZ4uPKSWYnP4XR3V"
+          "name": "German Lola",
+          "url": "https://open.spotify.com/artist/5DZxXACQ33soR4mKAh8w1U"
         },
         {
-          "name": "B:son",
-          "url": "https://open.spotify.com/artist/1BR98fwM1FZ6Fdce7I6Ghg"
+          "name": "The Supervelt Orchestra",
+          "url": "https://open.spotify.com/artist/03nMvruHVwXPpWBbQOeisz"
         }
       ],
-      "duration_ms": 230745,
-      "name": "Idiot",
-      "url": "https://open.spotify.com/track/0VWAIEXOWSbRtc863Ou5IT"
+      "duration_ms": 355406,
+      "name": "SUPERLATEX",
+      "url": "https://open.spotify.com/track/5X3NPqvJGU6OzABoi8N9VQ"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/52nZdg9opgsYSolFySxpr9"
+        "name": "AFTER DEATH ART",
+        "url": "https://open.spotify.com/album/3B0cm5pW9g09waHibwBZ0F"
       },
       "artists": [
         {
-          "name": "Odessa K",
-          "url": "https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7"
+          "name": "After Death Art",
+          "url": "https://open.spotify.com/artist/5zhMspVqdOyFX1YFuDLr53"
         }
       ],
-      "duration_ms": 296440,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/6HIXrNkRDGGmwwaScBO6FF"
+      "duration_ms": 318163,
+      "name": "Midnight Star",
+      "url": "https://open.spotify.com/track/2wqn9WGZ0QqvxnQMZ1creu"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "DET VAR V\u00c4RT DET",
-        "url": "https://open.spotify.com/album/3bhUzP83MCOYNFpujv269z"
+        "name": "Acoustic Seasons",
+        "url": "https://open.spotify.com/album/7b7qmXquYi1GIvnCyyV7OE"
       },
       "artists": [
         {
-          "name": "TRENNE",
-          "url": "https://open.spotify.com/artist/5xfadGtEV0FLqIkRZlKoKX"
+          "name": "Hans Wahlund",
+          "url": "https://open.spotify.com/artist/5SKg3PoGnyOxjYRkYVIsAc"
         }
       ],
-      "duration_ms": 230253,
-      "name": "DET VAR V\u00c4RT DET",
-      "url": "https://open.spotify.com/track/7rSRdXv7NAwqAWxL2ezLLO"
+      "duration_ms": 200715,
+      "name": "Acoustic Fall",
+      "url": "https://open.spotify.com/track/6LeID5CpWvTlArqRjxSCFW"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Ayaw Nag Kaguol",
-        "url": "https://open.spotify.com/album/7m9Vc6aiiA9ja4KZhT8mxH"
+        "name": "Slim Loris",
+        "url": "https://open.spotify.com/album/2T8J5nYDNsaLIdIZdZ6KMf"
       },
       "artists": [
         {
-          "name": "Shin Duran",
-          "url": "https://open.spotify.com/artist/63pdjqt6SBggKwOHmwC1Pu"
-        },
-        {
-          "name": "Sentes",
-          "url": "https://open.spotify.com/artist/5aprzKq05HPYoZgB14pUKp"
-        },
-        {
-          "name": "Regine Ylaya",
-          "url": "https://open.spotify.com/artist/4yWJrlG9nkQrMHnMpr7mZH"
+          "name": "Slim Loris",
+          "url": "https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu"
         }
       ],
-      "duration_ms": 280588,
-      "name": "Ayaw Nag Kaguol",
-      "url": "https://open.spotify.com/track/3Y5COkECKpZV377aKkzpsT"
+      "duration_ms": 228797,
+      "name": "Wasted Opportunity",
+      "url": "https://open.spotify.com/track/3oKChyT4jveN3nCmqP1F2a"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Talk To Jesus",
-        "url": "https://open.spotify.com/album/0gyl0Xy6Y6gxnToAot9308"
+        "name": "Only C",
+        "url": "https://open.spotify.com/album/5BndElagKZb3LA1803LQrm"
+      },
+      "artists": [
+        {
+          "name": "Allan Brazil Baruque",
+          "url": "https://open.spotify.com/artist/3qjQ91O9JhBaSGGgPJ1tvp"
+        }
+      ],
+      "duration_ms": 278750,
+      "name": "Towards Heaven",
+      "url": "https://open.spotify.com/track/63ycsW4f5sVAldSOBGUb5v"
+    },
+    {
+      "added_at": "2026-11-20 12:46:11",
+      "album": {
+        "name": "Osynliga \u00e4rr",
+        "url": "https://open.spotify.com/album/26koEBF4oFSIVFQDPbA72r"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lantz",
+          "url": "https://open.spotify.com/artist/6OSyviJTL9rY7oiyveBRAg"
+        }
+      ],
+      "duration_ms": 185539,
+      "name": "Osynliga \u00e4rr",
+      "url": "https://open.spotify.com/track/2UVkhMsUbDgqUwv0neeG61"
+    },
+    {
+      "added_at": "2026-11-20 12:46:11",
+      "album": {
+        "name": "Our Souls at Night",
+        "url": "https://open.spotify.com/album/1400WzvYIyyiqiJwBL9oVV"
+      },
+      "artists": [
+        {
+          "name": "Fairy Pools",
+          "url": "https://open.spotify.com/artist/6lQ3s4xPLJcyn1E0KWBN10"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Our Souls at Night",
+      "url": "https://open.spotify.com/track/7zTt7CKWxmL0rbPLivRBKH"
+    },
+    {
+      "added_at": "2026-11-20 12:46:11",
+      "album": {
+        "name": "Tuuli nousee",
+        "url": "https://open.spotify.com/album/2sdHBBg5hhh5zk1AZwyB7k"
+      },
+      "artists": [
+        {
+          "name": "Taskut",
+          "url": "https://open.spotify.com/artist/7iAyuEU9GJWLrAod8TZ8ol"
+        }
+      ],
+      "duration_ms": 273737,
+      "name": "Tuuli nousee",
+      "url": "https://open.spotify.com/track/3W2wsmE4rU0QmVF0lufmOZ"
+    },
+    {
+      "added_at": "2026-11-20 12:46:11",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/2rymCfAd6LKnljgyCAtVNQ"
       },
       "artists": [
         {
@@ -144,109 +200,89 @@
           "url": "https://open.spotify.com/artist/57vMEpFHYiNuGovrn6SUtw"
         }
       ],
-      "duration_ms": 259160,
-      "name": "Talk To Jesus",
-      "url": "https://open.spotify.com/track/3prqMnAzj2Tnzon0O3iY32"
+      "duration_ms": 273040,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/3sofnV471RHOhYljC4R3PX"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Laundry Day",
-        "url": "https://open.spotify.com/album/7Gw3PA4lXQSrtAD09emefb"
+        "name": "Sir\u00e8nes",
+        "url": "https://open.spotify.com/album/7tflS0QVVk0CvdxUcR8pmr"
       },
       "artists": [
         {
-          "name": "Echo Is Your Love",
-          "url": "https://open.spotify.com/artist/3qMbX0SoFXKLZUaVty155k"
+          "name": "Ben & The Saints",
+          "url": "https://open.spotify.com/artist/1XN1N6cbVnKJsq8o7StP7v"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Agent For Hire",
-      "url": "https://open.spotify.com/track/3oBtvdMrr6WroFYZxkx5Pn"
+      "duration_ms": 152773,
+      "name": "Sir\u00e8nes",
+      "url": "https://open.spotify.com/track/2JDsF1DO06OoeVRm5mPp98"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Ripottele tuhkani Harjuun",
-        "url": "https://open.spotify.com/album/4zh0aaBSRiNVSSIFIA4N5Z"
+        "name": "Stj\u00e4rnfall",
+        "url": "https://open.spotify.com/album/1tkBIst2zg8rFrT3FjLbQ6"
       },
       "artists": [
         {
-          "name": "Slack Bird",
-          "url": "https://open.spotify.com/artist/6Q1W7ZOpz6rfdm8QkEdH4p"
+          "name": "Daniel Arteaga",
+          "url": "https://open.spotify.com/artist/1ff46hVkyIPKr6SdDgVgjO"
         }
       ],
-      "duration_ms": 163813,
-      "name": "Ripottele tuhkani Harjuun",
-      "url": "https://open.spotify.com/track/4PzGK4Pla6j5z8SrmGR208"
+      "duration_ms": 374823,
+      "name": "Stj\u00e4rnfall",
+      "url": "https://open.spotify.com/track/4iRggWIP4LdHhHQesEkaM5"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Fully Known",
-        "url": "https://open.spotify.com/album/6696mJ2MzhulsBMmFslCoh"
+        "name": "Tuhat palaa",
+        "url": "https://open.spotify.com/album/2UadAHktRYX0Uenm6cBJVT"
       },
       "artists": [
         {
-          "name": "Oskar Frihd",
-          "url": "https://open.spotify.com/artist/66T4BxEr9qTxMDN2P6iUD0"
-        },
-        {
-          "name": "Linnea Lindberg",
-          "url": "https://open.spotify.com/artist/4gVlchtF0pX9qwrV9qAJUI"
+          "name": "Memmu",
+          "url": "https://open.spotify.com/artist/3Bp63KR3ySn1DLsG57Kgib"
         }
       ],
-      "duration_ms": 249043,
-      "name": "As I'm Fully Known",
-      "url": "https://open.spotify.com/track/6iricmvOHX6XKSNWhHzgM4"
+      "duration_ms": 166160,
+      "name": "Tuhat palaa",
+      "url": "https://open.spotify.com/track/65pHa8C9uV82ciz4VyszAJ"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Rotten Playboy",
-        "url": "https://open.spotify.com/album/5N02kChsZ75UbARhySiAWP"
+        "name": "Talijani",
+        "url": "https://open.spotify.com/album/3JaiFYRk202AkgjNeKMIBd"
       },
       "artists": [
         {
-          "name": "Gangland",
-          "url": "https://open.spotify.com/artist/6vJS07ed1Bi2FKY7QJoNEp"
+          "name": "Mutant Urban Dance Ansambl",
+          "url": "https://open.spotify.com/artist/1vFtjYR5ywRfaoTVcyvBHn"
         }
       ],
-      "duration_ms": 270240,
-      "name": "Rotten Playboy",
-      "url": "https://open.spotify.com/track/7LSMvkhEhy2KHSBKJBjGBf"
+      "duration_ms": 202966,
+      "name": "Talijani",
+      "url": "https://open.spotify.com/track/3iGwejF6HSMTjzoMCiZIHW"
     },
     {
-      "added_at": "2026-11-13 14:50:25",
+      "added_at": "2026-11-20 12:46:11",
       "album": {
-        "name": "Alternate Reality",
-        "url": "https://open.spotify.com/album/4fWAA1wVOvmOBo4xLX9lTZ"
+        "name": "Blood and Broken Bones",
+        "url": "https://open.spotify.com/album/2jADrAT5kLjcxEydHHlcJC"
       },
       "artists": [
         {
-          "name": "Twink Priest",
-          "url": "https://open.spotify.com/artist/1ZY4Il0iwObel7LZxkmSrn"
+          "name": "Satanic Overdrive",
+          "url": "https://open.spotify.com/artist/1Aq32Fzfrby7g5MQLgQ2SF"
         }
       ],
-      "duration_ms": 201375,
-      "name": "Alternate Reality",
-      "url": "https://open.spotify.com/track/2naKs3MxuNnjpO68cHeioa"
-    },
-    {
-      "added_at": "2026-11-13 14:50:25",
-      "album": {
-        "name": "VI",
-        "url": "https://open.spotify.com/album/3r2LNLNclXsxBsA6RcMKwc"
-      },
-      "artists": [
-        {
-          "name": "DNFTD",
-          "url": "https://open.spotify.com/artist/4lyPj9IN1Ru0sXTJ2po3O1"
-        }
-      ],
-      "duration_ms": 362834,
-      "name": "Reverend",
-      "url": "https://open.spotify.com/track/4IXPt2FMlKkUIQGt4WFHgl"
+      "duration_ms": 184041,
+      "name": "Blood and Broken Bones",
+      "url": "https://open.spotify.com/track/4hO7uhRdI2n4EP1qtF7BhX"
     }
   ],
   "unique_name": "Independent Music Friday",

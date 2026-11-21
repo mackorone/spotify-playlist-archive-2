@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnoPjXZrmWkpYivbMt+qTiUBLLx",
+  "snapshot_id": "AAAAAHq04nCg4dR3chT9S8/nF/kkDfE3",
   "tracks": [
     {
       "added_at": null,
@@ -36,25 +36,9 @@
           "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
         }
       ],
-      "duration_ms": 237066,
-      "name": "Downtown Lights",
-      "url": "https://open.spotify.com/track/41fgMr2SXvOHUlIe9fMDoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twist of Fate",
-        "url": "https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY"
-      },
-      "artists": [
-        {
-          "name": "By The Coast",
-          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
-        }
-      ],
-      "duration_ms": 233467,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5Z4DxvV4ifNFpJIyvuZBcx"
+      "duration_ms": 235226,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4CbEywsdQl5J2e2XQhYEfq"
     },
     {
       "added_at": null,
@@ -91,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/7EuideO6NFiTxBrzEpd6s5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wash",
         "url": "https://open.spotify.com/album/2ksP3jQicVWUzWPpX0c27N"
       },
@@ -119,6 +87,22 @@
       "duration_ms": 229784,
       "name": "Holding You, Holding Me",
       "url": "https://open.spotify.com/track/1gLlnWj9zBd8zmHNUjZeZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/7EuideO6NFiTxBrzEpd6s5"
     },
     {
       "added_at": null,
@@ -155,18 +139,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost In The Everglow",
-        "url": "https://open.spotify.com/album/1tikGiZYjz59UCtaadfoDD"
+        "name": "As The Light Fades",
+        "url": "https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb"
       },
       "artists": [
         {
-          "name": "Chief",
-          "url": "https://open.spotify.com/artist/03rKoyn1N8wUowLCHGcG33"
+          "name": "Rohin",
+          "url": "https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs"
         }
       ],
-      "duration_ms": 223932,
-      "name": "Your Weather",
-      "url": "https://open.spotify.com/track/0lTYWQMg4TufelFuXlKwCC"
+      "duration_ms": 236773,
+      "name": "Chinatown In The Rain",
+      "url": "https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Dangerous",
+        "url": "https://open.spotify.com/album/4EzK08959kkIicOgW59P7s"
+      },
+      "artists": [
+        {
+          "name": "Heart Of Gold",
+          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
+        }
+      ],
+      "duration_ms": 215923,
+      "name": "Co-Dependent",
+      "url": "https://open.spotify.com/track/3x4iiQSOqfzfZ4MFmKMSAv"
     },
     {
       "added_at": null,
@@ -212,25 +212,9 @@
           "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4CbEywsdQl5J2e2XQhYEfq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twist of Fate",
-        "url": "https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY"
-      },
-      "artists": [
-        {
-          "name": "By The Coast",
-          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
-        }
-      ],
-      "duration_ms": 264672,
-      "name": "Radio Wave",
-      "url": "https://open.spotify.com/track/1sYjoqDQnZSM55boArF4w2"
+      "duration_ms": 237066,
+      "name": "Downtown Lights",
+      "url": "https://open.spotify.com/track/41fgMr2SXvOHUlIe9fMDoJ"
     },
     {
       "added_at": null,
@@ -251,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1984",
-        "url": "https://open.spotify.com/album/06oDgcuzei9MKffwRgw98C"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 250537,
-      "name": "1984",
-      "url": "https://open.spotify.com/track/3OT1OWjqzG5aqAqUrN297t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young and in Love",
         "url": "https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo"
       },
@@ -279,6 +247,22 @@
       "duration_ms": 327000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4nd5wyahX5FgpXlxWJ9Olc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1984",
+        "url": "https://open.spotify.com/album/06oDgcuzei9MKffwRgw98C"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 250537,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/3OT1OWjqzG5aqAqUrN297t"
     },
     {
       "added_at": null,
@@ -299,34 +283,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Light Fades",
-        "url": "https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb"
+        "name": "Lost In The Everglow",
+        "url": "https://open.spotify.com/album/1tikGiZYjz59UCtaadfoDD"
       },
       "artists": [
         {
-          "name": "Rohin",
-          "url": "https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs"
+          "name": "Chief",
+          "url": "https://open.spotify.com/artist/03rKoyn1N8wUowLCHGcG33"
         }
       ],
-      "duration_ms": 236773,
-      "name": "Chinatown In The Rain",
-      "url": "https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM"
+      "duration_ms": 223932,
+      "name": "Your Weather",
+      "url": "https://open.spotify.com/track/0lTYWQMg4TufelFuXlKwCC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Things I Can't Explain",
-        "url": "https://open.spotify.com/album/6DG6UoVlXBa27oMhOZizpN"
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
       },
       "artists": [
         {
-          "name": "Dekleyn",
-          "url": "https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI"
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
         }
       ],
-      "duration_ms": 229685,
-      "name": "Things I Can't Explain",
-      "url": "https://open.spotify.com/track/4He5mRLW0X0FHC3kc5HlZH"
+      "duration_ms": 175374,
+      "name": "Honey (I believe in us)",
+      "url": "https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love is Complicated",
+        "url": "https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt"
+      },
+      "artists": [
+        {
+          "name": "Drive!Drive!",
+          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
+        }
+      ],
+      "duration_ms": 163619,
+      "name": "Love Is Complicated",
+      "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
     },
     {
       "added_at": null,
@@ -347,130 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Dangerous",
-        "url": "https://open.spotify.com/album/4EzK08959kkIicOgW59P7s"
+        "name": "Do You Really",
+        "url": "https://open.spotify.com/album/5A2vf5xeaCfjW2omcNezL1"
       },
       "artists": [
         {
-          "name": "Heart Of Gold",
-          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
+          "name": "The Palais",
+          "url": "https://open.spotify.com/artist/7xGcHNf8LzTGReAUsJNaI9"
         }
       ],
-      "duration_ms": 215923,
-      "name": "Co-Dependent",
-      "url": "https://open.spotify.com/track/3x4iiQSOqfzfZ4MFmKMSAv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Second Wind",
-        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
-      },
-      "artists": [
-        {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/20FoD7SUV9MIo031ajcuvF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Happens When The Lights Go Out",
-        "url": "https://open.spotify.com/album/6dyGLSwao3JZ5UNUYAgbVU"
-      },
-      "artists": [
-        {
-          "name": "Rhineland",
-          "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "What Happens When The Lights Go Out",
-      "url": "https://open.spotify.com/track/4fcdij4r93FJOE4W8027hw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twist of Fate",
-        "url": "https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY"
-      },
-      "artists": [
-        {
-          "name": "By The Coast",
-          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
-        }
-      ],
-      "duration_ms": 266202,
-      "name": "I Want You Close",
-      "url": "https://open.spotify.com/track/1u55xtADWRwoOLzMZx0vTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4L1OHPKmNkkZ7AhBDfsU3H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hotel",
-        "url": "https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP"
-      },
-      "artists": [
-        {
-          "name": "VICTORS",
-          "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "The Hotel",
-      "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outta This Town",
-        "url": "https://open.spotify.com/album/1j1svJWfsmWNbWB7bRaQsX"
-      },
-      "artists": [
-        {
-          "name": "The Wild Wind",
-          "url": "https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Outta This Town",
-      "url": "https://open.spotify.com/track/1XB5f0zAlslSQcYflH1il3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Ends Up Ending",
-        "url": "https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB"
-      },
-      "artists": [
-        {
-          "name": "Laureline",
-          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
-        }
-      ],
-      "duration_ms": 190261,
-      "name": "Everything Ends Up Ending",
-      "url": "https://open.spotify.com/track/20qTnXGVEu1ibpnVugYFc1"
+      "duration_ms": 244503,
+      "name": "Do You Really",
+      "url": "https://open.spotify.com/track/1UWHiGcPIyNjaq7UOPFz00"
     },
     {
       "added_at": null,
@@ -491,6 +379,126 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Happens When The Lights Go Out",
+        "url": "https://open.spotify.com/album/6dyGLSwao3JZ5UNUYAgbVU"
+      },
+      "artists": [
+        {
+          "name": "Rhineland",
+          "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "What Happens When The Lights Go Out",
+      "url": "https://open.spotify.com/track/4fcdij4r93FJOE4W8027hw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hotel",
+        "url": "https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP"
+      },
+      "artists": [
+        {
+          "name": "VICTORS",
+          "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "The Hotel",
+      "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4L1OHPKmNkkZ7AhBDfsU3H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3JmpTaHDCYGNldsYzom4wo"
+      },
+      "artists": [
+        {
+          "name": "The Wild Wind",
+          "url": "https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y"
+        }
+      ],
+      "duration_ms": 237272,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6Pij7wPMJHDgpaq4ooqoit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Ends Up Ending",
+        "url": "https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "duration_ms": 190261,
+      "name": "Everything Ends Up Ending",
+      "url": "https://open.spotify.com/track/20qTnXGVEu1ibpnVugYFc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swimming Pools at Night",
+        "url": "https://open.spotify.com/album/5nEwnsQDxpwLxio7XoNweI"
+      },
+      "artists": [
+        {
+          "name": "Talltale",
+          "url": "https://open.spotify.com/artist/47bwOR6s1vZymFYFCfgsrZ"
+        },
+        {
+          "name": "Laur Elle",
+          "url": "https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH"
+        },
+        {
+          "name": "Father Bobby Townsend",
+          "url": "https://open.spotify.com/artist/5eDhzC9jYazJ8aOHHaQHMX"
+        }
+      ],
+      "duration_ms": 224302,
+      "name": "Swimming Pools at Night",
+      "url": "https://open.spotify.com/track/3vsgY23GQhwTd3B2xMDH3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
+      },
+      "artists": [
+        {
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Notice",
+      "url": "https://open.spotify.com/track/2l4RX5GHXaoJdKbRZkFji8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreams You Don't Forget",
         "url": "https://open.spotify.com/album/1SIZ2zghRyCAvozSaMrA7Q"
       },
@@ -507,82 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "songs to drive to",
-        "url": "https://open.spotify.com/album/2XIykPMdAG9JRZ8xWqS7Eu"
+        "name": "Rebel on the Interstate",
+        "url": "https://open.spotify.com/album/6YJknf9rmKbB1a5dBg26UA"
       },
       "artists": [
         {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+          "name": "Jupiter Station",
+          "url": "https://open.spotify.com/artist/3YzSTFCY3tfQSydfk0JfYE"
         }
       ],
-      "duration_ms": 176365,
-      "name": "tv shows",
-      "url": "https://open.spotify.com/track/3fcMn1jCLiBRuFqfwkrjkX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Dangerous",
-        "url": "https://open.spotify.com/album/4EzK08959kkIicOgW59P7s"
-      },
-      "artists": [
-        {
-          "name": "Heart Of Gold",
-          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
-        }
-      ],
-      "duration_ms": 273509,
-      "name": "To The Blue",
-      "url": "https://open.spotify.com/track/4vzs8fYH9GV7UqnSH6AaGV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Second Wind",
-        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
-      },
-      "artists": [
-        {
-          "name": "LAVE",
-          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
-        }
-      ],
-      "duration_ms": 191791,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/2tBg5EICFT9Ff0DzxzzZ3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heard It in a Dream, Love",
-        "url": "https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI"
-      },
-      "artists": [
-        {
-          "name": "Rhineland",
-          "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "Keep Me Close",
-      "url": "https://open.spotify.com/track/4iGXkFkUTl55yoVmvXJr8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Ghost Hotel",
-      "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
+      "duration_ms": 151749,
+      "name": "Midnight Drive",
+      "url": "https://open.spotify.com/track/08QYteLQdsCwfAULcCmk5t"
     },
     {
       "added_at": null,
@@ -603,8 +547,56 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/2iGkASJ46pbJZMMb48NtwJ"
+        "name": "Vacation Manor",
+        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
+      },
+      "artists": [
+        {
+          "name": "Vacation Manor",
+          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heard It in a Dream, Love",
+        "url": "https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI"
+      },
+      "artists": [
+        {
+          "name": "Rhineland",
+          "url": "https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "Keep Me Close",
+      "url": "https://open.spotify.com/track/4iGXkFkUTl55yoVmvXJr8D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotspot",
+        "url": "https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Hotspot",
+      "url": "https://open.spotify.com/track/0MQtMtaxoXE5ybt6pOgqnw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm"
       },
       "artists": [
         {
@@ -612,9 +604,9 @@
           "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt"
+      "duration_ms": 252200,
+      "name": "hey, u up?",
+      "url": "https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1"
     },
     {
       "added_at": null,
@@ -651,54 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreams You Don't Forget",
-        "url": "https://open.spotify.com/album/1SIZ2zghRyCAvozSaMrA7Q"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 320493,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vacation Manor",
-        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
-      },
-      "artists": [
-        {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
-        }
-      ],
-      "duration_ms": 296426,
-      "name": "If Only for Tonight",
-      "url": "https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do You Really",
-        "url": "https://open.spotify.com/album/5A2vf5xeaCfjW2omcNezL1"
-      },
-      "artists": [
-        {
-          "name": "The Palais",
-          "url": "https://open.spotify.com/artist/7xGcHNf8LzTGReAUsJNaI9"
-        }
-      ],
-      "duration_ms": 244503,
-      "name": "Do You Really",
-      "url": "https://open.spotify.com/track/1UWHiGcPIyNjaq7UOPFz00"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1pkSvMMS7vSTpYNcVhNE4d"
       },
@@ -715,24 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotspot",
-        "url": "https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX"
+        "name": "Dreams You Don't Forget",
+        "url": "https://open.spotify.com/album/1SIZ2zghRyCAvozSaMrA7Q"
       },
       "artists": [
         {
@@ -740,9 +668,89 @@
           "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
         }
       ],
-      "duration_ms": 313400,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M"
+      "duration_ms": 320493,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb"
+      },
+      "artists": [
+        {
+          "name": "LAVE",
+          "url": "https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp"
+        }
+      ],
+      "duration_ms": 191791,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/2tBg5EICFT9Ff0DzxzzZ3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Somebody EP",
+        "url": "https://open.spotify.com/album/6JsoOxrkhbRI4R5p2Zel6I"
+      },
+      "artists": [
+        {
+          "name": "The Catalina",
+          "url": "https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj"
+        }
+      ],
+      "duration_ms": 228311,
+      "name": "Easy Drinking",
+      "url": "https://open.spotify.com/track/2Gl967eZn92JfjG852oLT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/71CdtfTUZJ7D82iiF4SWsp"
+      },
+      "artists": [
+        {
+          "name": "Heart Of Gold",
+          "url": "https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ"
+        }
+      ],
+      "duration_ms": 212416,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/3I3cztm9B7DIryjEegY1AY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vacation Manor",
+        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
+      },
+      "artists": [
+        {
+          "name": "Vacation Manor",
+          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
+        }
+      ],
+      "duration_ms": 236330,
+      "name": "Thoughts in Progress",
+      "url": "https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Ghost Hotel",
+      "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
     },
     {
       "added_at": null,
@@ -763,24 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love is Complicated",
-        "url": "https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt"
-      },
-      "artists": [
-        {
-          "name": "Drive!Drive!",
-          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
-        }
-      ],
-      "duration_ms": 163619,
-      "name": "Love Is Complicated",
-      "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm"
+        "name": "Nothing Seems To Matter Now",
+        "url": "https://open.spotify.com/album/4A7XfpaOML3nxaCiaSwYZw"
       },
       "artists": [
         {
@@ -788,15 +780,15 @@
           "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
         }
       ],
-      "duration_ms": 252200,
-      "name": "hey, u up?",
-      "url": "https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1"
+      "duration_ms": 240226,
+      "name": "Nothing Seems To Matter Now",
+      "url": "https://open.spotify.com/track/3YktaxfQzXAAVY5utLFdKP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Young and in Love",
-        "url": "https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo"
+        "name": "Outta This Town",
+        "url": "https://open.spotify.com/album/1j1svJWfsmWNbWB7bRaQsX"
       },
       "artists": [
         {
@@ -804,9 +796,25 @@
           "url": "https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y"
         }
       ],
-      "duration_ms": 222750,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1eZfQxzuj9HzQ0SrPJAhOy"
+      "duration_ms": 176250,
+      "name": "Outta This Town",
+      "url": "https://open.spotify.com/track/1XB5f0zAlslSQcYflH1il3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Ends Up Ending",
+        "url": "https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "duration_ms": 234844,
+      "name": "Many Worlds",
+      "url": "https://open.spotify.com/track/3B0FgKP9VnPYal3FSLe002"
     }
   ],
   "unique_name": "NIGHT TRAVELER Radio",

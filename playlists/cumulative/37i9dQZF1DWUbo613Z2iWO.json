@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Parisalexa",
+  "description": "R&B of the moment by the artists of the future. Cover: Gabriel Jacoby",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -3285,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "be alright",
+        "url": "https://open.spotify.com/album/4ZvHuLQDYuAToRifmjywO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237623,
+      "name": "be alright",
+      "url": "https://open.spotify.com/track/3terdrsJOxPmBb8n3pyGdR"
+    },
+    {
+      "album": {
         "name": "be careful",
         "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
       },
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 131189,
       "name": "Call Me When You Can",
       "url": "https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW"
@@ -6226,7 +6244,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 158816,
       "name": "Champagne & Lace",
       "url": "https://open.spotify.com/track/2W0H4oyJVipX3jd0c1YThn"
@@ -7989,6 +8007,24 @@
     },
     {
       "album": {
+        "name": "Crying on the Internet",
+        "url": "https://open.spotify.com/album/1qeRp6loebO7DHxHZHzzLr"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211084,
+      "name": "Crying on the Internet",
+      "url": "https://open.spotify.com/track/6VScPG8qvV66EZiVQB6Sjt"
+    },
+    {
+      "album": {
         "name": "Crysalis",
         "url": "https://open.spotify.com/album/5wguW4MPD9WHsp65zUUSf4"
       },
@@ -9217,6 +9253,24 @@
     },
     {
       "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/4YkeLdX8Bh4XCXz7AksGt6"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/0xJErtvPm1ThhucOMyuaBt"
+    },
+    {
+      "album": {
         "name": "DON'T ASK!",
         "url": "https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU"
       },
@@ -9880,7 +9934,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 138378,
       "name": "Drama",
       "url": "https://open.spotify.com/track/09GXjYOGBhcuOHbW1tBJP3"
@@ -11201,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "Falling Star",
+        "url": "https://open.spotify.com/album/116nCdc2grKmlE7TWqzeK6"
+      },
+      "artists": [
+        {
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184886,
+      "name": "Falling Star",
+      "url": "https://open.spotify.com/track/3GVQ2ND6tAWHeQemkgpRPe"
+    },
+    {
+      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
       },
@@ -11806,7 +11878,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 180009,
       "name": "Fighting For You",
       "url": "https://open.spotify.com/track/2PLMAJV47bfUyI5mHRzFxL"
@@ -14478,7 +14550,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 169816,
       "name": "H.O.M.B.",
       "url": "https://open.spotify.com/track/4ALENBl3OIYOSWaUk6ILXd"
@@ -14500,6 +14572,24 @@
       "duration_ms": 212618,
       "name": "Haiku",
       "url": "https://open.spotify.com/track/52uaVOICJKsGh3jBM1EW6m"
+    },
+    {
+      "album": {
+        "name": "Halle Berry",
+        "url": "https://open.spotify.com/album/6X61cAoyP6uoHH01rCcaic"
+      },
+      "artists": [
+        {
+          "name": "Amal Zenab",
+          "url": "https://open.spotify.com/artist/70etnSmOIT4EJ5metyZe0y"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228437,
+      "name": "Halle Berry",
+      "url": "https://open.spotify.com/track/040NmIFYjP3KG2kZXzWpHX"
     },
     {
       "album": {
@@ -15850,7 +15940,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 171333,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
@@ -16382,7 +16472,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 178819,
       "name": "I Didn't Want It This Way",
       "url": "https://open.spotify.com/track/3VISSZwf0nc2m9cfbdKdVA"
@@ -18310,6 +18400,24 @@
       "duration_ms": 169013,
       "name": "JACKIE BROWN",
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "album": {
+        "name": "Katina Daughter Deluxe",
+        "url": "https://open.spotify.com/album/4v9WZgVKz7fN73DdppknX2"
+      },
+      "artists": [
+        {
+          "name": "Cyanca",
+          "url": "https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Jesse Jackson",
+      "url": "https://open.spotify.com/track/7CG5edqstvkVKUaBwxLi1m"
     },
     {
       "album": {
@@ -21267,6 +21375,24 @@
     },
     {
       "album": {
+        "name": "luv religion",
+        "url": "https://open.spotify.com/album/6pPWJbzmHQXLBaLZaRRzbJ"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219213,
+      "name": "luv religion",
+      "url": "https://open.spotify.com/track/3rljZmMtmTaVWmS1NLlXMD"
+    },
+    {
+      "album": {
         "name": "Don't Get Too Cozy",
         "url": "https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI"
       },
@@ -23296,7 +23422,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 186821,
       "name": "Need It Bad",
       "url": "https://open.spotify.com/track/1rP3G14xhp8AnaWsBr8dnw"
@@ -27576,7 +27702,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 174287,
       "name": "RAX",
       "url": "https://open.spotify.com/track/0G6tAQnK1t8EWKCBZYYRph"
@@ -34215,6 +34341,24 @@
     },
     {
       "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/2bU2rVOpwQDGa0efpr8QX8"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221814,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/4xkGzIrly6tzBB2ScBDlet"
+    },
+    {
+      "album": {
         "name": "BACKWARD",
         "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
       },
@@ -39012,6 +39156,24 @@
       "duration_ms": 207791,
       "name": "Your Love Is Gold",
       "url": "https://open.spotify.com/track/0MbqFNo6ajGsboV41LQhPu"
+    },
+    {
+      "album": {
+        "name": "Your Side Of The Bed",
+        "url": "https://open.spotify.com/album/1veX6AKnqRMrNqVzUVOAwm"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163325,
+      "name": "Your Side Of The Bed",
+      "url": "https://open.spotify.com/track/2rx95oP5wHJPlJmrDXQSjU"
     },
     {
       "album": {

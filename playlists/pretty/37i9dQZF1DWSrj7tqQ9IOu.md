@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois d'Octobre sélectionnés par les éditos de Spotify\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,020 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,015 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 5 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
 | 6 | [i think he's got a girl](https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [i think he's got a girl](https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0) | 3:34 |
 | 7 | [Where Is Gone?](https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 5:16 |
-| 8 | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU) | 3:03 |
-| 9 | [Pusher \(feat\. Gesaffelstein\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/6pxjskMHpE4QBmxoOX6O5H) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Pusher \(feat\. Gesaffelstein\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/6T1v6phBadT4WrAHWaybkZ) | 7:02 |
+| 8 | [Pusher \(feat\. Gesaffelstein\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/6pxjskMHpE4QBmxoOX6O5H) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Pusher \(feat\. Gesaffelstein\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/6T1v6phBadT4WrAHWaybkZ) | 7:02 |
+| 9 | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Cuenta \(feat\. Meryl & Shay\)](https://open.spotify.com/album/3weZpGpJ469y9iAN7i7wXU) | 3:03 |
 | 10 | [Weekend In Texas](https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weekend In Texas](https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf) | 2:53 |
 | 11 | [Coachella](https://open.spotify.com/track/5L4G8DPHn5kMpCg7zrZ82f) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Coachella](https://open.spotify.com/album/6VE4Gpm0ZQbsF9OILfScC2) | 3:07 |
 | 12 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 43 | [Borrowed Time](https://open.spotify.com/track/6QESYT149tN8sV6JmjHcJc) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne) | [Borrowed Time](https://open.spotify.com/album/5UuqNdJMfNFULySh1MsgLd) | 3:00 |
 | 44 | [pour te ramener à moi](https://open.spotify.com/track/0zST1tTxpPDsisxSGIKqLU) | [ange](https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG) | [pour te ramener à moi](https://open.spotify.com/album/64JoiTaoxb15GL7lZMutGq) | 2:27 |
 | 45 | [Impolie](https://open.spotify.com/track/2T6Lb6NhrpZrXo9nbGfdq1) | [Enola Cox](https://open.spotify.com/artist/4FugFjuE5dLtKNtSbxe3gD) | [Morsure d'étoile](https://open.spotify.com/album/5pbQH8yMF6BfmZ3Lv4Kkci) | 3:32 |
-| 46 | [Mode avion](https://open.spotify.com/track/5m7dCoZBRogxdYhjenjs1j) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Mode avion](https://open.spotify.com/album/2SfT9JoG6pXqK5qYKxfWEX) | 2:23 |
-| 47 | [wuthering heights](https://open.spotify.com/track/3ZB4LGUz6k3IhFPmyI6WQL) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [wuthering heights](https://open.spotify.com/album/7II2ra98hHCEROH0rog2lP) | 3:49 |
+| 46 | [wuthering heights](https://open.spotify.com/track/3ZB4LGUz6k3IhFPmyI6WQL) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [wuthering heights](https://open.spotify.com/album/7II2ra98hHCEROH0rog2lP) | 3:49 |
+| 47 | [Mode avion](https://open.spotify.com/track/5m7dCoZBRogxdYhjenjs1j) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Mode avion](https://open.spotify.com/album/2SfT9JoG6pXqK5qYKxfWEX) | 2:23 |
 | 48 | [Sans Bruit](https://open.spotify.com/track/1cWUqV6U4Ha0pKG2Dj7wfn) | [FELOWER](https://open.spotify.com/artist/0vAbJ8C43OjhCGbp57YGpL) | [Sans Bruit](https://open.spotify.com/album/3PfFT2cwSP4wHKcgpug7xY) | 2:28 |
 | 49 | [Les oiseaux qui chantent](https://open.spotify.com/track/2S79KZogGAUkVl3xN62UyI) | [Sauve](https://open.spotify.com/artist/3jXzioLWZnWUIaEjXPxpHw) | [Les oiseaux qui chantent](https://open.spotify.com/album/42MRurG1TXXLyja3zbRnOt) | 2:27 |
 | 50 | [Who You Callin' Crazy](https://open.spotify.com/track/6RoAAej2b94deRZ23FehHW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues, Loose Lips](https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3) | 4:09 |
 
-Snapshot ID: `AAAAAIE9BIOBwXVcWkV6rLd2HbMWjXn4`
+Snapshot ID: `AAAAAHM1SWT3JAHDPda5Hs/KpxdqrPDn`

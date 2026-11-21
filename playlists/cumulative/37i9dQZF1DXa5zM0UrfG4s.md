@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-493 songs - 22 hr 50 min
+494 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [En Slant Til Trikken Hjem](https://open.spotify.com/track/3Ha6Sri0JqpiI8wb3vIzsY) | [Scandinavia](https://open.spotify.com/artist/5N3xjxgDYbxsAqEeB3OTSm) | [De Aller Beste](https://open.spotify.com/album/6ex4LgCUYXmoSyOUsW8NW7) | 3:34 | 2021-12-16 | 2022-04-20 |
 | [Epleslang](https://open.spotify.com/track/1pCKYwfNqWrlmWAwbmjhyb) | [Di Derre](https://open.spotify.com/artist/3xhyJwgAUGZSE162fJXRJY) | [Epleslang](https://open.spotify.com/album/2UIQa1DEWwQHTRttK3abD2) | 2:59 | 2026-10-01 |  |
 | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb) | [PAT49](https://open.spotify.com/artist/6p3M0KTYqaOs3aOmQ6iVMs), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Er Det Du Eller Meg Som Er Mest Fucked Up?](https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO) | 2:09 | 2022-04-14 | 2022-08-25 |
-| [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 | 2021-12-16 |  |
+| [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 | 2021-12-16 | 2026-11-21 |
 | [Et Sted På Montebello](https://open.spotify.com/track/1CLFHU0oSSepQGeVPnaVHq) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Et Sted På Montebello](https://open.spotify.com/album/7kLuZ5vmzHc5i23SANRI6J) | 3:07 | 2021-12-16 | 2022-07-29 |
 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 | 2021-12-16 | 2025-07-05 |
 | [Evig Ung](https://open.spotify.com/track/1JW9yOhRC3FKfaxTBcibQF) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Evig Ung](https://open.spotify.com/album/4qTGCjhUEuScaKYoHPq7k5) | 2:57 | 2021-12-16 | 2022-04-20 |
@@ -483,6 +483,7 @@
 | [Vi va alt](https://open.spotify.com/track/2fRg4u2BNYT9qzbCA7MW0G) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Vi va alt](https://open.spotify.com/album/6T3p4dgHjqbhhka2Y0kqd0) | 2:45 | 2026-10-01 | 2026-11-10 |
 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 | 2021-12-16 | 2026-11-11 |
 | [Vill ha dig](https://open.spotify.com/track/3tuVDdCxxgoU94NyqzTeTC) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t) | [Vill ha dig](https://open.spotify.com/album/5xYfkDkUxtuCL6jhUPpnZ7) | 3:13 | 2022-01-06 | 2022-07-25 |
+| [Villmark](https://open.spotify.com/track/6oTaJU4JIQZC3zEtjNCejS) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Villmark](https://open.spotify.com/album/7Humw7wrWwHzTpaDV1prLY) | 3:00 | 2026-11-19 |  |
 | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/track/0JDaabBuiKaBEpIvwLGXUO) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4) | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/album/4R3gv6RiRbxTxILW9t9U8D) | 2:42 | 2021-12-16 | 2022-07-06 |
 | [VÄRDELÖS](https://open.spotify.com/track/0nP2DjCKa5p1MzAZbRZYfB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [VÄRDELÖS](https://open.spotify.com/album/46CTCBtHEt05hgOPMf3gLB) | 2:05 | 2023-08-03 | 2023-08-11 |
 | [VÄRMLAND](https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VÄRMLAND](https://open.spotify.com/album/0ekx3OiXJ0DZ68xa5eM0XR) | 2:26 | 2021-12-16 | 2022-11-16 |

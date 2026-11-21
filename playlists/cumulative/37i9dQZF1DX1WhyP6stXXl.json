@@ -9157,6 +9157,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
+    },
+    {
+      "album": {
         "name": "Crazy For You",
         "url": "https://open.spotify.com/album/5Z88ntvAuIC8yul0wIbeSi"
       },
@@ -17763,7 +17781,7 @@
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
@@ -27508,6 +27526,24 @@
       "duration_ms": 203691,
       "name": "Little Dreaming",
       "url": "https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q"
+    },
+    {
+      "album": {
+        "name": "Little Hopeful Song",
+        "url": "https://open.spotify.com/album/6qaOhIJERQxSuXNBUsPG4y"
+      },
+      "artists": [
+        {
+          "name": "Leon Blane",
+          "url": "https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "Little Hopeful Song",
+      "url": "https://open.spotify.com/track/74GY7I1yGschuGUk1GLneO"
     },
     {
       "album": {

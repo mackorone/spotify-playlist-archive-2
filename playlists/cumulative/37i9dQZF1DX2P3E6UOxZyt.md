@@ -4,7 +4,7 @@
 
 > 大咖讓歌單很有料，小眾讓歌單有得聊。Cover: KAXA
 
-845 songs - 2 day 0 hr 25 min
+846 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [如果可以](https://open.spotify.com/track/6pNoP0b0YbSaqt86nz0gtE) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [如果可以](https://open.spotify.com/album/2eNUGYzaHLgaAFKi4KgpIA) | 3:32 | 2022-03-24 | 2022-12-24 |
 | [如果我們還可以](https://open.spotify.com/track/0SNqhm9oV5PWjJmK3lj1gV) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [如果我們還可以](https://open.spotify.com/album/0vwjS6GoAwZzncqEU8uXFq) | 2:50 | 2024-03-28 | 2025-02-28 |
 | [如果我們還可以](https://open.spotify.com/track/5HjXtyicmwfY27Hc6DhAHQ) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [赤子](https://open.spotify.com/album/6ndSyvZbLKewKv2uFOSOxu) | 2:50 | 2025-01-16 | 2025-02-07 |
+| [如果泡在音樂還怎麼可能emo](https://open.spotify.com/track/5IJjRtuY0aTPFtfbIIfYPH) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [如果泡在音樂還怎麼可能emo](https://open.spotify.com/album/1BjygyCjQQILViK4MYEor9) | 2:37 | 2026-11-20 |  |
 | [妳不離開我都在](https://open.spotify.com/track/5knPWIuEYIHj2cgngIGdhu) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS), [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [妳不離開我都在](https://open.spotify.com/album/4M8aicVeZI4kWO5PznbkKl) | 2:41 | 2025-05-08 | 2025-07-11 |
 | [妳和我](https://open.spotify.com/track/7psOmXYhehxe8bssag0vbw) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [妳和我](https://open.spotify.com/album/3yZh7FUS3gRpgzBkvEdPLU) | 3:33 | 2025-03-27 | 2026-04-18 |
 | [妳是我寶貝ㄟ](https://open.spotify.com/track/09XPFGKSR0HbbfbSt7GSox) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [妳是我寶貝ㄟ](https://open.spotify.com/album/73mY6P6FZN0jVcLDn9hOAl) | 3:32 | 2022-06-16 | 2023-04-21 |

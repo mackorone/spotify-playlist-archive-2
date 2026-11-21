@@ -17533,6 +17533,28 @@
     },
     {
       "album": {
+        "name": "Electric Future Gangster",
+        "url": "https://open.spotify.com/album/1TQAwsDbmpDimK8nMyxZU7"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309873,
+      "name": "Southside Cinema (Bonus)",
+      "url": "https://open.spotify.com/track/0mv6riVyNLXzrH6B80WWBd"
+    },
+    {
+      "album": {
         "name": "SPAZZZ",
         "url": "https://open.spotify.com/album/5e12yn53xe8A4Ns501dHnO"
       },
@@ -18218,7 +18240,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 226053,
       "name": "STOVIE'S HOME (Down Down)",
       "url": "https://open.spotify.com/track/2oK53gU1lJtA06XtJ7RnUP"
@@ -20460,7 +20482,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 253173,
       "name": "Trouble Trouble",
       "url": "https://open.spotify.com/track/24piW3iCJkkqv3giorOvZY"
@@ -21868,6 +21890,24 @@
       "duration_ms": 170133,
       "name": "Worst Comes To Worst",
       "url": "https://open.spotify.com/track/44AnNS0mBwYbnVpmLAj049"
+    },
+    {
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/3VaftrPhxYLYUyQqWwuVXo"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/2RwXDJrkEADmW4INHX29DF"
     },
     {
       "album": {

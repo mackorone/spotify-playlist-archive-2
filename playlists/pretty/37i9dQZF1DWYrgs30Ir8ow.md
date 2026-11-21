@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Jonna Fraser & Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,338 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,390 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 2 | [Roze](https://open.spotify.com/track/5qwIUc2vAc4uub3Iut7iaQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Roze](https://open.spotify.com/album/3lGXWWtE3mzjuvkBHDS09k) | 2:33 |
 | 3 | [Monogaam](https://open.spotify.com/track/4nW4SAY2ahh7WWFFv46VjW) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [DE GIER](https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw) | 2:59 |
 | 4 | [BADBAD](https://open.spotify.com/track/5YHHKmrMGrgPK1rnHS9Oag) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BADBAD](https://open.spotify.com/album/2mGXbyNmiYH5erBTQJIPtJ) | 2:25 |
-| 5 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 |
+| 5 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 |
 | 6 | [Vaders & Moeders](https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 3:26 |
 | 7 | [Alles Wat Ik Wil](https://open.spotify.com/track/3BhRPtVVQ4LMcpbnRZGBQi) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Alles Wat Ik Wil](https://open.spotify.com/album/34n69oaIPTCbl4KjYugNC6) | 3:20 |
 | 8 | [Vrienden Voor Altijd](https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Vrienden Voor Altijd](https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI) | 2:47 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Pistache](https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Pistache](https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec) | 2:25 |
 | 40 | [VOODOO](https://open.spotify.com/track/1m6CMEuJPdFJolVZOyuuy8) | [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [VOODOO](https://open.spotify.com/album/3ecBewVWWL3H9lmqD2Jh5I) | 2:00 |
 
-Snapshot ID: `AAAAAGOfQ1TOoC9l5YLK4kwSSZ+hSmOl`
+Snapshot ID: `AAAAAIE3QqPz1ugbFJVy4JQco6mwF+HS`

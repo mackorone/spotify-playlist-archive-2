@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover: Karan Aujla",
+  "description": "Best of Punjabi Hip-Hop! Cover: Prem Dhillon",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 177833,
       "name": "G Who",
       "url": "https://open.spotify.com/track/7J9tw4E4ZKcX0AvhTOtqfk"
@@ -4986,6 +4986,24 @@
       "duration_ms": 146285,
       "name": "Never Ever",
       "url": "https://open.spotify.com/track/4DSrqUJX30NN9Gip0BSB7c"
+    },
+    {
+      "album": {
+        "name": "Never Left",
+        "url": "https://open.spotify.com/album/0GHQcRFWJRabw6UEgFn5jy"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205338,
+      "name": "Never Left",
+      "url": "https://open.spotify.com/track/35zKLzdHPLIUgXYLpX9T4y"
     },
     {
       "album": {

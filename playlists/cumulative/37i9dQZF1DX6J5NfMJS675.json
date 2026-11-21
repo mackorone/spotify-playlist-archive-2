@@ -13254,7 +13254,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 259287,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/4geV2DpX6uWP2oymqOIh6P"
@@ -21922,6 +21922,24 @@
       "duration_ms": 253333,
       "name": "Take Me to Ecstasy",
       "url": "https://open.spotify.com/track/0ZRVGU4tml1miY4uwmDevN"
+    },
+    {
+      "album": {
+        "name": "Take One Higher",
+        "url": "https://open.spotify.com/album/5N1k9TEK3eapPDUgEFOYwK"
+      },
+      "artists": [
+        {
+          "name": "Elli Acula",
+          "url": "https://open.spotify.com/artist/4SttkjM3Nv9VUc7BNtJTQT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264626,
+      "name": "Take One Higher",
+      "url": "https://open.spotify.com/track/1p5hflkpwkxYgbLRm9zWAg"
     },
     {
       "album": {

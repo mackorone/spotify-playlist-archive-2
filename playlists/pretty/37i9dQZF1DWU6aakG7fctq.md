@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Ralphie Choo
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,736 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,762 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 19 | [Astra Nova](https://open.spotify.com/track/7mSbdP6w3jPZvxmzgqr02q) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Astra Nova](https://open.spotify.com/album/6ncqXJEZKEydkQ0XxqwbV2) | 3:58 |
 | 20 | [que si que no](https://open.spotify.com/track/7yZFeoo9wqiW5pTgemZpJ8) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [late night swim](https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35) | 3:14 |
 | 21 | [Viento de Cara](https://open.spotify.com/track/1BjrwBcmflDR3WQuXiY0UY) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [Viento de Cara](https://open.spotify.com/album/4s4JGGCDv6G4xBr6b80ssv) | 4:45 |
-| 22 | [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 |
+| 22 | [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 |
 | 23 | [agora sii](https://open.spotify.com/track/29FeMQD1iBUXZ7ZpmLSRXM) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [emmi](https://open.spotify.com/artist/4uKazpOzJICJZ1MU1wwLfC) | [agora sii](https://open.spotify.com/album/3pKXD2pQijx2ZKeVVXRfQ3) | 1:32 |
 | 24 | [avión](https://open.spotify.com/track/2u15B2FPq3zv0D9xA7HtJN) | [Rigoazulado](https://open.spotify.com/artist/1D79GNF7t5kzqprHFZmBLx) | [avión](https://open.spotify.com/album/2Omy6fgKHpwIe9irO5DqeQ) | 3:06 |
 | 25 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [señal](https://open.spotify.com/track/3nTTwsN9xC1LM3nsO8CXcT) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [señal](https://open.spotify.com/album/0OmACCTrmEXV3JB3CYWrSc) | 2:42 |
 | 50 | [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 |
 
-Snapshot ID: `AAAAABXkdpoqUQFgP1y8ULlqVwPh6NX1`
+Snapshot ID: `AAAAAFLUiMMwIgo5KTH6/gHuAI+STGng`

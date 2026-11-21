@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Tiger Lewis
 
-625 songs - 1 day 11 hr 12 min
+626 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-05-01 |  |
 | [Maybe the World is a Beautiful Place](https://open.spotify.com/track/6kHt1PSTReFgz2pMEvFDCT) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Hopeless Romantic](https://open.spotify.com/album/4T9XmSaKAXnEYyNn8ILJK2) | 3:35 | 2023-10-06 | 2023-11-11 |
 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 | 2022-03-11 | 2024-03-02 |
+| [Me, myself and I](https://open.spotify.com/track/5HsJa1eoK3PW1nxoZqAiH0) | [Leyla Sabo](https://open.spotify.com/artist/2q5r36O9E3LiI3tu0eVtGy) | [Me, myself and I](https://open.spotify.com/album/5We74rgkbzaokVKhBT0fll) | 3:52 | 2026-11-21 |  |
 | [Memory Of You](https://open.spotify.com/track/03HzjjG5PNUCvp8Y9Vbbvd) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Memory Of You](https://open.spotify.com/album/5rawz0bTUTbBhtMGfFTzp8) | 3:23 | 2026-04-24 |  |
 | [Midnight Crisis](https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Midnight Crisis](https://open.spotify.com/album/5NBylpmkOvFFlpF9Gx2mFl) | 3:27 | 2026-10-02 |  |
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2021-12-03 | 2023-01-28 |
@@ -629,7 +630,7 @@
 | [You Are The Best Thing](https://open.spotify.com/track/7885mFKPXjWNyxkOvuFK1j) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip in The Grain \(Standard DMD\)](https://open.spotify.com/album/2sOE2ErQdW8Az2I6IC6Py3) | 3:54 | 2021-12-03 | 2022-07-28 |
 | [You Better Run](https://open.spotify.com/track/7oUIAASi2QgNtCiFAmtGJw) | [Delta Maid](https://open.spotify.com/artist/3U3DcUha9m8BQGBhe338S9) | [You Better Run](https://open.spotify.com/album/4HEahF5fLkFrp4ROitpWEd) | 3:14 | 2021-12-03 | 2022-07-29 |
 | [You Know What It Do](https://open.spotify.com/track/6ldfbQlcEFhaIN7ZQNqsC6) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 3:07 | 2021-12-03 | 2022-07-25 |
-| [You Stole The Show](https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [You Stole The Show](https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh) | 3:27 | 2026-02-06 |  |
+| [You Stole The Show](https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [You Stole The Show](https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh) | 3:27 | 2026-02-06 | 2026-11-21 |
 | [You Wouldn't Know](https://open.spotify.com/track/4vDInKGHOevHIAspvmMbTk) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Stephen Day](https://open.spotify.com/album/6xMy6zMBVaItXgZiUly19y) | 3:28 | 2026-10-23 |  |
 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 | 2025-11-21 | 2026-04-18 |
 | [Youniverse](https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Youniverse](https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz) | 2:40 | 2024-03-01 | 2026-01-24 |

@@ -1,12 +1,12 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: Vitinho RB, MD Chefe\n",
-  "num_followers": 138015,
+  "num_followers": 138004,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJzRXHDU7AfUhiZEXPoVxzrzSByc",
+  "snapshot_id": "AAAAAKEXC3sjXZAmVkEJUa+zgFu0hrJp",
   "tracks": [
     {
       "added_at": "2026-11-20 01:14:04",
@@ -959,6 +959,26 @@
     {
       "added_at": "2026-11-20 01:14:04",
       "album": {
+        "name": "Atra\u00e7\u00e3o.Hz",
+        "url": "https://open.spotify.com/album/6mhYkIotQNZgnzsI1Ny4ol"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "Delua Og",
+          "url": "https://open.spotify.com/artist/3FUntHc3JwWp9Ktf8R7gjd"
+        }
+      ],
+      "duration_ms": 134733,
+      "name": "Money.FM",
+      "url": "https://open.spotify.com/track/5Ymlh87jHr0thR1LqICzcm"
+    },
+    {
+      "added_at": "2026-11-20 01:14:04",
+      "album": {
         "name": "Mentiras pro KayG",
         "url": "https://open.spotify.com/album/7bx8HbegrAyZtelJIDAK94"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 134736,
       "name": "CORA\u00c7\u00c3O TATUADO",
       "url": "https://open.spotify.com/track/6Sn3XT0E6OgXeIsdh605ra"
-    },
-    {
-      "added_at": "2026-11-20 01:14:04",
-      "album": {
-        "name": "Atra\u00e7\u00e3o.Hz",
-        "url": "https://open.spotify.com/album/6mhYkIotQNZgnzsI1Ny4ol"
-      },
-      "artists": [
-        {
-          "name": "Gapes",
-          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
-        },
-        {
-          "name": "Delua Og",
-          "url": "https://open.spotify.com/artist/3FUntHc3JwWp9Ktf8R7gjd"
-        }
-      ],
-      "duration_ms": 134733,
-      "name": "Money.FM",
-      "url": "https://open.spotify.com/track/5Ymlh87jHr0thR1LqICzcm"
     },
     {
       "added_at": "2026-11-20 01:14:04",

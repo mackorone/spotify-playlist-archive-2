@@ -4,11 +4,10 @@
 
 > Fresh Latin Indie you should know\. Cover: Ralphie Choo
 
-1,406 songs - 3 day 4 hr 34 min
+1,406 songs - 3 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 | 2026-11-06 |  |
 | [\(ecco\) \- A COLORS SHOW](https://open.spotify.com/track/6goFl44nCkfcZ6ZTyA8DmT) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [\(ecco\) \- A COLORS SHOW](https://open.spotify.com/album/5UtBCMMjyJLRxzIRpIRwLf) | 4:05 | 2025-09-05 | 2025-11-22 |
 | [\*STAR](https://open.spotify.com/track/6rjsXHlyzmYMANLe4aAQLu) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U), [Rosas](https://open.spotify.com/artist/7KoEQagFYZrCkZnv1PRfOa) | [\*STAR](https://open.spotify.com/album/3hohF0eqSXnjptF6i8g1Eh) | 4:36 | 2026-07-10 | 2026-08-15 |
 | [\- es + \(menos es más\)](https://open.spotify.com/track/3A5qg9rPxX4ANtff8ZLhMX) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [\- es + \(menos es más\)](https://open.spotify.com/album/1y0JGvEzLx4z5kW1RbJaJA) | 2:59 | 2022-11-24 | 2023-05-06 |
@@ -1004,6 +1003,7 @@
 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 | 2024-11-29 | 2025-03-29 |
 | [Problemas](https://open.spotify.com/track/3rqsqwBNjbbp0Wdx5tnwsi) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Problemas](https://open.spotify.com/album/4SN3RhmUlb0JQZL14cPJvO) | 2:25 | 2026-05-29 | 2026-07-25 |
 | [Profugos del tiempo](https://open.spotify.com/track/6T8sxv2RHncb1sft7hNZUF) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Zelmar](https://open.spotify.com/artist/7vqg7ZilgoVyxxEVOr1SGJ) | [Profugos del tiempo](https://open.spotify.com/album/7Ln1X59GCd2Jaokf3CiTcL) | 2:55 | 2024-02-23 | 2024-04-19 |
+| [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 | 2026-11-06 |  |
 | [Promesas De Origami](https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Promesas de Origami](https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa) | 2:26 | 2024-05-31 | 2024-08-03 |
 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 | 2026-10-09 |  |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2021-11-18 | 2022-11-25 |

@@ -1841,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Baby I'm Sorry",
+        "url": "https://open.spotify.com/album/6kkz2w7oFfQ0nefIrF8FQo"
+      },
+      "artists": [
+        {
+          "name": "Tiket",
+          "url": "https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM"
+        },
+        {
+          "name": "Rifqi FTR",
+          "url": "https://open.spotify.com/artist/0E7e9JsNEXjJ608E1MJnvh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227715,
+      "name": "Baby I'm Sorry",
+      "url": "https://open.spotify.com/track/7N3fCuTW73IhphZ1Ms2One"
+    },
+    {
+      "album": {
         "name": "Badut",
         "url": "https://open.spotify.com/album/6YNeGarkB0E3QtPOUa8Vmi"
       },
@@ -8696,6 +8718,28 @@
       "duration_ms": 245226,
       "name": "Jangan Paksa Rindu - Beda",
       "url": "https://open.spotify.com/track/79tbBuciPV221EozY3RKQv"
+    },
+    {
+      "album": {
+        "name": "Jangan Pergi (Ballad Version)",
+        "url": "https://open.spotify.com/album/00KqTHThcGg9vpRtuixtbU"
+      },
+      "artists": [
+        {
+          "name": "Princesstale",
+          "url": "https://open.spotify.com/artist/5JnvsnKazhAZ0ZhW56gCy4"
+        },
+        {
+          "name": "Widy Vierratale",
+          "url": "https://open.spotify.com/artist/6ImmfK9kPcIaYcQEiUfEJb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238255,
+      "name": "Jangan Pergi - Ballad Version",
+      "url": "https://open.spotify.com/track/3rk5f45Uiif9CWZEeQv7N7"
     },
     {
       "album": {

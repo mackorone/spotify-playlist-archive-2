@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "After The Last Bell",
+        "url": "https://open.spotify.com/album/5Ap7dO4Tl3JXDDKhZaXogh"
+      },
+      "artists": [
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        },
+        {
+          "name": "Lock",
+          "url": "https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "After The Last Bell",
+      "url": "https://open.spotify.com/track/4Ed9d6LEPUfym9ssZEfmUu"
+    },
+    {
+      "album": {
         "name": "All I Want For Christmas (Is My Two Front Teeth)",
         "url": "https://open.spotify.com/album/1E7eg4EWi1s52uiVxp0UfH"
       },
@@ -5146,6 +5168,32 @@
       "duration_ms": 139764,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix"
+    },
+    {
+      "album": {
+        "name": "Snowy Boots",
+        "url": "https://open.spotify.com/album/2DPmy9BEqUBlJ0ACxx8P9e"
+      },
+      "artists": [
+        {
+          "name": "Fool Parsley",
+          "url": "https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "Camel Club",
+          "url": "https://open.spotify.com/artist/0DnMTgzJhXU3qGNGFuYY3q"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110476,
+      "name": "Snowy Boots",
+      "url": "https://open.spotify.com/track/5TAKeQzyQ0lYbIk3wolNDi"
     },
     {
       "album": {

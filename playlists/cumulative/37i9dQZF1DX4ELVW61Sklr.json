@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 215342,
       "name": "A Timeless Christmas",
       "url": "https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF"
+    },
+    {
+      "album": {
+        "name": "All I Think About on Christmas",
+        "url": "https://open.spotify.com/album/0fXwitWy9Yp27Iidq6UeBu"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "All I Think About on Christmas",
+      "url": "https://open.spotify.com/track/6cwYVkBP9oRmNvDDNJBd6Z"
     },
     {
       "album": {
@@ -570,7 +588,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 144250,
       "name": "December 24",
       "url": "https://open.spotify.com/track/2yVB8QNwygb2kTpTclxneT"
@@ -1321,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/17cUUrg6kF2dMo44VBkAYN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Home For Christmas",
+      "url": "https://open.spotify.com/track/1ZRiviWvQQt7y38kvaaNHY"
+    },
+    {
+      "album": {
         "name": "Home On Christmas",
         "url": "https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv"
       },
@@ -1644,7 +1680,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 179435,
       "name": "Kisses On Christmas",
       "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
@@ -2186,7 +2222,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 198451,
       "name": "No More Mistletoe",
       "url": "https://open.spotify.com/track/3Zd2xxPjCMz3zcI6oMHQEm"
@@ -2822,7 +2858,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 186409,
       "name": "Soulful Christmas",
       "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
@@ -3366,7 +3402,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 176786,
       "name": "This Holiday",
       "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
@@ -3384,7 +3420,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 192455,
       "name": "To: You",
       "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
@@ -3740,7 +3776,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"

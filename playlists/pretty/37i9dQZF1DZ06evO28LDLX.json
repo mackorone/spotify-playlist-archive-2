@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAC3o0w718fVTznZ9YuBSuB6",
+  "snapshot_id": "av48AAAAAAB9B9EE1jBt4VEBMeo+UGTu",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin: Complete Waltzes",
-        "url": "https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 52000,
-      "name": "Waltz in A Minor \"Morgan Library & Museum MS\"",
-      "url": "https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schumann: Arabeske, Kreisleriana & Fantasie in C",
         "url": "https://open.spotify.com/album/6V3uJu4hhaDw8dQiVpTQuh"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 204600,
       "name": "Kreisleriana, Op. 16: IV. Sehr langsam",
       "url": "https://open.spotify.com/track/7IZbfKsq8IVKaO5dG1D101"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chopin: Complete Waltzes",
+        "url": "https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 52000,
+      "name": "Waltz in A Minor \"Morgan Library & Museum MS\"",
+      "url": "https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"An Era of Classical\": Piano and Orchestral Works",
-        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 149453,
-      "name": "6 Klavierst\u00fccke, Op. 118: No. 4, Intermezzo in F Minor",
-      "url": "https://open.spotify.com/track/71OGi8SpiJfeTgcWBWCDuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gentle Piano Pieces",
         "url": "https://open.spotify.com/album/1fZ2ytuL6LxxnLry4eCarM"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 320493,
       "name": "Piano Concerto No. 21 in C Major, K. 467: II. Andante \"Elvira Madigan\"",
       "url": "https://open.spotify.com/track/2qK1hGG4o1hIt6N0L0hdeD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"An Era of Classical\": Piano and Orchestral Works",
+        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "6 Klavierst\u00fccke, Op. 118: No. 4, Intermezzo in F Minor",
+      "url": "https://open.spotify.com/track/71OGi8SpiJfeTgcWBWCDuH"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Nocturne No. 6 in G Minor, Op. 15 No. 3",
-      "url": "https://open.spotify.com/track/0S4FjVNIBHxynpe7o0SeeM"
+      "duration_ms": 337400,
+      "name": "Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/5iyKTk5pSfUnoSBXecSthc"
     },
     {
       "added_at": null,
@@ -928,29 +928,29 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 259133,
-      "name": "Nocturne No. 15 in F Minor, Op. 55 No. 1",
-      "url": "https://open.spotify.com/track/23jrPl3866wVHO0ciwCj2n"
+      "duration_ms": 215933,
+      "name": "Nocturne No. 6 in G Minor, Op. 15 No. 3",
+      "url": "https://open.spotify.com/track/0S4FjVNIBHxynpe7o0SeeM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
-        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
+        "name": "Stephen Hough's Dream Album: Piano Bonbons",
+        "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 239293,
-      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
-      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
+      "duration_ms": 137106,
+      "name": "Blow the Wind Southerly (Arr. Hough)",
+      "url": "https://open.spotify.com/track/1nHQwSvpaSoLMRaer8w2Fh"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
+        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
+      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
         "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 56933,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
       "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen Hough's Dream Album: Piano Bonbons",
-        "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Blow the Wind Southerly (Arr. Hough)",
-      "url": "https://open.spotify.com/track/1nHQwSvpaSoLMRaer8w2Fh"
     }
   ],
   "unique_name": "This Is Stephen Hough",

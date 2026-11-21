@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop updated weekly! Cover: Lil Baby
 
-582 songs - 1 day 5 hr 34 min
+583 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Reckless \(feat\. Denzel Curry\)](https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Monsoon Season](https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX) | 2:32 | 2025-07-25 | 2026-08-22 |
 | [RED ROOM FREESTYLE](https://open.spotify.com/track/47hRNF6AA2dUw29LSgYw4C) | [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [RED ROOM FREESTYLE](https://open.spotify.com/album/27sUfBAJsvB2qA2G1DQ2uk) | 2:08 | 2026-05-22 |  |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-02-16 | 2024-06-29 |
+| [REMEMBER ME \(A Minute\)](https://open.spotify.com/track/4ndtY7U9KVCLiDy4VKUQqR) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [REMEMBER ME \(A Minute\)](https://open.spotify.com/album/4QRPSmuQZPOHcE56ogtIkX) | 3:01 | 2026-11-20 |  |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2024-01-12 | 2024-05-06 |
 | [Rum & Coca\-Cola](https://open.spotify.com/track/3VzdxEeBKO8oMnBbewLcxK) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Rum & Coca\-Cola](https://open.spotify.com/album/2UGxYhpYQeOpj2xbGEdEIA) | 3:01 | 2026-07-04 | 2026-08-22 |
 | [Run](https://open.spotify.com/track/7bwflXK0lc225Ir1SlkptS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Run](https://open.spotify.com/album/0b9jz0diSiituyThsBewRd) | 2:55 | 2023-12-01 | 2024-08-03 |

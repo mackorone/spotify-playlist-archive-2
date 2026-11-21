@@ -2,9 +2,9 @@
 
 ### [poses](https://open.spotify.com/playlist/37i9dQZF1DWYL0r9y5K9qt)
 
-> time to strike a couple of poses\. cover: MARQUIS
+> time to strike a couple of poses\. cover: MARQUISE
 
-163 songs - 8 hr 20 min
+164 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [What It Sounds Like](https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 4:10 | 2026-03-05 |  |
 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 | 2026-04-09 |  |
 | [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 | 2026-03-05 |  |
+| [WYD](https://open.spotify.com/track/0ZqK3fMghl8y0VR3pxues4) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL) | [WYD](https://open.spotify.com/album/4EVik6Qh4uWAXhSymkPt97) | 2:36 | 2026-11-20 |  |
 | [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 | 2026-07-16 | 2026-11-07 |
 | [Your Charm](https://open.spotify.com/track/6JK0FyH825BpiWQnOTEwQM) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Your Charm](https://open.spotify.com/album/6IWZjK6WLcnBsi1dRd4Sa2) | 2:48 | 2026-04-09 | 2026-05-29 |
 | [your playlist is a lie](https://open.spotify.com/track/7rtzMVusuwTZtK2crtdtpO) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Barbie Almalbis](https://open.spotify.com/artist/6XMiJRtSvw0PYHOBSBEsMg) | [your playlist is a lie](https://open.spotify.com/album/05MD4lnSBfqHGV6pYldPSa) | 3:54 | 2026-05-28 | 2026-05-30 |

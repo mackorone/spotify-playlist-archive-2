@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: JayBay
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,458 likes - 85 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,479 likes - 85 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 84 | [what goes around comes around](https://open.spotify.com/track/304PcJh2LSxHA5PJKeSSfn) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [YEAH BOP!](https://open.spotify.com/album/74Oufv2Vxlxq4aUF5UCPCD) | 2:36 |
 | 85 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 |
 
-Snapshot ID: `AAAAAISQHNMMXd/N9+ijQFRMDpSS4Vzj`
+Snapshot ID: `AAAAAB1gFDkpRUt01wdkc5t1RBLLRis6`

@@ -1,12 +1,12 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Sienna Spiro",
-  "num_followers": 2390062,
+  "num_followers": 2390104,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKVENbZlxp1ash5cLkBL4sNJo013",
+  "snapshot_id": "AAAAAGnvheqGH8u9tYqGkfwDKwYvUlaN",
   "tracks": [
     {
       "added_at": "2026-08-21 04:00:24",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 242317,
+      "name": "Some Things I'll Never Know",
+      "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 215200,
       "name": "Nobody New",
       "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 242317,
-      "name": "Some Things I'll Never Know",
-      "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
     },
     {
-      "added_at": "2026-10-09 04:00:45",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/4DdmB1nAzqjtBSp97tzLus"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 213585,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0CwsKDeErwN4J8RFq6wL14"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Intrusive Thoughts",
@@ -1647,6 +1631,22 @@
       "duration_ms": 201058,
       "name": "Intrusive Thoughts",
       "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
+    },
+    {
+      "added_at": "2026-10-09 04:00:45",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/4DdmB1nAzqjtBSp97tzLus"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 213585,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0CwsKDeErwN4J8RFq6wL14"
     },
     {
       "added_at": "2026-08-14 04:00:13",
@@ -2077,22 +2077,6 @@
       "url": "https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0"
     },
     {
-      "added_at": "2026-05-15 04:16:24",
-      "album": {
-        "name": "Hit the Wall",
-        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
-    },
-    {
       "added_at": "2026-04-10 04:36:33",
       "album": {
         "name": "Space",
@@ -2107,6 +2091,22 @@
       "duration_ms": 186368,
       "name": "Space",
       "url": "https://open.spotify.com/track/0oxjPQUPHUZmHbAdTqvqaV"
+    },
+    {
+      "added_at": "2026-05-15 04:16:24",
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "added_at": "2026-02-06 04:58:34",
@@ -2125,22 +2125,6 @@
       "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
     },
     {
-      "added_at": "2026-02-13 05:00:48",
-      "album": {
-        "name": "Not Even Gone",
-        "url": "https://open.spotify.com/album/5uAJEBWK6rxWAKa87d66Hn"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 226284,
-      "name": "Not Even Gone",
-      "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "eternal sunshine",
@@ -2155,6 +2139,22 @@
       "duration_ms": 153633,
       "name": "i wish i hated you",
       "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
+    },
+    {
+      "added_at": "2026-02-13 05:00:48",
+      "album": {
+        "name": "Not Even Gone",
+        "url": "https://open.spotify.com/album/5uAJEBWK6rxWAKa87d66Hn"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 226284,
+      "name": "Not Even Gone",
+      "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
     },
     {
       "added_at": "2026-10-23 04:02:19",

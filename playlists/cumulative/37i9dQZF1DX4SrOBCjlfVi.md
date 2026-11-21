@@ -4,7 +4,7 @@
 
 > All the New Joints featuring YFN Lucci, Playboi Carti, Gunna and more!
 
-11,533 songs - 22 day 0 hr 33 min
+11,534 songs - 22 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 | 2026-07-31 | 2026-08-08 |
 | [Ah'chi](https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ah'chi](https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5) | 3:40 | 2024-07-05 | 2024-07-13 |
 | [AHA](https://open.spotify.com/track/5iB97HefP9cudBwiOtfxcI) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [AHA](https://open.spotify.com/album/3Ss0N9H97FQsgOoGnkQcEA) | 2:42 | 2025-06-06 | 2025-06-14 |
+| [AHH YEA](https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 2:00 | 2026-11-20 |  |
 | [AHHH HA](https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [AHHH HA](https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi) | 3:06 | 2022-02-22 | 2022-03-12 |
 | [Ahhhhhh](https://open.spotify.com/track/4w2oRAEUiN250IQ1PtUj3y) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV) | [Ahhhhhh](https://open.spotify.com/album/0FSeK64oNzkzDiMxjEh3xh) | 2:14 | 2022-09-09 | 2022-09-17 |
 | [AI](https://open.spotify.com/track/4FxM0xcydlaDRXjFTVhUOe) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [AI](https://open.spotify.com/album/0zPdGXU1Mq3Ds12DCaP6s1) | 2:11 | 2023-07-21 | 2023-07-29 |

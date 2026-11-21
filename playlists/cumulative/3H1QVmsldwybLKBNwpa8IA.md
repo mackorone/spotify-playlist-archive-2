@@ -4,7 +4,7 @@
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-159 songs - 8 hr 31 min
+160 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All I Want for Christmas is You](https://open.spotify.com/track/4rTeOy6VlQm10EGRhcEi0V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Walter Afanasieff](https://open.spotify.com/artist/3kre11hj5tSyNIKQdZ8u2i), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [All I Want for Christmas is You](https://open.spotify.com/album/6qa7hIEIMrq8kn23zobv9u) | 3:13 | 2023-12-08 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/5doDIuDiarczhIkbudNuUC) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [All I Want for Christmas Is You](https://open.spotify.com/album/7itCtZEW4ZIPgFGIGQ0Doo) | 3:35 | 2023-12-08 |  |
 | [All That Glitters](https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [All That Glitters](https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm) | 3:19 | 2025-11-28 |  |
+| [As Long As We're Together](https://open.spotify.com/track/78jHcBSqpVgMwmQIQiczSR) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [As Long As We're Together](https://open.spotify.com/album/28gsEjdPh1kFMlCSLascpt) | 3:08 | 2026-11-20 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/73Qw33wmrc3r4kSRBXHGSX) | [Susan Boyle](https://open.spotify.com/artist/1qAuetfG6mhtDgsVIffWQc) | [The Gift](https://open.spotify.com/album/2SHlXY3Z9gKK2MPExaWR8M) | 2:44 | 2023-12-08 |  |
 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas: Deluxe Edition](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) | 3:38 | 2023-12-08 |  |
 | [Baby, It's Cold Outside \(Glee Cast Version\) \(feat\. Darren Criss\)](https://open.spotify.com/track/7CbC13sGsgSAHpaJ5oDcU6) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Glee: The Music, The Christmas Album](https://open.spotify.com/album/7FNrLZcarhJDymYgoUQfQN) | 2:46 | 2023-12-08 |  |

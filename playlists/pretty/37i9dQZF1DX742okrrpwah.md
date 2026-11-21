@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 ### [New Music Friday France](https://open.spotify.com/playlist/37i9dQZF1DX742okrrpwah)
 
-> Adèle Castillon, Jul x J Balvin, Dua Lipa, Nihno et Pomme au top des nouveautés de la semaine !
+> Adèle Castillon, Jul x J Balvin, Dua Lipa, Ninho et Pomme au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,083 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,603 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 7 | [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 |
 | 8 | [Ça fait mal](https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Ça fait mal](https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU) | 2:39 |
 | 9 | [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 |
-| 10 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:12 |
+| 10 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:11 |
 | 11 | [J'allume](https://open.spotify.com/track/0BdLSfelCwD4y6c4iQqmUx) | [Dalí](https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo) | [Horse](https://open.spotify.com/album/7z1Tn4DBju4z9xnNZOQnrG) | 2:43 |
 | 12 | [Adieu l'anxiété](https://open.spotify.com/track/5bCCrz3ou1Ig9Cl6yMxUk2) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Manon Lisa](https://open.spotify.com/album/6bDeTzTdteTA3IvsOZhoGA) | 2:53 |
 | 13 | [Fire](https://open.spotify.com/track/3gXPPeGYuBhNHCrOXBwsrQ) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Fire](https://open.spotify.com/album/19bfTUc47e6s9zFw5vNHsd) | 3:43 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 35 | [Volte\-face](https://open.spotify.com/track/3NTVVrc04FtcpNq94XH56J) | [Anouk](https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS) | [Volte\-face](https://open.spotify.com/album/22MXT6eNm3Z7fuEvTwI8yT) | 2:59 |
 | 36 | [Mauvais Movie](https://open.spotify.com/track/2bm2kOLmMEJeXTZqjzng1y) | [Jahneration](https://open.spotify.com/artist/5bOhzprOaEJCn7YKslBolr) | [Storm Season](https://open.spotify.com/album/700ALze835YJCbXmUCNYco) | 3:14 |
 | 37 | [Scuba](https://open.spotify.com/track/3p1NIjk7tUKV57RJlMZtTT) | [Djaksparo](https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Scuba](https://open.spotify.com/album/5ijpDOOLDPhNHSkQJ5D5OG) | 2:45 |
-| 38 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
+| 38 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 39 | [Lost \(In All The Lights\)](https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Lost \(In All The Lights\)](https://open.spotify.com/album/354PlL7RC6QKmolEblejz6) | 3:16 |
 | 40 | [Crazy For You](https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:43 |
 | 41 | [laplusbelle](https://open.spotify.com/track/3ug44QAFhK4BA1OpPjg6Rb) | [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [adieux](https://open.spotify.com/album/4LsxfNvGLLSgzyYKRCL8F3) | 3:44 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 98 | [EPITAPH](https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [EPITAPH](https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj) | 3:08 |
 | 99 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 
-Snapshot ID: `AAAAAMal7IzU2Ear9uYreVkPI7OKv6Xc`
+Snapshot ID: `AAAAAO+lb/6HMj7cLO9BYwRKJ7B9+cAM`

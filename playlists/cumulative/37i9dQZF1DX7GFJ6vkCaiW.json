@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "Video musik lagu-lagu Indonesia hanya untuk pengguna premium. Cover: Dongker",
+  "description": "Video musik lagu-lagu Indonesia hanya untuk pengguna premium. Cover: Nuca",
   "name": "Video Musik Indonesia ",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 194111,
       "name": "akankah aku sampai kesana?",
       "url": "https://open.spotify.com/track/1DSAGMCAHhKihNoge4QlCX"
@@ -150,6 +150,24 @@
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
+    },
+    {
+      "album": {
+        "name": "Another Lesson",
+        "url": "https://open.spotify.com/album/2jEVSNCCFogy6i6yjcuwRD"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Another Lesson",
+      "url": "https://open.spotify.com/track/3zAgalfTCtmBuLaVFNfRx7"
     },
     {
       "album": {
@@ -384,7 +402,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 219500,
       "name": "Bertahan Sendiri",
       "url": "https://open.spotify.com/track/0sfp1xOvYFSesdq3DQp5h4"
@@ -428,7 +446,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 285182,
       "name": "Bukan Kendalimu",
       "url": "https://open.spotify.com/track/0Ix6FtbIwpVxsHdp0WjKLH"
@@ -642,7 +660,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 135460,
       "name": "honk!",
       "url": "https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU"
@@ -703,6 +721,24 @@
     },
     {
       "album": {
+        "name": "EUNOIA",
+        "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259242,
+      "name": "Jalan Keluar",
+      "url": "https://open.spotify.com/track/3pPtbTaTyh6zGJjAYT8Crr"
+    },
+    {
+      "album": {
         "name": "Jangan Paksa Rindu",
         "url": "https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn"
       },
@@ -754,6 +790,24 @@
       "duration_ms": 242942,
       "name": "Jikalau Kau Cinta",
       "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
+    },
+    {
+      "album": {
+        "name": "Kabar Gembira",
+        "url": "https://open.spotify.com/album/7N0Okr2IrZWoHU0zcTg4US"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282248,
+      "name": "Kabar Gembira",
+      "url": "https://open.spotify.com/track/2XNyX8KI9VgCCMcqnECZ1i"
     },
     {
       "album": {
@@ -1065,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "LOVE U 4LL",
+        "url": "https://open.spotify.com/album/6SbpIpweOYMOGpwzsA8UQB"
+      },
+      "artists": [
+        {
+          "name": "N4IA",
+          "url": "https://open.spotify.com/artist/5IjysI4fz38ByQUBLqBCoW"
+        },
+        {
+          "name": "PAPION",
+          "url": "https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "LOVE U 4LL",
+      "url": "https://open.spotify.com/track/0D634cfGA2pIKvwM9DcYXq"
+    },
+    {
+      "album": {
         "name": "Magnet",
         "url": "https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk"
       },
@@ -1236,7 +1312,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 213047,
       "name": "Memori",
       "url": "https://open.spotify.com/track/2ZEXytbCABVSSV7wn47941"
@@ -2076,7 +2152,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 181124,
       "name": "Still Show Up In My Dreams",
       "url": "https://open.spotify.com/track/7IRpzzB50WVSaNgPto8J8X"

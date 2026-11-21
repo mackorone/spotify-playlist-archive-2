@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 1M x 0 🔫,  comprar a casa da mãe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,851 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,857 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 | 50 | [BLUNT DE GOIABA](https://open.spotify.com/track/7cLt8S1uKvo41gRyRaaivR) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [ISSO É TRAP VOL.2](https://open.spotify.com/album/5jiPp1YPjyhcWqU6jYQxlv) | 2:05 |
 
-Snapshot ID: `AAAAAKxM0krRA8lYnBlG9VdDMGnb9BtN`
+Snapshot ID: `AAAAAGHr/y88N+DDu+50L3irGrZsQnIb`

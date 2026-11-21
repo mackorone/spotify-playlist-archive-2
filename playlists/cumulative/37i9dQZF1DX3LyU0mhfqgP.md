@@ -4,7 +4,7 @@
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Kings Elliot
 
-1,948 songs - 4 day 9 hr 33 min
+1,949 songs - 4 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1653,6 +1653,7 @@
 | [Te Alejas Más De Mí](https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:39 | 2023-01-24 | 2023-03-08 |
 | [Te Sexy](https://open.spotify.com/track/7EsvvQB8OuT95DOodwgo4I) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Te Sexy](https://open.spotify.com/album/71xdfwNNDvqJ9gso3bS5zP) | 2:56 | 2023-05-09 | 2023-07-12 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2023-01-24 | 2023-03-08 |
+| [Tell Me \(U Want It\)](https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 | 2026-11-20 |  |
 | [TELL THE KIDS IT'S ALRIGHT](https://open.spotify.com/track/2RFuXRdVhRUIMJ85j3WRel) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [THE MAZE](https://open.spotify.com/album/4dn3xUfDoeTW2T8niDx0QQ) | 3:14 | 2024-12-04 | 2025-05-14 |
 | [Tender feat\. Yoke Lore](https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Tender feat\. Yoke Lore](https://open.spotify.com/album/0YEXWeaZ335jOntWXoFbia) | 3:05 | 2021-12-17 | 2022-07-29 |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2023-11-14 | 2023-11-30 |

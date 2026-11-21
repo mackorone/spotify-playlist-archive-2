@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 179389,
+  "num_followers": 179397,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+hdQ181KgSdsSsIDxLT9dm/hGY",
+  "snapshot_id": "AAAAAI6gMljQkFQd45PB5uf8ha/dbU40",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -715,18 +715,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best Of Tony Brent",
-        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
+        "name": "The Best of Don Cherry",
+        "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
       "artists": [
         {
-          "name": "Tony Brent",
-          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
+          "name": "Don Cherry",
+          "url": "https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 154720,
-      "name": "Make It Soon - 1999 Remaster",
-      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
+      "duration_ms": 155066,
+      "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
+      "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -747,22 +751,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best of Don Cherry",
-        "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
+        "name": "The Best Of Tony Brent",
+        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
       },
       "artists": [
         {
-          "name": "Don Cherry",
-          "url": "https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID"
-        },
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Tony Brent",
+          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
         }
       ],
-      "duration_ms": 155066,
-      "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
-      "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
+      "duration_ms": 154720,
+      "name": "Make It Soon - 1999 Remaster",
+      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
     },
     {
       "added_at": "2023-10-17 16:18:55",

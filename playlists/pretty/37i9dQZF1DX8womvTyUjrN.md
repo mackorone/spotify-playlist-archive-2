@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Alleh
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,829 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,884 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 26 | [me declaro ENAMORADA](https://open.spotify.com/track/6uO25AtfwzT3uSNIDEeLR5) | [Augusta](https://open.spotify.com/artist/3P3G72tivP1qj26XymKjLB), [ABRL](https://open.spotify.com/artist/34gZHRoHXDq8RR9p0koUbk) | [me declaro ENAMORADA](https://open.spotify.com/album/0cKnUfNPHretD3vCX1oMCd) | 3:27 |
 | 27 | [PECADO](https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PECADO](https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S) | 3:05 |
 | 28 | [guacamayas](https://open.spotify.com/track/4pjmp1boROym1Zm0esrunw) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [guacamayas](https://open.spotify.com/album/3DnyDtI7AL1i37WDlqOBPp) | 2:55 |
-| 29 | [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 |
+| 29 | [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 |
 | 30 | [se van las luces](https://open.spotify.com/track/0MTINDkhOLAFf9YF0E34kq) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K), [Sotomonte](https://open.spotify.com/artist/635jBFbh5dBCfigU7SHNNa) | [se van las luces](https://open.spotify.com/album/5uXqLKJC1a3LKF1Zjg9mvu) | 2:51 |
 | 31 | [IDK YET](https://open.spotify.com/track/5QRj0GXILKffklmHANmKmh) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [IDK YET](https://open.spotify.com/album/0DKGcQfyeHiWxPVK07VEFV) | 3:13 |
 | 32 | [Nuestra calle \(Verano del 76\)](https://open.spotify.com/track/7o6jkEuVDe3zWPy2TJM5cU) | [Gaby Noya](https://open.spotify.com/artist/7M0MRF7kyp2NTq5DssSbRX), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Nuestra calle \(Verano del 76\)](https://open.spotify.com/album/0rHWmVAUKGGtG9k5g8vj2I) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [LEJOS](https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [LEJOS](https://open.spotify.com/album/434f2GTmix3G9KBL469TUV) | 3:15 |
 | 50 | [Loco x mi](https://open.spotify.com/track/4LAzLKDW8xSiJc5ovROg0b) | [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9), [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr) | [Loco x mi](https://open.spotify.com/album/02UuPRIX2rQnJBusDmhIBC) | 2:02 |
 
-Snapshot ID: `AAAAAI605STQ54f4dqPTQnl5qo50+EdY`
+Snapshot ID: `AAAAAGzDUPdy6v9xgMbOnJvkEm2mawgf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,723 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,162 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 35 | [Vermissen \- Nachtigaller Remix](https://open.spotify.com/track/3fEEuVqLXSKhKtksmvckRo) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay), [Nachtigaller](https://open.spotify.com/artist/3BRgI5WSMJJD2Iy4M8xKQF) | [Vermissen \(Nachtigaller Remix\)](https://open.spotify.com/album/0n8kXvrNIClPZyfHzMty8N) | 2:43 |
 | 36 | [LIEBE](https://open.spotify.com/track/5VSBmKQItts45sCFdW7Z7F) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [LIEBE](https://open.spotify.com/album/2lLTCsHzjPWvfVbe1bmV91) | 3:30 |
 | 37 | [Skies of Love \(David's Song\)](https://open.spotify.com/track/31W98cch5P3mtCkJqhAoWN) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [LIMIC](https://open.spotify.com/artist/1MgtqpwXzX3m8BkVWr5RQ5) | [Skies of Love \(David's Song\)](https://open.spotify.com/album/6nUEXXjOkr7P5JJVoj4oH9) | 2:24 |
-| 38 | [The Final Countdown 2025](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown 2025](https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC) | 3:02 |
-| 39 | [Ist es zu spät](https://open.spotify.com/track/5TTmoG6LxD6hBy4jm97PFC) | [KLANGSPIEL](https://open.spotify.com/artist/3usPPkMdtxRaQl5pEpIkAq) | [Ist es zu spät](https://open.spotify.com/album/3KN2utCL2IPVH5jBTSj2hc) | 2:42 |
-| 40 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
-| 41 | [State of Mind](https://open.spotify.com/track/2CCySxuTP6PashqGBkr9oS) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [State of Mind](https://open.spotify.com/album/23PipwzsaorTdLPtrYRD00) | 2:37 |
+| 38 | [Notorious Thugs \(Solomun Remix\)](https://open.spotify.com/track/3MbTgMRqMf7vHMvegoyAjy) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Notorious Thugs \(Solomun Remix\)](https://open.spotify.com/album/278H2vPwRurZocliiFluqy) | 3:56 |
+| 39 | [The Final Countdown 2025](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown 2025](https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC) | 3:02 |
+| 40 | [Ist es zu spät](https://open.spotify.com/track/5TTmoG6LxD6hBy4jm97PFC) | [KLANGSPIEL](https://open.spotify.com/artist/3usPPkMdtxRaQl5pEpIkAq) | [Ist es zu spät](https://open.spotify.com/album/3KN2utCL2IPVH5jBTSj2hc) | 2:42 |
+| 41 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
 | 42 | [Keep Up](https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Keep Up](https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k) | 2:38 |
 | 43 | [Genie in a Bottle \(Levi Mix\)](https://open.spotify.com/track/1jIH1ugCqobuVG13P59POG) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Genie in a Bottle \(Levi Mix\)](https://open.spotify.com/album/2cUZ5RyG48l4PurHGi4iNu) | 2:41 |
 | 44 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/5I97xVqU6oRY3ErMUVz4qB) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/4eDc6rtAsoVIjSM8MAXxRb) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Reasons](https://open.spotify.com/track/1nZz6nJgjcinLKZ40Ulrjj) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Reasons EP](https://open.spotify.com/album/7cqwMYtGdmytQ4tga6W6XL) | 1:54 |
 | 50 | [Seratonin](https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Seratonin](https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj) | 1:55 |
 
-Snapshot ID: `AAAAAK1wMX4FX/tqYUP4Ww8tVgtUNsgP`
+Snapshot ID: `AAAAAMn8KcLkrdUduX1H8spk02/IcdKM`

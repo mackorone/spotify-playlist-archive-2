@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Rap & Hip Hop today.  Cover: Miles Minnick",
+  "description": "The best of Christian Rap & Hip Hop today.  Cover: Jackie Hill Perry",
   "name": "Verse for Verse",
   "tracks": [
     {
@@ -2004,6 +2004,24 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "album": {
+        "name": "Still Blameless",
+        "url": "https://open.spotify.com/album/6C8AJpmnVUfCsgYfeox0VJ"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hill Perry",
+          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176152,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2gubKNHaXGoyIMNC7X3dBI"
     },
     {
       "album": {
@@ -5484,7 +5502,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 136225,
       "name": "Clean",
       "url": "https://open.spotify.com/track/5JG9VY0x8c6IzbkzKXb1xp"
@@ -6912,7 +6930,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 192540,
       "name": "Dios Con Nosotros",
       "url": "https://open.spotify.com/track/2aALtzJYJmBFa0dflskmGs"
@@ -7429,6 +7447,28 @@
     },
     {
       "album": {
+        "name": "Life 4 Us",
+        "url": "https://open.spotify.com/album/5YHKCQfbmhuYLuUY7mGEB7"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Markel",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Dust My Feet Off",
+      "url": "https://open.spotify.com/track/0tQ09MYmUoZH3T3sXCU9Iv"
+    },
+    {
+      "album": {
         "name": "Dust My Feet Off",
         "url": "https://open.spotify.com/album/4gPYYvshSKpE9pw4n6Xnok"
       },
@@ -7444,7 +7484,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 151836,
       "name": "Dust My Feet Off",
       "url": "https://open.spotify.com/track/2OKGDtpDUUcuEqOmgltv3R"
@@ -9326,7 +9366,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 78120,
       "name": "G SHOCK",
       "url": "https://open.spotify.com/track/22XJOfP1nompChbPcouowV"
@@ -12211,6 +12251,28 @@
     },
     {
       "album": {
+        "name": "HOLY!",
+        "url": "https://open.spotify.com/album/1oXkc6lq53jVfUi6QMiIIM"
+      },
+      "artists": [
+        {
+          "name": "Issac Mansfield",
+          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+        },
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "HOLY!",
+      "url": "https://open.spotify.com/track/5z76tgBJ6SfnVtjPhZNQ0G"
+    },
+    {
+      "album": {
         "name": "The End.",
         "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
       },
@@ -13209,6 +13271,28 @@
     },
     {
       "album": {
+        "name": "5: Who Knows How High?",
+        "url": "https://open.spotify.com/album/5jEwDm9MNr00AuomBFz2Ek"
+      },
+      "artists": [
+        {
+          "name": "350",
+          "url": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167538,
+      "name": "I. 9's Til 5",
+      "url": "https://open.spotify.com/track/675buGiZqLkuw1dcKOOrK3"
+    },
+    {
+      "album": {
         "name": "I.S.W.I.S",
         "url": "https://open.spotify.com/album/5oZEGGHgjIP0l6QKkO75nn"
       },
@@ -13282,7 +13366,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 126063,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/1GGiKExc0Nftj3nV19vV0u"
@@ -13366,7 +13450,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 140225,
       "name": "III. Who Knows...",
       "url": "https://open.spotify.com/track/69BMwjZteLIGxVbgI1bbEV"
@@ -14616,7 +14700,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 190243,
       "name": "Kick It To My Twin",
       "url": "https://open.spotify.com/track/4LLeT4cF5xhpZv0VtkKtgn"
@@ -17896,6 +17980,24 @@
       "duration_ms": 155500,
       "name": "Nah Nah Nah.",
       "url": "https://open.spotify.com/track/0zFjqg0DUmzJ66eAhrDNE1"
+    },
+    {
+      "album": {
+        "name": "Name On It",
+        "url": "https://open.spotify.com/album/3T0welJCKHKtt36RqCe8jW"
+      },
+      "artists": [
+        {
+          "name": "Th3 Saga",
+          "url": "https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153617,
+      "name": "Name On It",
+      "url": "https://open.spotify.com/track/29fXwxcKMaR8orYL23KZX6"
     },
     {
       "album": {
@@ -21401,6 +21503,24 @@
     },
     {
       "album": {
+        "name": "Prey On Me",
+        "url": "https://open.spotify.com/album/2QSRblYd2JeTpBqFJoVSxY"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "Prey On Me",
+      "url": "https://open.spotify.com/track/36qs2G0pM1W7u9cMU7sGt5"
+    },
+    {
+      "album": {
         "name": "Summer TKE",
         "url": "https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH"
       },
@@ -21742,7 +21862,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 128911,
       "name": "Put In Work",
       "url": "https://open.spotify.com/track/3MH8gfffyoRSnfDgRWQp0B"
@@ -23819,6 +23939,24 @@
     },
     {
       "album": {
+        "name": "Shall Ever Prosper",
+        "url": "https://open.spotify.com/album/4RDEmPRBh1yJLsC8BkYee8"
+      },
+      "artists": [
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "Shall Ever Prosper",
+      "url": "https://open.spotify.com/track/4Z6utGx3LlrkcD0uRj2B2T"
+    },
+    {
+      "album": {
         "name": "SHIESTY",
         "url": "https://open.spotify.com/album/33kQoSva0Vne9DRp2XiHiv"
       },
@@ -24820,6 +24958,36 @@
       "duration_ms": 197504,
       "name": "Stay Low",
       "url": "https://open.spotify.com/track/6ukXI3mLkRXwTbf3KxwqAR"
+    },
+    {
+      "album": {
+        "name": "MARTY PRESENTS: APOLLO RECORDS - NOT 4 $ALE",
+        "url": "https://open.spotify.com/album/44TPL87PTCwdxEtCxzJh6v"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "De'Aris",
+          "url": "https://open.spotify.com/artist/4TyB7OBEDgGW7tIG6jgYAz"
+        },
+        {
+          "name": "tonyxtrotter",
+          "url": "https://open.spotify.com/artist/20eJqy3YU65fubCicAHHvM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "STELLAR",
+      "url": "https://open.spotify.com/track/2bL5niytXoWnGZIcu3wIjj"
     },
     {
       "album": {

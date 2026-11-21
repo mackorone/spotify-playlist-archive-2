@@ -1,12 +1,12 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: KIM",
-  "num_followers": 167870,
+  "num_followers": 167871,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWu2/ag8meQ+Qq/rK0MixTLpZWn",
+  "snapshot_id": "AAAAALIJ4EAktlaPc5FKIX5viTSMt7fc",
   "tracks": [
     {
       "added_at": "2026-11-20 03:08:55",
@@ -285,6 +285,26 @@
       "url": "https://open.spotify.com/track/0EJytap4wCTQIwzqPTR5Gq"
     },
     {
+      "added_at": "2026-11-20 13:00:32",
+      "album": {
+        "name": "Jangan Pergi (Ballad Version)",
+        "url": "https://open.spotify.com/album/00KqTHThcGg9vpRtuixtbU"
+      },
+      "artists": [
+        {
+          "name": "Princesstale",
+          "url": "https://open.spotify.com/artist/5JnvsnKazhAZ0ZhW56gCy4"
+        },
+        {
+          "name": "Widy Vierratale",
+          "url": "https://open.spotify.com/artist/6ImmfK9kPcIaYcQEiUfEJb"
+        }
+      ],
+      "duration_ms": 238255,
+      "name": "Jangan Pergi - Ballad Version",
+      "url": "https://open.spotify.com/track/3rk5f45Uiif9CWZEeQv7N7"
+    },
+    {
       "added_at": "2026-11-20 03:08:55",
       "album": {
         "name": "Karma",
@@ -299,6 +319,26 @@
       "duration_ms": 225000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/732STIUhCDVlsLQT8BQ3bs"
+    },
+    {
+      "added_at": "2026-11-20 13:00:32",
+      "album": {
+        "name": "Baby I'm Sorry",
+        "url": "https://open.spotify.com/album/6kkz2w7oFfQ0nefIrF8FQo"
+      },
+      "artists": [
+        {
+          "name": "Tiket",
+          "url": "https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM"
+        },
+        {
+          "name": "Rifqi FTR",
+          "url": "https://open.spotify.com/artist/0E7e9JsNEXjJ608E1MJnvh"
+        }
+      ],
+      "duration_ms": 227715,
+      "name": "Baby I'm Sorry",
+      "url": "https://open.spotify.com/track/7N3fCuTW73IhphZ1Ms2One"
     },
     {
       "added_at": "2026-11-20 03:08:55",

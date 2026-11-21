@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 359122,
+  "num_followers": 359226,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANDeciXUQ2D9n7HrVJQ4qkuRcN7U",
+  "snapshot_id": "AAAAAI5eiwO4uKpmWzbDJGyYofmV9W6S",
   "tracks": [
     {
       "added_at": "2026-07-20 18:12:10",
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
         }
       ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
+      "duration_ms": 235546,
+      "name": "Tu Sombra en Mi",
+      "url": "https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
         }
       ],
-      "duration_ms": 235546,
-      "name": "Tu Sombra en Mi",
-      "url": "https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW"
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -315,8 +315,8 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+        "name": "Despu\u00e9s de T\u00ed, Que",
+        "url": "https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
         }
       ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
+      "duration_ms": 235280,
+      "name": "Si Me Ves Llorar por Ti",
+      "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "Baila Santa Fe",
         "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
       },
@@ -399,8 +383,24 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Despu\u00e9s de T\u00ed, Que",
-        "url": "https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+      },
+      "artists": [
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
         }
       ],
-      "duration_ms": 235280,
-      "name": "Si Me Ves Llorar por Ti",
-      "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
         "name": "El M\u00e1s Parrandero",
         "url": "https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 270453,
       "name": "Sufrir\u00e1s",
       "url": "https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "No Fue Culpa Mia",
-        "url": "https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        },
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 228565,
-      "name": "No Fue Culpa Mia",
-      "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "Juntando Las Almas",
         "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 200386,
       "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
       "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "No Fue Culpa Mia",
+        "url": "https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 228565,
+      "name": "No Fue Culpa Mia",
+      "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
     },
     {
       "added_at": "2026-07-20 18:12:10",

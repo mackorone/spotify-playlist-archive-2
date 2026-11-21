@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: Alaska.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,429 likes - 78 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,428 likes - 78 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 77 | [La inocencia](https://open.spotify.com/track/2lQ2PJWBTgzgcbG4Ct518l) | [Anouck The Band](https://open.spotify.com/artist/6JM2EjjDGfDztVwi1wO6Ag) | [La inocencia](https://open.spotify.com/album/3kj5j9gjrCvZHsHDCwcowS) | 3:32 |
 | 78 | [Ni Lugar Ni Manera](https://open.spotify.com/track/6FkhKpzAydTDW3VXcf4157) | [PRENDA](https://open.spotify.com/artist/4CZAm9Ahn8YEemHClytQKk) | [Ni Lugar Ni Manera](https://open.spotify.com/album/5twQXl7YhmA4QeOjww5UG7) | 4:19 |
 
-Snapshot ID: `AAAAAC6+d5dhRuLKJTa0H+MhZglxI3c5`
+Snapshot ID: `AAAAAB6JRBrdfILSrObUt6f9T6IKALZ7`

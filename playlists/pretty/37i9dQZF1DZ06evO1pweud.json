@@ -1,12 +1,12 @@
 {
   "description": "This is The Mar\u00edas. The essential tracks, all in one playlist.",
-  "num_followers": 143819,
+  "num_followers": 143847,
   "original_name": "This Is The Mar\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAAfkjh3+a/IoHR40zzo9HS6",
+  "snapshot_id": "av48AAAAAADaN6sp2Rhn69kB/56qOFie",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out for the Night (Live)",
-        "url": "https://open.spotify.com/album/2s78J6JYJo0kGRZTuDQNNh"
+        "name": "Stoner",
+        "url": "https://open.spotify.com/album/57KwrtSpwCgoy1uOg6ssnd"
       },
       "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
         {
           "name": "The Mar\u00edas",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 293683,
-      "name": "Out for the Night - Live",
-      "url": "https://open.spotify.com/track/5XHgo8eXtKTK0xLKMNiOll"
+      "duration_ms": 206833,
+      "name": "Separate Ways (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/5pVQKKJLoEIcCKyEK7d2zI"
     },
     {
       "added_at": null,
@@ -535,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stoner",
-        "url": "https://open.spotify.com/album/57KwrtSpwCgoy1uOg6ssnd"
+        "name": "Out for the Night (Live)",
+        "url": "https://open.spotify.com/album/2s78J6JYJo0kGRZTuDQNNh"
       },
       "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
         {
           "name": "The Mar\u00edas",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 206833,
-      "name": "Separate Ways (feat. The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/5pVQKKJLoEIcCKyEK7d2zI"
+      "duration_ms": 293683,
+      "name": "Out for the Night - Live",
+      "url": "https://open.spotify.com/track/5XHgo8eXtKTK0xLKMNiOll"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Arash Buana
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,077 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,091 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 99 | [Tell Me What](https://open.spotify.com/track/1KvumnCHlUOOLjEPcPIPcf) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [RACH?](https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd) | [Tell Me What](https://open.spotify.com/album/30WsbnsReEOoZ8wDkNbsjf) | 3:00 |
 | 100 | [Coffee In The Morning](https://open.spotify.com/track/0EWcs9ucQzTfNS9fL3u7nS) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [Coffee In The Morning](https://open.spotify.com/album/5loHuYqp8tlA0IGbNUPbQf) | 3:00 |
 
-Snapshot ID: `AAAAAL/84LLn5uNJ3h6GdBPJBURK/gEc`
+Snapshot ID: `AAAAAGXIAOeSgTNV1ca53OAOFgJk37At`

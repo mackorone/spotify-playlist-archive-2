@@ -194,6 +194,24 @@
     {
       "album": {
         "name": "Who Do You Trust? (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2uLRTVBlig5yU97RZSSEhV"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210961,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/6ouZyhsfh4ZjiNTMULPuUn"
+    },
+    {
+      "album": {
+        "name": "Who Do You Trust? (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb"
       },
       "artists": [
@@ -204,7 +222,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 210961,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/7iscuE4OcWsuHkuTv7opfL"
@@ -280,7 +298,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7eqTIIO0CB21bY0Born2hw"
@@ -370,7 +388,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 187840,
       "name": "Feel Like Home",
       "url": "https://open.spotify.com/track/3pNrzf8AlfdEyOVFMObhoK"
@@ -866,6 +884,24 @@
     {
       "album": {
         "name": "Who Do You Trust? (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2uLRTVBlig5yU97RZSSEhV"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209828,
+      "name": "The Ending",
+      "url": "https://open.spotify.com/track/0xtRRpCw1JiOEor0JJSVqo"
+    },
+    {
+      "album": {
+        "name": "Who Do You Trust? (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb"
       },
       "artists": [
@@ -876,7 +912,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 209828,
       "name": "The Ending",
       "url": "https://open.spotify.com/track/37mumJ1yHydHQK7mDnzk4W"

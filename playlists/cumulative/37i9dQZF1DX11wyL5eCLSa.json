@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Cometa a la Deriva en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Jumbo en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -736,6 +736,24 @@
       "duration_ms": 249413,
       "name": "Al Borde del Infinito",
       "url": "https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq"
+    },
+    {
+      "album": {
+        "name": "Al Cielo, Devil May Cry",
+        "url": "https://open.spotify.com/album/0GUrz1oEzqPc9lE8syo4Vn"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233758,
+      "name": "Al Cielo, Devil May Cry",
+      "url": "https://open.spotify.com/track/1Bv1PPTy7DGRqw9JU17EiE"
     },
     {
       "album": {
@@ -4922,7 +4940,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 156340,
       "name": "El Bichipari",
       "url": "https://open.spotify.com/track/70zToghZv0k6PJLZ7oBd42"
@@ -8539,6 +8557,28 @@
     },
     {
       "album": {
+        "name": "M\u00daSICAM\u00c1GICA (Deluxe)",
+        "url": "https://open.spotify.com/album/232S8DmsHRhtntb5YmpSv0"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185269,
+      "name": "Ll\u00e9vame Contigo (feat. Gepe)",
+      "url": "https://open.spotify.com/track/5DGthgC3mr7wjY9dD7EtN4"
+    },
+    {
+      "album": {
         "name": "Rituales",
         "url": "https://open.spotify.com/album/0NGGZYuNf9CLS2PVUZTQTB"
       },
@@ -11061,6 +11101,24 @@
     },
     {
       "album": {
+        "name": "NI DE AQUI NI DE ALLA",
+        "url": "https://open.spotify.com/album/5QHV6xtCY1jDBG7XQXaJyR"
+      },
+      "artists": [
+        {
+          "name": "EL FAKU",
+          "url": "https://open.spotify.com/artist/34aoHkpJvl64bauorBZb1b"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172857,
+      "name": "NI DE ALL\u00c1",
+      "url": "https://open.spotify.com/track/4PNQ2qNsNlbKFT6DdHxoP7"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1o",
         "url": "https://open.spotify.com/album/7GPz7VFtjDsxAWXymYOm7J"
       },
@@ -12630,7 +12688,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 193700,
       "name": "PPV",
       "url": "https://open.spotify.com/track/6KS8bwPWTQdi6CHst8OpBu"
@@ -12648,7 +12706,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 208365,
       "name": "Preguntas si te Am\u00e9",
       "url": "https://open.spotify.com/track/0u9SgU0gtAGKVargkKpxUL"
@@ -13464,7 +13522,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 203800,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
@@ -14142,6 +14200,24 @@
       "duration_ms": 173534,
       "name": "Si No Me Muevo",
       "url": "https://open.spotify.com/track/2M5RUpgmQ97T3DWe1iTEtO"
+    },
+    {
+      "album": {
+        "name": "Escenarios Posibles",
+        "url": "https://open.spotify.com/album/6Q1x0kQaMT7hUwQNKBtWca"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "Si ten\u00e9s tiempo, tengo voluntad",
+      "url": "https://open.spotify.com/track/7nURmG27tbj7bosWmQuCLJ"
     },
     {
       "album": {

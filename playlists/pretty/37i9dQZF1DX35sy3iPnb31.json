@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2992,
+  "num_followers": 2991,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPUue8JyodL9k/SSwjRhmqiP2yPT",
+  "snapshot_id": "AAAAAJQna1Z1h4M2f/HJ375dBaYk3EF7",
   "tracks": [
     {
       "added_at": "2026-11-01 04:01:35",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Le X du Y",
-        "url": "https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "L'affaire c'est que",
-      "url": "https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Southern Ontario Gothic",
         "url": "https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 187384,
       "name": "White Claw Addict",
       "url": "https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Le X du Y",
+        "url": "https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "L'affaire c'est que",
+      "url": "https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M"
     },
     {
       "added_at": "2026-11-01 04:01:35",

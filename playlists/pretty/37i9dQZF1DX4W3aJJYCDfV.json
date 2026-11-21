@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Grand Theft Auto VI, Rema ft. Wizkid, beabadoobee and more! ",
-  "num_followers": 1040543,
+  "num_followers": 1041337,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH+m07SGkemKrpk1vMiOiX/Mmo+m",
+  "snapshot_id": "AAAAABuKlAaIB58MK6sZFMpHt2wV9x3j",
   "tracks": [
     {
       "added_at": "2026-11-20 00:00:55",
@@ -24,7 +24,7 @@
           "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
@@ -222,6 +222,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "duration_ms": 182000,

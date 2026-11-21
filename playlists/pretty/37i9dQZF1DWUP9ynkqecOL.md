@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro 📸 Trouve Feraud
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,852 likes - 44 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,853 likes - 44 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 43 | [Tu Misterioso Alguien](https://open.spotify.com/track/05NIrKmFsRW2beYsVWALMy) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Tu Misterioso Alguien](https://open.spotify.com/album/2bGGtY1wTxX54ELhGzFP91) | 3:24 |
 | 44 | [Mil Preguntas / Que Me Falte Todo](https://open.spotify.com/track/0zTCRxm0D3UwtcgekyUPdw) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Mil Preguntas / Que Me Falte Todo](https://open.spotify.com/album/6JRdgBF3LP7d3mGuIQZSGq) | 4:29 |
 
-Snapshot ID: `AAAAAE64AfPQiihvjwA5ckx4hk8djxUQ`
+Snapshot ID: `AAAAAKE+x75Epee2IEQ9P4soYz9yBUha`

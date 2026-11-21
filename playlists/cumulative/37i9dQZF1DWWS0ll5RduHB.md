@@ -4,7 +4,7 @@
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-276 songs - 15 hr 48 min
+277 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Skagen](https://open.spotify.com/track/33uq9UYbtgn9ez1h8zew6t) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm), [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Skagen](https://open.spotify.com/album/5eGhFkivRRpuMB8nFtaTnI) | 4:17 | 2026-06-25 | 2026-10-21 |
 | [Smartest Person in the Room](https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Sleeping Lion](https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE) | 3:22 | 2026-11-06 |  |
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2025-12-12 |  |
-| [Someday](https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Someday](https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt) | 3:02 | 2026-10-20 |  |
+| [Someday](https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Someday](https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt) | 3:02 | 2026-10-20 | 2026-11-21 |
 | [Something To Lose](https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2), [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Something To Lose](https://open.spotify.com/album/7jBvgF3VkF58blzE4NWOye) | 2:55 | 2026-05-14 | 2026-10-21 |
 | [sou](https://open.spotify.com/track/0umAUNIad7XeqVWRBmSurY) | [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [29](https://open.spotify.com/album/0reRYB6Jdat0UMAtvrfkSl) | 3:27 | 2025-12-12 | 2026-02-19 |
 | [Spare](https://open.spotify.com/track/4UGnHDTmNYHSYpF8uKfu5d) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Already](https://open.spotify.com/album/2IybN7u5SBV4yTORBHhrFb) | 3:09 | 2025-02-28 | 2025-06-06 |
@@ -270,6 +270,7 @@
 | [チョコ摩訶不思議](https://open.spotify.com/track/2QhcDHMTl3HjhwThOTdFUK) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [チョコ摩訶不思議](https://open.spotify.com/album/1q0DCZHUVnVYCjAjC09rKm) | 2:25 | 2026-11-06 |  |
 | [マニマニ](https://open.spotify.com/track/7lFjSK6lMzWOLAF0yAoo21) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [マニマニ](https://open.spotify.com/album/75z3f76IhJjL2QgaOMmGg0) | 3:40 | 2025-01-09 | 2025-05-23 |
 | [ルーツ](https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [ルーツ](https://open.spotify.com/album/2oHZkXP1kzX5USWN7rT6dc) | 3:15 | 2025-01-09 | 2026-02-06 |
+| [ロールプレイングライフ](https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU) | [Luov](https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww) | [ロールプレイングライフ](https://open.spotify.com/album/79KKCX2lpirv00FydXspMd) | 3:35 | 2026-10-20 |  |
 | [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 | 2025-10-11 | 2025-12-13 |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2024-06-20 | 2025-01-10 |
 | [世界 \- feat\. Moto from Chilli Beans\. & Who\-ya Extended](https://open.spotify.com/track/1ov4hpi6AicHhPvkr2qHXj) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [Moto from Chilli Beans.](https://open.spotify.com/artist/73M8hqSG4xX43Nw44oZhEJ), [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [世界 \(feat\. Moto from Chilli Beans\. & Who\-ya Extended\)](https://open.spotify.com/album/2my7TWRwJsDJYLewOVVmnP) | 3:08 | 2024-06-20 | 2024-08-10 |

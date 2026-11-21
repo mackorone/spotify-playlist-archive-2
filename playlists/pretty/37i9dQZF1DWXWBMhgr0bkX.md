@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,656 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,685 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby Blues](https://open.spotify.com/track/6L9vSuYIXAblee5yUzOg2P) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Baby Blues](https://open.spotify.com/album/6FUJ8qlMrmcPbS6z9XOjPI) | 4:06 |
 | 2 | [Leave You \(Never\)](https://open.spotify.com/track/3e3CdVMNH7gIvjKrzO63b7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leave You \(Never\)](https://open.spotify.com/album/719K239D6kQI3oi3Bw8rbJ) | 2:48 |
-| 3 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 |
+| 3 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 |
 | 4 | [Girl of the moment](https://open.spotify.com/track/1F7xMt8gQywT4aJ2Vi8eZj) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Say what you see](https://open.spotify.com/album/2H9148vrCwSS9qB0SIv5xp) | 3:35 |
 | 5 | [Killing The Mood](https://open.spotify.com/track/23aN2ayUPGtpoox5n3eeyG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World…So It Ends](https://open.spotify.com/album/0Q6uk8wBcCwONqiYROLo8U) | 3:23 |
 | 6 | [Chillin' With Tigers](https://open.spotify.com/track/3jF3cgoxgmmPtEIrm1NhCs) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Chillin' With Tigers](https://open.spotify.com/album/2dswrn7bbF3CrEVDnL1ydu) | 3:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 89 | [Daydreaming](https://open.spotify.com/track/4OqGAjIXTwVt7pxTekpuuf) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Daydreaming](https://open.spotify.com/album/58bEBWRLvRZ9sUU7GweNIZ) | 4:03 |
 | 90 | [HOLE IN MY HEART](https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [THE SUN FROM BOTH SIDES](https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv) | 3:13 |
 
-Snapshot ID: `AAAAACmNSGdiYLCv03nin3WQnfFxBL77`
+Snapshot ID: `AAAAAHuyVHepZ671DlJMQqeZSua0DM+Y`

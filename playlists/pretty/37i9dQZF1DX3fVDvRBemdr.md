@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Rene Karst 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,594 likes - 102 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,614 likes - 102 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 101 | [Ik Heb Jou Niet Nodig](https://open.spotify.com/track/1rprZP3wW9p8G87SnX0Y5X) | [Youri van Arnhem](https://open.spotify.com/artist/5KLL1TYKaHF61vvOOKK0Mj) | [Ik Heb Jou Niet Nodig](https://open.spotify.com/album/0JPs9CMSNKvSFxxbpNZLbM) | 2:50 |
 | 102 | [Hoef Niet Te Weten](https://open.spotify.com/track/6SyHRSC7vcJBljdt7iUGMP) | [Mike Oskam](https://open.spotify.com/artist/4h0EhiZy6kumY4jKmqWjBc) | [Hoef Niet Te Weten](https://open.spotify.com/album/6RAM0lEfcvVsTXar9BjEsX) | 2:51 |
 
-Snapshot ID: `AAAAACnHN1n/9GlTc/YO5MQbPt3MPn+l`
+Snapshot ID: `AAAAAPkuGk7RFOEuXQTeCyzTM3dRa/yy`

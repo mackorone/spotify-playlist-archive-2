@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Miles Nautu
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,922 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,924 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 6 | [Flow Switcher](https://open.spotify.com/track/2oBQwujmEJjU0webyuU7bm) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [TRISTAN.](https://open.spotify.com/album/2VxlvrUZWXwD8j6ygWrKJG) | 2:56 |
 | 7 | [My Dawg](https://open.spotify.com/track/500g5HAVcbzzB8VUo4yX21) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [My Dawg](https://open.spotify.com/album/12KGaM77gQZMhL4EELdHfW) | 1:57 |
 | 8 | [Ben 10](https://open.spotify.com/track/1mUJ0kk0U5qeMY4PO1kTv0) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Ben 10](https://open.spotify.com/album/1US839apPDqjQ4C6SAbCUk) | 2:40 |
-| 9 | [Uber](https://open.spotify.com/track/79XC372ClAl1hjcJQTz47o) | [Mattyk](https://open.spotify.com/artist/1oxbGwqSvB8EfUdQHjGlgb), [gsteez](https://open.spotify.com/artist/7r9yE6psZ4JMEDBufPE8xl), [Trae Monte](https://open.spotify.com/artist/7sdY3zddktcb7lWeYHfCyq), [ogwetth](https://open.spotify.com/artist/6fpa3k8hFwclVzu27kcOUB) | [Uber](https://open.spotify.com/album/2wvTppChF49RyPLtEFgs9l) | 3:22 |
+| 9 | [Uber](https://open.spotify.com/track/79XC372ClAl1hjcJQTz47o) | [Mattyk](https://open.spotify.com/artist/2oIrgllIFxVhLzTaDk8Upr), [gsteez](https://open.spotify.com/artist/7r9yE6psZ4JMEDBufPE8xl), [Trae Monte](https://open.spotify.com/artist/7sdY3zddktcb7lWeYHfCyq), [ogwetth](https://open.spotify.com/artist/6fpa3k8hFwclVzu27kcOUB) | [Uber](https://open.spotify.com/album/2wvTppChF49RyPLtEFgs9l) | 3:22 |
 | 10 | [Lil Bro](https://open.spotify.com/track/0Ae38dlxqlEfxsb3RmT0lu) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [Lil Bro](https://open.spotify.com/album/3yAbMpJnbNiDBaVZDfgSc1) | 3:05 |
 | 11 | [Back To Work](https://open.spotify.com/track/2zQTvNTfYYKNaeoYqxIZQU) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [MARLON](https://open.spotify.com/artist/3b6PHC15TZKbHLFxvD8Zkl) | [Back To Work](https://open.spotify.com/album/2W0e6rdGLs3buaoWJ6hCUr) | 3:15 |
 | 12 | [i dont like that](https://open.spotify.com/track/4gwlS11GtPmraiGKNOFLSW) | [zaqquack](https://open.spotify.com/artist/6AR7FcpA1dXUbl23rPOSfn) | [i dont like that](https://open.spotify.com/album/5pTwEfOJJoBeMhW1UqUZP6) | 1:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Downtown Dreamin'](https://open.spotify.com/track/4uNe94RzbUMRFwo2XiRweX) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Downtown Dreamin'](https://open.spotify.com/album/50zvQoDybsFkPrHrClyaVu) | 3:19 |
 | 100 | [Lah Lah](https://open.spotify.com/track/2lhHhPyQrhb2kzXC4Vqotp) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Lah Lah](https://open.spotify.com/album/7w8Tz5nexw94NCYqgqQ2mu) | 2:57 |
 
-Snapshot ID: `AAAAAAuv6i6CEZj1/cbCuCS3SFJH2EFe`
+Snapshot ID: `AAAAAEMBJh13CprV+aonPA0+dp/Vbysf`

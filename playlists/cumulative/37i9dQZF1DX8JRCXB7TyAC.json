@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 148333,
       "name": "Gurjar Gang",
       "url": "https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ"
@@ -4352,6 +4352,28 @@
       "duration_ms": 172942,
       "name": "World Famous Haryanvi",
       "url": "https://open.spotify.com/track/4I5UULvQZeU6XuSPoC2u3W"
+    },
+    {
+      "album": {
+        "name": "WWA - When We Arrive",
+        "url": "https://open.spotify.com/album/45clDICJ6WVvF69uI0iuLb"
+      },
+      "artists": [
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        },
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "WWA - When We Arrive",
+      "url": "https://open.spotify.com/track/7HZTSKqnP7Tr4c4LPmkGLx"
     },
     {
       "album": {

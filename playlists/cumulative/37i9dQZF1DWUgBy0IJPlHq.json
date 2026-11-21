@@ -5050,7 +5050,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 219357,
       "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
@@ -5860,6 +5860,24 @@
       "duration_ms": 199439,
       "name": "Gasoline - Stripped",
       "url": "https://open.spotify.com/track/1qsp5iIMa3hOTOFWdopEyA"
+    },
+    {
+      "album": {
+        "name": "Georgia Heat",
+        "url": "https://open.spotify.com/album/3SEMrOxJAWzCqIuuxNGChN"
+      },
+      "artists": [
+        {
+          "name": "Ava Hall",
+          "url": "https://open.spotify.com/artist/3jbuDS17Z5ioo8IFU1sjGt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171326,
+      "name": "Georgia Heat",
+      "url": "https://open.spotify.com/track/5J4zQyVUCmspvu2fFirczw"
     },
     {
       "album": {
@@ -9068,6 +9086,24 @@
       "duration_ms": 133829,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/4fCBhPtizvIiLO6CIdcbxK"
+    },
+    {
+      "album": {
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/0aYydJr4sWk11hsjiGCdlt"
+      },
+      "artists": [
+        {
+          "name": "mor",
+          "url": "https://open.spotify.com/artist/0yvVfS792TJ08fVhNZzPQd"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/7gDsY5sd5bQrrvhtz7jwKy"
     },
     {
       "album": {
@@ -15096,7 +15132,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 214719,
       "name": "These Days",
       "url": "https://open.spotify.com/track/5LQfUtk8NtTxeMZNsQGXNr"

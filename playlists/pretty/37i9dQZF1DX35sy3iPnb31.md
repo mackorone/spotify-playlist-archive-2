@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Natek
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,992 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,991 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 33 | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0) | [Jay Essiambre](https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8) | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq) | 3:09 |
 | 34 | [The 4](https://open.spotify.com/track/5qdJdovmMW639cxGDXs9X9) | [Rosado](https://open.spotify.com/artist/09I1DVqDIIWMfy9wGUe6gj), [who's lara?](https://open.spotify.com/artist/0coM5ZXKtWld0nP8nIifbq), [$anteria](https://open.spotify.com/artist/30KpA4NugE4H0PLXjC8AU7) | [The 4](https://open.spotify.com/album/7s9yJdZXLzJ2GcVNG1yk6s) | 3:24 |
 | 35 | [angela the traveller](https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [the afterparty](https://open.spotify.com/album/1WP24zq1CU9vrSdVet2nuq) | 2:47 |
-| 36 | [L'affaire c'est que](https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Le X du Y](https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04) | 4:05 |
-| 37 | [White Claw Addict](https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 3:07 |
+| 36 | [White Claw Addict](https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 3:07 |
+| 37 | [L'affaire c'est que](https://open.spotify.com/track/37jXgD4LEQjIHEd6Qyd71M) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Le X du Y](https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04) | 4:05 |
 | 38 | [on your shoulders](https://open.spotify.com/track/02Pqy45XxE5MK2vX5uUFGq) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [angels on my mind](https://open.spotify.com/album/2BduGKHzV0iotjWKAraPE3) | 3:10 |
 | 39 | [Make it Happen](https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP) | [Caroline Marie Brooks](https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe) | [Light and Matter](https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d) | 2:54 |
 | 40 | [Ladylike](https://open.spotify.com/track/2M2FkJJImaEzChIpVLE3Tu) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Ladylike](https://open.spotify.com/album/113ejPYZEjoK59HHABCxme) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 |
 | 50 | [Playboi 3arbi](https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [Playboi 3arbi](https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F) | 1:53 |
 
-Snapshot ID: `AAAAAPUue8JyodL9k/SSwjRhmqiP2yPT`
+Snapshot ID: `AAAAAJQna1Z1h4M2f/HJ375dBaYk3EF7`

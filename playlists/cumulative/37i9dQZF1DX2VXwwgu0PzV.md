@@ -2,7 +2,7 @@
 
 ### [Youth Service](https://open.spotify.com/playlist/37i9dQZF1DX2VXwwgu0PzV)
 
-> Music for when you've got your Jesus on and your swag up \. Cover: Princeton South
+> Music for when you've got your Jesus on and your swag up \. Cover: Oba Reengy x Oludemi
 
 2,077 songs - 4 day 13 hr 13 min
 

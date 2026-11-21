@@ -4,7 +4,7 @@
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 22 min
+112 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 | 2023-03-19 |  |
 | [Vacío](https://open.spotify.com/track/31FQspjo54Q66HPdSceOtm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:17 | 2024-05-13 | 2025-07-30 |
 | [Vacío \- Voice Note](https://open.spotify.com/track/0BTjuhJ6uI06rcxkDsRmN5) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [S3CR3TOXXXX \(Voice Note\)](https://open.spotify.com/album/1o2HLBQEnJXwv1dz0TaKF2) | 1:05 | 2024-05-05 | 2024-05-08 |
-| [Vencimiento](https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 3:22 | 2023-04-22 |  |
+| [Vencimiento](https://open.spotify.com/track/15ToIt0Mn7c8bsdGKkghly) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/2ldLU7VwxNNaX1TfMIRBqW) | 3:22 | 2026-11-21 |  |
+| [Vencimiento](https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 3:22 | 2023-04-22 | 2026-11-21 |
 | [Yo Seguiré \- Demo](https://open.spotify.com/track/5YPblWFtdDF0DmI6rmKrOL) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Modus Operandi \- Antología](https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f) | 3:48 | 2024-11-16 | 2025-01-12 |
 | [Yo Te Diré](https://open.spotify.com/track/0fM8tfBFZDEtc9UMvrXHDv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:56 | 2023-04-28 | 2024-07-23 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,301 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,328 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [When I Have You](https://open.spotify.com/track/6CU8ll61ugtCodNhrBAyoW) | [Minister Rachel K](https://open.spotify.com/artist/3e5JDlZMh9AHtEv5zee0bl) | [When I Have You](https://open.spotify.com/album/70bzK3vtHYnZTPHhn58cZa) | 4:34 |
 | 100 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 |
 
-Snapshot ID: `AAAAAB2Zes90XLENQWxml21ocRlc3QPt`
+Snapshot ID: `AAAAAPifi7llSnaq6teWtfcGiQyhSozg`

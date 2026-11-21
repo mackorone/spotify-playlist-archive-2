@@ -1,12 +1,12 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20852,
+  "num_followers": 20850,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMb9Z6emOlHBvVdpgbdauR+pcybe",
+  "snapshot_id": "AAAAAGJkIIAc7yuahOMpdr2vP7n+1eSu",
   "tracks": [
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Robots Apr\u00e8s Tout",
-        "url": "https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Katerine",
-          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Louxor j'adore",
-      "url": "https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 229560,
       "name": "Les amants de Pomp\u00e9i",
       "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Robots Apr\u00e8s Tout",
+        "url": "https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Louxor j'adore",
+      "url": "https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV"
     },
     {
       "added_at": "2026-08-28 04:03:37",

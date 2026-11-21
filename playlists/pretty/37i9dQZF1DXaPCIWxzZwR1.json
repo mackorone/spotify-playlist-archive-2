@@ -1,12 +1,12 @@
 {
   "description": "next gen pop\nCover: Romy Mars",
-  "num_followers": 1252153,
+  "num_followers": 1252110,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKPIax5eJAyE6Kk329AQbV3A58uu",
+  "snapshot_id": "AAAAAOR0o1SXX/1dB+DyflgZamlD+5w+",
   "tracks": [
     {
       "added_at": "2026-11-13 07:29:30",
@@ -87,6 +87,22 @@
       "duration_ms": 168154,
       "name": "Leave You (Never)",
       "url": "https://open.spotify.com/track/3e3CdVMNH7gIvjKrzO63b7"
+    },
+    {
+      "added_at": "2026-11-21 02:56:53",
+      "album": {
+        "name": "Music All Over Her Body",
+        "url": "https://open.spotify.com/album/4JFxbRpXOCpwTX17AVL9qP"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "Music All Over Her Body",
+      "url": "https://open.spotify.com/track/6oR9Lb8TWwZ60ybem3SHF8"
     },
     {
       "added_at": "2026-11-20 05:02:25",
@@ -1599,22 +1615,6 @@
       "duration_ms": 201294,
       "name": "lovergirl",
       "url": "https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
-        "name": "Immortal",
-        "url": "https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz"
-      },
-      "artists": [
-        {
-          "name": "Akeira Jade",
-          "url": "https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF"
-        }
-      ],
-      "duration_ms": 208460,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
     }
   ],
   "unique_name": "Pop Sauce",

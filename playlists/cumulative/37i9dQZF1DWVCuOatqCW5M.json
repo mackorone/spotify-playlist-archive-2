@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Aditya Rikhari, Shreya Ghoshal, Banjaare, Faheem Abdullah and more.",
+  "description": "Latest music from Aditya Rikhari, Shreya Ghoshal, Faheem Abdullah and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -29016,6 +29016,32 @@
       "duration_ms": 182053,
       "name": "Nazm",
       "url": "https://open.spotify.com/track/3ap7ZFUHQeo9cQCnTVkolA"
+    },
+    {
+      "album": {
+        "name": "Nazr-E-Karam (From \"Between Distances\")",
+        "url": "https://open.spotify.com/album/3O5KyDnZvjgsHncB943x8H"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237060,
+      "name": "Nazr-E-Karam (From \"Between Distances\")",
+      "url": "https://open.spotify.com/track/5n1z4byTO4NyGCMipY1zeq"
     },
     {
       "album": {

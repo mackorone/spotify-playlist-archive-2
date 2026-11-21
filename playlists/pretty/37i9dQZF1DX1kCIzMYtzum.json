@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99\ud83d\udc99 featuring Martin Garrix",
-  "num_followers": 571037,
+  "num_followers": 571241,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9Oh84ryZNPirY/fajjCbcyNkuv",
+  "snapshot_id": "AAAAACTJN9sJnsXJAsrZnG7NdLXK4uny",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:02",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-11-20 05:01:02",
       "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 231365,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
+    },
+    {
+      "added_at": "2026-11-20 05:01:02",
+      "album": {
         "name": "Beautiful (with Joji)",
         "url": "https://open.spotify.com/album/2CpahiICjXexEynp7scGe4"
       },
@@ -1311,26 +1327,6 @@
       "duration_ms": 215433,
       "name": "Beautiful (with Joji)",
       "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
-    },
-    {
-      "added_at": "2026-11-20 05:01:02",
-      "album": {
-        "name": "Can't Forget You",
-        "url": "https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Can't Forget You",
-      "url": "https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg"
     },
     {
       "added_at": "2026-11-20 05:01:02",
@@ -1359,6 +1355,26 @@
     {
       "added_at": "2026-11-20 05:01:02",
       "album": {
+        "name": "Can't Forget You",
+        "url": "https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Can't Forget You",
+      "url": "https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg"
+    },
+    {
+      "added_at": "2026-11-20 05:01:02",
+      "album": {
         "name": "Heaven On Your Mind",
         "url": "https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 224746,
       "name": "Heaven On Your Mind",
       "url": "https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS"
-    },
-    {
-      "added_at": "2026-11-20 05:01:02",
-      "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 231365,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
     },
     {
       "added_at": "2026-11-20 05:01:02",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-11-20 05:01:02",
       "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 160888,
-      "name": "Destination Calabria",
-      "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
-    },
-    {
-      "added_at": "2026-11-20 05:01:02",
-      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 162755,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
+    },
+    {
+      "added_at": "2026-11-20 05:01:02",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 160888,
+      "name": "Destination Calabria",
+      "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
     },
     {
       "added_at": "2026-11-20 05:01:02",

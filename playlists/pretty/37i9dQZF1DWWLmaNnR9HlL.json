@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 392286,
+  "num_followers": 392274,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKqfB0tYpQHnvYu/w9IZfFNI4Zr",
+  "snapshot_id": "AAAAAKFuZz/TsXs2BQX5HRi3hgybmGOc",
   "tracks": [
     {
       "added_at": "2026-08-20 15:24:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "I primi tempi",
-        "url": "https://open.spotify.com/album/2ycy3ce3N0f8XBvusk5UmY"
-      },
-      "artists": [
-        {
-          "name": "Paolo Conte",
-          "url": "https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI"
-        }
-      ],
-      "duration_ms": 166546,
-      "name": "Via con me",
-      "url": "https://open.spotify.com/track/2P2rhs7AtvqUzerhAZDbNu"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 329649,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "I primi tempi",
+        "url": "https://open.spotify.com/album/2ycy3ce3N0f8XBvusk5UmY"
+      },
+      "artists": [
+        {
+          "name": "Paolo Conte",
+          "url": "https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI"
+        }
+      ],
+      "duration_ms": 166546,
+      "name": "Via con me",
+      "url": "https://open.spotify.com/track/2P2rhs7AtvqUzerhAZDbNu"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
+        "name": "Currency Of Man",
+        "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305265,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Currency Of Man",
-        "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 305265,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Supply And Demand",
         "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 129626,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
     },
     {
       "added_at": "2026-08-20 15:24:38",

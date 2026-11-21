@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: w.o.d.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,865 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,875 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [リ：忙忙忙ー忙・忙ー忙忙](https://open.spotify.com/track/2zGCd86bRMDOHcYe3dk43I) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix), [カプリチョザ](https://open.spotify.com/artist/6Cmt1U1samjzOLqjc1UPy9) | [リbuild](https://open.spotify.com/album/24i5jYCoSgKnqvo21pEey2) | 3:01 |
 | 100 | [終わりが怖いから考えない](https://open.spotify.com/track/6Qyk8BEPo3CkaoSISmDfWX) | [トップシークレットマン](https://open.spotify.com/artist/56Qm9HEyAYXvtvIxdUv0R2) | [終わりが怖いから考えない](https://open.spotify.com/album/1SdtVZzr50m5z6IrfesMSB) | 1:51 |
 
-Snapshot ID: `AAAAAHajltYC07vaErT4GCdEPNApqCIA`
+Snapshot ID: `AAAAAGPnFFmWkQK+N9uU3LjqjxAB5xLq`

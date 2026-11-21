@@ -4,7 +4,7 @@
 
 > Strictly the freshest and finest hip\-hop heats\. No skips\. Cover: Snotty Nose Rez Kids.
 
-959 songs - 1 day 20 hr 37 min
+960 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [Shut It Down](https://open.spotify.com/track/33JNU1PMIMcUJtPGcVaoBa) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Shut It Down](https://open.spotify.com/album/4i8qLaY1VzOWCxd1nXv3ao) | 2:32 | 2025-06-27 | 2025-09-09 |
 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 | 2026-04-17 |  |
 | [Shutcho \(feat\. The Joy\)](https://open.spotify.com/track/6AZLjrFI5qh6IsMHzvyrIi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/5ho4S2bnJJdF0uwT8YiQsw) | 4:30 | 2024-05-21 | 2024-08-24 |
+| [SIMON SAYS](https://open.spotify.com/track/24KjLIyqr75HMZX1UUPM8s) | [BAMT](https://open.spotify.com/artist/02HtrDQJDSV1umYHzqzWdv) | [SIMON SAYS](https://open.spotify.com/album/2foroeWzjDQNdvc4oykpeL) | 2:21 | 2026-11-20 |  |
 | [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 | 2025-04-04 | 2025-06-28 |
 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 | 2025-10-14 | 2025-11-01 |
 | [Sitting by Myself](https://open.spotify.com/track/0WJ3Qpa3kW1f5KPvV0bYFB) | [Dracodontjam](https://open.spotify.com/artist/4BP9E2FQ7MF3sBfDkRqWut) | [Who Decides REAL?](https://open.spotify.com/album/6rb59v7whAQwO7BngI5VC0) | 2:08 | 2025-02-28 | 2025-04-05 |

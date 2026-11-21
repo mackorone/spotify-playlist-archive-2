@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2mUG540ZbHkdRgbklLoYHM"
+      },
+      "artists": [
+        {
+          "name": "25",
+          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "19",
+      "url": "https://open.spotify.com/track/1fdfrnUKu6YrVk9NTQnXkx"
+    },
+    {
+      "album": {
         "name": "1991",
         "url": "https://open.spotify.com/album/5O7zW8t6x5ft5vofOxLP0l"
       },

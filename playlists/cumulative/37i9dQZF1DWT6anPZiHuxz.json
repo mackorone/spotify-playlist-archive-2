@@ -5419,6 +5419,32 @@
     },
     {
       "album": {
+        "name": "Losing Your Mind",
+        "url": "https://open.spotify.com/album/0SyEZNJtX9UyTHY5EuN07q"
+      },
+      "artists": [
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283238,
+      "name": "Losing Your Mind",
+      "url": "https://open.spotify.com/track/6ks18Mj4HdudVjV8siHbiN"
+    },
+    {
+      "album": {
         "name": "Lots of Love",
         "url": "https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH"
       },
@@ -11000,7 +11026,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 156000,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/7EUf9vKfrwh5NuG7djof4S"

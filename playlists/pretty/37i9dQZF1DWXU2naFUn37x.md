@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Yugi in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,977 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,941 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 2 | [Puglia Crime \(feat\. RRARI DAL TACCO, Young Hash, Darié Baby, Lil Parta, Scaccia, 9x21, LB GANG\)](https://open.spotify.com/track/4inV3hMxNSRxY2gE5FIVMO) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Darié Baby](https://open.spotify.com/artist/5WUPU4vX8WxHQzLreRXwLX), [Lil Parta](https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP), [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [9x21](https://open.spotify.com/artist/3K8CQ8sL2LsIcfVSTaUjMe), [LB GANG](https://open.spotify.com/artist/20m7OA0skSZHQi2nLt29wV) | [Anche gli Eroi Muoiono Post Mortem](https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO) | 5:11 |
 | 3 | [KICHTA LOVA \(feat\. LILCR\)](https://open.spotify.com/track/2bnG45ztHV2m26JsN3QyBi) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [KICHTA LOVA \(feat\. LILCR\)](https://open.spotify.com/album/4Hlww8NVHkkijLwDaZu7Pf) | 3:14 |
 | 4 | [7/7](https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [7/7](https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan) | 2:35 |
-| 5 | [Victory Lap](https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:31 |
+| 5 | [Victory Lap \(feat\. Shiva, Geolier\)](https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:31 |
 | 6 | [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 |
 | 7 | [CHROME HEARTS \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [WAR](https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B) | 2:44 |
 | 8 | [DISOBBEDIRE! \(feat\. 18K\)](https://open.spotify.com/track/7gOPPSiPMAzVV395MZMicg) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [Anche gli Eroi Muoiono Post Mortem](https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Mu'Ammar Gheddafi \(feat\. Simba La Rue\)](https://open.spotify.com/track/6Nr1XULPuJgumCyXBEfcgx) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 2:29 |
 | 50 | [Blatte](https://open.spotify.com/track/2rO2UamSwPb7hgfkHxVIOR) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Blatte](https://open.spotify.com/album/6qnVG5gaUiYY0qaxvXFQ8W) | 2:31 |
 
-Snapshot ID: `AAAAALXMSKvJ8KG/7LKOIfr+hbHANnmy`
+Snapshot ID: `AAAAALLXvPgSANMmdxNuHEOZ88KeQ9+W`

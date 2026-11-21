@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 311453,
       "name": "Blacktop - Sonic Ranch",
       "url": "https://open.spotify.com/track/5OcB5NNHCcE51Zz1KGZc1b"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 267626,
       "name": "Different Today",
       "url": "https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH"
@@ -672,10 +672,28 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 87080,
       "name": "In Heaven - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/0hHhSZVbkKEsfVcweDIDl3"
+    },
+    {
+      "album": {
+        "name": "Hidden in Pieces: Live",
+        "url": "https://open.spotify.com/album/33RxgeDivyHENGrw5RvHV3"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87080,
+      "name": "In Heaven - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2ALEeqi5nYEokGWO7OlpuT"
     },
     {
       "album": {

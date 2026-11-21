@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Kevis, Maykyy y Valy en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Out Of Control Army en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -816,7 +816,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 201333,
       "name": "Chale",
       "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 181654,
       "name": "De Tripas Corazon",
       "url": "https://open.spotify.com/track/7IhxmLSsaeCBxhbPGcuNox"
@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 185400,
       "name": "HP HOP",
       "url": "https://open.spotify.com/track/3baMOlktV95cOV1c4ZDBjR"
@@ -3869,6 +3869,28 @@
     },
     {
       "album": {
+        "name": "M\u00daSICAM\u00c1GICA (Deluxe)",
+        "url": "https://open.spotify.com/album/232S8DmsHRhtntb5YmpSv0"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185269,
+      "name": "Ll\u00e9vame Contigo (feat. Gepe)",
+      "url": "https://open.spotify.com/track/5DGthgC3mr7wjY9dD7EtN4"
+    },
+    {
+      "album": {
         "name": "A 30 A\u00f1os",
         "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
       },
@@ -3902,6 +3924,28 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/07ANRyfMiLzZEtvqhjxsPZ"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/3ozEDl1OWdHe08eGoHS8xB"
     },
     {
       "album": {
@@ -4406,7 +4450,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 188873,
       "name": "Mi Memoria",
       "url": "https://open.spotify.com/track/4t8yBcb6RyTqCevjoTu7Ir"
@@ -4928,7 +4972,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 189107,
       "name": "No s\u00e9",
       "url": "https://open.spotify.com/track/3f82CTFrfRUQcFnPcOBhU4"
@@ -5446,7 +5490,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 276586,
       "name": "Paula",
       "url": "https://open.spotify.com/track/7a8YMMkF6rQQssbA5Sst5k"
@@ -5912,6 +5956,24 @@
       "duration_ms": 247803,
       "name": "Recuerdo De Verano",
       "url": "https://open.spotify.com/track/5TEmvuQw6hZH9UX3mVG2T2"
+    },
+    {
+      "album": {
+        "name": "Renunciar",
+        "url": "https://open.spotify.com/album/2hF7iz84Be0PQTQGjzeGUv"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198678,
+      "name": "Renunciar",
+      "url": "https://open.spotify.com/track/1gfFhZMbDhGRW41AZXDx9j"
     },
     {
       "album": {
@@ -6642,7 +6704,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 177015,
       "name": "Somos El Poder",
       "url": "https://open.spotify.com/track/2scMbcsixVtq2FExIxXAMp"

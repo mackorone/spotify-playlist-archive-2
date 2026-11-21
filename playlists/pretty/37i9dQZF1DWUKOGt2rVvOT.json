@@ -1,13 +1,149 @@
 {
-  "description": "\u65b0\u6b4c\u4e0d\u53ea\u7528\u807d\u7684\uff0c\u9084\u8981\u7528\u770b\u7684\uff01\u6700\u65b0\u83ef\u8a9e MV \u4e00\u6b21\u6536\u597d\uff0c\u73fe\u5728\u5c31\u770b\u8d77\u4f86\uff01Cover: LAWA & \u6f22\u5821\u9ec3 ",
-  "num_followers": 140973,
+  "description": "\u65b0\u6b4c\u4e0d\u53ea\u7528\u807d\u7684\uff0c\u9084\u8981\u7528\u770b\u7684\uff01\u6700\u65b0\u83ef\u8a9e MV \u4e00\u6b21\u6536\u597d\uff0c\u73fe\u5728\u5c31\u770b\u8d77\u4f86\uff01Cover: TRASH",
+  "num_followers": 140955,
   "original_name": "\u9ad8\u4eba\u6c23MV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADdUFogKIyTPhuqAd8MUdL0rnaNd",
+  "snapshot_id": "AAAAAKZ3DSjB+FjIEUgGr7abLQhUecRU",
   "tracks": [
+    {
+      "added_at": "2026-11-20 08:00:07",
+      "album": {
+        "name": "\u53ea\u5269\u5f8c\u6094\u5728\u7b49\u5f85",
+        "url": "https://open.spotify.com/album/5tOsVckeTIy9CijotMFPPq"
+      },
+      "artists": [
+        {
+          "name": "TRASH",
+          "url": "https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4"
+        }
+      ],
+      "duration_ms": 281345,
+      "name": "\u53ea\u5269\u5f8c\u6094\u5728\u7b49\u5f85",
+      "url": "https://open.spotify.com/track/7FZDUwHOMnPU9ChFYXSov5"
+    },
+    {
+      "added_at": "2026-11-20 08:00:07",
+      "album": {
+        "name": "\u6d3b\u8457\u7684\u526f\u4f5c\u7528",
+        "url": "https://open.spotify.com/album/2hi3wSxoWpEulgEXsWfJpT"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "duration_ms": 220484,
+      "name": "\u611b\u4f60\u611b\u6211\u611b\u4ed6",
+      "url": "https://open.spotify.com/track/6fktlM7Xg8RbGWRWAdiCaI"
+    },
+    {
+      "added_at": "2026-11-20 08:00:07",
+      "album": {
+        "name": "\u5728\u9019\u88e1\u7b49\u4f60",
+        "url": "https://open.spotify.com/album/29DMcoWVBWlp7Dy9TdlBb1"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        }
+      ],
+      "duration_ms": 286132,
+      "name": "\u5728\u9019\u88e1\u7b49\u4f60",
+      "url": "https://open.spotify.com/track/7pgeLYJOrqYhgDhtNj3gqm"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u96d9\u5b63",
+        "url": "https://open.spotify.com/album/15gzRVvy5ochmI2ASagEgN"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "\u878d\u5316\u4ee5\u5f8c",
+      "url": "https://open.spotify.com/track/0EiKQdp9HzdALq4m86U9Jj"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u8d77\u59cb\u756b\u9762",
+        "url": "https://open.spotify.com/album/5hITy2Ruf9Q1zvfbPegN2m"
+      },
+      "artists": [
+        {
+          "name": "\u95bb\u5955\u683c Janice Yan",
+          "url": "https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp"
+        }
+      ],
+      "duration_ms": 150110,
+      "name": "\u8d77\u59cb\u756b\u9762",
+      "url": "https://open.spotify.com/track/7mL7mAq5QpG2yEAKqwsxe9"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "98765 (feat. PIZZALI)",
+        "url": "https://open.spotify.com/album/5FomwAFIyt9lBRpFU4Qp88"
+      },
+      "artists": [
+        {
+          "name": "ANGIE\u5b89\u5409",
+          "url": "https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU"
+        },
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "98765 (feat. PIZZALI)",
+      "url": "https://open.spotify.com/track/2x7g5M5grTQ088iTeRXiCd"
+    },
+    {
+      "added_at": "2026-11-20 08:00:07",
+      "album": {
+        "name": "\u62fc\u4e00\u500b\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/2lS9cV1rVsHCx6GhHaYM3J"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        },
+        {
+          "name": "Sabrina \u80e1\u6042\u821e",
+          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
+        }
+      ],
+      "duration_ms": 201398,
+      "name": "\u7e3d\u89ba\u5f97\u505a\u4ec0\u9ebc\u90fd\u932f",
+      "url": "https://open.spotify.com/track/5HN5xeeU37hdbs12PFyfR2"
+    },
+    {
+      "added_at": "2026-11-20 08:00:07",
+      "album": {
+        "name": "\u5929\u4f7f\uff1f\u60e1\u9b54\uff1f",
+        "url": "https://open.spotify.com/album/35FKTlZ8ohTIDyULyHLiQJ"
+      },
+      "artists": [
+        {
+          "name": "iF",
+          "url": "https://open.spotify.com/artist/2w9ROTfdD98w2BRnNASzWK"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "\u5929\u4f7f\uff1f\u60e1\u9b54\uff1f",
+      "url": "https://open.spotify.com/track/1ualRJBdnFsVzoYR2VkUGJ"
+    },
     {
       "added_at": "2026-10-22 16:00:30",
       "album": {
@@ -31,364 +167,140 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "\u96b1\u766e (\u5f71\u96c6\u300a\u90f5\u7968\u8207\u8212\u8299\u857e\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/6VH4LNvAEFfswzrIuEAJJt"
+        "name": "\u91cd\u65b0\u628a\u4f60\u5beb\u9032\u6211100\u9996\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/7hdGs1kjXFztH9GMRL0Oo8"
       },
       "artists": [
         {
-          "name": "KAXA",
-          "url": "https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG"
+          "name": "\u674e\u54f2\u8a00 Jim Lee",
+          "url": "https://open.spotify.com/artist/1rooHl1l35Hn4PoipbtuSJ"
         }
       ],
-      "duration_ms": 209705,
-      "name": "\u96b1\u766e (\u5f71\u96c6\u300a\u90f5\u7968\u8207\u8212\u8299\u857e\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/2KSaDdRadbOLfvU3kWMPxy"
+      "duration_ms": 182214,
+      "name": "\u91cd\u65b0\u628a\u4f60\u5beb\u9032\u6211100\u9996\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/3ttdqFtdzDQ3Y5Agem8DWP"
     },
     {
-      "added_at": "2026-10-08 16:00:08",
+      "added_at": "2026-11-20 08:00:07",
       "album": {
-        "name": "\u5076\u50cf\u5305\u88b1",
-        "url": "https://open.spotify.com/album/50zKMXgPXVzjcDPokBHy9d"
+        "name": "\u5fae\u91ba\u7684\u611b (\u5f71\u96c6\u300a\u5fae\u91ba\u5927\u98ef\u5e971980s\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/56xhRnJNjl16fCxkCuSERi"
       },
       "artists": [
         {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
         }
       ],
-      "duration_ms": 248734,
-      "name": "\u6700\u5f8c\u4e00\u500b\u8b0a",
-      "url": "https://open.spotify.com/track/1jvdnSKL2KzLG5vwxrl0C6"
+      "duration_ms": 184396,
+      "name": "\u5fae\u91ba\u7684\u611b - \u5f71\u96c6\u300a\u5fae\u91ba\u5927\u98ef\u5e971980s\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/6QoPFe7jvqMF2tTHBFNPsH"
     },
     {
-      "added_at": "2026-10-22 16:00:30",
+      "added_at": "2026-11-20 08:00:07",
       "album": {
-        "name": "heartman.",
-        "url": "https://open.spotify.com/album/3suwDrz4JJcq6ZHHiB8imG"
+        "name": "\u91cd\u555f (\u539f\u5275\u5f71\u96c6\u300a\u91cd\u751f\u5bc6\u78bc\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/0otnQbEq5tG4kvnp0TNvl5"
       },
       "artists": [
         {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
         }
       ],
-      "duration_ms": 155785,
-      "name": "heartman.",
-      "url": "https://open.spotify.com/track/2EXZlYPgX9wOfGVMGkBy4w"
+      "duration_ms": 180155,
+      "name": "\u91cd\u555f - \u539f\u5275\u5f71\u96c6\u300a\u91cd\u751f\u5bc6\u78bc\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/22hBu3qXJq6uEUrQFsH6rs"
     },
     {
-      "added_at": "2026-10-08 16:00:08",
+      "added_at": "2026-11-20 08:00:07",
       "album": {
-        "name": "\u8981\u53bb\u4ec0\u9ebc\u5730\u65b9",
-        "url": "https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT"
+        "name": "\u8cb4\u5f97\u53ef\u4ee5",
+        "url": "https://open.spotify.com/album/2a4xzj43vWwzekM1VcHeY8"
       },
       "artists": [
         {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+          "name": "\u8607\u6167\u502b",
+          "url": "https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF"
         }
       ],
-      "duration_ms": 227746,
-      "name": "\u8981\u53bb\u4ec0\u9ebc\u5730\u65b9",
-      "url": "https://open.spotify.com/track/4azVNx8uhpnKezwrNhcvYz"
+      "duration_ms": 252543,
+      "name": "\u8cb4\u5f97\u53ef\u4ee5 (\u5f71\u96c6\u300a\u6b20\u59b3\u7684\u90a3\u5834\u5a5a\u79ae\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/0wXB9Y8Kn5pKRg3XabUkb7"
     },
     {
-      "added_at": "2026-10-08 16:00:08",
+      "added_at": "2026-11-20 08:00:07",
       "album": {
-        "name": "\u65e9\u5b89\uff0c\u5348\u5b89\uff0c\u665a\u5b89 (feat. \u9673\u83ef )",
-        "url": "https://open.spotify.com/album/5TyyA52nHbMw4q8uq9JFCe"
+        "name": "\u8070\u660e",
+        "url": "https://open.spotify.com/album/521QBZCuYA2qXLdtutrS6l"
       },
       "artists": [
         {
-          "name": "Tr33",
-          "url": "https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws"
+          "name": "\u8389\u8389\u5468\u5979\u8aaa Lily Chou-Chou Lied",
+          "url": "https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "\u8070\u660e",
+      "url": "https://open.spotify.com/track/02fAnBiiFKhBjpPVswbdQv"
+    },
+    {
+      "added_at": "2026-11-20 08:00:07",
+      "album": {
+        "name": "\u611b\u706b\u5c71\u7684\u4eba",
+        "url": "https://open.spotify.com/album/1UuBp91OqIh6XOhMYn6nfT"
+      },
+      "artists": [
+        {
+          "name": "\u5f90\u6690\u7fd4",
+          "url": "https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm"
         },
         {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+          "name": "\u95bb\u5955\u683c Janice Yan",
+          "url": "https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp"
         }
       ],
-      "duration_ms": 264000,
-      "name": "\u65e9\u5b89\uff0c\u5348\u5b89\uff0c\u665a\u5b89 (feat. \u9673\u83ef )",
-      "url": "https://open.spotify.com/track/0khb2wGlrHas2y9BbEN325"
+      "duration_ms": 223500,
+      "name": "\u4e0d\u8981\u6551\u6211 (feat. \u95bb\u5955\u683c Janice Yan)",
+      "url": "https://open.spotify.com/track/3yulMGySYFO4J7psHZocsr"
     },
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "\u8ffd\u661f\u661f\u7684\u4eba",
-        "url": "https://open.spotify.com/album/4NKmOr3VUAsh9QxDJLgGV2"
+        "name": "\u6211\u7f8e\u4e0d\u7f8e\uff1f",
+        "url": "https://open.spotify.com/album/7tTQrvAFsXzfmyxeB19Um7"
       },
       "artists": [
         {
-          "name": "\u7f85\u6587\u88d5",
-          "url": "https://open.spotify.com/artist/7oMkAwPOEfk2ETm9HX9Ruo"
-        },
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
         }
       ],
-      "duration_ms": 250333,
-      "name": "\u8ffd\u661f\u661f\u7684\u4eba",
-      "url": "https://open.spotify.com/track/2MukFBijDRxpuZStoMb6Ei"
+      "duration_ms": 109875,
+      "name": "\u6211\u7f8e\u4e0d\u7f8e\uff1f",
+      "url": "https://open.spotify.com/track/2SkiPljutkt9GwwRjmFcLq"
     },
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "Take Your Time",
-        "url": "https://open.spotify.com/album/4lPBUasyGc1tERVIjpiyGM"
+        "name": "Loser.",
+        "url": "https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6"
       },
       "artists": [
         {
-          "name": "Fang Wu",
-          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
         }
       ],
-      "duration_ms": 210208,
-      "name": "Take Your Time",
-      "url": "https://open.spotify.com/track/17hrsMKL1Qvc5i3VjnjpqY"
-    },
-    {
-      "added_at": "2026-10-22 16:00:30",
-      "album": {
-        "name": "\u7121\u754f (FEARLESS)",
-        "url": "https://open.spotify.com/album/4bHLRVYe1TrhwKZMcvMUGu"
-      },
-      "artists": [
-        {
-          "name": "Niel",
-          "url": "https://open.spotify.com/artist/1wPvrQKu6dJBeLimAntEuH"
-        }
-      ],
-      "duration_ms": 221111,
-      "name": "\u7121\u754f (FEARLESS)",
-      "url": "https://open.spotify.com/track/5ccfyvWroBJmCkGXa4VqRB"
+      "duration_ms": 149477,
+      "name": "If I Had",
+      "url": "https://open.spotify.com/track/744B6V0BnQ7MfpE4By85dW"
     },
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "Dear You",
-        "url": "https://open.spotify.com/album/4Zt64q7lZcQFZwkcWnrWZp"
-      },
-      "artists": [
-        {
-          "name": "Cosmos People",
-          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
-        }
-      ],
-      "duration_ms": 242538,
-      "name": "Dear You",
-      "url": "https://open.spotify.com/track/07NaJZYKx75dRni6h3IDhD"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u4e00\u6a23\u6703\u611b\u4e0a\u4f60",
-        "url": "https://open.spotify.com/album/519IY8cOwFs2GFZXqWKrQs"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        },
-        {
-          "name": "\u9ad8\u723e\u5ba3 OSN",
-          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
-        }
-      ],
-      "duration_ms": 226020,
-      "name": "\u4e00\u6a23\u6703\u611b\u4e0a\u4f60",
-      "url": "https://open.spotify.com/track/2wosRpLNTfFPZUhvwdo2Mc"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u96d9\u5b63",
-        "url": "https://open.spotify.com/album/15gzRVvy5ochmI2ASagEgN"
-      },
-      "artists": [
-        {
-          "name": "163 braces",
-          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
-        }
-      ],
-      "duration_ms": 150909,
-      "name": "\u878d\u5316\u4ee5\u5f8c",
-      "url": "https://open.spotify.com/track/0EiKQdp9HzdALq4m86U9Jj"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u611b\u60c5\u9577\u8dd1",
-        "url": "https://open.spotify.com/album/7yxoIdJEoigkkoOoHAX8VY"
-      },
-      "artists": [
-        {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
-        },
-        {
-          "name": "\u6d0b\u8525",
-          "url": "https://open.spotify.com/artist/6JIc47t8N2DH29x4ysG5ib"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "\u611b\u60c5\u9577\u8dd1",
-      "url": "https://open.spotify.com/track/0DtZEmbJCUAhylo5HVbTj2"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "Self!shhh",
-        "url": "https://open.spotify.com/album/2tjulzVZJKodcNsgdr3GPw"
-      },
-      "artists": [
-        {
-          "name": "Ozone",
-          "url": "https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1"
-        }
-      ],
-      "duration_ms": 194086,
-      "name": "Self!shhh",
-      "url": "https://open.spotify.com/track/5e2NQdZtAr1DFtcyWXBsre"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u4e00\u500b\u4eba",
-        "url": "https://open.spotify.com/album/3GuEwEqnG9TilL1MDYmxlb"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 298322,
-      "name": "\u4e00\u500b\u4eba",
-      "url": "https://open.spotify.com/track/5Vxi8yyujUP3tw8hfR6abp"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "BAD IDEA",
-        "url": "https://open.spotify.com/album/5Zxw9q5sGZR2Zkj9fVfTC6"
-      },
-      "artists": [
-        {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
-        }
-      ],
-      "duration_ms": 155813,
-      "name": "BAD IDEA",
-      "url": "https://open.spotify.com/track/0MQQUWilQ2IauNHm3xUtXv"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u706b\u82b1",
-        "url": "https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb"
-      },
-      "artists": [
-        {
-          "name": "LAWA",
-          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
-        }
-      ],
-      "duration_ms": 263068,
-      "name": "\u706b\u82b1",
-      "url": "https://open.spotify.com/track/005eESnSIcR99N474aIINN"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u611b\u4e0a\u4f60\u4e0d\u662f\u6211\u6c7a\u5b9a (feat. A-Lin)",
-        "url": "https://open.spotify.com/album/1Ts702VWywWczMuiCmqkoP"
-      },
-      "artists": [
-        {
-          "name": "Jam Hsiao",
-          "url": "https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q"
-        },
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 242639,
-      "name": "\u611b\u4e0a\u4f60\u4e0d\u662f\u6211\u6c7a\u5b9a (feat. A-Lin)",
-      "url": "https://open.spotify.com/track/3F6EVsPTrU7MYCQhVOmDcg"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "Take Your Time",
-        "url": "https://open.spotify.com/album/4lPBUasyGc1tERVIjpiyGM"
-      },
-      "artists": [
-        {
-          "name": "Fang Wu",
-          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
-        }
-      ],
-      "duration_ms": 211629,
-      "name": "\u4e0d\u60f3\u60f3\u592a\u591a",
-      "url": "https://open.spotify.com/track/68kEMcsGiRMoVbjXVdc7zr"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u5076\u50cf\u5305\u88b1",
-        "url": "https://open.spotify.com/album/3lOtu3IhDrGVrQ3k0Navwr"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 237433,
-      "name": "\u5076\u50cf\u5305\u88b1",
-      "url": "https://open.spotify.com/track/64bPgDsKxXfS3CVkwJQMIq"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u6c92\u6709\u4eba\u50cf\u6211\u4e00\u6a23",
-        "url": "https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le"
-      },
-      "artists": [
-        {
-          "name": "Cosmos People",
-          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
-        }
-      ],
-      "duration_ms": 246607,
-      "name": "\u6c92\u6709\u4eba\u50cf\u6211\u4e00\u6a23 (\u5f71\u96c6\u300a\u6b20\u59b3\u7684\u90a3\u5834\u5a5a\u79ae\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u5149\u900f\u9032\u4f86\u7684\u5730\u65b9",
-        "url": "https://open.spotify.com/album/5I5qcyvJcbvb605e20zfjD"
-      },
-      "artists": [
-        {
-          "name": "Yoyo Sham",
-          "url": "https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "\u5149\u900f\u9032\u4f86\u7684\u5730\u65b9",
-      "url": "https://open.spotify.com/track/30a9qP26vFkdbkpAdmV6ux"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u5225\u70ba\u96e3 The Edge of Us",
-        "url": "https://open.spotify.com/album/1Ysln3HNawCk0oywWPDZCx"
+        "name": "i don't wanna be friends",
+        "url": "https://open.spotify.com/album/7ExQm1otwU7COqKrbpi7kn"
       },
       "artists": [
         {
@@ -396,89 +308,9 @@
           "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
         }
       ],
-      "duration_ms": 264666,
-      "name": "\u5225\u70ba\u96e3 The Edge of Us",
-      "url": "https://open.spotify.com/track/3jXwe24BTMP4Tnq3wtKs6g"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u701f\u7051\u8d70\u4e00\u56de",
-        "url": "https://open.spotify.com/album/4ouOYjKqAGv8wCSEZSH2r4"
-      },
-      "artists": [
-        {
-          "name": "\u694a\u57f9\u5b89",
-          "url": "https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1"
-        }
-      ],
-      "duration_ms": 223003,
-      "name": "\u701f\u7051\u8d70\u4e00\u56de",
-      "url": "https://open.spotify.com/track/3IQMRIeQjcUiVIVnghIDq9"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u6211\u589c\u843d\u4f60\u81ea\u7531",
-        "url": "https://open.spotify.com/album/3R4kQKu9hP6kQyRUCyWMKQ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Tan",
-          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
-        }
-      ],
-      "duration_ms": 227625,
-      "name": "\u6211\u589c\u843d\u4f60\u81ea\u7531",
-      "url": "https://open.spotify.com/track/2NqWjIezRyoERdDH5hupfy"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u865b\u83ef\u7684\u5922\u60f3\u662f\u4e00\u652f\u5200",
-        "url": "https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT"
-      },
-      "artists": [
-        {
-          "name": "\u9ec3\u5947\u658c",
-          "url": "https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D"
-        }
-      ],
-      "duration_ms": 252458,
-      "name": "\u7dbf\u7dbf\u7121\u7d55\u671f",
-      "url": "https://open.spotify.com/track/2s00UudzwUn1i16mO3zjVw"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u73bb\u7483",
-        "url": "https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "\u73bb\u7483",
-      "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "BAD IDEA",
-        "url": "https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr"
-      },
-      "artists": [
-        {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "\u53bb\u5e74\u4e0b\u7684\u90a3\u5834\u96ea",
-      "url": "https://open.spotify.com/track/5ZHoBTqDUm2M7DCuxnBTw5"
+      "duration_ms": 208000,
+      "name": "i don't wanna be friends",
+      "url": "https://open.spotify.com/track/26lVLCkpUqionmb7R26jmf"
     },
     {
       "added_at": "2026-10-08 16:00:08",
@@ -503,6 +335,54 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
+        "name": "\u4e0d\u904e\u671f\u7684\u611b",
+        "url": "https://open.spotify.com/album/15uQppnr8m9C7hTdW2hOn1"
+      },
+      "artists": [
+        {
+          "name": "\u5468\u7956\u5b89Zu An",
+          "url": "https://open.spotify.com/artist/1x50iht7O1AAi9671KbiA6"
+        }
+      ],
+      "duration_ms": 188407,
+      "name": "\u4e0d\u904e\u671f\u7684\u611b",
+      "url": "https://open.spotify.com/track/1GT9TvsX8DGaPLMAhJ32LN"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u73bb\u7483",
+        "url": "https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "\u73bb\u7483",
+      "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/4lPBUasyGc1tERVIjpiyGM"
+      },
+      "artists": [
+        {
+          "name": "Fang Wu",
+          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
+        }
+      ],
+      "duration_ms": 211629,
+      "name": "\u4e0d\u60f3\u60f3\u592a\u591a",
+      "url": "https://open.spotify.com/track/68kEMcsGiRMoVbjXVdc7zr"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
         "name": "scuba diving",
         "url": "https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT"
       },
@@ -519,50 +399,102 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "\u4ee5\u70ba\u4f60\u9084\u5728",
-        "url": "https://open.spotify.com/album/0yePOXoT2eHKfvDq86PvWd"
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/4lPBUasyGc1tERVIjpiyGM"
       },
       "artists": [
         {
-          "name": "Xiao Yu",
-          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
+          "name": "Fang Wu",
+          "url": "https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu"
         }
       ],
-      "duration_ms": 355333,
-      "name": "\u610f\u5916",
-      "url": "https://open.spotify.com/track/12NjuZvUglYrsDPYUSxSnM"
+      "duration_ms": 210208,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/17hrsMKL1Qvc5i3VjnjpqY"
     },
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "\u8d77\u59cb\u756b\u9762",
-        "url": "https://open.spotify.com/album/5hITy2Ruf9Q1zvfbPegN2m"
+        "name": "\u5149\u900f\u9032\u4f86\u7684\u5730\u65b9",
+        "url": "https://open.spotify.com/album/5I5qcyvJcbvb605e20zfjD"
       },
       "artists": [
         {
-          "name": "\u95bb\u5955\u683c Janice Yan",
-          "url": "https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp"
+          "name": "Yoyo Sham",
+          "url": "https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1"
         }
       ],
-      "duration_ms": 150110,
-      "name": "\u8d77\u59cb\u756b\u9762",
-      "url": "https://open.spotify.com/track/7mL7mAq5QpG2yEAKqwsxe9"
+      "duration_ms": 260560,
+      "name": "\u5149\u900f\u9032\u4f86\u7684\u5730\u65b9",
+      "url": "https://open.spotify.com/track/30a9qP26vFkdbkpAdmV6ux"
     },
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "\u865b\u83ef\u7684\u5922\u60f3\u662f\u4e00\u652f\u5200",
-        "url": "https://open.spotify.com/album/1yyF5YBUcjukyBFDjYbBIz"
+        "name": "\u5076\u50cf\u5305\u88b1",
+        "url": "https://open.spotify.com/album/3lOtu3IhDrGVrQ3k0Navwr"
       },
       "artists": [
         {
-          "name": "\u9ec3\u5947\u658c",
-          "url": "https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D"
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
         }
       ],
-      "duration_ms": 202832,
-      "name": "\u865b\u83ef\u7684\u5922\u60f3\u662f\u4e00\u652f\u5200",
-      "url": "https://open.spotify.com/track/5Q4IGbHiua8uVqhu7aZX6y"
+      "duration_ms": 237433,
+      "name": "\u5076\u50cf\u5305\u88b1",
+      "url": "https://open.spotify.com/track/64bPgDsKxXfS3CVkwJQMIq"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "Self!shhh",
+        "url": "https://open.spotify.com/album/2tjulzVZJKodcNsgdr3GPw"
+      },
+      "artists": [
+        {
+          "name": "Ozone",
+          "url": "https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1"
+        }
+      ],
+      "duration_ms": 194086,
+      "name": "Self!shhh",
+      "url": "https://open.spotify.com/track/5e2NQdZtAr1DFtcyWXBsre"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u611b\u60c5\u9577\u8dd1",
+        "url": "https://open.spotify.com/album/7yxoIdJEoigkkoOoHAX8VY"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        },
+        {
+          "name": "\u6d0b\u8525",
+          "url": "https://open.spotify.com/artist/6JIc47t8N2DH29x4ysG5ib"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "\u611b\u60c5\u9577\u8dd1",
+      "url": "https://open.spotify.com/track/0DtZEmbJCUAhylo5HVbTj2"
+    },
+    {
+      "added_at": "2026-10-22 16:00:30",
+      "album": {
+        "name": "heartman.",
+        "url": "https://open.spotify.com/album/3suwDrz4JJcq6ZHHiB8imG"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "duration_ms": 155785,
+      "name": "heartman.",
+      "url": "https://open.spotify.com/track/2EXZlYPgX9wOfGVMGkBy4w"
     },
     {
       "added_at": "2026-10-08 16:00:08",
@@ -583,66 +515,18 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "\u91cd\u65b0\u628a\u4f60\u5beb\u9032\u6211100\u9996\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/7hdGs1kjXFztH9GMRL0Oo8"
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/5Zxw9q5sGZR2Zkj9fVfTC6"
       },
       "artists": [
         {
-          "name": "\u674e\u54f2\u8a00 Jim Lee",
-          "url": "https://open.spotify.com/artist/1rooHl1l35Hn4PoipbtuSJ"
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
         }
       ],
-      "duration_ms": 182214,
-      "name": "\u91cd\u65b0\u628a\u4f60\u5beb\u9032\u6211100\u9996\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/3ttdqFtdzDQ3Y5Agem8DWP"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u672a\u5b8c\u6210\u7684\u95dc\u4fc2",
-        "url": "https://open.spotify.com/album/700UtwY97ixDyGBea5GQD8"
-      },
-      "artists": [
-        {
-          "name": "\u90ed\u5bb6\u744b",
-          "url": "https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "\u7b49\u4f60\u7b49\u6211",
-      "url": "https://open.spotify.com/track/7DAfxIe4dYbg8EXWeuHC9j"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u4e0d\u904e\u671f\u7684\u611b",
-        "url": "https://open.spotify.com/album/15uQppnr8m9C7hTdW2hOn1"
-      },
-      "artists": [
-        {
-          "name": "\u5468\u7956\u5b89Zu An",
-          "url": "https://open.spotify.com/artist/1x50iht7O1AAi9671KbiA6"
-        }
-      ],
-      "duration_ms": 188407,
-      "name": "\u4e0d\u904e\u671f\u7684\u611b",
-      "url": "https://open.spotify.com/track/1GT9TvsX8DGaPLMAhJ32LN"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "\u6211\u589c\u843d\u4f60\u81ea\u7531",
-        "url": "https://open.spotify.com/album/4yLGdlO6LRpg2I55eSbZJR"
-      },
-      "artists": [
-        {
-          "name": "Andrew Tan",
-          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
-        }
-      ],
-      "duration_ms": 198791,
-      "name": "\u7d66\u6211\u4e00\u69cd",
-      "url": "https://open.spotify.com/track/7McuqcfvOL7i4BOBgMrEkq"
+      "duration_ms": 155813,
+      "name": "BAD IDEA",
+      "url": "https://open.spotify.com/track/0MQQUWilQ2IauNHm3xUtXv"
     },
     {
       "added_at": "2026-10-08 16:00:08",
@@ -663,6 +547,70 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
+        "name": "U:NFOLD",
+        "url": "https://open.spotify.com/album/17c9mW5MqLtBQudtLXgsya"
+      },
+      "artists": [
+        {
+          "name": "U:NUS",
+          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
+        }
+      ],
+      "duration_ms": 184796,
+      "name": "101",
+      "url": "https://open.spotify.com/track/6ceN4yL9T8Nt4Chw7VZE6h"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u5225\u70ba\u96e3 The Edge of Us",
+        "url": "https://open.spotify.com/album/1Ysln3HNawCk0oywWPDZCx"
+      },
+      "artists": [
+        {
+          "name": "\u90b1\u92d2\u6fa4 Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "\u5225\u70ba\u96e3 The Edge of Us",
+      "url": "https://open.spotify.com/track/3jXwe24BTMP4Tnq3wtKs6g"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u6211\u589c\u843d\u4f60\u81ea\u7531",
+        "url": "https://open.spotify.com/album/4yLGdlO6LRpg2I55eSbZJR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Tan",
+          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
+        }
+      ],
+      "duration_ms": 198791,
+      "name": "\u7d66\u6211\u4e00\u69cd",
+      "url": "https://open.spotify.com/track/7McuqcfvOL7i4BOBgMrEkq"
+    },
+    {
+      "added_at": "2026-10-22 16:00:30",
+      "album": {
+        "name": "\u7121\u754f (FEARLESS)",
+        "url": "https://open.spotify.com/album/4bHLRVYe1TrhwKZMcvMUGu"
+      },
+      "artists": [
+        {
+          "name": "Niel",
+          "url": "https://open.spotify.com/artist/1wPvrQKu6dJBeLimAntEuH"
+        }
+      ],
+      "duration_ms": 221111,
+      "name": "\u7121\u754f (FEARLESS)",
+      "url": "https://open.spotify.com/track/5ccfyvWroBJmCkGXa4VqRB"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
         "name": "\u592a\u967d\u4e4b\u5b50",
         "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
       },
@@ -675,6 +623,38 @@
       "duration_ms": 214333,
       "name": "\u611b\u7434\u6d77",
       "url": "https://open.spotify.com/track/3lzHO8msJ0ykGa0v8s4vu0"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u706b\u82b1",
+        "url": "https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "duration_ms": 263068,
+      "name": "\u706b\u82b1",
+      "url": "https://open.spotify.com/track/005eESnSIcR99N474aIINN"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "Dear You",
+        "url": "https://open.spotify.com/album/4Zt64q7lZcQFZwkcWnrWZp"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "duration_ms": 242538,
+      "name": "Dear You",
+      "url": "https://open.spotify.com/track/07NaJZYKx75dRni6h3IDhD"
     },
     {
       "added_at": "2026-10-08 16:00:08",
@@ -695,6 +675,78 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
+        "name": "\u4e00\u6a23\u6703\u611b\u4e0a\u4f60",
+        "url": "https://open.spotify.com/album/519IY8cOwFs2GFZXqWKrQs"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        },
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        }
+      ],
+      "duration_ms": 226020,
+      "name": "\u4e00\u6a23\u6703\u611b\u4e0a\u4f60",
+      "url": "https://open.spotify.com/track/2wosRpLNTfFPZUhvwdo2Mc"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u5076\u50cf\u5305\u88b1",
+        "url": "https://open.spotify.com/album/50zKMXgPXVzjcDPokBHy9d"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 248734,
+      "name": "\u6700\u5f8c\u4e00\u500b\u8b0a",
+      "url": "https://open.spotify.com/track/1jvdnSKL2KzLG5vwxrl0C6"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u6c92\u6709\u4eba\u50cf\u6211\u4e00\u6a23",
+        "url": "https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "duration_ms": 246607,
+      "name": "\u6c92\u6709\u4eba\u50cf\u6211\u4e00\u6a23 (\u5f71\u96c6\u300a\u6b20\u59b3\u7684\u90a3\u5834\u5a5a\u79ae\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u611b\u4e0a\u4f60\u4e0d\u662f\u6211\u6c7a\u5b9a (feat. A-Lin)",
+        "url": "https://open.spotify.com/album/1Ts702VWywWczMuiCmqkoP"
+      },
+      "artists": [
+        {
+          "name": "Jam Hsiao",
+          "url": "https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q"
+        },
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 242639,
+      "name": "\u611b\u4e0a\u4f60\u4e0d\u662f\u6211\u6c7a\u5b9a (feat. A-Lin)",
+      "url": "https://open.spotify.com/track/3F6EVsPTrU7MYCQhVOmDcg"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
         "name": "\u7e5e\u8def",
         "url": "https://open.spotify.com/album/7LEQYEoBYvnlsoos9STleJ"
       },
@@ -711,50 +763,70 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "Loser.",
-        "url": "https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6"
+        "name": "\u865b\u83ef\u7684\u5922\u60f3\u662f\u4e00\u652f\u5200",
+        "url": "https://open.spotify.com/album/1yyF5YBUcjukyBFDjYbBIz"
       },
       "artists": [
         {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+          "name": "\u9ec3\u5947\u658c",
+          "url": "https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D"
         }
       ],
-      "duration_ms": 149477,
-      "name": "If I Had",
-      "url": "https://open.spotify.com/track/744B6V0BnQ7MfpE4By85dW"
+      "duration_ms": 202832,
+      "name": "\u865b\u83ef\u7684\u5922\u60f3\u662f\u4e00\u652f\u5200",
+      "url": "https://open.spotify.com/track/5Q4IGbHiua8uVqhu7aZX6y"
     },
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "\u592a\u967d\u4e4b\u5b50",
-        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+        "name": "\u65e9\u5b89\uff0c\u5348\u5b89\uff0c\u665a\u5b89 (feat. \u9673\u83ef )",
+        "url": "https://open.spotify.com/album/5TyyA52nHbMw4q8uq9JFCe"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "Tr33",
+          "url": "https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws"
+        },
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
         }
       ],
-      "duration_ms": 193356,
-      "name": "\u4e03\u6708\u7684\u6975\u5149",
-      "url": "https://open.spotify.com/track/5Yldd3TzBRAnZIxssvGTHl"
+      "duration_ms": 264000,
+      "name": "\u65e9\u5b89\uff0c\u5348\u5b89\uff0c\u665a\u5b89 (feat. \u9673\u83ef )",
+      "url": "https://open.spotify.com/track/0khb2wGlrHas2y9BbEN325"
     },
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "\u6211\u7f8e\u4e0d\u7f8e\uff1f",
-        "url": "https://open.spotify.com/album/7tTQrvAFsXzfmyxeB19Um7"
+        "name": "\u8981\u53bb\u4ec0\u9ebc\u5730\u65b9",
+        "url": "https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT"
       },
       "artists": [
         {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
         }
       ],
-      "duration_ms": 109875,
-      "name": "\u6211\u7f8e\u4e0d\u7f8e\uff1f",
-      "url": "https://open.spotify.com/track/2SkiPljutkt9GwwRjmFcLq"
+      "duration_ms": 227746,
+      "name": "\u8981\u53bb\u4ec0\u9ebc\u5730\u65b9",
+      "url": "https://open.spotify.com/track/4azVNx8uhpnKezwrNhcvYz"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u672a\u5b8c\u6210\u7684\u95dc\u4fc2",
+        "url": "https://open.spotify.com/album/700UtwY97ixDyGBea5GQD8"
+      },
+      "artists": [
+        {
+          "name": "\u90ed\u5bb6\u744b",
+          "url": "https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X"
+        }
+      ],
+      "duration_ms": 219186,
+      "name": "\u7b49\u4f60\u7b49\u6211",
+      "url": "https://open.spotify.com/track/7DAfxIe4dYbg8EXWeuHC9j"
     },
     {
       "added_at": "2026-10-08 16:00:08",
@@ -775,38 +847,18 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "U:NFOLD",
-        "url": "https://open.spotify.com/album/17c9mW5MqLtBQudtLXgsya"
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
       },
       "artists": [
         {
-          "name": "U:NUS",
-          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 184796,
-      "name": "101",
-      "url": "https://open.spotify.com/track/6ceN4yL9T8Nt4Chw7VZE6h"
-    },
-    {
-      "added_at": "2026-10-08 16:00:08",
-      "album": {
-        "name": "98765 (feat. PIZZALI)",
-        "url": "https://open.spotify.com/album/5FomwAFIyt9lBRpFU4Qp88"
-      },
-      "artists": [
-        {
-          "name": "ANGIE\u5b89\u5409",
-          "url": "https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU"
-        },
-        {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "98765 (feat. PIZZALI)",
-      "url": "https://open.spotify.com/track/2x7g5M5grTQ088iTeRXiCd"
+      "duration_ms": 193356,
+      "name": "\u4e03\u6708\u7684\u6975\u5149",
+      "url": "https://open.spotify.com/track/5Yldd3TzBRAnZIxssvGTHl"
     },
     {
       "added_at": "2026-10-08 16:00:08",
@@ -827,18 +879,134 @@
     {
       "added_at": "2026-10-08 16:00:08",
       "album": {
-        "name": "i don't wanna be friends",
-        "url": "https://open.spotify.com/album/7ExQm1otwU7COqKrbpi7kn"
+        "name": "\u6211\u589c\u843d\u4f60\u81ea\u7531",
+        "url": "https://open.spotify.com/album/3R4kQKu9hP6kQyRUCyWMKQ"
       },
       "artists": [
         {
-          "name": "\u90b1\u92d2\u6fa4 Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+          "name": "Andrew Tan",
+          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
         }
       ],
-      "duration_ms": 208000,
-      "name": "i don't wanna be friends",
-      "url": "https://open.spotify.com/track/26lVLCkpUqionmb7R26jmf"
+      "duration_ms": 227625,
+      "name": "\u6211\u589c\u843d\u4f60\u81ea\u7531",
+      "url": "https://open.spotify.com/track/2NqWjIezRyoERdDH5hupfy"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u8ffd\u661f\u661f\u7684\u4eba",
+        "url": "https://open.spotify.com/album/4NKmOr3VUAsh9QxDJLgGV2"
+      },
+      "artists": [
+        {
+          "name": "\u7f85\u6587\u88d5",
+          "url": "https://open.spotify.com/artist/7oMkAwPOEfk2ETm9HX9Ruo"
+        },
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 250333,
+      "name": "\u8ffd\u661f\u661f\u7684\u4eba",
+      "url": "https://open.spotify.com/track/2MukFBijDRxpuZStoMb6Ei"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "\u53bb\u5e74\u4e0b\u7684\u90a3\u5834\u96ea",
+      "url": "https://open.spotify.com/track/5ZHoBTqDUm2M7DCuxnBTw5"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u701f\u7051\u8d70\u4e00\u56de",
+        "url": "https://open.spotify.com/album/4ouOYjKqAGv8wCSEZSH2r4"
+      },
+      "artists": [
+        {
+          "name": "\u694a\u57f9\u5b89",
+          "url": "https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1"
+        }
+      ],
+      "duration_ms": 223003,
+      "name": "\u701f\u7051\u8d70\u4e00\u56de",
+      "url": "https://open.spotify.com/track/3IQMRIeQjcUiVIVnghIDq9"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u865b\u83ef\u7684\u5922\u60f3\u662f\u4e00\u652f\u5200",
+        "url": "https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u5947\u658c",
+          "url": "https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D"
+        }
+      ],
+      "duration_ms": 252458,
+      "name": "\u7dbf\u7dbf\u7121\u7d55\u671f",
+      "url": "https://open.spotify.com/track/2s00UudzwUn1i16mO3zjVw"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u4e00\u500b\u4eba",
+        "url": "https://open.spotify.com/album/3GuEwEqnG9TilL1MDYmxlb"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 298322,
+      "name": "\u4e00\u500b\u4eba",
+      "url": "https://open.spotify.com/track/5Vxi8yyujUP3tw8hfR6abp"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u4ee5\u70ba\u4f60\u9084\u5728",
+        "url": "https://open.spotify.com/album/0yePOXoT2eHKfvDq86PvWd"
+      },
+      "artists": [
+        {
+          "name": "Xiao Yu",
+          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
+        }
+      ],
+      "duration_ms": 355333,
+      "name": "\u610f\u5916",
+      "url": "https://open.spotify.com/track/12NjuZvUglYrsDPYUSxSnM"
+    },
+    {
+      "added_at": "2026-10-08 16:00:08",
+      "album": {
+        "name": "\u96b1\u766e (\u5f71\u96c6\u300a\u90f5\u7968\u8207\u8212\u8299\u857e\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6VH4LNvAEFfswzrIuEAJJt"
+      },
+      "artists": [
+        {
+          "name": "KAXA",
+          "url": "https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG"
+        }
+      ],
+      "duration_ms": 209705,
+      "name": "\u96b1\u766e (\u5f71\u96c6\u300a\u90f5\u7968\u8207\u8212\u8299\u857e\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/2KSaDdRadbOLfvU3kWMPxy"
     }
   ],
   "unique_name": "\u9ad8\u4eba\u6c23MV",

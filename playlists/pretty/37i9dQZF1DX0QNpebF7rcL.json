@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Christone \"Kingfish\" Ingram",
-  "num_followers": 161188,
+  "num_followers": 161226,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAoV1S7ZZqnS5Q4FMh2x+829ZRU",
+  "snapshot_id": "AAAAAEcjsUCGX9VWk+2HIunJw6PgXKgq",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:37",
@@ -18,6 +18,18 @@
         {
           "name": "MudKings",
           "url": "https://open.spotify.com/artist/19CSupGlgbkAXTNNuEbuqU"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "G. Love",
+          "url": "https://open.spotify.com/artist/5AzPpEIGzbOSQ7GIn1v29V"
+        },
+        {
+          "name": "Robert Randolph",
+          "url": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx"
         }
       ],
       "duration_ms": 231068,

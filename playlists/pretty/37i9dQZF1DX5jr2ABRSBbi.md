@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,834 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,835 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Watch Me Win](https://open.spotify.com/track/1kBx8xQ8BfSkyFuCUrJ5Yi) | [Celeste Buckingham](https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8) | [Watch Me Win](https://open.spotify.com/album/0sjHp8W3pOUUFr5oqxKk4r) | 2:52 |
 | 50 | [Léto](https://open.spotify.com/track/68rls9GliaHcIipGlR6eX1) | [Tea Sofia](https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W) | [Léto](https://open.spotify.com/album/2EvEOuHGFIeYvEwxL7Yb6e) | 3:09 |
 
-Snapshot ID: `AAAAALCePnIbNo28S1kfdxvQjSym1c/b`
+Snapshot ID: `AAAAAPoaYGWThNvOBqsUritiS5gUOzNb`

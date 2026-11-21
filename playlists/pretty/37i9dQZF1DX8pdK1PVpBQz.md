@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Plumia
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,225 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,227 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Your Troubles Are Mine](https://open.spotify.com/track/5FxHXyvfnXBMclAg4AERaN) | [Lunic](https://open.spotify.com/artist/1PRbA3q3ty4Yjn5AcW9gwq) | [Your Troubles Are Mine](https://open.spotify.com/album/6Ystcg08oX5VP12trrqI8A) | 3:50 |
 | 100 | [Heritage](https://open.spotify.com/track/3lAoqxYM97WObBXKH5xZds) | [Chuey](https://open.spotify.com/artist/0OujLsGpqL8YZ43NGIa1Lm) | [Heritage](https://open.spotify.com/album/4DDgN4JKtGp9ibg6ZR7ZjN) | 2:24 |
 
-Snapshot ID: `AAAAAL4tAtuMxfZpaZ42uejgYLRstZds`
+Snapshot ID: `AAAAAP0WlidFh/k2xCVhYPpADBaiAJS4`

@@ -1,12 +1,12 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398812,
+  "num_followers": 398818,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJASrnXLDYs40Dg1gyr5zY8CzAb",
+  "snapshot_id": "AAAAAA+/DHocKPrZBpc1PSGZc2bYveZm",
   "tracks": [
     {
       "added_at": "2026-11-17 11:00:01",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Call Me When You Get In",
         "url": "https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM"
       },
@@ -247,6 +231,22 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
+        "name": "Nobody Lives Here",
+        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Heavy Hearts",
+      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
         "name": "It Feels Right",
         "url": "https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy"
       },
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
+      "duration_ms": 226813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Rent California",
-        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 243595,
-      "name": "Rent California",
-      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -403,6 +387,22 @@
       "duration_ms": 305640,
       "name": "Moondog",
       "url": "https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Rent California",
+        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 243595,
+      "name": "Rent California",
+      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Happier (Piano Version)",
-        "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 192823,
-      "name": "Happier - Piano Version",
-      "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Calling Out",
         "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 150904,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Happier (Piano Version)",
+        "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 192823,
+      "name": "Happier - Piano Version",
+      "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
-      },
-      "artists": [
-        {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
-        }
-      ],
-      "duration_ms": 208575,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 237545,
       "name": "Uncharted - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "duration_ms": 208575,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "I Wish It Was Me",
-        "url": "https://open.spotify.com/album/3YhWKkSuaPObtp05eAyM37"
-      },
-      "artists": [
-        {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
-        }
-      ],
-      "duration_ms": 241456,
-      "name": "I Wish It Was Me",
-      "url": "https://open.spotify.com/track/38OxCvP1WuCYg9W1V4461M"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 232082,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "I Wish It Was Me",
+        "url": "https://open.spotify.com/album/3YhWKkSuaPObtp05eAyM37"
+      },
+      "artists": [
+        {
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+        }
+      ],
+      "duration_ms": 241456,
+      "name": "I Wish It Was Me",
+      "url": "https://open.spotify.com/track/38OxCvP1WuCYg9W1V4461M"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 174130,
       "name": "everything is now",
       "url": "https://open.spotify.com/track/7xXrQgD8kkSYZAh7NIyGAf"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Redeeming Grace",
-        "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
-      },
-      "artists": [
-        {
-          "name": "SJ Hoffman",
-          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Afraid Of What You Might Find",
-      "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 222691,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Redeeming Grace",
+        "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
+      },
+      "artists": [
+        {
+          "name": "SJ Hoffman",
+          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Afraid Of What You Might Find",
+      "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Always Lost",
-        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
-      },
-      "artists": [
-        {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Always Lost",
-      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 186040,
       "name": "Lush",
       "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Always Lost",
+        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
+      },
+      "artists": [
+        {
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Always Lost",
+      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
     },
     {
       "added_at": "2026-11-17 11:00:01",

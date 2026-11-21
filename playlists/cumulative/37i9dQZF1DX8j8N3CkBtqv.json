@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Bombay the Artist, Accha Insaan, Sarodi and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Himonshu Parikh, OutStation, and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 190866,
       "name": "Ab Toh Tu",
       "url": "https://open.spotify.com/track/4UgZwamyyUCv5Gzl4xliSf"
@@ -2776,7 +2776,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 305379,
       "name": "Baarish Aati Hai",
       "url": "https://open.spotify.com/track/6fg5sgvPXE7PLISehD5EoC"
@@ -4031,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6KxgI0RIWtMyaHkEzNOJQw"
+      },
+      "artists": [
+        {
+          "name": "KL Pamei",
+          "url": "https://open.spotify.com/artist/10JY3GePCb2FoUtokVcMCT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194659,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0iAQjqbH3I2NgtdbBP7O70"
+    },
+    {
+      "album": {
         "name": "Beautiful Being",
         "url": "https://open.spotify.com/album/1vqUki8b880OxcUhhKXg56"
       },
@@ -5258,7 +5276,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 385846,
       "name": "Bol Ari",
       "url": "https://open.spotify.com/track/3ZHVmmcmGdsreproQsqEKp"
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 235636,
       "name": "Chaand Taare",
       "url": "https://open.spotify.com/track/1nInzDozug1NYuPNEac2sL"
@@ -8133,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "You Are Now Heading: OutStation",
+        "url": "https://open.spotify.com/album/7GEzMksMWApVPsga6vSiU1"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149819,
+      "name": "Dilhaara",
+      "url": "https://open.spotify.com/track/43RMan6JJampgJy3u7Dqjj"
+    },
+    {
+      "album": {
         "name": "Dilshad",
         "url": "https://open.spotify.com/album/1MnJL9weMtsPfxiCr0BXyq"
       },
@@ -10127,6 +10163,24 @@
     },
     {
       "album": {
+        "name": "Ghul Jaun",
+        "url": "https://open.spotify.com/album/3lLwVvdBeYlWSTT9t5ury0"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238809,
+      "name": "Ghul Jaun",
+      "url": "https://open.spotify.com/track/2FJ4xAxFM6pmd8UKImkulE"
+    },
+    {
+      "album": {
         "name": "Ghulaam",
         "url": "https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp"
       },
@@ -10938,7 +10992,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 178899,
       "name": "Halki Halki",
       "url": "https://open.spotify.com/track/20FVN0wtdqkyhGSIJjr4qz"
@@ -12386,7 +12440,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 260000,
       "name": "Iraada",
       "url": "https://open.spotify.com/track/1vtoDOyIB1CxhbhHgw83uu"
@@ -12586,7 +12640,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 160118,
       "name": "Ishqa",
       "url": "https://open.spotify.com/track/09cjvgZgcf41y9AeAnrLLU"
@@ -14166,7 +14220,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 174545,
       "name": "Jiya Mora",
       "url": "https://open.spotify.com/track/46K5Y7h6zigAt6rNGsBGCH"
@@ -14584,7 +14638,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 158446,
       "name": "Kaare Bhaware",
       "url": "https://open.spotify.com/track/6uNgMz4aJ04H3ZY2kcPOra"
@@ -18492,7 +18546,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 188062,
       "name": "Lakeerein",
       "url": "https://open.spotify.com/track/1NWlHkiZmo8MLoLjo6FnPK"
@@ -18980,7 +19034,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 190374,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/4YREh59w3UnAwAwUWnIWo0"
@@ -20998,7 +21052,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 256000,
       "name": "Mile Jo Sukoon",
       "url": "https://open.spotify.com/track/4r4oQiB8CEOqeGugFAC0qJ"
@@ -24033,6 +24087,24 @@
     },
     {
       "album": {
+        "name": "Parwah",
+        "url": "https://open.spotify.com/album/7sBMBdQ9cCzO12xu5XdgQ0"
+      },
+      "artists": [
+        {
+          "name": "Arijit Anand",
+          "url": "https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163677,
+      "name": "Parwah",
+      "url": "https://open.spotify.com/track/20Af8uVq7590WffZqcVaia"
+    },
+    {
+      "album": {
         "name": "Parwah Nahi",
         "url": "https://open.spotify.com/album/1OhMxKiiaMD9Un6P2DbWqB"
       },
@@ -26028,7 +26100,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Ribcage",
       "url": "https://open.spotify.com/track/5sDAKW3OQc84UMnrhuFVyO"
@@ -27796,7 +27868,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 198000,
       "name": "Sansein Kaha",
       "url": "https://open.spotify.com/track/04O5wfhFGsbYhywJN1TS2r"
@@ -32288,7 +32360,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 304166,
       "name": "Tu Koi Aur Hai",
       "url": "https://open.spotify.com/track/3LQqccXWKya2nHcCawVwxe"
@@ -33184,7 +33256,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 271112,
       "name": "Udd Chale",
       "url": "https://open.spotify.com/track/2jtdNa7D1xtwen2Y9awjTc"
@@ -33638,6 +33710,28 @@
       "duration_ms": 281842,
       "name": "Waqt",
       "url": "https://open.spotify.com/track/4j5AUPPkESdT13VjdKshrg"
+    },
+    {
+      "album": {
+        "name": "wastetime",
+        "url": "https://open.spotify.com/album/7zcNPV4Sq068SnUMQlTH9l"
+      },
+      "artists": [
+        {
+          "name": "Savera",
+          "url": "https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb"
+        },
+        {
+          "name": "Ajay Jayanthi",
+          "url": "https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "wastetime",
+      "url": "https://open.spotify.com/track/5MMdi15nRIRUvI8PvTP9Pr"
     },
     {
       "album": {
@@ -34274,7 +34368,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 217714,
       "name": "Yahan Pe Sirf Mai Hun",
       "url": "https://open.spotify.com/track/5Ozrr8yOw3BkS3EawFPFuK"

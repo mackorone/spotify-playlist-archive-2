@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Majis, Ciça
 
-830 songs - 1 day 19 hr 0 min
+831 songs - 1 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Ego Feio](https://open.spotify.com/track/7GkY8cria742BEJtC7peaG) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu) | [Ego Feio](https://open.spotify.com/album/5KaGeuZ9VbROftPun41nwP) | 3:10 | 2022-03-18 | 2022-12-03 |
 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 | 2023-06-23 | 2024-02-17 |
 | [Ela Cavuca Speedplug](https://open.spotify.com/track/62S8faVl5jRzJAmkZWMnIM) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ) | [Arsenal Bélico Speedplug](https://open.spotify.com/album/4b8XFOBwWC5CDscMgL72LP) | 1:13 | 2022-06-03 | 2022-06-11 |
+| [ELE OU EU](https://open.spotify.com/track/2JzR21cU3q1QPi3YTI98B4) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [ELE OU EU](https://open.spotify.com/album/0L5wTiV0WFcU0O8STViSVa) | 2:23 | 2026-11-20 |  |
 | [Elefante Branco](https://open.spotify.com/track/6WVkLXsniSvBnABtI0Iqn0) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Macena288](https://open.spotify.com/artist/1E1vrT6H75zBAZOHI9eWWr), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Elefante Branco](https://open.spotify.com/album/1aomVOkoNt3hzrQD0q7wbM) | 2:17 | 2023-04-14 | 2023-07-22 |
 | [Eles Falam de Ti](https://open.spotify.com/track/1K2kcqNfbSkrcwughQnnVM) | [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [patetacodigo43](https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk), [Escobar Gaviria](https://open.spotify.com/artist/40YcPKCssgBCtKd1H24QZa), [Brancco](https://open.spotify.com/artist/0EYiW2OzlKuLKYkYP1YE1w), [Dg](https://open.spotify.com/artist/7cTrr2oIMr5JGOxI80UWfi), [Perdidão](https://open.spotify.com/artist/4Ev4026OeakVjCOuEEwhp6) | [Eles Falam de Ti](https://open.spotify.com/album/3qnPl0DnzW5cyXnFfPVqa9) | 6:47 | 2022-09-23 | 2022-10-01 |
 | [Elóquio](https://open.spotify.com/track/06dSlUE4pHZGAoHU7DyDV8) | [URIEL\_S](https://open.spotify.com/artist/7IVRxby3zz6IWrMnkwu5pg), [DJPEJOTA](https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W) | [Elóquio](https://open.spotify.com/album/4ROB78bi7rHNgJT5kXTND5) | 3:21 | 2025-04-18 | 2025-04-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11593,
+  "num_followers": 11591,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExiWMisWOdNBqdwNa0yESc+BR4J",
+  "snapshot_id": "AAAAAOQNKFidqa47bC72CEziz5O3mNhE",
   "tracks": [
     {
       "added_at": "2026-04-09 22:12:46",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BIERZ TO NA WOLNO",
+        "url": "https://open.spotify.com/album/5brKAfr2gB7n3NHEmjLHvK"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "duration_ms": 213272,
+      "name": "BIERZ TO NA WOLNO",
+      "url": "https://open.spotify.com/track/36WITNXdHFk6LaSeS4fJJp"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Zwolnij?",
         "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BIERZ TO NA WOLNO",
-        "url": "https://open.spotify.com/album/5brKAfr2gB7n3NHEmjLHvK"
-      },
-      "artists": [
-        {
-          "name": "vkie",
-          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
-        }
-      ],
-      "duration_ms": 213272,
-      "name": "BIERZ TO NA WOLNO",
-      "url": "https://open.spotify.com/track/36WITNXdHFk6LaSeS4fJJp"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "BANGKOK2025",
+        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
+      },
+      "artists": [
+        {
+          "name": "Bardal",
+          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
+        },
+        {
+          "name": "r\u00f3w babicze",
+          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
+        }
+      ],
+      "duration_ms": 198865,
+      "name": "BANGKOK2025",
+      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Po\u0142\u0105czenia 2",
         "url": "https://open.spotify.com/album/2feprtPOCyMVM6HW7j3taF"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 166285,
       "name": "Ruchy",
       "url": "https://open.spotify.com/track/267Idgd3aoiep1efGLZIRC"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "BANGKOK2025",
-        "url": "https://open.spotify.com/album/7iDiOpE0IGEiCg2mLRI8mk"
-      },
-      "artists": [
-        {
-          "name": "Bardal",
-          "url": "https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR"
-        },
-        {
-          "name": "r\u00f3w babicze",
-          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
-        }
-      ],
-      "duration_ms": 198865,
-      "name": "BANGKOK2025",
-      "url": "https://open.spotify.com/track/5TlOTGWIYU8IBN6n0EmCVW"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Hot Chip, Beth Ditto
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,066 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,031 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Beatback](https://open.spotify.com/track/55mvDAlLzfTHRnGJwtt1x2) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:19 |
 | 75 | [All In For You \(feat\. KUČKA\)](https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [All In For You \(feat\. KUČKA\)](https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK) | 2:54 |
 
-Snapshot ID: `AAAAAPnlj6WbhOB4g9DbHFvlPHOz0yLQ`
+Snapshot ID: `AAAAAP3iDEjO2uFlgINyjF5X87Wli0UO`

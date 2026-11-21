@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > brand new indie songs in high rotation\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,899,352 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,899,201 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 49 | [Are You Willing](https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Are You Willing](https://open.spotify.com/album/6STKU0OmvS8oV6N2z3WjBG) | 3:50 |
 | 50 | [It's Not Easy \(Falling In Love\)](https://open.spotify.com/track/0C9GRYGgChsl5aHBxSEJoX) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [King of Having Fun](https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3) | 2:26 |
 
-Snapshot ID: `AAAAAOUrXYV0XHpNkGW/W5VEGnXW3t4m`
+Snapshot ID: `AAAAAMpmXG26v8S9MYmr/Pcz8+ho+2K1`

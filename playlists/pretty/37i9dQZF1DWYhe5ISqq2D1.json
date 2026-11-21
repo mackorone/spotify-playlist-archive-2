@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: tonun",
-  "num_followers": 65803,
+  "num_followers": 65827,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJmnXXq/IUy/sf47V3VpJ+oORKjj",
+  "snapshot_id": "AAAAANykvH5jlmrnW0mnTD/ZAeJ0zPPp",
   "tracks": [
     {
       "added_at": "2026-11-17 15:00:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
-        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
-        "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b - Spotify BLUE? It's Okay Ver.",
-      "url": "https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v"
-    },
-    {
-      "added_at": "2026-11-17 15:00:36",
-      "album": {
         "name": "last YOUNG",
         "url": "https://open.spotify.com/album/3RdiFpu4iqPdWoaLIp9seL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180571,
       "name": "\u6c17\u5206",
       "url": "https://open.spotify.com/track/1893MbwDhWZibLxau0K1xq"
+    },
+    {
+      "added_at": "2026-11-17 15:00:36",
+      "album": {
+        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
+        "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b - Spotify BLUE? It's Okay Ver.",
+      "url": "https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v"
     },
     {
       "added_at": "2026-11-17 15:00:36",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
-        "name": "\u30d6\u30e9\u30f3\u30c1\u306b\u30a2\u30a4\u30fb\u30df\u30b9\u30fb\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/5DOjR3RjYMEUhgG17IaI6v"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 226480,
-      "name": "\u30d6\u30e9\u30f3\u30c1\u306b\u30a2\u30a4\u30fb\u30df\u30b9\u30fb\u30e6\u30fc",
-      "url": "https://open.spotify.com/track/0A2NpjWOivf00MUawofaOS"
-    },
-    {
-      "added_at": "2026-11-17 15:00:36",
-      "album": {
         "name": "ONE (not lonely)",
         "url": "https://open.spotify.com/album/6WcBBzMbDLQJN01XTLNvuq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 193222,
       "name": "ONE (not lonely)",
       "url": "https://open.spotify.com/track/2P5IWgdG5u1VBiPnk1zauz"
+    },
+    {
+      "added_at": "2026-11-17 15:00:36",
+      "album": {
+        "name": "\u30d6\u30e9\u30f3\u30c1\u306b\u30a2\u30a4\u30fb\u30df\u30b9\u30fb\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/5DOjR3RjYMEUhgG17IaI6v"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "\u30d6\u30e9\u30f3\u30c1\u306b\u30a2\u30a4\u30fb\u30df\u30b9\u30fb\u30e6\u30fc",
+      "url": "https://open.spotify.com/track/0A2NpjWOivf00MUawofaOS"
     },
     {
       "added_at": "2026-11-17 15:00:36",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
+        "name": "RIZAN",
+        "url": "https://open.spotify.com/album/1gAle7CAcgecHGu1lp9IoK"
+      },
+      "artists": [
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "RIZAN",
+      "url": "https://open.spotify.com/track/2TjjFHtY1o6aLELPkPIqti"
+    },
+    {
+      "added_at": "2026-11-17 15:00:36",
+      "album": {
         "name": "abyss in the world",
         "url": "https://open.spotify.com/album/6p5nuvaCsrspKOkDsn3yPw"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 149960,
       "name": "F.A.C.E.",
       "url": "https://open.spotify.com/track/4O8lyvjoKzrkkEmKiMkv5Q"
-    },
-    {
-      "added_at": "2026-11-17 15:00:36",
-      "album": {
-        "name": "RIZAN",
-        "url": "https://open.spotify.com/album/1gAle7CAcgecHGu1lp9IoK"
-      },
-      "artists": [
-        {
-          "name": "Koshi Inaba",
-          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "RIZAN",
-      "url": "https://open.spotify.com/track/2TjjFHtY1o6aLELPkPIqti"
     },
     {
       "added_at": "2026-11-17 15:00:36",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
-        "name": "\u3060\u3063\u3066\u3055",
-        "url": "https://open.spotify.com/album/4waTxBv2CkZwFqSIkMS8o8"
-      },
-      "artists": [
-        {
-          "name": "syudou",
-          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "\u3060\u3063\u3066\u3055",
-      "url": "https://open.spotify.com/track/28zAuYW0pg0U6OrxGftQMj"
-    },
-    {
-      "added_at": "2026-11-17 15:00:36",
-      "album": {
         "name": "Mermaid",
         "url": "https://open.spotify.com/album/0pyLvKAdx8f1z9e2jn6IZw"
       },
@@ -1179,18 +1163,34 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
-        "name": "\u308f\u305f\u3057\u306e\u5e78\u305b\u306a\u7d50\u5a5a EP",
-        "url": "https://open.spotify.com/album/2qAnlGmxRnXXwqiGXDYKtA"
+        "name": "\u3060\u3063\u3066\u3055",
+        "url": "https://open.spotify.com/album/4waTxBv2CkZwFqSIkMS8o8"
       },
       "artists": [
         {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
         }
       ],
-      "duration_ms": 212705,
-      "name": "\u5e78\u305b\u3067\u6d99\u304c\u51fa\u308b\u306e\u306f\u3002",
-      "url": "https://open.spotify.com/track/5ejGLMzqvaK1diWirAoDeY"
+      "duration_ms": 193000,
+      "name": "\u3060\u3063\u3066\u3055",
+      "url": "https://open.spotify.com/track/28zAuYW0pg0U6OrxGftQMj"
+    },
+    {
+      "added_at": "2026-11-17 15:00:36",
+      "album": {
+        "name": "\u6843\u6e90\u90f7",
+        "url": "https://open.spotify.com/album/4ccysiboJvLpmL8v498Nik"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "\u6843\u6e90\u90f7",
+      "url": "https://open.spotify.com/track/2YMIfuGzpiQKAkCQkRyXm5"
     },
     {
       "added_at": "2026-11-17 15:00:36",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
-        "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
+        "name": "\u308f\u305f\u3057\u306e\u5e78\u305b\u306a\u7d50\u5a5a EP",
+        "url": "https://open.spotify.com/album/2qAnlGmxRnXXwqiGXDYKtA"
       },
       "artists": [
         {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
         }
       ],
-      "duration_ms": 217392,
-      "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
+      "duration_ms": 212705,
+      "name": "\u5e78\u305b\u3067\u6d99\u304c\u51fa\u308b\u306e\u306f\u3002",
+      "url": "https://open.spotify.com/track/5ejGLMzqvaK1diWirAoDeY"
     },
     {
       "added_at": "2026-11-17 15:00:36",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
-        "name": "\u6843\u6e90\u90f7",
-        "url": "https://open.spotify.com/album/4ccysiboJvLpmL8v498Nik"
+        "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
         }
       ],
-      "duration_ms": 178866,
-      "name": "\u6843\u6e90\u90f7",
-      "url": "https://open.spotify.com/track/2YMIfuGzpiQKAkCQkRyXm5"
+      "duration_ms": 217392,
+      "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk"
     },
     {
       "added_at": "2026-11-17 15:00:36",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
+        "name": "self-covers.",
+        "url": "https://open.spotify.com/album/1TvvM9upbrPzXA8BUxUcRk"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/0xMmTjWUggcKQ4YUwUbznx"
+    },
+    {
+      "added_at": "2026-11-17 15:00:36",
+      "album": {
         "name": "Hearts Glow",
         "url": "https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz"
-    },
-    {
-      "added_at": "2026-11-17 15:00:36",
-      "album": {
         "name": "\u611b\u3092\u304f\u3079\u307e\u3057\u3087\u3046",
         "url": "https://open.spotify.com/album/3kcPGM6JcjZ7ZwZUX4J0Vn"
       },
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-11-17 15:00:36",
       "album": {
-        "name": "self-covers.",
-        "url": "https://open.spotify.com/album/1TvvM9upbrPzXA8BUxUcRk"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej"
       },
       "artists": [
         {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 176400,
-      "name": "\u5922\u4e2d",
-      "url": "https://open.spotify.com/track/0xMmTjWUggcKQ4YUwUbznx"
+      "duration_ms": 205186,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz"
     },
     {
       "added_at": "2026-11-17 15:00:36",

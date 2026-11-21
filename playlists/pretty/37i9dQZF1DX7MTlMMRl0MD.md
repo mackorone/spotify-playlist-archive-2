@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Romeo Santos & Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,786,358 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,786,159 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 49 | [Cita](https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Cita](https://open.spotify.com/album/3ttKofk4OSgzyNzvAgHeSo) | 3:28 |
 | 50 | [Sin Gravedad](https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP) | [Sin Gravedad](https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6) | 2:56 |
 
-Snapshot ID: `AAAAAAxftozxrVHRhutjTRaE5PZPiXeX`
+Snapshot ID: `AAAAABHL/G21esTD2kFvbXlIIGNffWEU`

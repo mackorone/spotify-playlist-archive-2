@@ -1,12 +1,12 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 112210,
+  "num_followers": 112219,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdTtTfgUq7Hr6+S5fVcnu82bLUU",
+  "snapshot_id": "AAAAAAsH+7ET1dm16SwoPaUOQ+nvQa3c",
   "tracks": [
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Boot",
         "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
       },
@@ -1335,18 +1351,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
       },
       "artists": [
         {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
         }
       ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
+      "duration_ms": 184400,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1383,30 +1407,6 @@
       "duration_ms": 248823,
       "name": "Paper Zien - Remix",
       "url": "https://open.spotify.com/track/1YnCInissFkmQTfZv3k2mT"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
-      },
-      "artists": [
-        {
-          "name": "Priceless",
-          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Op en Neer",
+        "url": "https://open.spotify.com/album/2K2Jya77c2tHXPMRNuT8bl"
+      },
+      "artists": [
+        {
+          "name": "Two Crooks",
+          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
+        },
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        }
+      ],
+      "duration_ms": 187470,
+      "name": "Op en Neer",
+      "url": "https://open.spotify.com/track/6ASXDkfwJWkwfIUvXVXP5s"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "IDALY",
         "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 218753,
       "name": "fallin'",
       "url": "https://open.spotify.com/track/7dzeJHnEApWzQwm0akBxye"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Op en Neer",
-        "url": "https://open.spotify.com/album/2K2Jya77c2tHXPMRNuT8bl"
-      },
-      "artists": [
-        {
-          "name": "Two Crooks",
-          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
-        },
-        {
-          "name": "F1rstman",
-          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
-        }
-      ],
-      "duration_ms": 187470,
-      "name": "Op en Neer",
-      "url": "https://open.spotify.com/track/6ASXDkfwJWkwfIUvXVXP5s"
     },
     {
       "added_at": "2024-07-19 06:38:33",

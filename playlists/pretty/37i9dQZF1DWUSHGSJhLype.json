@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Z\u00e9 Felipe, Felipe Amorim",
-  "num_followers": 766269,
+  "num_followers": 766328,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA8SY3GMyEUu6T38/rHGkGdGz+Sz",
+  "snapshot_id": "AAAAAAmE5B/8v244swIlAcyHEhe6eqaz",
   "tracks": [
     {
       "added_at": "2026-11-20 03:01:02",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-11-20 03:01:02",
       "album": {
+        "name": "5 Letras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2n2rkUusoJrLQkawfBNs7G"
+      },
+      "artists": [
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "5 Letras - Ao Vivo",
+      "url": "https://open.spotify.com/track/5dWKCieYjorGiDPrjIvTXv"
+    },
+    {
+      "added_at": "2026-11-20 03:01:02",
+      "album": {
         "name": "Traidor",
         "url": "https://open.spotify.com/album/5S4YtBmGC3LGBIYKMZJCEN"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 199387,
       "name": "Traidor",
       "url": "https://open.spotify.com/track/6gjqPHut0PC4OS2VJWgDtB"
-    },
-    {
-      "added_at": "2026-11-20 03:01:02",
-      "album": {
-        "name": "5 Letras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2n2rkUusoJrLQkawfBNs7G"
-      },
-      "artists": [
-        {
-          "name": "Kamisa 10",
-          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "5 Letras - Ao Vivo",
-      "url": "https://open.spotify.com/track/5dWKCieYjorGiDPrjIvTXv"
     },
     {
       "added_at": "2026-11-20 03:01:02",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-11-20 03:01:02",
       "album": {
-        "name": "N\u00e3o Vou Te Bloquear",
-        "url": "https://open.spotify.com/album/6IZebaqHqHmeL0uoapPQQB"
-      },
-      "artists": [
-        {
-          "name": "Som de Faculdade",
-          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 144642,
-      "name": "N\u00e3o Vou Te Bloquear",
-      "url": "https://open.spotify.com/track/6DocVKVk9h2TXdd1gdpfjK"
-    },
-    {
-      "added_at": "2026-11-20 03:01:02",
-      "album": {
         "name": "Resenha dos Amigos 2.0 ( Especial )",
         "url": "https://open.spotify.com/album/2C9dlY2KoeQhFNoaKCQoAi"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 255758,
       "name": "Resenha dos Amigos 2.0 ( Especial )",
       "url": "https://open.spotify.com/track/7wW8HwFnKatnDBIFmbOLc5"
+    },
+    {
+      "added_at": "2026-11-20 03:01:02",
+      "album": {
+        "name": "N\u00e3o Vou Te Bloquear",
+        "url": "https://open.spotify.com/album/6IZebaqHqHmeL0uoapPQQB"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 144642,
+      "name": "N\u00e3o Vou Te Bloquear",
+      "url": "https://open.spotify.com/track/6DocVKVk9h2TXdd1gdpfjK"
     },
     {
       "added_at": "2026-11-20 03:01:02",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-11-20 03:01:02",
       "album": {
+        "name": "Cont\u00e1gio",
+        "url": "https://open.spotify.com/album/4KnEviHskXTMD7jEmXPwsQ"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 158197,
+      "name": "FREQUENCIA DO PAREDAO",
+      "url": "https://open.spotify.com/track/0ecohKlsV2UhUzuIWi8sis"
+    },
+    {
+      "added_at": "2026-11-20 03:01:02",
+      "album": {
         "name": "Tubar\u00f5es (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2026-11-20 03:01:02",
       "album": {
-        "name": "Cont\u00e1gio",
-        "url": "https://open.spotify.com/album/4KnEviHskXTMD7jEmXPwsQ"
+        "name": "Na Manha",
+        "url": "https://open.spotify.com/album/5VWqu3zetGSOS1xx7ceclH"
       },
       "artists": [
         {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
         }
       ],
-      "duration_ms": 158197,
-      "name": "FREQUENCIA DO PAREDAO",
-      "url": "https://open.spotify.com/track/0ecohKlsV2UhUzuIWi8sis"
+      "duration_ms": 151846,
+      "name": "Obediente",
+      "url": "https://open.spotify.com/track/5wdUd8sx9XVDe6Z0lGPIV4"
     },
     {
       "added_at": "2026-11-20 03:01:02",
@@ -1183,22 +1199,6 @@
       "duration_ms": 98409,
       "name": "Salgadinha",
       "url": "https://open.spotify.com/track/3POnZy4X7OpeVqhFbCiZVd"
-    },
-    {
-      "added_at": "2026-11-20 03:01:02",
-      "album": {
-        "name": "Na Manha",
-        "url": "https://open.spotify.com/album/5VWqu3zetGSOS1xx7ceclH"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 151846,
-      "name": "Obediente",
-      "url": "https://open.spotify.com/track/5wdUd8sx9XVDe6Z0lGPIV4"
     },
     {
       "added_at": "2026-11-20 03:01:02",

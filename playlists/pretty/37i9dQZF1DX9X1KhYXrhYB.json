@@ -1,13 +1,81 @@
 {
   "description": "Secrets will be spilled. Listen to the music from Yellowjackets, now streaming on Paramount+.",
-  "num_followers": 183755,
+  "num_followers": 183883,
   "original_name": "Yellowjackets Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACR/pCy2W7xMHJXECnywd7+naZMa",
+  "snapshot_id": "AAAAABgNG5yGe9S/hugUrWr4BfKOLztq",
   "tracks": [
+    {
+      "added_at": "2026-11-21 05:00:18",
+      "album": {
+        "name": "Feed Someone (Original Song From The TV Series Yellowjackets)",
+        "url": "https://open.spotify.com/album/3FdxDNnvJ08AT7S0ehOkH0"
+      },
+      "artists": [
+        {
+          "name": "Craig Wedren",
+          "url": "https://open.spotify.com/artist/4GPehFTPUP3j8J8ULlpqWh"
+        },
+        {
+          "name": "Anna Waronker",
+          "url": "https://open.spotify.com/artist/4TAV6oFZ5ARdlybbpFAFri"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Feed Someone (Original Song From The TV Series Yellowjackets)",
+      "url": "https://open.spotify.com/track/3rCSnNwUDkJlxjqBM8aqVd"
+    },
+    {
+      "added_at": "2026-11-20 08:00:04",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi"
+      },
+      "artists": [
+        {
+          "name": "The Verve Pipe",
+          "url": "https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "The Freshmen",
+      "url": "https://open.spotify.com/track/21jEuMn2lf37715rwjow2M"
+    },
+    {
+      "added_at": "2026-11-20 08:00:04",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 306066,
+      "name": "Where Did You Sleep Last Night - Live",
+      "url": "https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht"
+    },
+    {
+      "added_at": "2026-11-20 08:00:04",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
     {
       "added_at": "2025-04-14 19:55:46",
       "album": {

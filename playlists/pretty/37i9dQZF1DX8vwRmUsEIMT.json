@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Gracie Abrams",
-  "num_followers": 613986,
+  "num_followers": 614429,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMjwOwqmUhhztT70QmFmn7ij5xAK",
+  "snapshot_id": "AAAAAJls6rowdnPG02mL13vwkXy8fhry",
   "tracks": [
     {
       "added_at": "2026-11-20 00:00:51",
@@ -24,7 +24,7 @@
           "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
@@ -286,6 +286,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "duration_ms": 182000,

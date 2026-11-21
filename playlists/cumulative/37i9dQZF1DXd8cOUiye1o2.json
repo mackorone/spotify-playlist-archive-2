@@ -2268,6 +2268,10 @@
         {
           "name": "Kanishk Seth",
           "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Rishab Sharma",
+          "url": "https://open.spotify.com/artist/6uxjLM4DNZAr4xCekVvjw2"
         }
       ],
       "date_added": "2026-11-20",
@@ -11655,6 +11659,32 @@
     },
     {
       "album": {
+        "name": "Jaadugari (From \"Jaadugari\")",
+        "url": "https://open.spotify.com/album/0CAIYslcjDUzUWa0NEgbZD"
+      },
+      "artists": [
+        {
+          "name": "Neil-Niraj",
+          "url": "https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug"
+        },
+        {
+          "name": "Sashank Pandey",
+          "url": "https://open.spotify.com/artist/0AxPw2Gb9C0xda1QZPkHmo"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/71QztOFyxNGiAxtS4yyJwS"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170727,
+      "name": "Jaadugari (From \"Jaadugari\")",
+      "url": "https://open.spotify.com/track/32D66JyWNbL8BDdhUqmXJw"
+    },
+    {
+      "album": {
         "name": "Jaan lutaaun",
         "url": "https://open.spotify.com/album/7zRTeFOgQlGQNK5xBTXBIS"
       },
@@ -12132,7 +12162,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 224117,
       "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
       "url": "https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r"
@@ -16572,7 +16602,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 221049,
       "name": "Main Ram (From \"Ramayana\")",
       "url": "https://open.spotify.com/track/4V3QFX0K1nK2ylf6X4yyFI"
@@ -19242,6 +19272,32 @@
       "duration_ms": 182053,
       "name": "Nazm",
       "url": "https://open.spotify.com/track/3ap7ZFUHQeo9cQCnTVkolA"
+    },
+    {
+      "album": {
+        "name": "Nazr-E-Karam (From \"Between Distances\")",
+        "url": "https://open.spotify.com/album/3O5KyDnZvjgsHncB943x8H"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237060,
+      "name": "Nazr-E-Karam (From \"Between Distances\")",
+      "url": "https://open.spotify.com/track/5n1z4byTO4NyGCMipY1zeq"
     },
     {
       "album": {

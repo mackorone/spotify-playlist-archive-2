@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: LEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,608 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,596 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
 | 50 | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT) | 2:45 |
 
-Snapshot ID: `AAAAAHY07TDYmU8VjbivCUrtxwxNmvA8`
+Snapshot ID: `AAAAAB5PqhoAtRKcMt/j/WPghBMMHJ4k`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258,932 likes - 375 songs - 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,259,196 likes - 375 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,4 +384,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 374 | [Somnolent](https://open.spotify.com/track/5Hw093U6aIyJ3C2vHtDzNG) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Somnolent](https://open.spotify.com/album/5mUUqSLBmKYgElI4Lvd9ke) | 2:14 |
 | 375 | [Night Sky](https://open.spotify.com/track/2f8bLu27GTqcdq6jcP5NG6) | [Cumulus Sea](https://open.spotify.com/artist/0atHhR2rLh959TuWQBjgGf) | [Night Sky](https://open.spotify.com/album/14uqdUGmwPAFz9kWvaULUX) | 2:41 |
 
-Snapshot ID: `AAAAAAp2mPEitqLcjCj5WgvsHxRAP65a`
+Snapshot ID: `AAAAADZ1YiOwle3k9G0UeNku8QLV0XGn`

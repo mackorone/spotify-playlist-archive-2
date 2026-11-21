@@ -6436,7 +6436,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 187058,
       "name": "FRANKENSTEIN",
       "url": "https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk"
@@ -8860,7 +8860,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 180453,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL"
@@ -12584,6 +12584,24 @@
       "duration_ms": 183595,
       "name": "Me to You",
       "url": "https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v"
+    },
+    {
+      "album": {
+        "name": "Me, myself and I",
+        "url": "https://open.spotify.com/album/5We74rgkbzaokVKhBT0fll"
+      },
+      "artists": [
+        {
+          "name": "Leyla Sabo",
+          "url": "https://open.spotify.com/artist/2q5r36O9E3LiI3tu0eVtGy"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Me, myself and I",
+      "url": "https://open.spotify.com/track/5HsJa1eoK3PW1nxoZqAiH0"
     },
     {
       "album": {
@@ -16798,6 +16816,24 @@
       "duration_ms": 188310,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc"
+    },
+    {
+      "album": {
+        "name": "Slip Knot",
+        "url": "https://open.spotify.com/album/0BwFjrDaxQGwfF1XAT9nAt"
+      },
+      "artists": [
+        {
+          "name": "Syd Hudson",
+          "url": "https://open.spotify.com/artist/0RQfr3D9JzuXGAak4PLYUR"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178431,
+      "name": "Slip Knot",
+      "url": "https://open.spotify.com/track/2hmobee62KB9XJUH6rtE2f"
     },
     {
       "album": {

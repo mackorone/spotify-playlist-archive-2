@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,285 likes - 99 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,290 likes - 99 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 98 | [Back to Strange](https://open.spotify.com/track/0Q5RwM0XUjY4Y3HJ7LumyY) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Yada Yada](https://open.spotify.com/album/7AXG51Dt0jN5dtBeNghFg9) | 3:47 |
 | 99 | [\(Seasons Repeating\)](https://open.spotify.com/track/6T25laGz84yJRSkWQw2hpz) | [Liam Snowy Halliwell](https://open.spotify.com/artist/2NbyAAyubfpDrA3b27j8wM) | [Pure Joy](https://open.spotify.com/album/5XxGF3EpHwICAFHVXrJqz6) | 2:50 |
 
-Snapshot ID: `AAAAAJKKLCrFE6n8DXHKDzCXnYxucPOh`
+Snapshot ID: `AAAAAMCpDWd7Ol1LsiN4t93K1P/GqDnL`

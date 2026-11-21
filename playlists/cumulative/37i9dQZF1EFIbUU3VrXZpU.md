@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-450 songs - 1 day 4 hr 54 min
+451 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [I Care 4 U](https://open.spotify.com/track/0H8yfdXNIpNI6rqJxWmLS1) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s) | 4:33 | 2023-12-30 | 2024-09-27 |
 | [I Care 4 U](https://open.spotify.com/track/0oMChsRUQFiTrpOMLu1VvL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/1ftUEfy0whqUibQrUY6wNT) | 4:33 | 2025-05-31 |  |
 | [I Care 4 U](https://open.spotify.com/track/6BEJNy487RrZXGjYrEpipE) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/5eHseOO2Hm8ryJCZTtbp01) | 4:33 | 2024-09-26 | 2025-06-01 |
+| [I Choose Me](https://open.spotify.com/track/2JRr0duRlPI7FylbChiUJ7) | [Maithili Raelle](https://open.spotify.com/artist/5R0tPXrFHERm5RJNgnupXt), [Hiii Siddity](https://open.spotify.com/artist/2JL5oGZsW5lRhgMgTKsN0x) | [I Choose Me](https://open.spotify.com/album/7kJsbZCipdL5ZwprfdeumN) | 2:52 | 2026-11-20 |  |
 | [I Deserve It \- feat\. Missy Elliott & Sharaya J](https://open.spotify.com/track/1akcf0biQHTd7BZVczZulh) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Sharaya J](https://open.spotify.com/artist/6Z4puj0KYgtcxJrVXKmvBX) | [Incomparable](https://open.spotify.com/album/1Gv2zeEquGOoPSbWjEeQSN) | 3:40 | 2023-12-30 |  |
 | [I Don't Mind](https://open.spotify.com/track/0sZavMCVT0sW7rHAMwpjNW) | [Sista](https://open.spotify.com/artist/5WiIeeO0KE7GBxAACGcYIT) | [4 All The Sistas Around Da World](https://open.spotify.com/album/4DudlpBIcY12s3bML4fw7j) | 3:33 | 2024-01-12 |  |
 | [I Don't Wanna](https://open.spotify.com/track/04A6S8TecJ3YiFznLIdKbN) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 5:03 | 2023-12-30 |  |

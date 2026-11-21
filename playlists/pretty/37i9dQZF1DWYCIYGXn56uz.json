@@ -1,12 +1,12 @@
 {
   "description": "solo le tracce con l'aura migliore \ud83d\udc7e Will in cover",
-  "num_followers": 455822,
+  "num_followers": 455809,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADEt4v3w8M2ASDFWZ1FdcXYY3AwX",
+  "snapshot_id": "AAAAAJYK/fr0NWD4YkhaiwwWQfgPQFew",
   "tracks": [
     {
       "added_at": "2026-11-19 23:03:09",
@@ -86,10 +86,14 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
       "duration_ms": 193040,
-      "name": "Moonlight",
+      "name": "Moonlight (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS"
     },
     {
@@ -234,10 +238,14 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
         }
       ],
       "duration_ms": 220167,
-      "name": "Comethe",
+      "name": "Comethe (feat. Pyrex)",
       "url": "https://open.spotify.com/track/5bvSqGqxO5IfvJ08nosESC"
     },
     {

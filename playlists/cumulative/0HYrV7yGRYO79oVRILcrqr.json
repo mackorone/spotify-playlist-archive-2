@@ -4775,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3iBeSLP4QaWBwU3HDgPyTh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Pineda",
+          "url": "https://open.spotify.com/artist/23JZjioAkdchmnfIQfFzS0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Fire & Ice",
+      "url": "https://open.spotify.com/track/3qw4dbF1uRMAgbqzGzGpGL"
+    },
+    {
+      "album": {
         "name": "Fire on the Loose",
         "url": "https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5"
       },
@@ -6396,6 +6414,24 @@
       "duration_ms": 306565,
       "name": "I Have No Fear",
       "url": "https://open.spotify.com/track/4XccGq2EBT76YuZBltTEdr"
+    },
+    {
+      "album": {
+        "name": "I Just Saw Santa Walk In",
+        "url": "https://open.spotify.com/album/2Lyh20uJ9MqqI3RNXAQjF8"
+      },
+      "artists": [
+        {
+          "name": "John Allen Kipta",
+          "url": "https://open.spotify.com/artist/6VMENRR0HKdBPQrihvsCB4"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "I Just Saw Santa Walk In",
+      "url": "https://open.spotify.com/track/0lbFlrlcZ6GQjxEoBhaL21"
     },
     {
       "album": {
@@ -14766,6 +14802,24 @@
       "duration_ms": 190399,
       "name": "Tugo moja",
       "url": "https://open.spotify.com/track/4tEfv3mo0KqTO2BdYN9kQx"
+    },
+    {
+      "album": {
+        "name": "Turkey Tales",
+        "url": "https://open.spotify.com/album/1BB5adKykgkFxALcqKONgP"
+      },
+      "artists": [
+        {
+          "name": "Abigail Rich",
+          "url": "https://open.spotify.com/artist/5vDhUjPO4w8nPPUPQIVs0A"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348013,
+      "name": "Turkey Tales",
+      "url": "https://open.spotify.com/track/3LJ2eJKHPna1hooFPhcdpD"
     },
     {
       "album": {

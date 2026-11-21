@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Dua Lipa, Lana Del Rey, Justice, LISA and more!",
-  "num_followers": 175819,
+  "num_followers": 176105,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0XruKvfPZWj4GAXJGpPrO2aBYO",
+  "snapshot_id": "AAAAAJqUMgmiCUajgz8pnJpQgVBD4ayv",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:28",
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },
@@ -230,6 +230,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "duration_ms": 182000,
@@ -947,6 +951,22 @@
     {
       "added_at": "2026-11-20 05:00:28",
       "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/25h8LIMoPhLF8f5kT2BuIk"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 189890,
+      "name": "SAY IT TO MY FACE",
+      "url": "https://open.spotify.com/track/3hKmy6Y5qzkx7xqA3u4tC6"
+    },
+    {
+      "added_at": "2026-11-20 05:00:28",
+      "album": {
         "name": "Muli\u300c \u541b \u304c \u3044\u3044 \u300d",
         "url": "https://open.spotify.com/album/4V3oB385h7vOmB4r9tqGgq"
       },
@@ -1013,7 +1033,7 @@
         },
         {
           "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/23Ly8tnuRv2e7KxZ33eoNV"
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
         }
       ],
       "duration_ms": 163608,

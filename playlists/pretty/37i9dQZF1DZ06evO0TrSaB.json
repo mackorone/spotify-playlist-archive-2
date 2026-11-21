@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAACMZRZ9U33MRbvgT/GzUZ/H",
+  "snapshot_id": "av48AAAAAACEEdWWYy+ieV0dzh0ywrBt",
   "tracks": [
     {
       "added_at": null,
@@ -199,42 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anniversary (A Cappella)",
-        "url": "https://open.spotify.com/album/2caHF1IoGDMIvLkkDvCPKM"
+        "name": "Illustrations",
+        "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
       },
       "artists": [
         {
-          "name": "JABARI",
-          "url": "https://open.spotify.com/artist/0ArKaAfRkhLdJUDNinDKFb"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "KELS",
-          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
-        },
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        },
-        {
-          "name": "Amanda Adams",
-          "url": "https://open.spotify.com/artist/2bzplmaKUHpSx3jzL4CPH7"
         }
       ],
-      "duration_ms": 147375,
-      "name": "Anniversary - A Cappella",
-      "url": "https://open.spotify.com/track/4x2V5wl5swFlqyxOWDLIWv"
+      "duration_ms": 174700,
+      "name": "When We Jump",
+      "url": "https://open.spotify.com/track/5YNYX1iBbTXfbFDZLrPXEU"
     },
     {
       "added_at": null,
@@ -271,18 +247,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illustrations",
-        "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
+        "name": "Anniversary (A Cappella)",
+        "url": "https://open.spotify.com/album/2caHF1IoGDMIvLkkDvCPKM"
       },
       "artists": [
         {
+          "name": "JABARI",
+          "url": "https://open.spotify.com/artist/0ArKaAfRkhLdJUDNinDKFb"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        },
+        {
+          "name": "Amanda Adams",
+          "url": "https://open.spotify.com/artist/2bzplmaKUHpSx3jzL4CPH7"
         }
       ],
-      "duration_ms": 174700,
-      "name": "When We Jump",
-      "url": "https://open.spotify.com/track/5YNYX1iBbTXfbFDZLrPXEU"
+      "duration_ms": 147375,
+      "name": "Anniversary - A Cappella",
+      "url": "https://open.spotify.com/track/4x2V5wl5swFlqyxOWDLIWv"
     },
     {
       "added_at": null,

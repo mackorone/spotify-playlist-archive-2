@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Sfera Ebbasta, FreshMula, Enny P, Saintpaul e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,387 likes - 105 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,403 likes - 105 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [800 cv](https://open.spotify.com/track/5enru95abMUdvoZGqaWqjL) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:20 |
 | 2 | [LIBERI O SCHIAVI ?](https://open.spotify.com/track/1QDR41836derMYCdviaJvD) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe) | [LIBERI O SCHIAVI ?](https://open.spotify.com/album/5bTAcFkDUbmgCWFctwcq8r) | 2:45 |
 | 3 | [Ratchet O'Clock \(feat\. Artie 5ive\)](https://open.spotify.com/track/1AIcBmq48VdyRlt4xi3Q9y) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [IT'S ENNY P](https://open.spotify.com/album/1SZrdYIsQmzUzLYn1carhd) | 2:38 |
-| 4 | [Victory Lap](https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:31 |
+| 4 | [Victory Lap \(feat\. Shiva, Geolier\)](https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:31 |
 | 5 | [Anche se](https://open.spotify.com/track/6fvFnpCAxqt0Jp9QFAH08S) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Anche se](https://open.spotify.com/album/3kGnn31uihfpfDT8hcFHfs) | 3:04 |
 | 6 | [Non mi do un Attimo](https://open.spotify.com/track/166jxYDoOazrArHgjYtaUX) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [N'](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [Non mi do un Attimo](https://open.spotify.com/album/0yMY8NmBMROXLxNqFTvzA7) | 2:42 |
 | 7 | [Purosangue](https://open.spotify.com/track/2PGcxFm284PpdW3xAbxt1h) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:48 |
 | 8 | [TEGOLA](https://open.spotify.com/track/1rk7o2wBuhZA7Kohj5yJ6f) | [Zizzu](https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v) | [TEGOLA](https://open.spotify.com/album/2WRYNDOKRNWjFXNbkmFLmG) | 2:49 |
 | 9 | [BABYMILANO](https://open.spotify.com/track/0iwsAo3Ftd7teFrP8Dv0K1) | [IDRA Rxx](https://open.spotify.com/artist/21FDbAp2h7kwmaQ8yr4D1s) | [La Locandiera](https://open.spotify.com/album/3anOgOQwYREg6cFqQ5lm7f) | 2:38 |
-| 10 | [Moonlight](https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:13 |
+| 10 | [Moonlight \(feat\. Tony Boy\)](https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:13 |
 | 11 | [Bam \(feat\. Guè\)](https://open.spotify.com/track/4T2UPmFSKkUpWf7cuo5coE) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [La Città Che Non Dorme](https://open.spotify.com/album/6J8AM3yEW1MOK8LQYzG2Sd) | 2:42 |
 | 12 | [Ciao Amore \(feat\. Ernia & mew\)](https://open.spotify.com/track/1QYiDVzKDRXZkyg6CfrREF) | [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [Ciao Amore \(feat\. Ernia & mew\)](https://open.spotify.com/album/690UeUabkbLCum4pC3AEbz) | 3:27 |
 | 13 | [BASTARDI DI MILANO \(con Jake La Furia\)](https://open.spotify.com/track/2OAkvYpw6FwqvolUEyi0gz) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [A MILANO](https://open.spotify.com/album/4VQ0ykItmYbSy9TPOYIfAt) | 2:37 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 104 | [Di te non mi fido](https://open.spotify.com/track/1yByjDmc9EI22tc73hxprU) | [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx), [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE) | [Di te non mi fido](https://open.spotify.com/album/47XhoUiuijDLazD0dMftru) | 2:16 |
 | 105 | [Carogne](https://open.spotify.com/track/7cc21wZFkw7qGbZKB0em7G) | [XVI Religion](https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT) | [UNDERGROUND](https://open.spotify.com/album/4eGoN0p3WHH88IYdRhNHwj) | 2:53 |
 
-Snapshot ID: `AAAAAK4+juCyOKAhbApaEB1cPD7K/tm5`
+Snapshot ID: `AAAAAFa5V1Uvc/AOIsbhahC/3wWHaujL`

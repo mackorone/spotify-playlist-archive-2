@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: BAN ESTIN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,662 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,675 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [I Like You](https://open.spotify.com/track/1jOak5evUCcD9YQqzi3Hkd) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [I Like You](https://open.spotify.com/album/44HkHTwWNpy6GQNRbCMUmn) | 2:38 |
 | 50 | [HATE](https://open.spotify.com/track/1278Ufm0ord3EY1Kmwj9Gs) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [HATE](https://open.spotify.com/album/0jUfuFRVWVwptdpGlOm3I5) | 3:13 |
 
-Snapshot ID: `AAAAAGw966ZUfyLd0q0DMGG/92f4vw8l`
+Snapshot ID: `AAAAAPEMTqrzELNNzLm+68lyMfEGRedG`

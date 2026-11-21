@@ -11243,6 +11243,24 @@
     },
     {
       "album": {
+        "name": "can we be friends?",
+        "url": "https://open.spotify.com/album/3UKWGrwTjo8DF0Vo1MVyRw"
+      },
+      "artists": [
+        {
+          "name": "Veronica",
+          "url": "https://open.spotify.com/artist/6u7k7tbT583IHziqzFAC8j"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161493,
+      "name": "can we be friends?",
+      "url": "https://open.spotify.com/track/0DTYSTfFCLOaRLFcMYQwC9"
+    },
+    {
+      "album": {
         "name": "CAN'T TELL ME NOTHING",
         "url": "https://open.spotify.com/album/7jv2CuoOPH30iKKgWv367J"
       },

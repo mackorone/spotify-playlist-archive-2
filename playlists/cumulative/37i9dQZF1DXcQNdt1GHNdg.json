@@ -501,6 +501,32 @@
     },
     {
       "album": {
+        "name": "500G's",
+        "url": "https://open.spotify.com/album/2ODW0I5aVl2pK4ukV33ce1"
+      },
+      "artists": [
+        {
+          "name": "GAGG E",
+          "url": "https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R"
+        },
+        {
+          "name": "Glixzy",
+          "url": "https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y"
+        },
+        {
+          "name": "Numbgod",
+          "url": "https://open.spotify.com/artist/2pRlsbIdL2gTiSwdxzGnuY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "500G's",
+      "url": "https://open.spotify.com/track/0xLfQV95txd3qqldD8vZt7"
+    },
+    {
+      "album": {
         "name": "dnd",
         "url": "https://open.spotify.com/album/44fqkzaV0q6XLan7MXf2fL"
       },
@@ -5148,7 +5174,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 189092,
       "name": "Maidaan",
       "url": "https://open.spotify.com/track/61IEHbFUlRnZ8qR2qxaP1S"
@@ -7881,6 +7907,28 @@
     },
     {
       "album": {
+        "name": "Try Harder",
+        "url": "https://open.spotify.com/album/0U4wUgZIHQjiEfMF1LsG4h"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        },
+        {
+          "name": "Meavin",
+          "url": "https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Try Harder",
+      "url": "https://open.spotify.com/track/0weYjx3JENQPvgNbtJfTUi"
+    },
+    {
+      "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
       },
@@ -8050,7 +8098,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 140136,
       "name": "VIP",
       "url": "https://open.spotify.com/track/4j6N1xpfJRfu7N0FXXsq55"

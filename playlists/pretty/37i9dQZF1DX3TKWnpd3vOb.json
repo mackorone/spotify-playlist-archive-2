@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Fother Muckers",
-  "num_followers": 179939,
+  "num_followers": 179903,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFmTj/icLdihKZnXD0Vg36hkAGVG",
+  "snapshot_id": "AAAAABFOhzAZ/YHtM4im8HNrDc8RrSJz",
   "tracks": [
     {
       "added_at": "2026-11-20 03:00:51",
@@ -227,18 +227,22 @@
     {
       "added_at": "2026-11-20 03:00:51",
       "album": {
-        "name": "Mi Memoria",
-        "url": "https://open.spotify.com/album/6qRaSTGUUtO51E15TIrHKk"
+        "name": "El Duelo",
+        "url": "https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg"
       },
       "artists": [
         {
           "name": "Beto Cuevas",
           "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 188873,
-      "name": "Mi Memoria",
-      "url": "https://open.spotify.com/track/7nMKQCcEXagkR8Q8aHothB"
+      "duration_ms": 355657,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD"
     },
     {
       "added_at": "2026-11-20 03:00:51",
@@ -307,22 +311,18 @@
     {
       "added_at": "2026-11-20 03:00:51",
       "album": {
-        "name": "El Duelo",
-        "url": "https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg"
+        "name": "Mi Memoria",
+        "url": "https://open.spotify.com/album/6qRaSTGUUtO51E15TIrHKk"
       },
       "artists": [
         {
           "name": "Beto Cuevas",
           "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
-        },
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 355657,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD"
+      "duration_ms": 188873,
+      "name": "Mi Memoria",
+      "url": "https://open.spotify.com/track/7nMKQCcEXagkR8Q8aHothB"
     },
     {
       "added_at": "2026-11-20 03:00:51",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-11-20 03:00:51",
       "album": {
-        "name": "T\u00fa y yo",
-        "url": "https://open.spotify.com/album/5a7sLXe6QboFGrKJZ955qg"
+        "name": "1988 (Remezclado 2025)",
+        "url": "https://open.spotify.com/album/6h2ssxozeNzivGcrvdu5CF"
       },
       "artists": [
         {
-          "name": "Flangr",
-          "url": "https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 170146,
-      "name": "T\u00fa y yo",
-      "url": "https://open.spotify.com/track/2ZQmqMw6HnLY7qYvpGpqQ6"
+      "duration_ms": 198721,
+      "name": "A veces - Remezclado 2025",
+      "url": "https://open.spotify.com/track/3Zyt4DluEHhTCZMflBUvj9"
     },
     {
       "added_at": "2026-11-20 03:00:51",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-11-20 03:00:51",
       "album": {
-        "name": "1988 (Remezclado 2025)",
-        "url": "https://open.spotify.com/album/6h2ssxozeNzivGcrvdu5CF"
+        "name": "T\u00fa y yo",
+        "url": "https://open.spotify.com/album/5a7sLXe6QboFGrKJZ955qg"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Flangr",
+          "url": "https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG"
         }
       ],
-      "duration_ms": 198721,
-      "name": "A veces - Remezclado 2025",
-      "url": "https://open.spotify.com/track/3Zyt4DluEHhTCZMflBUvj9"
+      "duration_ms": 170146,
+      "name": "T\u00fa y yo",
+      "url": "https://open.spotify.com/track/2ZQmqMw6HnLY7qYvpGpqQ6"
     },
     {
       "added_at": "2026-11-20 03:00:51",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-11-20 03:00:51",
       "album": {
+        "name": "Rescatame",
+        "url": "https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Rescatame",
+      "url": "https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU"
+    },
+    {
+      "added_at": "2026-11-20 03:00:51",
+      "album": {
         "name": "Fresco y Desubicado",
         "url": "https://open.spotify.com/album/00fGnqtt8JkQ8gVfS1LGmt"
       },
@@ -847,22 +867,6 @@
     {
       "added_at": "2026-11-20 03:00:51",
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Nuestra se\u00f1al",
-      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
-    },
-    {
-      "added_at": "2026-11-20 03:00:51",
-      "album": {
         "name": "Caballo sin due\u00f1o",
         "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
       },
@@ -875,6 +879,22 @@
       "duration_ms": 217543,
       "name": "Caballo sin due\u00f1o",
       "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
+    },
+    {
+      "added_at": "2026-11-20 03:00:51",
+      "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Nuestra se\u00f1al",
+      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
     },
     {
       "added_at": "2026-11-20 03:00:51",
@@ -923,26 +943,6 @@
       "duration_ms": 153991,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
-    },
-    {
-      "added_at": "2026-11-20 03:00:51",
-      "album": {
-        "name": "Rescatame",
-        "url": "https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 251454,
-      "name": "Rescatame",
-      "url": "https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU"
     },
     {
       "added_at": "2026-11-20 03:00:51",

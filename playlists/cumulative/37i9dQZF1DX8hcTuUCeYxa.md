@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Warhaus
 
-3,607 songs - 8 day 15 hr 42 min
+3,608 songs - 8 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Any Doubt](https://open.spotify.com/track/5TCEXrHrhseoKEL7fWMeNb) | [Steaming Satellites](https://open.spotify.com/artist/245cfTGLRjFApGjsOe1hLL) | [The Great Lime Paradigm](https://open.spotify.com/album/79X40UbtwOVtiOIo64WGQT) | 2:32 | 2026-09-24 | 2026-10-23 |
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF) | 5:09 | 2024-06-28 | 2024-07-05 |
 | [Anybody Home](https://open.spotify.com/track/0d4JXH1DDXFjAn1WglGKps) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Anybody Home](https://open.spotify.com/album/0pkF8P91dMOGDNaSyG8YqQ) | 4:23 | 2026-10-15 | 2026-11-13 |
+| [Anything](https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Anything](https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW) | 3:35 | 2026-11-20 |  |
 | [Anytime, Anyplace, Anyhow](https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Anytime, Anyplace, Anyhow](https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ) | 3:47 | 2025-01-23 | 2025-02-14 |
 | [anytime/anywhere](https://open.spotify.com/track/1y6gISB7YTfJEYcg4GRQ7l) | [C'est Karma](https://open.spotify.com/artist/1vguzZkCrYKOlgHCXldU5t) | [how to peel an orange](https://open.spotify.com/album/2HkLdXEKr1Yu1wff0GqZgb) | 1:56 | 2024-09-12 | 2024-09-20 |
 | [Anyway](https://open.spotify.com/track/7m142QYSU9BJuOsim1FoZc) | [Mina Mina](https://open.spotify.com/artist/1SVSRDwylrPACf8G2ZVp1z) | [Anyway](https://open.spotify.com/album/5CCh1tNDBbVH9NNDDfBuHb) | 3:22 | 2025-04-03 | 2025-04-25 |

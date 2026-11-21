@@ -4,11 +4,10 @@
 
 > do not ever doubt mr\. 2hollis
 
-2,841 songs - 5 day 10 hr 11 min
+2,841 songs - 5 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 | 2026-11-06 |  |
 | [!holyshitohmygod!](https://open.spotify.com/track/1g4MzzjfEXfWMYm3ps5KrI) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Manzanita St\. / !holyshitohmygod!](https://open.spotify.com/album/7xvI3J8IHDj4UCd5L8ReZz) | 3:16 | 2020-10-13\* | 2020-12-11 |
 | [\#BirminghamBloodPop](https://open.spotify.com/track/19LKgK2s53p3tvrAGO1ZAd) | [soma](https://open.spotify.com/artist/4tRJBnwPRhJ4BHHJBN3sAE) | [\#BirminghamBloodPop](https://open.spotify.com/album/1kcT2lT9SeMrznYdiudp4s) | 1:40 | 2026-08-28 |  |
 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 | 2021-01-23 | 2021-09-24 |
@@ -2018,6 +2017,7 @@
 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 | 2022-02-04 | 2023-09-23 |
 | [Profane](https://open.spotify.com/track/3IHuUvemXT2QIiO5JW1rMW) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:00 | 2021-08-07 | 2022-01-13 |
 | [Profane \- extended](https://open.spotify.com/track/0kBRBtaDHKsK6y2sm7cr6c) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:29 | 2021-08-12 | 2021-09-14 |
+| [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 | 2026-11-06 |  |
 | [prone2leave](https://open.spotify.com/track/7MT7P3vYraNsvVsXTkaE3b) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [prone2leave](https://open.spotify.com/album/0F7C8WV3T2RJR9jRW1dIph) | 2:20 | 2022-09-16 | 2022-12-03 |
 | [Prosperity \- Vapour World Cup Edit](https://open.spotify.com/track/5ZHghq40sfDH5zq46TTw08) | [Laces](https://open.spotify.com/artist/2OvUjjcJMGyNzBfdx2DRzr), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Field Fallacy Haptics](https://open.spotify.com/album/74FgZlXk9meROtgxWvetKf) | 5:17 | 2021-12-10 | 2022-02-26 |
 | [PROTECTION CHARM](https://open.spotify.com/track/5TTQ10ijO4jwCOfeCxmBmm) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [PROTECTION CHARM](https://open.spotify.com/album/72s2UUBqry4E113Txcp5o8) | 2:57 | 2023-08-05 | 2024-01-23 |

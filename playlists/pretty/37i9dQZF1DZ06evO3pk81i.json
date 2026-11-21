@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10803,
+  "num_followers": 10808,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAABZQ60PSO+E8InzndvnV2FP",
+  "snapshot_id": "av48AAAAAADj7iEOerrFdqsWPNoZi7AZ",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 182000,
       "name": "Mu\u00f1equita",
       "url": "https://open.spotify.com/track/4udQRTCT3vuWMcmaj4d0kp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C\u00f3mo Le Digo a Mi Am\u00e1",
+        "url": "https://open.spotify.com/album/4hcBCjMGHl38BJGHcqOmJo"
+      },
+      "artists": [
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 114549,
+      "name": "C\u00f3mo Le Digo a Mi Am\u00e1",
+      "url": "https://open.spotify.com/track/3uLbuKcBSaw5ecbvYMSyar"
     },
     {
       "added_at": null,
@@ -771,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectante",
-        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
       },
       "artists": [
         {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 154656,
-      "name": "Expectante",
-      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
+      "duration_ms": 170150,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
     },
     {
       "added_at": null,
@@ -807,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
+        "name": "Expectante",
+        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
         },
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 170150,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
+      "duration_ms": 154656,
+      "name": "Expectante",
+      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
     },
     {
       "added_at": null,

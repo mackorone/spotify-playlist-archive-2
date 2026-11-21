@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Pepe Walker",
-  "num_followers": 93908,
+  "num_followers": 93904,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC61cQ+fzee8WIFNVC8Pxam1FX2x",
+  "snapshot_id": "AAAAAJ2fv1c2beoxxcSq4caXIGCGsU+2",
   "tracks": [
     {
       "added_at": "2026-11-06 05:59:35",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
+        "name": "fue fuerte saber que t\u00fa ya no sientes",
+        "url": "https://open.spotify.com/album/32HFxfjGgSHYRO3mofPVyR"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "fue fuerte saber que t\u00fa ya no sientes",
+      "url": "https://open.spotify.com/track/1iqjeIztbOtE7lnBmIj9N0"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
         "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
         "url": "https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 189047,
       "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
-        "name": "fue fuerte saber que t\u00fa ya no sientes",
-        "url": "https://open.spotify.com/album/32HFxfjGgSHYRO3mofPVyR"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "fue fuerte saber que t\u00fa ya no sientes",
-      "url": "https://open.spotify.com/track/1iqjeIztbOtE7lnBmIj9N0"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "t escucho al pensar",
-      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "El Primer Album de Low Clika",
         "url": "https://open.spotify.com/album/4NhYN1wLhOVg0aS5oTyjQa"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 149627,
       "name": "Wow",
       "url": "https://open.spotify.com/track/4U5ppJiMhk3OfovjsS9EQW"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "t escucho al pensar",
+      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 166808,
-      "name": "le hablo a la luna de ti",
-      "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "Me acuerdo",
         "url": "https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 227754,
       "name": "Me acuerdo",
       "url": "https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "le hablo a la luna de ti",
+      "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "LOBO",
-        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "LOBO",
-      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "Me Ilumin\u00e9",
         "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 138720,
       "name": "Me Ilumin\u00e9",
       "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "LOBO",
+        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "LOBO",
+      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "\u2698incendi\u00e9 el jard\u00edn/// lo siento\u2698",
         "url": "https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 232258,
       "name": "14 plegarias /x\\",
       "url": "https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "la estrella que quer\u00eda brillar",
+      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "Cereza",
-        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 198150,
-      "name": "Cereza",
-      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "Cadena Nacional",
         "url": "https://open.spotify.com/album/4P0TbN0tnLHdJVR6bMmGK6"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 148274,
       "name": "Cadena Nacional",
       "url": "https://open.spotify.com/track/4VoIHa5TY0wvY3jwmrxRM5"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "hoy les digo que",
-        "url": "https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA"
-      },
-      "artists": [
-        {
-          "name": "1702",
-          "url": "https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS"
-        },
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 236341,
-      "name": "los quiero de verdad",
-      "url": "https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "Mirando desde afuera",
         "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
       },
@@ -1175,18 +1155,22 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "ETHEREA",
-        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+        "name": "hoy les digo que",
+        "url": "https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA"
       },
       "artists": [
         {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+          "name": "1702",
+          "url": "https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
         }
       ],
-      "duration_ms": 224416,
-      "name": "Encu\u00e9ntrame en Tokio",
-      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
+      "duration_ms": 236341,
+      "name": "los quiero de verdad",
+      "url": "https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1223,6 +1207,22 @@
       "duration_ms": 245669,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
+        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
         "name": "Bexos",
         "url": "https://open.spotify.com/album/2g91cAXqHmVJyEb3pO9rod"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 160661,
       "name": "Bexos",
       "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
-        "name": "Llegan Y Se Van",
-        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
-      },
-      "artists": [
-        {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
-        },
-        {
-          "name": "Santiago Martell",
-          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
-        }
-      ],
-      "duration_ms": 149652,
-      "name": "Llegan Y Se Van",
-      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

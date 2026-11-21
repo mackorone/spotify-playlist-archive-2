@@ -1,15 +1,35 @@
 {
-  "description": "You can't miss out on these. Music videos only available on Premium. Cover: Judeline",
-  "num_followers": 246,
+  "description": "You can't miss out on these. Music videos only available on Premium. Cover: Myke Towers & Rauw Alejandro",
+  "num_followers": 256,
   "original_name": "Must-Watch Latin Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5s6dUiCBfSO4p5DqSTXjNjxp7p",
+  "snapshot_id": "AAAAAPSImxZrz/3lviRxeF3kpaZWjzpf",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "Tremendo Desastre",
+        "url": "https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Tremendo Desastre",
+      "url": "https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "La Falda",
         "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
@@ -25,7 +45,47 @@
       "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "BODYPAINTING",
+        "url": "https://open.spotify.com/album/5flDmNt39994F8KgZ2r7QU"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 162048,
+      "name": "BODYPAINTING",
+      "url": "https://open.spotify.com/track/0E0ppoTPc2mSg5g32GFzK9"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "AGUA",
         "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
@@ -45,7 +105,59 @@
       "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "COMO FUERA",
+        "url": "https://open.spotify.com/album/358cwYBV3NtpS3Tu0qVNfr"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 178709,
+      "name": "COMO FUERA",
+      "url": "https://open.spotify.com/track/7vWP4YzXQVp0BuP8IbVE5i"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "ZOMBI",
+        "url": "https://open.spotify.com/album/27u6ALuzTCWi7VcuME5Mul"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "ZOMBI",
+      "url": "https://open.spotify.com/track/2rqNI5AB99l6FsTCdnkKfV"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "te clavas",
+        "url": "https://open.spotify.com/album/6WoOIHEKP13mgV6hFDzpgS"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 241663,
+      "name": "te clavas",
+      "url": "https://open.spotify.com/track/6o5PR3dNC1h7t8tqewX5ud"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "Ojos Brujos",
         "url": "https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH"
@@ -65,7 +177,7 @@
       "url": "https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
@@ -81,7 +193,7 @@
       "url": "https://open.spotify.com/track/3FqUvsLaAh4k3Uh2d7L3bR"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
         "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
@@ -97,7 +209,7 @@
       "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "Rels B - Spotify Live Room",
         "url": "https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N"
@@ -113,7 +225,7 @@
       "url": "https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "Hombre De Bien",
         "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
@@ -129,7 +241,23 @@
       "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "CATIRA",
+        "url": "https://open.spotify.com/album/7jF5rAgT0vLc6P9iXlI6K2"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "CATIRA",
+      "url": "https://open.spotify.com/track/661rXAsu9bIXLjQd1Xl2HA"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/6HFlR3HLQuVA9KLassXjmb"
@@ -145,7 +273,27 @@
       "url": "https://open.spotify.com/track/55zd27ci3VjlPoxeuQ9Ied"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "VAMO A VEL",
+        "url": "https://open.spotify.com/album/0t39doVzJDjU5WyQxLnHhj"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 243050,
+      "name": "VAMO A VEL",
+      "url": "https://open.spotify.com/track/0125qUd6QK9Wq7qWtimhYH"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "Live From Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7yAaOQSsXdjiRjvrtDCFc2"
@@ -161,7 +309,7 @@
       "url": "https://open.spotify.com/track/4B63O9ddDnEXNyAAkKBhTE"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "La Medalla",
         "url": "https://open.spotify.com/album/6hVy35DDipbjOljcJXUs4L"
@@ -181,7 +329,7 @@
       "url": "https://open.spotify.com/track/64WtUIZGBjo0kV6S4SAzfy"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "WET DREAMS",
         "url": "https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr"
@@ -201,7 +349,7 @@
       "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/1ZDGbhCdCMCXAv3lYONIui"
@@ -221,7 +369,7 @@
       "url": "https://open.spotify.com/track/525T9rlpX3m3LHEtyVuIFN"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "LOS CISNES",
         "url": "https://open.spotify.com/album/1hx2eBlpcof1UN8GuzFloZ"
@@ -237,7 +385,7 @@
       "url": "https://open.spotify.com/track/41fnDmdZUoC7uLskrowGbs"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
@@ -253,7 +401,23 @@
       "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
     },
     {
-      "added_at": "2026-10-16 04:01:20",
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "uno+1",
+        "url": "https://open.spotify.com/album/7ssfNloiP6fxfovaiBODyZ"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 176768,
+      "name": "uno+1",
+      "url": "https://open.spotify.com/track/0jzIZfvE0dayZflAL7MJ2U"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
       "album": {
         "name": "KINKY",
         "url": "https://open.spotify.com/album/2P3o7T3rBrFKd5i8wkIssO"
@@ -271,6 +435,22 @@
       "duration_ms": 123750,
       "name": "KINKY",
       "url": "https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b"
+    },
+    {
+      "added_at": "2026-11-20 21:22:57",
+      "album": {
+        "name": "Guacamayas ft. Clara Vegas Goetz",
+        "url": "https://open.spotify.com/album/0ILmqoQ5ajcwrg5tV0wefn"
+      },
+      "artists": [
+        {
+          "name": "LOS MENOR3S",
+          "url": "https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ"
+        }
+      ],
+      "duration_ms": 175402,
+      "name": "Guacamayas ft. Clara Vegas Goetz",
+      "url": "https://open.spotify.com/track/1SoOaxj7Qp7eSCfjgSOxwb"
     }
   ],
   "unique_name": "Must-Watch Latin Videos",

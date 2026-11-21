@@ -1,12 +1,12 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Aashir Wajahat, Sabaat Batin",
-  "num_followers": 22577,
+  "num_followers": 22634,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGcalvBTRDuYPJ5TQ3KZQohpFIGZ",
+  "snapshot_id": "AAAAAAj7G+AiZYwGGqFJahvoCiTlz1lh",
   "tracks": [
     {
       "added_at": "2026-11-20 02:00:10",
@@ -347,6 +347,22 @@
       "duration_ms": 172500,
       "name": "dream",
       "url": "https://open.spotify.com/track/4ScwGZLpq91ClZNI7G7Xn4"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "SAA",
+        "url": "https://open.spotify.com/album/45Y285WlaIja8eAVvcuIhB"
+      },
+      "artists": [
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "SAA",
+      "url": "https://open.spotify.com/track/0iQkrHHwG7xk6edqgOsp4H"
     },
     {
       "added_at": "2026-11-20 02:00:10",

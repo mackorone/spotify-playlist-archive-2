@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 551 likes - 92 songs - 4 hr 58 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 553 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,10 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 90 | [Outro](https://open.spotify.com/track/3H2sUTSEqzUSpPmOpP5KdW) | [Tabonimous](https://open.spotify.com/artist/3VZBSUtpXk87yOL232rhfi), [HLMNSRA](https://open.spotify.com/artist/5LOQ7tMPOSQr1F9c6KR1d3) | [La Teoria di Michelangelo](https://open.spotify.com/album/4gl2DoFXnQX1K93BjSmsUJ) | 1:58 |
 | 91 | [7VEN](https://open.spotify.com/track/1rAwLXgo3sIYAS9ApbC6uo) | [Maffy Miller](https://open.spotify.com/artist/5KJRm0D0rqtorpRX137abW) | [Emotions & Pain](https://open.spotify.com/album/0px3LsRHDYyklAZNKGwqGb) | 3:27 |
 | 92 | [Aye](https://open.spotify.com/track/2tcAh1XzO2hXSC3ZP0Qoxr) | [Femskid](https://open.spotify.com/artist/5vRpl4QeYpmgOeUDqVDAla) | [Aye](https://open.spotify.com/album/3ySwm1p34Fe8x25dsy0g89) | 3:45 |
+| 93 | [Dingsbums](https://open.spotify.com/track/5djlBzwk9RD1Kt28aNCnVa) | [Gigi Ferruccio](https://open.spotify.com/artist/3fikedCCBng5WYQxVJsjuk) | [Dingsbums](https://open.spotify.com/album/2RE6R9p2UPDheL3OJl0uD2) | 4:17 |
+| 94 | [Backtothefuture](https://open.spotify.com/track/0RqTlpUaqjmuw4wzE9bORW) | [NHaftiert](https://open.spotify.com/artist/6LJozEXOVpcAwRmg9ORN4e) | [Backtothefuture](https://open.spotify.com/album/2ZRA5TjYP9OhMYU5gWk9q2) | 2:25 |
+| 95 | [DEEWANA BANAAYE](https://open.spotify.com/track/7rqnNYYWG02LsfNzxnlae8) | [Avinash Kumar Raghuvanshi](https://open.spotify.com/artist/6JEaQ1Ukzoh1Hr4Z4d0YVI) | [DEEWANA BANAAYE](https://open.spotify.com/album/6LFzpdCnP52ICF9IIEgm6a) | 6:14 |
+| 96 | [SMOKE](https://open.spotify.com/track/445MgzyWez6iBlk5J8TxUT) | [Dutty Harry](https://open.spotify.com/artist/3NzZpzynfDm5orttWL8WYK), [Rikko Genius](https://open.spotify.com/artist/6Meau5M3ThGHxnBJQ5NcMS) | [THE GENIUS TWINZ](https://open.spotify.com/album/05YmPQZfEfygiI0MwqMudo) | 3:09 |
+| 97 | [ROSALEA](https://open.spotify.com/track/34XZnD0LcAUmj6IbD8U518) | [Yaw Bruno](https://open.spotify.com/artist/5H8FFHJxmTGEQkKhQIcVvv), [Pauline](https://open.spotify.com/artist/2cpiRrUkMRJ7gNkWgp1UjY) | [ROSALEA](https://open.spotify.com/album/2V3o8x2lIaY71ugOaLVn40) | 2:47 |
 
-Snapshot ID: `AAACvw/VKX4zUjw3jQ62dmZsoKVtxFD1`
+Snapshot ID: `AAACxPfPww0bWxcon+myu+cRGYKyKYyy`

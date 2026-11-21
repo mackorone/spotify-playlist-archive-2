@@ -4,7 +4,7 @@
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-77 songs - 6 hr 42 min
+78 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Tudo que Deus Falou \(Ao Vivo\)](https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:54 | 2023-07-09 | 2026-08-29 |
 | [Uma por Uma \- Ao Vivo](https://open.spotify.com/track/5HlkiKDkEJ6g7WEmCwnJvk) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Uma por Uma \(Ao Vivo\)](https://open.spotify.com/album/6U6n2VYTFtRrR8vFU86SAh) | 4:31 | 2026-09-10 |  |
 | [Vai Acontecer](https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 3:57 | 2023-07-09 |  |
+| [Vai Tudo Bem \- Ao Vivo](https://open.spotify.com/track/6cqiVcOgkPVZzIsb1yklp0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Vai Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/3qnxF6o5TSVcN8e9aBxhER) | 5:51 | 2026-11-21 |  |
 | [Vai Valer a Pena](https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:40 | 2023-07-09 |  |
 | [Vazio](https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vazio](https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR) | 5:09 | 2023-07-09 |  |
 | [Vencendo de Joelhos \- Ao Vivo](https://open.spotify.com/track/1gk1YLKK4HmJzAWL9teEsU) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Vencendo de Joelhos \(Ao Vivo\)](https://open.spotify.com/album/3fZmJsxEKccWynHXnsqxnp) | 8:52 | 2026-08-13 |  |

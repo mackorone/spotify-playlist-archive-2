@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: MC SQUARE",
+  "description": "Best of Haryanvi Hip-Hop! Cover: DG IMMORTALS",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -394,6 +394,32 @@
       "duration_ms": 144500,
       "name": "32 Bore",
       "url": "https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke"
+    },
+    {
+      "album": {
+        "name": "35 TAJ",
+        "url": "https://open.spotify.com/album/4perB0cKRtAWNEop5I4vzS"
+      },
+      "artists": [
+        {
+          "name": "Mt 35",
+          "url": "https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6"
+        },
+        {
+          "name": "Taj",
+          "url": "https://open.spotify.com/artist/5b17MRZPslH26j0QeC2wc8"
+        },
+        {
+          "name": "Lv94",
+          "url": "https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117551,
+      "name": "35 TAJ",
+      "url": "https://open.spotify.com/track/5lARA4KaSyZGRSxsGsE9SK"
     },
     {
       "album": {
@@ -954,6 +980,24 @@
       "duration_ms": 127812,
       "name": "All Good",
       "url": "https://open.spotify.com/track/3kyHE68SM5Lyry0eSLN4h9"
+    },
+    {
+      "album": {
+        "name": "Allbaddi",
+        "url": "https://open.spotify.com/album/7aYUrR2eCkUPulwVbNSrDm"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189052,
+      "name": "Allbaddi",
+      "url": "https://open.spotify.com/track/2QziYpbuATI7DR8COWRrPE"
     },
     {
       "album": {
@@ -2734,7 +2778,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 136091,
       "name": "CHD",
       "url": "https://open.spotify.com/track/7CuacvHKXS8zJnNMSqJQFm"
@@ -5620,7 +5664,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 167441,
       "name": "Gaddafi",
       "url": "https://open.spotify.com/track/3dIHyzvaVuIDcHJ2W0WNy6"

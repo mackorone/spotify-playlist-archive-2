@@ -4,7 +4,7 @@
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Robi DA7
 
-313 songs - 1 day 0 hr 45 min
+314 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bertauhid](https://open.spotify.com/track/2pQ6I2NzRL0dsGc3D5Im5F) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Eby DA5](https://open.spotify.com/artist/3di1pESdZfMHYO406ck1oy), [Afan DA5](https://open.spotify.com/artist/60jQVcXcjnlcFmXPkHEbfB) | [Bertauhid](https://open.spotify.com/album/70GKblOZsbv191FHhGOHsk) | 3:17 | 2023-03-13 | 2024-09-27 |
 | [Bertemu 5000 Detik](https://open.spotify.com/track/5k8r824ONOtPpsCG9o9jE2) | [Titi DJ](https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS), [Thomas Djorghi](https://open.spotify.com/artist/1PgpMO3k0MFsIbKT3sQFkI) | [Bertemu 5000 Detik](https://open.spotify.com/album/4GyXj4a6jegDiK7oyeWBZQ) | 4:05 | 2025-11-06 |  |
 | [Bertepuk Sebelah Tangan](https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Bertepuk Sebelah Tangan](https://open.spotify.com/album/5A02IkD5iJF61AkW368oHI) | 3:14 | 2021-08-23 | 2023-06-30 |
+| [Biarlah Merana](https://open.spotify.com/track/45nvE70cS2cCevzATxVDzJ) | [Jakarta Dangdut Revolution](https://open.spotify.com/artist/3FhEobq9yGznlQkNwWztl1), [Inul Daratista](https://open.spotify.com/artist/2uA6BxXJZe4DfGJzuZUxEM), [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [Biarlah Merana](https://open.spotify.com/album/1y68f0kzpdVC729GT9VB9i) | 3:32 | 2026-11-20 |  |
 | [Bidadari Hati](https://open.spotify.com/track/5Pvwawi0wW5KzLydcHYtO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bidadari Hati](https://open.spotify.com/album/6nsmgWcXd6Rm0zckosq3yW) | 3:42 | 2025-06-26 |  |
 | [Bintang Tertutup Awan](https://open.spotify.com/track/3sarIVZdIKTZB6SD9A2c5F) | [Gunawan](https://open.spotify.com/artist/5MZr7EDPHUoy3vWUs2R88o) | [Bintang Tertutup Awan](https://open.spotify.com/album/2wSBUcaO4xdRiPL11aRxQb) | 4:31 | 2023-09-21 | 2025-10-18 |
 | [Blebah](https://open.spotify.com/track/0OqiXDYtBXixteIxjOYyW3) | [Sherly Ulvia](https://open.spotify.com/artist/0G9RDvOnKMlEDruXEaGG8V) | [Blebah](https://open.spotify.com/album/0YIE6bVQo1DQTW2cUvb1Kn) | 5:27 | 2024-03-28 | 2025-10-18 |

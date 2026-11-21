@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,251 songs - 3 day 20 hr 15 min
+1,252 songs - 3 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Approaching Summer](https://open.spotify.com/track/4os6s7sgqVGHZ5AsBqaCl0) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Approaching Summer](https://open.spotify.com/album/3Dv3zNkhOUQXmeUN28UIm5) | 2:27 | 2019-06-19\* | 2020-10-22 |
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2021-04-24 | 2023-02-14 |
 | [Aquatic Ambience](https://open.spotify.com/track/3zF1RvARE71MBXeWETPoEk) | [Funk Fiction](https://open.spotify.com/artist/12Rrb0zhWhcbaXJhVtrmXz) | [Aquatic Ambience](https://open.spotify.com/album/2vVrBHREP6fcU0yd998jok) | 3:14 | 2019-06-19\* | 2023-05-06 |
-| [Arc on the Range](https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Arc on the Range](https://open.spotify.com/album/1e6jpG7caxvj1OhralO91G) | 4:39 | 2024-05-24 | 2026-10-26 |
+| [Arc on the Range](https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Arc on the Range](https://open.spotify.com/album/1e6jpG7caxvj1OhralO91G) | 4:39 | 2024-05-24 |  |
 | [Arcade Dreams](https://open.spotify.com/track/0D0kIo64u1uXLNeH0j2JzW) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Arcade Dreams](https://open.spotify.com/album/3DgaITbrxI84EZ9HIf27ml) | 4:03 | 2019-06-19\* | 2020-10-22 |
 | [Arcoíris](https://open.spotify.com/track/4I9ZVOXtZVUpbLuIxDajrc) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:13 | 2021-09-17 | 2022-07-27 |
 | [Arms Length](https://open.spotify.com/track/7D2amqgFKzSPPEuvZT3i9p) | [Spurz](https://open.spotify.com/artist/7w2AcpaXAApTypVl4yXAbN) | [Loud Futures](https://open.spotify.com/album/4dgMbu4oWm0yDFQbPUlPcI) | 2:31 | 2019-05-26\* | 2022-04-19 |
@@ -462,6 +462,7 @@
 | [Half An Owl And A Full Moon Rising](https://open.spotify.com/track/0JKlN9aw9stNFUepjUeWat) | [Steffi](https://open.spotify.com/artist/644PvPeYIyoq0n0eBP5fxG) | [Half An Owl And A Full Moon Rising](https://open.spotify.com/album/7bHXauY3cYMdIEuGwDKuvW) | 6:09 | 2026-10-08 |  |
 | [Half Awake](https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/5CvlH1O9kN7HCJVN5pUPw2) | 3:18 | 2020-10-28 | 2023-03-19 |
 | [Half Awake](https://open.spotify.com/track/4ReGLAJLZZKFonhQcRXTRU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/2vhK0Pw1fm7ep0qzq0pZXc) | 3:18 | 2023-06-22 | 2024-04-19 |
+| [Half Gravity](https://open.spotify.com/track/5PnpQDbSZegwHW6CNhffLc) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Shape of the Unknown](https://open.spotify.com/album/7LNq84iSQ4CtWxGEHAJj5c) | 4:56 | 2026-11-20 |  |
 | [Hanging D \- Max Cooper Remix](https://open.spotify.com/track/4X8vyPKnqXurF8tJcgZJUC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Hanging D \(Max Cooper Remix\)](https://open.spotify.com/album/1yEeSe2Y3oe91BN2rhWR48) | 5:05 | 2021-07-23 |  |
 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-06-28 | 2026-06-14 |
 | [Harbour \- Original Mix](https://open.spotify.com/track/2eJTBg24OcjIQbld3libGX) | [Soundprank](https://open.spotify.com/artist/4axjIl2fLU1xnDsC1NB3yI) | [Anjunabeats Chilled Summer](https://open.spotify.com/album/51NvhDH0FMdDqhTtBPhJ02) | 5:08 | 2019-06-22 | 2025-08-10 |
@@ -934,7 +935,7 @@
 | [Sharing Prosperity](https://open.spotify.com/track/7lecTWibaxA2u3Bdx3j9lJ) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sharing Prosperity](https://open.spotify.com/album/4AmRstNiXHoPnUgamUkZ9j) | 5:11 | 2022-06-03 | 2022-07-29 |
 | [Shell Game \- Original Mix](https://open.spotify.com/track/4HpKLgvBpFlLgW5RhXGGc7) | [DMX Krew](https://open.spotify.com/artist/4W1v5X4x0ObMOJVJreZX3k) | [Glad To Be Sad](https://open.spotify.com/album/3FequuV4vTOYFOFhRqCKCm) | 2:03 | 2019-06-19\* | 2022-04-15 |
 | [Shibori](https://open.spotify.com/track/3cUYvBTqGjS6zknck89Yio) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr) | [Boro](https://open.spotify.com/album/6F8oFWdnaDZKe7PuEPI2Gk) | 6:28 | 2021-07-12 | 2022-07-28 |
-| [Shimmer](https://open.spotify.com/track/7dy1n3TtiCfmCYG1EeAXGZ) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:02 | 2019-06-19\* |  |
+| [Shimmer](https://open.spotify.com/track/7dy1n3TtiCfmCYG1EeAXGZ) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:02 | 2019-06-19\* | 2026-11-21 |
 | [Shimmering Lake](https://open.spotify.com/track/26iHdLEmhqo2ZyW3CyCzWC) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Shimmering Lake](https://open.spotify.com/album/5cvIHfDo9BCdE5M2qKMtZU) | 3:00 | 2025-06-13 |  |
 | [shivelight \- 7"](https://open.spotify.com/track/6PVsaZR8yTyGZW3lOWSCwQ) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [shivelight](https://open.spotify.com/album/5LrmWygOLU1oKMEe5GTza4) | 4:05 | 2025-04-15 | 2025-04-25 |
 | [Show Me](https://open.spotify.com/track/5k4MVfklNSMZZHB1jxvKrr) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:38 | 2019-06-19\* | 2020-10-21 |
@@ -1118,7 +1119,7 @@
 | [Think Tomorrow](https://open.spotify.com/track/6mw92ldgNYOy1EupraEGI5) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Think Tomorrow](https://open.spotify.com/album/0Y4RcSfy7TOVDyuQFvU2dk) | 4:40 | 2026-08-28 |  |
 | [this again..](https://open.spotify.com/track/4jUTKYm8WUK3nUox8UuAau) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [this again..](https://open.spotify.com/album/5lEGj39nfCkHLp1hO4AUcF) | 2:15 | 2019-06-19\* | 2020-10-19 |
 | [This Space in My Heart Is for You](https://open.spotify.com/track/1RzEqJCxpStIV5P1ng1w6p) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/4sv5wZjZMPWQ9KvZ6PQZzQ) | 1:35 | 2019-06-19\* | 2020-10-22 |
-| [Thoughts On The Future](https://open.spotify.com/track/6D0MpF3h4bFyfZAjlX8tvm) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Thoughts On The Future](https://open.spotify.com/album/4xYL1aDxfBoPZejOKoKvV8) | 7:01 | 2026-01-16 |  |
+| [Thoughts On The Future](https://open.spotify.com/track/6D0MpF3h4bFyfZAjlX8tvm) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Thoughts On The Future](https://open.spotify.com/album/4xYL1aDxfBoPZejOKoKvV8) | 7:01 | 2026-01-16 | 2026-11-21 |
 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-04-28 | 2023-06-06 |
 | [Three Ralphs](https://open.spotify.com/track/0fXyhTmLlNm7NqrXA8el0v) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [The Mountain Will Fall](https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O) | 3:36 | 2019-06-24 | 2020-10-19 |
 | [through the sky window](https://open.spotify.com/track/0linWOAdLg8Og74POchDcS) | [Fantastic Mister Ox](https://open.spotify.com/artist/40KrQHHR8AJy3rAHcvbWgn) | [through the sky window](https://open.spotify.com/album/5lhwalYoAsazRYDCkWIV3y) | 4:08 | 2025-07-18 | 2026-03-04 |

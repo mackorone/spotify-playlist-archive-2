@@ -2,7 +2,7 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: Drake
+> Taking it way back! Cover: Lil Kim
 
 483 songs - 1 day 10 hr 29 min
 

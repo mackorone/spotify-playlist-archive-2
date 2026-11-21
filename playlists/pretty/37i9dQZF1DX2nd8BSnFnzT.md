@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Lançamentos 100% rock brasileiro\. Foto: Nação Zumbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,167 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,207 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 59 | [Na Hora em Que Eu Me Perder](https://open.spotify.com/track/1D5JVv3hWd8L37YkeEJexl) | [Vespas Mandarinas](https://open.spotify.com/artist/39wvetWmzobDSXSkCHPEcv) | [Polaroid, Vol.1](https://open.spotify.com/album/2cTLo9WEp5o9W5pHg1WkeY) | 2:26 |
 | 60 | [o que você quiser](https://open.spotify.com/track/35NplPnYaCevijnRs2bmik) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr) | [o que você quiser](https://open.spotify.com/album/6np4eVJ5I9pzNHYN6ywEkX) | 3:15 |
 
-Snapshot ID: `AAAAAEG0PylDanXzHbipPwMf4frMm7yX`
+Snapshot ID: `AAAAAPV5eNNy4PgscaqePBFL7epH2yRL`

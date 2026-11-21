@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\. Foto: Ayrton Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,649 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,723 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [La 100](https://open.spotify.com/track/3nc8aSWa8GdfSmrZGjNCJx) | [Yore](https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa), [Jaybian](https://open.spotify.com/artist/76gipksqbksMLfrg1XDyOi) | [La 100](https://open.spotify.com/album/4SHaMT5pNF7ee8GKcKuASZ) | 3:44 |
 | 100 | [CAMBIAME](https://open.spotify.com/track/7mTrLI0FEPTBJo6ioeFH1l) | [Matty Martinez](https://open.spotify.com/artist/5NHgDh5dj1Nkm6FmSZovTs), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [CAMBIAME](https://open.spotify.com/album/3sYks2Y8PfZDdzPcxRZ1Xl) | 4:32 |
 
-Snapshot ID: `AAAAAAMWxPW2aB7SLmWH4c3yQUezn1Wv`
+Snapshot ID: `AAAAAKjg7yHzpriRy4UVfR0YvBHAC+nj`

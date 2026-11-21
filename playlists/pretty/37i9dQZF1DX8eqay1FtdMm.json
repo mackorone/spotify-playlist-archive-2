@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Gaho) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 413819,
+  "num_followers": 413799,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMCweAwhZ/uWUeT6puReATA1gbxQ",
+  "snapshot_id": "AAAAAFPV7K1+nFj930dRQf9q3dpq8hMW",
   "tracks": [
     {
       "added_at": "2026-11-19 06:09:35",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -635,38 +635,6 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
-        "name": "blinded",
-        "url": "https://open.spotify.com/album/3RFAbj6AHxD4n2sOnWkGO5"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "blinded",
-      "url": "https://open.spotify.com/track/0mzKWwpI4A5gJneDNvRjKj"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
       },
@@ -683,6 +651,22 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
         "name": "Bird On The Edge",
         "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 256226,
       "name": "Bird On The Edge",
       "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
+        "name": "blinded",
+        "url": "https://open.spotify.com/album/3RFAbj6AHxD4n2sOnWkGO5"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "blinded",
+      "url": "https://open.spotify.com/track/0mzKWwpI4A5gJneDNvRjKj"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "When This Rain Stops",
-      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 215946,
       "name": "About Time",
       "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "When This Rain Stops",
+      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
-      },
-      "artists": [
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "\ubbf8\uc6cc\uc694 I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "Where We Are - The 2nd Album",
-        "url": "https://open.spotify.com/album/3RCHqfl9LOuLnoSJzsSc7f"
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
       },
       "artists": [
         {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Pedazos",
-      "url": "https://open.spotify.com/track/7fS4aqE7l4YljkkIEFjAWb"
+      "duration_ms": 202946,
+      "name": "\ubbf8\uc6cc\uc694 I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
+        "name": "Where We Are - The 2nd Album",
+        "url": "https://open.spotify.com/album/3RCHqfl9LOuLnoSJzsSc7f"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Pedazos",
+      "url": "https://open.spotify.com/track/7fS4aqE7l4YljkkIEFjAWb"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
         "name": "BMK voKal Audio Liner",
         "url": "https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
-      },
-      "artists": [
-        {
-          "name": "#Annyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
-        }
-      ],
-      "duration_ms": 264069,
-      "name": "Moving Away",
-      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
         "name": "I Miss You So Much",
         "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 216813,
       "name": "I Miss You So Much",
       "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "duration_ms": 264069,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
+        "name": "Even for a moment",
+        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Even for a moment",
+      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
       },
@@ -1119,6 +1139,54 @@
       "duration_ms": 215000,
       "name": "Always",
       "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
+        "name": "Days Gone",
+        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Days Gone",
+      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
+        "name": "Become More Beautiful",
+        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Become More Beautiful",
+      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -1143,54 +1211,6 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
-        "name": "Days Gone",
-        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Days Gone",
-      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
-        "name": "Become More Beautiful",
-        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
-      },
-      "artists": [
-        {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Become More Beautiful",
-      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 338000,
       "name": "Close your eyes",
       "url": "https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
-        "name": "Even for a moment",
-        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Even for a moment",
-      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "Not a Dream",
-        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
+        "name": "To live",
+        "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
       },
       "artists": [
         {
-          "name": "Song Sohee",
-          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+          "name": "SoonSoonHee",
+          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Not a Dream",
-      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
+      "duration_ms": 231520,
+      "name": "To live",
+      "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
+        "name": "Not a Dream",
+        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Not a Dream",
+      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
         "name": "Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 273773,
       "name": "Spring day goes",
       "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
-        "name": "To live",
-        "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
-      },
-      "artists": [
-        {
-          "name": "SoonSoonHee",
-          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "To live",
-      "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "I Can't Help It",
-        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "I Can't Help It (Prod. Jungkey)",
-      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
-    },
-    {
-      "added_at": "2026-11-19 06:09:35",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2026-11-19 06:09:35",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+      "duration_ms": 224480,
+      "name": "I Can't Help It (Prod. Jungkey)",
+      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
     },
     {
       "added_at": "2026-11-19 06:09:35",
@@ -1679,6 +1663,22 @@
       "duration_ms": 256252,
       "name": "It's love",
       "url": "https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe"
+    },
+    {
+      "added_at": "2026-11-19 06:09:35",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     }
   ],
   "unique_name": "v o K a l",

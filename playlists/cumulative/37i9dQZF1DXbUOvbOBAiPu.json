@@ -6404,6 +6404,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "date_added": "2026-11-19",
@@ -8358,6 +8362,28 @@
       "duration_ms": 187280,
       "name": "All Along (Tout ce que tu veux)",
       "url": "https://open.spotify.com/track/6uTcNVzvzHythOZ2BKsBiR"
+    },
+    {
+      "album": {
+        "name": "All Around The World (La La La La La)",
+        "url": "https://open.spotify.com/album/6SEUHbva11yfBYcuurWGoK"
+      },
+      "artists": [
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "All Around The World (La La La La La)",
+      "url": "https://open.spotify.com/track/6M13rru1yByqJG8NqCNha2"
     },
     {
       "album": {
@@ -15054,28 +15080,6 @@
       "duration_ms": 152519,
       "name": "Around Deh",
       "url": "https://open.spotify.com/track/69l4pdOWz6bsfZw1aEnVuI"
-    },
-    {
-      "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6SEUHbva11yfBYcuurWGoK"
-      },
-      "artists": [
-        {
-          "name": "MATTN",
-          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
-        },
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        }
-      ],
-      "date_added": "2026-11-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126400,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/6M13rru1yByqJG8NqCNha2"
     },
     {
       "album": {
@@ -83947,7 +83951,7 @@
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },

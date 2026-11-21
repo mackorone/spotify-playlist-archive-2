@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 607936,
+  "num_followers": 607931,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKaZcD87EfIlRD7Wb0oGB1GvW8ZC",
+  "snapshot_id": "AAAAANYs5pgIh+pNpDfWuk2yN2mbMAUL",
   "tracks": [
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
         "name": "Rave With Me",
         "url": "https://open.spotify.com/album/6A1AX2uT65Jpf4rMgBD8xe"
       },
@@ -1175,18 +1191,22 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/71naf0dyKUCucdXEODamHK"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        },
+        {
+          "name": "2HOT2PLAY",
+          "url": "https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA"
         }
       ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+      "duration_ms": 178600,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/1NyGisWiw1SxUXCaINfCx1"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1203,26 +1223,6 @@
       "duration_ms": 161723,
       "name": "Fine Night",
       "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
-      },
-      "artists": [
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "89ers",
-          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
-        }
-      ],
-      "duration_ms": 151858,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Think About It",
-        "url": "https://open.spotify.com/album/71naf0dyKUCucdXEODamHK"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
       },
       "artists": [
         {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
         },
         {
-          "name": "2HOT2PLAY",
-          "url": "https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA"
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/1NyGisWiw1SxUXCaINfCx1"
+      "duration_ms": 151858,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "La Vida Loca",
-        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "La Vida Loca",
-      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
         "name": "LIKE TO PARTY",
         "url": "https://open.spotify.com/album/3ARNIR8EWYK7hOdE3DM5Nf"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 126000,
       "name": "Rave Mozart",
       "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1531,18 +1531,26 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Electrify",
-        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
       "artists": [
         {
           "name": "Eli Brown",
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Electrify",
-      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1627,26 +1635,18 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "When I Push (Edit)",
-        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
       },
       "artists": [
         {
           "name": "Eli Brown",
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
         }
       ],
-      "duration_ms": 213582,
-      "name": "When I Push - Edit",
-      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+      "duration_ms": 156428,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1695,66 +1695,6 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
-          "name": "Stisema",
-          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
-        },
-        {
-          "name": "Lulu Voxx",
-          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
-        }
-      ],
-      "duration_ms": 168124,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/6XfrEfP3pfH0jkagZAFQ3K"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
         "name": "SexyBack (TechnoBack)",
         "url": "https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf"
       },
@@ -1779,22 +1719,46 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Bloodshot Eyes",
-        "url": "https://open.spotify.com/album/3bdX0jhFwrObahMDE0w3kO"
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
       },
       "artists": [
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         },
         {
-          "name": "ANY",
-          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
         }
       ],
-      "duration_ms": 169793,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/5RlLOT5MaKotj888oxuNgc"
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Stisema",
+          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
+        },
+        {
+          "name": "Lulu Voxx",
+          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
+        }
+      ],
+      "duration_ms": 168124,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1815,6 +1779,42 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
+        "name": "Bloodshot Eyes",
+        "url": "https://open.spotify.com/album/3bdX0jhFwrObahMDE0w3kO"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "ANY",
+          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
+        }
+      ],
+      "duration_ms": 169793,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/5RlLOT5MaKotj888oxuNgc"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/6XfrEfP3pfH0jkagZAFQ3K"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
         "name": "Naughty",
         "url": "https://open.spotify.com/album/0yEEruerpgU6vBbZlQ9QjA"
       },
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/3BjnqJGWvwhnbREYuH6jzx"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 228175,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/0Ln024wOEUb2LzQCJXd45g"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
         "name": "4 Da Ravers",
         "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 153290,
       "name": "4 Da Ravers",
       "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/3BjnqJGWvwhnbREYuH6jzx"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 228175,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/0Ln024wOEUb2LzQCJXd45g"
     },
     {
       "added_at": "2026-11-13 05:00:57",

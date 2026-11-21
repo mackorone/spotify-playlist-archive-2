@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,841 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,860 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 | 6 | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch) | 3:20 |
 | 7 | [Happy Monday \- W Sound 10](https://open.spotify.com/track/3IOUSbYmye1CFqdUjXYLFF) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Happy Monday \(W Sound 10\)](https://open.spotify.com/album/23vSxJtcZIyDJ9h0bLCPcx) | 3:06 |
 | 8 | [50 MIL PIEX](https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 4:04 |
-| 9 | [RIKO](https://open.spotify.com/track/1foTAQHxjSXKJRQxVtUcYV) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [ETDK 2](https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG) | 2:41 |
+| 9 | [RIKO](https://open.spotify.com/track/1foTAQHxjSXKJRQxVtUcYV) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [ETDK 2](https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG) | 2:41 |
 | 10 | [Dichavate](https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa) | [Ya Ice Dilan](https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA), [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [JipMusic Global](https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk) | [Dichavate](https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF) | 4:06 |
 | 11 | [PLATO TIPICO](https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [ETDK 2](https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG) | 2:54 |
 | 12 | [Mentira](https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Mentira](https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 | 49 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |
 | 50 | [Griselda](https://open.spotify.com/track/3fzvYTofpMbOVEv7EC0gZX) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO), [Bravvs](https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh) | [Griselda](https://open.spotify.com/album/6jdgaOCik27TmKvxVniKOx) | 2:32 |
 
-Snapshot ID: `AAAAAOlhgdSd2Mucg7pSRvmXQanlJywo`
+Snapshot ID: `AAAAAIiQI1UP4nQtuUuGVMiz0d37eOoa`

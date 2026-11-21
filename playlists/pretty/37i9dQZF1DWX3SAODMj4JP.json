@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 167710,
+  "num_followers": 167726,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAARwiKWi1XW/cTeDc0PE9VVx/3OL",
+  "snapshot_id": "AAAAANh5wYal25sK8/TqduTpTl8JyZHm",
   "tracks": [
     {
       "added_at": "2025-03-07 03:01:18",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 141537,
+      "name": "Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "Louvor IV",
         "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 292788,
       "name": "Louvor IV",
       "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 141537,
-      "name": "Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
     },
     {
       "added_at": "2025-03-07 03:01:18",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "Do Meu Interior",
+        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 159629,
+      "name": "Sobre Viver",
+      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "Olhar de Longe",
         "url": "https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 212354,
       "name": "Olhar de Longe",
       "url": "https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Do Meu Interior",
-        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 159629,
-      "name": "Sobre Viver",
-      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
     },
     {
       "added_at": "2025-03-07 03:01:18",

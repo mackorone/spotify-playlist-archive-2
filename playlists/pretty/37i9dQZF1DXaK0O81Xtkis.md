@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring OK MICKEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,810 likes - 54 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,798 likes - 54 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 53 | [hit and run](https://open.spotify.com/track/3xlzKZ81ldMzbVIXIrnR4H) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [hit and run](https://open.spotify.com/album/7mpDkhXwbn2l7lZCu7rN7w) | 2:57 |
 | 54 | [Who We Are](https://open.spotify.com/track/1jKBuqvBVcKaJWZOLqWyVF) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Who We Are](https://open.spotify.com/album/6gIX1GpqaD5UMqrgmXqxXV) | 2:55 |
 
-Snapshot ID: `AAAAAGwM6ef4t0doAVwSThYMRS3JXpJg`
+Snapshot ID: `AAAAANaBVuxx+i2V8zkr/y98l+AikF3W`

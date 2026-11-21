@@ -4,11 +4,12 @@
 
 > Turn the party on with these hits\. Music videos only available on Premium.
 
-35 songs - 2 hr 6 min
+36 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 | 2025-12-09 |  |
+| [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-11-20 |  |
 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 | 2026-02-12 |  |
 | [China](https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 5:01 | 2026-10-09 |  |
 | [De Lejitos](https://open.spotify.com/track/3Ovcq3hiNOyqbfG3WLIx31) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/2ukbbf4uaeSZF4q09Iciq3) | 3:45 | 2026-06-26 |  |
@@ -36,7 +37,7 @@
 | [QLOO\*](https://open.spotify.com/track/0PUtc28PTUN5ev1siRr4AL) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/1O66jKGCKnQf0Nmo4wlovR) | 2:47 | 2025-12-09 |  |
 | [QUE PRETENDES](https://open.spotify.com/track/7LdXoP2rkbFF0xsPo6fQbg) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [QUE PRETENDES](https://open.spotify.com/album/4KcyXhEqtw6JGkWWq2FQOY) | 3:44 | 2025-12-09 | 2026-10-10 |
 | [RIKI](https://open.spotify.com/track/28kHu9mE8Z6YbBOBXUOJtO) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [RIKI](https://open.spotify.com/album/4nJS5vylDAVo1pPgYYwCR8) | 3:09 | 2026-10-09 |  |
-| [Secreto](https://open.spotify.com/track/5LGl6AkddNBdd8Rt4uunHV) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Secreto](https://open.spotify.com/album/10E2xFStkL2uqXkiXiQEoH) | 4:17 | 2025-12-09 |  |
+| [Secreto](https://open.spotify.com/track/5LGl6AkddNBdd8Rt4uunHV) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Secreto](https://open.spotify.com/album/10E2xFStkL2uqXkiXiQEoH) | 4:17 | 2025-12-09 | 2026-11-21 |
 | [Sexy Movimiento](https://open.spotify.com/track/0Tq9r08MqjyXqgqeuUxpxS) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Historia De El Dúo \(Vol.1\)](https://open.spotify.com/album/5lYf4T8bPha4fuM33kCFr4) | 3:33 | 2025-12-09 |  |
 | [Shiny](https://open.spotify.com/track/4aZhzKTAQOpmMyy8ln9nc7) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Shiny](https://open.spotify.com/album/2WD5MphDwKn8u3UDXxADyH) | 2:39 | 2025-12-09 | 2026-06-27 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/5geixbM9crd2eA3vU6Rsgl) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/6XCUEebM9ZmuFE6UaKgkSp) | 4:34 | 2025-12-09 |  |

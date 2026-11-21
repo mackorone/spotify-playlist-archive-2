@@ -1766,9 +1766,31 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "date_added": "2026-11-09",
+      "date_added": "2026-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 337400,
+      "name": "Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/5iyKTk5pSfUnoSBXecSthc"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes (Complete)",
+        "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-21",
       "duration_ms": 259133,
       "name": "Nocturne No. 15 in F Minor, Op. 55 No. 1",
       "url": "https://open.spotify.com/track/23jrPl3866wVHO0ciwCj2n"

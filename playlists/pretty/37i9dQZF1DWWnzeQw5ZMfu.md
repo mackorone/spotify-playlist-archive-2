@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 49 | [Slow Dancing in a Burning Room \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 5:19 |
 | 50 | [Make You Feel My Love \(Live at Hotel Cafe\)](https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 |
 
-Snapshot ID: `AAAAADP13kg+fksn0zLjYveD/emX/tMA`
+Snapshot ID: `AAAAAEH2f1Se7Pll7C6QgqukxuxqfcAW`

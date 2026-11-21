@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: MARQUIS",
+  "description": "time to strike a couple of poses. cover: MARQUISE",
   "name": "poses",
   "tracks": [
     {
@@ -2910,6 +2910,24 @@
       "duration_ms": 145756,
       "name": "work",
       "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
+    },
+    {
+      "album": {
+        "name": "WYD",
+        "url": "https://open.spotify.com/album/4EVik6Qh4uWAXhSymkPt97"
+      },
+      "artists": [
+        {
+          "name": "Nadine Lustre",
+          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "WYD",
+      "url": "https://open.spotify.com/track/0ZqK3fMghl8y0VR3pxues4"
     },
     {
       "album": {

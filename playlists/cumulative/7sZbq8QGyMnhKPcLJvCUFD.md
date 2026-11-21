@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-930 songs - 1 day 22 hr 15 min
+932 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Calling Out Your Name](https://open.spotify.com/track/6awyjYKGtDWPFaQXbvNu2e) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Tom Wigley](https://open.spotify.com/artist/6eozTfRPyagBkpRZ3lSce2), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Calling Out Your Name](https://open.spotify.com/album/0SndAxCJHSInfQFHSDbr7z) | 3:54 | 2024-01-26 | 2024-08-28 |
 | [Can't Break Me Down](https://open.spotify.com/track/4RW5Yf1FlsxHZfIiy7hwdT) | [PHI NIX](https://open.spotify.com/artist/5eAD22qkgKXFfoP2Z58lU6) | [Can't Break Me Down](https://open.spotify.com/album/3eAKTpoqXitMmo7E7PPZqw) | 3:00 | 2023-03-10 | 2023-08-10 |
 | [Can't Heal You](https://open.spotify.com/track/4nOrzKUogxxtpy1Rel3Nl5) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Can't Heal You](https://open.spotify.com/album/1VYJf6H97llhC98jNrbdkT) | 3:22 | 2025-05-30 |  |
+| [can't help myself](https://open.spotify.com/track/0qk0oErXjRy83VMzJN7jrj) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [hxrtly](https://open.spotify.com/artist/5kQHsD2Du8pX3ECsgfdG7v) | [can't help myself](https://open.spotify.com/album/1azCNb1eL8BtYRSpfv1GkW) | 2:02 | 2026-11-20 |  |
 | [Can't Say No](https://open.spotify.com/track/3GjkAL654ijp5s8Xkh93wV) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q) | [Can't Say No](https://open.spotify.com/album/3ChgqHnbhZNKP8bzyKOyVX) | 3:35 | 2023-01-05 | 2023-04-28 |
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 | 2023-04-28 |
 | [Caramel](https://open.spotify.com/track/14StKF124FSjdGN5zizxeu) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Stahl](https://open.spotify.com/artist/1Yc7C8ld8ndzPNKh3kUmWU), [RUD](https://open.spotify.com/artist/6IJyibMKpIZOeGR8FlxzBb) | [Caramel](https://open.spotify.com/album/1GaCDSNcfWizabEX3El1vl) | 4:02 | 2022-08-19 | 2023-04-28 |
@@ -514,6 +515,7 @@
 | [Magnetic](https://open.spotify.com/track/6uH5jMuZ5F4Uh5cS2QilLw) | [springs!](https://open.spotify.com/artist/7BFXtdXfpw2kj0kAOs73cn) | [Magnetic](https://open.spotify.com/album/0kReeQiJA0nlejIOX6TfkE) | 2:03 | 2024-10-08 |  |
 | [Make Me Feel](https://open.spotify.com/track/376fY1NGArTxUOBQNZSYsj) | [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija), [Chikaya](https://open.spotify.com/artist/3V9ypEhalXAf4ZBYprdI3J) | [Make Me Feel](https://open.spotify.com/album/5EiTne8PGfHcnCsr86Lpml) | 2:41 | 2026-01-13 |  |
 | [Make Me Move](https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Make Me Move](https://open.spotify.com/album/1ON1B59MqwPAJXVLw3E43j) | 3:17 | 2023-08-08 | 2024-02-21 |
+| [Make Me Move \- Alximo Remix](https://open.spotify.com/track/3S7BPgd1qnoN1HLVxPshSZ) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Alximo](https://open.spotify.com/artist/0YRuhTBk1GXQQSlHQjI3Yp) | [Make Me Move \(Alximo Remix\)](https://open.spotify.com/album/1wOmtGuh6el66hcWOaTQVb) | 2:20 | 2026-11-20 |  |
 | [Make Waves](https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Brynja Mary](https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y) | [Make Waves](https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM) | 3:09 | 2023-02-16 | 2023-08-10 |
 | [Marcheur](https://open.spotify.com/track/1sYlEY1HlO9fywssI0siXX) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Marcheur](https://open.spotify.com/album/2tvntXVzem4r9weTdSzrcA) | 4:06 | 2023-12-13 | 2024-04-17 |
 | [Maria](https://open.spotify.com/track/0kLgu4axkaJDT84v42hUSg) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Maria](https://open.spotify.com/album/773RSEiOc5qQNJ7ZGdB5FN) | 2:50 | 2023-06-22 | 2023-08-10 |

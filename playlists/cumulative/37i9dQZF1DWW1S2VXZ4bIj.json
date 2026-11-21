@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: THE TOYS",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Whal & Dolph",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 261000,
       "name": "1 OF 1",
       "url": "https://open.spotify.com/track/5kMl8givhqRWmrDTKauySB"
+    },
+    {
+      "album": {
+        "name": "Book and Black",
+        "url": "https://open.spotify.com/album/4jYeuUVDiTi0tMgLmGRwI4"
+      },
+      "artists": [
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "1 \u0e41\u0e16\u0e21 1 (1 get 1)",
+      "url": "https://open.spotify.com/track/3xm3OfWxUwfGes8OLPAj2f"
     },
     {
       "album": {
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 200000,
       "name": "DND (\u0e42\u0e2b\u0e21\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\ud83c\udf19)",
       "url": "https://open.spotify.com/track/0bwzEJDyFoZYQ3byuS7NPX"
@@ -2881,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184788,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G"
+    },
+    {
+      "album": {
         "name": "LEMONADE - The 2nd Album",
         "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
       },
@@ -3040,7 +3076,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 191000,
       "name": "loser",
       "url": "https://open.spotify.com/track/0Jlu1QY7Q3X84dHAzjYt2Y"
@@ -3688,7 +3724,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 212903,
       "name": "Nonchalant (\u0e44\u0e21\u0e48\u0e41\u0e22\u0e41\u0e2a)",
       "url": "https://open.spotify.com/track/7kFGuvFN7jNwxlA8FjmHcw"
@@ -4560,7 +4596,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 217440,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3"
@@ -5968,7 +6004,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 185686,
       "name": "Viva (\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c)",
       "url": "https://open.spotify.com/track/0TiRqRymaTwwqfvZPlL9TS"
@@ -6835,6 +6871,24 @@
     },
     {
       "album": {
+        "name": "XL",
+        "url": "https://open.spotify.com/album/18dfUQHSbbHh6SePhSSffV"
+      },
+      "artists": [
+        {
+          "name": "Big Ass",
+          "url": "https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e15\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/5pqAbpHRuFhcACwvVBi69V"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
         "url": "https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx"
       },
@@ -7420,7 +7474,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 191538,
       "name": "\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (stay with me)",
       "url": "https://open.spotify.com/track/3XHZDEytvJUol6TqAaoI0W"
@@ -8002,6 +8056,28 @@
       "duration_ms": 235946,
       "name": "\u0e04\u0e37\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/5G9QIsPENzaSjyipcQQAqL"
+    },
+    {
+      "album": {
+        "name": "MONO / SPECTRUM",
+        "url": "https://open.spotify.com/album/2qOC78skUSP5Z8SmKiLjhM"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        },
+        {
+          "name": "Singto Numchok",
+          "url": "https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227007,
+      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e2b\u0e21\u0e32\u0e40\u0e15\u0e47\u0e21\u0e27\u0e31\u0e14 (Temple Dogs)",
+      "url": "https://open.spotify.com/track/2T5VpNm9NMazC504Un8eKX"
     },
     {
       "album": {
@@ -8632,6 +8708,32 @@
       "duration_ms": 219878,
       "name": "\u0e0a\u0e2d\u0e1a\u0e44\u0e1b\u0e2b\u0e21\u0e14 (Way Too Cute)",
       "url": "https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e31\u0e48\u0e27 (SURE)",
+        "url": "https://open.spotify.com/album/0fVYbBaVCDBC6qi7mI5oa7"
+      },
+      "artists": [
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        },
+        {
+          "name": "jeffy",
+          "url": "https://open.spotify.com/artist/1hQpgqfnQgLZcyRaEOlEtT"
+        },
+        {
+          "name": "Kakagoesbackhome",
+          "url": "https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "\u0e0a\u0e31\u0e48\u0e27 (SURE)",
+      "url": "https://open.spotify.com/track/5RQdNyuZMWfmZKIBJrpP7Q"
     },
     {
       "album": {
@@ -9610,6 +9712,24 @@
       "duration_ms": 209605,
       "name": "\u0e17\u0e33\u0e43\u0e08\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/1UeX4ufgrSzP70ZREmsgJO"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e34\u0e49\u0e07\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e1b\u0e35\u0e19\u0e35\u0e49 (Last goodbye)",
+        "url": "https://open.spotify.com/album/5Yru47xnbPewUjjzrg7qb3"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "\u0e17\u0e34\u0e49\u0e07\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e1b\u0e35\u0e19\u0e35\u0e49 (Last goodbye)",
+      "url": "https://open.spotify.com/track/7GuyfN4RmoscvHm1V9DWTO"
     },
     {
       "album": {
@@ -10940,7 +11060,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 292862,
       "name": "\u0e21\u0e32\u0e40\u0e1f\u0e35\u0e22\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/4dd6gy6OI2WRGHl8MERcJb"
@@ -11867,6 +11987,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e0a\u0e19\u0e30\u0e40\u0e25\u0e34\u0e01 (Commentator)",
+        "url": "https://open.spotify.com/album/20UGlYiITd0FOCQobOuJQI"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171879,
+      "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e0a\u0e19\u0e30\u0e40\u0e25\u0e34\u0e01 (Commentator)",
+      "url": "https://open.spotify.com/track/4JaL3orE17LXpx0o1Aohew"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e35\u0e1a\u0e08\u0e31\u0e07 - Single",
         "url": "https://open.spotify.com/album/0iXf5tlYow6KhTXlOPMpl6"
       },
@@ -12271,6 +12409,24 @@
     },
     {
       "album": {
+        "name": "Vipolar",
+        "url": "https://open.spotify.com/album/6IJtdR6L3vew9NQekGVtql"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202727,
+      "name": "\u0e27\u0e31\u0e19\u0e41\u0e23\u0e01 (D-1)",
+      "url": "https://open.spotify.com/track/0Kg0WrO50EnvOVdEJVrk7J"
+    },
+    {
+      "album": {
         "name": "\u0e27\u0e32\u0e2a\u0e19\u0e32\u0e1c\u0e39\u0e49\u0e43\u0e14",
         "url": "https://open.spotify.com/album/21KFJc9i08LxmFt1zP74vo"
       },
@@ -12667,6 +12823,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e01\u0e48\u0e32 (happy new tears)",
+        "url": "https://open.spotify.com/album/5g8jJGT9VVbM7jgz5IRD5T"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277773,
+      "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e01\u0e48\u0e32 (happy new tears)",
+      "url": "https://open.spotify.com/track/2gJI76yjDTtydqxz23tPWi"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (Happily Missing You)",
         "url": "https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H"
       },
@@ -12848,7 +13022,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 226506,
       "name": "\u0e2b\u0e21\u0e2d\u0e01 (just u and i)",
       "url": "https://open.spotify.com/track/1Qhl0FxqskZpvmMy0oqMtJ"
@@ -13720,7 +13894,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 229495,
       "name": "\u0e40\u0e01\u0e47\u0e1a\u0e2d\u0e32\u0e01\u0e32\u0e23 (NO! NO! NO!)",
       "url": "https://open.spotify.com/track/11gPsp6fSdvCyJF6kaDqFj"
@@ -14903,6 +15077,24 @@
     },
     {
       "album": {
+        "name": "BEACH BAR",
+        "url": "https://open.spotify.com/album/2nJxaVqsaSXBjCN9pLJHVt"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258153,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e40\u0e27\u0e25\u0e32 (We Met, We Parted)",
+      "url": "https://open.spotify.com/track/2ZdohVX9Cgsu1sgHrmgXKa"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e1f\u0e49\u0e32 (ABOVE) [Ost.\u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series]",
         "url": "https://open.spotify.com/album/0cJSCTNljetysSWUYORnUU"
       },
@@ -15526,7 +15718,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 273210,
       "name": "\u0e42\u0e1b\u0e23\u0e14\u0e23\u0e31\u0e1a\u0e2a\u0e32\u0e22 (More Kiss)",
       "url": "https://open.spotify.com/track/1jOReOmNY5yKw85ZTEKDZ2"

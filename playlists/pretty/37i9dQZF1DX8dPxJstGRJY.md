@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,676 likes - 87 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,765 likes - 87 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 33 | [Fionnuala's Violin](https://open.spotify.com/track/2Wa1sa1bTOPa6oClKtR133) | [Secret Garden](https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0) | [Fionnuala's Violin](https://open.spotify.com/album/2bh3PcnwOmQtCsNCF5ffNo) | 3:57 |
 | 34 | [Traditional: The Water Is Wide](https://open.spotify.com/track/2UxHkqKJCljF4omDswNqad) | [Camille Berthollet](https://open.spotify.com/artist/4csnBbGU0qHQaIiFN2ZUvI) | [The Water Is Wide](https://open.spotify.com/album/5SKDYCEWCoEhp0UyJQYQE0) | 3:23 |
 | 35 | [Crazy](https://open.spotify.com/track/3tqtR1LaMZBjGn1cpnEU31) | [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [I Feel Misunderstood / Crazy](https://open.spotify.com/album/3oMSMNkUr4RDZMpvuVvERd) | 3:27 |
-| 36 | [Dream of U](https://open.spotify.com/track/6wHhTuGTQwqPTeRLWA7GvH) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Dream of U](https://open.spotify.com/album/74n6VZllwlAOnxzgNEtpET) | 3:40 |
+| 36 | [Dream of U](https://open.spotify.com/track/6wHhTuGTQwqPTeRLWA7GvH) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6), [Danny Koo](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Dream of U](https://open.spotify.com/album/74n6VZllwlAOnxzgNEtpET) | 3:40 |
 | 37 | [Grande amore](https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [10 Years \- The Best Of](https://open.spotify.com/album/2Mqky90OTsnQaKXNwxvbA2) | 3:44 |
 | 38 | [With Or Without You](https://open.spotify.com/track/0TX4O1sHvHLxyQhpr0mkEU) | [Military Wives](https://open.spotify.com/artist/41j6k61g4RW0WQa2s3TUr0) | [In My Dreams](https://open.spotify.com/album/4Vmuk6V7WX9nTAFhLvs106) | 3:59 |
 | 39 | [Return To Love](https://open.spotify.com/track/09YXhYMYIHZBHVKGEQrSQF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Return To Love](https://open.spotify.com/album/2piXcsaXhEcRXaSXVfe4aw) | 4:34 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 86 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 87 | [These Are Special Times](https://open.spotify.com/track/7nmumY8ELmqBhXPCF9IBBc) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/2PG4FagRQNckeShV5upT71) | 4:08 |
 
-Snapshot ID: `AAAAAA9Qu48Y+4OfobK7FT9XbOHlSVRN`
+Snapshot ID: `AAAAAAvBcf1C37GA4JyRR3MBaOK8BntL`

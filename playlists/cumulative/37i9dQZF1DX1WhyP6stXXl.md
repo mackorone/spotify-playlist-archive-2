@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: The Kid LAROI
 
-2,815 songs - 6 day 0 hr 0 min
+2,817 songs - 6 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-28 | 2024-07-27 |
 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:56 | 2026-06-05 | 2026-07-10 |
 | [CRAWLING OUT MY SKIN](https://open.spotify.com/track/5QRdC0sH4GR7BCrvLUgadP) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [CRAWLING OUT MY SKIN](https://open.spotify.com/album/7j9Oes4f4ejjqLZ7QcT0af) | 3:32 | 2026-07-09 | 2026-08-07 |
+| [Crazy For You](https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:43 | 2026-11-20 |  |
 | [Crazy For You](https://open.spotify.com/track/4oBdt4Hc9fe56P3NwH8JH7) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Crazy For You](https://open.spotify.com/album/5Z88ntvAuIC8yul0wIbeSi) | 2:43 | 2024-10-10 | 2024-11-08 |
 | [Crazy Stupid Love](https://open.spotify.com/track/5ChgblPPPwyuGhga3msdns) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Crazy Stupid Love](https://open.spotify.com/album/0058kPDT6f9sJzVj6m7MhY) | 2:36 | 2025-02-27 | 2025-03-28 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-28 | 2024-07-27 |
@@ -957,7 +958,7 @@
 | [GO](https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:15 | 2026-02-27 | 2026-03-27 |
 | [GO](https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [GO](https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt) | 3:00 | 2026-04-17 | 2026-05-01 |
 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 | 2025-07-11 | 2025-08-09 |
-| [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 | 2026-11-19 |  |
+| [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 | 2026-11-19 |  |
 | [Go That High](https://open.spotify.com/track/5ky2asWUDCHRTKt2c769X5) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Go That High](https://open.spotify.com/album/6yvzDsYQpyLiorTkWO29PK) | 3:24 | 2026-06-18 | 2026-07-17 |
 | [Goals](https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Goals \(FIFA World Cup 2026™\)](https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei) | 3:00 | 2026-05-21 | 2026-06-19 |
 | [GOD COMPLEX](https://open.spotify.com/track/3BU8WAFUEUuXjBpxQggnfC) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [GOD COMPLEX](https://open.spotify.com/album/2n9VXftFDlhZCHQp545h6g) | 2:29 | 2026-03-05 | 2026-04-03 |
@@ -1481,6 +1482,7 @@
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-29 | 2025-06-27 |
 | [little black dress](https://open.spotify.com/track/05UGMVbH06OGSgq3tExW9C) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [little black dress](https://open.spotify.com/album/0g7eewUCAkmkOeMjBCBmrN) | 2:33 | 2026-10-22 | 2026-11-20 |
 | [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 | 2025-03-13 | 2025-04-11 |
+| [Little Hopeful Song](https://open.spotify.com/track/74GY7I1yGschuGUk1GLneO) | [Leon Blane](https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu) | [Little Hopeful Song](https://open.spotify.com/album/6qaOhIJERQxSuXNBUsPG4y) | 2:48 | 2026-11-20 |  |
 | [Little More Time](https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Little More Time](https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t) | 3:38 | 2026-04-23 | 2026-05-22 |
 | [little things](https://open.spotify.com/track/0fLLC7cewptHpWjbhLoMQD) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [little things](https://open.spotify.com/album/6qbtBvOlFkr3CSdDwIvr9u) | 3:33 | 2025-11-06 | 2025-11-28 |
 | [little things that make an awful lot](https://open.spotify.com/track/1EvWshka5zYWDH8fCTMH5y) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [little things that make an awful lot](https://open.spotify.com/album/4g5WvdsdtRBfZDcXEp8rQj) | 3:06 | 2025-01-23 | 2025-02-21 |

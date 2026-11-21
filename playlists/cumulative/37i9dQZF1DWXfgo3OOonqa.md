@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,492 songs - 4 day 9 hr 38 min
+2,493 songs - 4 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [146 Reasons](https://open.spotify.com/track/6VIc5rIimLqQfBoKJOkFDX) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [146 Reasons](https://open.spotify.com/album/0uOgseTTBMhabvqyjnp6kB) | 2:43 | 2022-12-15 | 2023-01-06 |
 | [15 Minuter](https://open.spotify.com/track/65lGNpSIL1Sq34XWryc8Zt) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [15 Minuter](https://open.spotify.com/album/0UnhWI9Gb9SQcZT2I49Cz9) | 2:38 | 2023-09-21 | 2023-10-13 |
 | [17](https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [17](https://open.spotify.com/album/6oGhSS3fgBmqjpd0yuO9fi) | 2:31 | 2023-05-04 | 2023-07-20 |
+| [19](https://open.spotify.com/track/1fdfrnUKu6YrVk9NTQnXkx) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc) | [19](https://open.spotify.com/album/2mUG540ZbHkdRgbklLoYHM) | 2:32 | 2026-11-20 |  |
 | [1991](https://open.spotify.com/track/1O0bIhJ2mBpZPFHzENJx9z) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [1991](https://open.spotify.com/album/5O7zW8t6x5ft5vofOxLP0l) | 6:15 | 2026-08-20 |  |
 | [2 2’s](https://open.spotify.com/track/2Ild4kndcMMXwNL3R0pPei) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [STILL HERE](https://open.spotify.com/album/1ZcSdlJ2Htap4JzUXd2ixw) | 2:49 | 2026-09-17 |  |
 | [2 GUNS UPP SOM JUL](https://open.spotify.com/track/0TwQ0wgj8AdeaEdwDq3h30) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [2 GUNS UPP SOM JUL](https://open.spotify.com/album/3623NxWE2MSXMaPHjRhpnR) | 1:55 | 2025-12-11 | 2026-04-03 |

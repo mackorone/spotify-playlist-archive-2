@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388315,
+  "num_followers": 388308,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIZlcabji9JISQNssz/TT839rbt8",
+  "snapshot_id": "AAAAANFL+yX/QZ167ghcDke2Ez+VOv7K",
   "tracks": [
     {
       "added_at": "2026-11-13 13:42:26",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-11-13 13:42:26",
       "album": {
-        "name": "La femme aux yeux de sel",
-        "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        },
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Drink the Ocean (feat. Oracle Sisters)",
-      "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
-    },
-    {
-      "added_at": "2026-11-13 13:42:26",
-      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
+    {
+      "added_at": "2026-11-13 13:42:26",
+      "album": {
+        "name": "La femme aux yeux de sel",
+        "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        },
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Drink the Ocean (feat. Oracle Sisters)",
+      "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
     },
     {
       "added_at": "2026-11-13 13:42:26",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-11-13 13:42:26",
       "album": {
-        "name": "Grateful For",
-        "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 219779,
-      "name": "Grateful For",
-      "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
-    },
-    {
-      "added_at": "2026-11-13 13:42:26",
-      "album": {
         "name": "Disarray",
         "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "added_at": "2026-11-13 13:42:26",
+      "album": {
+        "name": "Grateful For",
+        "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 219779,
+      "name": "Grateful For",
+      "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
     },
     {
       "added_at": "2026-11-13 13:42:26",

@@ -4380,7 +4380,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 221116,
       "name": "freefall",
       "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
@@ -13988,6 +13988,28 @@
       "duration_ms": 162041,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6oeevrLRLwMDuMufg1nChH"
+    },
+    {
+      "album": {
+        "name": "TAKE CONTROL",
+        "url": "https://open.spotify.com/album/1SZxFCuTBWqxmDf1tFfbM1"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440955,
+      "name": "TAKE CONTROL",
+      "url": "https://open.spotify.com/track/2nW8b9iS0bw0VqmaIURQqV"
     },
     {
       "album": {

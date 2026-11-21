@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-777 songs - 1 day 13 hr 48 min
+778 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Acorda pra Não Chorar \- Ao Vivo](https://open.spotify.com/track/1vMXpuUT7WPZSu6K8tS9e1) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83), [Laluna & Vinícius](https://open.spotify.com/artist/2jzKdpvOZIJmNVhdmJcy1H) | [Fátima Leão \(Ao Vivo\)](https://open.spotify.com/album/4aAAo4TMNKoNbJVI3WRBtC) | 3:26 | 2025-04-25 | 2025-04-27 |
 | [Adeus](https://open.spotify.com/track/7hS49CsgrcdKMewHLtVxNy) | [Tiaguinho Carvalho](https://open.spotify.com/artist/3YTPwaAl7b7ve2E7fEfeMc) | [Sentimento no Máximo 2.0](https://open.spotify.com/album/4asOaoxIcNXJv5wLPSBS5V) | 2:24 | 2026-09-25 |  |
 | [Agora](https://open.spotify.com/track/6GIyHERNueurRclzAG3r0r) | [Pablo](https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK) | [É Só Dizer Que Sim](https://open.spotify.com/album/4KngrxmbT1fr7Tkdqo1Sei) | 3:36 | 2023-12-30 |  |
-| [Aguá na Boca](https://open.spotify.com/track/05Rd9b2AUzIHG4kr1cjQcl) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Na Batida do PPA](https://open.spotify.com/album/7faQ69cIPvlWgYKuEpNdaA) | 2:31 | 2023-12-30 |  |
+| [Aguá na Boca](https://open.spotify.com/track/05Rd9b2AUzIHG4kr1cjQcl) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Na Batida do PPA](https://open.spotify.com/album/7faQ69cIPvlWgYKuEpNdaA) | 2:31 | 2023-12-30 | 2026-11-21 |
 | [Ai Baby](https://open.spotify.com/track/1Amags7U4Uk2Udfl8C4MOK) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Ai Baby](https://open.spotify.com/album/1Tcar8g07UQZ2BdwKEgmFB) | 3:12 | 2023-12-30 |  |
 | [Ainda Sou O Mesmo](https://open.spotify.com/track/2G0aziZzX1n5OsNEQ7fHas) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Vivo Apaixonado](https://open.spotify.com/album/4kIg4gaDN2YzfSHVVs91xH) | 4:22 | 2023-12-30 |  |
 | [Ajuda De Outra \- Ao vivo](https://open.spotify.com/track/03jnlJ0pKlhIw3gKi4FXEI) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Tudo Começa Aqui \(Ao vivo\)](https://open.spotify.com/album/1ZtaLjtq8Lec0kYVdRBpEa) | 3:04 | 2023-12-30 |  |
@@ -780,6 +780,7 @@
 | [Zero Expectativa \- Ao Vivo](https://open.spotify.com/track/4Ep7iNCzIc57fbFpJFEhmH) | [Alice Ianes](https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5) | [Ao Vivo em Goiânia, Ep\. 1](https://open.spotify.com/album/4IOnCuAqRmFJvfWZH3ZwLO) | 2:53 | 2023-12-30 |  |
 | [Zum do Zé Rico](https://open.spotify.com/track/0Cb7ZwPhPFNaonUwfTTBoa) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Minha Loucura de Amor](https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5) | 3:21 | 2023-12-30 |  |
 | [Água e Ração \- Ao Vivo](https://open.spotify.com/track/3CNqNDr3dGAFHkf3FrAlDq) | [Rob Nunes](https://open.spotify.com/artist/3WhKStgXqBomTpLZr6Q07a) | [Rob Nunes Ao Vivo em Goiânia](https://open.spotify.com/album/1xCVGPEow1bOVKADYkN7D2) | 3:12 | 2023-12-30 |  |
+| [Água na Boca](https://open.spotify.com/track/6q1MTRCGWGPfhN7eIduvXX) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Na Batida do PPA](https://open.spotify.com/album/3faUOj9MFRHgsGdY9BVIAg) | 2:30 | 2026-11-20 |  |
 | [Álcool na Mente](https://open.spotify.com/track/62gvDRVsoAvzEWo8zX6UMm) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Minhas Regras](https://open.spotify.com/album/4YU2LUtO2UGKjL71MXfvmL) | 2:53 | 2025-05-31 |  |
 | [ÁUDIO BEBO](https://open.spotify.com/track/6W92IHt7518tZWhcrVLQJk) | [Pedro Soares](https://open.spotify.com/artist/4MfmF7uVCC4bMk7iZs3EmR), [please provide producers](https://open.spotify.com/artist/3CNFaw9c9HpH0wxfDKfnmM) | [O Chefe Chegou](https://open.spotify.com/album/4rCooFfIxhO4aQFXH0BpEl) | 3:16 | 2025-05-31 |  |
 | [É de Dar Dó \- Ao Vivo](https://open.spotify.com/track/0uIrQgpJlICZ7pJqwsGeo1) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Sextou BB 4 Completo \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw) | 2:42 | 2023-12-30 | 2025-11-14 |

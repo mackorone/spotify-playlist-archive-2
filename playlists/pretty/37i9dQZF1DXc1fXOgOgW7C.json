@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 53949,
+  "num_followers": 53955,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACXMaSJwCA7QzRHZvZ/fvoT6wDLt",
+  "snapshot_id": "AAAAAKq0rL1h4O/eJ95fbWPzSqFQ8iUe",
   "tracks": [
     {
       "added_at": "2024-06-12 22:23:25",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Las Antenas",
-        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 273240,
-      "name": "Alas Rotas",
-      "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Besos en la Espalda",
         "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 166573,
       "name": "Perdiendo la Cabeza",
       "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Las Antenas",
+        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "Alas Rotas",
+      "url": "https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Random",
-        "url": "https://open.spotify.com/album/3AFgH2pplBRflUp6D1d1eQ"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 280493,
-      "name": "La M\u00e1quina de Ser Feliz",
-      "url": "https://open.spotify.com/track/52qq2T7uXlpI7Kfb4otWNk"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Los Esp\u00edritus",
         "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 299880,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Random",
+        "url": "https://open.spotify.com/album/3AFgH2pplBRflUp6D1d1eQ"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 280493,
+      "name": "La M\u00e1quina de Ser Feliz",
+      "url": "https://open.spotify.com/track/52qq2T7uXlpI7Kfb4otWNk"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Yo Te Amo",
-        "url": "https://open.spotify.com/album/0Lbrgw1MoFhmnX1FyBpRw3"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/44fpTaUuSFvwzeJe4yEDDe"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "A Punto Caramelo",
         "url": "https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 222866,
       "name": "El Ritmo de la Vida",
       "url": "https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Yo Te Amo",
+        "url": "https://open.spotify.com/album/0Lbrgw1MoFhmnX1FyBpRw3"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/44fpTaUuSFvwzeJe4yEDDe"
     },
     {
       "added_at": "2024-06-12 22:23:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,997 likes - 234 songs - 14 hr 44 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,998 likes - 237 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,5 +242,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 232 | [Through the Night](https://open.spotify.com/track/4mBry47NgsmKSU37gf7Ffa) | [Hour Late](https://open.spotify.com/artist/161Hbf5DhRgfJwXCGhCtlg) | [Nostalgia](https://open.spotify.com/album/5A9BrjfJosvN2NL0p4zgQk) | 3:41 |
 | 233 | [Shackles](https://open.spotify.com/track/01LuaGp6XUWPsIbraFsR6t) | [LOOM!](https://open.spotify.com/artist/4m7b8YVJXc2RlWkuJ58BEY) | [Shackles](https://open.spotify.com/album/73PVMXyu3piQxijYuGiVjH) | 4:03 |
 | 234 | [Situations](https://open.spotify.com/track/2SL0bS7rRP7XX77Ckykyum) | [One Good Reason](https://open.spotify.com/artist/4o1P5bTNq3RldWq7BHnfWK) | [Stories from a Small Town](https://open.spotify.com/album/6G1nRP5vmm32S5OmEC4V6I) | 3:02 |
+| 235 | [I Just Saw Santa Walk In](https://open.spotify.com/track/0lbFlrlcZ6GQjxEoBhaL21) | [John Allen Kipta](https://open.spotify.com/artist/6VMENRR0HKdBPQrihvsCB4) | [I Just Saw Santa Walk In](https://open.spotify.com/album/2Lyh20uJ9MqqI3RNXAQjF8) | 2:36 |
+| 236 | [Turkey Tales](https://open.spotify.com/track/3LJ2eJKHPna1hooFPhcdpD) | [Abigail Rich](https://open.spotify.com/artist/5vDhUjPO4w8nPPUPQIVs0A) | [Turkey Tales](https://open.spotify.com/album/1BB5adKykgkFxALcqKONgP) | 5:48 |
+| 237 | [Fire & Ice](https://open.spotify.com/track/3qw4dbF1uRMAgbqzGzGpGL) | [Charlie Pineda](https://open.spotify.com/artist/23JZjioAkdchmnfIQfFzS0) | [Fire & Ice](https://open.spotify.com/album/3iBeSLP4QaWBwU3HDgPyTh) | 3:26 |
 
-Snapshot ID: `AAANF3t7fHJBDTAkrCiw+OMYvlZ39jvS`
+Snapshot ID: `AAANGvHGeL1povxQELoFvhlE9VBO2xyv`

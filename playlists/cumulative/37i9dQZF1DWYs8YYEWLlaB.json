@@ -4209,6 +4209,28 @@
     },
     {
       "album": {
+        "name": "Nerdesin Ey Tanr\u0131m",
+        "url": "https://open.spotify.com/album/3S16BFquZVjUoCLfQN6hp2"
+      },
+      "artists": [
+        {
+          "name": "R\u0131za Sar\u0131ta\u015f",
+          "url": "https://open.spotify.com/artist/7MUr26eqFK3BCP4y6A1mJw"
+        },
+        {
+          "name": "Devrim \u00d6zkan",
+          "url": "https://open.spotify.com/artist/2oIEhAnqryRCrpQJtLp2CQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206103,
+      "name": "Nerdesin Ey Tanr\u0131m",
+      "url": "https://open.spotify.com/track/6meX2fieTgDWAjaCGUb7zx"
+    },
+    {
+      "album": {
         "name": "Ki\u015fiye \u00d6zel",
         "url": "https://open.spotify.com/album/0YKWM0fWJPqohGAIj9nTEw"
       },
@@ -5930,7 +5952,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 166425,
       "name": "Ya\u015fanacaksa",
       "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"

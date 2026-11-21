@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0XlmFrZ1K5.md) - [plain]
 | 75 | [The Weakest](https://open.spotify.com/track/36cMs0d2TC5Hs7keii0hp4) | [24th](https://open.spotify.com/artist/4akrpG8RfXOP6F6DjLe4nV) | [The Weakest](https://open.spotify.com/album/3ZNY6p2IhQagEPlbWudkVt) | 3:40 |
 | 76 | [Summer Cold](https://open.spotify.com/track/5ZH0eXW5Zgj9XDo8WbL9iW) | [24th](https://open.spotify.com/artist/4akrpG8RfXOP6F6DjLe4nV) | [Summer Cold](https://open.spotify.com/album/6PrTbpVDMRI8rROUrfYAeY) | 4:18 |
 
-Snapshot ID: `AAAAAMx7YLVe6HJJFSjYV7pKS6iHmOXD`
+Snapshot ID: `AAAAAK2/W1lWXvIss4elp7t9cPv5EQ3N`

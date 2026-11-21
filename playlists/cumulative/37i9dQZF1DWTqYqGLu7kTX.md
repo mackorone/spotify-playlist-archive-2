@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover: Karan Aujla
+> Best of Punjabi Hip\-Hop! Cover: Prem Dhillon
 
-361 songs - 17 hr 53 min
+362 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2023-03-18 | 2024-03-28 |
 | [Fuck Em All](https://open.spotify.com/track/0Z2SFlnXH9yMN36djUeqyE) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Fuck Em All](https://open.spotify.com/album/6PTLko2QL2jLSvSVqrwIrd) | 3:54 | 2023-03-18 | 2023-12-19 |
 | [Fuck Them](https://open.spotify.com/track/6iF1UgWYMiDzlBfvamTNdP) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:50 | 2024-08-26 | 2024-09-17 |
-| [G Who](https://open.spotify.com/track/7J9tw4E4ZKcX0AvhTOtqfk) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [Autobiography](https://open.spotify.com/album/49kI8wLqF1S7EKpl4t2Cfn) | 2:57 | 2026-09-25 |  |
+| [G Who](https://open.spotify.com/track/7J9tw4E4ZKcX0AvhTOtqfk) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [Autobiography](https://open.spotify.com/album/49kI8wLqF1S7EKpl4t2Cfn) | 2:57 | 2026-09-25 | 2026-11-21 |
 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 | 2023-03-18 | 2024-11-12 |
 | [G.O.D](https://open.spotify.com/track/6BoXE8m9l1MLheec7Gycey) | [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu) | [We Don't Miss](https://open.spotify.com/album/3VddrgZQlV9mkR19fFIIbn) | 3:24 | 2026-01-30 | 2026-02-21 |
 | [Gabru](https://open.spotify.com/track/0GwNnekTpPXcbyni4NawXD) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Gabru](https://open.spotify.com/album/7JoRuzTq3XToLeYEj8L8EA) | 2:51 | 2023-03-18 | 2023-05-27 |
@@ -232,6 +232,7 @@
 | [Nazare](https://open.spotify.com/track/4y6I1Jm5Vh0QKh454bOz4i) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 2:45 | 2026-02-17 | 2026-05-30 |
 | [Negative Bande](https://open.spotify.com/track/2s5BdD53tc3EXJJZLOpGgN) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx) | [Negative Bande](https://open.spotify.com/album/2jnwBnl9Ea0ZXqqlbcH4tM) | 3:07 | 2024-09-16 | 2024-10-11 |
 | [Never Ever](https://open.spotify.com/track/4DSrqUJX30NN9Gip0BSB7c) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:26 | 2024-11-11 | 2025-07-12 |
+| [Never Left](https://open.spotify.com/track/35zKLzdHPLIUgXYLpX9T4y) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Never Left](https://open.spotify.com/album/0GHQcRFWJRabw6UEgFn5jy) | 3:25 | 2026-11-20 |  |
 | [NEVER LET YOU GO](https://open.spotify.com/track/1qOk5j2nzKQ8dICX8DNo51) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [One Day It Will All Make Sense](https://open.spotify.com/album/19Mm6euzUtEIpsTDkkjnsi) | 3:11 | 2025-03-07 | 2025-05-10 |
 | [NEXT MOVE](https://open.spotify.com/track/1KkvScHwbnrrtaZ3z06vQR) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [THE WOMAN KING](https://open.spotify.com/album/5pagoghrHhtj1fUcXIAB7q) | 2:45 | 2023-11-20 | 2023-12-19 |
 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 | 2024-11-25 |  |

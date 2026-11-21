@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The Kid LAROI, Lana Del Ray, Dua Lipa, Gracie Abrams, Keli Holiday + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,402 likes - 89 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,657 likes - 89 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crazy For You](https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:43 |
 | 2 | [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 |
-| 3 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:12 |
+| 3 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:11 |
 | 4 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
 | 5 | [Sunburnt St](https://open.spotify.com/track/1GcWZxhpLg0syUlfwS4wGW) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Sunburnt St](https://open.spotify.com/album/5FtumlnUHJK2CIPU5GRIuy) | 3:34 |
 | 6 | [AHH YEA](https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 2:00 |
 | 7 | [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 |
 | 8 | [The Vacation Song](https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [The Vacation Song](https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK) | 3:27 |
-| 9 | [PIRATE RADIO \- Normal Pleasure Remix](https://open.spotify.com/track/1rydhjBn7oFdOLQIBmGvOy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Normal Pleasure](https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI) | [CLUBSTAR WU \(Normal Pleasure Remix\)](https://open.spotify.com/album/2pLxdQrZBoeRsmWqgqGfA1) | 3:36 |
+| 9 | [PIRATE RADIO \- Normal Pleasure Remix](https://open.spotify.com/track/1rydhjBn7oFdOLQIBmGvOy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Normal Pleasure](https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI) | [CLUBSTAR WU](https://open.spotify.com/album/2pLxdQrZBoeRsmWqgqGfA1) | 3:36 |
 | 10 | [Whispers In The Wind](https://open.spotify.com/track/42Bpbeh7uDLOnDFyBWwRcI) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Whispers In The Wind](https://open.spotify.com/album/0S5JVI68OlKW9mIcq0pdqp) | 4:28 |
 | 11 | [Just A Woman](https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Just A Woman](https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop) | 3:44 |
 | 12 | [LAMINE YAMAL \(feat\. La Pantera\)](https://open.spotify.com/track/4iUjotWvNyG99ldTZTRysc) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [LOCKED IN \(EUROLUXE\)](https://open.spotify.com/album/2H2FFVVPzAYw3Qhw3IAxbb) | 2:13 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 18 | [I'm a Song \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0v9ZnTzTMTkl4hkJT8yVGE) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm a Song](https://open.spotify.com/album/1FvFf5xivch1Q13ouzmC8o) | 4:35 |
 | 19 | [Lost \(In All The Lights\)](https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Lost \(In All The Lights\)](https://open.spotify.com/album/354PlL7RC6QKmolEblejz6) | 3:16 |
 | 20 | [KILLING GOD WITH COMPUTERS](https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [爱](https://open.spotify.com/album/2Y8q8UKpgrmPGV8mFchvIj) | 3:17 |
-| 21 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
+| 21 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 22 | [Evil](https://open.spotify.com/track/33fdsT0aOPGhHe3YUaWQz4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Evil](https://open.spotify.com/album/2kd3EO629nFKikFxc7MpH4) | 3:00 |
 | 23 | [Innerbloom XI](https://open.spotify.com/track/2fwVnifj9tP17FAtT3Lsq3) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Innerbloom XI](https://open.spotify.com/album/5mTgGkQwkLPTrBk4m2BL5O) | 9:03 |
 | 24 | [In My Dreams](https://open.spotify.com/track/4Oj57oTJWMJ8A3BEGE2ZGD) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [In My Dreams](https://open.spotify.com/album/46oBCvaG8O3tAZc9V9vWdH) | 2:53 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 88 | [Down Low](https://open.spotify.com/track/2s06Tjym6Ul7XwVngiPCDj) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [That Gurl Bella](https://open.spotify.com/artist/1qMG4xNqbtKrqRQzFa5Mfj) | [Down Low](https://open.spotify.com/album/0VZTscp9f8CL76ziNJtuxv) | 2:56 |
 | 89 | [POV](https://open.spotify.com/track/5JOX8zkO1qqV9adai0ucql) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [LA Slim](https://open.spotify.com/artist/4ls7xj26Yz314SPjohihgS) | [POV](https://open.spotify.com/album/1bcWxCZtltBIAHHCB7jidJ) | 1:58 |
 
-Snapshot ID: `AAAAALPc1dHPysg+2OsipE3PlLqphBnl`
+Snapshot ID: `AAAAANwuqyL/IbjEpP4xLhPZ5KSfkGfr`

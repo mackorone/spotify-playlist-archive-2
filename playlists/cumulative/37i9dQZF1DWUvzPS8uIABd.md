@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-1,147 songs - 2 day 9 hr 6 min
+1,148 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [ILY](https://open.spotify.com/track/0jBgpqrjZsjAxgWGYE6cs7) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [ILY](https://open.spotify.com/album/7MUhZHTwzadlxv6g1ysJYq) | 2:20 | 2024-07-02 | 2024-08-10 |
 | [Innovaattori](https://open.spotify.com/track/38ttg6L4jKJAdfJnfs6wU1) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Innovaattori](https://open.spotify.com/album/47ROMB4iVumr9midsb8owJ) | 2:54 | 2025-07-03 | 2025-08-13 |
 | [iPhone](https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [iPhone](https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv) | 2:31 | 2026-02-05 | 2026-04-03 |
+| [Is It Time?](https://open.spotify.com/track/3C0PGpoJoWbSu7RRmcTBWi) | [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV), [Jesse Puljujärvi](https://open.spotify.com/artist/1gJhzSCdDYBR3d9OJMD9vM) | [Is It Time?](https://open.spotify.com/album/7tQZYNAQfx2FE1vuVtsymB) | 2:29 | 2026-11-20 |  |
 | [Iskelmää](https://open.spotify.com/track/0dqtnUAiNVHoffw7FUGi6D) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Iskelmää](https://open.spotify.com/album/2LXiIuRUeyfAcjZnZcrcDF) | 2:16 | 2024-10-03 | 2024-11-08 |
 | [Isäni ääni \- Vain elämää kausi 15](https://open.spotify.com/track/6P9KWnCxmxipKNhXrdKcRn) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Isäni ääni \(Vain elämää kausi 15\)](https://open.spotify.com/album/634wQ7nbd9qeYmlBgjkTQr) | 3:01 | 2024-11-14 | 2024-11-22 |
 | [It's About Time \(Vain elämää kausi 15\)](https://open.spotify.com/track/6Vk0TCNfXU9WhFvboX2Jb6) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [It's About Time \(Vain elämää kausi 15\)](https://open.spotify.com/album/2DBlENWqa5h0LKhzzxUDl1) | 2:44 | 2024-11-28 | 2024-12-06 |
@@ -571,7 +572,7 @@
 | [missaa](https://open.spotify.com/track/3A3TNeDWLjPICABdh7dwjx) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [missaa](https://open.spotify.com/album/4aBAuOgqzj38ScLWgbnhDJ) | 2:35 | 2026-10-15 |  |
 | [Missä oot \(feat\. LAVAREDO\)](https://open.spotify.com/track/7wZmtQ2gj0Ol8FAnU2eQno) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Missä oot \(feat\. LAVAREDO\)](https://open.spotify.com/album/5TedU6Xs4THsTxrdcInWKH) | 3:25 | 2025-03-27 | 2025-06-13 |
 | [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 | 2024-10-03 | 2024-10-15 |
-| [mistä alottasin](https://open.spotify.com/track/3u0l9pznpQbqwN11aVjbEx) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx), [internet soulja](https://open.spotify.com/artist/0TqMPPXrgPRlyk2wEXdqLj), [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [mistä alottasin](https://open.spotify.com/album/58NVaJOI254URQle798uAH) | 3:27 | 2026-09-03 |  |
+| [mistä alottasin](https://open.spotify.com/track/3u0l9pznpQbqwN11aVjbEx) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx), [internet soulja](https://open.spotify.com/artist/0TqMPPXrgPRlyk2wEXdqLj), [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [mistä alottasin](https://open.spotify.com/album/58NVaJOI254URQle798uAH) | 3:27 | 2026-09-03 | 2026-11-21 |
 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 | 2024-09-13 | 2025-01-03 |
 | [Miten sut mielest poistetaan](https://open.spotify.com/track/2FMNFfVVGy7ntA0fbBb4n1) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Miten sut mielest poistetaan](https://open.spotify.com/album/1p73kuTshEB83c1lN8zeBc) | 3:00 | 2024-10-24 | 2025-01-14 |
 | [Mitä helvettii mä teen tääl](https://open.spotify.com/track/4O2Hi3g9RzZV9xKIIosRAv) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Mitä helvettii mä teen tääl](https://open.spotify.com/album/3osIWRkcvBQ6QGBiMCH5I2) | 3:07 | 2024-08-15 | 2024-09-06 |

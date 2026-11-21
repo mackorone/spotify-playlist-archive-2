@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 6305,
+  "num_followers": 6315,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAD6im3KU0zHjw3vc+c6vrJm",
+  "snapshot_id": "av48AAAAAABnh7yfhOk5q3pTmLxopiQl",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd"
       },
       "artists": [
-        {
-          "name": "Maz B",
-          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
-        },
         {
           "name": "Avenoir",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Crisis Evasion",
-      "url": "https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al"
+      "duration_ms": 155586,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/1rgwKSuwFnq9nw54ZfKKjp"
     },
     {
       "added_at": null,
@@ -223,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
       },
       "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        },
         {
           "name": "Avenoir",
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 155586,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/1rgwKSuwFnq9nw54ZfKKjp"
+      "duration_ms": 154960,
+      "name": "Crisis Evasion",
+      "url": "https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al"
     },
     {
       "added_at": null,

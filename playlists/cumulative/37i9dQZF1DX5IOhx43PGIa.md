@@ -2,9 +2,9 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\. <br/>Cover: Mei Semones
+> Illuminating Asian artists everywhere\. <br/>Cover: Rina Sawayama
 
-1,467 songs - 3 day 4 hr 20 min
+1,471 songs - 3 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Baari](https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Baari](https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu) | 3:55 | 2023-07-14 | 2023-10-04 |
 | [Baby](https://open.spotify.com/track/6L3rzNHhoBAt2yERmplzuU) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Baby](https://open.spotify.com/album/2GWUAh0pqsE3N7EwMMDEj2) | 4:17 | 2025-09-19 | 2025-10-18 |
 | [Baby Blue](https://open.spotify.com/track/2P6qhc0PFVsu9xtoNfsBuo) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Baby Blue](https://open.spotify.com/album/7rBXqPaeYu6m0krqErIjs2) | 2:51 | 2024-04-05 | 2024-12-14 |
-| [Baby Girl](https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Baby Girl](https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU) | 2:57 | 2026-07-24 |  |
+| [Baby Girl](https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Baby Girl](https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU) | 2:57 | 2026-07-24 | 2026-11-21 |
 | [Baby OG](https://open.spotify.com/track/576C4UPQH8PgacOTLaDByI) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [TRENCH](https://open.spotify.com/album/3OHhCA38DhT7rBXa5Ea4go) | 3:31 | 2024-10-18 | 2025-02-15 |
 | [Backhouse Ballin' \(feat\. James Reid\)](https://open.spotify.com/track/24yMI9O8GEdADu3hj4axGS) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 3:36 | 2022-05-27 | 2022-11-12 |
 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 | 2024-08-02 | 2024-10-19 |
@@ -124,6 +124,7 @@
 | [Before And After](https://open.spotify.com/track/4TtF1aNhUmgg5UNB9WEdcz) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [You Could Stay In One Spot, and I’d Love You The Same](https://open.spotify.com/album/02NXgCnjg4NbFUSm4LGJeK) | 3:17 | 2024-06-14 | 2024-10-12 |
 | [Before i leave](https://open.spotify.com/track/2IeZiPqF5dW3Ar0Stn0Las) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Before i leave](https://open.spotify.com/album/7mawlJhUwLI7JyjI5xbeo7) | 3:23 | 2025-08-15 | 2025-11-08 |
 | [believer](https://open.spotify.com/track/1gsluHuD49kHNRffgIkxEJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [THE VALOUR HOUR](https://open.spotify.com/album/2FHhVwTH9nsnSRNfFO0aHv) | 2:57 | 2026-05-08 | 2026-10-17 |
+| [Belle Of The Ball](https://open.spotify.com/track/4BMSTla2bxnKi2GV3DnWSg) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Wishing In Reverse](https://open.spotify.com/album/2uvbVlvIRKK5sljHcWDD2h) | 3:08 | 2026-11-20 |  |
 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 | 2025-08-01 | 2026-04-25 |
 | [Beni Khuley](https://open.spotify.com/track/6BCEJpxAaejJUD5Uxu7jF6) | [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Habib Wahid](https://open.spotify.com/artist/60jYUgQzKAtnJoXKGk1GNn) | [Beni Khuley](https://open.spotify.com/album/29FUwFwpIi3iIBnOo6DS9L) | 2:58 | 2023-07-14 | 2023-08-12 |
 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 | 2026-02-27 | 2026-04-25 |
@@ -724,7 +725,7 @@
 | [Lately](https://open.spotify.com/track/5DHncTNEtkj14A5JZ9f0oz) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [icecream](https://open.spotify.com/album/5Po4vHcEvcKP17j23ReHAa) | 2:27 | 2025-12-12 | 2026-08-01 |
 | [Lately I](https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Lately I](https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj) | 3:07 | 2024-04-26 | 2024-08-31 |
 | [learning](https://open.spotify.com/track/4C5e1xJvLrS1sGFnYReqjp) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [learning](https://open.spotify.com/album/5qZtdJShHqReYRroD3KE02) | 3:40 | 2024-12-20 | 2025-04-26 |
-| [Leave Me There](https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Leave Me There](https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk) | 4:16 | 2026-10-30 |  |
+| [Leave Me There](https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Leave Me There](https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk) | 4:16 | 2026-10-30 | 2026-11-21 |
 | [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 | 2023-10-13 | 2024-06-15 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-24 | 2023-08-12 |
 | [LEFT OF ME](https://open.spotify.com/track/3yekSsyZzNvn9fsm1cznEP) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [LEFT OF ME](https://open.spotify.com/album/2eBFKPAzMn0bHJWigIrRiV) | 3:14 | 2024-07-19 | 2025-01-11 |
@@ -806,6 +807,7 @@
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-12 | 2024-09-28 |
 | [Make A Move](https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 3:13 | 2022-05-27 | 2023-01-28 |
 | [Making Me Sick!](https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5) | 3:22 | 2022-05-27 | 2022-07-29 |
+| [Mama!](https://open.spotify.com/track/6dLKFSdxcmYCl1Qeb97RGO) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 2:42 | 2026-11-20 |  |
 | [Man Who Loves You](https://open.spotify.com/track/68dUmGSHlVI88mej6pb418) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2) | 3:29 | 2022-07-22 | 2022-08-31 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2022-09-23 | 2022-10-08 |
 | [Manike Mage Hithe](https://open.spotify.com/track/5JO2usoem1CW1pLL1kLj9E) | [Chamath Sangeeth](https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Satheeshan](https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c) | [Manike Mage Hithe](https://open.spotify.com/album/0CuAXOxHwlGy4l8cyUD3bs) | 2:42 | 2023-07-14 | 2023-08-12 |
@@ -1215,6 +1217,7 @@
 | [Sweet Release](https://open.spotify.com/track/57AHXTG9XpkqSsWSDCswmk) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Sweet Release](https://open.spotify.com/album/7v4kLaOxEQCqG1z6PlzF85) | 2:28 | 2024-08-02 | 2024-08-31 |
 | [Sweet Satin Boy](https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Sweet Satin Boy](https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka) | 3:05 | 2025-09-12 | 2026-08-28 |
 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 | 2025-11-21 | 2026-07-25 |
+| [Sweet Tooth Sugar High](https://open.spotify.com/track/3ZcN5U1u7Lh7bcdeE2NC0p) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Sweet Tooth Sugar High](https://open.spotify.com/album/5q4FvUELBTC66mkRSPILqY) | 2:46 | 2026-11-20 |  |
 | [Sweetheart](https://open.spotify.com/track/5tf37dHrHQULJOOVnI1VZM) | [Long Beard](https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9) | [Means To Me](https://open.spotify.com/album/2Fr2zP4JhUBK1b70w5YbXk) | 5:34 | 2025-05-16 | 2025-05-24 |
 | [Sweetness and Light](https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 5:17 | 2023-09-01 | 2023-09-23 |
 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-20 |  |
@@ -1319,6 +1322,7 @@
 | [Trauma Olympics](https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Mind Your Business](https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu) | 2:04 | 2025-12-05 | 2026-07-25 |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-25 | 2024-06-15 |
 | [traveling](https://open.spotify.com/track/6OxxzC0HsX7zK3ZO3q79H6) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [DEEP RIVER](https://open.spotify.com/album/5xcIRLlQWJBqN8fpmlskGr) | 5:13 | 2022-09-23 | 2022-10-08 |
+| [TRDWFE \(from GTAVI: The Album\)](https://open.spotify.com/track/4EYS7wMKi6m0eqnWsbmJWD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [TRDWFE \(from GTAVI: The Album\)](https://open.spotify.com/album/2zNiwxpt15iD9uXomdz8pv) | 2:36 | 2026-11-20 |  |
 | [treat your friends](https://open.spotify.com/track/0lyxM7QX5gEIn600SxaS7i) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [treat your friends](https://open.spotify.com/album/2Rdk812Zcmfaec9zCfdGnt) | 2:53 | 2023-11-24 | 2024-02-24 |
 | [TRIBAL](https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Juws](https://open.spotify.com/artist/53xeEBZ8oXkA7iSQOT1Bbm) | [TRIBAL](https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4) | 2:20 | 2024-05-31 | 2024-11-09 |
 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 | 2023-06-09 | 2024-04-27 |

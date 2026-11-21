@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-501 songs - 1 day 1 hr 43 min
+502 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Calling Out](https://open.spotify.com/track/1XhtyPGOGR7Hk2QZPBo5gV) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Calling Out](https://open.spotify.com/album/5rnsg03WBzzwHsgQICocX4) | 2:08 | 2022-08-02 | 2023-08-11 |
 | [Can't Break Me Down](https://open.spotify.com/track/4RW5Yf1FlsxHZfIiy7hwdT) | [PHI NIX](https://open.spotify.com/artist/5eAD22qkgKXFfoP2Z58lU6) | [Can't Break Me Down](https://open.spotify.com/album/3eAKTpoqXitMmo7E7PPZqw) | 3:00 | 2023-03-10 | 2023-04-05 |
 | [Can't Heal You](https://open.spotify.com/track/4nOrzKUogxxtpy1Rel3Nl5) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Can't Heal You](https://open.spotify.com/album/1VYJf6H97llhC98jNrbdkT) | 3:22 | 2025-05-30 |  |
+| [can't help myself](https://open.spotify.com/track/0qk0oErXjRy83VMzJN7jrj) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [hxrtly](https://open.spotify.com/artist/5kQHsD2Du8pX3ECsgfdG7v) | [can't help myself](https://open.spotify.com/album/1azCNb1eL8BtYRSpfv1GkW) | 2:02 | 2026-11-20 |  |
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 | 2023-08-11 |
 | [Capsized](https://open.spotify.com/track/2LtLVmev6gw15F1fmeIFsB) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Capsized](https://open.spotify.com/album/2cUgd3L6zpTmr90b2t29Xy) | 3:38 | 2022-02-03 | 2022-07-12 |
 | [Cash Out](https://open.spotify.com/track/4VIhfUoqGVL67qzjGDecDX) | [Schrandy](https://open.spotify.com/artist/16DOlPH2Uh5OyntSN9qlxz) | [Cash Out](https://open.spotify.com/album/1bbedyCgIrSX1hQSfUALky) | 2:22 | 2026-01-15 |  |

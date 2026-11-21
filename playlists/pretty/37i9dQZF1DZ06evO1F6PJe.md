@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,289 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,294 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 40 | [Shake This Ground](https://open.spotify.com/track/1l9iy4tXChdwVacJWASwnn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:07 |
 | 41 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 |
 | 42 | [Chains And Things](https://open.spotify.com/track/2uK43c3VurRJmePMQKle84) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Chains And Things](https://open.spotify.com/album/1JGZNt476A3wZ0YUwtI3Js) | 5:03 |
-| 43 | [Calling Card \(Live\)](https://open.spotify.com/track/3MudtSQEXaKYCzco95uGVi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 4:43 |
+| 43 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6CU4FZRWHhBo6RPdNU4Jf0) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Shade Of Blues](https://open.spotify.com/album/1XMRPP0uLwWVFOHgOFTSCu) | 4:34 |
 | 44 | [I'll Take The Blame](https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 3:34 |
-| 45 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6CU4FZRWHhBo6RPdNU4Jf0) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Shade Of Blues](https://open.spotify.com/album/1XMRPP0uLwWVFOHgOFTSCu) | 4:34 |
+| 45 | [Calling Card \(Live\)](https://open.spotify.com/track/3MudtSQEXaKYCzco95uGVi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 4:43 |
 | 46 | [The Trouble With Love](https://open.spotify.com/track/70FkVU22belGveuPNY8www) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Trouble With Love](https://open.spotify.com/album/1CZ54mQ8QQrszcB4lTRrDJ) | 3:37 |
-| 47 | [I Wonder Who \(Live\)](https://open.spotify.com/track/2X6Sp4oTkbWhoLzTFxPmBG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 6:55 |
-| 48 | [Mind Is On Vacation](https://open.spotify.com/track/3OYxZVpXBDgiGpUHFD0Y1W) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Suit Yourself](https://open.spotify.com/album/1fDaTWTPUMZx0uTS17w9zd) | 3:03 |
-| 49 | [Paying The Cost To Be The Boss](https://open.spotify.com/track/1V8SB5rBh9mhe8Rt4KfJdX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 3:13 |
+| 47 | [Mind Is On Vacation](https://open.spotify.com/track/3OYxZVpXBDgiGpUHFD0Y1W) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Suit Yourself](https://open.spotify.com/album/1fDaTWTPUMZx0uTS17w9zd) | 3:03 |
+| 48 | [Paying The Cost To Be The Boss](https://open.spotify.com/track/1V8SB5rBh9mhe8Rt4KfJdX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 3:13 |
+| 49 | [I Wonder Who \(Live\)](https://open.spotify.com/track/2X6Sp4oTkbWhoLzTFxPmBG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 6:55 |
 | 50 | [When Will I Let Her Go](https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 4:06 |
 
-Snapshot ID: `avzqgAAAAACs/UL/SKFS5emk/uIdDdBl`
+Snapshot ID: `av48AAAAAADoeTyzB13pNQoGZKvkmMF8`

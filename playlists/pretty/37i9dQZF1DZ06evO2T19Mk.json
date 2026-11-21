@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 605869,
+  "num_followers": 605947,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAAViTmOefM9o9g/cqb4gEPc",
+  "snapshot_id": "av48AAAAAADx/5LMXM78b+/Za3e0H/E8",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/02s2F3XMnv9vr2syELbSsu"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "The Last Of The Real Ones",
-      "url": "https://open.spotify.com/track/6e13443Ve7RGcAUScTgYtl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take This to Your Grave",
         "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 191373,
       "name": "Grand Theft Autumn / Where Is Your Boy",
       "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/02s2F3XMnv9vr2syELbSsu"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "The Last Of The Real Ones",
+      "url": "https://open.spotify.com/track/6e13443Ve7RGcAUScTgYtl"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take This to Your Grave",
-        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 194493,
-      "name": "Dead on Arrival",
-      "url": "https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw"
+      "duration_ms": 226866,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Novocaine",
-      "url": "https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe"
+      "duration_ms": 194493,
+      "name": "Dead on Arrival",
+      "url": "https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw"
     },
     {
       "added_at": null,

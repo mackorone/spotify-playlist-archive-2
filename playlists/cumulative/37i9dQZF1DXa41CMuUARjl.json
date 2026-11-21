@@ -61529,7 +61529,7 @@
     },
     {
       "album": {
-        "name": "Bass Down Low",
+        "name": "BASS DOWN LOW",
         "url": "https://open.spotify.com/album/3ETPAwPRfnD3RafGRa93qL"
       },
       "artists": [
@@ -61546,7 +61546,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 139285,
-      "name": "Bass Down Low",
+      "name": "BASS DOWN LOW",
       "url": "https://open.spotify.com/track/4SfmfGdmkNKaAehfaJNBLI"
     },
     {
@@ -111843,7 +111843,7 @@
     },
     {
       "album": {
-        "name": "Can't trust",
+        "name": "Can't Trust",
         "url": "https://open.spotify.com/album/18ZtbVrKS0ujkYn6JVFidf"
       },
       "artists": [
@@ -111864,7 +111864,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244761,
-      "name": "Can't trust",
+      "name": "Can't Trust",
       "url": "https://open.spotify.com/track/1yiY5TDDwhaoMo9fxQZWEL"
     },
     {
@@ -137214,6 +137214,10 @@
         {
           "name": "Slushii",
           "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Darling I Dreamt",
+          "url": "https://open.spotify.com/artist/5KqdKjN6WeodgxCkaSaTye"
         }
       ],
       "date_added": "2026-11-20",

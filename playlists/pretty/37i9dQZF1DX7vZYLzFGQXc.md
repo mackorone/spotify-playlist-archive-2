@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,765 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,762 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Bloom and Wither](https://open.spotify.com/track/2dkWvjHWcll9kepV7F2NBF) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Bloom and Wither](https://open.spotify.com/album/6wqBWJLivks8w3bz39d6Gq) | 3:49 |
 | 50 | [Paper Chase](https://open.spotify.com/track/4lUs1YqwoJ4hKYlfYWZkA3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Paper Chase](https://open.spotify.com/album/15DhkRELmap2H04SghgrDR) | 2:47 |
 
-Snapshot ID: `AAAAAI2BmHqq3BK9ts0Xq490qqOARs7N`
+Snapshot ID: `AAAAAB6oS693J6ZhlZVq/RMb1BJaxUkR`

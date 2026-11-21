@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Scene",
-  "num_followers": 771186,
+  "num_followers": 771337,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvMcdqwJGF/8/2zoR8xJXEmPOId",
+  "snapshot_id": "AAAAACejBpJAPuv/xMw28MnBU7JsEUFq",
   "tracks": [
     {
       "added_at": "2026-11-05 17:02:55",
@@ -169,6 +169,34 @@
       "url": "https://open.spotify.com/track/5JWHSTAUiaCSeWwWlaVnyg"
     },
     {
+      "added_at": "2026-11-20 12:35:06",
+      "album": {
+        "name": "Sokka Vachaale (From \"Thagappan\")",
+        "url": "https://open.spotify.com/album/01ktJdxVbC4vYazPLaQhuZ"
+      },
+      "artists": [
+        {
+          "name": "Marshall Robinson",
+          "url": "https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 256923,
+      "name": "Sokka Vachaale - From \"Thagappan\"",
+      "url": "https://open.spotify.com/track/6xfaCH7AtV5rNsVlWaU1WB"
+    },
+    {
       "added_at": "2026-10-26 15:39:52",
       "album": {
         "name": "Roddy Theme (From \"Jailer 2\")",
@@ -243,6 +271,46 @@
       "duration_ms": 192026,
       "name": "Baddie Fella Di - From \"Mr. Bhaarath\"",
       "url": "https://open.spotify.com/track/7t5IqxqEzQuRaNfF07Uq4F"
+    },
+    {
+      "added_at": "2026-11-20 12:35:06",
+      "album": {
+        "name": "Rise Of Savithiri (From \"Sathyavan Savithiri\") [TAMIL]",
+        "url": "https://open.spotify.com/album/1NJhtsyv7KrLOqYk1ecWDq"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Venkat Prabhu",
+          "url": "https://open.spotify.com/artist/297dxI5V73N6q2EfyOM1vj"
+        },
+        {
+          "name": "Praveen S Vijaay",
+          "url": "https://open.spotify.com/artist/5nQQjqUjwJQQByJWQ1qkpY"
+        }
+      ],
+      "duration_ms": 123024,
+      "name": "Rise Of Savithiri (From \"Sathyavan Savithiri\") [TAMIL]",
+      "url": "https://open.spotify.com/track/2IvYbVnLniuAzKBRPvrPP7"
+    },
+    {
+      "added_at": "2026-11-20 12:36:06",
+      "album": {
+        "name": "Fire Song (From \"Arasan\")",
+        "url": "https://open.spotify.com/album/05dz0B9zR6XD8azxvncqz1"
+      },
+      "artists": [
+        {
+          "name": "808Krshna",
+          "url": "https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE"
+        }
+      ],
+      "duration_ms": 101048,
+      "name": "Fire Song - From \"Arasan\"",
+      "url": "https://open.spotify.com/track/2YNNDxGZjAkyEpw976jE8E"
     },
     {
       "added_at": "2026-11-10 04:26:23",
@@ -555,6 +623,30 @@
       "duration_ms": 197041,
       "name": "Tiger Muthuvel Pandian (From \"Jailer 2\")",
       "url": "https://open.spotify.com/track/1CaBSMCroZxJRWrkjfvqEs"
+    },
+    {
+      "added_at": "2026-11-20 12:35:06",
+      "album": {
+        "name": "Enna Pudunga Pora (From \"Pizza Boys\")",
+        "url": "https://open.spotify.com/album/7Ifs42sjWduG2pB15BtwzP"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Shekar Keshav Sirrinn",
+          "url": "https://open.spotify.com/artist/1r0cI9Cp1aDCcqoxWZIIr9"
+        },
+        {
+          "name": "Kavirajan Kavingarve Madhan Kumar",
+          "url": "https://open.spotify.com/artist/5JIKdfl4l5V0wf1JIkaMKS"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Enna Pudunga Pora (From \"Pizza Boys\")",
+      "url": "https://open.spotify.com/track/52CyizaHsvTHkht8UxX3d7"
     },
     {
       "added_at": "2026-11-05 17:02:55",
@@ -1091,34 +1183,6 @@
       "duration_ms": 149975,
       "name": "Cheen Dapak Dum Dum",
       "url": "https://open.spotify.com/track/3ZAPdN85n9SlP4PrmgYedw"
-    },
-    {
-      "added_at": "2026-09-24 14:31:56",
-      "album": {
-        "name": "Dorothy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0PROOXwHec7cPCqIidZI8X"
-      },
-      "artists": [
-        {
-          "name": "Ilaiyaraaja",
-          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
-        },
-        {
-          "name": "Yugendran Vasudevan",
-          "url": "https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Priya Jerson",
-          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Kalyana Virundhu",
-      "url": "https://open.spotify.com/track/5ZWZ0zGL5nYaqzBlzLGLqQ"
     },
     {
       "added_at": "2026-11-02 13:41:12",
@@ -2049,30 +2113,6 @@
       "url": "https://open.spotify.com/track/1icb3o8bB9vCrTIOdLIlHv"
     },
     {
-      "added_at": "2026-10-01 12:09:19",
-      "album": {
-        "name": "Yezhu Kadal Yezhu Malai - Side A (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6RzVjjwy6eoy8ysB1jyX2Q"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Andrea Jeremiah",
-          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        }
-      ],
-      "duration_ms": 283846,
-      "name": "Namakkaai Oru Vaanam",
-      "url": "https://open.spotify.com/track/3w8xJbu9LBvZmr5FBGFJHU"
-    },
-    {
       "added_at": "2026-09-24 14:31:56",
       "album": {
         "name": "Dorothy (Original Motion Picture Soundtrack)",
@@ -2169,26 +2209,6 @@
       "url": "https://open.spotify.com/track/5odnxAm5ArTwQtLYH03h9u"
     },
     {
-      "added_at": "2026-10-01 12:09:19",
-      "album": {
-        "name": "Lenin Pandiyan",
-        "url": "https://open.spotify.com/album/7hC932cgvR7p3i2MLD31uT"
-      },
-      "artists": [
-        {
-          "name": "Ilaiyaraaja",
-          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "Unnai Nambi",
-      "url": "https://open.spotify.com/track/7yeamt17OzBzJlEAnq6kAE"
-    },
-    {
       "added_at": "2026-10-05 15:59:02",
       "album": {
         "name": "Baththa (Original Motion Picture Soundtrack)",
@@ -2207,50 +2227,6 @@
       "duration_ms": 107830,
       "name": "Jiguchikkan",
       "url": "https://open.spotify.com/track/7zTuAno0VwkqAuEJRQYjxO"
-    },
-    {
-      "added_at": "2026-10-01 12:09:19",
-      "album": {
-        "name": "Yezhu Kadal Yezhu Malai - Side A (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6RzVjjwy6eoy8ysB1jyX2Q"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Siddharth",
-          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "Marubadi Nee",
-      "url": "https://open.spotify.com/track/3E5uOBqguiJnrYUdXRXQXS"
-    },
-    {
-      "added_at": "2026-10-02 08:40:55",
-      "album": {
-        "name": "OTTAM",
-        "url": "https://open.spotify.com/album/0TsD5NwxXJWJ5AMvUZXPvS"
-      },
-      "artists": [
-        {
-          "name": "Asal Kolaar",
-          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
-        },
-        {
-          "name": "Urban Thozha",
-          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
-        }
-      ],
-      "duration_ms": 234754,
-      "name": "OTTAM",
-      "url": "https://open.spotify.com/track/37rwHoNr4Q8FaR21V1zbiB"
     },
     {
       "added_at": "2026-09-30 17:51:13",

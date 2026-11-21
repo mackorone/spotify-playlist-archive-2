@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Tems
 
-1,622 songs - 3 day 6 hr 57 min
+1,623 songs - 3 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [actin UP!](https://open.spotify.com/track/51co3VqvwYCETYqL6FbWF1) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [LIMITLESS](https://open.spotify.com/album/40XBQ7VCrIriUShwkFgHLM) | 2:17 | 2025-10-31 | 2025-11-07 |
 | [Active](https://open.spotify.com/track/0p5VYm5cWWMpn34C0lSG4T) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Active](https://open.spotify.com/album/4NCKxYcaUesoLVwl5YfuXS) | 2:51 | 2026-01-30 | 2026-02-13 |
 | [ADHD](https://open.spotify.com/track/0ubdB41Y3Anom46x0iXbNQ) | [Backsy](https://open.spotify.com/artist/7EVyosxVHBdfjMPTdp9J1G), [ALR](https://open.spotify.com/artist/2DKVguG69okXFd7OSINIs1) | [ADHD](https://open.spotify.com/album/7D0gxjMAcrY4r9PeopFI5D) | 2:44 | 2025-12-19 | 2026-01-15 |
-| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-20 |  |
+| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-20 |  |
 | [African Soldier](https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [African Soldier](https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan) | 2:46 | 2026-03-13 | 2026-03-27 |
 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/5MmaIayf4hK7hR3hdK6Y0v) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 | 2025-10-23 | 2025-11-07 |
 | [Again](https://open.spotify.com/track/093NTZU3V2287LDhTwDBIC) | [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Again](https://open.spotify.com/album/5wO3ZcE9j22EaubKo2US3V) | 2:23 | 2026-09-24 | 2026-10-09 |
@@ -175,6 +175,7 @@
 | [Black Jeep](https://open.spotify.com/track/3JadDlLa2L3vrGs8DXsWao) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Black Jeep](https://open.spotify.com/album/0GapUYcDxeItfst1KafpmB) | 1:48 | 2025-12-12 | 2026-01-15 |
 | [Black Woman](https://open.spotify.com/track/4ZE8CnmrBtK5zFfrJrYXNI) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Black Woman](https://open.spotify.com/album/1Ko2BZVDtmuGqPTJPTJc8g) | 2:47 | 2026-11-20 |  |
 | [Blackthorne](https://open.spotify.com/track/4pBdATXkkPg1ndil2EXzWc) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Blackthorne](https://open.spotify.com/album/4tWbvCe00k8GYALI8YKNfX) | 3:17 | 2026-04-10 | 2026-05-01 |
+| [Bless Me Account](https://open.spotify.com/track/49e1owQkrXR6pfvBCvhM24) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Kit Boss](https://open.spotify.com/artist/6FkNcwDivcoJKRFqmhJ1dL) | [Bless Me Account](https://open.spotify.com/album/5op5BcibDhN1iW4rfZGqD3) | 2:41 | 2026-11-20 |  |
 | [Blessing](https://open.spotify.com/track/3EtguiKlDgRXUky0ol7m1L) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Blessing](https://open.spotify.com/album/1Xlpls4IK83zcEgGUtDqhV) | 2:02 | 2026-01-09 | 2026-01-23 |
 | [Blessing](https://open.spotify.com/track/0yNFPaMseUjuSCR4Mb49cC) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [Mez](https://open.spotify.com/artist/5s55TVffEjZbMXd6pwqo8V) | [Blessing](https://open.spotify.com/album/7FL0g8E6h94trbNnZvrurm) | 3:54 | 2026-06-11 | 2026-06-19 |
 | [Blessings](https://open.spotify.com/track/6gnBph4YxYhytTAwfZi6TE) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Blessings](https://open.spotify.com/album/55V4fiGjaQdSEshPbZL7Ij) | 2:54 | 2025-12-05 | 2026-01-03 |

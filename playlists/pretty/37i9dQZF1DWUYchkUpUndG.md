@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,420 likes - 97 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,508 likes - 97 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 96 | [Good](https://open.spotify.com/track/5wnT0nYSQxMvmAwkhqCdxI) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Good](https://open.spotify.com/album/4UbF1YEcSY6CeKncczUK5K) | 2:21 |
 | 97 | [Hallelujah](https://open.spotify.com/track/69oWsxcHnwqUxvkfxiYksj) | [Monique](https://open.spotify.com/artist/183yuYxGCyhROvuEpTPdfk) | [Hallelujah](https://open.spotify.com/album/00NS32Lox8RWW3gDV5lu1F) | 3:28 |
 
-Snapshot ID: `AAAAAIOJIxKGqUsGdINxhg65ZR0IzTDQ`
+Snapshot ID: `AAAAAA/UyF/gN6hgGteM3OfbEIXDbH2u`

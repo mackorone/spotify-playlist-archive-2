@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,736 songs - 15 day 17 hr 1 min
+6,738 songs - 15 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Anansi](https://open.spotify.com/track/2eamE5xO4rhJf6hh1814Vw) | [Rogier van den Brink](https://open.spotify.com/artist/35rNbWsfJHQhv6aVGwtbl4) | [Zsa Zsa Exactly](https://open.spotify.com/album/2Lz1L3qeOGOlpT0gF454hO) | 5:01 | 2024-07-19 | 2024-08-01 |
 | [Ancient Fire \(Tiv Ancestral Roots\)](https://open.spotify.com/track/2qXCn3aYG1skMN9OkT8y8p) | [Biggypablo](https://open.spotify.com/artist/2JDXzKgQ5XfBYxCPnURp5y) | [Ancient Fire \(Tiv Ancestral Roots\)](https://open.spotify.com/album/0X4LqxvPhDT3Unzglmiv7z) | 5:13 | 2026-05-14 | 2026-05-28 |
 | [Ancient Light](https://open.spotify.com/track/7zW1oZZy5m8zpJZfRfwGKv) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Wild and Clear and Blue](https://open.spotify.com/album/2AAAjeTyO8T9juLBOKsCaV) | 3:34 | 2025-12-18 | 2026-04-18 |
+| [And in the End](https://open.spotify.com/track/3oubvR3f9oukAt8yZaCglo) | [Restless Minds Project](https://open.spotify.com/artist/6xnMmnv0Y2QCh1QPKCo0Jx) | [And in the End](https://open.spotify.com/album/32MXrz5AK70O9JBqTWwOD4) | 3:39 | 2026-11-20 |  |
 | [And So It Begins](https://open.spotify.com/track/6N59LGxW3G0rfEX5a2lyx2) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 2:05 | 2022-05-06 | 2022-05-30 |
 | [and then the earth opened up](https://open.spotify.com/track/0BHUY2vfypaJPKllvbxX70) | [Cam Jelli](https://open.spotify.com/artist/4yjpHRAT830MAdwdEXgGN5) | [Thoughts From A Black Hole](https://open.spotify.com/album/09NUOeaOhfSWyaZJrCix0j) | 2:54 | 2022-05-06 | 2022-05-22 |
 | [And We Sing](https://open.spotify.com/track/6FTJlQ7MG6GMQPEXjU6Zif) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Undivided](https://open.spotify.com/album/1M7mmtyHPvGhbp8Sb7vkDt) | 4:55 | 2021-01-12 | 2021-01-21 |
@@ -4814,7 +4815,7 @@
 | [Ritual](https://open.spotify.com/track/4LWZaaAl0SIHwk12CDwHaU) | [Gless](https://open.spotify.com/artist/20oCaQ40bg1LpmvNUzP7TK) | [Ritual](https://open.spotify.com/album/5xs32fEH4ZpbHJtAjguliu) | 2:50 | 2024-09-10 | 2024-09-22 |
 | [RITUAL](https://open.spotify.com/track/1nabCWEsGKhpXwNjcDCHAH) | [Pedro Bada](https://open.spotify.com/artist/4seY7DUW3uBhIw69cXMY5n) | [RITUAL](https://open.spotify.com/album/4jnuKjExZqdJIKdizE0BKF) | 3:25 | 2026-03-06 | 2026-04-07 |
 | [River](https://open.spotify.com/track/4BQNZFleobPMwespDHtgxW) | [Doug Kees](https://open.spotify.com/artist/5SnFCa8IkB3e0nvHV4cDlt) | [Eleven](https://open.spotify.com/album/6BWUOuXjvunZPIV56tLFQx) | 4:12 | 2021-10-30 | 2021-11-14 |
-| [River](https://open.spotify.com/track/4Ov2Uxhqe7mqyVfm5Xq4Kj) | [Lee Stuart](https://open.spotify.com/artist/7azLR1yusdH5Xp9gxJNrnK) | [River](https://open.spotify.com/album/1bpB30ncwKar5guND1syGI) | 3:20 | 2026-10-20 |  |
+| [River](https://open.spotify.com/track/4Ov2Uxhqe7mqyVfm5Xq4Kj) | [Lee Stuart](https://open.spotify.com/artist/7azLR1yusdH5Xp9gxJNrnK) | [River](https://open.spotify.com/album/1bpB30ncwKar5guND1syGI) | 3:20 | 2026-10-20 | 2026-11-21 |
 | [River](https://open.spotify.com/track/4Bh9LfSXk2WIE5OXiHSNYs) | [Salt & Steel](https://open.spotify.com/artist/6OfiFGY3N7LvGDeocGuTCX) | [Breathe\. Connect\. Grow.](https://open.spotify.com/album/1wWsEzHF0jkgL531OnxY8Z) | 1:51 | 2020-11-06 | 2020-11-27 |
 | [River Deep \- Mountain High](https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [River Deep\-Mountain High](https://open.spotify.com/album/1CbC5Rms2iIhgxvlyslNJh) | 3:34 | 2023-07-20 |  |
 | [River Des Peres Tsunami](https://open.spotify.com/track/1338VRfYwrkuSosIronewy) | [Vera's Son](https://open.spotify.com/artist/2Y5NBeAPlkQamHPgfqc9na) | [River Des Peres Tsunami](https://open.spotify.com/album/3WgVCFmn4P0j3eAjsMlZXL) | 4:13 | 2024-09-20 | 2024-10-02 |
@@ -5982,6 +5983,7 @@
 | [TOO HOT](https://open.spotify.com/track/7nsKYXBWdPWgjp63XQRvaF) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [TOO HOT](https://open.spotify.com/album/6XW4BbKRmiLkwjACUsYYhO) | 2:30 | 2023-08-12 | 2023-08-28 |
 | [Too Late](https://open.spotify.com/track/7ENNMonbN2NxexUyZJLfJl) | [Astro Atlas](https://open.spotify.com/artist/078EBOGRFXf2h3gCZO4G55) | [Escape](https://open.spotify.com/album/7nsMpxuaFGRJoP6Iwfk6Ja) | 7:38 | 2025-03-28 | 2025-04-09 |
 | [Too Late](https://open.spotify.com/track/5xyHcS1htQJvPwEhgncyNm) | [Rudy Jr.](https://open.spotify.com/artist/3uRcOf3JoG0gfdihD1YhDq) | [Too Late](https://open.spotify.com/album/6oDauF5AvojYXIt2R21YJh) | 2:21 | 2024-02-09 | 2024-02-21 |
+| [Too Late To Change](https://open.spotify.com/track/6W7uFOgVuz7yKE6s402YzI) | [FAKE SUEDE](https://open.spotify.com/artist/3TPkxwAXlQDOcD91eFZWUW) | [This is Fake Suede](https://open.spotify.com/album/474NvvU4m6AOXRJ8Fg2YZ4) | 3:18 | 2026-11-20 |  |
 | [Too Many Times](https://open.spotify.com/track/5YRXVvbzzSGcoPqd7HXE5m) | [Silk Cinema](https://open.spotify.com/artist/6KXhDXDyiG1LSwbLIgX18B) | [Too Many Times](https://open.spotify.com/album/5UYFaHdLwCNhaWxuj22XR5) | 3:30 | 2021-09-11 | 2021-09-27 |
 | [Too Much](https://open.spotify.com/track/5KJ3sJ0bqlr4kreVTzV2ot) | [BECKi](https://open.spotify.com/artist/0J4zukNSiz0MvCZNb8LZpj), [Dom\_Brady](https://open.spotify.com/artist/3DC3EwATUrQMaqiXkiiOkD) | [Too Much](https://open.spotify.com/album/2uQGAlxZDZmEkpyf6v0TrV) | 2:31 | 2023-08-21 | 2023-09-26 |
 | [too much](https://open.spotify.com/track/42kLJ2njWE483ncUp6oUzC) | [Scribbles Who](https://open.spotify.com/artist/2MRE0EnE3kUdMOsOGeBSG3) | [too much](https://open.spotify.com/album/3YrhRG44SYnC2MWszqIkeG) | 3:22 | 2023-01-25 | 2023-02-26 |

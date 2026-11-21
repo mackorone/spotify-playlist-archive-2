@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Maluma x Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,541 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,548 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [NO TE SORPRENDAS](https://open.spotify.com/track/6k509TjWi3LWWjjchbxBXM) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [NO TE SORPRENDAS](https://open.spotify.com/album/5MI7vJNdtIoDFS52V5zEK2) | 2:43 |
 | 50 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 
-Snapshot ID: `AAAAACM8H97mJIw2J28IOld/fQeBpLpL`
+Snapshot ID: `AAAAAALgh75savEnotQreGka4S/3NJPI`

@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Pancho Barraza 📸
 
-863 songs - 1 day 21 hr 38 min
+864 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Mi Amor Y Mi Agonía](https://open.spotify.com/track/4cCHoIZovhZO9u6kzTPrE1) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Amor Y Mi Agonía](https://open.spotify.com/album/2JHN0HfZIzbrJfIWqp4TqJ) | 2:53 | 2026-09-11 |  |
 | [Mi Carnal](https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Mi Carnal](https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo) | 2:48 | 2025-09-19 | 2025-11-29 |
 | [Mi Destino Es Ser Borracho](https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mi Destino Es Ser Borracho](https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt) | 3:19 | 2023-06-09 | 2024-11-16 |
+| [Mi Esposa Consentida](https://open.spotify.com/track/7C27k5lANwonEIe2cKN48D) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Esposa Consentida](https://open.spotify.com/album/7tkgA8z4fg8ewU72q6njVM) | 3:21 | 2026-11-20 |  |
 | [Mi Eterno Amor Secreto \(En Vivo\)](https://open.spotify.com/track/6u6d57Let06W838gmh7XKB) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Mi Eterno Amor Secreto \(En Vivo\)](https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi) | 3:53 | 2024-08-23 | 2024-09-21 |
 | [Mi Eterno Amor Secreto \- En Vivo](https://open.spotify.com/track/4sgnaYVRuB5zB3kb8BlR5o) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [El Flaco y Sus Amigos: Auditorios \(En Vivo\)](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 3:39 | 2025-11-14 | 2026-03-14 |
 | [Mi Ex](https://open.spotify.com/track/64OY74RUbqyz3EpoekFl6g) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Ex](https://open.spotify.com/album/4Wz5Jskrdn5ZzHN9niwBgJ) | 3:20 | 2022-12-23 | 2023-03-11 |

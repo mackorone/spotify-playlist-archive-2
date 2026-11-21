@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,066 songs - 2 day 16 hr 39 min
+1,067 songs - 2 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,6 +798,7 @@
 | [Pupilas Lejanas](https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:54 | 2021-12-24 | 2022-07-26 |
 | [Pura Mentira](https://open.spotify.com/track/56U5ZlKZbnJNwLC541b99S) | [Guillermo Beresñak](https://open.spotify.com/artist/6nVfCc2kQYEbOAf5xEfN24), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Las últimas canciones creadas por humanos](https://open.spotify.com/album/5cWft5c7dCumzQHLkY6jcp) | 2:54 | 2022-04-08 | 2022-04-21 |
 | [Puro Carisma](https://open.spotify.com/track/6wHR1BYuu0QN3HHhKDBFQR) | [EL EXTRA & LOS IMPOSIBLES](https://open.spotify.com/artist/6MIuW4xEA4nLMGYaaUOUME) | [Del Otro Lado](https://open.spotify.com/album/6wHfS0CVXw7rUsVtnX8hrG) | 4:46 | 2022-04-01 | 2022-04-12 |
+| [Puro lenguaje](https://open.spotify.com/track/1q9OXOjPJ5Rx4bPsglbT0e) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [El lenguaje de las flores](https://open.spotify.com/album/1owK6m6O3XvXI2YtxRsCrZ) | 3:35 | 2026-11-20 |  |
 | [Puro Sentimiento \(feat\. Santana\)](https://open.spotify.com/track/2r8qG4YFzE1pr1SqEFETe5) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Puro Sentimiento \(feat\. Santana\)](https://open.spotify.com/album/7fEZRC1E1AJEX2Ee1Ha5Bh) | 3:56 | 2022-03-24 | 2022-04-09 |
 | [Putita](https://open.spotify.com/track/0vv37Rsh43hXpgpu4ZJ0S3) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Himnos Nacionales, Vol\. 1](https://open.spotify.com/album/7yzkbBGeviqxNpA0AWcc1A) | 3:06 | 2026-10-09 |  |
 | [Putita \- En Vivo](https://open.spotify.com/track/43r48Z870l22Azz0WbdvNo) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Putita \(En Vivo\)](https://open.spotify.com/album/3C0JntgCNROuxKbNiUPMJ6) | 3:41 | 2022-04-01 | 2022-04-16 |
@@ -855,7 +856,7 @@
 | [Seguir](https://open.spotify.com/track/2B8O85kMp5ZbaqaAGjKURP) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4) | [Seguir](https://open.spotify.com/album/46nnrvyYdT3BeOSmMGTqk1) | 3:01 | 2022-03-28 | 2022-04-21 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/5uCTPBorZZysv918IxWAi0) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/6iYwUTIBeOwE3NptAXPIwx) | 3:08 | 2022-03-28 | 2022-04-20 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2021-12-24 |  |
-| [Seguir Viviendo Sin Tu Amor \- Acustico](https://open.spotify.com/track/5HnzCCUCScRKGrWAAqiqtL) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Laberintos Entre Aristas Y Dialectos](https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz) | 3:44 | 2021-12-24 |  |
+| [Seguir Viviendo Sin Tu Amor \- Acustico](https://open.spotify.com/track/5HnzCCUCScRKGrWAAqiqtL) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Laberintos Entre Aristas Y Dialectos](https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz) | 3:44 | 2021-12-24 | 2026-11-21 |
 | [Seminare](https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Seminare](https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI) | 3:24 | 2021-12-24 | 2022-07-29 |
 | [Seminare \- 2021 Remasterizado](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(2021 Remasterizado\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 | 2022-01-28 | 2025-11-19 |
 | [Sencillamente](https://open.spotify.com/track/0dsIBvWTJir86M4qSTMn6d) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Testosterona](https://open.spotify.com/album/0kiGu6K0189V5QwvPbtN9i) | 5:07 | 2022-01-07 | 2022-06-06 |

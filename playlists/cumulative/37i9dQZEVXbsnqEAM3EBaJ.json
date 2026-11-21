@@ -13637,6 +13637,28 @@
     },
     {
       "album": {
+        "name": "\"Classical Panorama\" - Music by Chopin & More",
+        "url": "https://open.spotify.com/album/46O4ZuLxVjAOlIT5EToeQk"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Olli Mustonen",
+          "url": "https://open.spotify.com/artist/7KmdcfQ5slIF0H8Smd0Tyq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56306,
+      "name": "Children's Album, Op. 39, TH 141: 18. Neapolitan Song",
+      "url": "https://open.spotify.com/track/4cT1RuxxppcPB5HJ5bDCsi"
+    },
+    {
+      "album": {
         "name": "\"'A Classical Evening\" - Music by Debussy, Chopin & More",
         "url": "https://open.spotify.com/album/4mpLiX0NSp4X8bYaSXb3nL"
       },
@@ -22060,7 +22082,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 170000,
       "name": "Elegy beneath the Moonlight",
       "url": "https://open.spotify.com/track/0jh109eWIcuTKYMLvFA4Gp"
@@ -28414,6 +28436,24 @@
       "duration_ms": 211010,
       "name": "Globo",
       "url": "https://open.spotify.com/track/527O1cZ8tn7jV6SylvY9z5"
+    },
+    {
+      "album": {
+        "name": "Might As Well Be Here",
+        "url": "https://open.spotify.com/album/3QdvK0o8BqewD2HNx6qbGI"
+      },
+      "artists": [
+        {
+          "name": "Mineral",
+          "url": "https://open.spotify.com/artist/3N4eFtnZCCXfMs0hBQwujT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243145,
+      "name": "Gloria - Alternate Version",
+      "url": "https://open.spotify.com/track/5VLUuoLwjifqgyUuD5NZUG"
     },
     {
       "album": {
@@ -55953,6 +55993,28 @@
     },
     {
       "album": {
+        "name": "Hamelin: A Classical Evening",
+        "url": "https://open.spotify.com/album/62nU3giWFcYPRzfgB57rbu"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Marc-Andr\u00e9 Hamelin",
+          "url": "https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318960,
+      "name": "Piano Sonata No. 18 in D Major, K. 576: II. Adagio",
+      "url": "https://open.spotify.com/track/6u3gR2ACcB7lfHg3aKvULt"
+    },
+    {
+      "album": {
         "name": "\"A Harmony of Sound\": Classical Works",
         "url": "https://open.spotify.com/album/4n4LlCFwCaZ0o4A9yLavGA"
       },
@@ -56012,7 +56074,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 273800,
       "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: II. Menuetto I-II",
       "url": "https://open.spotify.com/track/6mVaXcNOThc4zl9ymaTph9"
@@ -61298,7 +61360,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 357072,
       "name": "Rubber Legs",
       "url": "https://open.spotify.com/track/6zfsjCBDxtdcLH2JEwKij8"

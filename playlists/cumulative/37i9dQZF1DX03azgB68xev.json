@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Pop bops for the saints!  Cover: Colton Dixon",
+  "description": "Pop bops for the saints!  Cover: Elyssa Figueroa",
   "name": "Christian Pop",
   "tracks": [
     {
@@ -70,10 +70,28 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 277990,
       "name": "121",
       "url": "https://open.spotify.com/track/2BY91hDa8x9KOdqANAUEHW"
+    },
+    {
+      "album": {
+        "name": "aroma:friendship",
+        "url": "https://open.spotify.com/album/2wH1DxCLDJvWyQdbESg36T"
+      },
+      "artists": [
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277990,
+      "name": "121",
+      "url": "https://open.spotify.com/track/5Qp4SWPyfKl5sa9eshAETM"
     },
     {
       "album": {
@@ -160,7 +178,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 202000,
       "name": "A GOOD THING",
       "url": "https://open.spotify.com/track/27BydAzqg7s2gezFJF5sxP"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 211068,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3DMah9OYT4Y52RY9lAqG9j"
@@ -3824,6 +3842,24 @@
     {
       "album": {
         "name": "Everything's Gonna Be Alright",
+        "url": "https://open.spotify.com/album/0IhW6bIEc97efMc8JtvXfT"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244156,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2wS6POjY1h5VoZOPL2X72I"
+    },
+    {
+      "album": {
+        "name": "Everything's Gonna Be Alright",
         "url": "https://open.spotify.com/album/0nJtpSoved5AP80qDwqVH1"
       },
       "artists": [
@@ -4258,7 +4294,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 244536,
       "name": "Flowers For No Reason",
       "url": "https://open.spotify.com/track/3xleEDDBrbr42qhwmrtJrH"
@@ -4366,7 +4402,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 224000,
       "name": "For Future Reference",
       "url": "https://open.spotify.com/track/7CfFnSoAi6uzidKC4k6aD1"
@@ -4464,6 +4500,24 @@
       "duration_ms": 211367,
       "name": "For The Ones We Love - Axel E Remix",
       "url": "https://open.spotify.com/track/7fGbnIBPPAB0YPhVIrKjFU"
+    },
+    {
+      "album": {
+        "name": "For The Rest Of My Life",
+        "url": "https://open.spotify.com/album/4hlxJC4ADPgqNUynZYaQZ6"
+      },
+      "artists": [
+        {
+          "name": "Ethan Dufault",
+          "url": "https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226943,
+      "name": "For The Rest Of My Life",
+      "url": "https://open.spotify.com/track/6IesBVOJ4NtX4AD4oQk6Jz"
     },
     {
       "album": {
@@ -5345,6 +5399,32 @@
     },
     {
       "album": {
+        "name": "Goodness and Mercy",
+        "url": "https://open.spotify.com/album/1xIDWiC33BKaZbMkGghKky"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Isaiah Roberts",
+          "url": "https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec"
+        },
+        {
+          "name": "Nathan Davis Jr",
+          "url": "https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133326,
+      "name": "Goodness and Mercy",
+      "url": "https://open.spotify.com/track/31DUyfD9qtoppFn5ZGi9u7"
+    },
+    {
+      "album": {
         "name": "Gospel Truth",
         "url": "https://open.spotify.com/album/208vHnVcqL3UN9lMT7VldF"
       },
@@ -5654,6 +5734,24 @@
       "duration_ms": 245490,
       "name": "He Deserves",
       "url": "https://open.spotify.com/track/4QVv44aTIaWECRVLCjVNXx"
+    },
+    {
+      "album": {
+        "name": "Save Everybody",
+        "url": "https://open.spotify.com/album/5dLwR59slfGEX4euw2Utrt"
+      },
+      "artists": [
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156313,
+      "name": "He Will Never Fail",
+      "url": "https://open.spotify.com/track/4jh2cpHSDy35YyfvvM1Zn4"
     },
     {
       "album": {
@@ -6680,7 +6778,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 204324,
       "name": "Home",
       "url": "https://open.spotify.com/track/1aycMC63XYEQz2nFCEULnf"
@@ -6738,6 +6836,24 @@
       "duration_ms": 172264,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5k9loPlp9PWvwdDAgxFs6n"
+    },
+    {
+      "album": {
+        "name": "how can i ever stop singing?",
+        "url": "https://open.spotify.com/album/6Pk7BNVcH7uXBGSn6ylmHu"
+      },
+      "artists": [
+        {
+          "name": "ash wiseman",
+          "url": "https://open.spotify.com/artist/1ajtUdfdUZ7ZDTKRpWEOVm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "how can i ever stop singing?",
+      "url": "https://open.spotify.com/track/1jGe5ZvFUGfHLlQHVoATMQ"
     },
     {
       "album": {
@@ -7114,7 +7230,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 239311,
       "name": "I'm Going",
       "url": "https://open.spotify.com/track/1x7ymQpO53Ln9wiTDTTbmM"
@@ -9168,7 +9284,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 171621,
       "name": "Lord It Feels Good (with gio.)",
       "url": "https://open.spotify.com/track/361XvZ74ZV7iS1L7M12Ehs"
@@ -9258,7 +9374,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 189532,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/2CmtuJ1fZ1MEJkBoRpgHcP"
@@ -9649,6 +9765,24 @@
     },
     {
       "album": {
+        "name": "Make Me Willing",
+        "url": "https://open.spotify.com/album/1BYPDmXbofH29ev7fMEY9E"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222057,
+      "name": "Make Me Willing",
+      "url": "https://open.spotify.com/track/2i44EncbCf54yDm4vBWKSy"
+    },
+    {
+      "album": {
         "name": "PEOPLE NEED PEOPLE",
         "url": "https://open.spotify.com/album/0KApnD4Jvvpp0MRppKvnAd"
       },
@@ -9962,6 +10096,24 @@
       "duration_ms": 231952,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3n9mbO3B0qOgnYtNw9OKpp"
+    },
+    {
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/6KN5LC3wTZgMTfyUbGfFky"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/3jr6a0wOCFD1sziCz2WHiM"
     },
     {
       "album": {
@@ -13244,7 +13396,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 261205,
       "name": "Sing Ugly",
       "url": "https://open.spotify.com/track/2fbqQBw7f9F28OhfVnVuIW"
@@ -14935,6 +15087,24 @@
     },
     {
       "album": {
+        "name": "The Hard Times",
+        "url": "https://open.spotify.com/album/74qr1pGo49YJ7nvCagAKiY"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202994,
+      "name": "The Hard Times",
+      "url": "https://open.spotify.com/track/4JJ5RFoHXO0pOh2Xk9GbCN"
+    },
+    {
+      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
       },
@@ -16348,7 +16518,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 212008,
       "name": "Washed",
       "url": "https://open.spotify.com/track/0R6OTAbLWkd8HLoFDz0sJn"
@@ -16410,6 +16580,24 @@
       "duration_ms": 152656,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5R41ZubwtDGxn4xpBZBV1g"
+    },
+    {
+      "album": {
+        "name": "Waterfalling",
+        "url": "https://open.spotify.com/album/6XWad4HEBh0PBkMiiRjH0b"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279249,
+      "name": "Waterfalling",
+      "url": "https://open.spotify.com/track/6sapyO8tTU8RmkzPgeVBkL"
     },
     {
       "album": {
@@ -17041,6 +17229,24 @@
     },
     {
       "album": {
+        "name": "Who's That Girl?",
+        "url": "https://open.spotify.com/album/0YpkddhRo26E3WTN3068Sm"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168386,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/1k0ZOcukgLven36iBa9ZYv"
+    },
+    {
+      "album": {
         "name": "WILD LOVE",
         "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
       },
@@ -17146,6 +17352,24 @@
       "duration_ms": 130576,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
+    },
+    {
+      "album": {
+        "name": "Only Getting Older",
+        "url": "https://open.spotify.com/album/1kN5x2pShNPwYfFjadtL7P"
+      },
+      "artists": [
+        {
+          "name": "darthy",
+          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187648,
+      "name": "Wolf in a Wool Sweater",
+      "url": "https://open.spotify.com/track/28vbuijfVXcGl7Y1BezYSR"
     },
     {
       "album": {

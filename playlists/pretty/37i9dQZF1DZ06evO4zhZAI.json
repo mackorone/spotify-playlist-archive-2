@@ -1,12 +1,12 @@
 {
   "description": "This is Erykah Badu. The essential tracks, all in one playlist.",
-  "num_followers": 153499,
+  "num_followers": 153526,
   "original_name": "This Is Erykah Badu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAABL3vDvTw502zeYFEGHW5G+",
+  "snapshot_id": "av48AAAAAAABAB15b+SHxA/KJDHyPRDD",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Amerykah Part One (4th World War)",
-        "url": "https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "The Healer",
-      "url": "https://open.spotify.com/track/7otmKWoMlpWkrMnnIQHXEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chant Down Babylon",
         "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
@@ -635,6 +619,50 @@
       "duration_ms": 291733,
       "name": "No More Trouble",
       "url": "https://open.spotify.com/track/6zi8kGpTadjpsLCO4jvMsH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Amerykah Part One (4th World War)",
+        "url": "https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/7otmKWoMlpWkrMnnIQHXEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
+        "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Aasher Saintt",
+          "url": "https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR"
+        }
+      ],
+      "duration_ms": 158879,
+      "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
+      "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
     },
     {
       "added_at": null,
@@ -691,34 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
-        "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Aasher Saintt",
-          "url": "https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR"
-        }
-      ],
-      "duration_ms": 158879,
-      "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
-      "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Groove",
         "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Amerykah Part One (4th World War)",
-        "url": "https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 320973,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 319958,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Amerykah Part One (4th World War)",
+        "url": "https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 320973,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU"
     },
     {
       "added_at": null,

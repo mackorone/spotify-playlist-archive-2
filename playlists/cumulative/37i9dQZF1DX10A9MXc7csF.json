@@ -15855,6 +15855,28 @@
     },
     {
       "album": {
+        "name": "INTENSO",
+        "url": "https://open.spotify.com/album/5vrSCb808EdjxsM2s63xRd"
+      },
+      "artists": [
+        {
+          "name": "DobleFilo",
+          "url": "https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF"
+        },
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "INTENSO",
+      "url": "https://open.spotify.com/track/3zECAmenZqFieCRGLfG3Jn"
+    },
+    {
+      "album": {
         "name": "Intento Diez Mil",
         "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
       },
@@ -26067,6 +26089,24 @@
     },
     {
       "album": {
+        "name": "PELIBLACK",
+        "url": "https://open.spotify.com/album/0Ytf6G19OsC3e8PQWtkRwN"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors de La Monta\u00f1a",
+          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113824,
+      "name": "PELIBLACK",
+      "url": "https://open.spotify.com/track/3Sm7LzlMDOR19M9IH6zibS"
+    },
+    {
+      "album": {
         "name": "La Cueva (En Vivo)",
         "url": "https://open.spotify.com/album/2a34aiyL7vj49niS6C1nmd"
       },
@@ -26750,7 +26790,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 180535,
       "name": "Pilas Plebes",
       "url": "https://open.spotify.com/track/04wix3MYN5kru11iMQZGER"
@@ -27298,7 +27338,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 135428,
       "name": "Portadas - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/7lEkG18Om4n4SJ8LzwQ0RL"

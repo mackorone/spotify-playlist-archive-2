@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,065 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,101 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 |
+| 1 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 |
 | 2 | [Leave With Me](https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Leave With Me \(Featured in Always Lalisa\)](https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn) | 3:04 |
 | 3 | [Younger](https://open.spotify.com/track/3uxVysH3jx2aTOlzub9IxV) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3), [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Younger](https://open.spotify.com/album/3Gd7c4ZN1H9xcbbgbfjhO7) | 2:45 |
 | 4 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Mr\. Mister](https://open.spotify.com/track/6YyGvNvVFdBRelvaoHIvgy) | [LAUD](https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB) | [Mr\. Mister](https://open.spotify.com/album/7bLtjsOU09XeLdlQ3xyGNv) | 2:00 |
 | 100 | [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 |
 
-Snapshot ID: `AAAAAJBUBzjwKLBD8FT4oo6JLMsxfxWT`
+Snapshot ID: `AAAAANAgoDiFP3pz+P3chNoD5HcElQjc`

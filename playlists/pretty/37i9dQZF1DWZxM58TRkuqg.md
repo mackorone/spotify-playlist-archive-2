@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Budi Doremi
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,332 likes - 101 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,312 likes - 101 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 100 | [Strategi Memilikimu](https://open.spotify.com/track/1mwLvEiFXRKrxdFIDiuySS) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Strategi Memilikimu](https://open.spotify.com/album/6h0LAtMzO6fNCDQjgsQUtJ) | 3:34 |
 | 101 | [dear pisces girlies…](https://open.spotify.com/track/1WcmgwbdOxaozMuSMJzhdm) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [The Love Cycle](https://open.spotify.com/album/3lGn8BRwD8pTxQ63cmOpqn) | 3:14 |
 
-Snapshot ID: `AAAAABF/LHLSOfK52hDcDq6F1WpEfkhJ`
+Snapshot ID: `AAAAAPgPZTJKWMhWSOQ7g8Fp3lsQmIay`

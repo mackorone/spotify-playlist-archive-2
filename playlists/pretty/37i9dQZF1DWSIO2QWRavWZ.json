@@ -1,12 +1,12 @@
 {
   "description": "New music from your favorite women.  Cover: Taner\u00e9lle",
-  "num_followers": 233913,
+  "num_followers": 233934,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGKXc1e6knMMwD+cx/A/mcUvRR2v",
+  "snapshot_id": "AAAAAKXkKaOzVPE/jESuLonijOuIjeE+",
   "tracks": [
     {
       "added_at": "2026-11-13 08:25:36",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/1lqrvlMepeMVZ9PAbwiT8f"
     },
     {
+      "added_at": "2026-11-20 06:50:42",
+      "album": {
+        "name": "African Love Story (From Children of Blood and Bone)",
+        "url": "https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "African Love Story (From Children of Blood and Bone)",
+      "url": "https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn"
+    },
+    {
       "added_at": "2026-11-06 18:35:09",
       "album": {
         "name": "3two",
@@ -85,6 +105,26 @@
       "url": "https://open.spotify.com/track/5oI9TTtpWU1bxS7COtNy9r"
     },
     {
+      "added_at": "2026-11-20 06:50:42",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/2y4mSQqTrWR4VlSSzm2xuW"
+      },
+      "artists": [
+        {
+          "name": "Brooke Valentine",
+          "url": "https://open.spotify.com/artist/0yqDXjskTQI1nj9bH6W9Ze"
+        },
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0dxPNfJJ9OAF69Ott5xAoM"
+    },
+    {
       "added_at": "2026-11-13 08:25:36",
       "album": {
         "name": "HONEYMOON Remix (with Craig David)",
@@ -105,6 +145,26 @@
       "url": "https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI"
     },
     {
+      "added_at": "2026-11-13 08:25:36",
+      "album": {
+        "name": "Wash (feat. HILLARI)",
+        "url": "https://open.spotify.com/album/3AW3TheYh6k1F1YWRUnsBb"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 193630,
+      "name": "Wash (feat. HILLARI)",
+      "url": "https://open.spotify.com/track/6vQqtIxxXg8MiIHEhQaFNO"
+    },
+    {
       "added_at": "2026-09-18 07:05:18",
       "album": {
         "name": "Yeeha",
@@ -119,6 +179,22 @@
       "duration_ms": 239613,
       "name": "Yeeha",
       "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-11-20 06:50:42",
+      "album": {
+        "name": "The Wheel",
+        "url": "https://open.spotify.com/album/2bU2rVOpwQDGa0efpr8QX8"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 221814,
+      "name": "The Wheel",
+      "url": "https://open.spotify.com/track/4xkGzIrly6tzBB2ScBDlet"
     },
     {
       "added_at": "2026-11-13 08:25:36",
@@ -189,24 +265,20 @@
       "url": "https://open.spotify.com/track/4xphD56uE6hbDlrIWW9gHd"
     },
     {
-      "added_at": "2026-11-13 08:25:36",
+      "added_at": "2026-11-20 06:50:42",
       "album": {
-        "name": "Wash (feat. HILLARI)",
-        "url": "https://open.spotify.com/album/3AW3TheYh6k1F1YWRUnsBb"
+        "name": "Crying on the Internet",
+        "url": "https://open.spotify.com/album/1qeRp6loebO7DHxHZHzzLr"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
         }
       ],
-      "duration_ms": 193630,
-      "name": "Wash (feat. HILLARI)",
-      "url": "https://open.spotify.com/track/6vQqtIxxXg8MiIHEhQaFNO"
+      "duration_ms": 211084,
+      "name": "Crying on the Internet",
+      "url": "https://open.spotify.com/track/6VScPG8qvV66EZiVQB6Sjt"
     },
     {
       "added_at": "2026-10-16 05:51:05",
@@ -241,6 +313,54 @@
       "url": "https://open.spotify.com/track/12CNxQMup0oxwTdvhSJDci"
     },
     {
+      "added_at": "2026-11-20 06:50:42",
+      "album": {
+        "name": "Katina Daughter Deluxe",
+        "url": "https://open.spotify.com/album/4v9WZgVKz7fN73DdppknX2"
+      },
+      "artists": [
+        {
+          "name": "Cyanca",
+          "url": "https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Jesse Jackson",
+      "url": "https://open.spotify.com/track/7CG5edqstvkVKUaBwxLi1m"
+    },
+    {
+      "added_at": "2026-11-06 18:35:09",
+      "album": {
+        "name": "Don't Stare At The Flame",
+        "url": "https://open.spotify.com/album/1Zh57V6mWKWHld4H1KtzWX"
+      },
+      "artists": [
+        {
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
+        }
+      ],
+      "duration_ms": 159803,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/156QdHdgJMAyy1B8oHzAcJ"
+    },
+    {
+      "added_at": "2026-11-20 06:50:42",
+      "album": {
+        "name": "Falling Star",
+        "url": "https://open.spotify.com/album/116nCdc2grKmlE7TWqzeK6"
+      },
+      "artists": [
+        {
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
+        }
+      ],
+      "duration_ms": 184886,
+      "name": "Falling Star",
+      "url": "https://open.spotify.com/track/3GVQ2ND6tAWHeQemkgpRPe"
+    },
+    {
       "added_at": "2026-11-13 08:25:36",
       "album": {
         "name": "Superstar",
@@ -257,20 +377,20 @@
       "url": "https://open.spotify.com/track/0pwsSPpKWAkvJZsNI3Btu4"
     },
     {
-      "added_at": "2026-10-23 04:02:18",
+      "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "the 5 stages of heartbreak",
-        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+        "name": "No Sleep In Paradise: Still Awake*",
+        "url": "https://open.spotify.com/album/1AHQF2QLVpI7u0gGJ47vPt"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 181769,
-      "name": "the 5 stages of heartbreak",
-      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+      "duration_ms": 214925,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/79sMJBqe2kRAJddQAaIDse"
     },
     {
       "added_at": "2026-10-30 04:42:29",
@@ -291,38 +411,6 @@
     {
       "added_at": "2026-11-13 08:25:36",
       "album": {
-        "name": "No Sleep In Paradise: Still Awake*",
-        "url": "https://open.spotify.com/album/1AHQF2QLVpI7u0gGJ47vPt"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 214925,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/79sMJBqe2kRAJddQAaIDse"
-    },
-    {
-      "added_at": "2026-11-06 18:35:09",
-      "album": {
-        "name": "Don't Stare At The Flame",
-        "url": "https://open.spotify.com/album/1Zh57V6mWKWHld4H1KtzWX"
-      },
-      "artists": [
-        {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
-        }
-      ],
-      "duration_ms": 159803,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/156QdHdgJMAyy1B8oHzAcJ"
-    },
-    {
-      "added_at": "2026-11-13 08:25:36",
-      "album": {
         "name": "Fight For This Love",
         "url": "https://open.spotify.com/album/443PogehD7eaxsfoaLq4tg"
       },
@@ -335,6 +423,58 @@
       "duration_ms": 204480,
       "name": "Fight For This Love",
       "url": "https://open.spotify.com/track/1HtKGqTOqJ7T0gWfuY6v0J"
+    },
+    {
+      "added_at": "2026-11-20 06:50:42",
+      "album": {
+        "name": "Always Been",
+        "url": "https://open.spotify.com/album/1XJUfXUbVwwaWuUOkDpxDN"
+      },
+      "artists": [
+        {
+          "name": "Ling Hussle",
+          "url": "https://open.spotify.com/artist/5dRGjTajHb5S33PwfxAaBj"
+        }
+      ],
+      "duration_ms": 188123,
+      "name": "Always Been",
+      "url": "https://open.spotify.com/track/455IBoH5gWMKbrMurEDME8"
+    },
+    {
+      "added_at": "2026-10-23 04:02:18",
+      "album": {
+        "name": "the 5 stages of heartbreak",
+        "url": "https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181769,
+      "name": "the 5 stages of heartbreak",
+      "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+    },
+    {
+      "added_at": "2026-11-20 06:50:42",
+      "album": {
+        "name": "WINTERLUDE",
+        "url": "https://open.spotify.com/album/5PUIjtwMqG9CpKGEvbqlIw"
+      },
+      "artists": [
+        {
+          "name": "CANDIACE",
+          "url": "https://open.spotify.com/artist/5JszSvXkRAk75bLoZDOHkP"
+        },
+        {
+          "name": "Jett Maxwell Lee",
+          "url": "https://open.spotify.com/artist/0W6f1JjhUcsV9O5FldvH4s"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Put It On",
+      "url": "https://open.spotify.com/track/7E2c4SFxhFwYN89tWP3MFr"
     },
     {
       "added_at": "2026-11-06 18:35:09",

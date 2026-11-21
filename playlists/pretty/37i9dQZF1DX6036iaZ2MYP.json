@@ -1,12 +1,12 @@
 {
   "description": "Tracks popping off in the Afro scene. Cover: Burna Boy",
-  "num_followers": 199703,
+  "num_followers": 200085,
   "original_name": "Afro Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOvTzNpw111MagvdPfCx+ptv2gWf",
+  "snapshot_id": "AAAAAFJtg5HLtxPnIdsJmkAwT2lKvFDU",
   "tracks": [
     {
       "added_at": "2026-11-19 23:00:37",
@@ -24,7 +24,7 @@
           "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 169501,
+      "duration_ms": 169262,
       "name": "Bigger (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/4BDrbdeodpenlrORv4yqnc"
     },
@@ -118,6 +118,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "duration_ms": 182000,

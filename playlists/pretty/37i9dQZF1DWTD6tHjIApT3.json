@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: muque",
-  "num_followers": 139790,
+  "num_followers": 139826,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFrPjcHGjWByhbOKl9gcfaU4HeP",
+  "snapshot_id": "AAAAAJhnwlKn9IGHTTr7A1XqvAYOcZza",
   "tracks": [
     {
       "added_at": "2026-11-17 15:00:44",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
-        "url": "https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 235777,
-      "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
-      "url": "https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"
-    },
-    {
-      "added_at": "2026-11-17 15:00:44",
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 205306,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/2ezkOPL49H0ZrQYM6y328n"
+    },
+    {
+      "added_at": "2026-11-17 15:00:44",
+      "album": {
+        "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
+        "url": "https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 235777,
+      "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
+      "url": "https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -851,8 +851,8 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "Dogs",
-        "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4IusailOZxQhm1g8GXj6kc"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 296912,
-      "name": "Dogs",
-      "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
+      "duration_ms": 221583,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -931,8 +931,8 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4IusailOZxQhm1g8GXj6kc"
+        "name": "Dogs",
+        "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 221583,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6dUGOqORyEd1qv3h3XsKRf"
+      "duration_ms": 296912,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "blue in",
-        "url": "https://open.spotify.com/album/2WF2hhxDP1gdPQtMJnNk3X"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
-          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "blue in",
-      "url": "https://open.spotify.com/track/28IOFXg9DXdO634HLMdJ8T"
-    },
-    {
-      "added_at": "2026-11-17 15:00:44",
-      "album": {
         "name": "LOST",
         "url": "https://open.spotify.com/album/0MzeVNFK9IxQkBsI6Pwmgz"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 221930,
       "name": "LOST",
       "url": "https://open.spotify.com/track/3i73Krs2ss4MpLkiuo3jiw"
+    },
+    {
+      "added_at": "2026-11-17 15:00:44",
+      "album": {
+        "name": "blue in",
+        "url": "https://open.spotify.com/album/2WF2hhxDP1gdPQtMJnNk3X"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "blue in",
+      "url": "https://open.spotify.com/track/28IOFXg9DXdO634HLMdJ8T"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "favorite song",
-        "url": "https://open.spotify.com/album/2Xf4q86Yo6rSRA1w8lS6nH"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "favorite song",
-      "url": "https://open.spotify.com/track/4QH4KTgj0wYHDj5fTMCRmN"
-    },
-    {
-      "added_at": "2026-11-17 15:00:44",
-      "album": {
         "name": "Drama Queen",
         "url": "https://open.spotify.com/album/1HRibxEOHHtZuhRMmCkpVO"
       },
@@ -1187,18 +1171,34 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "Butter",
-        "url": "https://open.spotify.com/album/5VW7VeqLHjtz6lH9mMlD2l"
+        "name": "favorite song",
+        "url": "https://open.spotify.com/album/2Xf4q86Yo6rSRA1w8lS6nH"
       },
       "artists": [
         {
-          "name": "\u8309\u3072\u308b",
-          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
         }
       ],
-      "duration_ms": 178110,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/4oDkcyR28qZS9pfU5BxdtX"
+      "duration_ms": 201000,
+      "name": "favorite song",
+      "url": "https://open.spotify.com/track/4QH4KTgj0wYHDj5fTMCRmN"
+    },
+    {
+      "added_at": "2026-11-17 15:00:44",
+      "album": {
+        "name": "\u58f0\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
+      },
+      "artists": [
+        {
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "\u58f0\u306e\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "\u58f0\u306e\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/4n2Fbv9J5fqFbLnjBt5PTi"
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/5VW7VeqLHjtz6lH9mMlD2l"
       },
       "artists": [
         {
-          "name": "Soala",
-          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
         }
       ],
-      "duration_ms": 199080,
-      "name": "\u58f0\u306e\u8ecc\u8de1",
-      "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
+      "duration_ms": 178110,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/4oDkcyR28qZS9pfU5BxdtX"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "\u6771\u4eac",
-        "url": "https://open.spotify.com/album/22uUjNDqFYV6lcBH5JPyE0"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 276053,
-      "name": "\u6771\u4eac",
-      "url": "https://open.spotify.com/track/6Tn7NuAV0n4oFoyyoHv6EG"
-    },
-    {
-      "added_at": "2026-11-17 15:00:44",
-      "album": {
         "name": "LOVE BEAT",
         "url": "https://open.spotify.com/album/1QICMvQde0IakCpcfVhlbz"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "No Epilogue",
-        "url": "https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3"
+        "name": "\u6771\u4eac",
+        "url": "https://open.spotify.com/album/22uUjNDqFYV6lcBH5JPyE0"
       },
       "artists": [
         {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
         }
       ],
-      "duration_ms": 221800,
-      "name": "No Epilogue",
-      "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"
+      "duration_ms": 276053,
+      "name": "\u6771\u4eac",
+      "url": "https://open.spotify.com/track/6Tn7NuAV0n4oFoyyoHv6EG"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -1415,66 +1399,18 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "\u547c\u3073\u3059\u3066",
-        "url": "https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE"
+        "name": "No Epilogue",
+        "url": "https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
         }
       ],
-      "duration_ms": 194864,
-      "name": "\u547c\u3073\u3059\u3066",
-      "url": "https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf"
-    },
-    {
-      "added_at": "2026-11-17 15:00:44",
-      "album": {
-        "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
-        "url": "https://open.spotify.com/album/3yMLvnj2odPbafzUUv9Ql9"
-      },
-      "artists": [
-        {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
-      "url": "https://open.spotify.com/track/0xkIeSkx5g5UwP8wnsw3f5"
-    },
-    {
-      "added_at": "2026-11-17 15:00:44",
-      "album": {
-        "name": "\u714c\u3081\u304d",
-        "url": "https://open.spotify.com/album/1SMHURDMjPyDAn1IsvSvp0"
-      },
-      "artists": [
-        {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
-        }
-      ],
-      "duration_ms": 209012,
-      "name": "\u714c\u3081\u304d",
-      "url": "https://open.spotify.com/track/4f5Y1HJ7rigPnCDJSonwzS"
-    },
-    {
-      "added_at": "2026-11-17 15:00:44",
-      "album": {
-        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
-        "url": "https://open.spotify.com/album/75ud6v5jZFdJdPXdoqyZwe"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
-      "url": "https://open.spotify.com/track/4efmtclSeuqYXi6tuGRYtm"
+      "duration_ms": 221800,
+      "name": "No Epilogue",
+      "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -1495,6 +1431,70 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
+        "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
+        "url": "https://open.spotify.com/album/3yMLvnj2odPbafzUUv9Ql9"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "\u30ac\u30e0\u30b7\u30e3\u30e9",
+      "url": "https://open.spotify.com/track/0xkIeSkx5g5UwP8wnsw3f5"
+    },
+    {
+      "added_at": "2026-11-17 15:00:44",
+      "album": {
+        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
+        "url": "https://open.spotify.com/album/75ud6v5jZFdJdPXdoqyZwe"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
+      "url": "https://open.spotify.com/track/4efmtclSeuqYXi6tuGRYtm"
+    },
+    {
+      "added_at": "2026-11-17 15:00:44",
+      "album": {
+        "name": "\u547c\u3073\u3059\u3066",
+        "url": "https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 194864,
+      "name": "\u547c\u3073\u3059\u3066",
+      "url": "https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf"
+    },
+    {
+      "added_at": "2026-11-17 15:00:44",
+      "album": {
+        "name": "\u714c\u3081\u304d",
+        "url": "https://open.spotify.com/album/1SMHURDMjPyDAn1IsvSvp0"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "duration_ms": 209012,
+      "name": "\u714c\u3081\u304d",
+      "url": "https://open.spotify.com/track/4f5Y1HJ7rigPnCDJSonwzS"
+    },
+    {
+      "added_at": "2026-11-17 15:00:44",
+      "album": {
         "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
         "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
       },
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "\u98a8\u306b\u4e57\u308b",
-        "url": "https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt"
+        "name": "3\u30df\u30ea\u306e\u604b",
+        "url": "https://open.spotify.com/album/3GbuSx3B5H8GbF86x4RLHF"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
         }
       ],
-      "duration_ms": 216680,
-      "name": "\u98a8\u306b\u4e57\u308b",
-      "url": "https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD"
+      "duration_ms": 258795,
+      "name": "3\u30df\u30ea\u306e\u604b",
+      "url": "https://open.spotify.com/track/7bp51lpKoO46p6VYXdZWXV"
     },
     {
       "added_at": "2026-11-17 15:00:44",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-11-17 15:00:44",
       "album": {
-        "name": "3\u30df\u30ea\u306e\u604b",
-        "url": "https://open.spotify.com/album/3GbuSx3B5H8GbF86x4RLHF"
+        "name": "\u98a8\u306b\u4e57\u308b",
+        "url": "https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt"
       },
       "artists": [
         {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 258795,
-      "name": "3\u30df\u30ea\u306e\u604b",
-      "url": "https://open.spotify.com/track/7bp51lpKoO46p6VYXdZWXV"
+      "duration_ms": 216680,
+      "name": "\u98a8\u306b\u4e57\u308b",
+      "url": "https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD"
     },
     {
       "added_at": "2026-11-17 15:00:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 愛探眼影
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,833 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,860 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [つまらないただのブス](https://open.spotify.com/track/6AsIU1wGEsCZXuXisOKF8k) | [ニューアヤカ](https://open.spotify.com/artist/46getVjNDmNPiQjvYtsIgb) | [つまらないただのブス](https://open.spotify.com/album/10PHju6eFbJHWh3eVO74XF) | 3:46 |
 | 80 | [全ての思い出よ消えずにそばにいて](https://open.spotify.com/track/70dKESqmOORP1V2knSKgBx) | [Easy Yoke](https://open.spotify.com/artist/7msnhjxANZZKUA9aafYwjh) | [全ての思い出よ消えずにそばにいて](https://open.spotify.com/album/3mIychMRt9SM69fgfylrk3) | 2:37 |
 
-Snapshot ID: `AAAAAD0VLRnoyZUYEFGrovhwkYavv9L3`
+Snapshot ID: `AAAAACp00iHu1+VuCsLW84NMP2+fANls`

@@ -1,12 +1,12 @@
 {
   "description": "We asked artists to shout out the rising names we (and you) need to know \u2014 and these are their picks.",
-  "num_followers": 1251,
+  "num_followers": 1252,
   "original_name": "Casa Spotify: Los Artistas Recomiendan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCNiwlFWyhHOpLqE+2NUD9dLlr6",
+  "snapshot_id": "AAAAAFveC6wlEZgMhzFXZynFfbaUYzH0",
   "tracks": [
     {
       "added_at": "2026-11-16 19:29:05",
@@ -82,6 +82,10 @@
         {
           "name": "Kris R.",
           "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
         }
       ],
       "duration_ms": 161428,

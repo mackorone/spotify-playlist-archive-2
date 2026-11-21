@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1s2jwVSrmxKxxvvDoMWl32.md) - cumulative - [plain](/playlists/plain/1s2jwVSrmxKxxvvDoMWl32) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/1s2jwVSrmxKxxvvDoMWl32)
 
-### [Sub Pop: The Grunge Years](https://open.spotify.com/playlist/1s2jwVSrmxKxxvvDoMWl32)
+### [Sub Pop Decades: The Grunge Years \(80s and 90s\)](https://open.spotify.com/playlist/1s2jwVSrmxKxxvvDoMWl32)
 
 > A collection of classic Sub Pop tracks from the 80s and 90s, all that is grunge adjacent!
 

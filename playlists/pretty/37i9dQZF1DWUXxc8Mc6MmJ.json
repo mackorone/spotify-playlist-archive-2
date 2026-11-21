@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 1097013,
+  "num_followers": 1097159,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHNS2wOWd4u3WbObHPF1KnB8HVvc",
+  "snapshot_id": "AAAAAAXlM9Ii/WmF3AeDATAdoNkD40kZ",
   "tracks": [
     {
       "added_at": "2024-10-10 07:07:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Hong Gil Dong OST",
-        "url": "https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 265613,
-      "name": "If",
-      "url": "https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Crash Landing on You OST Part 11",
         "url": "https://open.spotify.com/album/29KU88wZtAigritdYGvgPk"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 280360,
       "name": "Give You My Heart",
       "url": "https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Hong Gil Dong OST",
+        "url": "https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "If",
+      "url": "https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\uc560\uc778\ub9cc\ub4e4\uae30",
-      "url": "https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 1 Original Television Soundtrack",
         "url": "https://open.spotify.com/album/14cZOtcNhNEQDQUwtg6gcm"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Whats wrong with secretary kim OST Part.2",
-        "url": "https://open.spotify.com/album/33Pnr6Xe94tVdfMvZKKntT"
+        "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
       },
       "artists": [
         {
-          "name": "JEONG SEWOON",
-          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 219506,
-      "name": "It`s you",
-      "url": "https://open.spotify.com/track/3dvPPS5KXskeRbrSY80gwt"
+      "duration_ms": 195693,
+      "name": "\uc560\uc778\ub9cc\ub4e4\uae30",
+      "url": "https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -943,6 +927,22 @@
       "duration_ms": 203046,
       "name": "A Lot Like Love",
       "url": "https://open.spotify.com/track/5Mu3n2L96MX1lU2EHqnD7p"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Whats wrong with secretary kim OST Part.2",
+        "url": "https://open.spotify.com/album/33Pnr6Xe94tVdfMvZKKntT"
+      },
+      "artists": [
+        {
+          "name": "JEONG SEWOON",
+          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "It`s you",
+      "url": "https://open.spotify.com/track/3dvPPS5KXskeRbrSY80gwt"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
+        "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 4 Original Television Soundtrack",
+        "url": "https://open.spotify.com/album/1WWEdcuZ8q1WN3Z4IM65am"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "duration_ms": 264538,
+      "name": "I Love You Boy",
+      "url": "https://open.spotify.com/track/5XXJnC5TvcL2QsAZ3Nxgku"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
         "name": "Twenty-Five Twenty-One OST Part 5",
         "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 187840,
       "name": "Borrow your night (Romance 101 X 10CM)",
       "url": "https://open.spotify.com/track/5KVLNQ87MPlHDXR8WXXZmh"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "\ub2f9\uc2e0\uc774 \uc7a0\ub4e0 \uc0ac\uc774\uc5d0 Pt. 4 Original Television Soundtrack",
-        "url": "https://open.spotify.com/album/1WWEdcuZ8q1WN3Z4IM65am"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        }
-      ],
-      "duration_ms": 264538,
-      "name": "I Love You Boy",
-      "url": "https://open.spotify.com/track/5XXJnC5TvcL2QsAZ3Nxgku"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Descendants Of The Sun Pt.8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 226108,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Mr. Queen (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/5Gl6E2Fvv0BXCNHZn2QlTY"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
+        "name": "Descendants Of The Sun Pt.8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 226108,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
         "name": "Descendants Of The Sun Pt.7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 254737,
       "name": "With You",
       "url": "https://open.spotify.com/track/2o2e7bYiUSJgUSFcxywNVV"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "She Was Prettty OST Part.1",
+        "url": "https://open.spotify.com/album/4X7muDCMjHRPOF7nu9on1U"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "THUMPING",
+      "url": "https://open.spotify.com/track/0OliIx9VT7zckrj1abkjoN"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1415,38 +1431,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
-      },
-      "artists": [
-        {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
-        "name": "She Was Prettty OST Part.1",
-        "url": "https://open.spotify.com/album/4X7muDCMjHRPOF7nu9on1U"
-      },
-      "artists": [
-        {
-          "name": "Vincent Blue",
-          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "THUMPING",
-      "url": "https://open.spotify.com/track/0OliIx9VT7zckrj1abkjoN"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "SECRET GARDEN DRAMA OST Part.5",
         "url": "https://open.spotify.com/album/7Kj4iWxj46ndA8bZPJrJqy"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 271220,
       "name": "The man",
       "url": "https://open.spotify.com/track/2OGANfvwjjyCGshEfeG0FX"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
+      },
+      "artists": [
+        {
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 11",
-        "url": "https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 217989,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 8",
         "url": "https://open.spotify.com/album/5YTid0Ew5Mvlq08gE6ehqc"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 296134,
       "name": "The First Snow",
       "url": "https://open.spotify.com/track/43ogAyFAzG58KW7rhWeGQE"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 11",
+        "url": "https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 217989,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4"
     },
     {
       "added_at": "2024-10-10 07:07:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-10-10 07:07:00",
       "album": {
-        "name": "Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 3)",
-        "url": "https://open.spotify.com/album/0kqgFrRX8ynvKc0Qy4jkMl"
-      },
-      "artists": [
-        {
-          "name": "Han Hee Jung",
-          "url": "https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/4C8IyegMjj5vmSdO4HUATk"
-    },
-    {
-      "added_at": "2024-10-10 07:07:00",
-      "album": {
         "name": "Master`s sun OST Part.3",
         "url": "https://open.spotify.com/album/00Gajw59e8BvExy9BJQUIz"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 270431,
       "name": "Crazy of you",
       "url": "https://open.spotify.com/track/1EC8QewniFjTg6a2eYB60a"
+    },
+    {
+      "added_at": "2024-10-10 07:07:00",
+      "album": {
+        "name": "Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/0kqgFrRX8ynvKc0Qy4jkMl"
+      },
+      "artists": [
+        {
+          "name": "Han Hee Jung",
+          "url": "https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4C8IyegMjj5vmSdO4HUATk"
     },
     {
       "added_at": "2024-10-10 07:07:00",

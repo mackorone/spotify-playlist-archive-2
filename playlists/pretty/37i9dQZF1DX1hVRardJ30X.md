@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Paloma Morphy, Myke Towers & Rauw Alejandro, Joaquina, Kapo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,561 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,638 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [Delito](https://open.spotify.com/track/3sXZljr1iDhYbEiVLMDgzM) | [Jaswiry](https://open.spotify.com/artist/1fGZCYZpR1kUczhB55AJaW) | [Delito](https://open.spotify.com/album/7gr1SWt6jKRWoSnpWKuvzr) | 2:38 |
 | 37 | [Pussy Pop](https://open.spotify.com/track/6RQMTk1TFJM3ANdIuHb534) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Pussy Pop](https://open.spotify.com/album/3I2Vnbsg6OAlYgFqnLcP8m) | 2:21 |
 | 38 | [Cómo Le Digo a Mi Amá](https://open.spotify.com/track/3uLbuKcBSaw5ecbvYMSyar) | [Eley Romero](https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Cómo Le Digo a Mi Amá](https://open.spotify.com/album/4hcBCjMGHl38BJGHcqOmJo) | 1:54 |
-| 39 | [avión](https://open.spotify.com/track/2u15B2FPq3zv0D9xA7HtJN) | [Rigoazulado](https://open.spotify.com/artist/1D79GNF7t5kzqprHFZmBLx) | [avión](https://open.spotify.com/album/2Omy6fgKHpwIe9irO5DqeQ) | 3:06 |
-| 40 | [Una Vez Más](https://open.spotify.com/track/5qHY2RgmTO9pBgRiZWMg60) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Una Vez Más](https://open.spotify.com/album/4NiZ1mlAfCvJxyWRIGX1vj) | 3:31 |
-| 41 | [Mi Enemigo El Amor](https://open.spotify.com/track/7JAHUU4lxuLjAdPzoByBdw) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mi Enemigo El Amor](https://open.spotify.com/album/1TiI7P3TbT6BQ5epT7NWpb) | 4:09 |
-| 42 | [En el Fondo](https://open.spotify.com/track/4J7AK89TSYTWXxwVW6meJx) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [En el Fondo](https://open.spotify.com/album/7eVasGqM5OGeC4HUUEyXrr) | 3:33 |
-| 43 | [No Di Una](https://open.spotify.com/track/1VXPyGwvrmr6taa00WK1st) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Iván Gámez](https://open.spotify.com/artist/3mBXdvv1aIdzguRPwaekv6) | [No Di Una](https://open.spotify.com/album/4uedxiVh2KXCitFdNq65jk) | 3:23 |
-| 44 | [Mary Juanos](https://open.spotify.com/track/2GYOArnAWOyC5dIJoURZVG) | [Markitos Nasa](https://open.spotify.com/artist/2BX1LBkSzIUWBLmFfd1SQ0) | [Mary Juanos](https://open.spotify.com/album/7cobUDzn0do4oIqtnJs9F7) | 3:06 |
-| 45 | [Equilibrar la Balanza \(Oops I did It\)](https://open.spotify.com/track/42TyvbFEvrA4HLqSe170tS) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Equilibrar la Balanza \| Daltonismo](https://open.spotify.com/album/2VPxqkYjl8gPhQsheutnRI) | 3:27 |
-| 46 | [DESPUES DEL PRE](https://open.spotify.com/track/1bNF5pbDuo3rVBxI1Wl3mX) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Gabby Black](https://open.spotify.com/artist/2lvn6HDshxU8eNarC6jLFK) | [DESPUES DEL PRE](https://open.spotify.com/album/4KUJlF9pQjq1mPSE8KPZd8) | 3:07 |
-| 47 | [Sabía](https://open.spotify.com/track/6Ns7hlyjnadwmb4AkRe13X) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [Sabía](https://open.spotify.com/album/5qePb1slY7kG8MIvNBLmug) | 3:32 |
-| 48 | [Jefazo](https://open.spotify.com/track/31a4aOn3XIcNUevlcMhMWZ) | [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs) | [Jefazo](https://open.spotify.com/album/08Y1iCh7lQ7IWGaP9xkqXB) | 2:45 |
-| 49 | [ME TOCO](https://open.spotify.com/track/7DAH8muPdGy3YcyqGOl7OF) | [Baby Yami](https://open.spotify.com/artist/3A1tF3YZ0Xa5IBo3NG32k4) | [ME TOCO](https://open.spotify.com/album/0XJjTA6jUKgWNvADMkNPuk) | 3:02 |
+| 39 | [Mi Esposa Consentida](https://open.spotify.com/track/7C27k5lANwonEIe2cKN48D) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Esposa Consentida](https://open.spotify.com/album/7tkgA8z4fg8ewU72q6njVM) | 3:21 |
+| 40 | [un arrunchis más](https://open.spotify.com/track/2e3u2Ux8M3EIWtimLdl9xW) | [MONÁCO](https://open.spotify.com/artist/5mrZpUB8oFSOMkyyhW0rmH) | [un arrunchis más](https://open.spotify.com/album/60ceKPXKu0sEs4tnPdRF0R) | 2:35 |
+| 41 | [avión](https://open.spotify.com/track/2u15B2FPq3zv0D9xA7HtJN) | [Rigoazulado](https://open.spotify.com/artist/1D79GNF7t5kzqprHFZmBLx) | [avión](https://open.spotify.com/album/2Omy6fgKHpwIe9irO5DqeQ) | 3:06 |
+| 42 | [Una Vez Más](https://open.spotify.com/track/5qHY2RgmTO9pBgRiZWMg60) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Una Vez Más](https://open.spotify.com/album/4NiZ1mlAfCvJxyWRIGX1vj) | 3:31 |
+| 43 | [Mi Enemigo El Amor](https://open.spotify.com/track/7JAHUU4lxuLjAdPzoByBdw) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mi Enemigo El Amor](https://open.spotify.com/album/1TiI7P3TbT6BQ5epT7NWpb) | 4:09 |
+| 44 | [En el Fondo](https://open.spotify.com/track/4J7AK89TSYTWXxwVW6meJx) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [En el Fondo](https://open.spotify.com/album/7eVasGqM5OGeC4HUUEyXrr) | 3:33 |
+| 45 | [No Di Una](https://open.spotify.com/track/1VXPyGwvrmr6taa00WK1st) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Iván Gámez](https://open.spotify.com/artist/3mBXdvv1aIdzguRPwaekv6) | [No Di Una](https://open.spotify.com/album/4uedxiVh2KXCitFdNq65jk) | 3:23 |
+| 46 | [Mary Juanos](https://open.spotify.com/track/2GYOArnAWOyC5dIJoURZVG) | [Markitos Nasa](https://open.spotify.com/artist/2BX1LBkSzIUWBLmFfd1SQ0) | [Mary Juanos](https://open.spotify.com/album/7cobUDzn0do4oIqtnJs9F7) | 3:06 |
+| 47 | [Equilibrar la Balanza \(Oops I did It\)](https://open.spotify.com/track/42TyvbFEvrA4HLqSe170tS) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Equilibrar la Balanza \| Daltonismo](https://open.spotify.com/album/2VPxqkYjl8gPhQsheutnRI) | 3:27 |
+| 48 | [DESPUES DEL PRE](https://open.spotify.com/track/1bNF5pbDuo3rVBxI1Wl3mX) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Gabby Black](https://open.spotify.com/artist/2lvn6HDshxU8eNarC6jLFK) | [DESPUES DEL PRE](https://open.spotify.com/album/4KUJlF9pQjq1mPSE8KPZd8) | 3:07 |
+| 49 | [Sabía](https://open.spotify.com/track/6Ns7hlyjnadwmb4AkRe13X) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [Sabía](https://open.spotify.com/album/5qePb1slY7kG8MIvNBLmug) | 3:32 |
+| 50 | [Jefazo](https://open.spotify.com/track/31a4aOn3XIcNUevlcMhMWZ) | [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs) | [Jefazo](https://open.spotify.com/album/08Y1iCh7lQ7IWGaP9xkqXB) | 2:45 |
+| 51 | [ME TOCO](https://open.spotify.com/track/7DAH8muPdGy3YcyqGOl7OF) | [Baby Yami](https://open.spotify.com/artist/3A1tF3YZ0Xa5IBo3NG32k4) | [ME TOCO](https://open.spotify.com/album/0XJjTA6jUKgWNvADMkNPuk) | 3:02 |
 
-Snapshot ID: `AAAAANYszQQ/37U336XWOPEq22MkPg43`
+Snapshot ID: `AAAAAEy3LdGRi/5TcWeis++Ee7U7kRWy`

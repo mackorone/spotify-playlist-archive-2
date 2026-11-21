@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de noviembre 2026. Cover: Hamilton & Sech",
-  "num_followers": 1538095,
+  "num_followers": 1538378,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG7NQl5GtONtzVFnvAkuo2cc5vA2",
+  "snapshot_id": "AAAAAPuK6K+cjQbAAiqTDrOAhBjrP78p",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:07",
@@ -163,26 +163,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "AGUA",
-        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 191107,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "D\u00f3nde est\u00e1s",
         "url": "https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 159130,
       "name": "D\u00f3nde est\u00e1s",
       "url": "https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 159528,
-      "name": "For Eva",
-      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "Apambichao, Vol. 2",
         "url": "https://open.spotify.com/album/52MlGKVyJ0SCV9QDSZE96h"
       },
@@ -459,22 +443,18 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "Mami",
-        "url": "https://open.spotify.com/album/2qwDdtnfWmVY1DuQ8tSrvp"
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 144843,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/3py6ylZiCGaPQa1MWltbTz"
+      "duration_ms": 159528,
+      "name": "For Eva",
+      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -491,6 +471,26 @@
       "duration_ms": 143301,
       "name": "El Hueso",
       "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/2qwDdtnfWmVY1DuQ8tSrvp"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 144843,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/3py6ylZiCGaPQa1MWltbTz"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "Con Esos Celos",
-        "url": "https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 133142,
-      "name": "Con Esos Celos",
-      "url": "https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "Perderte",
         "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 219500,
       "name": "Perderte",
       "url": "https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "Con Esos Celos",
+        "url": "https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 133142,
+      "name": "Con Esos Celos",
+      "url": "https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "BARAJA BENDITA",
-        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 184793,
-      "name": "BANDERA BLANCA",
-      "url": "https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "INTELIGENCIA ARTESANAL",
         "url": "https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP"
       },
@@ -651,6 +635,46 @@
       "duration_ms": 136446,
       "name": "IBUPROFENO",
       "url": "https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 184793,
+      "name": "BANDERA BLANCA",
+      "url": "https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "HAGALO (Remix)",
+        "url": "https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "duration_ms": 209411,
+      "name": "HAGALO - Remix",
+      "url": "https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -779,6 +803,22 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
+        "name": "una en un mill\u00f3n . . & te qued\u00f3 grande [v13 xii] . -",
+        "url": "https://open.spotify.com/album/5WV8k3KiC0QuUuR70gwESF"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 180944,
+      "name": "una en un mill\u00f3n . .",
+      "url": "https://open.spotify.com/track/62R3iw59IeKbl2VbFR2mzp"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
         "name": "si",
         "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
       },
@@ -791,30 +831,6 @@
       "duration_ms": 151624,
       "name": "si",
       "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
-        "name": "HAGALO (Remix)",
-        "url": "https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub"
-      },
-      "artists": [
-        {
-          "name": "K\u00f8ddy G",
-          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "THE FAVORITES",
-          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "HAGALO - Remix",
-      "url": "https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -859,22 +875,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "una en un mill\u00f3n . . & te qued\u00f3 grande [v13 xii] . -",
-        "url": "https://open.spotify.com/album/5WV8k3KiC0QuUuR70gwESF"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 180944,
-      "name": "una en un mill\u00f3n . .",
-      "url": "https://open.spotify.com/track/62R3iw59IeKbl2VbFR2mzp"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "bark bark bark",
         "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "VALIENTE",
-        "url": "https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 150434,
-      "name": "VALIENTE",
-      "url": "https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "feel trip.",
         "url": "https://open.spotify.com/album/0ulcvQush73hnL6XY3odm7"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 145449,
       "name": "siete veces",
       "url": "https://open.spotify.com/track/0hG1rclLdrv3OzVWimq6dO"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "VALIENTE",
+        "url": "https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 150434,
+      "name": "VALIENTE",
+      "url": "https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "LA MENTIRA",
-        "url": "https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex"
-      },
-      "artists": [
-        {
-          "name": "Abrildefresa",
-          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "LA MENTIRA",
-      "url": "https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "me cuidas!",
         "url": "https://open.spotify.com/album/5clxHG7ty01B6ZS2Vdy0uH"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 192000,
       "name": "me cuidas!",
       "url": "https://open.spotify.com/track/4Qo3BGa95WkK0wEssoM15X"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "LA MENTIRA",
+        "url": "https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex"
+      },
+      "artists": [
+        {
+          "name": "Abrildefresa",
+          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "LA MENTIRA",
+      "url": "https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
+        "name": "HEELS",
+        "url": "https://open.spotify.com/album/71rtTy8h2jolJcjzvHw87S"
+      },
+      "artists": [
+        {
+          "name": "fidoisblue",
+          "url": "https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI"
+        }
+      ],
+      "duration_ms": 151532,
+      "name": "HEELS",
+      "url": "https://open.spotify.com/track/6cpKM8UHziDY4mbOEZFTZ2"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
         "name": "Viento",
         "url": "https://open.spotify.com/album/28V9dPDGcUekMXJ50iNlMU"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 185714,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6CyYoVfRzoOgGYbw5hGfDT"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
-        "name": "HEELS",
-        "url": "https://open.spotify.com/album/71rtTy8h2jolJcjzvHw87S"
-      },
-      "artists": [
-        {
-          "name": "fidoisblue",
-          "url": "https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI"
-        }
-      ],
-      "duration_ms": 151532,
-      "name": "HEELS",
-      "url": "https://open.spotify.com/track/6cpKM8UHziDY4mbOEZFTZ2"
     },
     {
       "added_at": "2026-11-20 05:01:07",

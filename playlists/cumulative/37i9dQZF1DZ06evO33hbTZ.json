@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Adonai (Live)",
+        "url": "https://open.spotify.com/album/3BXk9P6kin2aBqy8XdYNkE"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723026,
+      "name": "Adonai - Live",
+      "url": "https://open.spotify.com/track/56fIx7nmkAljyxHGRvGtLa"
+    },
+    {
+      "album": {
         "name": "ALONE WITH GOD (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },

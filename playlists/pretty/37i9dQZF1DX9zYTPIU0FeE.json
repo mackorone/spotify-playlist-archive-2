@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Pilani Bubu",
-  "num_followers": 14933,
+  "num_followers": 14936,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACXdCw+9DZak4//sACF8qNbZPW8T",
+  "snapshot_id": "AAAAAIa6tH8xIsGblEiQaW3GhKA3CMoR",
   "tracks": [
     {
       "added_at": "2026-10-01 22:02:06",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "African Time",
+        "url": "https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "Thixo Akunangqalelo",
+      "url": "https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "Idabi Labantu",
         "url": "https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "African Time",
-        "url": "https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Thixo Akunangqalelo",
-      "url": "https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "In The Wake",
         "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
       },
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "At This Point in Time: Voices in Volumes",
+        "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 484551,
+      "name": "Wozani Nonke Sizothandaza",
+      "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "nomthandazo",
         "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 257096,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "At This Point in Time: Voices in Volumes",
-        "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 484551,
-      "name": "Wozani Nonke Sizothandaza",
-      "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "Hamba No Malume",
+        "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 298346,
+      "name": "Hamba No Malume",
+      "url": "https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "The Seed",
         "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 244426,
       "name": "Kumi Lach",
       "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "Hamba No Malume",
-        "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 298346,
-      "name": "Hamba No Malume",
-      "url": "https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -775,54 +775,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Invitation 2",
-        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
-      },
-      "artists": [
-        {
-          "name": "Don Laka",
-          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Monate Ofedile",
-      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "Our People",
-        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
-      },
-      "artists": [
-        {
-          "name": "NLite.",
-          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Our People",
-      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 349750,
-      "name": "Journey of Gratitude",
-      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -843,6 +795,54 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Invitation 2",
+        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
+      },
+      "artists": [
+        {
+          "name": "Don Laka",
+          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Monate Ofedile",
+      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 349750,
+      "name": "Journey of Gratitude",
+      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Our People",
+        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
+      },
+      "artists": [
+        {
+          "name": "NLite.",
+          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Our People",
+      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -983,6 +983,30 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "Water from an Ancient Well",
+        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Ibrahim",
+          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
+        },
+        {
+          "name": "Noah Jackson",
+          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
+        },
+        {
+          "name": "Cleave Guyton Jr.",
+          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
+        }
+      ],
+      "duration_ms": 244278,
+      "name": "Water from an Ancient Well - Single Edit",
+      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
         "url": "https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle"
       },
@@ -1007,30 +1031,6 @@
       "duration_ms": 471952,
       "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
       "url": "https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "Water from an Ancient Well",
-        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Ibrahim",
-          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
-        },
-        {
-          "name": "Noah Jackson",
-          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
-        },
-        {
-          "name": "Cleave Guyton Jr.",
-          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
-        }
-      ],
-      "duration_ms": 244278,
-      "name": "Water from an Ancient Well - Single Edit",
-      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Qalo",
-        "url": "https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep"
+        "name": "Modeh Ani",
+        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
       },
       "artists": [
         {
-          "name": "Bokang Ramatlapeng",
-          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
         }
       ],
-      "duration_ms": 260750,
-      "name": "Chant Song: Bakoena Ba Nkopane",
-      "url": "https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn"
+      "duration_ms": 239107,
+      "name": "Modeh Ani",
+      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
     }
   ],
   "unique_name": "Jazz NEXT",

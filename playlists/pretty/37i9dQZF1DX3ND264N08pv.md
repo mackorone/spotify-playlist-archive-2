@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,757 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,773 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 27 | [PSSY MTHRFCKRZ \- Chaos Project & Sakyra Remix](https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz) | [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [Sakyra](https://open.spotify.com/artist/2GR3DT7wsxRnjNckRcNMpD) | [PSSY MTHRFCKRZ \(Chaos Project & Sakyra Remix\)](https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc) | 2:42 |
 | 28 | [No Mercy](https://open.spotify.com/track/7lwbUfP0iTVG9bZS3VQdU7) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [No Mercy](https://open.spotify.com/album/2p5dKH6CI5On3gOUo4Czii) | 4:32 |
 | 29 | [Burn Out](https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl) | [Burn Out](https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w) | 2:41 |
-| 30 | [Round My Mind](https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Round My Mind](https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI) | 3:36 |
-| 31 | [Midnight Rain](https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Midnight Rain](https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO) | 3:44 |
+| 30 | [Midnight Rain](https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Midnight Rain](https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO) | 3:44 |
+| 31 | [Round My Mind](https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Round My Mind](https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI) | 3:36 |
 | 32 | [Bring The Hammer Down](https://open.spotify.com/track/2zjlS4UQAgZaxtJCDB79Mt) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Bring The Hammer Down](https://open.spotify.com/album/6dvA9ZepS0SFnVXkKi9E1F) | 2:20 |
 | 33 | [EAT SLEEP NOISE REPEAT](https://open.spotify.com/track/7L5a90A4haEoeWnzmcRYAr) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [EAT SLEEP NOISE REPEAT](https://open.spotify.com/album/0z7tHHoZuhYoY48G9vOzo6) | 2:18 |
 | 34 | [Druck Auf Anschlag](https://open.spotify.com/track/0nQGMWTpErR32JMDUBELOr) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Yellow Pvnk](https://open.spotify.com/artist/5ciuRoDCYAgWi8a5go0GC8) | [Druck Auf Anschlag](https://open.spotify.com/album/5Wmmb4sCkMyG8yDPFv9lfJ) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
 | 50 | [Hit The Speakers](https://open.spotify.com/track/0RbJaaZtC648PbCBgeb9Uh) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [Hit The Speakers](https://open.spotify.com/album/5tzzkX9Tc6OJxQtUJCBxJN) | 3:25 |
 
-Snapshot ID: `AAAAAGpY4UjmEZbWKG1XLohy3Nf8oEiA`
+Snapshot ID: `AAAAAPsMh7izNWssCD0OxNUgO4IOevFH`

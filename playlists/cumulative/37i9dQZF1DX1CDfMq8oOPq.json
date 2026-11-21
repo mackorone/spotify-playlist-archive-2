@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 99428,
       "name": "Caminho do meio (Intro)",
       "url": "https://open.spotify.com/track/7CaAp4nH6ox0bJ4PePStRN"
@@ -7314,6 +7314,36 @@
       "duration_ms": 138857,
       "name": "Resenha do Rock",
       "url": "https://open.spotify.com/track/7nsvD1q1UrHbIeNU8iJZrc"
+    },
+    {
+      "album": {
+        "name": "Resenha do Rock 2",
+        "url": "https://open.spotify.com/album/59RA7smiTApfS7ed6ja0Ia"
+      },
+      "artists": [
+        {
+          "name": "Jenario Mc",
+          "url": "https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa"
+        },
+        {
+          "name": "Abaddie",
+          "url": "https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3"
+        },
+        {
+          "name": "Luiz Santanna",
+          "url": "https://open.spotify.com/artist/5HDjYRgo2BxENjbWrzAlNS"
+        },
+        {
+          "name": "rarubeats",
+          "url": "https://open.spotify.com/artist/2sElsodBJOKlCebqrG1T9B"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137379,
+      "name": "Resenha do Rock 2",
+      "url": "https://open.spotify.com/track/0mXsewR456SDjBdsYzxgos"
     },
     {
       "album": {

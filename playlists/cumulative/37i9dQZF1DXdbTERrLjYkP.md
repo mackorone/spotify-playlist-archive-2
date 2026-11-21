@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Grace Enger
 
-1,188 songs - 2 day 16 hr 11 min
+1,190 songs - 2 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [Fond](https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [You Don't Know My Name](https://open.spotify.com/album/3inlEu7RZ2B4NdAYEqEmwk) | 2:23 | 2026-06-26 | 2026-11-13 |
 | [Fool](https://open.spotify.com/track/2YbCm17UJVAahRBYpliQr8) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Fool](https://open.spotify.com/album/4RLU9EBKgeFBgBEERtnU8x) | 4:00 | 2026-02-27 | 2026-04-25 |
 | [For an Evening](https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [For an Evening](https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW) | 4:15 | 2022-12-30 | 2023-04-01 |
-| [FRANKENSTEIN](https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FRANKENSTEIN](https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN) | 3:07 | 2026-06-26 |  |
+| [FRANKENSTEIN](https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FRANKENSTEIN](https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN) | 3:07 | 2026-06-26 | 2026-11-21 |
 | [Friday Night Thriller](https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Friday Night Thriller](https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug) | 3:10 | 2023-06-30 | 2023-07-22 |
 | [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 | 2025-08-15 | 2025-08-23 |
 | [Friends](https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Friends](https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F) | 3:17 | 2024-08-30 | 2025-01-18 |
@@ -496,7 +496,7 @@
 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 | 2023-10-06 | 2023-12-14 |
 | [how2get2me](https://open.spotify.com/track/1uRKG3qQlihYCSQVEop2lA) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [how2get2me / pocket](https://open.spotify.com/album/3yCcg5MsSClD2TnUIbu5p4) | 2:53 | 2026-04-24 | 2026-09-05 |
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2022-01-14 | 2022-03-12 |
-| [Hurts](https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Hurts](https://open.spotify.com/album/5kRVr5kcCtBZuIL6C5aycN) | 3:00 | 2026-07-10 |  |
+| [Hurts](https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Hurts](https://open.spotify.com/album/5kRVr5kcCtBZuIL6C5aycN) | 3:00 | 2026-07-10 | 2026-11-21 |
 | [Hurts Different](https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6) | [Isabella Kearney](https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL) | [Hurts Different](https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc) | 2:21 | 2025-01-24 | 2025-05-17 |
 | [Hurts Like Hell](https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Hurts Like Hell](https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k) | 2:43 | 2023-07-28 | 2023-12-14 |
 | [Hypothetically](https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Hypothetically](https://open.spotify.com/album/3840k7aSlsMmh6uK1srrsO) | 2:41 | 2024-06-07 | 2024-12-07 |
@@ -703,6 +703,7 @@
 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-08-02 | 2025-01-04 |
 | [Mayday \- demo](https://open.spotify.com/track/7445p1aASItE7TjSy6tWn0) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [Mayday \(demo\)](https://open.spotify.com/album/2e1jWR6PJ7OlCXetM3zXWW) | 2:52 | 2026-10-16 |  |
 | [Me to You](https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Well Here We Are \- EP](https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s) | 3:03 | 2023-08-11 | 2023-09-16 |
+| [Me, myself and I](https://open.spotify.com/track/5HsJa1eoK3PW1nxoZqAiH0) | [Leyla Sabo](https://open.spotify.com/artist/2q5r36O9E3LiI3tu0eVtGy) | [Me, myself and I](https://open.spotify.com/album/5We74rgkbzaokVKhBT0fll) | 3:52 | 2026-11-21 |  |
 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 | 2025-08-29 | 2025-11-22 |
 | [mean!](https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [pretty ruthless](https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26) | 3:20 | 2026-07-10 | 2026-09-05 |
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2022-01-14 | 2022-02-26 |
@@ -936,6 +937,7 @@
 | [Sleeping with the Lights On](https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 4:59 | 2025-09-26 | 2026-02-28 |
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-11-12 |
 | [Sleepy](https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:08 | 2022-09-09 | 2022-12-24 |
+| [Slip Knot](https://open.spotify.com/track/2hmobee62KB9XJUH6rtE2f) | [Syd Hudson](https://open.spotify.com/artist/0RQfr3D9JzuXGAak4PLYUR) | [Slip Knot](https://open.spotify.com/album/0BwFjrDaxQGwfF1XAT9nAt) | 2:58 | 2026-11-21 |  |
 | [Slow Burn](https://open.spotify.com/track/4W0TNEgP0qfw6FLLrCcax9) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Slow Burn](https://open.spotify.com/album/2EUxbbzuYVDMdVF855Dayl) | 3:18 | 2023-04-07 | 2024-03-23 |
 | [slow burner](https://open.spotify.com/track/55ejPEgt8rxP9NQcAR7tZu) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [slow burner](https://open.spotify.com/album/4jHWsdq0GDxoIP7anxllXq) | 3:12 | 2025-08-08 | 2025-11-01 |
 | [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 | 2022-08-12 | 2022-12-10 |

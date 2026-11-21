@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Lealona, The Jeblogs",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Akbar Chalay, Mingse",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 248274,
       "name": "Aku Milikmu",
       "url": "https://open.spotify.com/track/6G7dG0nZN4I9LRGVzKNVQQ"
@@ -3178,7 +3178,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 280000,
       "name": "Berapa Kali Kita Akan Saling Memaafkan",
       "url": "https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd"
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 256834,
       "name": "Bila",
       "url": "https://open.spotify.com/track/7sieBb2O8zwIQxsKT59YGZ"
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 332654,
       "name": "Bulan Bintang, Garis Menyilang",
       "url": "https://open.spotify.com/track/4XjtlZNz9eOA55q3Em4P3B"
@@ -6436,6 +6436,24 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "album": {
+        "name": "Dahlia",
+        "url": "https://open.spotify.com/album/44DTBeZkTTH0FXaGmF9gdV"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286500,
+      "name": "Dahlia",
+      "url": "https://open.spotify.com/track/2RfAZSlSm29lmSeg5VPgHY"
     },
     {
       "album": {
@@ -9081,6 +9099,24 @@
     },
     {
       "album": {
+        "name": "Love Goes",
+        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246735,
+      "name": "Fire On Fire",
+      "url": "https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY"
+    },
+    {
+      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
       },
@@ -10771,6 +10807,24 @@
     },
     {
       "album": {
+        "name": "Memorandum",
+        "url": "https://open.spotify.com/album/5kMUjEYuu9ms8xLlk2b0V4"
+      },
+      "artists": [
+        {
+          "name": "Perunggu",
+          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290500,
+      "name": "Haru Paling Biru",
+      "url": "https://open.spotify.com/track/3oqJNTeRBFHoXeTnwbDyAL"
+    },
+    {
+      "album": {
         "name": "Harus Bagaimana",
         "url": "https://open.spotify.com/album/3EuN1oPlTSArp03tykRzY7"
       },
@@ -11636,6 +11690,24 @@
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
+    },
+    {
+      "album": {
+        "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
+        "url": "https://open.spotify.com/album/47lGFW58QJPb3i2pM53Qni"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216993,
+      "name": "Hong Kong (feat. \u738b\u83f2\u5b63\u5019\u98a8)",
+      "url": "https://open.spotify.com/track/1824ElVTa8XiWOjOlujl81"
     },
     {
       "album": {
@@ -17472,7 +17544,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 234487,
       "name": "Masih Ada Cahaya",
       "url": "https://open.spotify.com/track/060z6NmZPv7YJWpQYYKTcs"
@@ -20815,6 +20887,28 @@
     },
     {
       "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Jessica Jarrell",
+          "url": "https://open.spotify.com/artist/6sjsQahFYXgmOmocbuHou3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251186,
+      "name": "Overboard",
+      "url": "https://open.spotify.com/track/1tzkJMX3gNjnpcHdLD0pM3"
+    },
+    {
+      "album": {
         "name": "P Ramlee Saloma",
         "url": "https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN"
       },
@@ -21766,6 +21860,24 @@
       "duration_ms": 133722,
       "name": "perseverance (in the face of grief)",
       "url": "https://open.spotify.com/track/2SEAWpYX7P2LVjTCCXB2Wv"
+    },
+    {
+      "album": {
+        "name": "Celoteh - Celoteh",
+        "url": "https://open.spotify.com/album/0vDyJF7qUFxEk4bc3jbnL6"
+      },
+      "artists": [
+        {
+          "name": "Iwan Fals",
+          "url": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287741,
+      "name": "Pesawat Tempurku",
+      "url": "https://open.spotify.com/track/4TiolTayUoFbofihzIT8rM"
     },
     {
       "album": {
@@ -23284,7 +23396,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -25732,6 +25844,24 @@
       "duration_ms": 255888,
       "name": "Si Paling Mahir",
       "url": "https://open.spotify.com/track/13PG6EwYObFHU3hMWT5HBt"
+    },
+    {
+      "album": {
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243724,
+      "name": "Sial",
+      "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
     },
     {
       "album": {
@@ -31754,7 +31884,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 144101,
       "name": "WHITE KEYS",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

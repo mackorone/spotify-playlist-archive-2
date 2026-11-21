@@ -3134,6 +3134,24 @@
     {
       "album": {
         "name": "19",
+        "url": "https://open.spotify.com/album/2mUG540ZbHkdRgbklLoYHM"
+      },
+      "artists": [
+        {
+          "name": "25",
+          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "19",
+      "url": "https://open.spotify.com/track/1fdfrnUKu6YrVk9NTQnXkx"
+    },
+    {
+      "album": {
+        "name": "19",
         "url": "https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG"
       },
       "artists": [
@@ -13424,6 +13442,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "date_added": "2026-11-19",
@@ -177219,7 +177241,7 @@
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },

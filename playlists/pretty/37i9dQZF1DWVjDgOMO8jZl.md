@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 Angelica Bove in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,881 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,880 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 19 | [ti amo](https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [ti amo](https://open.spotify.com/album/0Xh1rWxeQHKFkpi7MrJdps) | 2:18 |
 | 20 | [Maschio](https://open.spotify.com/track/5oEyFVow0cL7hOXseDTcPn) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Kalimera](https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF) | 2:24 |
 
-Snapshot ID: `AAAAAJAwoWUZUQX5RgyC0OT6Nm1TqbDt`
+Snapshot ID: `AAAAAErN9RI4bRUnBdX2xvsVu3J3DBQ9`

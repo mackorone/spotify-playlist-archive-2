@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Chino Pacas, Jonathan Caro.",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Joss Favela.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 175909,
       "name": "Atte El Insuperable",
       "url": "https://open.spotify.com/track/0tgYhNMHWBIkJgW9xg8Vzi"
@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Ay Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/0d2XCarSiVfEWlaXk5guYD"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166909,
+      "name": "Ay Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/7FYgfSzxazyf55Ft2VB9sP"
+    },
+    {
+      "album": {
         "name": "Due\u00f1o del Jard\u00edn",
         "url": "https://open.spotify.com/album/0tz8tpENFK4GbkeHgx1hj6"
       },
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 180210,
       "name": "Bachas",
       "url": "https://open.spotify.com/track/3cFWgoQBVmJb7KxP9WaYff"
@@ -2101,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "ATRAVESAO",
+        "url": "https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177852,
+      "name": "BELLA",
+      "url": "https://open.spotify.com/track/1L95jqzylTYTR42QfBybXh"
+    },
+    {
+      "album": {
         "name": "Beretta (De Los Cerros La Escuela) [Remix]",
         "url": "https://open.spotify.com/album/75lZ4NLo7qi9U3z2hEEXaI"
       },
@@ -2116,7 +2152,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 141177,
       "name": "Beretta (De Los Cerros La Escuela) - Remix",
       "url": "https://open.spotify.com/track/3q2T7y63m6TAFKvIuJUfbL"
@@ -2688,6 +2724,28 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
+    },
+    {
+      "album": {
+        "name": "Camaron con Pulpo",
+        "url": "https://open.spotify.com/album/6hJcfgrzpYGSRM4yAxzPj4"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154186,
+      "name": "Camaron con Pulpo",
+      "url": "https://open.spotify.com/track/5RLYmkKVbc40Sckd9G0w2i"
     },
     {
       "album": {
@@ -4128,7 +4186,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 198466,
       "name": "Cuando Se Haga De Noche",
       "url": "https://open.spotify.com/track/2gBbXhcJKwji4r3aWTEksV"
@@ -5232,7 +5290,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 166593,
       "name": "Donde Sea",
       "url": "https://open.spotify.com/track/6IWVwQM3O3Htvn2KQSbVzA"
@@ -5454,7 +5512,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 210705,
       "name": "DQTD",
       "url": "https://open.spotify.com/track/2VxXRjnqCF3Z9cmEHzxj1T"
@@ -6118,6 +6176,24 @@
       "duration_ms": 172321,
       "name": "El D\u00eda Que Te Fuiste",
       "url": "https://open.spotify.com/track/5ckWeqMScCK2BUrZZlBjZt"
+    },
+    {
+      "album": {
+        "name": "El error de mi vida",
+        "url": "https://open.spotify.com/album/5fm7P0aasIZKpexFPd7Uct"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "El error de mi vida",
+      "url": "https://open.spotify.com/track/01fgPfRLD5PzzLsMYPNmpq"
     },
     {
       "album": {
@@ -7789,6 +7865,24 @@
     },
     {
       "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/7cZStbzv3lmp3onxR8O6l6"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171150,
+      "name": "Este Cari\u00f1o",
+      "url": "https://open.spotify.com/track/5L0GhGIuNKKGKSw4ZMSZfl"
+    },
+    {
+      "album": {
         "name": "#TB...Hits, Vol. 2",
         "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
       },
@@ -7818,7 +7912,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 176666,
       "name": "Estrella Fugaz",
       "url": "https://open.spotify.com/track/409VRwJqpiTUgWLGJiNjUv"
@@ -8190,6 +8284,24 @@
       "duration_ms": 212532,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
+    },
+    {
+      "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
     },
     {
       "album": {
@@ -10534,6 +10646,28 @@
       "duration_ms": 141064,
       "name": "LA PEOPLE II",
       "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
+    },
+    {
+      "album": {
+        "name": "SABIA DELUXE",
+        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139369,
+      "name": "LA QUE ME AGARR\u00c9",
+      "url": "https://open.spotify.com/track/7HFELXpj48Cbk0tSHZCrmb"
     },
     {
       "album": {
@@ -13133,6 +13267,24 @@
     },
     {
       "album": {
+        "name": "LUIS AYALA con norte\u00f1o (en vivo)",
+        "url": "https://open.spotify.com/album/6Zob2JnUQfVMICB72zf1YQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Ayala",
+          "url": "https://open.spotify.com/artist/1dvf1qzaPe9NRqkfp2dArz"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219474,
+      "name": "Mi Ni\u00f1a Bonita - En Vivo",
+      "url": "https://open.spotify.com/track/4CGGDG2ulDs1U3kwNz37p2"
+    },
+    {
+      "album": {
         "name": "Desde Houston (En Vivo)",
         "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
       },
@@ -14774,7 +14926,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 161000,
       "name": "No Sabes La Que Te Espera",
       "url": "https://open.spotify.com/track/5ytMaJbkBLBaMDNYMQjVw1"
@@ -15308,6 +15460,28 @@
       "duration_ms": 152284,
       "name": "OTRA VEZ",
       "url": "https://open.spotify.com/track/02OSVDLiLEuHIQgWriH3mu"
+    },
+    {
+      "album": {
+        "name": "Oveja Negra",
+        "url": "https://open.spotify.com/album/1v4zFBshC4YmJv1snxbxWC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143506,
+      "name": "Oveja Negra",
+      "url": "https://open.spotify.com/track/7LcDqOSX8tVQSAbDAdFUuk"
     },
     {
       "album": {
@@ -17358,7 +17532,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 232173,
       "name": "Quisiera Tenerte",
       "url": "https://open.spotify.com/track/6hBvPqvKtWteISagvdDjmq"

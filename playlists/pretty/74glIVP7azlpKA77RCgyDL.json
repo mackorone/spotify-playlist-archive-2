@@ -1,13 +1,109 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9206,
+  "num_followers": 9207,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAARdNn09EuFoHUwT3XSSIeXepdy/njc",
+  "snapshot_id": "AAARgElD1bfQ0oGUghNgxDfv/YIQv7c5",
   "tracks": [
+    {
+      "added_at": "2026-11-20 20:32:46",
+      "album": {
+        "name": "Volume V",
+        "url": "https://open.spotify.com/album/3zORhuGv9MMKoUhNnJtnyk"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "duration_ms": 426080,
+      "name": "They Walk the Night",
+      "url": "https://open.spotify.com/track/4uLWJY19BYEBGhJGmvUUVb"
+    },
+    {
+      "added_at": "2026-11-20 20:32:59",
+      "album": {
+        "name": "Slept With Cannula",
+        "url": "https://open.spotify.com/album/3o8hkSiwvDv2A9gpwcJbbk"
+      },
+      "artists": [
+        {
+          "name": "Crowquill",
+          "url": "https://open.spotify.com/artist/6pUEVEFvxk4xakMzo6wHFR"
+        }
+      ],
+      "duration_ms": 127922,
+      "name": "Blood On My Hands",
+      "url": "https://open.spotify.com/track/5lazvRjx3WVO4ppTABSuZS"
+    },
+    {
+      "added_at": "2026-11-20 20:34:10",
+      "album": {
+        "name": "My War",
+        "url": "https://open.spotify.com/album/2CqtG9PQZMuNmuQ9e0hwja"
+      },
+      "artists": [
+        {
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
+        }
+      ],
+      "duration_ms": 189559,
+      "name": "My War",
+      "url": "https://open.spotify.com/track/2xpsaAgLGFv2LFJdlcwXGK"
+    },
+    {
+      "added_at": "2026-11-20 20:33:50",
+      "album": {
+        "name": "Wheel",
+        "url": "https://open.spotify.com/album/1C6Aj4KUtw0DjICsm4bVpr"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Wheel",
+      "url": "https://open.spotify.com/track/27acAqEh3ELyZzJSh0RWd3"
+    },
+    {
+      "added_at": "2026-11-20 20:33:29",
+      "album": {
+        "name": "Crown In The Grave",
+        "url": "https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 282360,
+      "name": "The Terror",
+      "url": "https://open.spotify.com/track/2AhaxVHsIEJXXrAtHpLsty"
+    },
+    {
+      "added_at": "2026-11-20 20:33:15",
+      "album": {
+        "name": "Disguised in Pins / Pleading",
+        "url": "https://open.spotify.com/album/4VAH2OXbHmLs0E8ENMeVDm"
+      },
+      "artists": [
+        {
+          "name": "concealer.",
+          "url": "https://open.spotify.com/artist/5y2ymtnwjo4qwclZR9512J"
+        }
+      ],
+      "duration_ms": 189735,
+      "name": "Disguised in Pins",
+      "url": "https://open.spotify.com/track/0B2iyFSWtM3hWTNpKwgLPs"
+    },
     {
       "added_at": "2026-11-13 19:04:23",
       "album": {

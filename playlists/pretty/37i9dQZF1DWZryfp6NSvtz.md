@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Destroy Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,188 likes - 239 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,247 likes - 239 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,4 +248,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 238 | [how to make your love \(stay\)](https://open.spotify.com/track/0k66KVUV7hzKPsemb6Wmf5) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [untitled \(halo\)](https://open.spotify.com/album/4TKFP2DLk1z8zn1ZGuVbsh) | 2:24 |
 | 239 | [Your Love](https://open.spotify.com/track/1fNKvkFoz5O2XggQCRR57G) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Most Likely](https://open.spotify.com/album/1OQizYD8KIkRSmD1U3m9Vg) | 3:11 |
 
-Snapshot ID: `AAAAAOP+EDuztyzWrhMqa6LcGbuGkxMy`
+Snapshot ID: `AAAAAJnG0dONoON8exOqyBj7SZHGrJ/R`

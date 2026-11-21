@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,194 likes - 104 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,233 likes - 104 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 103 | [Woohoo](https://open.spotify.com/track/4um1LI7lfwbCXDGfPmnXyC) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [ACT II: Silkworm](https://open.spotify.com/album/42v7lt7rHS8PatbcLTvnXV) | 2:16 |
 | 104 | [Head Up \(feat\. EKKSTACY\)](https://open.spotify.com/track/0olie3vMDEjcdfi5rxxCQ8) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Head Up \(feat\. EKKSTACY\)](https://open.spotify.com/album/6jRIQx7QxpBm5cvWqfGDlU) | 1:56 |
 
-Snapshot ID: `AAAAAHbsUBvPrhvt8GG/lFC0i2V+F6k8`
+Snapshot ID: `AAAAAMc0400mTKf5MziYWkw1OPUXp26Y`

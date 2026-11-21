@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 東山奈央 Nao Toyama
 
-924 songs - 2 day 12 hr 28 min
+925 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 | 2022-07-28 | 2023-09-13 |
 | [Overload \- 「境界戦機」第二部オープニングテーマ](https://open.spotify.com/track/5V6AiDZLS838X2NceqiPja) | [富金原佑菜](https://open.spotify.com/artist/75pZmt1oHpu1jO8so1wp6P) | [Overload \(「境界戦機」第二部オープニングテーマ\)](https://open.spotify.com/album/5MOXYB3C7QOlVg2cuppRTT) | 3:49 | 2022-06-09 | 2022-07-29 |
 | [Page for Tomorrow](https://open.spotify.com/track/0AC2WKeZWyxxitrM78OkpK) | [NOW ON AIR](https://open.spotify.com/artist/5eUTQcO6GqD1gwFzJOUkmH) | [Page for Tomorrow](https://open.spotify.com/album/0G652lNFzwUxTQdUZu6YzC) | 4:12 | 2022-07-07 | 2022-07-25 |
+| [Pang Pang Pang](https://open.spotify.com/track/17upXStU80To2HOMpCdn8t) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Pang Pang Pang](https://open.spotify.com/album/0fQWahCafW4WWZo5q05VI3) | 2:45 | 2026-11-13 |  |
 | [PARADOX](https://open.spotify.com/track/1yyCK06zEaRQQwKBjh87Ji) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Paint it, BLUE](https://open.spotify.com/album/27YtqPFAUHBT7Kg00GUifk) | 4:14 | 2022-06-09 | 2022-07-22 |
 | [Paradoxes](https://open.spotify.com/track/0j6QFgRZKMHEkvdoOUFG6d) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Paradoxes](https://open.spotify.com/album/3T8XP1r8dAT0SqKQcizLy2) | 4:36 | 2024-05-28 | 2024-07-02 |
 | [Parallel World feat\. Ayasa](https://open.spotify.com/track/0zDhjdrcqEMggm0Atc6CL3) | [Lonesome\_Blue](https://open.spotify.com/artist/0RJTzBuPtpWubOBc2XUz95), [AYASA](https://open.spotify.com/artist/0NuwqSXiHKqdHbHpuz1jsI) | [First Utterance](https://open.spotify.com/album/0m5EcD8X9xRz03sTDSvcZ0) | 5:29 | 2022-07-07 | 2022-07-23 |
@@ -884,7 +885,7 @@
 | [花のように](https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [花のように](https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u) | 4:08 | 2023-01-12 | 2023-02-08 |
 | [花咲み](https://open.spotify.com/track/0iL43uP0m7L7sxNR98b8nv) | [シルフィエット\(CV:茅野愛衣\)](https://open.spotify.com/artist/5qwOxDQBdp2fnlw7vME5EV) | [花咲み](https://open.spotify.com/album/6sRuu9wQIxxmBkcCVJM9rW) | 5:09 | 2023-09-26 | 2023-10-18 |
 | [花無双](https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花無双](https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA) | 3:43 | 2025-04-15 | 2025-04-23 |
-| [花蔭](https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [花蔭](https://open.spotify.com/album/1Vp0UrwO7vpuLDpk1uJg75) | 3:48 | 2026-09-29 |  |
+| [花蔭](https://open.spotify.com/track/3ggbBGIGIjY8B5mJATYFpF) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [花蔭](https://open.spotify.com/album/1Vp0UrwO7vpuLDpk1uJg75) | 3:48 | 2026-09-29 | 2026-11-21 |
 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 | 2026-02-05 |  |
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-06-14 | 2022-07-15 |
 | [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 | 2024-09-12 | 2024-09-28 |

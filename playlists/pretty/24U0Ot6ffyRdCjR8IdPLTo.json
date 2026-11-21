@@ -6,8 +6,24 @@
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "AAAGuctCpLyKw9vpU83cT2/Vo//80YhV",
+  "snapshot_id": "AAAGusNMhbQRWex0rKNA9ZcpDV8hXA/E",
   "tracks": [
+    {
+      "added_at": "2026-11-20 21:15:59",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
+    },
     {
       "added_at": "2026-11-06 20:35:07",
       "album": {

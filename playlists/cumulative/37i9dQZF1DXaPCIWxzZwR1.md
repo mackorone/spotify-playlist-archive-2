@@ -4,7 +4,7 @@
 
 > next gen pop<br/>Cover: Romy Mars
 
-2,601 songs - 5 day 7 hr 53 min
+2,602 songs - 5 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,7 +1194,7 @@
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 | 2024-06-29 |
 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-01-23 | 2026-07-04 |
 | [ILOVEYOU](https://open.spotify.com/track/7e2I9fP4d80xDYOpMjb3Av) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Nobody Wants This: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b) | 2:38 | 2026-10-23 | 2026-11-13 |
-| [Immortal](https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [Immortal](https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz) | 3:28 | 2026-05-08 |  |
+| [Immortal](https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [Immortal](https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz) | 3:28 | 2026-05-08 | 2026-11-21 |
 | [IMPULSIVE](https://open.spotify.com/track/6HkdUz90Kmcxr0cprI10UL) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [IMPULSIVE](https://open.spotify.com/album/3ywEQ1qz7ZjehBOSAOPieP) | 2:36 | 2026-10-09 |  |
 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-10-25 | 2025-09-06 |
 | [in my head](https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [in my head](https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I) | 3:44 | 2023-04-28 | 2023-07-01 |
@@ -1577,6 +1577,7 @@
 | [Murphy](https://open.spotify.com/track/0ZaIIpYcAax5IWkrrUmLi3) | [Dia](https://open.spotify.com/artist/6eZaWLWqYN6A7ZABISgwLv) | [Murphy](https://open.spotify.com/album/1KyDA3wPQaAvBNPt07E9dK) | 3:28 | 2022-10-14 | 2022-11-12 |
 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 | 2024-06-21 | 2024-11-16 |
 | [Muse](https://open.spotify.com/track/7E5S9WN0WCewbPLoDMBdn1) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Muse](https://open.spotify.com/album/38cOo1Kpp2Jduc1hOEYHC3) | 3:22 | 2026-10-23 |  |
+| [Music All Over Her Body](https://open.spotify.com/track/6oR9Lb8TWwZ60ybem3SHF8) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Music All Over Her Body](https://open.spotify.com/album/4JFxbRpXOCpwTX17AVL9qP) | 2:33 | 2026-11-21 |  |
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-01-27 | 2023-03-04 |
 | [MUSTANG BABY \(FT\. ARTEMAS\)](https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 3:11 | 2024-11-15 | 2025-01-25 |
 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 | 2022-12-16 | 2023-02-25 |

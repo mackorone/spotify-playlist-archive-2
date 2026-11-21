@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: DOWN
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,292 likes - 184 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,428 likes - 184 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 10 | [400 Days](https://open.spotify.com/track/0lOalvttp2VazwxyKZIR6a) | [Crowquill](https://open.spotify.com/artist/6pUEVEFvxk4xakMzo6wHFR) | [Slept With Cannula](https://open.spotify.com/album/3o8hkSiwvDv2A9gpwcJbbk) | 5:12 |
 | 11 | [Through Fire & Ashes](https://open.spotify.com/track/6zXOb0twqoNTKfhckpzvjj) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Through Fire & Ashes](https://open.spotify.com/album/7f1msXBK4lKC77wXUaLdg0) | 4:28 |
 | 12 | [Nothing Ever Happens](https://open.spotify.com/track/0oqV3Ud53BOTMltEM9Nuda) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [The Will To Power](https://open.spotify.com/album/5bAGxP0lBqlMUprJggKYWd) | 3:34 |
-| 13 | [Fakebreaker](https://open.spotify.com/track/0yl8eeCsUlBnVrhf2KV5N9) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3), [REEBZ](https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t) | [GOD MODE level 03: No Damage](https://open.spotify.com/album/0I2ucrXdC9pUjkrUxQiy3U) | 3:43 |
+| 13 | [No Damage](https://open.spotify.com/track/5d9jTJO7khYMgE8ZjYvuRd) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [GOD MODE level 03: No Damage](https://open.spotify.com/album/0I2ucrXdC9pUjkrUxQiy3U) | 3:36 |
 | 14 | [HERE WE GO AGAIN](https://open.spotify.com/track/1rO59gOnByvWyK1k3ZyIIw) | [SCATTERBRAIN](https://open.spotify.com/artist/1qpatyjM6ORYIn2BuQbEuZ) | [HERE WE GO AGAIN](https://open.spotify.com/album/2JKGgv6jnKjWdGtquL4Zvx) | 3:27 |
 | 15 | [Oblivion Bound](https://open.spotify.com/track/6CyAz8HQ3F7zo1mnzHWpSo) | [Disfear](https://open.spotify.com/artist/2rYMvTD6SxQHgOXhVUdTRc) | [The Last Nail](https://open.spotify.com/album/4DHeXSikXO5IeUA1YKguRT) | 4:30 |
 | 16 | [Pump](https://open.spotify.com/track/6EwKnhGyYhqNyAuumGi2DT) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk), [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Pump](https://open.spotify.com/album/3qFK3CEEyznz2gCVhQPxSG) | 3:39 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 183 | [Gratitude Meditation](https://open.spotify.com/track/68tmyqVi1jwbqulimapAXh) | [Genital Shame](https://open.spotify.com/artist/6jEQ9wweXV1cIGa6Wga1do) | [Wellness Plan](https://open.spotify.com/album/6bRIRHbrh29nsNlLyXJ3UT) | 10:29 |
 | 184 | [I Am Ice](https://open.spotify.com/track/6ZNscYeVhHgM3RHU4TjEMZ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD), [Johan Sara Jr.](https://open.spotify.com/artist/2P466JXaRfp8M9fX2eVhwR) | [Mið](https://open.spotify.com/album/4YMrTpx1I30qGlSsRzzwMm) | 5:02 |
 
-Snapshot ID: `AAAAAKfQx0YRi5MIMzdkbWft4iSPO3QC`
+Snapshot ID: `AAAAACRun0OLOXEBQncWTRo93Q3f8eyK`

@@ -4,7 +4,7 @@
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-1,844 songs - 4 day 13 hr 32 min
+1,850 songs - 4 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Common Place](https://open.spotify.com/track/5rI6Tm9eFhFiIqHNGehVv5) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [A Common Place](https://open.spotify.com/album/2zt9HPA4FlNOMoQz2PyNMQ) | 2:32 | 2023-05-11 | 2025-12-03 |
 | [A Cookie For Marie](https://open.spotify.com/track/2qxgWhI1DtwC5X4SzJNvZJ) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:22 | 2023-04-13 | 2025-08-28 |
 | [A Daydream Come True](https://open.spotify.com/track/3xztZwk3GZiRiENHstatJC) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [A Daydream Come True](https://open.spotify.com/album/2Xir5EKuQMNjc2Qv1eTTth) | 3:55 | 2024-10-14 | 2025-07-16 |
+| [A Dollar a Game](https://open.spotify.com/track/06sLaCSh1U3UMw9F5KepdL) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [A Dollar a Game](https://open.spotify.com/album/4TC61nmYObHtz9TAU0GCr1) | 2:50 | 2026-11-20 |  |
 | [A Done Deal](https://open.spotify.com/track/1v2iAku96PHntQbjzOrNUT) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [A Done Deal](https://open.spotify.com/album/0DCmCfxsTGYPUTXW90tf6H) | 4:29 | 2024-02-23 | 2024-07-27 |
 | [A Feather On The Floor](https://open.spotify.com/track/30gtYRy0ZmFsfhrPgZtAz5) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [A Feather on the Floor](https://open.spotify.com/album/3AsOnaw6qlKqegVGgrzHSW) | 2:57 | 2026-05-08 |  |
 | [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2022-01-17 | 2025-06-25 |
@@ -58,6 +59,7 @@
 | [A Rainy Night](https://open.spotify.com/track/3Ny1CmI8hRfDpwi1tyJut3) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [A Rainy Night](https://open.spotify.com/album/4obwJxbE1hcOa94R8ydLTk) | 3:25 | 2023-11-17 | 2024-11-26 |
 | [A Real Show](https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [A Real Show](https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z) | 2:54 | 2023-04-13 | 2025-12-03 |
 | [A Second Chance](https://open.spotify.com/track/2GtFp37IUohRsc8Munlaj6) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [A Second Chance](https://open.spotify.com/album/6HY5vvhKP3jf28AT26YLgM) | 3:57 | 2026-07-17 |  |
+| [A Simple Look](https://open.spotify.com/track/5rYEeyuEmNFFtg2HKUn5lc) | [The Capital Club Trio](https://open.spotify.com/artist/5zYKDdUuVKola3uCqk6WeW) | [A Simple Look](https://open.spotify.com/album/3DJ1k01t5CDSLteQoE0s2r) | 3:03 | 2026-11-20 |  |
 | [A Simple Thought](https://open.spotify.com/track/5l5nKJ78cutj7TkcQtd8sa) | [Swing City Affair](https://open.spotify.com/artist/61VUtRySMVPXlpOCFILlpX) | [A Simple Thought](https://open.spotify.com/album/4kF99hV7NXh3KqmIxNQj8I) | 3:44 | 2024-11-11 | 2025-07-16 |
 | [A Sleepin' Bee](https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [A Sleepin' Bee](https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p) | 3:42 | 2022-09-29 | 2025-07-16 |
 | [A Smile on Your Face](https://open.spotify.com/track/3Eq2oTBtcGjEBgMCpO9QWx) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [A Smile on Your Face](https://open.spotify.com/album/7EA2XJpF3Jy2LmqmRf6DNc) | 4:45 | 2022-02-14 | 2025-01-21 |
@@ -202,6 +204,7 @@
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 | 2024-05-24 |
 | [Beautiful You](https://open.spotify.com/track/70vLPHSEkQTOT7qUF6Qfgj) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Beautiful You](https://open.spotify.com/album/3HphJAVX5k4o619Hc1jGas) | 3:27 | 2023-02-23 | 2023-09-22 |
 | [Beauty Within](https://open.spotify.com/track/0EnPGNHGICDJ33oZhpYTio) | [West Village Quartet](https://open.spotify.com/artist/0xh8Hbs6yzgtXrvcOYxckI) | [Beauty Within](https://open.spotify.com/album/4RJb2QnBbHWKnbx2jb8UlQ) | 4:23 | 2025-08-27 | 2026-01-15 |
+| [Before dark](https://open.spotify.com/track/4rm2Jwa51SNrY3xpbCPiIn) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Before dark](https://open.spotify.com/album/2HkFk4kkEUEUcQRh1PpOEb) | 3:21 | 2026-11-20 |  |
 | [Before Dawn](https://open.spotify.com/track/2vCogxafpNEIyNHc9hs3JC) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Before Dawn](https://open.spotify.com/album/5sr8cEavcH1tANDJVrboFB) | 5:34 | 2024-08-06 | 2024-09-20 |
 | [Before the morning sun](https://open.spotify.com/track/2WVoYNLvcbIYZOLZQL7rLk) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Before the morning sun](https://open.spotify.com/album/3bYS5vOg7FeeUPcvNDDrbp) | 3:02 | 2026-05-29 |  |
 | [Before The Thrill](https://open.spotify.com/track/7pXfPdBkWt8k8hLJsWUJ4n) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Before The Thrill](https://open.spotify.com/album/1EkvnfgK21l1Shc0S8cka0) | 3:21 | 2025-07-01 | 2026-04-25 |
@@ -1168,6 +1171,7 @@
 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 | 2022-01-17 | 2025-03-11 |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-13 | 2026-01-17 |
 | [Our View](https://open.spotify.com/track/5bBZAhd50H0QvFQSPZmjHM) | [Half Past Blue](https://open.spotify.com/artist/3eKJV3puor1fVh11OXAqh9) | [Our View](https://open.spotify.com/album/1La6pxY0Q6WS238XKo7dZi) | 3:13 | 2025-11-25 | 2026-09-05 |
+| [Out and About](https://open.spotify.com/track/0r6UZTS3s11tcIs6iio5gA) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Out and About](https://open.spotify.com/album/3bVxGcEiKyJXLeBySZXVFV) | 3:36 | 2026-11-20 |  |
 | [Out of Line](https://open.spotify.com/track/0VtuZdXqogav9uAAG5NSGQ) | [Nouri](https://open.spotify.com/artist/1yWmwNuFuUEJ9iwgL57fPK) | [Out of Line](https://open.spotify.com/album/6UQXj9A15G1eNcMsSkdPB5) | 3:32 | 2024-08-12 | 2026-01-27 |
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-02-02 | 2025-07-16 |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 | 2025-07-16 |
@@ -1321,6 +1325,7 @@
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-04-20 | 2025-12-03 |
 | [Silky Smooth](https://open.spotify.com/track/1KD8BEsmmsVxsRym5tiL0P) | [Trio Apertura](https://open.spotify.com/artist/4NAmtCdBLrmzr5avVCNhzF) | [Silky Smooth](https://open.spotify.com/album/5VTdbOAUTm7Kzs5iMbhDAe) | 4:20 | 2026-09-11 |  |
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-01-12 | 2025-07-11 |
+| [Silver Lining](https://open.spotify.com/track/1oEqboyEe4J0xXOKHgy1Ex) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Silver Lining](https://open.spotify.com/album/51gW5HOB6DR3imTHgUYA3I) | 3:12 | 2026-11-20 |  |
 | [Silvia](https://open.spotify.com/track/434BBeGzIGovFdGWZ3TiYl) | [Mareld Trio](https://open.spotify.com/artist/4uWLlqbaxT3HX5ucOLaiSJ) | [Silvia](https://open.spotify.com/album/0VcQYLmL9k7QlHmbJVhoyk) | 2:42 | 2026-04-24 | 2026-04-28 |
 | [Simple Things](https://open.spotify.com/track/2q89KYHbcaepIFaaT3bTZg) | [Adrian Berg](https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt) | [Simple Things](https://open.spotify.com/album/6poFTDFzAXcydtpifJsOix) | 3:06 | 2026-01-16 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-01-17 | 2023-04-28 |
@@ -1531,6 +1536,7 @@
 | [The Melody of You](https://open.spotify.com/track/4eqdf1YMA4Qg4IP95OtbfQ) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Melody of You](https://open.spotify.com/album/0gdK3yGxWOdx73bjXzQ9O6) | 3:04 | 2025-03-24 | 2025-12-03 |
 | [The Midnight Sun Never Sets](https://open.spotify.com/track/4uyCtvsYBPz8nE7yA5sbnl) | [Webb Trio](https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y) | [The Midnight Sun Never Sets](https://open.spotify.com/album/19ThYZTl9MmtvEvqSGfv3h) | 3:59 | 2024-05-10 | 2024-08-27 |
 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/37m1Do61yzIjKwP6Svm37X) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [The Midnight Sun Will Never Set](https://open.spotify.com/album/0d8BYluVCnFtuNQgDMBMkc) | 3:30 | 2025-08-19 | 2026-06-17 |
+| [The Mirror](https://open.spotify.com/track/3mE8ywx9MWBWf14wlvtsG5) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [The Mirror](https://open.spotify.com/album/1fvT7bxE8MMJ2RZ262lzee) | 3:19 | 2026-11-20 |  |
 | [The Missing Scene](https://open.spotify.com/track/6TvLtYO5RPIAbymeR0Xvw7) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [The Missing Scene](https://open.spotify.com/album/668p7bhApKWgHJp7NrzjZc) | 4:12 | 2025-07-01 | 2026-04-04 |
 | [The Mist and the Light](https://open.spotify.com/track/2HczJOuBQ7m7ilKMfN5TFy) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [The Mist and the Light](https://open.spotify.com/album/5K4UOERfQX1ILNX8X9Z4kT) | 3:24 | 2025-04-23 | 2026-05-30 |
 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 | 2023-02-23 | 2024-11-19 |

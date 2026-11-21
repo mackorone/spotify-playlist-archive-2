@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Izykite)",
-  "num_followers": 391850,
+  "num_followers": 391818,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAElFqwxrXzZEwaQX1ma7ayVVtEYd",
+  "snapshot_id": "AAAAAHPmUp+UtDyQoAqiO3Q1RXUMzsS2",
   "tracks": [
     {
       "added_at": "2026-11-12 11:28:13",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-11-12 11:28:13",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2026-11-12 11:28:13",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 189920,
       "name": "Troll (Feat. DEAN)",
       "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
-    },
-    {
-      "added_at": "2026-11-12 11:28:13",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-11-12 11:28:13",
@@ -411,6 +411,26 @@
     {
       "added_at": "2026-11-12 11:28:13",
       "album": {
+        "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
+      },
+      "artists": [
+        {
+          "name": "Seo Hyun Jin",
+          "url": "https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs"
+        },
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
+    },
+    {
+      "added_at": "2026-11-12 11:28:13",
+      "album": {
         "name": "Officially Cool",
         "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 243000,
       "name": "Last Scene (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit"
-    },
-    {
-      "added_at": "2026-11-12 11:28:13",
-      "album": {
-        "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
-      },
-      "artists": [
-        {
-          "name": "Seo Hyun Jin",
-          "url": "https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs"
-        },
-        {
-          "name": "Yu Seung Woo",
-          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
     },
     {
       "added_at": "2026-11-12 11:28:13",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-11-12 11:28:13",
       "album": {
+        "name": "Even for a moment",
+        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Even for a moment",
+      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
+    },
+    {
+      "added_at": "2026-11-12 11:28:13",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 215000,
       "name": "Always",
       "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
-    },
-    {
-      "added_at": "2026-11-12 11:28:13",
-      "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 244669,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
     },
     {
       "added_at": "2026-11-12 11:28:13",
@@ -615,6 +615,26 @@
     {
       "added_at": "2026-11-12 11:28:13",
       "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 244669,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
+    },
+    {
+      "added_at": "2026-11-12 11:28:13",
+      "album": {
         "name": "if i\u2019m with you",
         "url": "https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 224902,
       "name": "if i\u2019m with you",
       "url": "https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE"
-    },
-    {
-      "added_at": "2026-11-12 11:28:13",
-      "album": {
-        "name": "Even for a moment",
-        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Even for a moment",
-      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
     },
     {
       "added_at": "2026-11-12 11:28:13",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-11-12 11:28:13",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "SUNGHANBIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2026-11-12 11:28:13",
-      "album": {
         "name": "THIS NIGHT",
         "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 215213,
       "name": "This Night (feat. Blue.D, Jhnovr)",
       "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
+    },
+    {
+      "added_at": "2026-11-12 11:28:13",
+      "album": {
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "SUNGHANBIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2026-11-12 11:28:13",
@@ -939,6 +939,26 @@
     {
       "added_at": "2026-11-12 11:28:13",
       "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1fOdKUMMSU0vMrcl8z8jGq"
+      },
+      "artists": [
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "I Love You (Feat. Heize)",
+      "url": "https://open.spotify.com/track/7vrsDBF7KdjpyEVVt3cVz0"
+    },
+    {
+      "added_at": "2026-11-12 11:28:13",
+      "album": {
         "name": "\ub2e4 \uc774\ub8e8\uc5b4\uc9c8\uc9c0\ub2c8 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 198034,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/1FIJa50mYmz220xeJi8YXy"
-    },
-    {
-      "added_at": "2026-11-12 11:28:13",
-      "album": {
-        "name": "A:LIVE",
-        "url": "https://open.spotify.com/album/2EifnCDYJcL7ckLXQwF6L3"
-      },
-      "artists": [
-        {
-          "name": "DONGHAE",
-          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
-        },
-        {
-          "name": "CHANELLE MOON",
-          "url": "https://open.spotify.com/artist/2bzbLjINzRbi4KSZ5aZQtM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "BABY (Feat.CHANELLE MOON)",
-      "url": "https://open.spotify.com/track/5BW4D0PGS6cq4MtpAa5ztJ"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

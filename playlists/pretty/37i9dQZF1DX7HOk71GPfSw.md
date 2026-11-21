@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > do not ever doubt mr\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,518 likes - 120 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,685 likes - 120 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 10 | [MEANT TO BE](https://open.spotify.com/track/7zJxlGeNQU0ABxIifFTStj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [MEANT TO BE](https://open.spotify.com/album/6MoccCZq9aCOif59XMqkxp) | 2:58 |
 | 11 | [Ménage à Trois](https://open.spotify.com/track/2sKWWTU5CHDY4tgYfAsqwz) | [Tommy Fleece](https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg) | [Ménage à Trois](https://open.spotify.com/album/0PLAlBedT59owS5dmLDzng) | 1:53 |
 | 12 | [strong emotion](https://open.spotify.com/track/35Hil9E7BcaP4Xql6SjzLn) | [pager](https://open.spotify.com/artist/1qBj9F3l4NpBnRXl1R6eEl) | [strong emotion](https://open.spotify.com/album/41syWv4PlFuREYMDCCghgb) | 3:40 |
-| 13 | [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 |
+| 13 | [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 |
 | 14 | [Myself](https://open.spotify.com/track/76m1kdZFiYnPA0JqyrcGZF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Música Divino](https://open.spotify.com/album/6NqLdMLPJclg3oh5ele4al) | 2:40 |
 | 15 | [Through my teeth](https://open.spotify.com/track/5A6h3AGYtwRvP0zO8G0tN6) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [I'm not dead yet](https://open.spotify.com/album/2lDAHANfuKJAu1w17E9Mhn) | 3:15 |
 | 16 | [Pop Sound](https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Pop Sound](https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql) | 2:51 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 119 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 |
 | 120 | [Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hot Fun](https://open.spotify.com/album/4PzhTCrRTncrgOvGcOYpud) | 3:14 |
 
-Snapshot ID: `AAAAAJH2cv0hevZyDrRzZ4RpsQF3D6Qp`
+Snapshot ID: `AAAAAFcwg8bkzTpeseCZQJpCX0zSWaeN`

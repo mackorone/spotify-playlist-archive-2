@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "I'M A ZOOKEEPER NOW",
+        "url": "https://open.spotify.com/album/0n8NKs4R0nbhAJJKmeGmoS"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170655,
+      "name": "SHARK baiT",
+      "url": "https://open.spotify.com/track/7gXUOVumoVtAmXlwU5BLHQ"
+    },
+    {
+      "album": {
         "name": "SHARK baiT",
         "url": "https://open.spotify.com/album/4XjXxxYLgl2AyVIYIB7lkX"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 170655,
       "name": "SHARK baiT",
       "url": "https://open.spotify.com/track/5EeHNCGHkWSDeFXThp59Cl"

@@ -639,6 +639,32 @@
     },
     {
       "album": {
+        "name": "Biarlah Merana",
+        "url": "https://open.spotify.com/album/1y68f0kzpdVC729GT9VB9i"
+      },
+      "artists": [
+        {
+          "name": "Jakarta Dangdut Revolution",
+          "url": "https://open.spotify.com/artist/3FhEobq9yGznlQkNwWztl1"
+        },
+        {
+          "name": "Inul Daratista",
+          "url": "https://open.spotify.com/artist/2uA6BxXJZe4DfGJzuZUxEM"
+        },
+        {
+          "name": "Sasya Arkhisna",
+          "url": "https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "Biarlah Merana",
+      "url": "https://open.spotify.com/track/45nvE70cS2cCevzATxVDzJ"
+    },
+    {
+      "album": {
         "name": "Bidadari Hati",
         "url": "https://open.spotify.com/album/6nsmgWcXd6Rm0zckosq3yW"
       },

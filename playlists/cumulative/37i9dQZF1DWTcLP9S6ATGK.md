@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: KIM
 
-1,233 songs - 3 day 7 hr 47 min
+1,235 songs - 3 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Ayah](https://open.spotify.com/track/4uf4iaPMldbGNu85Zq7Jc9) | [Karnamereka](https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq) | [Ayah](https://open.spotify.com/album/4XO3xVelLNSDQNxoajB00Y) | 4:02 | 2024-12-12 | 2025-09-26 |
 | [Ayo Kita Puasa](https://open.spotify.com/track/0V6zvdFKTahQ4XS8WtpI4J) | [Fajar Sadboy](https://open.spotify.com/artist/24l1ZWsEGThOEp6ATWyHvI), [Mahesya Pratama](https://open.spotify.com/artist/3URxGBRXr1lMVtVjm4oGyI), [Dorrein Latuputty](https://open.spotify.com/artist/1y2slwpNoGCqQHfcLevjO1), [Kobam](https://open.spotify.com/artist/39YqtihM7qxWlqvXK3vwe4) | [Ayo Kita Puasa](https://open.spotify.com/album/2NJoWRAaLUWrN9p6ggk0Qv) | 3:27 | 2025-02-20 | 2025-03-21 |
 | [Ayo Senyumlah](https://open.spotify.com/track/6jGZMHV5ONeZZmITCTe34V) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Ayo Senyumlah](https://open.spotify.com/album/1cIQrZqp65UrwJsIAAAHqg) | 4:36 | 2026-10-29 |  |
+| [Baby I'm Sorry](https://open.spotify.com/track/7N3fCuTW73IhphZ1Ms2One) | [Tiket](https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM), [Rifqi FTR](https://open.spotify.com/artist/0E7e9JsNEXjJ608E1MJnvh) | [Baby I'm Sorry](https://open.spotify.com/album/6kkz2w7oFfQ0nefIrF8FQo) | 3:47 | 2026-11-20 |  |
 | [Badut](https://open.spotify.com/track/7o12WO9nt0euUwWxFmF0JR) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Badut](https://open.spotify.com/album/6YNeGarkB0E3QtPOUa8Vmi) | 4:18 | 2024-06-27 | 2024-07-12 |
 | [Bagai Cinta Pertama](https://open.spotify.com/track/3Q0E55yrI5HKmsNGgH5RPp) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Bagai Cinta Pertama](https://open.spotify.com/album/4hBpR8Y7lcu4fejhM3VtO0) | 4:05 | 2026-09-10 | 2026-10-09 |
 | [bagaimana](https://open.spotify.com/track/5Y20BHf6VrAy0fLwNXDJnP) | [Abbydzar](https://open.spotify.com/artist/7mYsOUoDtg7ZuXlIEWNZYB) | [chapter 1 : the beginning](https://open.spotify.com/album/2LvwmtJudAyMIHjnGEiJ15) | 2:42 | 2026-09-10 | 2026-10-09 |
@@ -467,6 +468,7 @@
 | [Jangan Lupa Pulang \- Live at Aquarius Studio](https://open.spotify.com/track/25UXwOFQbSagKZfFEq6tlt) | [POTRET](https://open.spotify.com/artist/5E0ZEllVLvhodbjpK5k9s1) | [Jangan Lupa Pulang \(Live at Aquarius Studio\)](https://open.spotify.com/album/4sitdgmK4736e8SGpmdJfX) | 3:17 | 2024-10-04 | 2024-11-22 |
 | [Jangan Lupain Kita](https://open.spotify.com/track/14QKGUr2xYtmd4nv5wr0Rc) | [Glitter](https://open.spotify.com/artist/71MEhfwtdSht8OZJGlDx1c) | [Jangan Lupain Kita](https://open.spotify.com/album/7sKqHHa3iFqE8jIBZau8FE) | 3:32 | 2025-11-06 | 2025-11-28 |
 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 | 2026-01-08 | 2026-08-14 |
+| [Jangan Pergi \- Ballad Version](https://open.spotify.com/track/3rk5f45Uiif9CWZEeQv7N7) | [Princesstale](https://open.spotify.com/artist/5JnvsnKazhAZ0ZhW56gCy4), [Widy Vierratale](https://open.spotify.com/artist/6ImmfK9kPcIaYcQEiUfEJb) | [Jangan Pergi \(Ballad Version\)](https://open.spotify.com/album/00KqTHThcGg9vpRtuixtbU) | 3:58 | 2026-11-20 |  |
 | [Jangan Pergi Dariku](https://open.spotify.com/track/3qFrsSKhR7bWg5tTsxXlza) | [Kris Tomahu](https://open.spotify.com/artist/0tsyEljhXykxOCSFO1T56v) | [Jangan Pergi Dariku](https://open.spotify.com/album/0PpwGcJrGKccV5B5cWiaXx) | 5:12 | 2025-05-08 | 2025-06-06 |
 | [Jangan Tanya Pada Tuhan](https://open.spotify.com/track/4Y9JM9sMtrswe5hEKyL6Nt) | [Manusia Aksara](https://open.spotify.com/artist/4KhMbVClEsKsmlfT5yO8St) | [Jangan Tanya Pada Tuhan](https://open.spotify.com/album/0uYH9nK2l7xu20mtZcyNW7) | 4:18 | 2025-10-23 | 2025-11-28 |
 | [Janji Bahagia](https://open.spotify.com/track/1Dt2YTG1Xv3XxeGYmRWMU2) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Janji Bahagia](https://open.spotify.com/album/09bWsrYKJ6tCfvc5hwDDUT) | 4:59 | 2026-08-27 | 2026-10-30 |

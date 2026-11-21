@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684 likes - 56 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 685 likes - 56 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 28 | [Welcome To Holiday Inn](https://open.spotify.com/track/4IJK6rlOd1NoLPPMSJBM7y) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:06 |
 | 29 | [There's Gotta Be Something Better Than This](https://open.spotify.com/track/7t0x8tipQBFaC8WwaCzKI1) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L) | [Sweet Charity \- New Broadway Cast](https://open.spotify.com/album/0gKy6xIZMpHkhFD7VhsHPq) | 2:26 |
 | 30 | [It's A Nice Face \- 1969 Motion Picture Soundtrack](https://open.spotify.com/track/6YAVFI016xXJQ2deEw5wUF) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [Dorothy Fields](https://open.spotify.com/artist/3nN1h30sPPiYW2DxRCdeQ1), [Shirley Maclaine](https://open.spotify.com/artist/4F5NEP6tLmycfFPeHhha4g), [Joseph Gershenson](https://open.spotify.com/artist/6uoevoVvSe6CME0ESVSzuV) | [Sweet Charity](https://open.spotify.com/album/3FgYqc3QawZLZW3JuZsHXw) | 2:08 |
-| 31 | [Entr'acte](https://open.spotify.com/track/1067HAhb32M02it4c0thc3) | [The "City of Angels" Orchestra](https://open.spotify.com/artist/6DoxMWfNqfdWg457cq51cN), [Ben Parry](https://open.spotify.com/artist/29WzzsoFvLAKulpjdtIaT9), [Neil Rutherford](https://open.spotify.com/artist/7KlBcHcWIuBRRoH6RvpIjx), [Zoe Tyler](https://open.spotify.com/artist/6B88iwAJAiJPNgRRdfWz7t), [Annalene Beechey Yeo](https://open.spotify.com/artist/5nw1ZTTkArWIHXz5N9F7ZY) | [City Of Angels \(Original London Cast Recording\)](https://open.spotify.com/album/4sMKrmZOmrW6J9ohsk1K7I) | 2:25 |
-| 32 | [Poor Everybody Else](https://open.spotify.com/track/07z4OnLBzX8sBdAfrGAX4U) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:51 |
+| 31 | [Poor Everybody Else](https://open.spotify.com/track/07z4OnLBzX8sBdAfrGAX4U) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:51 |
+| 32 | [Entr'acte](https://open.spotify.com/track/1067HAhb32M02it4c0thc3) | [The "City of Angels" Orchestra](https://open.spotify.com/artist/6DoxMWfNqfdWg457cq51cN), [Ben Parry](https://open.spotify.com/artist/29WzzsoFvLAKulpjdtIaT9), [Neil Rutherford](https://open.spotify.com/artist/7KlBcHcWIuBRRoH6RvpIjx), [Zoe Tyler](https://open.spotify.com/artist/6B88iwAJAiJPNgRRdfWz7t), [Annalene Beechey Yeo](https://open.spotify.com/artist/5nw1ZTTkArWIHXz5N9F7ZY) | [City Of Angels \(Original London Cast Recording\)](https://open.spotify.com/album/4sMKrmZOmrW6J9ohsk1K7I) | 2:25 |
 | 33 | [La Notte: Finale](https://open.spotify.com/track/1wAH0sPaRlpjAp19IJuoz5) | [Giorgio Gaslini](https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF) | [L'Integrale \- N 1 \- N 2](https://open.spotify.com/album/444EFS9YOv1P2bmWwAX8w0) | 1:09 |
 | 34 | [He's Good For Me](https://open.spotify.com/track/6pI8QbTo4NrD892ny98Ezn) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:23 |
 | 35 | [Exit Music](https://open.spotify.com/track/5sWNZXypJP7Tanm44iDBxd) | [The "City of Angels" Orchestra](https://open.spotify.com/artist/6DoxMWfNqfdWg457cq51cN) | [City Of Angels \(Original London Cast Recording\)](https://open.spotify.com/album/4sMKrmZOmrW6J9ohsk1K7I) | 3:16 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 55 | [Pink Taffeta Sample Size 10](https://open.spotify.com/track/7xm3CNFW6dOfLdZIT8myJu) | [Sylvia Syms](https://open.spotify.com/artist/3U3Pzj2ZtG3hOSd4iDaqsT) | [Lovingly](https://open.spotify.com/album/4VppiWo9CeOdL26mEdsdHH) | 4:13 |
 | 56 | [When Did You Know](https://open.spotify.com/track/3aSljBcDfbccnNVjhu1VrP) | [Skitch Henderson And His Orchestra](https://open.spotify.com/artist/5gSeSvP3kg6zA7rma5WhVX) | [Play Music from "Sweet Charity"](https://open.spotify.com/album/3U2cFufzgQ0A3TvUGMbZMx) | 3:27 |
 
-Snapshot ID: `AciH/gAAAABh4Agnb2X0XH5Dt3SlSzwK`
+Snapshot ID: `AciNigAAAADiprelguKQICAnYVncR15n`

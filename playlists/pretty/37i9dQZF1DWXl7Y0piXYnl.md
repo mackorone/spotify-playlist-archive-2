@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,000 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,007 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 59 | [Fatherless](https://open.spotify.com/track/5Bs93ZX1NAjAT5tPyPLJRA) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Fatherless](https://open.spotify.com/album/4FhBOsnkUXVVSnRkG7ikcr) | 6:20 |
 | 60 | [Levo](https://open.spotify.com/track/1Xgg0bhjK57PJ6WLYOi3oY) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Iffy](https://open.spotify.com/album/7JoFdHAOCBzjT6lzWOfcGR) | 4:42 |
 
-Snapshot ID: `AAAAADvTxw/KYuldjPw2BJ/zlAmglHpO`
+Snapshot ID: `AAAAAHRtzC5mpqEmn5TSVPHwdo1E/B2Y`

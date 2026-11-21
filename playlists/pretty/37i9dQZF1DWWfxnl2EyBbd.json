@@ -1,12 +1,12 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 371656,
+  "num_followers": 371671,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLGQregXfwma8nXzGb+zyg/A/ef",
+  "snapshot_id": "AAAAAP/EJh1DK0jFJHgxzgObZ/Y6j79k",
   "tracks": [
     {
       "added_at": "2026-10-23 08:02:52",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "Everything Happens to Me",
-        "url": "https://open.spotify.com/album/1YCNmU1CSAyVsrEzw7oSNz"
-      },
-      "artists": [
-        {
-          "name": "Nimelle",
-          "url": "https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME"
-        }
-      ],
-      "duration_ms": 162511,
-      "name": "Everything Happens to Me",
-      "url": "https://open.spotify.com/track/34n5jH1GILDlv376VLMmDm"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "Let's Take a Chance",
         "url": "https://open.spotify.com/album/4wZUH0xUUnZdvHonSugHCA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 167467,
       "name": "Let's Take a Chance",
       "url": "https://open.spotify.com/track/2ssY14WTj7YcA6RaZhItHc"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "Everything Happens to Me",
+        "url": "https://open.spotify.com/album/1YCNmU1CSAyVsrEzw7oSNz"
+      },
+      "artists": [
+        {
+          "name": "Nimelle",
+          "url": "https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME"
+        }
+      ],
+      "duration_ms": 162511,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/34n5jH1GILDlv376VLMmDm"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "At Joe's",
-        "url": "https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma"
-      },
-      "artists": [
-        {
-          "name": "Ivan Blois",
-          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
-        }
-      ],
-      "duration_ms": 146550,
-      "name": "At Joe's",
-      "url": "https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "Fading Away",
         "url": "https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 167270,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "At Joe's",
+        "url": "https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "duration_ms": 146550,
+      "name": "At Joe's",
+      "url": "https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "Everyone Will Know",
-        "url": "https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9"
-      },
-      "artists": [
-        {
-          "name": "Hveiti Brauo",
-          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
-        }
-      ],
-      "duration_ms": 173318,
-      "name": "Everyone Will Know",
-      "url": "https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "A Moment To Give",
         "url": "https://open.spotify.com/album/3SBA201Y91QNWpBhnQcl2C"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 191035,
       "name": "A Moment To Give",
       "url": "https://open.spotify.com/track/3Q7dTZa2B78SGCc1HHPieB"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "Everyone Will Know",
+        "url": "https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9"
+      },
+      "artists": [
+        {
+          "name": "Hveiti Brauo",
+          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+        }
+      ],
+      "duration_ms": 173318,
+      "name": "Everyone Will Know",
+      "url": "https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4"
-      },
-      "artists": [
-        {
-          "name": "Randall Peterson",
-          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
-        }
-      ],
-      "duration_ms": 193624,
-      "name": "Heart And Soul",
-      "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "The Only One",
         "url": "https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 156362,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4"
+      },
+      "artists": [
+        {
+          "name": "Randall Peterson",
+          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
+        }
+      ],
+      "duration_ms": 193624,
+      "name": "Heart And Soul",
+      "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
     },
     {
       "added_at": "2026-10-23 08:02:52",

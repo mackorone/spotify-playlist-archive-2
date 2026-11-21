@@ -1,12 +1,12 @@
 {
   "description": "LA P*TA GAMA LA MAMI \ud83d\udcf8 El More",
-  "num_followers": 311940,
+  "num_followers": 312039,
   "original_name": "El Diablo Viste a La Gama ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIbQp08gQrpShJNctLDXuaPD8RCE",
+  "snapshot_id": "AAAAANMA24p3ys/QfdY4VbYYDw1qDs9C",
   "tracks": [
     {
       "added_at": "2026-11-20 02:17:57",
@@ -98,6 +98,10 @@
         {
           "name": "Ivy Wavy",
           "url": "https://open.spotify.com/artist/0f1hBCKMEIIvZ5TNgChNuC"
+        },
+        {
+          "name": "Emex",
+          "url": "https://open.spotify.com/artist/6nmmRJCDNKGX7HMRwwAV6h"
         }
       ],
       "duration_ms": 156734,
@@ -727,6 +731,38 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
+        "name": "candyOperreo",
+        "url": "https://open.spotify.com/album/0ILOLC0v8YFOVuyKu1RWmD"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "duration_ms": 120479,
+      "name": "candyOperreo",
+      "url": "https://open.spotify.com/track/66IBtyHXlV1TpTOrslG113"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
+        "name": "Cuando Empec\u00e9",
+        "url": "https://open.spotify.com/album/4SEhkRBswW0TitfSPU3hvF"
+      },
+      "artists": [
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Cuando Empec\u00e9",
+      "url": "https://open.spotify.com/track/009ZJ92D0w5PEdCXcr7nWs"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
         "name": "OUTFIT VERGUERO",
         "url": "https://open.spotify.com/album/3VGOkF4rKSP2Hw7OUyQWMA"
       },
@@ -751,22 +787,6 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
-        "name": "candyOperreo",
-        "url": "https://open.spotify.com/album/0ILOLC0v8YFOVuyKu1RWmD"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        }
-      ],
-      "duration_ms": 120479,
-      "name": "candyOperreo",
-      "url": "https://open.spotify.com/track/66IBtyHXlV1TpTOrslG113"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
         "name": "Los Extraterrestres - Otra Dimension",
         "url": "https://open.spotify.com/album/6cM4MzyjtE9hJqOEFOjlTL"
       },
@@ -779,22 +799,6 @@
       "duration_ms": 169320,
       "name": "Aprovechalo",
       "url": "https://open.spotify.com/track/1Lemz4ontF9cKujEkDWiBO"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
-        "name": "Cuando Empec\u00e9",
-        "url": "https://open.spotify.com/album/4SEhkRBswW0TitfSPU3hvF"
-      },
-      "artists": [
-        {
-          "name": "Jencko el Shinobi",
-          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Cuando Empec\u00e9",
-      "url": "https://open.spotify.com/track/009ZJ92D0w5PEdCXcr7nWs"
     },
     {
       "added_at": "2026-11-20 02:17:57",
@@ -899,6 +903,26 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
+        "name": "CACHETONA",
+        "url": "https://open.spotify.com/album/5rIoD8uCYOPj27Z13wQhnc"
+      },
+      "artists": [
+        {
+          "name": "Carit Br",
+          "url": "https://open.spotify.com/artist/7n1ph39OlZ6pVHVmal0bkD"
+        },
+        {
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+        }
+      ],
+      "duration_ms": 143638,
+      "name": "CACHETONA",
+      "url": "https://open.spotify.com/track/2jAfuKzBhq3ydjmhI0tUFA"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
         "name": "FULL METAL NASTY",
         "url": "https://open.spotify.com/album/3uKbzyEuaaXXSzebEFSCLF"
       },
@@ -931,26 +955,6 @@
       "duration_ms": 217333,
       "name": "ALERTA",
       "url": "https://open.spotify.com/track/46tukOtUuFOWHIj9LP1MSB"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
-        "name": "CACHETONA",
-        "url": "https://open.spotify.com/album/5rIoD8uCYOPj27Z13wQhnc"
-      },
-      "artists": [
-        {
-          "name": "Carit Br",
-          "url": "https://open.spotify.com/artist/7n1ph39OlZ6pVHVmal0bkD"
-        },
-        {
-          "name": "Alexito Mix",
-          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
-        }
-      ],
-      "duration_ms": 143638,
-      "name": "CACHETONA",
-      "url": "https://open.spotify.com/track/2jAfuKzBhq3ydjmhI0tUFA"
     },
     {
       "added_at": "2026-11-20 02:17:57",
@@ -1095,26 +1099,22 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
-        "name": "$in $uerte, nacimos bendecidos",
-        "url": "https://open.spotify.com/album/7cb2TcMvcwybp1uIcW2hxF"
+        "name": "LIL WAYNE",
+        "url": "https://open.spotify.com/album/2znkkPypoQCELOiM6yKhZ2"
       },
       "artists": [
         {
-          "name": "Charly Gynn",
-          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+          "name": "Tryzty",
+          "url": "https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS"
         },
         {
-          "name": "Tzunami",
-          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
-        },
-        {
-          "name": "Pepo Mix",
-          "url": "https://open.spotify.com/artist/1HjYewpu3sZfRg7cfZWD4i"
+          "name": "Slick La Mina",
+          "url": "https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n"
         }
       ],
-      "duration_ms": 150000,
-      "name": "L\u00e4 ReYnA D tAcUbAyA",
-      "url": "https://open.spotify.com/track/5qPeplS9Xp41DGVRnw63RT"
+      "duration_ms": 164210,
+      "name": "LIL WAYNE",
+      "url": "https://open.spotify.com/track/7M5E13NCPwRsRUxZuVmwy1"
     }
   ],
   "unique_name": "El Diablo Viste a La Gama ",

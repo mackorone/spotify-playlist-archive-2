@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 27946,
+  "num_followers": 27954,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAABgV2EtpCM6q6xPyI4v/poO",
+  "snapshot_id": "av48AAAAAAC5BK7NZTfcOsUH6vA+gyIE",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WORK!",
+        "url": "https://open.spotify.com/album/0qgkOLybvh0tiGxyEz0TX3"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "WORK!",
+      "url": "https://open.spotify.com/track/1PEnlGgCV27weSdrCubadg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wonderful Days Reloaded",
         "url": "https://open.spotify.com/album/1RqJBgZceR486K5x9OEQQC"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 178604,
       "name": "Wonderful Days Reloaded",
       "url": "https://open.spotify.com/track/15CrTXlLEtKAtyNDVJeVzr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORK!",
-        "url": "https://open.spotify.com/album/0qgkOLybvh0tiGxyEz0TX3"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Pat B",
-          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "WORK!",
-      "url": "https://open.spotify.com/track/1PEnlGgCV27weSdrCubadg"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huisje Op Wielen (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/0EjI8ftUCqs36ArPevazXz"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Frank Van Etten",
-          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
-        }
-      ],
-      "duration_ms": 239241,
-      "name": "Huisje Op Wielen - Outsiders Remix",
-      "url": "https://open.spotify.com/track/5zOMlRRV7nnjJEam8GdvIi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vaderland",
         "url": "https://open.spotify.com/album/3Qz9HXKpkTfRpxO1tA7jAj"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 208286,
       "name": "Vaderland",
       "url": "https://open.spotify.com/track/3gCf2tnKOsMkjSyQ8FVP5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huisje Op Wielen (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/0EjI8ftUCqs36ArPevazXz"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "duration_ms": 239241,
+      "name": "Huisje Op Wielen - Outsiders Remix",
+      "url": "https://open.spotify.com/track/5zOMlRRV7nnjJEam8GdvIi"
     },
     {
       "added_at": null,
@@ -871,30 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thunderbolt (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL"
-      },
-      "artists": [
-        {
-          "name": "Justin Prime",
-          "url": "https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ"
-        },
-        {
-          "name": "Sidney Samson",
-          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 147023,
-      "name": "Thunderbolt (Outsiders Remix)",
-      "url": "https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schooier (feat. Chicco)",
         "url": "https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 218322,
       "name": "Schooier (feat. Chicco)",
       "url": "https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thunderbolt (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL"
+      },
+      "artists": [
+        {
+          "name": "Justin Prime",
+          "url": "https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ"
+        },
+        {
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 147023,
+      "name": "Thunderbolt (Outsiders Remix)",
+      "url": "https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB"
     },
     {
       "added_at": null,

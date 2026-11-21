@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAADL/44RCZ5RjrsgC+QZNrrR",
+  "snapshot_id": "av48AAAAAABFCiGrktVAa3knQn2Hp1VE",
   "tracks": [
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 44000,
-      "name": "The Perfect Me",
-      "url": "https://open.spotify.com/track/3xK9mXHevTfGmD5kzplL8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama Who Bore Me (Rise Cast Version)",
         "url": "https://open.spotify.com/album/5htkwqMEyeNMvHdAKGcwm5"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 120960,
       "name": "Mama Who Bore Me - Rise Cast Version",
       "url": "https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 44000,
+      "name": "The Perfect Me",
+      "url": "https://open.spotify.com/track/3xK9mXHevTfGmD5kzplL8F"
     },
     {
       "added_at": null,
@@ -675,30 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 131682,
-      "name": "Start the Day Again",
-      "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Guilty Ones (Rise Cast Version)",
         "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 211956,
       "name": "The Guilty Ones - Rise Cast Version",
       "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 131682,
+      "name": "Start the Day Again",
+      "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
     },
     {
       "added_at": null,

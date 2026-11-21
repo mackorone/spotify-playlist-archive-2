@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Dua Lipa for GTA VI, Gracie Abrams, Rema, Grimes, TOMORROW X TOGETHER, TALK and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,501 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,906 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:12 |
+| 1 | [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:11 |
 | 2 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
 | 3 | [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 |
 | 4 | [KILLING GOD WITH COMPUTERS](https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [爱](https://open.spotify.com/album/2Y8q8UKpgrmPGV8mFchvIj) | 3:17 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 22 | [Be Free](https://open.spotify.com/track/2nffh9MtxLFN81121DFLbC) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Be Free](https://open.spotify.com/album/4ZSipudbgUelSLXxYDTpNF) | 3:11 |
 | 23 | [Piece of Your Love](https://open.spotify.com/track/0MmSOjUpkoSu8WePBIzH88) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Piece of Your Love](https://open.spotify.com/album/5aqKsW1DEwhyFWopnzWykz) | 2:07 |
 | 24 | [LAMINE YAMAL \(feat\. La Pantera\)](https://open.spotify.com/track/4iUjotWvNyG99ldTZTRysc) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [LOCKED IN \(EUROLUXE\)](https://open.spotify.com/album/2H2FFVVPzAYw3Qhw3IAxbb) | 2:13 |
-| 25 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
+| 25 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 26 | [Narcissist \(feat\. Viuta\)](https://open.spotify.com/track/08GAalYGOPBEG8CkXKhvxv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Viuta](https://open.spotify.com/artist/2qnb90128C5mziYwX3uMu2) | [Narcissist \(feat\. Viuta\)](https://open.spotify.com/album/5ZnqAF9r8DK25AXQk5Zy7g) | 2:58 |
 | 27 | [Tun Up](https://open.spotify.com/track/4nhIuKbcLgwc0XWdGVkjEb) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Tun Up](https://open.spotify.com/album/7zR3YngjWwmBFCWmKVjr0j) | 3:06 |
 | 28 | [Always](https://open.spotify.com/track/1L1dde2EbkC2utawLfg9ys) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Always](https://open.spotify.com/album/0wh6MXvWPhQhgJ2GHWV6So) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Dreams](https://open.spotify.com/track/4bIqQDoNfAXaeXhnmGK8jf) | [Che\_nous](https://open.spotify.com/artist/6iUtbHzHDDlKkoze6YG4Bk), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Dumis9ne I](https://open.spotify.com/artist/0HHIBSnMhAHwIpLlSc0uQr), [QUEST](https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi), [Émilie Marcadé](https://open.spotify.com/artist/3vHngeXdPWW2Dvj3TeHjra) | [Frontières ouvertes](https://open.spotify.com/album/4NpPIrFZ2lhXJfit3pLDRy) | 3:32 |
 | 100 | [Tous les miroirs](https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr) | [Chenier](https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx) | [Les fantômes](https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb) | 3:07 |
 
-Snapshot ID: `AAAAAOzTjY0N6nP8h8Dhuk5P0lT1UnOB`
+Snapshot ID: `AAAAAHEQlWNceCU+K4H1usKWhNjvB5b+`

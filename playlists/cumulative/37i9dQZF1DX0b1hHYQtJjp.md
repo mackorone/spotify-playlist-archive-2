@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Kacey Musgraves
 
-2,734 songs - 6 day 6 hr 49 min
+2,735 songs - 6 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2227,7 +2227,7 @@
 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 | 2025-09-12 | 2025-10-18 |
 | [Take Back Goodbye](https://open.spotify.com/track/3vxmsAct5YAGQz4PCZR2rs) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [Take Back Goodbye / Can't Be Alone Tonight](https://open.spotify.com/album/60TeXojlfTM83z0pNunvTQ) | 3:18 | 2025-05-23 | 2025-05-31 |
 | [Take It Back](https://open.spotify.com/track/4Q45zEpgK7xJB6KkTG23pr) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Take It Back](https://open.spotify.com/album/7ix37eI2pJPbSwgTW17ppF) | 2:41 | 2020-03-27 | 2020-07-24 |
-| [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Take Me Back \(Leave Me There\)](https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3) | 2:58 | 2026-08-21 |  |
+| [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Take Me Back \(Leave Me There\)](https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3) | 2:58 | 2026-08-21 | 2026-11-21 |
 | [TAKE ME TO THE PLACE](https://open.spotify.com/track/4eP2cbFuygafqCmIaFsF8I) | [Low Cut Connie](https://open.spotify.com/artist/4taNHtYxfIWIHu07FBw7ih), [SUSU](https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv) | [ART DEALERS](https://open.spotify.com/album/2XfhNWUapZroQcaGTVwPrJ) | 5:32 | 2023-09-08 | 2023-09-30 |
 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 | 2024-03-29 | 2024-06-22 |
 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-02 | 2025-05-24 |
@@ -2680,6 +2680,7 @@
 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 | 2025-04-11 | 2025-05-10 |
 | [Worst Way](https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Worst Way](https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn) | 3:40 | 2025-02-21 | 2026-02-28 |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2023-02-03 | 2023-04-09 |
+| [Worth The Wait](https://open.spotify.com/track/1g1lOyn9cocWqokdNBFEMM) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Worth The Wait](https://open.spotify.com/album/6DfbnghYgqoOJ4mx0Ib6M1) | 2:14 | 2026-11-20 |  |
 | [Would You Still Want Me?](https://open.spotify.com/track/3EkdlLU5KrTTZKRA8fwWGX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Would You Still Want Me?](https://open.spotify.com/album/7rrhgnY7LYTsILg1ryDubb) | 3:15 | 2021-07-17 | 2021-09-18 |
 | [Wranglers](https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wranglers](https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN) | 2:58 | 2024-05-03 | 2024-05-25 |
 | [Wrapped in Gold](https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Wrapped in Gold](https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC) | 3:19 | 2026-10-23 |  |

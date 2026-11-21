@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Zartmann",
-  "num_followers": 459391,
+  "num_followers": 459486,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOFusvAQifZAVmYUuIW5X8zEu64L",
+  "snapshot_id": "AAAAAMHfADlngHGXha9rpZ/nFeU3L7LB",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:26",
@@ -50,6 +50,10 @@
         {
           "name": "Berq",
           "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        },
+        {
+          "name": "LudoWic",
+          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
         }
       ],
       "duration_ms": 296232,

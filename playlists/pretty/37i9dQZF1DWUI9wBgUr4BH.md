@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo :  Eddy de Pretto
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,603 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,728 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 40 | [Bodycount](https://open.spotify.com/track/44GFu3eGCrgJAlPUbgiRPE) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Casus Belli](https://open.spotify.com/album/2GlRfEUPzFoYTxGcREodSB) | 2:34 |
 
-Snapshot ID: `AAAAAImHcePubn+SwewiWTSLAOIHbANZ`
+Snapshot ID: `AAAAALGLA/vkknv0AWHPbUW0F8lVfX1y`

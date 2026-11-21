@@ -1473,6 +1473,32 @@
     },
     {
       "album": {
+        "name": "BATHAZAR",
+        "url": "https://open.spotify.com/album/5z4U1IA5z97tU8W0uIkZEg"
+      },
+      "artists": [
+        {
+          "name": "BIG PARADISE",
+          "url": "https://open.spotify.com/artist/549QB9Rs3H6xKFlblwwfRx"
+        },
+        {
+          "name": "Cojo Rae",
+          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
+        },
+        {
+          "name": "KWESI AMEWUGA",
+          "url": "https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153834,
+      "name": "BATHAZAR",
+      "url": "https://open.spotify.com/track/42hB3oDfkjgeeWvkTfdsCM"
+    },
+    {
+      "album": {
         "name": "Been A Fool For You",
         "url": "https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN"
       },
@@ -1704,6 +1730,24 @@
       "duration_ms": 164844,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
+    },
+    {
+      "album": {
+        "name": "Boot 4 Boot",
+        "url": "https://open.spotify.com/album/3eRIE1TP4jTWhGdymPgn3t"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241829,
+      "name": "Boot 4 Boot",
+      "url": "https://open.spotify.com/track/5Hn5BKyP15kzHWOthsslQ0"
     },
     {
       "album": {
@@ -2174,7 +2218,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 237561,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5DY6BHrUCp98AesuKVjuxd"
@@ -2907,6 +2951,36 @@
     },
     {
       "album": {
+        "name": "GEN Z II",
+        "url": "https://open.spotify.com/album/4CGQr0Z1cqAtvLRiKXwL51"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242222,
+      "name": "GEN Z II",
+      "url": "https://open.spotify.com/track/5ZQOeyueEFasHhYxSVTtGY"
+    },
+    {
+      "album": {
         "name": "Genesis 2 Revelation (Shatta Music)",
         "url": "https://open.spotify.com/album/4A6r0SnmhQPRvXV9Vgbmyr"
       },
@@ -2962,6 +3036,28 @@
       "duration_ms": 403121,
       "name": "Gonja Barracks",
       "url": "https://open.spotify.com/track/28L43Uu8pfBiraGT6VXPcW"
+    },
+    {
+      "album": {
+        "name": "Good Feeling",
+        "url": "https://open.spotify.com/album/2zWHkYPxGU3SBYTxGvqYdB"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175438,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1BWeBfNq3OWR47V4C6Rc3N"
     },
     {
       "album": {
@@ -4472,7 +4568,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 180007,
       "name": "MIX MIX (KINGSIZE)",
       "url": "https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr"
@@ -5000,7 +5096,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 232155,
       "name": "Odo Ankasa",
       "url": "https://open.spotify.com/track/09wVyBurKxBhGxKF3CjxLm"
@@ -5240,7 +5336,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 215986,
       "name": "Ogyidinii",
       "url": "https://open.spotify.com/track/2A7CXqUhxgfVudeFJPkz7x"
@@ -6762,7 +6858,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 173572,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/5mRnNyJe2gVLmnwdTBgT2O"
@@ -7174,6 +7270,28 @@
       "duration_ms": 194181,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
+    },
+    {
+      "album": {
+        "name": "Top 2",
+        "url": "https://open.spotify.com/album/1BPDF5PQgcQdSAupweNNUN"
+      },
+      "artists": [
+        {
+          "name": "Ko-Jo Cue",
+          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
+        },
+        {
+          "name": "Shaker",
+          "url": "https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Top 2",
+      "url": "https://open.spotify.com/track/6pXY8PeDIt9fd11QQr5wod"
     },
     {
       "album": {

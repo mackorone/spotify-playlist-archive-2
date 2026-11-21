@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Hande Mehan
 
-807 songs - 1 day 17 hr 12 min
+808 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Ne Söylesen İnanırım](https://open.spotify.com/track/2NdMTdrTf7bnIWfL8ta4ZT) | [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Ne Söylesen İnanırım](https://open.spotify.com/album/3Q7tmZdoymmh4ODa4rG024) | 3:33 | 2025-10-23 | 2025-12-20 |
 | [Neden Anlamadın Beni?](https://open.spotify.com/track/2Ai8HBSGn3KYyYFBemhf51) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Neden Anlamadın Beni?](https://open.spotify.com/album/2coCoZ06wAwafV4lUeJ8QO) | 2:16 | 2024-08-01 | 2024-09-06 |
 | [Nerdesin](https://open.spotify.com/track/0oPMxe6anF4Kw2SYEUpKDl) | [Etem](https://open.spotify.com/artist/7f9vInea1FeKnX1pCTHn1d), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Nerdesin](https://open.spotify.com/album/7pxOEGLoCaNNbnaJjOEtWM) | 3:52 | 2024-10-10 | 2024-11-10 |
+| [Nerdesin Ey Tanrım](https://open.spotify.com/track/6meX2fieTgDWAjaCGUb7zx) | [Rıza Sarıtaş](https://open.spotify.com/artist/7MUr26eqFK3BCP4y6A1mJw), [Devrim Özkan](https://open.spotify.com/artist/2oIEhAnqryRCrpQJtLp2CQ) | [Nerdesin Ey Tanrım](https://open.spotify.com/album/3S16BFquZVjUoCLfQN6hp2) | 3:26 | 2026-11-20 |  |
 | [Nerdesin?](https://open.spotify.com/track/6O1V3vNyUCRURvCWnkbmQG) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Mest Of ArabesQ](https://open.spotify.com/album/7lRl5LmVaMAAtaK5j5Kqre) | 3:07 | 2026-01-29 | 2026-05-10 |
 | [NERDEYDİN DE](https://open.spotify.com/track/60y3mXqJxzdUzeBxTdujnb) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [NERDEYDİN DE](https://open.spotify.com/album/2mhL2Xts85wt0O8mLnYXSV) | 3:10 | 2025-09-04 | 2026-10-12 |
 | [Nereye Kadar](https://open.spotify.com/track/0u3u0mGeWYU0h8tWin4ZCa) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Nereye Kadar](https://open.spotify.com/album/5PYBFjQAwPNuvrsyBKNyrT) | 2:55 | 2024-06-27 | 2024-07-12 |
@@ -804,7 +805,7 @@
 | [Üzgünüm Aşkım](https://open.spotify.com/track/27JIwRoqmSZ85M20Im6yGR) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Üzgünüm Aşkım](https://open.spotify.com/album/08xRb60WnzSW4iH127Bi40) | 3:15 | 2026-02-12 | 2026-02-27 |
 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 | 2026-03-19 |  |
 | [Üzülmedin Mi](https://open.spotify.com/track/7d4fDvfyi61LChDFgrUhuw) | [Zerrin Özer](https://open.spotify.com/artist/2CleFSxMoxkm2RduyMwcrm) | [Üzülmedin Mi](https://open.spotify.com/album/2IR8oQENGIVWd3OJOJLiPN) | 2:35 | 2026-11-10 |  |
-| [Şahsen Ben](https://open.spotify.com/track/6BE7FMDyYtF71h8bVAdyz3) | [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Şahsen Ben](https://open.spotify.com/album/66z4beQhv7okUsbvFkV3hh) | 4:45 | 2026-10-06 |  |
+| [Şahsen Ben](https://open.spotify.com/track/6BE7FMDyYtF71h8bVAdyz3) | [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Şahsen Ben](https://open.spotify.com/album/66z4beQhv7okUsbvFkV3hh) | 4:45 | 2026-10-06 | 2026-11-21 |
 | [Şarkıları Sen Seç](https://open.spotify.com/track/6rSiGLKusaEhZYo7k1GeKo) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Şarkıları Sen Seç](https://open.spotify.com/album/16jPtZQ6sxaYj6mwhP1XU0) | 2:37 | 2025-08-07 | 2025-08-16 |
 | [Şehir Uyumaz](https://open.spotify.com/track/5neDaxItqF4c3BLDmrwcN6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Şehir Uyumaz](https://open.spotify.com/album/65WTiIQ7hpECDFr2r239C9) | 2:26 | 2024-11-28 | 2024-12-20 |
 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 | 2024-06-27 | 2026-04-10 |

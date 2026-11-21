@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 136575,
       "name": "BALAN\u00c7O",
       "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 225267,
       "name": "Cigana - Live Forno Session",
       "url": "https://open.spotify.com/track/60mB0tUVE7Z5x2u3Q172ib"
@@ -4922,7 +4922,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 160230,
       "name": "Daqui pra sempre",
       "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
@@ -5220,6 +5220,24 @@
       "duration_ms": 145000,
       "name": "deixa eu me perder",
       "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
+    },
+    {
+      "album": {
+        "name": "Deixa Eu Te Amar",
+        "url": "https://open.spotify.com/album/4LK8RiByhQv0Jh8XEGbTwI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Oliveira",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153765,
+      "name": "Deixa Eu Te Amar",
+      "url": "https://open.spotify.com/track/3OgUROJuhlVT1Sa8KQAcMd"
     },
     {
       "album": {

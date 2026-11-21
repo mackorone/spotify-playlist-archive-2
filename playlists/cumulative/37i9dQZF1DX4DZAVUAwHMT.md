@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Julien Baker
 
-1,639 songs - 3 day 20 hr 46 min
+1,640 songs - 3 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 | 2026-02-06 | 2026-04-24 |
 | [At My Funeral](https://open.spotify.com/track/6nAxsEyZ0vqBD20pxekiM6) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [At My Funeral](https://open.spotify.com/album/6a2HlswbGa0B04bHH8plK0) | 2:32 | 2025-07-17 | 2025-09-12 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-29 | 2023-11-24 |
+| [Attitude](https://open.spotify.com/track/3CFth9g2SUk7IpLYIazXTz) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Attitude](https://open.spotify.com/album/7g4PN2FFQHUcUmoNhLG3Z4) | 2:44 | 2026-11-20 |  |
 | [ATTN.](https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface \(Deluxe Edition\)](https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM) | 3:23 | 2024-09-20 | 2025-01-17 |
 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-22 | 2025-03-07 |
 | [Authority Problem](https://open.spotify.com/track/2XuL4t7E924ECEFi62cxau) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Authority Problem](https://open.spotify.com/album/5ieOe9EmdqhocZtZDiED4d) | 2:21 | 2025-10-09 | 2025-11-08 |

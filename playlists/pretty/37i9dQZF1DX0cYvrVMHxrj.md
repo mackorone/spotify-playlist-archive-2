@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251 likes - 46 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252 likes - 46 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 2 | [Not ur mom](https://open.spotify.com/track/14DYlE5FdjoQbNLRRyxFb0) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ULTRA](https://open.spotify.com/album/7LDNQYVFZoapHCep1A2dYr) | 2:44 |
 | 3 | [Delirio](https://open.spotify.com/track/4D1zZkiizVMPLY0qQHbb8y) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Top Hits, Ballads, etc...](https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5) | 2:05 |
 | 4 | [GARABATO](https://open.spotify.com/track/1MWXSbZz2KRpw2kOwb6xcy) | [Lucas Gael](https://open.spotify.com/artist/27H7D7CnN2Ef5Pra7wjsSB) | [GARABATO](https://open.spotify.com/album/03Dw2ln3aRm2wMvYGrKGXJ) | 2:41 |
-| 5 | [RIKO](https://open.spotify.com/track/1foTAQHxjSXKJRQxVtUcYV) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [ETDK 2](https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG) | 2:41 |
+| 5 | [RIKO](https://open.spotify.com/track/1foTAQHxjSXKJRQxVtUcYV) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [ETDK 2](https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG) | 2:41 |
 | 6 | [PELIGRO](https://open.spotify.com/track/3KavB9Dq44BTTWQ4HXqS72) | [Manu Torres](https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1) | [INSTINTO](https://open.spotify.com/album/1LhDD7qksDHE9nKMCKNWXs) | 3:23 |
 | 7 | [S.A.N.A](https://open.spotify.com/track/1U3WlB4fp9qTaHorSJplJY) | [Jhon Dylan](https://open.spotify.com/artist/4APaAivRVuf4pQv52SjsVa) | [S.A.N.A](https://open.spotify.com/album/618WNKkMRyhCmMAeD2mHvR) | 2:56 |
 | 8 | [volver a sentir](https://open.spotify.com/track/5bdsJjT3F16HDcjatOZzzB) | [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [volver a sentir](https://open.spotify.com/album/6h6lmCrHT9yuTqfn6GqJUV) | 3:08 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 45 | [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 |
 | 46 | [Buscándote En Alguien Más](https://open.spotify.com/track/4y7rKyByPC4tcqSknj3xGr) | [Wabi](https://open.spotify.com/artist/1dH1dg8slCAEfbO2vHCIeV) | [Paz](https://open.spotify.com/album/29RAq81zyqYAIeLEhQrfIE) | 3:52 |
 
-Snapshot ID: `AAAAAHCNiwlFWyhHOpLqE+2NUD9dLlr6`
+Snapshot ID: `AAAAAFveC6wlEZgMhzFXZynFfbaUYzH0`

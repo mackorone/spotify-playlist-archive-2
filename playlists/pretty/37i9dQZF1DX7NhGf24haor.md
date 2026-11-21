@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Darren Styles & TOZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,167 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,372 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 98 | [Funked Up](https://open.spotify.com/track/6MZOvJg1lacY1OWFksZq3u) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Funked Up](https://open.spotify.com/album/5IgxCQWvJ8Wclxbvj9f5Co) | 2:03 |
 | 99 | [Outro](https://open.spotify.com/track/3aLD3844R0K4Z9FafTFam0) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Sogma](https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH) | [Outro](https://open.spotify.com/album/5msSxh4iUntJp93zZKhpbO) | 2:12 |
 
-Snapshot ID: `AAAAAAO6nrVXZl+ubMCDa5zy9Wyz3yVb`
+Snapshot ID: `AAAAAKP1LhGU9fqv6oV2rVQrgIxXsBbH`

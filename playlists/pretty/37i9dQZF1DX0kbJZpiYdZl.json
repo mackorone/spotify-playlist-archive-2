@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in the United States. Cover: Ashe",
-  "num_followers": 1577449,
+  "num_followers": 1577533,
   "original_name": "Hot Hits USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEI3jekd55yWm2AeLLE7QEzcHDQw",
+  "snapshot_id": "AAAAAHSawWfzV8uEHTKjqUQPhNx4Gv6R",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:44",
@@ -132,7 +132,7 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },

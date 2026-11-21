@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Maua Sama & Rayvanny
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,755 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,789 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 59 | [Call Me](https://open.spotify.com/track/7yeC0Li94ZmAwxVW5qApUw) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W), [Ariel Wayz](https://open.spotify.com/artist/6vLTbWnzofdofLGkDfxODG) | [Call Me](https://open.spotify.com/album/2saIxLurd9fufhXrueztza) | 3:17 |
 | 60 | [Pole](https://open.spotify.com/track/5QcJEd09y1NUi2QxNw7MIz) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 3:16 |
 
-Snapshot ID: `AAAAAFqP4upjrK1PFn6jvvmZRIjmS6nr`
+Snapshot ID: `AAAAAL4oCYkJEwz+THQhLn+5i3a9xG8d`

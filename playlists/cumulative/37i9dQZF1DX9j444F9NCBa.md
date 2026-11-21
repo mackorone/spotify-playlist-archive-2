@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-705 songs - 1 day 11 hr 48 min
+708 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Don't Kill My Vibe](https://open.spotify.com/track/6vB8QDhABiypQcVNpEOuQV) | [Franz Schröder](https://open.spotify.com/artist/5eK0TWmJd1D9tqBEVUe7xf) | [Don't Kill My Vibe](https://open.spotify.com/album/1Rv2l98pHdPeY1P2a76264) | 3:07 | 2022-05-18 | 2023-05-12 |
 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 | 2022-05-02 | 2025-11-08 |
 | [Don't Let Me Down \(Instrumental\)](https://open.spotify.com/track/18RRTF9SbEOM9h3aoMKeNc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 | 2022-01-21 | 2023-04-29 |
+| [Don't look back in anger](https://open.spotify.com/track/3hpZHhzyKPch28WxBWnLrf) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Don't look back in anger](https://open.spotify.com/album/7daHpDRoA7lkbYOzc5EitQ) | 3:09 | 2026-11-20 |  |
 | [Don't Look Back In Anger](https://open.spotify.com/track/1wSjtNZH4XRBU0KpjrYIYB) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Don't Look Back In Anger](https://open.spotify.com/album/4oHlMLyej1Sb1UPvoDCezc) | 3:46 | 2022-12-02 | 2023-06-03 |
 | [Don't Speak](https://open.spotify.com/track/18RIdVPvrdZx09CZ92PVvH) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Don't Speak](https://open.spotify.com/album/7zsVCG3pMuYIQjLRJhpF2N) | 3:13 | 2026-03-04 |  |
 | [Don't Stop Believing](https://open.spotify.com/track/5cWJAHlfu6gBkoieaEXvYS) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [Don't Stop Believing](https://open.spotify.com/album/6zoNfIlxFwIpg8LkSZXFkt) | 2:51 | 2026-01-09 |  |
@@ -270,6 +271,7 @@
 | [Hey Jude](https://open.spotify.com/track/4oLyZoduYHjLuYgvC9ds07) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Hey Jude](https://open.spotify.com/album/0moinVUWhkOZmD7JkvlrYh) | 2:09 | 2023-03-24 | 2026-01-28 |
 | [Hey Jude \- Piano](https://open.spotify.com/track/04HZn55ZWEdksrHmM1REW5) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Bad Habits & Hey Jude \(Piano\)](https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ) | 3:09 | 2022-10-14 | 2023-03-25 |
 | [Hey There Delilah](https://open.spotify.com/track/3yTeFCojSnwSszZIEmXq1S) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Hey There Delilah](https://open.spotify.com/album/45c9EC3a6pj9vOpo6e1MYP) | 3:18 | 2026-09-04 |  |
+| [High and Dry](https://open.spotify.com/track/2dUIelDqb7GYi2qIoyqdU0) | [Arnaud Gaudin](https://open.spotify.com/artist/6l910rwUYZedIwBzxQzZVB) | [High and Dry](https://open.spotify.com/album/2UHJ0sV5kFou2gAqZXpQAh) | 3:25 | 2026-11-20 |  |
 | [Ho Hey](https://open.spotify.com/track/6qUJsMw1iHpmoAbaDF0QFh) | [Ellie Cox](https://open.spotify.com/artist/7wOOvJ7BwpFWIoVGa0nhh6) | [Ho Hey](https://open.spotify.com/album/6tbOClFwY3XKiGzhD4ugzU) | 1:36 | 2022-09-30 | 2023-08-18 |
 | [Ho Hey](https://open.spotify.com/track/6G4hWFBXZ3vekirssPlulx) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Unwind](https://open.spotify.com/album/52cMHhlW7BR4IdfBTl6rEw) | 3:24 | 2022-01-21 | 2022-10-15 |
 | [Ho hey](https://open.spotify.com/track/2ahwerIzRcGeSMQnZ2DDJa) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:32 | 2022-01-21 | 2022-10-01 |
@@ -537,7 +539,8 @@
 | [Stay](https://open.spotify.com/track/18UzagiSaYLgfKfK8On0SP) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Stay](https://open.spotify.com/album/7kOIdDWDFiP5qjelqOyH8C) | 3:51 | 2023-04-14 | 2025-11-08 |
 | [Stay](https://open.spotify.com/track/3K6sfBeFE5O3O79SqZV1yv) | [Otis J\. Hart](https://open.spotify.com/artist/5PN2bToM1pb2WeRrMInjfT) | [Stay](https://open.spotify.com/album/7GkR7MgoB8K7fVntprF7Bf) | 3:47 | 2026-05-22 | 2026-06-12 |
 | [Stay Awake \- from Mary Poppins](https://open.spotify.com/track/1Iv7MmldOIPHZS3DuOtv6E) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Stay Awake](https://open.spotify.com/album/589iyDAVWz68zBJn1q4RrR) | 2:01 | 2022-01-21 | 2023-08-11 |
-| [Stay With Me](https://open.spotify.com/track/6q6pBHGNxM3I7cIDru0LBY) | [Jonas Mire](https://open.spotify.com/artist/6kIVYoRlOEHANMZgX3g3JR) | [Stay With Me](https://open.spotify.com/album/76LZpiMxPFHhIwUHSe8IDF) | 3:07 | 2026-09-04 |  |
+| [Stay With Me](https://open.spotify.com/track/6envABV16lmOgtt0PZvuKL) | [Hugo Mirewood](https://open.spotify.com/artist/0HVcHke34BNdHsYBTx6MlN) | [Stay With Me](https://open.spotify.com/album/3C72N0WPD0D9fY8i8sSUP8) | 2:37 | 2026-11-20 |  |
+| [Stay With Me](https://open.spotify.com/track/6q6pBHGNxM3I7cIDru0LBY) | [Jonas Mire](https://open.spotify.com/artist/6kIVYoRlOEHANMZgX3g3JR) | [Stay With Me](https://open.spotify.com/album/76LZpiMxPFHhIwUHSe8IDF) | 3:07 | 2026-09-04 | 2026-11-21 |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-01-21 | 2025-10-25 |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 | 2023-03-24 | 2024-04-19 |
 | [Stayin' Alive](https://open.spotify.com/track/4nEKbI250iiR61MASGuFie) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Stayin' Alive](https://open.spotify.com/album/3SwA8fVRvOmPzxqcAhEsNn) | 2:43 | 2023-08-31 | 2025-02-15 |
@@ -616,7 +619,7 @@
 | [Time After Time](https://open.spotify.com/track/2wjMv9svLp1NmaBk5OLhGD) | [Clairetone](https://open.spotify.com/artist/5WUeyUXg7LtVFvkR9awzRv) | [Time After Time](https://open.spotify.com/album/6cjrLvyi1OzHrgioiMY3IN) | 3:12 | 2022-10-14 | 2023-06-03 |
 | [Time After Time](https://open.spotify.com/track/1stBQsEHMo5cFWNOa41AlQ) | [Lottie Knight](https://open.spotify.com/artist/4fBfPbu5NCGGJdxLHeFJpm) | [Time After Time](https://open.spotify.com/album/37cfACU6aMRk7EbUbPA3kD) | 2:40 | 2022-02-10 | 2022-10-15 |
 | [Tiny Dancer](https://open.spotify.com/track/3KGkRYOsnZ8eQSRITbcVpq) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Tiny Dancer](https://open.spotify.com/album/0x1kRSsUT2O14cz9hvR66N) | 3:11 | 2025-02-14 |  |
-| [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-01-20 |  |
+| [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-01-20 | 2026-11-21 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/22pfvS6erjOrnAWrPpKyaO) | [Moelizi](https://open.spotify.com/artist/3Ai64gmUdBby8LEa6HRWEJ) | [Too Good At Goodbyes](https://open.spotify.com/album/7qqJJIUinG6YGnTqsRiFuc) | 3:04 | 2022-09-30 | 2025-10-25 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0IUnaP0Oov12pWc6xkFN9u) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [Too Good At Goodbyes](https://open.spotify.com/album/25L7uxEVbeCdbo3sTQCtXh) | 3:07 | 2025-06-03 |  |
 | [Too Sweet](https://open.spotify.com/track/6ToeI6gnf3q6fc4xvF34KV) | [Emma Lorents](https://open.spotify.com/artist/2Oa3OJROOoFrIZCPV8Tegc) | [Too Sweet](https://open.spotify.com/album/2rHYdgvnqvqthF196EN4eE) | 3:14 | 2025-10-24 | 2026-03-21 |

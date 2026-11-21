@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,217 songs - 4 day 1 hr 44 min
+1,218 songs - 4 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Aitne \- Monkey Safari Remix](https://open.spotify.com/track/7vzybiTEICEwnewA8KqU57) | [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Aitne](https://open.spotify.com/album/4Or0QJZ9FFfFkyDJOdsk28) | 8:25 | 2021-04-21 | 2022-07-27 |
 | [AKABAR \- Radio Edit](https://open.spotify.com/track/2dF2E1UMEiUU7k6io0bfLc) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [ASKI V1](https://open.spotify.com/album/77uFvnkZJIAMeQCyuasRv9) | 4:44 | 2025-11-21 | 2026-02-14 |
 | [Akasha](https://open.spotify.com/track/6DWdME78eFV3pNa7JKUHIM) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Double Touch](https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF) | [Elements Of Africa](https://open.spotify.com/album/4Nw0kWUYq7GzkL1o6VIktz) | 3:41 | 2025-09-12 | 2026-04-25 |
+| [Ake Tsabe](https://open.spotify.com/track/0VsfEtKqtkLuT1csgVTomO) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Jinger Stone](https://open.spotify.com/artist/0zuvB6HALKZ3cUfyzfq6Y2) | [Common Ground](https://open.spotify.com/album/7itzZ1nCtkAh5tQ7HBhNBs) | 4:40 | 2026-11-20 |  |
 | [Alabora \- Foxall Pale Blue Remix](https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:50 | 2021-05-07 | 2023-08-08 |
 | [Alchemy](https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Alchemy](https://open.spotify.com/album/5tAPqDBxLQywIHebYNHJQ1) | 3:05 | 2024-08-23 | 2025-01-18 |
 | [Alegria](https://open.spotify.com/track/3SrFmPoczDXSzrUTeCWZYD) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN) | [Alegria](https://open.spotify.com/album/2GYVyRdzg3rddBm88AEUsE) | 3:44 | 2025-03-21 | 2025-04-23 |
@@ -1051,7 +1052,7 @@
 | [The Boy Is Mine](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc) | 3:21 | 2023-08-25 | 2024-11-09 |
 | [The Church](https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W) | 7:20 | 2021-06-04 | 2023-04-29 |
 | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep) | 3:30 | 2023-07-28 | 2024-09-28 |
-| [The Drum](https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [The Drum](https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp) | 3:17 | 2026-05-29 |  |
+| [The Drum](https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [The Drum](https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp) | 3:17 | 2026-05-29 | 2026-11-21 |
 | [The Echo](https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [The Echo](https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS) | 4:30 | 2024-03-08 | 2025-01-11 |
 | [The High](https://open.spotify.com/track/4EG4CocKZV7FAs71MTiUUv) | [James Organ](https://open.spotify.com/artist/4gus0P48NlwC0zSgBZAO3R), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [The High](https://open.spotify.com/album/3F4A5UXMww9UFt9lf1YAvm) | 6:12 | 2022-06-03 | 2022-07-28 |
 | [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 | 2024-04-12 | 2024-09-30 |

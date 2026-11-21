@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,399 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,400 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [To Kryfto](https://open.spotify.com/track/1NjwCOWUKtq2t3QtiNeW3S) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [To Kryfto](https://open.spotify.com/album/5W04JRKStDefumJYJgaLyx) | 3:58 |
 | 60 | [Kantada](https://open.spotify.com/track/4LSgjA6nzvd4u5bCgyIBN4) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Ixogenia](https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v) | 2:14 |
 
-Snapshot ID: `AAAAAI7uOKdnmoVQlrVM93nqUI35arx2`
+Snapshot ID: `AAAAAG3fYXbTiUSXGjO4kK06JGqGvoB6`

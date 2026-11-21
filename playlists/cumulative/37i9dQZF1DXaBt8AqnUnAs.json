@@ -11301,6 +11301,32 @@
     },
     {
       "album": {
+        "name": "Um dia de cada vez",
+        "url": "https://open.spotify.com/album/5Ya0ri4tgl7qzlMkuPiYoj"
+      },
+      "artists": [
+        {
+          "name": "JUNIN",
+          "url": "https://open.spotify.com/artist/7n5uWuPRLfP5TITArYKz0T"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "SN Records",
+          "url": "https://open.spotify.com/artist/7ttL1pCd7B28VCBSendfd3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147513,
+      "name": "Nem tudo \u00e9 sobre amor",
+      "url": "https://open.spotify.com/track/1uAfwWWTk9IeQP7VXmCIL3"
+    },
+    {
+      "album": {
         "name": "Nesse Filme",
         "url": "https://open.spotify.com/album/4DcdORojQZLBC3VAqSDcYB"
       },
@@ -13456,6 +13482,32 @@
       "duration_ms": 126000,
       "name": "Pertenceu",
       "url": "https://open.spotify.com/track/4rAvTHbGSpgedU3WFr5jpi"
+    },
+    {
+      "album": {
+        "name": "Pescaria",
+        "url": "https://open.spotify.com/album/78YvrgQ6BgCrv1lXsU7rCp"
+      },
+      "artists": [
+        {
+          "name": "Oreia",
+          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
+        },
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        },
+        {
+          "name": "Faew",
+          "url": "https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Pescaria",
+      "url": "https://open.spotify.com/track/0c71jg0RxHvw65pwWngrLJ"
     },
     {
       "album": {
@@ -17026,7 +17078,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 132000,
       "name": "SUPERFICIAL",
       "url": "https://open.spotify.com/track/2cUGSCrzn1Z3NbCjoEUsqa"
@@ -17436,7 +17488,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 145056,
       "name": "Tatua Meu Nome",
       "url": "https://open.spotify.com/track/2K97lUu3nZSTxIh8HJJA8l"

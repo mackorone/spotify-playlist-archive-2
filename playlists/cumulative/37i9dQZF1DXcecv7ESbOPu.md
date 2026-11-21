@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Zara Larsson, Simon Superti och Jireel med flera\. Happy New Music Friday!
 
-26,754 songs - 57 day 21 hr 22 min
+26,755 songs - 57 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [18](https://open.spotify.com/track/6MaTJ8MpJU7RO99PcYyvkm) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [18](https://open.spotify.com/album/5zznpNL6GMkUwFEAd4e4Kt) | 3:24 | 2024-12-12 | 2024-12-20 |
 | [180](https://open.spotify.com/track/3jxCt8bqqdFmsW8R2AlFb0) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [180](https://open.spotify.com/album/1jkSQISZ1yztdQ9W412JMS) | 3:20 | 2024-04-11 | 2024-04-19 |
 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 | 2025-12-18 | 2026-01-02 |
+| [19](https://open.spotify.com/track/1fdfrnUKu6YrVk9NTQnXkx) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc) | [19](https://open.spotify.com/album/2mUG540ZbHkdRgbklLoYHM) | 2:32 | 2026-11-20 |  |
 | [19](https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [19](https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG) | 2:16 | 2023-06-29 | 2023-07-07 |
 | [19 in a Week](https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Young & Naive](https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ) | 3:13 | 2023-01-19 | 2023-01-27 |
 | [19 Underground](https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Ore](https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK) | 3:08 | 2026-02-26 | 2026-03-06 |
@@ -694,7 +695,7 @@
 | [Afraid of the Dark](https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Afraid of the Dark](https://open.spotify.com/album/5pI0rlg5RIFp9rnxkMM2b3) | 3:47 | 2023-04-13 | 2023-04-21 |
 | [Afraid to be Loved](https://open.spotify.com/track/4G25xUhUF0SbIHcPA7JkjG) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Afraid to be Loved](https://open.spotify.com/album/2rzHSVny2uANrTUT6fhOBH) | 1:59 | 2022-10-06 | 2022-10-14 |
 | [African Baddie](https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [African Baddie](https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96) | 2:37 | 2026-10-29 | 2026-11-06 |
-| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-19 |  |
+| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-19 |  |
 | [Afro Thing](https://open.spotify.com/track/5WfmnI3OrgHi3eBByXGFYg) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afro Thing](https://open.spotify.com/album/2s4GxNlwJWjljUf6q6dqhg) | 2:28 | 2022-07-29 | 2022-08-05 |
 | [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 | 2026-07-16 | 2026-07-24 |
 | [after all](https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [after all](https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D) | 3:13 | 2026-06-18 | 2026-06-26 |
@@ -8999,7 +9000,7 @@
 | [go cowboy](https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [big bite mixtape](https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T) | 2:49 | 2025-07-24 | 2025-08-01 |
 | [Go Crazy](https://open.spotify.com/track/16xwg9hnjqaKGmOSiE5JFV) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW), [KDDK](https://open.spotify.com/artist/1793RNBnWXkl6iRbT196Nk) | [Go Crazy](https://open.spotify.com/album/0AXEZvL5CvHgIbChzCmBVy) | 2:40 | 2021-12-17 | 2021-12-24 |
 | [go deeper](https://open.spotify.com/track/4MFLbZGRvsRc6ZHQWqK8HL) | [matias](https://open.spotify.com/artist/32BV5tztivPr5o2JmFdUTI) | [go deeper](https://open.spotify.com/album/5fqmM8XLlDaACYxlKb3Ghi) | 2:51 | 2025-01-02 | 2025-01-10 |
-| [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 | 2026-11-19 |  |
+| [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 | 2026-11-19 |  |
 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph) | 4:27 | 2022-02-24 | 2022-03-04 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-05-30 | 2024-06-07 |
 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 | 2024-02-15 | 2024-02-23 |

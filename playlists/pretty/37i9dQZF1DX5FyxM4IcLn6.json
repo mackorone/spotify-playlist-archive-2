@@ -1,12 +1,12 @@
 {
   "description": "Listen to selected nominees for the 69th GRAMMY Awards.",
-  "num_followers": 167109,
+  "num_followers": 167439,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKNv+tHmksv7hOoUAWZ2UwBteOyp",
+  "snapshot_id": "AAAAAEwTdU8sMqzDB/RofEQTOs1P6OFv",
   "tracks": [
     {
       "added_at": "2026-11-16 16:07:41",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Spend Dat",
-        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
-      },
-      "artists": [
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 181391,
-      "name": "Spend Dat",
-      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Spend Dat",
+        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 181391,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Madwoman",
-      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "End of You",
         "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
+        "name": "Gary",
+        "url": "https://open.spotify.com/album/2oRy1LSwPVKeELSNxewLHc"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 314623,
+      "name": "Gary",
+      "url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
         "name": "Cosa Nuestra: Cap\u00edtulo 0",
         "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Gary",
-        "url": "https://open.spotify.com/album/2oRy1LSwPVKeELSNxewLHc"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 314623,
-      "name": "Gary",
-      "url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Vol.II",
-        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
-      },
-      "artists": [
-        {
-          "name": "Angine de Poitrine",
-          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
-        }
-      ],
-      "duration_ms": 391268,
-      "name": "Fabienk",
-      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 255639,
       "name": "Life Boat.",
       "url": "https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 377098,
-      "name": "For Good",
-      "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "Click Clack Symphony. (feat. Hans Zimmer)",
         "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 377098,
+      "name": "For Good",
+      "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 224824,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "Ego Death At A Bachelorette Party",
         "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 229655,
       "name": "Showbiz",
       "url": "https://open.spotify.com/track/0HA0F6W8khJgVgZwSEdTgN"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 224824,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
+        "name": "VISA",
+        "url": "https://open.spotify.com/album/5mtA5iGasjsoAGVFlwOa19"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "duration_ms": 222816,
+      "name": "VISA",
+      "url": "https://open.spotify.com/track/6RYMQDnY4zPaLSfvfRdXT7"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 217411,
       "name": "Unang Kilig",
       "url": "https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
-        "name": "VISA",
-        "url": "https://open.spotify.com/album/5mtA5iGasjsoAGVFlwOa19"
-      },
-      "artists": [
-        {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
-        }
-      ],
-      "duration_ms": 222816,
-      "name": "VISA",
-      "url": "https://open.spotify.com/track/6RYMQDnY4zPaLSfvfRdXT7"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 249654,
-      "name": "Still Crying",
-      "url": "https://open.spotify.com/track/4M6MsJ4xJeule1a7OHdMfA"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "METAL FORTH",
         "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 213044,
       "name": "Sunset Kiss (feat. Polyphia)",
       "url": "https://open.spotify.com/track/5MYlEdN2pfbl0S1qCToSvQ"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 249654,
+      "name": "Still Crying",
+      "url": "https://open.spotify.com/track/4M6MsJ4xJeule1a7OHdMfA"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 261075,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/251ua7SfBrbvogyUaAcvBL"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "Your Favorite Toy",
         "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 269000,
       "name": "Asking For A Friend",
       "url": "https://open.spotify.com/track/7wtcaesntKayTmzx354CUH"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 261075,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/251ua7SfBrbvogyUaAcvBL"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "I Must Be Dreaming",
-        "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 271968,
-      "name": "Waist Deep",
-      "url": "https://open.spotify.com/track/39nKUjHiC7XEnkQq7jc6ub"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "YES",
         "url": "https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 301109,
       "name": "YES",
       "url": "https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "I Must Be Dreaming",
+        "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 271968,
+      "name": "Waist Deep",
+      "url": "https://open.spotify.com/track/39nKUjHiC7XEnkQq7jc6ub"
     },
     {
       "added_at": "2026-11-16 16:07:41",

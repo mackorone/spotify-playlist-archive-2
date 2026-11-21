@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,916 likes - 172 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,772 likes - 172 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 171 | [Ears as an Organ of Touch](https://open.spotify.com/track/7sRuWHzuVQYy8HYuGWJU3F) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Ears as an Organ of Touch](https://open.spotify.com/album/1VwFPEu9Dp5TNPpkidCFNP) | 3:19 |
 | 172 | [Fantasy](https://open.spotify.com/track/4c8XvOCEfmjUXPrVcNvWHP) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Fantasy](https://open.spotify.com/album/23hR6RRR3KhCG6NvqntniN) | 3:33 |
 
-Snapshot ID: `AAAAANH/SciHolR1BrZgrnjzdpl0Sk+P`
+Snapshot ID: `AAAAAN0ODeQmk64dtEwti2S/woe4Bgo7`

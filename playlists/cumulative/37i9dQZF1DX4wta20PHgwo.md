@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-585 songs - 2 day 3 hr 57 min
+586 songs - 2 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 | 2023-01-05 | 2026-01-15 |
 | [S.C\. & W.](https://open.spotify.com/track/6RGKS5QJgdJ9bDM7RcZsRd) | [Barre Phillips](https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony) | [Three Day Moon](https://open.spotify.com/album/7oun4UdnI3S05ELHv829TY) | 9:25 | 2020-05-03 | 2020-10-27 |
 | [S3NS \- Duo Version](https://open.spotify.com/track/0MZeV0pYM6hPpwqaI9IGUy) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [40 Melodies](https://open.spotify.com/album/3x1vnezQHOTQG4kDC8nTzl) | 4:41 | 2020-12-04 | 2021-12-17 |
+| [Sao Paulo](https://open.spotify.com/track/1e3U7LIoj1rLi8X8O583UH) | [Rory Green](https://open.spotify.com/artist/5L4dF56YgKfcpWBgiyvZoG) | [Moments Brighter Than The Sun](https://open.spotify.com/album/6iAqEY6BzdSdvxKXPy1ovY) | 5:53 | 2026-11-20 |  |
 | [Search for Peace](https://open.spotify.com/track/1gFQNjgYF48dWTP2S067r3) | [Eric Scott Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Search for Peace](https://open.spotify.com/album/3MPQi7p3q7d2m2dPLMWBcN) | 6:36 | 2023-02-28 | 2026-05-16 |
 | [Search for Peace](https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Far Far Away](https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy) | 4:45 | 2023-02-09 |  |
 | [Secondo](https://open.spotify.com/track/5upRxHx2LZDhunpfUiShhU) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC), [Marc Lehan](https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G), [Werner Lauscher](https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U) | [Secondo](https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o) | 6:09 | 2023-08-03 |  |
@@ -582,7 +583,7 @@
 | [Wisdom Is Eternal \(For Barry Harris\)](https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Wisdom Is Eternal \(For Barry Harris\)](https://open.spotify.com/album/07PWUfIc6P2tDrzoEusUyx) | 4:33 | 2025-12-12 | 2026-03-21 |
 | [Wise Woman](https://open.spotify.com/track/7116LjcE1UuAqKJiQRwXhK) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 3:46 | 2023-08-03 | 2025-09-13 |
 | [Wisteria](https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s) | 5:47 | 2022-07-21 | 2024-04-19 |
-| [Wisteria](https://open.spotify.com/track/5QdGSxicWhfhvJCkkVrXoh) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/1l2Hx5nm70K3dgeX3ed2yO) | 5:47 | 2020-05-02\* |  |
+| [Wisteria](https://open.spotify.com/track/5QdGSxicWhfhvJCkkVrXoh) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/1l2Hx5nm70K3dgeX3ed2yO) | 5:47 | 2020-05-02\* | 2026-11-21 |
 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |
 | [You Are](https://open.spotify.com/track/7cD7q524dd5KpU0GRdfB0I) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [You Are](https://open.spotify.com/album/7f6e8ciQxtsF26rpkeIRhx) | 6:13 | 2020-05-02\* | 2022-05-03 |
 | [You Are Too Beautiful](https://open.spotify.com/track/1AL1RPAS8xiZGehR3ch7mp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane & Johnny Hartman](https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r) | 5:33 | 2021-02-26 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319636,
+  "num_followers": 319628,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD02BxBbrBxwOKTxUBXo6yMjfbyN",
+  "snapshot_id": "AAAAAGm7hoOaDqu+oNcpBoW9RkjUMQcq",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:30",
@@ -207,26 +207,6 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "N\u00e3o Esque\u00e7o",
-        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
-      },
-      "artists": [
-        {
-          "name": "Niara",
-          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "N\u00e3o Esque\u00e7o",
-      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
         "name": "Vit\u00e3o",
         "url": "https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 243020,
       "name": "Embrasa",
       "url": "https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "N\u00e3o Esque\u00e7o",
+        "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
+      },
+      "artists": [
+        {
+          "name": "Niara",
+          "url": "https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "N\u00e3o Esque\u00e7o",
+      "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
     },
     {
       "added_at": "2026-09-10 03:01:30",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "Dissolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "Fica na mesma",
-      "url": "https://open.spotify.com/track/3RBdM6NSJR3qbpNiyaLvXQ"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
         "name": "Uma Cabana",
         "url": "https://open.spotify.com/album/054n4OQyd9yxD52XfFa01t"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 142000,
       "name": "Uma Cabana",
       "url": "https://open.spotify.com/track/5okIfDBy57Ek20m0pJdHcz"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "Dissolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "Fica na mesma",
+      "url": "https://open.spotify.com/track/3RBdM6NSJR3qbpNiyaLvXQ"
     },
     {
       "added_at": "2026-09-10 03:01:30",

@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-625 songs - 1 day 13 hr 51 min
+628 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Clocks](https://open.spotify.com/track/61wBgRyUMtK9JxP7XAhjB1) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Clocks](https://open.spotify.com/album/3fyspqNr7U4TDwD89NLgkE) | 5:39 | 2023-01-18 |  |
 | [Clouds](https://open.spotify.com/track/4ZTvltyTV8VXnDfkSbj2g2) | [The Late Aprils](https://open.spotify.com/artist/0GY11I9LZsDwYbuxC5tZHr) | [Clouds](https://open.spotify.com/album/5Ebf1uQxOAXtpUzePGhnWe) | 3:15 | 2023-03-08 |  |
 | [Cocoon](https://open.spotify.com/track/77MNrfXyCRDDv5UOinre2O) | [My Escape](https://open.spotify.com/artist/1r5qGHsIkbMAUVD0hQw2AF) | [Cocoon](https://open.spotify.com/album/6B7WOPQKyFBDGLkSRa3rHL) | 3:36 | 2024-12-24 |  |
+| [Codinome Mulher](https://open.spotify.com/track/6LqCTbmQwISfs9h2eKEdo4) | [banda plano b](https://open.spotify.com/artist/71Ej1tQMWH7QQNbntcQpUY) | [Codinome Mulher](https://open.spotify.com/album/2xf7snMHcLBSiE6LOQJXza) | 3:24 | 2026-11-20 |  |
 | [Coin Toss](https://open.spotify.com/track/6GzhXYdXnfoeTQO6jtxbSK) | [Zach Clash](https://open.spotify.com/artist/1yjMiO06pGxcYCpf21muHV), [The Liarz](https://open.spotify.com/artist/1Dq51OkKndCzVAHUCBOnYZ) | [Coin Toss](https://open.spotify.com/album/3FuhSwIEifhoccJcjCoapz) | 4:01 | 2025-02-03 |  |
 | [Colapso \- Demo](https://open.spotify.com/track/6GPUQtIKJN3e1M7OWqyTf4) | [LosExs](https://open.spotify.com/artist/4iK5Fcuu33yoUZZ2ReKHrh) | [Colapso](https://open.spotify.com/album/7vNxgBWKpMdXrApBJp9gUC) | 4:06 | 2023-09-27 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2024-10-08 |  |
@@ -211,6 +212,7 @@
 | [Hard Black Suit](https://open.spotify.com/track/43NEDSideoTC6sDgQnZdE7) | [BROMANCE](https://open.spotify.com/artist/0whucButfgPVav2sHX88OY) | [Bromance](https://open.spotify.com/album/6yQ0TErz4DoNEyWPirYyrR) | 4:06 | 2023-03-25 |  |
 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 | 2023-01-10 |  |
 | [Harder Boy](https://open.spotify.com/track/0Zw2D8swjwxg67uv0ErZnN) | [Don't Tell John](https://open.spotify.com/artist/3jOxFGJf9LSJpuZ4q7BVb7) | [Harder Boy](https://open.spotify.com/album/24LCuSPbMO6Zu1rx3gLklH) | 2:19 | 2025-01-07 |  |
+| [HardTimesTimesTimes](https://open.spotify.com/track/2RtACPtJIOptw2m7nsU6De) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [HardTimesTimesTimes](https://open.spotify.com/album/7d9PFJkDJAm2pXD6VWbuen) | 3:04 | 2026-11-20 |  |
 | [Hazlo Por Vos!](https://open.spotify.com/track/2yKlOSUKyZoBl8UwPYbdvb) | [Prieto](https://open.spotify.com/artist/5uipQ4Dyh3xSyPlTxjrcgW) | [Apenas Metros Da Estrada](https://open.spotify.com/album/4fuvp9GZh0Sd3NzwjCB30F) | 4:14 | 2026-06-08 |  |
 | [Head Up](https://open.spotify.com/track/4Y4ldFPbe39m81tRLOcIWd) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:49 | 2023-01-10 |  |
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2023-01-11 |  |
@@ -476,6 +478,7 @@
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-28 |  |
 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 | 2023-01-10 |  |
 | [Shrouds of illusions](https://open.spotify.com/track/4wtYWU9KxsLYFPTa4rkZjb) | [Drops of Indigo](https://open.spotify.com/artist/0yypLFTcMyc6x8B0HFyXQT) | [Shrouds of illusions](https://open.spotify.com/album/1I0FRXy2jISBt05EiefXyP) | 3:59 | 2023-04-21 |  |
+| [Si Hago Todo Mal](https://open.spotify.com/track/4eL6x2Gtx6SK2dtUrWULFe) | [Señal Débil o Inexistente](https://open.spotify.com/artist/0AHivSTCsGgtBvVi34uO0A) | [Si Hago Todo Mal](https://open.spotify.com/album/3uqellZFKrxilOPoAhYH4r) | 2:29 | 2026-11-20 |  |
 | [Si Te Vas](https://open.spotify.com/track/45iC64q0auABTcM4DAaiRN) | [Sai T](https://open.spotify.com/artist/1Jx6KD6pWDwOGXne2TnnEh) | [Adiós a Mi Buen Yo](https://open.spotify.com/album/3MeZZQh5VDch3fZEVwUvTB) | 2:46 | 2024-12-20 |  |
 | [Silver Lake](https://open.spotify.com/track/5X1rR5QfICaweUvMl6munz) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 4:11 | 2023-04-13 |  |
 | [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 | 2026-05-13 |  |

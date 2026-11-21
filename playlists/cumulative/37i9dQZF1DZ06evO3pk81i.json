@@ -475,6 +475,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Le Digo a Mi Am\u00e1",
+        "url": "https://open.spotify.com/album/4hcBCjMGHl38BJGHcqOmJo"
+      },
+      "artists": [
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114549,
+      "name": "C\u00f3mo Le Digo a Mi Am\u00e1",
+      "url": "https://open.spotify.com/track/3uLbuKcBSaw5ecbvYMSyar"
+    },
+    {
+      "album": {
         "name": "PDE",
         "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },

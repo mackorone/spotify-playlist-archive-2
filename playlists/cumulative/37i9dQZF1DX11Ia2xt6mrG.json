@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Dazoner en portada.",
   "name": "electro mx ",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 99629,
       "name": "#HOT #FUN #$EX",
       "url": "https://open.spotify.com/track/1WlSGFDmoJGFn0BLiSBBd0"
@@ -310,6 +310,24 @@
       "duration_ms": 150966,
       "name": "Agua Pa Beber",
       "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+    },
+    {
+      "album": {
+        "name": "House Belico, Vol. 1",
+        "url": "https://open.spotify.com/album/2MrcbOum43qy6Wx3Nm7kJK"
+      },
+      "artists": [
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212389,
+      "name": "AL TIRANTE",
+      "url": "https://open.spotify.com/track/3j4SKPFObMVVnPPogLJRcr"
     },
     {
       "album": {
@@ -5434,7 +5452,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 231555,
       "name": "LL\u00c9VATELO TODO",
       "url": "https://open.spotify.com/track/5qt7BdG1MOpnuSmNwbafhI"
@@ -5960,7 +5978,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 189843,
       "name": "Midnight Replay",
       "url": "https://open.spotify.com/track/7rMiNWxXuxUIv93te7Mrnl"
@@ -6008,6 +6026,24 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "album": {
+        "name": "Mira Como Pega!",
+        "url": "https://open.spotify.com/album/6gZFO4vK441l0P1d5QRj9M"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264004,
+      "name": "Mira Como Pega!",
+      "url": "https://open.spotify.com/track/5EOk516HYoJvu9Qj8efFZ7"
     },
     {
       "album": {
@@ -6679,6 +6715,24 @@
     },
     {
       "album": {
+        "name": "Nothing 4 Money",
+        "url": "https://open.spotify.com/album/0QKSAs1o2Be9dPvEagKItu"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324923,
+      "name": "Nothing 4 Money",
+      "url": "https://open.spotify.com/track/7ErpVDRJBa7lxHcDqvFrQc"
+    },
+    {
+      "album": {
         "name": "Not For Resale",
         "url": "https://open.spotify.com/album/71F8ZwPudopYuDWajBYPM0"
       },
@@ -7237,6 +7291,28 @@
     },
     {
       "album": {
+        "name": "Perseidas",
+        "url": "https://open.spotify.com/album/302NyzvjfPqnXV2iukilqP"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Perseidas",
+      "url": "https://open.spotify.com/track/1vbqIhKTKwSM3QdKCTm2Dm"
+    },
+    {
+      "album": {
         "name": "Petricor",
         "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
@@ -7572,7 +7648,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 197459,
       "name": "Princesa Mexicana",
       "url": "https://open.spotify.com/track/36jRPeUaUkIDW9KzrzfjuI"

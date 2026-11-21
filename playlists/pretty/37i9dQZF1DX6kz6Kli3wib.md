@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,076 likes - 203 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,078 likes - 203 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 202 | [quiet streets](https://open.spotify.com/track/0t9EtJYfdBJGBTiYfldjbC) | [Noir Vista](https://open.spotify.com/artist/2lEM5VYK095SC5NRXvQSoJ) | [quiet streets](https://open.spotify.com/album/3nq76VaCuP6jgv3CmXVOSE) | 2:15 |
 | 203 | [Tranquil Trails](https://open.spotify.com/track/7hjO6QE3mT5CaR11Q2mA3p) | [Gallway Flex](https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t) | [Tranquil Trails](https://open.spotify.com/album/7yq36VWDk8HFu3c2ATJURj) | 2:08 |
 
-Snapshot ID: `AAAAAMUU64y713m872fUSbd0UA3RoblA`
+Snapshot ID: `AAAAALqaI6VhTVSPaHP7CYuJXoUswKLM`

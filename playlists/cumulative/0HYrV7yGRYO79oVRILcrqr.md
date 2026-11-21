@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-889 songs - 2 day 7 hr 20 min
+892 songs - 2 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 | 2025-12-17 |
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2026-04-27 | 2026-05-26 |
+| [Fire & Ice](https://open.spotify.com/track/3qw4dbF1uRMAgbqzGzGpGL) | [Charlie Pineda](https://open.spotify.com/artist/23JZjioAkdchmnfIQfFzS0) | [Fire & Ice](https://open.spotify.com/album/3iBeSLP4QaWBwU3HDgPyTh) | 3:26 | 2026-11-20 |  |
 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-06-18 | 2026-07-12 |
 | [Fist full of lies](https://open.spotify.com/track/3KL4wNDzQV6Rk7TpyPIk2z) | [Moral Demise](https://open.spotify.com/artist/2aJD3abHtV67hSLPptMQgM) | [Stomp](https://open.spotify.com/album/5I8CHzZpprQpuqxp1BpbCt) | 2:10 | 2026-10-29 |  |
 | [FLICK MY HAIR](https://open.spotify.com/track/6kUmbD1EfBxaa95s05UhTU) | [ABELA](https://open.spotify.com/artist/3t19go2ralbBNKL0LggZW0) | [FLICK MY HAIR](https://open.spotify.com/album/0cNFUNwrBZw5WCSocHkpGI) | 2:47 | 2026-04-11 | 2026-04-21 |
@@ -353,6 +354,7 @@
 | [I Don't Wanna](https://open.spotify.com/track/2dBISZAkoPUFtSxXOrzFWg) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [I Don't Wanna](https://open.spotify.com/album/3uAjKCqmcjrqWzUk2CBLDw) | 4:18 | 2026-09-07 | 2026-09-20 |
 | [I DON'T WANT TO HOLD YOUR HAND](https://open.spotify.com/track/333h9FN6V5Gjsy0uWWTP9r) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [I DON'T WANT TO HOLD YOUR HAND](https://open.spotify.com/album/0lVlutlRZzSF8c1dQBK017) | 3:22 | 2025-09-30 | 2025-12-17 |
 | [I Have No Fear](https://open.spotify.com/track/4XccGq2EBT76YuZBltTEdr) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 5:06 | 2026-01-27 | 2026-03-18 |
+| [I Just Saw Santa Walk In](https://open.spotify.com/track/0lbFlrlcZ6GQjxEoBhaL21) | [John Allen Kipta](https://open.spotify.com/artist/6VMENRR0HKdBPQrihvsCB4) | [I Just Saw Santa Walk In](https://open.spotify.com/album/2Lyh20uJ9MqqI3RNXAQjF8) | 2:36 | 2026-11-20 |  |
 | [I Know You Feel It Too](https://open.spotify.com/track/7x5GONGzH06p1jdbfM7dnM) | [Capturing Callahan](https://open.spotify.com/artist/1KfGxQ1rveLpPoj1aBHTNy) | [Tailwater Dreams](https://open.spotify.com/album/2btqHPX6FKUXIqQy69VXDS) | 4:01 | 2026-07-23 | 2026-08-01 |
 | [I Need You](https://open.spotify.com/track/3meKJA7QwTiHdTu0k5TWoH) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Covers Pt\. 1](https://open.spotify.com/album/6Lv3vu9yod1CdBzOHiwaNP) | 2:32 | 2026-08-11 |  |
 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 | 2026-10-08 |  |
@@ -806,6 +808,7 @@
 | [Troubled](https://open.spotify.com/track/6Z5gGO33AtWMkI0W6gScTN) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Troubled](https://open.spotify.com/album/27e0SHGsIxErsW0wWTPjpY) | 3:21 | 2025-09-30 | 2025-12-17 |
 | [Troubled Lovers](https://open.spotify.com/track/0HjRA1qtAxd2TBbSY5gSFa) | [LilYūgen](https://open.spotify.com/artist/0rIFFUGNSGAfQulpcZ97Zv) | [Troubled Lovers](https://open.spotify.com/album/7gbZbtBtccoguWh8CVE7sL) | 2:19 | 2026-10-25 |  |
 | [Tugo moja](https://open.spotify.com/track/4tEfv3mo0KqTO2BdYN9kQx) | [Samyron](https://open.spotify.com/artist/2kaPeoxWMhGb5qwlRI62Ka) | [Tugo moja](https://open.spotify.com/album/33f2LsO2mkOdHMgB9uU7df) | 3:10 | 2026-10-25 |  |
+| [Turkey Tales](https://open.spotify.com/track/3LJ2eJKHPna1hooFPhcdpD) | [Abigail Rich](https://open.spotify.com/artist/5vDhUjPO4w8nPPUPQIVs0A) | [Turkey Tales](https://open.spotify.com/album/1BB5adKykgkFxALcqKONgP) | 5:48 | 2026-11-20 |  |
 | [Twerkin' With A Twang](https://open.spotify.com/track/7hNtGfB2RKabvFy5d3pQp0) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 2:54 | 2025-12-04 | 2025-12-17 |
 | [Twisted Heart](https://open.spotify.com/track/6tXyqROApirTypxgRWI0OL) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 2:57 | 2026-04-06 | 2026-04-21 |
 | [Two of Us](https://open.spotify.com/track/6APATWEI9jdN8OA3N4PRvP) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [12 from 24](https://open.spotify.com/album/5aydgqRqJlLmmSchdQC66g) | 3:06 | 2026-07-01 |  |

@@ -4,7 +4,7 @@
 
 > Slow down and enjoy\. Music videos only available on Premium.
 
-37 songs - 1 hr 49 min
+39 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,14 @@
 | [No Tengo Remedio](https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio](https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F) | 3:09 | 2026-10-14 | 2026-11-13 |
 | [No Tengo Remedio \- En Vivo en Casa Spotify](https://open.spotify.com/track/48OBvoamhz47ZmLX5nkIeE) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio \(En Vivo en Casa Spotify\)](https://open.spotify.com/album/07weXrV0TrCeHGHgRPN3iE) | 3:27 | 2026-11-12 |  |
 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 | 2026-10-14 |  |
-| [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 | 2026-10-14 |  |
+| [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 | 2026-10-14 | 2026-11-21 |
 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 | 2026-10-14 |  |
 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 | 2026-10-14 |  |
+| [te clavas](https://open.spotify.com/track/6B1DVE9hWzAGmHkH1dq3Mu) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Morphys](https://open.spotify.com/album/332GInMMj66YvdPUXfdvlW) | 4:00 | 2026-11-20 |  |
 | [Te Vas A Arrepentir \(Don't Hurt Him\) \(Official Music Video\)](https://open.spotify.com/track/0WaevUgW1inPeqVw0N3ACz) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\) \(Official Music Video\)](https://open.spotify.com/album/6NppnAgSsLeb7NwlcWn4et) | 3:10 | 2026-10-14 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2026-10-14 |  |
 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 | 2026-10-14 |  |
+| [una en un millón \. .](https://open.spotify.com/track/4wh64O7ItRqDyVDQf0J7Xy) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [una en un millón \. .](https://open.spotify.com/album/5J7b8FF3Oqhwh9hTRr7NCd) | 4:37 | 2026-11-20 |  |
 | [uno+1](https://open.spotify.com/track/0jzIZfvE0dayZflAL7MJ2U) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [uno+1](https://open.spotify.com/album/7ssfNloiP6fxfovaiBODyZ) | 2:56 | 2026-11-06 |  |
 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 | 2026-10-14 |  |
 

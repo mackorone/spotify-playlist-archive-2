@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,368 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,362 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 40 | [Soleil](https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Soleil](https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ) | 4:14 |
 | 41 | [Black Cloud](https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Black Cloud](https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS) | 4:29 |
 | 42 | [Did Life Work Out for You?](https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:19 |
-| 43 | [freedom](https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [freedom](https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc) | 3:38 |
-| 44 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 |
+| 43 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 |
+| 44 | [freedom](https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM) | [fyodor](https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu) | [freedom](https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc) | 3:38 |
 | 45 | [Shoes](https://open.spotify.com/track/5Cl3FkjKKCGkPSXxI8lmTV) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [Shoes](https://open.spotify.com/album/4kqdgVtxEmeePLtQA4QLKn) | 3:40 |
 | 46 | [2BL](https://open.spotify.com/track/22pEbo1EUf5EV78Iq8gLzX) | [Olivia Khoury](https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe) | [2BL](https://open.spotify.com/album/4E8hVwEh55usj2mIdawxzV) | 4:21 |
 | 47 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 |
@@ -60,17 +60,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 50 | [laulasmaa](https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [mirador](https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz) | 4:33 |
 | 51 | [Southern Star \(feat\. AURORA\)](https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Southern Star \(feat\. AURORA\)](https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj) | 5:04 |
 | 52 | [Cendres](https://open.spotify.com/track/4yLkTYwLbvvqm6p4stPKz1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Sous\-bois](https://open.spotify.com/album/53kSoH8auDnrL91XJsWXiC) | 4:02 |
-| 53 | [Ensorcelée](https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Ensorcelée](https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i) | 2:43 |
-| 54 | [Frisbee & marmelade](https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 3:24 |
-| 55 | [The Wandering](https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [The Wandering](https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW) | 3:20 |
+| 53 | [Frisbee & marmelade](https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 3:24 |
+| 54 | [The Wandering](https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [The Wandering](https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW) | 3:20 |
+| 55 | [Ensorcelée](https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Ensorcelée](https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i) | 2:43 |
 | 56 | [Unlike Anything](https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 2:46 |
 | 57 | [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 |
 | 58 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 |
 | 59 | [Pain](https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain](https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y) | 4:02 |
-| 60 | [Eldorado \- Acoustique](https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf) | [Fred Dionne](https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF), [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [Eldorado \(Acoustique\)](https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB) | 3:17 |
+| 60 | [New Mountain](https://open.spotify.com/track/1Uxbm2Z7Llk256Cp2VObPu) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Alas Time Has Passed](https://open.spotify.com/album/1OMYfkr6hkkGjAltOPGVdS) | 3:17 |
 | 61 | [Tu reviendras](https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Tu reviendras](https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw) | 2:14 |
-| 62 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 |
-| 63 | [New Mountain](https://open.spotify.com/track/1Uxbm2Z7Llk256Cp2VObPu) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Alas Time Has Passed](https://open.spotify.com/album/1OMYfkr6hkkGjAltOPGVdS) | 3:17 |
+| 62 | [Eldorado \- Acoustique](https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf) | [Fred Dionne](https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF), [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [Eldorado \(Acoustique\)](https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB) | 3:17 |
+| 63 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 |
 | 64 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 |
 | 65 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 |
 | 66 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m) | 3:42 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 91 | [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 |
 | 92 | [Une version améliorée de la tristesse](https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Une Version Améliorée De La Tristesse](https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr) | 3:55 |
 | 93 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 |
-| 94 | [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 |
+| 94 | [Gros\-bec \- mstr 01](https://open.spotify.com/track/0asNSH2zo5l6pdRqI7FMcW) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Gros\-bec \- mstr 01](https://open.spotify.com/album/5sPK5Uxwu8x5WpCgAiH0ED) | 3:38 |
 | 95 | [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 |
-| 96 | [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 |
-| 97 | [Surface Tension](https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Surface Tension](https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo) | 2:49 |
+| 96 | [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 |
+| 97 | [Quand je pleure, je suis content](https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Quand je pleure, je suis content](https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc) | 3:37 |
 | 98 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 |
-| 99 | [Gros\-bec \- mstr 01](https://open.spotify.com/track/0asNSH2zo5l6pdRqI7FMcW) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Gros\-bec \- mstr 01](https://open.spotify.com/album/5sPK5Uxwu8x5WpCgAiH0ED) | 3:38 |
+| 99 | [Surface Tension](https://open.spotify.com/track/1VQhNfefgdwjT9VgMoiWp2) | [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [Surface Tension](https://open.spotify.com/album/7AOjAN9K28XgxhQaJBgvGo) | 2:49 |
 | 100 | [Solitudes](https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Solitudes](https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi) | 4:08 |
 
-Snapshot ID: `AAAAAPYk+A/b281e9eOIzvvVukBuyqUf`
+Snapshot ID: `AAAAAGUyc0R4kAQy9DvVkeJd1EQwMAoX`

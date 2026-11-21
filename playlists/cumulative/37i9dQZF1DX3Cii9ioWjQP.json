@@ -2265,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "latte",
+        "url": "https://open.spotify.com/album/183DHEvkZ48VupDyfe34Lh"
+      },
+      "artists": [
+        {
+          "name": "SAFEHSE",
+          "url": "https://open.spotify.com/artist/0PCaA1FHplkJSy8fK7oilK"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172596,
+      "name": "latte",
+      "url": "https://open.spotify.com/track/4oj7zMeJg5jLTtzTJzj6wG"
+    },
+    {
+      "album": {
         "name": "Oscillations",
         "url": "https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv"
       },
@@ -3478,7 +3496,7 @@
           "url": "https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2"
         },
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
@@ -4508,7 +4526,7 @@
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],

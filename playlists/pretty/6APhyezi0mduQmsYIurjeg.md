@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 631 songs - 1 day 14 hr 14 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 634 songs - 1 day 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -639,5 +639,8 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 629 | [Non sono la tua bambola](https://open.spotify.com/track/3MigGr0K9NsWp9v9SBN3nQ) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [Non sono la tua bambola](https://open.spotify.com/album/2MLgasDNDJyWMghnTaTwPk) | 2:43 |
 | 630 | [Carne de escenario](https://open.spotify.com/track/22rfs5GyNX9gU3TepMrnbZ) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 2:58 |
 | 631 | [Peço pra Chover](https://open.spotify.com/track/5ACQIZYeHktPw6Ku3ADuxq) | [Extremo](https://open.spotify.com/artist/74gWV17FGVbKqX4lpBHoOH) | [Peço pra Chover](https://open.spotify.com/album/7LAwKYI0oovD6uiO4O2z5X) | 3:45 |
+| 632 | [Si Hago Todo Mal](https://open.spotify.com/track/4eL6x2Gtx6SK2dtUrWULFe) | [Señal Débil o Inexistente](https://open.spotify.com/artist/0AHivSTCsGgtBvVi34uO0A) | [Si Hago Todo Mal](https://open.spotify.com/album/3uqellZFKrxilOPoAhYH4r) | 2:29 |
+| 633 | [HardTimesTimesTimes](https://open.spotify.com/track/2RtACPtJIOptw2m7nsU6De) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [HardTimesTimesTimes](https://open.spotify.com/album/7d9PFJkDJAm2pXD6VWbuen) | 3:04 |
+| 634 | [Codinome Mulher](https://open.spotify.com/track/6LqCTbmQwISfs9h2eKEdo4) | [banda plano b](https://open.spotify.com/artist/71Ej1tQMWH7QQNbntcQpUY) | [Codinome Mulher](https://open.spotify.com/album/2xf7snMHcLBSiE6LOQJXza) | 3:24 |
 
-Snapshot ID: `AAADDS+PvcHHlhYe41SqB8GGldHTLuei`
+Snapshot ID: `AAADEG2SfXVpx5OBGOMXA1MLY7sjuiM0`

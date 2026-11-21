@@ -2259,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "The Best of the Worst of Times",
+        "url": "https://open.spotify.com/album/78IWfjYobSvYfb2zQDXS91"
+      },
+      "artists": [
+        {
+          "name": "Paige Su",
+          "url": "https://open.spotify.com/artist/6HiaU2gO4L3ATUDpmhdh9H"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263640,
+      "name": "Losing and Finding",
+      "url": "https://open.spotify.com/track/27GJVVOkFEWLOAwgGYT0no"
+    },
+    {
+      "album": {
         "name": "To Hebe",
         "url": "https://open.spotify.com/album/5kQpJhfXQhkksNmzaXH1nR"
       },
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 182205,
       "name": "QQ",
       "url": "https://open.spotify.com/track/66Y5wGE5AtMwQ5fGPETVVS"
@@ -4768,7 +4786,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 240433,
       "name": "\u4e0d\u662f\u670b\u53cb\u7684\u670b\u53cb",
       "url": "https://open.spotify.com/track/1TvfQuwyYmdphgTjHg5rHy"
@@ -8308,6 +8326,24 @@
       "duration_ms": 249250,
       "name": "\u5927\u7720",
       "url": "https://open.spotify.com/track/68SuTP4bGogS8UK6cgemIA"
+    },
+    {
+      "album": {
+        "name": "\u8981\u53bb\u4ec0\u9ebc\u5730\u65b9",
+        "url": "https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192393,
+      "name": "\u5927\u8239",
+      "url": "https://open.spotify.com/track/5zpWHISV6aIIuUaYqSoAS8"
     },
     {
       "album": {
@@ -12581,6 +12617,24 @@
     },
     {
       "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/26OVUZNwcnGIudqCmkkS3c"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198139,
+      "name": "\u6211\u7684\u8c93\u6703\u5f8c\u7a7a\u7ffb",
+      "url": "https://open.spotify.com/track/2t7Ki40DOY8YG38SEeD4xt"
+    },
+    {
+      "album": {
         "name": "\u6211\u77e5\u9053\u4f60\u4e5f\u4e0d\u662f\u90a3\u9ebc\u5feb\u6a02",
         "url": "https://open.spotify.com/album/7r1vUFrQLCu17TVppUiXmr"
       },
@@ -15184,7 +15238,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 199000,
       "name": "\u6e1b\u50b7",
       "url": "https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu"
@@ -15887,6 +15941,24 @@
     },
     {
       "album": {
+        "name": "\u7389\u4ed4\u7684\u5fc3 (\u300a\u518d\u898b1987\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/6uS7JEivGl0fnitPAhwMCj"
+      },
+      "artists": [
+        {
+          "name": "Enno Cheng",
+          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211263,
+      "name": "\u7389\u4ed4\u7684\u5fc3 - \u300a\u518d\u898b1987\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/0dXDcJ5Pf4vQIo1ekuLttP"
+    },
+    {
+      "album": {
         "name": "\u738b\u724c",
         "url": "https://open.spotify.com/album/6q0eo3kiAkwCswMqbO80PY"
       },
@@ -16572,7 +16644,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 220722,
       "name": "\u773c\u6dda\u4e0d\u807d\u8a71",
       "url": "https://open.spotify.com/track/1y8le3vnhE4AR3khdCc7Ng"
@@ -17550,7 +17622,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 276253,
       "name": "\u7e5e\u8def",
       "url": "https://open.spotify.com/track/38RcCZ3geLYeYMzxTF1tpg"
@@ -17766,7 +17838,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 296900,
       "name": "\u81ea\u7531\u7684\u4f60",
       "url": "https://open.spotify.com/track/2a3CGolEag3y3weurGvkLV"
@@ -19062,7 +19134,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 150110,
       "name": "\u8d77\u59cb\u756b\u9762",
       "url": "https://open.spotify.com/track/7mL7mAq5QpG2yEAKqwsxe9"
@@ -20442,7 +20514,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 232500,
       "name": "\u966a\u4f60\u5230\u9019",
       "url": "https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt"
@@ -20910,7 +20982,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 212851,
       "name": "\u9918\u984d\u4e0d\u8db3",
       "url": "https://open.spotify.com/track/4rYfpwNnsm12z2JFOqHYsJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 Will in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,822 likes - 86 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,809 likes - 86 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 2 | [Vita da adulti](https://open.spotify.com/track/14c2UO4kudqpUxvDIbP8Ro) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Vita da adulti](https://open.spotify.com/album/4SED6aKzCAhtVIyswgG4ia) | 3:33 |
 | 3 | [da domani \(feat\. Alfa\)](https://open.spotify.com/track/6LxK7gHUo3z4tG5Lm9QV4Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [TUTTO BENE GRAZIE](https://open.spotify.com/album/2epZi9msVLcyAaoVVzexzv) | 2:50 |
 | 4 | [DUE SETTIMANE](https://open.spotify.com/track/5No1FtxyDFpuvroVqIOhjK) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [DUE SETTIMANE](https://open.spotify.com/album/1K9zQt6GJPwwY885MqBhHX) | 3:37 |
-| 5 | [Moonlight](https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:13 |
+| 5 | [Moonlight \(feat\. Tony Boy\)](https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:13 |
 | 6 | [Senza Tregua](https://open.spotify.com/track/4Puo8pyv152VIsyFrkT0pq) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Senza Tregua](https://open.spotify.com/album/2OIyM7cAW9NwO0RiJg3bDy) | 2:24 |
 | 7 | [BUONANOTTE ANCHE STANOTTE](https://open.spotify.com/track/05cxuAZUr1KgLBP2wL2S6l) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BUONANOTTE ANCHE STANOTTE](https://open.spotify.com/album/2F8WdwMPcayDvddkNLKaeI) | 3:30 |
 | 8 | [Casa Mia / Casa Tua \(con Tredici Pietro\)](https://open.spotify.com/track/2J7LXXv5CfAZpDApmyJLfz) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:30 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 11 | [BOMBE](https://open.spotify.com/track/6pnVB2KOEjuJi7Umwef0tj) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BOMBE](https://open.spotify.com/album/2IFxsGqWZlkOY53q11vDpt) | 2:40 |
 | 12 | [BLU](https://open.spotify.com/track/2vQmvvGDjLy8qNzzOE2drg) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [BLU](https://open.spotify.com/album/2ktDbWsnkegDPBQLPJO9H4) | 2:41 |
 | 13 | [KINK X IL PINK](https://open.spotify.com/track/6TlY3Ck6CEWUehVfbr8Lfn) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [KINK X IL PINK](https://open.spotify.com/album/5ZrXtEhZosiraU256PD9vC) | 2:27 |
-| 14 | [Comethe](https://open.spotify.com/track/5bvSqGqxO5IfvJ08nosESC) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:40 |
+| 14 | [Comethe \(feat\. Pyrex\)](https://open.spotify.com/track/5bvSqGqxO5IfvJ08nosESC) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:40 |
 | 15 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
 | 16 | [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 |
 | 17 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 85 | [AMORE MIO](https://open.spotify.com/track/1UEujcSheeWse1H3W1NEpD) | [Il Fubbe](https://open.spotify.com/artist/6eULbvhzeUO89wEE3fjvLM) | [AMORE MIO](https://open.spotify.com/album/2Fa4l02Y9wQ8zehCOzTyGG) | 2:32 |
 | 86 | [Bel venerdì](https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione \(Deluxe\)](https://open.spotify.com/album/084PMCGrwjTtiUBD8ITXbg) | 3:11 |
 
-Snapshot ID: `AAAAADEt4v3w8M2ASDFWZ1FdcXYY3AwX`
+Snapshot ID: `AAAAAJYK/fr0NWD4YkhaiwwWQfgPQFew`

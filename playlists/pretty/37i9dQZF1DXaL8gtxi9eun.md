@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: سميرة سعيد
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,888 likes - 93 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,932 likes - 93 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 3 | [عوضني](https://open.spotify.com/track/7hNxZo11JAbBkPIAckHvi0) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [عوضني](https://open.spotify.com/album/6AYDZH56ciWzWINvjQ0NWL) | 3:24 |
 | 4 | [Wahashtny](https://open.spotify.com/track/4EprVgXSWSaJUVCeZ0IbgV) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1) | [Wahashtny](https://open.spotify.com/album/4QTbkCUc1PBFz4vWqOG1lc) | 3:14 |
 | 5 | [Bakallem Nafsi](https://open.spotify.com/track/4T72Cl494pSlvShMDlis8z) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Bakallem Nafsi](https://open.spotify.com/album/1yiGfrFYYLRrZhFETZUK74) | 2:29 |
-| 6 | [Zaalni](https://open.spotify.com/track/0L18CVx8gtw0yNZ3cHjGn9) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Zaalni](https://open.spotify.com/album/4bnAgjJDP8Y8C9Az4q7Vqa) | 3:28 |
+| 6 | [زعلني](https://open.spotify.com/track/0L18CVx8gtw0yNZ3cHjGn9) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [زعلني](https://open.spotify.com/album/4bnAgjJDP8Y8C9Az4q7Vqa) | 3:28 |
 | 7 | [Sahla El Aziya](https://open.spotify.com/track/0NxqImDsfITWJvmjCJ86ur) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Elissar](https://open.spotify.com/album/57L8zq0yxYJYgocJX7Y3kh) | 4:05 |
 | 8 | [El Nasseb](https://open.spotify.com/track/1UODPCsyI5VODEF7OQFssM) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [El Nasseb](https://open.spotify.com/album/446jBWjI5udkOigAH1pepE) | 3:55 |
 | 9 | [Sa’at](https://open.spotify.com/track/1wVco5kefL9WdGQpeOBUyW) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Markeba II](https://open.spotify.com/album/5jK8KULEO5g2m2XmU0JIQg) | 3:04 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 92 | [Aalo Anni Eih](https://open.spotify.com/track/5wWNCy79noqVF1Q7bYGme2) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Aalo Anni Eih](https://open.spotify.com/album/1FgIBotuC2fN2XktxG2LW2) | 5:00 |
 | 93 | [Wasalt Ma3ak](https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE SORROWS ALBUM](https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN) | 4:42 |
 
-Snapshot ID: `AAAAALFjmrtGRdDs0lmXVFI04NtDxd3k`
+Snapshot ID: `AAAAALcJh5ovR/TFsRS6+x/U6TYlte9S`

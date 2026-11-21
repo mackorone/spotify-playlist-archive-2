@@ -1,13 +1,37 @@
 {
   "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, featuring Eli Brown",
-  "num_followers": 1804273,
+  "num_followers": 1804082,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5KMXsHh82gIhYWpa5fJZmV0x+i",
+  "snapshot_id": "AAAAALx1hsvPcJT9iW4Qq9BSLb60/T1/",
   "tracks": [
+    {
+      "added_at": "2026-11-20 20:08:24",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu"
+      },
+      "artists": [
+        {
+          "name": "Jaden Thompson",
+          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "duration_ms": 202559,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH"
+    },
     {
       "added_at": "2026-11-13 05:00:32",
       "album": {
@@ -23,6 +47,42 @@
       "duration_ms": 172421,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/1d9Cd2ZDTo1YWrWrjzoFCc"
+    },
+    {
+      "added_at": "2026-11-20 20:08:24",
+      "album": {
+        "name": "Lost (In All The Lights)",
+        "url": "https://open.spotify.com/album/354PlL7RC6QKmolEblejz6"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Lost (In All The Lights)",
+      "url": "https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv"
+    },
+    {
+      "added_at": "2026-11-20 20:08:24",
+      "album": {
+        "name": "Keep Me Up",
+        "url": "https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+        }
+      ],
+      "duration_ms": 231562,
+      "name": "Keep Me Up",
+      "url": "https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv"
     },
     {
       "added_at": "2026-11-13 05:00:32",
@@ -45,24 +105,56 @@
       "url": "https://open.spotify.com/track/1Uda389AsyXdaWZx9GdBi8"
     },
     {
-      "added_at": "2026-10-23 04:00:54",
+      "added_at": "2026-11-20 20:08:24",
       "album": {
-        "name": "Skin To Skin",
-        "url": "https://open.spotify.com/album/1KgKToGhVrqfJPifL98Agi"
+        "name": "Feel The Power",
+        "url": "https://open.spotify.com/album/4K7tlWAzJ5HlwwJ6ytoXkU"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
         }
       ],
-      "duration_ms": 192700,
-      "name": "Skin To Skin",
-      "url": "https://open.spotify.com/track/0Jx2lddkneaMPRH650RNMO"
+      "duration_ms": 170909,
+      "name": "Feel The Power",
+      "url": "https://open.spotify.com/track/15H4AkVcMFNG5CFTjxwIB2"
+    },
+    {
+      "added_at": "2026-11-20 20:08:24",
+      "album": {
+        "name": "Firecracker",
+        "url": "https://open.spotify.com/album/5qUVzw6i39iP4n7dyoBd8E"
+      },
+      "artists": [
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "duration_ms": 167876,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/29PW5e6DTW1urv1i9PQItw"
+    },
+    {
+      "added_at": "2026-11-13 05:00:32",
+      "album": {
+        "name": "Last All Night",
+        "url": "https://open.spotify.com/album/7D9gg9eLqCOGCvsyvo4kLA"
+      },
+      "artists": [
+        {
+          "name": "Juicy Romance",
+          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
+        },
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 209885,
+      "name": "Last All Night",
+      "url": "https://open.spotify.com/track/1iUNHk3lN8EZMIhcB68uAc"
     },
     {
       "added_at": "2026-11-13 05:00:32",
@@ -103,42 +195,6 @@
       "duration_ms": 203105,
       "name": "PEOPLE IN THE PLACE",
       "url": "https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"
-    },
-    {
-      "added_at": "2026-11-06 05:01:47",
-      "album": {
-        "name": "SWALLOW!",
-        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 185330,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og"
-    },
-    {
-      "added_at": "2026-11-13 05:00:32",
-      "album": {
-        "name": "Escapism Vol. II",
-        "url": "https://open.spotify.com/album/4aqUvBOO4ieaXIuXDrvAW2"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Eternity (feat. Emi Grace)",
-      "url": "https://open.spotify.com/track/6CwEB6vhbFxiX5JaOzpWM5"
     },
     {
       "added_at": "2026-10-23 04:00:54",
@@ -201,6 +257,62 @@
       "url": "https://open.spotify.com/track/5Rt6sNo8sARFYCUQSgflPm"
     },
     {
+      "added_at": "2026-11-06 05:01:47",
+      "album": {
+        "name": "SWALLOW!",
+        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 185330,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og"
+    },
+    {
+      "added_at": "2026-10-23 04:00:54",
+      "album": {
+        "name": "Skin To Skin",
+        "url": "https://open.spotify.com/album/1KgKToGhVrqfJPifL98Agi"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 192700,
+      "name": "Skin To Skin",
+      "url": "https://open.spotify.com/track/0Jx2lddkneaMPRH650RNMO"
+    },
+    {
+      "added_at": "2026-11-13 05:00:32",
+      "album": {
+        "name": "Escapism Vol. II",
+        "url": "https://open.spotify.com/album/4aqUvBOO4ieaXIuXDrvAW2"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "Eternity (feat. Emi Grace)",
+      "url": "https://open.spotify.com/track/6CwEB6vhbFxiX5JaOzpWM5"
+    },
+    {
       "added_at": "2026-10-30 04:00:58",
       "album": {
         "name": "Pretty Girl",
@@ -219,26 +331,6 @@
       "duration_ms": 164538,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/3pDUobnmt1ZOQfSd7dbEOq"
-    },
-    {
-      "added_at": "2026-11-13 05:00:32",
-      "album": {
-        "name": "Last All Night",
-        "url": "https://open.spotify.com/album/7D9gg9eLqCOGCvsyvo4kLA"
-      },
-      "artists": [
-        {
-          "name": "Juicy Romance",
-          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
-        },
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 209885,
-      "name": "Last All Night",
-      "url": "https://open.spotify.com/track/1iUNHk3lN8EZMIhcB68uAc"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -477,26 +569,6 @@
       "url": "https://open.spotify.com/track/3bhGt6n1v1htyY1pXDA4cz"
     },
     {
-      "added_at": "2026-10-30 04:00:58",
-      "album": {
-        "name": "In The Night Again",
-        "url": "https://open.spotify.com/album/4WzFwh3MS7Jcrdf5hwlGcc"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Choice (feat. Kareen Lomax)",
-      "url": "https://open.spotify.com/track/2NP35GAj6usPBqYRV9fA3L"
-    },
-    {
       "added_at": "2026-11-06 05:01:47",
       "album": {
         "name": "Gimme A Beat",
@@ -729,6 +801,42 @@
       "url": "https://open.spotify.com/track/04Vr0uQLZ9pQbCRhXZP0db"
     },
     {
+      "added_at": "2026-11-20 20:08:24",
+      "album": {
+        "name": "Mortified",
+        "url": "https://open.spotify.com/album/6vMtIBwdBOwkFxbBmkuIYr"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Mortified",
+      "url": "https://open.spotify.com/track/5PgfieaNe0wl09xqymacqw"
+    },
+    {
+      "added_at": "2026-11-20 20:08:24",
+      "album": {
+        "name": "DO NOT TOUCH",
+        "url": "https://open.spotify.com/album/4EXphG82x55XoJf36KJSpW"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 206222,
+      "name": "DO NOT TOUCH",
+      "url": "https://open.spotify.com/track/0fj7LbbOaTu22hoemvDFSc"
+    },
+    {
       "added_at": "2026-11-13 05:00:32",
       "album": {
         "name": "Modern Dystopia",
@@ -871,26 +979,6 @@
       "duration_ms": 167746,
       "name": "Fake or true",
       "url": "https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"
-    },
-    {
-      "added_at": "2026-09-18 04:01:48",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
-      },
-      "artists": [
-        {
-          "name": "Joseph Capriati",
-          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
-        },
-        {
-          "name": "GENNARO",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
     },
     {
       "added_at": "2026-10-23 04:00:54",
@@ -1077,26 +1165,6 @@
       "url": "https://open.spotify.com/track/0FeVfJULLFzARZb1TvZroq"
     },
     {
-      "added_at": "2026-09-25 04:03:10",
-      "album": {
-        "name": "Keep Workin'",
-        "url": "https://open.spotify.com/album/4JJKocCTtLWUa2DjUHXZ0e"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
-        }
-      ],
-      "duration_ms": 210236,
-      "name": "Keep Workin'",
-      "url": "https://open.spotify.com/track/5NJe4tTqytnpRDEZAEzZzw"
-    },
-    {
       "added_at": "2026-10-09 04:01:50",
       "album": {
         "name": "We Could Be Lost",
@@ -1169,26 +1237,6 @@
       "url": "https://open.spotify.com/track/5NGzOvAnSbEjEhxd5WIRW7"
     },
     {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
-        "name": "Diamanti",
-        "url": "https://open.spotify.com/album/41vTySQadkMdvNU9SIcqZe"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        },
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 173483,
-      "name": "Diamanti",
-      "url": "https://open.spotify.com/track/6zfxjkpJZNloKSCE7EfB50"
-    },
-    {
       "added_at": "2026-11-06 05:01:47",
       "album": {
         "name": "7LLVSION",
@@ -1225,26 +1273,6 @@
       "url": "https://open.spotify.com/track/34kzZyRcTKCDql0or0qKLS"
     },
     {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/6eOzJY275ZwFX1nDu4H16m"
-      },
-      "artists": [
-        {
-          "name": "Memblem",
-          "url": "https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI"
-        },
-        {
-          "name": "seantommy",
-          "url": "https://open.spotify.com/artist/5jDDKbkXcoXJsowZyVIKHB"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Careless",
-      "url": "https://open.spotify.com/track/0pdR208BmbOMX1ZBNmmaHy"
-    },
-    {
       "added_at": "2026-09-11 04:01:31",
       "album": {
         "name": "Music Don't Stop",
@@ -1263,26 +1291,6 @@
       "duration_ms": 215500,
       "name": "Music Don't Stop",
       "url": "https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"
-    },
-    {
-      "added_at": "2026-10-23 04:00:54",
-      "album": {
-        "name": "CULT CHROME II",
-        "url": "https://open.spotify.com/album/2fMzDNj8s4y3AgemvaKtsp"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        },
-        {
-          "name": "Basstrick",
-          "url": "https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta"
-        }
-      ],
-      "duration_ms": 184551,
-      "name": "CHAINSAW",
-      "url": "https://open.spotify.com/track/1ydsW0MBvHFnYHZkPABatN"
     },
     {
       "added_at": "2026-10-02 04:03:10",
@@ -1459,22 +1467,6 @@
       "duration_ms": 156792,
       "name": "How Ya Feelin\u2019",
       "url": "https://open.spotify.com/track/6HTDX4qgjY6usYjtx18eWf"
-    },
-    {
-      "added_at": "2026-09-18 04:01:48",
-      "album": {
-        "name": "The Arrival",
-        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
-      },
-      "artists": [
-        {
-          "name": "KDAY",
-          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
     }
   ],
   "unique_name": "Dance Rising",

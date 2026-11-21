@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! KURT en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Plastilina Mosh en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Arjona ten\u00eda raz\u00f3n",
+        "url": "https://open.spotify.com/album/41L3ZOUorI2Yp56MNSZiic"
+      },
+      "artists": [
+        {
+          "name": "Pol",
+          "url": "https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242898,
+      "name": "Arjona ten\u00eda raz\u00f3n",
+      "url": "https://open.spotify.com/track/1VQhliz9HXeM9dS0rz0wHX"
+    },
+    {
+      "album": {
         "name": "Querido\u2026",
         "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 246183,
       "name": "Brillante Sobre el Mic - EADDA9223",
       "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
@@ -2809,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/7gwvH4kCkjUO0pS16Iqkfb"
+      },
+      "artists": [
+        {
+          "name": "Est\u00e9reo Waves",
+          "url": "https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230944,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/73kXFm32hBAmAGRodgXull"
+    },
+    {
+      "album": {
         "name": "JODIDO",
         "url": "https://open.spotify.com/album/4g7RKd7BXM8bZ0hG1oDkci"
       },
@@ -3732,7 +3768,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 212960,
       "name": "Mentiras Arriesgadas",
       "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
@@ -3798,6 +3834,28 @@
       "duration_ms": 236146,
       "name": "Miami 1990",
       "url": "https://open.spotify.com/track/7rhp1dmQkCmDlJBWmmeApS"
+    },
+    {
+      "album": {
+        "name": "Miau Miau No. 4",
+        "url": "https://open.spotify.com/album/25PLrS1HhYJK9axXeBzwT6"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        },
+        {
+          "name": "Tom Rothrock",
+          "url": "https://open.spotify.com/artist/1oiDxi3lcwX7GS4dldq1GW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240191,
+      "name": "Miau Miau No. 4",
+      "url": "https://open.spotify.com/track/49VmS4Lr9lwsYgHGqu9CIi"
     },
     {
       "album": {
@@ -5300,10 +5358,32 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 267238,
       "name": "Quiero saber si es amor (feat. Joy)",
       "url": "https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv"
+    },
+    {
+      "album": {
+        "name": "Quiero un Camino (feat. Coti)",
+        "url": "https://open.spotify.com/album/33SjjNorN95BVca6fTlxeS"
+      },
+      "artists": [
+        {
+          "name": "Melon Diesel",
+          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241904,
+      "name": "Quiero un Camino (feat. Coti)",
+      "url": "https://open.spotify.com/track/4J8S9x6Iz5i75HFz2EH7la"
     },
     {
       "album": {
@@ -5336,7 +5416,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 179527,
       "name": "Quito",
       "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
@@ -5460,7 +5540,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 341600,
       "name": "Rayo de Luz",
       "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
@@ -5500,6 +5580,24 @@
       "duration_ms": 210425,
       "name": "Recuerdos Que Torturan",
       "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
+    },
+    {
+      "album": {
+        "name": "Reina de Mis Ruinas",
+        "url": "https://open.spotify.com/album/1spdlZlTmD0Ygr5HhlYqSv"
+      },
+      "artists": [
+        {
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Reina de Mis Ruinas",
+      "url": "https://open.spotify.com/track/42Lq9zTpYsKeLzS4JoYYF2"
     },
     {
       "album": {
@@ -5807,6 +5905,24 @@
     },
     {
       "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/0KI5SDNsuS65xTN6sEqlkT"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257842,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/7HpXxwDKjKAE05yilW2j4t"
+    },
+    {
+      "album": {
         "name": "Si Quieres Honestidad (Ni En Visto Me Dejaste...)",
         "url": "https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f"
       },
@@ -6036,7 +6152,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 223125,
       "name": "Sombra",
       "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"

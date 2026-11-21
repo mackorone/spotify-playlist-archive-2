@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 60 | [Crying In The Club](https://open.spotify.com/track/6ZCRYD7yL5zOHWDpuu0ZkG) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:58 |
 | 61 | [Näckrosbarn](https://open.spotify.com/track/1Fwpu97FQSk1Oi8itBPXMp) | [Dunali](https://open.spotify.com/artist/6dyRenxXqh7MVyrtQ4SOJM) | [Näckrosbarn](https://open.spotify.com/album/1UHtxlyBmk7MAkyqwZES4Y) | 2:39 |
 | 62 | [The End](https://open.spotify.com/track/64FhJfZJRhxdous0h5ycG4) | [Indi Star](https://open.spotify.com/artist/4SVyJmNEqIM2LEOpQeI1N8) | [eMotion Sick](https://open.spotify.com/album/2egqfVCmY9hC2zOMJipEXr) | 2:12 |
-| 63 | [SHARK baiT](https://open.spotify.com/track/5EeHNCGHkWSDeFXThp59Cl) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Tommy Parker](https://open.spotify.com/artist/1GSmDgjAARIKP0x1m4De6J) | [SHARK baiT](https://open.spotify.com/album/4XjXxxYLgl2AyVIYIB7lkX) | 2:50 |
+| 63 | [SHARK baiT](https://open.spotify.com/track/7gXUOVumoVtAmXlwU5BLHQ) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [I'M A ZOOKEEPER NOW](https://open.spotify.com/album/0n8NKs4R0nbhAJJKmeGmoS) | 2:50 |
 | 64 | [Applause](https://open.spotify.com/track/4r6XgerXxg41GLq2cvGD6N) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Applause](https://open.spotify.com/album/7mYlLHYVsgjlrAlozK7cwu) | 1:52 |
 | 65 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 |
 | 66 | [window shopping](https://open.spotify.com/track/5c8drrCqzfU5Yxmvw7gd6p) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [window shopping](https://open.spotify.com/album/6iEIW2JFSqrotlWS9Rlzen) | 3:14 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 70 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 71 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AciH/gAAAAAwCH/LP7PiO44felDEANHQ`
+Snapshot ID: `AciNigAAAAC6k1HZMbGt5pvFftZ6lNEy`

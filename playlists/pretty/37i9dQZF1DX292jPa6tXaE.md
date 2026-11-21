@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: CheemaBeatz
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,428 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,468 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 32 | [Black Berry](https://open.spotify.com/track/5XyWBTmHNcsG8DyHYpUuUu) | [Waras](https://open.spotify.com/artist/6JBbWsnxViz8AY8MGJqcIw), [The Sam](https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E) | [Black Berry](https://open.spotify.com/album/4kXR0Xg0IRgf7P3E2iHNfp) | 3:07 |
 | 33 | [Without You](https://open.spotify.com/track/3hKdh56BMDEsjuLYeVvk4D) | [Raizada .](https://open.spotify.com/artist/2ttRJRnzuhLaFin3p67Bm0), [Honey Ramana](https://open.spotify.com/artist/3Z8zgzz1XpryKSFCZW3FCO) | [Without You](https://open.spotify.com/album/2ICWygGwBmQhcIWZ0tt87A) | 2:15 |
 | 34 | [Gallan Chup Kitiyaan](https://open.spotify.com/track/6Lo8kaETh2SXfS9PxF6QAz) | [Aagaaz](https://open.spotify.com/artist/6RAPybtf6Dt47PXJ8IrWW7) | [Gallan Chup Kitiyaan](https://open.spotify.com/album/69jGB2cY0OFnStXzBHZRrr) | 2:38 |
-| 35 | [Supne Sakhne](https://open.spotify.com/track/47joNBFepgzMOXGTX9mcwz) | [Ribikaa](https://open.spotify.com/artist/0t3swoPHyVKlzl9NvEBCYV), [Jott Jotz](https://open.spotify.com/artist/1zvV1ytXP7mCnHt7y7UQA7), [Deep Kaur Vehniwal](https://open.spotify.com/artist/21z0HW17sTk4nhBdVKyZ7X) | [R For Ribikaa](https://open.spotify.com/album/5amOfk7uCCPx5MVAU330et) | 3:17 |
+| 35 | [Supne Sakhne](https://open.spotify.com/track/47joNBFepgzMOXGTX9mcwz) | [Deep Kaur Vehniwal](https://open.spotify.com/artist/21z0HW17sTk4nhBdVKyZ7X), [Ribikaa](https://open.spotify.com/artist/0t3swoPHyVKlzl9NvEBCYV), [Jott Jotz](https://open.spotify.com/artist/1zvV1ytXP7mCnHt7y7UQA7) | [R For Ribikaa](https://open.spotify.com/album/5amOfk7uCCPx5MVAU330et) | 3:17 |
 | 36 | [Sohni Mahiwal](https://open.spotify.com/track/7ME51Ahvm3aSjHzPuicfnh) | [Turban Beats](https://open.spotify.com/artist/6Ddk8RlrCsHSGe2e4qafZE), [Gammy](https://open.spotify.com/artist/7xjjktWTKRlzBcu176C29D) | [Sohni Mahiwal](https://open.spotify.com/album/2xxl55tw4aNxLW30lHqhSy) | 2:56 |
 | 37 | [Jind](https://open.spotify.com/track/3i29Ztb6qBEykDZJ9Rxkcy) | [Param Benning](https://open.spotify.com/artist/15f8GUVa7R8SrhImceV5GU), [Trxppy](https://open.spotify.com/artist/69klT1vBrFrVOy4zPBYjwJ), [Joban](https://open.spotify.com/artist/4JpOTIA5lgImAAbkkk301X) | [Jind](https://open.spotify.com/album/0VrXzKTLhh5NXUTad7LYsW) | 3:00 |
 | 38 | [Tere Vaare](https://open.spotify.com/track/7MohQbccmCfWkfC5Zac6Y3) | [Naman Preet](https://open.spotify.com/artist/6ft6ZyfZiVgLkflF8BrFVL) | [Tere Vaare](https://open.spotify.com/album/7D0CpIzubOcarTNYJm2ocg) | 2:35 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 48 | [Trust](https://open.spotify.com/track/4bGsVhd6CodNmlzAjiLSw3) | [KayVee Universe](https://open.spotify.com/artist/6Lxjw9kRoecQhVdJbznpVK), [Mohabbat](https://open.spotify.com/artist/760BxfXBEcLlBNzOi8XHrL) | [Trust](https://open.spotify.com/album/1TF8M5x9e9z8rOehFEjyx7) | 2:45 |
 | 49 | [Jindiye](https://open.spotify.com/track/2gjPGsQ74xkHVUnvHBuLJi) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Ammy Muzic](https://open.spotify.com/artist/5WqWEezIlvPxUGkMQ7z5Wz) | [Jindiye](https://open.spotify.com/album/0xkFmUdZ6jBC98r9ZeY7A9) | 2:51 |
 
-Snapshot ID: `AAAAAFoNFXUB+4T50U8AQNfqlTOirw3r`
+Snapshot ID: `AAAAALrnE4dkBSr9c2UvMuAIVCVFKzH1`

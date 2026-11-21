@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 537285,
+  "num_followers": 537326,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsyRWVOwkv4UjHdilHMuyt/dg+V",
+  "snapshot_id": "AAAAAGYikPZu+r3xSbHE5EESpQgyiRri",
   "tracks": [
     {
       "added_at": "2025-03-07 06:00:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Pupy y Los que Son Son Best Of",
-        "url": "https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi"
-      },
-      "artists": [
-        {
-          "name": "Pupy y Los Que Son Son",
-          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
-        }
-      ],
-      "duration_ms": 341394,
-      "name": "La borrachera",
-      "url": "https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Mi M\u00fasica",
         "url": "https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 368850,
       "name": "Mi M\u00fasica",
       "url": "https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Pupy y Los que Son Son Best Of",
+        "url": "https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi"
+      },
+      "artists": [
+        {
+          "name": "Pupy y Los Que Son Son",
+          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
+        }
+      ],
+      "duration_ms": 341394,
+      "name": "La borrachera",
+      "url": "https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY"
     }
   ],
   "unique_name": "Salsa Cubana",

@@ -2,7 +2,7 @@
 
 ### [New Music Friday France](https://open.spotify.com/playlist/37i9dQZF1DX742okrrpwah)
 
-> Adèle Castillon, Jul x J Balvin, Dua Lipa, Nihno et Pomme au top des nouveautés de la semaine !
+> Adèle Castillon, Jul x J Balvin, Dua Lipa, Ninho et Pomme au top des nouveautés de la semaine !
 
 11,889 songs - 25 day 15 hr 30 min
 
@@ -354,7 +354,7 @@
 | [Africallez](https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Africallez](https://open.spotify.com/album/4MIChWzHUeszfV5CQV4Bwp) | 2:58 | 2025-12-18 | 2026-01-02 |
 | [African Baddie](https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [African Baddie](https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96) | 2:37 | 2026-10-29 | 2026-11-06 |
 | [AFRICAN GIRLS](https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [AFRICAN GIRLS](https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc) | 2:03 | 2026-05-21 | 2026-05-29 |
-| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-19 |  |
+| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-19 |  |
 | [African Soldier](https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [African Soldier](https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan) | 2:46 | 2026-03-12 | 2026-03-20 |
 | [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 | 2026-07-16 | 2026-07-24 |
 | [after all](https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [after all](https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D) | 3:13 | 2026-06-18 | 2026-06-26 |
@@ -3971,7 +3971,7 @@
 | [Go All Night](https://open.spotify.com/track/5RPQC6JShEb1zQKWL8LE7A) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Go All Night](https://open.spotify.com/album/2moq6frtYWurfi2bV261eP) | 3:10 | 2026-11-12 | 2026-11-20 |
 | [Go Bad Girl](https://open.spotify.com/track/1dKY1wHQwfJvhjOXPlYxzD) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Go Bad Girl](https://open.spotify.com/album/1NO4KM0OnLT1U6sju1V0DC) | 2:31 | 2026-11-12 | 2026-11-20 |
 | [Go Down](https://open.spotify.com/track/27HtGX09GJwSC4nt2EazyU) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Origin](https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h) | 2:27 | 2025-08-29 | 2025-09-05 |
-| [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:12 | 2026-11-19 |  |
+| [Go Easy](https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:11 | 2026-11-19 |  |
 | [Go For The Other Side](https://open.spotify.com/track/4i7ZRojYjzCNi2a3lpzfhs) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Go For The Other Side](https://open.spotify.com/album/47W7mP5qdbJuR7NAcgccgl) | 3:28 | 2026-10-22 | 2026-10-30 |
 | [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-14 | 2026-05-22 |
 | [Go Home With A Stranger](https://open.spotify.com/track/6bQGjCqJLedU9x6ZAmIKE8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Go Home With A Stranger](https://open.spotify.com/album/5CyZR88VZhWWTlTjlxGE8P) | 3:06 | 2026-03-19 | 2026-03-27 |

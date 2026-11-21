@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "GTA (Growth, Trust & Affection)",
+        "url": "https://open.spotify.com/album/5AmotIpxQ42TDzWYj1IIMR"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278759,
+      "name": "Best Of Both Worlds",
+      "url": "https://open.spotify.com/track/0ep1bQzqyWJNcIOvwVSxim"
+    },
+    {
+      "album": {
         "name": "Love Drain",
         "url": "https://open.spotify.com/album/0HGcgPhdIYu2BAiCd4gJZ4"
       },
@@ -3750,6 +3768,24 @@
       "duration_ms": 207566,
       "name": "Break the Chain",
       "url": "https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7"
+    },
+    {
+      "album": {
+        "name": "WHERE",
+        "url": "https://open.spotify.com/album/26uB4soPBKHN6BYkEEXYXs"
+      },
+      "artists": [
+        {
+          "name": "Serena Rae",
+          "url": "https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213622,
+      "name": "Breakfast in Belgium",
+      "url": "https://open.spotify.com/track/7qv5b3Sg2vzDacfy278gUb"
     },
     {
       "album": {

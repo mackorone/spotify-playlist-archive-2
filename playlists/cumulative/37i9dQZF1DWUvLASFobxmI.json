@@ -7655,6 +7655,32 @@
     },
     {
       "album": {
+        "name": "En La Sand\u00eda",
+        "url": "https://open.spotify.com/album/6GYiYhHSE15ELc2lumPjJd"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        },
+        {
+          "name": "Grupo Comando Hg",
+          "url": "https://open.spotify.com/artist/7rxGkxhpl6w9wmPvxlEFiX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149162,
+      "name": "En La Sand\u00eda",
+      "url": "https://open.spotify.com/track/6Q84T0vLrUdYtkaDwwTwA6"
+    },
+    {
+      "album": {
         "name": "En Mi Defensa",
         "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
       },
@@ -11038,32 +11064,6 @@
       "duration_ms": 178090,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/2qmUxCaT4RjLzaZSyTaWbW"
-    },
-    {
-      "album": {
-        "name": "La Sandia",
-        "url": "https://open.spotify.com/album/6GYiYhHSE15ELc2lumPjJd"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        },
-        {
-          "name": "Grupo Comando Hg",
-          "url": "https://open.spotify.com/artist/7rxGkxhpl6w9wmPvxlEFiX"
-        }
-      ],
-      "date_added": "2026-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149162,
-      "name": "La Sandia",
-      "url": "https://open.spotify.com/track/6Q84T0vLrUdYtkaDwwTwA6"
     },
     {
       "album": {

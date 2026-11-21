@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-1,347 songs - 4 day 17 hr 9 min
+1,348 songs - 4 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,7 +685,7 @@
 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 | 2022-09-02 | 2023-03-25 |
 | [Lose Control](https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3), [HYBRD](https://open.spotify.com/artist/379X6ZxgFs36f701RJwrhC), [Rawfox](https://open.spotify.com/artist/0fIbSfGT21N4THLOmBk9LT) | [Lose Control](https://open.spotify.com/album/3xHItwayho3oovFjYJzQtW) | 3:11 | 2026-02-19 | 2026-07-10 |
 | [Lose My Mind](https://open.spotify.com/track/2UnN0d2M6qDrycNDoYVK8D) | [Return Fall](https://open.spotify.com/artist/2cyxOYiCRIb8zwTfdLyTx2) | [Lose My Mind](https://open.spotify.com/album/4s0QkKVemLLai5UgrKvSa5) | 3:51 | 2024-09-27 | 2024-12-10 |
-| [Losing My Mind](https://open.spotify.com/track/4geV2DpX6uWP2oymqOIh6P) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Losing My Mind](https://open.spotify.com/album/2So5KksOczbeRumtJNYsC4) | 4:19 | 2026-06-11 |  |
+| [Losing My Mind](https://open.spotify.com/track/4geV2DpX6uWP2oymqOIh6P) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Losing My Mind](https://open.spotify.com/album/2So5KksOczbeRumtJNYsC4) | 4:19 | 2026-06-11 | 2026-11-21 |
 | [Lost](https://open.spotify.com/track/7sSq94cwwAZ7WHs2UTb0p5) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Lost](https://open.spotify.com/album/1ZApiaODz4vJMQhz3FZnJD) | 3:56 | 2023-11-10 | 2024-09-17 |
 | [Lost Mantra](https://open.spotify.com/track/6KfztRviGBaPUTWnlqphV0) | [MIRA MIRA](https://open.spotify.com/artist/5D0GfztMpGYTNbcN27pbGC) | [Lost Mantra](https://open.spotify.com/album/5ljjaHb3O0DdWvrcODolr6) | 3:20 | 2025-03-24 | 2025-05-30 |
 | [Love Story 2026](https://open.spotify.com/track/54ssUOSGqzmne03h6okAcx) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Love Story 2026](https://open.spotify.com/album/0SRXOytIcbFfrWfRzGclwc) | 3:47 | 2026-11-13 |  |
@@ -1124,6 +1124,7 @@
 | [Take It Down](https://open.spotify.com/track/4oGujfzpCA9H3JhkiLN7qF) | [Phoenix Movement](https://open.spotify.com/artist/7ffYTOTu3Z0t4a2A7515cL), [Bora Project](https://open.spotify.com/artist/05IGgn3jrbHJXcjRpK0q9Q) | [Take It Down](https://open.spotify.com/album/3WSOtNoj1vjPtGNG1UaWhJ) | 6:37 | 2025-08-21 | 2025-12-20 |
 | [Take Me Deeper \- Peak Mode Mix](https://open.spotify.com/track/3B8rjIGO4dlHGINh1Vq4c3) | [YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg), [Lautaro Gabioud](https://open.spotify.com/artist/6OtBwkQnX0lkJ6VmfCMuXP) | [Take Me Deeper](https://open.spotify.com/album/1spxglwyTP4Hizzigsn1yx) | 6:16 | 2026-11-19 |  |
 | [Take Me to Ecstasy](https://open.spotify.com/track/0ZRVGU4tml1miY4uwmDevN) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [Take Me to Ecstasy](https://open.spotify.com/album/7lSgVKdX8c07TZVTaffiNb) | 4:13 | 2026-10-23 |  |
+| [Take One Higher](https://open.spotify.com/track/1p5hflkpwkxYgbLRm9zWAg) | [Elli Acula](https://open.spotify.com/artist/4SttkjM3Nv9VUc7BNtJTQT) | [Take One Higher](https://open.spotify.com/album/5N1k9TEK3eapPDUgEFOYwK) | 4:24 | 2026-11-20 |  |
 | [Talk \- Wehbba Remix](https://open.spotify.com/track/4C5uTLeeH74iom5LMNsHHE) | [ADRIANNA](https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Talk \(Wehbba Remix\)](https://open.spotify.com/album/6msUlK7OMgugQwfG4nvybr) | 3:20 | 2026-10-15 |  |
 | [Taste of the Night](https://open.spotify.com/track/7yFAjyevf5SKh7bC8EfLHi) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl), [Kos:mo](https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr) | [Taste of the Night](https://open.spotify.com/album/5VjMofnlIQJEIshWDKnW2n) | 4:02 | 2026-09-24 |  |
 | [Tbilisi](https://open.spotify.com/track/5Pt0NfUTbfkcjUw4LBiqcs) | [Lorenzo Raganzini](https://open.spotify.com/artist/0bvhASdLuh4STSJPxMjjSo) | [Tbilisi](https://open.spotify.com/album/29Qt7or0Rf1YIOGEFrmOoQ) | 4:29 | 2026-02-26 | 2026-05-29 |

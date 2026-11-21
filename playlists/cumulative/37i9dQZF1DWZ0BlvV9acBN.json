@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 262480,
       "name": "Dia De Milagres",
       "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
@@ -1300,6 +1300,24 @@
       "duration_ms": 341789,
       "name": "Eu Vou Amanhecer - Ao Vivo",
       "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
+    },
+    {
+      "album": {
+        "name": "Eu Vou Passar Pela Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8jJp18ZBI5nZ1m5FpDH8"
+      },
+      "artists": [
+        {
+          "name": "Jonata Cabral",
+          "url": "https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268733,
+      "name": "Eu Vou Passar Pela Cruz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0T12EfYLJ9jeJz0wsnipUu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: LiSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,260 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,329 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Aurora](https://open.spotify.com/track/5ht69Xbfj12h1n6Nd12qaW) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Aurora](https://open.spotify.com/album/77i2hnrLLEg4T5GOFCXakR) | 3:41 |
 | 75 | [いいんじゃない](https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [いいんじゃない](https://open.spotify.com/album/71eZv4CCScNApcSYATHObm) | 2:56 |
 
-Snapshot ID: `AAAAAOp1cWC/E6jkq2WhSeI4yaBzSkM4`
+Snapshot ID: `AAAAAAJwOlt+S5X2TlLvtFoyL7qnI8IH`

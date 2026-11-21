@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,939,487 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,939,271 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 5 | [Dichavate](https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa) | [Ya Ice Dilan](https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA), [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [JipMusic Global](https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk) | [Dichavate](https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF) | 4:06 |
 | 6 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
 | 7 | [Cuando No Era Cantante RMX \- Remix](https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Eso Si Es De Gangster](https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb) | 5:27 |
-| 8 | [LA PLAYA](https://open.spotify.com/track/6OJ83IY4WkIIBx7xd2FRuQ) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb), [flackoloyal](https://open.spotify.com/artist/0hhDA92zBSqlVzFM2KFN0n) | [LA PLAYA](https://open.spotify.com/album/44KvYEUOc4aPeXjc0qNBxf) | 4:11 |
+| 8 | [LA PLAYA](https://open.spotify.com/track/6OJ83IY4WkIIBx7xd2FRuQ) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [LA PLAYA](https://open.spotify.com/album/44KvYEUOc4aPeXjc0qNBxf) | 4:11 |
 | 9 | [PONTE PONTE](https://open.spotify.com/track/4mkrhonuSuLGczR4PghSa1) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [DESEO](https://open.spotify.com/album/6ttXe8uKkAXA5Vmioq8XJr) | 2:45 |
 | 10 | [Daltonismo \(Será lo que no fue\)](https://open.spotify.com/track/5lb3VMQGqqjAdUk6SjQmSs) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Equilibrar la Balanza \| Daltonismo](https://open.spotify.com/album/2VPxqkYjl8gPhQsheutnRI) | 3:47 |
 | 11 | [Loba](https://open.spotify.com/track/1Up09hsQEhawoWWP3s010H) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Raven la R](https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq) | [Dark Fantasy](https://open.spotify.com/album/6V9u1059m3xkfzSvIGf565) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch) | 3:20 |
 | 50 | [PATEK PHILIPPE](https://open.spotify.com/track/2KTELz5yDBJXUpTe8skjes) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Color de Rosa](https://open.spotify.com/album/26s4ZoQn6uOCnTKaKsvKTf) | 2:07 |
 
-Snapshot ID: `AAAAAIfRlVPX58yBDNa7PS8sTXH4xkMS`
+Snapshot ID: `AAAAAPBj0P3EeI834ChD9I1qWe7E2YPa`

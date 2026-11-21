@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 493578,
+  "num_followers": 493571,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN21qH/3pHCOrQrko1xVlvUHfeC3",
+  "snapshot_id": "AAAAALlP5GYJkzEk/aDZHnmP3v95guiW",
   "tracks": [
     {
       "added_at": "2026-11-06 06:01:09",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Victimas Del Doctor Cerebro",
-        "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 272640,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Victimas Del Doctor Cerebro",
+        "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Botella de Merlot",
-        "url": "https://open.spotify.com/album/1GvebAPY5P5xGfZKuhyo7t"
-      },
-      "artists": [
-        {
-          "name": "Itaca Band",
-          "url": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR"
-        }
-      ],
-      "duration_ms": 160836,
-      "name": "Botella de Merlot",
-      "url": "https://open.spotify.com/track/0MhyN8pMl3iHkU8snasiLl"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Mugre",
         "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
@@ -1279,22 +1263,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "No Te Apartes de M\u00ed",
-        "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
+        "name": "Botella de Merlot",
+        "url": "https://open.spotify.com/album/1GvebAPY5P5xGfZKuhyo7t"
       },
       "artists": [
         {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
-        },
-        {
-          "name": "Percance",
-          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
+          "name": "Itaca Band",
+          "url": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR"
         }
       ],
-      "duration_ms": 197659,
-      "name": "No Te Apartes de M\u00ed",
-      "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
+      "duration_ms": 160836,
+      "name": "Botella de Merlot",
+      "url": "https://open.spotify.com/track/0MhyN8pMl3iHkU8snasiLl"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1319,6 +1299,26 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
+        "name": "No Te Apartes de M\u00ed",
+        "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Percance",
+          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
+        }
+      ],
+      "duration_ms": 197659,
+      "name": "No Te Apartes de M\u00ed",
+      "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
         "name": "Contigo Me Encontr\u00e9",
         "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
       },
@@ -1331,26 +1331,6 @@
       "duration_ms": 202946,
       "name": "Contigo Me Encontr\u00e9",
       "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
-        "name": "Paz y Baile",
-        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
-      },
-      "artists": [
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Paz y Baile",
-      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1391,6 +1371,26 @@
       "duration_ms": 183771,
       "name": "Aqu\u00ed Estamos",
       "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Paz y Baile",
+        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
+      },
+      "artists": [
+        {
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Paz y Baile",
+      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Mandar Obedeciendo",
-        "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
-      },
-      "artists": [
-        {
-          "name": "Rude Boys",
-          "url": "https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Mandar Obedeciendo",
-      "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "El Mosquito",
         "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 188772,
       "name": "El Mosquito",
       "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Mandar Obedeciendo",
+        "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
+      },
+      "artists": [
+        {
+          "name": "Rude Boys",
+          "url": "https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Mandar Obedeciendo",
+      "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
+        "name": "Estoy en Paz",
+        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 172285,
+      "name": "Estoy en Paz",
+      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
         "name": "El Concierto",
         "url": "https://open.spotify.com/album/3X48oyGndz1LUh9Usk0okO"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
-        "name": "Estoy en Paz",
-        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 172285,
-      "name": "Estoy en Paz",
-      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
       "artists": [
         {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     }
   ],
   "unique_name": "Ska Latino ",

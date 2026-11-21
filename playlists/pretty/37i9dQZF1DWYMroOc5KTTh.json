@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 771804,
+  "num_followers": 771890,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMgCSI9eGBXU/wh6laMiNwird5mn",
+  "snapshot_id": "AAAAAOisOvRqYZDTVATEg8ltVVJ1lkPi",
   "tracks": [
     {
       "added_at": "2026-11-06 00:00:41",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-11-06 00:00:41",
       "album": {
-        "name": "Somehow It Flies",
-        "url": "https://open.spotify.com/album/7bVIDJ4DSctHgCnPvBi3Mt"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "THEOS",
-          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
-        }
-      ],
-      "duration_ms": 161834,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/08T4rQxqam71tSDhl9Z318"
-    },
-    {
-      "added_at": "2026-11-06 00:00:41",
-      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
+    },
+    {
+      "added_at": "2026-11-06 00:00:41",
+      "album": {
+        "name": "Somehow It Flies",
+        "url": "https://open.spotify.com/album/7bVIDJ4DSctHgCnPvBi3Mt"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "THEOS",
+          "url": "https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM"
+        }
+      ],
+      "duration_ms": 161834,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/08T4rQxqam71tSDhl9Z318"
     },
     {
       "added_at": "2026-11-06 00:00:41",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-11-06 00:00:41",
       "album": {
-        "name": "Into Dust (Still Falling)",
-        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 333779,
-      "name": "Into Dust (Still Falling)",
-      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
-    },
-    {
-      "added_at": "2026-11-06 00:00:41",
-      "album": {
         "name": "Feelings Gone (feat. London Grammar)",
         "url": "https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 298030,
       "name": "Feelings Gone (feat. London Grammar)",
       "url": "https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi"
+    },
+    {
+      "added_at": "2026-11-06 00:00:41",
+      "album": {
+        "name": "Into Dust (Still Falling)",
+        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 333779,
+      "name": "Into Dust (Still Falling)",
+      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
     },
     {
       "added_at": "2026-11-06 00:00:41",

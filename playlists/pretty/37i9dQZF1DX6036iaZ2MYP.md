@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,703 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,085 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 3 | [Biberon](https://open.spotify.com/track/5R8Aq8FMvOpwYfJM7m2QJ2) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Biberon](https://open.spotify.com/album/3sCaCqHePrFjGv0thq30MX) | 3:07 |
 | 4 | [Money In A Wheelbarrow](https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Money In A Wheelbarrow](https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c) | 2:31 |
 | 5 | [If You Like](https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Still In Charge](https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD) | 2:42 |
-| 6 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
+| 6 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 7 | [Back To Me](https://open.spotify.com/track/5uvjVYv3FKBNnGkR8mnHws) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Back To Me](https://open.spotify.com/album/16dAtPh8XVKMbfiLcgZyiq) | 3:05 |
 | 8 | [FAIS\-LE](https://open.spotify.com/track/6H3gdu9QKhz1MA1VCiPZZa) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [FAIS\-LE](https://open.spotify.com/album/7uTIF6G2bPEpr1qnQ0qs99) | 3:22 |
 | 9 | [Paloma](https://open.spotify.com/track/7de8ycOzZhRiIzDWAV3XKV) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Paloma](https://open.spotify.com/album/5xDjxjf4sNrEtuOwV9HhjN) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Jolie](https://open.spotify.com/track/5CZ3BckdPom7YA3YitodvQ) | [MVP](https://open.spotify.com/artist/7x7WK8fEpPoOXn1rMWbcyl), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Jolie](https://open.spotify.com/album/1um9w05EtYwdveXaLG6dZc) | 2:58 |
 | 50 | [Bilingual Baddie\(BB\)](https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Bilingual Baddie\(BB\)](https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU) | 1:58 |
 
-Snapshot ID: `AAAAAOvTzNpw111MagvdPfCx+ptv2gWf`
+Snapshot ID: `AAAAAFJtg5HLtxPnIdsJmkAwT2lKvFDU`

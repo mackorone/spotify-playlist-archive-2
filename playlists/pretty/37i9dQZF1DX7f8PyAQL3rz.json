@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udfb6 every time I'm in the club, everybody see my neck shine\ud83c\udfb6  ",
-  "num_followers": 1425078,
+  "num_followers": 1424935,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFRwv94i0fzKbHBknPNm1JhInKGg",
+  "snapshot_id": "AAAAAM1KgXCGYVgpLJgVEOazJttkd8u4",
   "tracks": [
     {
       "added_at": "2026-11-20 03:01:50",
@@ -703,6 +703,30 @@
     {
       "added_at": "2026-11-20 03:01:50",
       "album": {
+        "name": "F\u00f3rmula Perfeita",
+        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
+      },
+      "artists": [
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "F\u00f3rmula Perfeita",
+      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
+    },
+    {
+      "added_at": "2026-11-20 03:01:50",
+      "album": {
         "name": "Vit\u00f3ria Regia",
         "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
       },
@@ -747,30 +771,6 @@
       "duration_ms": 162461,
       "name": "EU TE BUSCO \u00c0S 6",
       "url": "https://open.spotify.com/track/0I9gm7sCtIJYdYBTY6e9ps"
-    },
-    {
-      "added_at": "2026-11-20 03:01:50",
-      "album": {
-        "name": "F\u00f3rmula Perfeita",
-        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
-      },
-      "artists": [
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "F\u00f3rmula Perfeita",
-      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
     },
     {
       "added_at": "2026-11-20 03:01:50",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-11-20 03:01:50",
       "album": {
-        "name": "Kyan Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Neguin 171 - Ao Vivo no SALA",
-      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
-    },
-    {
-      "added_at": "2026-11-20 03:01:50",
-      "album": {
         "name": "Cicatrizes, Vol. 1",
         "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 142677,
       "name": "VAI TOMANDO",
       "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
+    },
+    {
+      "added_at": "2026-11-20 03:01:50",
+      "album": {
+        "name": "Kyan Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Neguin 171 - Ao Vivo no SALA",
+      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
     },
     {
       "added_at": "2026-11-20 03:01:50",
@@ -995,30 +995,6 @@
     {
       "added_at": "2026-11-20 03:01:50",
       "album": {
-        "name": "NOVA: Bomboclaat",
-        "url": "https://open.spotify.com/album/0SveMvU88jNYj8HCvoz0MV"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "L\u00e9o da Bodega",
-          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "NOVA: Bomboclaat",
-      "url": "https://open.spotify.com/track/2hfVNl4H4xCrzNLXghjpdv"
-    },
-    {
-      "added_at": "2026-11-20 03:01:50",
-      "album": {
         "name": "AQUI \u00c9 BRASIL",
         "url": "https://open.spotify.com/album/43On3lmGHBNE9Mo0Lyjzx5"
       },
@@ -1063,30 +1039,26 @@
     {
       "added_at": "2026-11-20 03:01:50",
       "album": {
-        "name": "GLA",
-        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
+        "name": "NOVA: Bomboclaat",
+        "url": "https://open.spotify.com/album/0SveMvU88jNYj8HCvoz0MV"
       },
       "artists": [
         {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
         },
         {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+          "name": "L\u00e9o da Bodega",
+          "url": "https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g"
         },
         {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "DJ Menor PR",
-          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
         }
       ],
-      "duration_ms": 201904,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
+      "duration_ms": 136250,
+      "name": "NOVA: Bomboclaat",
+      "url": "https://open.spotify.com/track/2hfVNl4H4xCrzNLXghjpdv"
     },
     {
       "added_at": "2026-11-20 03:01:50",
@@ -1115,26 +1087,30 @@
     {
       "added_at": "2026-11-20 03:01:50",
       "album": {
-        "name": "Amor ou Solid\u00e3o?",
-        "url": "https://open.spotify.com/album/7lp3LXZKAhvSYBFs3KD0RY"
+        "name": "GLA",
+        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
       },
       "artists": [
         {
-          "name": "LUKA",
-          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
         },
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "DJ Menor PR",
+          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
         }
       ],
-      "duration_ms": 145923,
-      "name": "Amor ou Solid\u00e3o?",
-      "url": "https://open.spotify.com/track/2FOLnTJ8VBkcCMCTrvR34i"
+      "duration_ms": 201904,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
     },
     {
       "added_at": "2026-11-20 03:01:50",
@@ -1163,6 +1139,30 @@
       "duration_ms": 221142,
       "name": "Um Novo Algu\u00e9m",
       "url": "https://open.spotify.com/track/0ZkPXtgOLWZyVzHlZ3Vohr"
+    },
+    {
+      "added_at": "2026-11-20 03:01:50",
+      "album": {
+        "name": "Amor ou Solid\u00e3o?",
+        "url": "https://open.spotify.com/album/7lp3LXZKAhvSYBFs3KD0RY"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 145923,
+      "name": "Amor ou Solid\u00e3o?",
+      "url": "https://open.spotify.com/track/2FOLnTJ8VBkcCMCTrvR34i"
     },
     {
       "added_at": "2026-11-20 03:01:50",
@@ -1503,6 +1503,38 @@
     {
       "added_at": "2026-11-20 03:01:50",
       "album": {
+        "name": "BASE: Baile das Bandida",
+        "url": "https://open.spotify.com/album/6v8CbAuUlzexYCTIqr6c76"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "Soh Lopez",
+          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        }
+      ],
+      "duration_ms": 333955,
+      "name": "KD seu nome nas ruas",
+      "url": "https://open.spotify.com/track/3YkoYWWuKU1EKTvwWKKe5g"
+    },
+    {
+      "added_at": "2026-11-20 03:01:50",
+      "album": {
         "name": "Raul Tamb\u00e9m Ama",
         "url": "https://open.spotify.com/album/4QFUqGHkey3vRtHnTcWsKL"
       },
@@ -1555,38 +1587,6 @@
       "duration_ms": 153386,
       "name": "Meiota",
       "url": "https://open.spotify.com/track/5hSYSWD2s2MNjCHJsLgCyf"
-    },
-    {
-      "added_at": "2026-11-20 03:01:50",
-      "album": {
-        "name": "BASE: Baile das Bandida",
-        "url": "https://open.spotify.com/album/6v8CbAuUlzexYCTIqr6c76"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
-        },
-        {
-          "name": "Soh Lopez",
-          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
-        },
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        }
-      ],
-      "duration_ms": 333955,
-      "name": "KD seu nome nas ruas",
-      "url": "https://open.spotify.com/track/3YkoYWWuKU1EKTvwWKKe5g"
     },
     {
       "added_at": "2026-11-20 03:01:50",

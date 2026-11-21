@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 463564,
+  "num_followers": 463553,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHOh7CoBLQ7FFGij/luvL0LUUSLP",
+  "snapshot_id": "AAAAAEsBoZIOORAhFzIARXMUNgTtEKUP",
   "tracks": [
     {
       "added_at": "2026-02-19 15:33:55",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Coolshit Bullshit",
-        "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
-      },
-      "artists": [
-        {
-          "name": "Danika",
-          "url": "https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO"
-        }
-      ],
-      "duration_ms": 240759,
-      "name": "Coolshit Bullshit",
-      "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Call For Help",
         "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 252272,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Coolshit Bullshit",
+        "url": "https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U"
+      },
+      "artists": [
+        {
+          "name": "Danika",
+          "url": "https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO"
+        }
+      ],
+      "duration_ms": 240759,
+      "name": "Coolshit Bullshit",
+      "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "Way Past Three",
+        "url": "https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 162000,
+      "name": "Way Past Three",
+      "url": "https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Way Past Three",
-        "url": "https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z"
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
       "artists": [
         {
-          "name": "Nightbus",
-          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Way Past Three",
-      "url": "https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2"
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
+        "name": "Exposed to Some Light",
+        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Exposed to Some Light",
+      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
         "name": "Dancing with Ghosts",
         "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 299400,
       "name": "Dancing with Ghosts",
       "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
-        "name": "Exposed to Some Light",
-        "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
-      },
-      "artists": [
-        {
-          "name": "Nightbus",
-          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Exposed to Some Light",
-      "url": "https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
-      },
-      "artists": [
-        {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
-        }
-      ],
-      "duration_ms": 165510,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "All the Same",
         "url": "https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 175023,
       "name": "All the Same",
       "url": "https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
-      },
-      "artists": [
-        {
-          "name": "Gretel",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Little Vampire",
-      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Brkn",
         "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 179805,
       "name": "Brkn",
       "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Little Vampire",
+      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Tears In The Typing Pool [Demo]",
-        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 127832,
-      "name": "Tears In The Typing Pool [Demo]",
-      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 330880,
       "name": "Alps",
       "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Tears In The Typing Pool [Demo]",
+        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 127832,
+      "name": "Tears In The Typing Pool [Demo]",
+      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
     },
     {
       "added_at": "2026-02-19 15:33:55",

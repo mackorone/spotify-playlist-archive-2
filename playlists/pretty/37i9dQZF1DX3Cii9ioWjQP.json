@@ -1,12 +1,12 @@
 {
   "description": "All about Korean Jazz hits & new (Cover: YUJIN KIM) (\uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 32265,
+  "num_followers": 32302,
   "original_name": "Jazzy Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHT4f6ESiugYbYvdHcOuYI6Dpqtg",
+  "snapshot_id": "AAAAAHnZFBIlM4Rra1l70SiU41qJ2D6X",
   "tracks": [
     {
       "added_at": "2026-11-17 07:33:33",
@@ -31,6 +31,22 @@
       "duration_ms": 167812,
       "name": "Bed",
       "url": "https://open.spotify.com/track/25QywadzhRSB3COQljUTe3"
+    },
+    {
+      "added_at": "2026-11-17 07:33:33",
+      "album": {
+        "name": "latte",
+        "url": "https://open.spotify.com/album/183DHEvkZ48VupDyfe34Lh"
+      },
+      "artists": [
+        {
+          "name": "SAFEHSE",
+          "url": "https://open.spotify.com/artist/0PCaA1FHplkJSy8fK7oilK"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "latte",
+      "url": "https://open.spotify.com/track/4oj7zMeJg5jLTtzTJzj6wG"
     },
     {
       "added_at": "2026-11-17 07:33:33",
@@ -416,7 +432,7 @@
           "url": "https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2"
         },
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
@@ -616,7 +632,7 @@
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-529 songs - 1 day 8 hr 12 min
+530 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,8 @@
 | [Soliloquy](https://open.spotify.com/track/62mne52yH6QFDPGyPRNuWe) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:47 | 2024-07-26 |  |
 | [Some Enchanted Evening](https://open.spotify.com/track/0xB8zbWKO61EKTb7A3CUpL) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Robert Norberg](https://open.spotify.com/artist/4iVTujtmxeDNd1XJX9cHLa) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 3:14 | 2024-07-26 | 2025-04-10 |
 | [Some Enchanted Evening](https://open.spotify.com/track/6PYTpG0kZyUU2V9ynjeErs) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [So This Is Love](https://open.spotify.com/album/07Q8pChv7fwnboS1lJlFsv) | 2:32 | 2025-04-09 | 2026-05-15 |
-| [Some Enchanted Evening](https://open.spotify.com/track/0ktwrpGSIxU66A1EtXMWCo) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [Essential Masters](https://open.spotify.com/album/6mwOeeFn7jRKPAAaJr9pYp) | 2:34 | 2026-05-14 |  |
+| [Some Enchanted Evening](https://open.spotify.com/track/0ktwrpGSIxU66A1EtXMWCo) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [Essential Masters](https://open.spotify.com/album/6mwOeeFn7jRKPAAaJr9pYp) | 2:34 | 2026-05-14 | 2026-11-21 |
+| [Some Enchanted Evening](https://open.spotify.com/track/0tYkveXoGkiBAV1tsO8Gsu) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [So This Is Love](https://open.spotify.com/album/2JnFqiCPHHiwLzTvLlYeWi) | 2:35 | 2026-11-20 |  |
 | [Some Enchanted Evening \(From "South Pacific"\)](https://open.spotify.com/track/1wrmfmLogYsH5lcs0VntZZ) | [Mitzi Gaynor](https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6), [Giorgio Tozzi](https://open.spotify.com/artist/4OEwK9zvDEcRKWnW4dYjv0) | [Mitzi and Morris At the Movies](https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4) | 5:53 | 2024-07-26 |  |
 | [Someone Like You](https://open.spotify.com/track/5nVMC2NBCyVnW5OIjG7lpD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Decca Singles Vol\. 3: 1942\-1949](https://open.spotify.com/album/5Ci7FT8FBuEgoQ38wbx575) | 3:04 | 2024-07-26 |  |
 | [Something Doesn't Happen \- from the Broadway musical "Two by Two"](https://open.spotify.com/track/46pVoOqNn39vVWEe55A12x) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Love Story](https://open.spotify.com/album/0FTj8xA6hPncO0vAp7BaNg) | 2:42 | 2024-07-26 |  |

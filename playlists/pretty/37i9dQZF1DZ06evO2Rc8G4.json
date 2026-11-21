@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 176892,
+  "num_followers": 176907,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAABCF/sxHAu1g4N+N7Yp5nae",
+  "snapshot_id": "av48AAAAAADGUfxXO3HvpiudAO+yC1VT",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Abbey Road Sessions",
+        "url": "https://open.spotify.com/album/1BdQWouNev422Pnyrse62b"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Where the Wild Roses Grow",
+      "url": "https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "last night i dreamt i fell in love",
         "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 310081,
       "name": "Chiggy Wiggy",
       "url": "https://open.spotify.com/track/4nt1pLbjBHtpHFarYXRHHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Abbey Road Sessions",
-        "url": "https://open.spotify.com/album/1BdQWouNev422Pnyrse62b"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Where the Wild Roses Grow",
-      "url": "https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX"
     },
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
+        "name": "Step Back In Time: The Definitive Collection",
+        "url": "https://open.spotify.com/album/5LbkKNdkkCft2ckR4HXXMx"
       },
       "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 206796,
-      "name": "Edge of Saturday Night",
-      "url": "https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw"
+      "duration_ms": 265826,
+      "name": "Confide in Me - Radio Mix",
+      "url": "https://open.spotify.com/track/2NV8AiDpEeLEzOJtWfXfAH"
     },
     {
       "added_at": null,
@@ -642,11 +638,35 @@
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "A Guevara",
+          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
+      "duration_ms": 300666,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "Edge of Saturday Night",
+      "url": "https://open.spotify.com/track/2Ti9DOQRFRsrD1TIA3VjKw"
     },
     {
       "added_at": null,
@@ -675,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO (Deluxe)",
         "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
       },
@@ -714,15 +718,27 @@
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "A Guevara",
-          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
         }
       ],
-      "duration_ms": 300666,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
+      "duration_ms": 193666,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 162253,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Hold On To Now",
-      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Miss a Thing",
-      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
@@ -807,6 +791,38 @@
       "duration_ms": 178880,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Step Back In Time: The Definitive Collection",
-        "url": "https://open.spotify.com/album/5LbkKNdkkCft2ckR4HXXMx"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 265826,
-      "name": "Confide in Me - Radio Mix",
-      "url": "https://open.spotify.com/track/2NV8AiDpEeLEzOJtWfXfAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light Up (From the Netflix Documentary 'Kylie')",
         "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enjoy Yourself",
-        "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 231082,
-      "name": "Hand on Your Heart",
-      "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension II",
         "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 189093,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enjoy Yourself",
+        "url": "https://open.spotify.com/album/4oz4KLPtQlhuN392NqQVxx"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 231082,
+      "name": "Hand on Your Heart",
+      "url": "https://open.spotify.com/track/3pS5eiuBPsQn5ID6RElg9G"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

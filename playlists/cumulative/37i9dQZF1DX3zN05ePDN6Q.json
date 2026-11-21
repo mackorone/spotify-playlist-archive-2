@@ -5855,6 +5855,28 @@
     },
     {
       "album": {
+        "name": "ELE OU EU",
+        "url": "https://open.spotify.com/album/0L5wTiV0WFcU0O8STViSVa"
+      },
+      "artists": [
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "ELE OU EU",
+      "url": "https://open.spotify.com/track/2JzR21cU3q1QPi3YTI98B4"
+    },
+    {
+      "album": {
         "name": "Elefante Branco",
         "url": "https://open.spotify.com/album/1aomVOkoNt3hzrQD0q7wbM"
       },

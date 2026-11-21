@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Camila Fernández 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,369 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,441 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 8 | [Rey Salmon](https://open.spotify.com/track/4aYHnE7rBSpNVMhtpMQPdr) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Parece Un Sueño](https://open.spotify.com/album/0Re3fo7qmcnoCp5vGuqiy1) | 2:31 |
 | 9 | [Este Cariño](https://open.spotify.com/track/5L0GhGIuNKKGKSw4ZMSZfl) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Confesiones](https://open.spotify.com/album/7cZStbzv3lmp3onxR8O6l6) | 2:51 |
 | 10 | [Correteando El Sueño](https://open.spotify.com/track/3p35HhV0nqCaIsZKRC7uqB) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Correteando El Sueño](https://open.spotify.com/album/5GxNxe1N2Adw3t40WKb9sv) | 2:50 |
-| 11 | [La Sandia](https://open.spotify.com/track/6Q84T0vLrUdYtkaDwwTwA6) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Grupo Comando Hg](https://open.spotify.com/artist/7rxGkxhpl6w9wmPvxlEFiX) | [La Sandia](https://open.spotify.com/album/6GYiYhHSE15ELc2lumPjJd) | 2:29 |
+| 11 | [En La Sandía](https://open.spotify.com/track/6Q84T0vLrUdYtkaDwwTwA6) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Grupo Comando Hg](https://open.spotify.com/artist/7rxGkxhpl6w9wmPvxlEFiX) | [En La Sandía](https://open.spotify.com/album/6GYiYhHSE15ELc2lumPjJd) | 2:29 |
 | 12 | [Siempre Para Arriba](https://open.spotify.com/track/6aOxAL1cgF3ar7Z7ZBFcl5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Siempre Para Arriba](https://open.spotify.com/album/2AYsMgvFIUXHULXjTOFfuz) | 3:14 |
 | 13 | [De Qué Sirvió](https://open.spotify.com/track/5uAi5ibfXeIxUannGNyAeM) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [De Qué Sirvió](https://open.spotify.com/album/7skPBhG1lRISNmJbhuVquW) | 4:03 |
 | 14 | [Mi Esposa Consentida](https://open.spotify.com/track/7C27k5lANwonEIe2cKN48D) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Esposa Consentida](https://open.spotify.com/album/7tkgA8z4fg8ewU72q6njVM) | 3:21 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 67 | [Voy Por Todo](https://open.spotify.com/track/0JrxSJJvPhAlVpEgw46pjj) | [Eddy Tovar](https://open.spotify.com/artist/21qyjqzTq09Srl4EOYQ5w1) | [Voy Por Todo](https://open.spotify.com/album/2h3PLKCuNuCWOXn3aWDuID) | 3:08 |
 | 68 | [Sin Buscarte](https://open.spotify.com/track/7dMjcQTNrAQx2r5ZbnN9VA) | [Los Empacadores De Durango](https://open.spotify.com/artist/0InFD0RuneGSJ93XyIuXY1), [Los Reverentes](https://open.spotify.com/artist/5O5SZfCQZ5tLusb1ExVucg) | [Sin Buscarte](https://open.spotify.com/album/4TcRBlpDvn7NhKh8jfblrU) | 2:14 |
 | 69 | [Jefazo](https://open.spotify.com/track/31a4aOn3XIcNUevlcMhMWZ) | [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs) | [Jefazo](https://open.spotify.com/album/08Y1iCh7lQ7IWGaP9xkqXB) | 2:45 |
-| 70 | [Intenso](https://open.spotify.com/track/3zECAmenZqFieCRGLfG3Jn) | [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [INTENSO](https://open.spotify.com/album/5vrSCb808EdjxsM2s63xRd) | 2:51 |
+| 70 | [INTENSO](https://open.spotify.com/track/3zECAmenZqFieCRGLfG3Jn) | [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [INTENSO](https://open.spotify.com/album/5vrSCb808EdjxsM2s63xRd) | 2:51 |
 
-Snapshot ID: `AAAAAE/dv29MKs4jRG1hqAORO9+pP/7x`
+Snapshot ID: `AAAAAMjXAMYdHePezIAJtAEzcXepjfPz`

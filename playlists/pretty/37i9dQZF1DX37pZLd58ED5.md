@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,373 likes - 105 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,359 likes - 105 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moonlight](https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:13 |
+| 1 | [Moonlight \(feat\. Tony Boy\)](https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:13 |
 | 2 | [NON SEI PIÙ TU \(feat\. Lazza\)](https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TUTTO È POSSIBILE \- ATTO II](https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK) | 2:54 |
 | 3 | [X Sempre](https://open.spotify.com/track/00r1JkjftpDP9sToJsHypT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [4U EP](https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm) | 3:10 |
 | 4 | [Sparisci](https://open.spotify.com/track/6ZERZ7aiL214VIKLTBkaxS) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Sparisci](https://open.spotify.com/album/7GikXyCIkrHIANRbnjUP4e) | 2:57 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 104 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
 | 105 | [Morto Mai \(Piano Solo\)](https://open.spotify.com/track/4vuQhmBVvyy4Zau0Ypv738) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida \(Aurum\)](https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99) | 2:40 |
 
-Snapshot ID: `AAAAAKOPrt5BCc3XhfooqOMkPFzaAT6H`
+Snapshot ID: `AAAAAMMZtuZ1h+eu2xY4S5l88en2obUM`

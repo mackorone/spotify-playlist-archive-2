@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 83 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 |
 | 84 | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/track/4e1cXIQQPQoCFriDFRRowA) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [Moto Blanco](https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj) | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/album/7yD1DbXMwoMXFu9k0lnLCm) | 3:07 |
 | 85 | [Miss it](https://open.spotify.com/track/1jCddnBIWCU30rImYdZqXy) | [KIARA](https://open.spotify.com/artist/3ereOrrDplpipPoEhHYFeI) | [Miss it](https://open.spotify.com/album/6xrWEFIqPuI4tgFWn9tH3u) | 2:20 |
-| 86 | [Run To You](https://open.spotify.com/track/5tpOJ3kwYtrIQAnkrk4aUp) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/7aJlBlKLS1saPojoTAGhST) | 2:59 |
-| 87 | [Whole Again](https://open.spotify.com/track/1WGPOivrkVZPQTYS7yagu0) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Whole Again](https://open.spotify.com/album/4T6WGOKNC5P8euk1cbiqJs) | 2:48 |
+| 86 | [Whole Again](https://open.spotify.com/track/1WGPOivrkVZPQTYS7yagu0) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Whole Again](https://open.spotify.com/album/4T6WGOKNC5P8euk1cbiqJs) | 2:48 |
+| 87 | [Run To You](https://open.spotify.com/track/5tpOJ3kwYtrIQAnkrk4aUp) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/7aJlBlKLS1saPojoTAGhST) | 2:59 |
 | 88 | [Satisfy](https://open.spotify.com/track/2h2JCZHRjC9dgVEAgNB6HS) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Satisfy](https://open.spotify.com/album/1fNY3xOD9WUo98LE7WaUzu) | 3:15 |
 | 89 | [Split Lip](https://open.spotify.com/track/6aevwbUn1BgQY9iXXxmRcs) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:09 |
 | 90 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 154 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 | 155 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AciIHAAAAAD7+s7UbQirYhAygm7/3AxJ`
+Snapshot ID: `AciNvAAAAACo2mgj6RGWPjRJPpJu4zXP`

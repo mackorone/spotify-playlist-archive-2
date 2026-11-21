@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Lauri Haav, pehmoaino, Axel Kala & Dw..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,211 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,292 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 3 | [Kampanja](https://open.spotify.com/track/6964mFfrgFllDZvTzDpOUD) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD), [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [Kampanja](https://open.spotify.com/album/4OqaZNdrul5eo3CKHRpKi2) | 3:45 |
 | 4 | [Soft Pop Hallelujah \- Vain elämää kausi 17](https://open.spotify.com/track/7iWabeLPeL4lAl0wz1eRPf) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Soft Pop Hallelujah \(Vain elämää kausi 17\)](https://open.spotify.com/album/6yfGGPCMUh0pU7lqQe1wze) | 2:56 |
 | 5 | [Lohikäärmeit & legendoi](https://open.spotify.com/track/0mxyQrhwmeyKtaJ3t7tVBT) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Lohikäärmeit & legendoi](https://open.spotify.com/album/36QVsMHnpQWW6fF63ZYYOL) | 2:47 |
-| 6 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 |
+| 6 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 |
 | 7 | [Tähtisilmä](https://open.spotify.com/track/0MwgWoQUWx96OBvaS6LRKX) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Aali](https://open.spotify.com/artist/64o4iINH5TMOoQEsZsMSLf) | [Tähtisilmä](https://open.spotify.com/album/58OzpAaGLpBGvyHNaZOogK) | 3:03 |
 | 8 | [En kadehdi sua \(feat\. Ella Herold\)](https://open.spotify.com/track/6ontucZ3QjIvc7BLCYwZaS) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM) | [En kadehdi sua \(feat\. Ella Herold\)](https://open.spotify.com/album/61TRte1P0XmqSPZDjwapkp) | 2:42 |
 | 9 | [The Riff \(Vain elämää kausi 17\)](https://open.spotify.com/track/6XaZefgPgBVzOqqudSSJf6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [The Riff \(Vain elämää kausi 17\)](https://open.spotify.com/album/2UQRNtSUDfYtL3YvvFEofx) | 2:47 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 40 | [Fast Asleep](https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Fast Asleep](https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd) | 3:00 |
 | 41 | [LAMINE YAMAL \(feat\. La Pantera\)](https://open.spotify.com/track/4iUjotWvNyG99ldTZTRysc) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [LOCKED IN \(EUROLUXE\)](https://open.spotify.com/album/2H2FFVVPzAYw3Qhw3IAxbb) | 2:13 |
 | 42 | [Klubi Heiluu](https://open.spotify.com/track/7bd3jrFlBn4wEL6Ao8YCHB) | [Keki](https://open.spotify.com/artist/2JQnbpN1Tvt1ew1H9q1qOm) | [Klubi Heiluu](https://open.spotify.com/album/2m1qFUftoYI3sJl4nNMgCs) | 2:18 |
-| 43 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
+| 43 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 44 | [Feel Alright](https://open.spotify.com/track/4ItksXO3Zrd6WwhzD42cjN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [E\-Mortal Boy](https://open.spotify.com/album/4r6kHpL8Ql8O6FvfvdjVwg) | 3:49 |
 | 45 | [Just A Woman](https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Just A Woman](https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop) | 3:44 |
 | 46 | [Personal](https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Personal](https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu) | 3:22 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 73 | [typeshi\_ouioui](https://open.spotify.com/track/3gJCRcg8F4lJUjkURE9rUK) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [typeshi\_ouioui](https://open.spotify.com/album/32QPShlEAvdtrfoATJNmmr) | 2:36 |
 | 74 | [Be The One](https://open.spotify.com/track/7HcRDFPfKpiiixEvr1lT2X) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Be The One](https://open.spotify.com/album/3sq96tyDm5asCaRnmUzGVc) | 2:05 |
 
-Snapshot ID: `AAAAAOqrtBqItsMM/sTh6EJeG1zlTqOL`
+Snapshot ID: `AAAAAJz4+gach+MyF/XrE6zlvnKN+KfS`

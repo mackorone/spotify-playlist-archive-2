@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 374907,
+  "num_followers": 375068,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGoTsD+Lb3VSuE0Bx95l9NctW9v2",
+  "snapshot_id": "AAAAAO8v+EUQfdfM692fiH8O6917hX3w",
   "tracks": [
     {
       "added_at": "2026-09-23 13:23:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "lingering on",
-        "url": "https://open.spotify.com/album/3I3YR5Zq3PlKVHid6hpdmX"
-      },
-      "artists": [
-        {
-          "name": "sleep forever",
-          "url": "https://open.spotify.com/artist/4r66CxFiq5gsPI7yzXDdpF"
-        }
-      ],
-      "duration_ms": 81083,
-      "name": "lingering on",
-      "url": "https://open.spotify.com/track/2wdS8JOt0R11Rh13DKtWf1"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 364293,
       "name": "The Eternal - 2007 Remaster",
       "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "lingering on",
+        "url": "https://open.spotify.com/album/3I3YR5Zq3PlKVHid6hpdmX"
+      },
+      "artists": [
+        {
+          "name": "sleep forever",
+          "url": "https://open.spotify.com/artist/4r66CxFiq5gsPI7yzXDdpF"
+        }
+      ],
+      "duration_ms": 81083,
+      "name": "lingering on",
+      "url": "https://open.spotify.com/track/2wdS8JOt0R11Rh13DKtWf1"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "wistful",
-        "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "wistful",
-      "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Decomposition: Fox on a Highway",
         "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "wistful",
+        "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "wistful",
+      "url": "https://open.spotify.com/track/3KNLcoKrxzvGaO3QlI32JY"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "distant, elsewhere",
-        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
-      },
-      "artists": [
-        {
-          "name": "kurisu.",
-          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
-        }
-      ],
-      "duration_ms": 150006,
-      "name": "distant, elsewhere",
-      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
@@ -1227,38 +1211,6 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
-        "name": "LSD and the Search for God",
-        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
-      },
-      "artists": [
-        {
-          "name": "LSD and the Search for God",
-          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1279,6 +1231,38 @@
       "duration_ms": 121550,
       "name": "now i know what i mean",
       "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "distant, elsewhere",
+        "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
+      },
+      "artists": [
+        {
+          "name": "kurisu.",
+          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
+        }
+      ],
+      "duration_ms": 150006,
+      "name": "distant, elsewhere",
+      "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "LSD and the Search for God",
+        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "LSD and the Search for God",
+          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
         }
       ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+      "duration_ms": 304240,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "tired",
-        "url": "https://open.spotify.com/album/1VdIwG4stVmFhBgZXanjtR"
-      },
-      "artists": [
-        {
-          "name": "Money Flip",
-          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
-        }
-      ],
-      "duration_ms": 80571,
-      "name": "tired",
-      "url": "https://open.spotify.com/track/2NycFZTupxahlGyI1H1oGb"
-    },
-    {
-      "added_at": "2026-09-23 13:23:25",
-      "album": {
         "name": "Polar",
         "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+        "name": "tired",
+        "url": "https://open.spotify.com/album/1VdIwG4stVmFhBgZXanjtR"
       },
       "artists": [
         {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+          "name": "Money Flip",
+          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
         }
       ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+      "duration_ms": 80571,
+      "name": "tired",
+      "url": "https://open.spotify.com/track/2NycFZTupxahlGyI1H1oGb"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1487,6 +1471,22 @@
       "duration_ms": 422853,
       "name": "Dance of Seasons",
       "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
+    },
+    {
+      "added_at": "2026-09-23 13:23:25",
+      "album": {
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1711,18 +1711,22 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
       "artists": [
         {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
     },
     {
       "added_at": "2026-09-23 13:23:25",
@@ -1743,22 +1747,18 @@
     {
       "added_at": "2026-09-23 13:23:25",
       "album": {
-        "name": "searching",
-        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
       },
       "artists": [
         {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
         }
       ],
-      "duration_ms": 279935,
-      "name": "searching",
-      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-09-23 13:23:25",

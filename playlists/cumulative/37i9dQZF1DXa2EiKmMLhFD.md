@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Ashe,  eńau, Ari Lesmana, Harry Styles, Adrian Khalif serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Raim Laode,  eńau, Ari Lesmana, Harry Styles, Adrian Khalif serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 417 songs - 1 day 1 hr 44 min
 

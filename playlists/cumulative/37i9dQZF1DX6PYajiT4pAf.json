@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Myke Towers & Rauw Alejandro, Dua Lipa, Kristina & Quevedo, Anuel, Estopa y m\u00e1s novedades de la semana.",
+  "description": "Myke Towers & Rauw Alejandro, Dua Lipa, Kristina & Quevedo, Estopa y m\u00e1s novedades de la semana.",
   "name": "Novedades Viernes Espa\u00f1a",
   "tracks": [
     {
@@ -54647,7 +54647,7 @@
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },
@@ -90637,6 +90637,28 @@
     },
     {
       "album": {
+        "name": "Navidad si t\u00fa est\u00e1s",
+        "url": "https://open.spotify.com/album/4xQqD1KMu7fqTnO6bfir99"
+      },
+      "artists": [
+        {
+          "name": "Chenoa",
+          "url": "https://open.spotify.com/artist/0i3ypO6G38iZmANDHWZxlY"
+        },
+        {
+          "name": "EDER",
+          "url": "https://open.spotify.com/artist/13vvbXKznTfelfzORYUKKc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178201,
+      "name": "Navidad si t\u00fa est\u00e1s",
+      "url": "https://open.spotify.com/track/3bjG4zS2a4czK1tuzaPIiV"
+    },
+    {
+      "album": {
         "name": "Todo Es Posible En Navidad (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4QWP3XZIkvXSp5s5VgOy6q"
       },
@@ -119454,6 +119476,24 @@
       "duration_ms": 151000,
       "name": "se te ve feliz",
       "url": "https://open.spotify.com/track/7L9ct6NyuHjrU3tO12CJWZ"
+    },
+    {
+      "album": {
+        "name": "Se Toco El T#tito Con Mi Gl*ck",
+        "url": "https://open.spotify.com/album/2J33n3xk9ArHdSdJf09zfR"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Se Toco El T#tito Con Mi Gl*ck",
+      "url": "https://open.spotify.com/track/48m48t4jXHpMbo805OOaj1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With Douran, Mokado, Kosco and more",
+  "description": "With Douran, winterburn, Mokado and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 333251,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/0dyDDuZwc7pgeinNVjCRRq"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 413858,
       "name": "Avalanche - Joachim Pastor Remix",
       "url": "https://open.spotify.com/track/1MefJQn9jffLZcEtSNLEgM"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 290243,
       "name": "Centre",
       "url": "https://open.spotify.com/track/0tqmR5NSGzHUqpuon6i5UI"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/2e1xmCupvnz5XvyYJxVPnn"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 414950,
       "name": "Dendrometry",
       "url": "https://open.spotify.com/track/7M1n5q7YmHCa3GtvaP3rtY"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 236129,
       "name": "Elastic Sun",
       "url": "https://open.spotify.com/track/71DJZ67WEid3oLEPNT0S7m"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 218000,
       "name": "Ferdinand",
       "url": "https://open.spotify.com/track/2yNQaQsHWMMEKqsiQCkES0"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 238999,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/2l8gI5bqvTmHOCtmn867DF"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 248005,
       "name": "Golden Ratio",
       "url": "https://open.spotify.com/track/78PQnaOjELxSNQRVZt1Z0t"
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 256887,
       "name": "Hokan",
       "url": "https://open.spotify.com/track/6DkD4VQCHPPUwx0sqrOw4C"
@@ -3092,10 +3092,32 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 327633,
       "name": "It Was All A Dream - Mixed",
       "url": "https://open.spotify.com/track/5Ze9Uao77Ca97EdtB8OBt4"
+    },
+    {
+      "album": {
+        "name": "It wont be the first (Abakus Remix)",
+        "url": "https://open.spotify.com/album/47qizZbvxiwd3qnEIMo3YV"
+      },
+      "artists": [
+        {
+          "name": "Cinnamon Chasers",
+          "url": "https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B"
+        },
+        {
+          "name": "Abakus",
+          "url": "https://open.spotify.com/artist/5EEbMGQOwrTuy51Vin8bL1"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "It wont be the first - Abakus Remix",
+      "url": "https://open.spotify.com/track/5x20Z1PHOLtW5vPZ4vhbpQ"
     },
     {
       "album": {
@@ -3512,7 +3534,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 236335,
       "name": "Living Later",
       "url": "https://open.spotify.com/track/6fFl4N6AB0pD0rb49DvhfP"
@@ -3748,7 +3770,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 165120,
       "name": "master of your mind",
       "url": "https://open.spotify.com/track/1r7RmUpYjTSJUhbTPNcF9z"
@@ -3932,7 +3954,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -4156,7 +4178,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 255867,
       "name": "My Place In All Of This",
       "url": "https://open.spotify.com/track/4GUy82Xl4t8VahAQEKOkeu"
@@ -4290,7 +4312,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "New Perspective",
       "url": "https://open.spotify.com/track/5cSzuvpbwIHDbvTdM9hdmE"
@@ -4308,7 +4330,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 303859,
       "name": "Nighttime Feeling (Weekend Love)",
       "url": "https://open.spotify.com/track/5uNfp8283dTgqmnmYTvqrJ"
@@ -4658,7 +4680,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 282701,
       "name": "Passing Days",
       "url": "https://open.spotify.com/track/7sdwHdRvLJMAWbJyrJTOto"
@@ -4756,7 +4778,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 210491,
       "name": "PEOPLE//PLEASER",
       "url": "https://open.spotify.com/track/1Tczrcus38dWH0Y54zaJmQ"
@@ -5070,7 +5092,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 219832,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/7xscsJutf7zrEAGuSLzTYQ"
@@ -5146,7 +5168,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 277992,
       "name": "Resonance Frequency",
       "url": "https://open.spotify.com/track/5dGS1QZQrWrZMAMytj1hIH"
@@ -5330,7 +5352,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 415960,
       "name": "Sahar",
       "url": "https://open.spotify.com/track/5vv68o859gLjUiuzkHNpV9"
@@ -5348,7 +5370,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 246955,
       "name": "Serpens",
       "url": "https://open.spotify.com/track/2Qyt9K8IpyR9xy9gIEA1EB"
@@ -5570,7 +5592,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 429055,
       "name": "Shapes in the Spray",
       "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
@@ -5784,7 +5806,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 235601,
       "name": "Song for the Quiet Ones",
       "url": "https://open.spotify.com/track/05r5LfktkJ3fXoxwM9enmB"
@@ -6430,7 +6452,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 292680,
       "name": "THE BRIDGE // 4:04AM",
       "url": "https://open.spotify.com/track/3mMtP3qD2c4vNihc2qOJst"
@@ -6984,7 +7006,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 293510,
       "name": "Velvet Roads - Brandt Brauer Frick Remix",
       "url": "https://open.spotify.com/track/6g4YCo5pAcjxVeP7Sm61rk"
@@ -7356,7 +7378,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 253884,
       "name": "where did all the emotion go?",
       "url": "https://open.spotify.com/track/3htZTXzNepPeycbszowENV"
@@ -7392,7 +7414,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 489523,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/4NJvhKZO5KNkfuB05HTWb0"
@@ -7446,7 +7468,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 429760,
       "name": "White Flower",
       "url": "https://open.spotify.com/track/4p4DDw6j5D14J8OOnalkqj"
@@ -7522,7 +7544,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 251612,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/4ubbyOgrDNCxvBJ0r9G9RL"
@@ -7580,7 +7602,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 417000,
       "name": "You and Me (We Owned It)",
       "url": "https://open.spotify.com/track/1U9zvD8HJ7zLmTPUbrosGf"

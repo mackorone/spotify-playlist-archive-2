@@ -3693,6 +3693,28 @@
     },
     {
       "album": {
+        "name": "I Choose Me",
+        "url": "https://open.spotify.com/album/7kJsbZCipdL5ZwprfdeumN"
+      },
+      "artists": [
+        {
+          "name": "Maithili Raelle",
+          "url": "https://open.spotify.com/artist/5R0tPXrFHERm5RJNgnupXt"
+        },
+        {
+          "name": "Hiii Siddity",
+          "url": "https://open.spotify.com/artist/2JL5oGZsW5lRhgMgTKsN0x"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172868,
+      "name": "I Choose Me",
+      "url": "https://open.spotify.com/track/2JRr0duRlPI7FylbChiUJ7"
+    },
+    {
+      "album": {
         "name": "Incomparable",
         "url": "https://open.spotify.com/album/1Gv2zeEquGOoPSbWjEeQSN"
       },

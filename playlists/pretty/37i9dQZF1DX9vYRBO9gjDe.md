@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。11月18日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,681 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,757 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [silent](https://open.spotify.com/track/7LsVUX6kePVHSohmWmAwaO) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [scent of memory](https://open.spotify.com/album/4itk7c0pByLsMzpwsajyW3) | 5:10 |
 | 50 | [WINDING ROAD](https://open.spotify.com/track/4JThXKJQV4h4wvriLKXXvd) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [Seasons Selection ～Spring～](https://open.spotify.com/album/7ynRjIJInnnqgXKbsAEOAH) | 4:59 |
 
-Snapshot ID: `AAAAAJcTwwjtw4GkfpjN/lbVPOebIPZv`
+Snapshot ID: `AAAAANKPiNuo0nHC8Mw4qhaGshtiWUGl`

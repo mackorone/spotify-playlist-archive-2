@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,688 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,743 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 99 | [1999 \- Instrumental](https://open.spotify.com/track/0ebcW3QhEaMXocUXXUvEux) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1999 / Like They Used To Say \(Remixes\)](https://open.spotify.com/album/2byo9R6o9jefFbDe5AUUYf) | 4:16 |
 | 100 | [Ultimo](https://open.spotify.com/track/1eiVzLJEZ9Fn3ubDec4Vnm) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Ultimo](https://open.spotify.com/album/7cK8rxHPtgIYcp417wQg2V) | 2:35 |
 
-Snapshot ID: `AAAAALZGmbK1k+o27u6N0D0axEMRNV/A`
+Snapshot ID: `AAAAAH7DlbLc7hl9Ov1IHVGd/K5rueoj`

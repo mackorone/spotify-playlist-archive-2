@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: YUJIN KIM\) \(새롭고 핫한 국내 재즈 음악들을 만나보세요.\)
 
-289 songs - 20 hr 2 min
+290 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Koi's Kingdom](https://open.spotify.com/track/1j2U7kwhsJvTfPcRYkwVBo) | [Echae Kang](https://open.spotify.com/artist/0reIv9BhOh8MRF71RuxHHB) | [Koi's Kingdom](https://open.spotify.com/album/2HajUU3V95X59f43ulHYwF) | 3:07 | 2023-12-12 | 2024-11-07 |
 | [Late Autumn](https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb) | [Heather](https://open.spotify.com/artist/4vE4SByWj4geUQdjZvyl9g) | [Late Autumn](https://open.spotify.com/album/1qhO8rdnpTvvrlwyYOcHdM) | 3:15 | 2022-11-11 | 2024-09-20 |
 | [Late Autumn](https://open.spotify.com/track/5HJu3wKHXUdcOs0wnjpNJQ) | [헤더](https://open.spotify.com/artist/72FPeJpnV2CQjdHRbrpehd) | [Late Autumn](https://open.spotify.com/album/4VkQFeNsVftX92t9LDphLk) | 3:15 | 2023-07-24 | 2024-04-19 |
+| [latte](https://open.spotify.com/track/4oj7zMeJg5jLTtzTJzj6wG) | [SAFEHSE](https://open.spotify.com/artist/0PCaA1FHplkJSy8fK7oilK) | [latte](https://open.spotify.com/album/183DHEvkZ48VupDyfe34Lh) | 2:52 | 2026-11-17 |  |
 | [let it flow](https://open.spotify.com/track/4tiw4EJUBYiyaCRZBeWNPd) | [Sunji Lee](https://open.spotify.com/artist/6JBv1lNpxPnxf2f4AxImDM) | [Oscillations](https://open.spotify.com/album/6aaHSGnPbyhjzjnHdKwIIv) | 6:12 | 2022-05-03 | 2022-05-19 |
 | [Letter](https://open.spotify.com/track/1pZqS2Juur0Nf0BNNhkzKW) | [MINHA KIM](https://open.spotify.com/artist/4uo8oZ3O0bUE6ZNZi92kam) | [Letter](https://open.spotify.com/album/1xBRgLBCMSBTaME0h4ohHt) | 3:45 | 2024-10-09 | 2025-05-28 |
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2023-10-16 | 2024-11-07 |
@@ -192,7 +193,7 @@
 | [Remember](https://open.spotify.com/track/76jnvd7nJdAfJfMLryTcGw) | [Music Destroyers](https://open.spotify.com/artist/5flL1TPdeAyGc5fb6Y8F6Y) | [Remember](https://open.spotify.com/album/421jqaV4XhjtV0X2qTcdes) | 3:19 | 2022-05-03 | 2022-05-19 |
 | [Rhythm of Hope \(Prod\. DPR CREAM\)](https://open.spotify.com/track/0337drC05b9vF1yD8gA66L) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 3:47 | 2022-05-03 | 2023-02-08 |
 | [Rio](https://open.spotify.com/track/48lfomyBFdLCXfBpcZyhQt) | [최보미](https://open.spotify.com/artist/4reDRRPmtXBJbqblTeDtPh) | [Rio](https://open.spotify.com/album/5RPRCu9BcWck0FZcyHVIDK) | 3:33 | 2023-07-19 | 2024-11-07 |
-| [Romance.\. \(With Danny Koo\)](https://open.spotify.com/track/1Ia6U6HSebBO6GRZug2iNX) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [a Letter of Romance](https://open.spotify.com/album/6Ie9Ph66tRLid1J4e9jT9Q) | 3:23 | 2025-07-22 |  |
+| [Romance.\. \(With Danny Koo\)](https://open.spotify.com/track/1Ia6U6HSebBO6GRZug2iNX) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2), [Danny Koo](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [a Letter of Romance](https://open.spotify.com/album/6Ie9Ph66tRLid1J4e9jT9Q) | 3:23 | 2025-07-22 |  |
 | [romanticismo](https://open.spotify.com/track/3gTV9SaJxRUX9OvHh27pXR) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [romanticismo](https://open.spotify.com/album/0aLKEufTt9T5KaYn4UzoXg) | 3:32 | 2024-11-27 | 2026-03-25 |
 | [rooftop story](https://open.spotify.com/track/7qDqkkAo9zPwAbTL0jvuLu) | [Song Hyukkyu](https://open.spotify.com/artist/2egNLLDYMhKXxFAgPOaxeq) | [Innocence of dawn](https://open.spotify.com/album/7oVjfpiung6nViuomF1YdL) | 3:40 | 2023-02-07 | 2024-11-07 |
 | [Roses and Pictures](https://open.spotify.com/track/2ZLUEHafxht1XPrpvXfPqk) | [이상아](https://open.spotify.com/artist/4tMWqFLIMTK1L9hiTLZqpJ) | [이상아의 재즈&피아노 Pt.2](https://open.spotify.com/album/3xsnHn0sZPPBagZ4uo17aQ) | 4:25 | 2024-09-19 | 2025-07-23 |
@@ -247,7 +248,7 @@
 | [The photo album](https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO) | [Modal](https://open.spotify.com/artist/7kao384lpsOV5S3UKdu403) | [Modalism](https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF) | 5:29 | 2024-09-13 | 2025-09-10 |
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 | 2023-02-08 |
 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 | 2022-05-03 | 2023-02-08 |
-| [Think About The Jazz](https://open.spotify.com/track/7dLZSRwgD7eY31RDeDmlxO) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Danny Sings](https://open.spotify.com/album/0gXvaL4A4zK6XnkbdqAAbm) | 2:35 | 2025-03-28 |  |
+| [Think About The Jazz](https://open.spotify.com/track/7dLZSRwgD7eY31RDeDmlxO) | [Danny Koo](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Danny Sings](https://open.spotify.com/album/0gXvaL4A4zK6XnkbdqAAbm) | 2:35 | 2025-03-28 |  |
 | [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 | 2023-01-13 | 2024-11-07 |
 | [Tic Toc](https://open.spotify.com/track/3v8tZDqJGf67V31paDAbd8) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/1pPdybb7qeAsSFyxV2YerW) | 3:29 | 2023-07-24 | 2024-04-19 |
 | [Time \(for Annie\)](https://open.spotify.com/track/4yWXTxic6c42tqgPpnZgOL) | [Sun\-Ho Frank Kim](https://open.spotify.com/artist/0DhWxMIv10oVw73Rkd3Ql7) | [Time](https://open.spotify.com/album/1Nr5iVRskqbUFA846VjmqI) | 3:07 | 2022-05-03 | 2023-02-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 81876,
+  "num_followers": 81883,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ90fIGospPQZ54lTjceQcxsrR0O",
+  "snapshot_id": "AAAAAOUGt0yjt0sHyShgxvt+YmB+vFnS",
   "tracks": [
     {
       "added_at": "2024-08-08 18:53:25",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Lambs Anger",
+        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Gay Dentists",
+      "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Hands: Bonus Disc",
         "url": "https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 386149,
       "name": "Stuck On Repeat - Fake Blood Mix",
       "url": "https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Lambs Anger",
-        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Gay Dentists",
-      "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
     },
     {
       "added_at": "2024-08-08 18:53:25",

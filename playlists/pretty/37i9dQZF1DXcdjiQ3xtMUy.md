@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Claydee, Rena Morfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,577 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,584 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 4 | [Tou Agoriou Apenanti](https://open.spotify.com/track/0yY0iAdNJDfUno1SKVN5NR) | [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [To Balkoni Tou Papazó](https://open.spotify.com/album/7zZZ1k99daZPC8HHr9WJxL) | 2:18 |
 | 5 | [SIMADI](https://open.spotify.com/track/0egPezwTy8DiyTRUHFbUDe) | [Michalis Karagkounis](https://open.spotify.com/artist/2pyJFxIC4rry7PluWUSiBD), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [SIMADI](https://open.spotify.com/album/51gIPvPrXSEo5KJjnf7Rpm) | 2:31 |
 | 6 | [LOCA](https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [LOCA](https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E) | 3:11 |
-| 7 | [KAKOS EAFTOS](https://open.spotify.com/track/4iErn0oXVMVnIk2tqUFaUI) | [FEVERTOOHIGH](https://open.spotify.com/artist/14jDG1IsRNgbwp44uyJV81), [HIT MACHINE](https://open.spotify.com/artist/5sf5nJwxeeMgsYlNsa0oX4) | [KAKOS EAFTOS](https://open.spotify.com/album/2An0UCaage6udJdy4PrBQ8) | 4:35 |
+| 7 | [KAKOS EAFTOS](https://open.spotify.com/track/4iErn0oXVMVnIk2tqUFaUI) | [FEVERTOOHIGH](https://open.spotify.com/artist/14jDG1IsRNgbwp44uyJV81) | [KAKOS EAFTOS](https://open.spotify.com/album/2An0UCaage6udJdy4PrBQ8) | 4:35 |
 | 8 | [Revma](https://open.spotify.com/track/4J7yq3ghKZmSublCTwRfF4) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Revma](https://open.spotify.com/album/7zYvgR6qc7FlKUetES3Oft) | 3:24 |
 | 9 | [Oneiro Vathi](https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Oneiro Vathi](https://open.spotify.com/album/641o0ItNropWRYCAUZkoTD) | 3:16 |
 | 10 | [GREEK LOVE](https://open.spotify.com/track/5FrtqrsOJd15eXWtKA88vD) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Athena Manoukian](https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0) | [Cruel Summer 3](https://open.spotify.com/album/5PLaA1KlPRZx1DUm7PhN15) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Esena Mono \- Malik Remix](https://open.spotify.com/track/5KNLxa9luSww08keMA65T0) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Esena Mono \(Malik Remix\)](https://open.spotify.com/album/2hrw2ocOVRZhCt0UYwyqjc) | 2:18 |
 | 50 | [Moiraia Sxesi](https://open.spotify.com/track/6EVzux5bgLYbYQX5ge4vIO) | [Marina Lamprou](https://open.spotify.com/artist/7iUCXsxIGTBfPEqSgyhYe5), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Moiraia Sxesi](https://open.spotify.com/album/41e2nWPNJCnHRpIwlIIZMn) | 2:54 |
 
-Snapshot ID: `AAAAANrPKjAIp70HmS0I1FNFLedLho5C`
+Snapshot ID: `AAAAAO5OdlOqxNdx0NvSAOSbMKDPeA70`

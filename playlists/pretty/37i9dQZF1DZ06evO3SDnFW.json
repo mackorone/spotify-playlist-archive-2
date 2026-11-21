@@ -1,12 +1,12 @@
 {
   "description": "This is Sam Fender. The essential tracks, all in one playlist.",
-  "num_followers": 257010,
+  "num_followers": 257096,
   "original_name": "This Is Sam Fender",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAB6pvJHsOK41jG2ftPAXwZ6",
+  "snapshot_id": "av48AAAAAADrwqMr9op1CLzvLHnWoxGE",
   "tracks": [
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/5VLWOZWrjoGJWEwt7xDRYA"
+      "duration_ms": 294746,
+      "name": "Empty Spaces",
+      "url": "https://open.spotify.com/track/1uBUgPtcd2EWKZ78FRijVb"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 294746,
-      "name": "Empty Spaces",
-      "url": "https://open.spotify.com/track/1uBUgPtcd2EWKZ78FRijVb"
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/5VLWOZWrjoGJWEwt7xDRYA"
     },
     {
       "added_at": null,

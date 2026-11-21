@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s nuevo de la M\u00fasica Mexicana. Cover: Camila Fern\u00e1ndez \ud83d\udcf8",
-  "num_followers": 730369,
+  "num_followers": 730441,
   "original_name": "All New M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE/dv29MKs4jRG1hqAORO9+pP/7x",
+  "snapshot_id": "AAAAAMjXAMYdHePezIAJtAEzcXepjfPz",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:44",
@@ -199,7 +199,7 @@
     {
       "added_at": "2026-11-20 05:01:44",
       "album": {
-        "name": "La Sandia",
+        "name": "En La Sand\u00eda",
         "url": "https://open.spotify.com/album/6GYiYhHSE15ELc2lumPjJd"
       },
       "artists": [
@@ -217,7 +217,7 @@
         }
       ],
       "duration_ms": 149162,
-      "name": "La Sandia",
+      "name": "En La Sand\u00eda",
       "url": "https://open.spotify.com/track/6Q84T0vLrUdYtkaDwwTwA6"
     },
     {
@@ -1233,7 +1233,7 @@
         }
       ],
       "duration_ms": 171200,
-      "name": "Intenso",
+      "name": "INTENSO",
       "url": "https://open.spotify.com/track/3zECAmenZqFieCRGLfG3Jn"
     }
   ],

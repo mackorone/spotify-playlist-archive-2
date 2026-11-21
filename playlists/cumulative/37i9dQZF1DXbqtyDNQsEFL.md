@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-847 songs - 3 day 0 hr 18 min
+848 songs - 3 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Freedom](https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9) | 2:40 | 2024-06-10 | 2024-07-27 |
 | [FREEDOM](https://open.spotify.com/track/3zbnmDcgr1stnp7VMecPTL) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [FREEDOM](https://open.spotify.com/album/4eVHpFE3L70YsFRW7bTEcL) | 2:32 | 2025-04-25 | 2025-05-16 |
 | [Freedom](https://open.spotify.com/track/5PEWr3EyHJPp0Ii8OpmT1B) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Freedom](https://open.spotify.com/album/4DSH6OSqbLCQv8t6cfQp6f) | 2:43 | 2024-09-27 | 2024-11-12 |
-| [freefall](https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [pilgrim](https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV) | 3:41 | 2026-10-16 |  |
+| [freefall](https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [pilgrim](https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV) | 3:41 | 2026-10-16 | 2026-11-21 |
 | [Fresh Wind](https://open.spotify.com/track/03dRFCBePUxmKYrL9im8v0) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [These Same Skies](https://open.spotify.com/album/162JpkoDVC2fowwp1pQ912) | 4:33 | 2026-01-09 | 2026-02-06 |
 | [Gallant](https://open.spotify.com/track/1Lmjh3qhOwibSlsrBmkUsx) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gallant](https://open.spotify.com/album/7kR0lwEA2gncJV1NJill1K) | 5:16 | 2023-12-05 | 2023-12-11 |
 | [Garden](https://open.spotify.com/track/26fP6qORAEPTbeKxLKGORh) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Garden](https://open.spotify.com/album/4li2lNlTmWPKTLKz0droR8) | 2:10 | 2026-08-07 | 2026-08-28 |
@@ -685,6 +685,7 @@
 | [Surrender](https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Surrender](https://open.spotify.com/album/7gWyosA6T2BtuHil6La76X) | 3:27 | 2023-08-25 | 2023-09-30 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-03-22 |
 | [Surrender](https://open.spotify.com/track/6oeevrLRLwMDuMufg1nChH) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Sekrade](https://open.spotify.com/artist/1fxpWAJkirYUPNg2ASbeaG), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Surrender](https://open.spotify.com/album/2x9PcrT6CZTzImlnCYOw2V) | 2:42 | 2026-03-06 | 2026-03-13 |
+| [TAKE CONTROL](https://open.spotify.com/track/2nW8b9iS0bw0VqmaIURQqV) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [TAKE CONTROL](https://open.spotify.com/album/1SZxFCuTBWqxmDf1tFfbM1) | 7:20 | 2026-10-30 |  |
 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 | 2026-04-10 |
 | [Take it All \- Live](https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio) | 10:21 | 2024-12-31 | 2025-01-07 |
 | [Take It Away](https://open.spotify.com/track/0G8lMIM9o6dfUhAsZixrZ9) | [Lessie](https://open.spotify.com/artist/4oUSgjXNqF3PNzhwZdRtPa) | [Take it Away](https://open.spotify.com/album/2hXgGWLKPhS2tgatl48gYz) | 2:56 | 2026-05-29 | 2026-07-24 |

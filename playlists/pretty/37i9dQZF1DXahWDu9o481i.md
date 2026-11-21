@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,718 likes - 62 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,455 likes - 62 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 14 | [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 |
 | 15 | [Are We Ever Gonna Work Out, Baby?](https://open.spotify.com/track/55cB2gvQbe5bmatXSNdOdp) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Long Life Living for a Lover Boy](https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8) | 2:51 |
 | 16 | [Guess](https://open.spotify.com/track/79N1to1hoaLfirS5M8H88A) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:36 |
-| 17 | [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 |
-| 18 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 |
+| 17 | [Wish Upon You](https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Wish Upon You](https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V) | 4:37 |
+| 18 | [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 |
 | 19 | [options](https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [options](https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy) | 3:32 |
 | 20 | [let’s talk about it](https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [let's talk about it](https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A) | 2:37 |
 | 21 | [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 37 | [What we want and need from love](https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF) | [Mila Bea](https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm) | [What we want and need from love](https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2) | 4:13 |
 | 38 | [Take It Off For You](https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Take It Off For You](https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7) | 2:36 |
 | 39 | [Buss Down \(1 Thing\)](https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Buss Down \(1 Thing\)](https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF) | 1:59 |
-| 40 | [Born Again](https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Born Again](https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v) | 3:37 |
-| 41 | [Call Me If You Need Me](https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO) | [Oshun Grizzly](https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [D3NZL](https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW) | [Call Me If You Need Me](https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo) | 2:22 |
+| 40 | [Call Me If You Need Me](https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO) | [Oshun Grizzly](https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [D3NZL](https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW) | [Call Me If You Need Me](https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo) | 2:22 |
+| 41 | [Born Again](https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS) | [Star Moles](https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf) | [Born Again](https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v) | 3:37 |
 | 42 | [Honey Is My New Favorite](https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK) | [Honey Is My New Favorite](https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl) | 2:23 |
 | 43 | [laundry song](https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [laundry song](https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W) | 3:47 |
 | 44 | [Knife](https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Sunshine](https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4) | 2:31 |
 | 45 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 |
 | 46 | [Covergirl](https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Nature's Pill](https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM) | 4:17 |
 | 47 | [Stalks](https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Stalks](https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC) | 2:47 |
-| 48 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
-| 49 | [Can I Smoke In Here?](https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Can I Smoke In Here?](https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu) | 2:42 |
+| 48 | [Can I Smoke In Here?](https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Can I Smoke In Here?](https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu) | 2:42 |
+| 49 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
 | 50 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
 | 51 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 |
 | 52 | [SUPERHERO](https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FAITH OVER FAME](https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI) | 3:14 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 61 | [The Girl \(feat\. yunè pinku\)](https://open.spotify.com/track/1PQfMjnZQSkvlrh8YiidiN) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [The Girl \(feat\. yunè pinku\)](https://open.spotify.com/album/7hwWqMaQXl9123zUweN9mA) | 2:52 |
 | 62 | [Karma](https://open.spotify.com/track/4s1xndGOzjMU1sSgC8FJkz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 3:29 |
 
-Snapshot ID: `AAAAAH4nZM/rqRsO8Z+BMtnzgUkY1iaz`
+Snapshot ID: `AAAAAIiyyLvKyKboX2+8FZKtMlPVU837`

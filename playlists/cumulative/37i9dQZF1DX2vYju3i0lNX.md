@@ -4,7 +4,7 @@
 
 > Mellow jazz for focus or unwinding.
 
-1,415 songs - 3 day 11 hr 5 min
+1,420 songs - 3 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-13 | 2024-08-07 |
 | [A Minor Talent](https://open.spotify.com/track/6nSIVgNWX3OjzHbnmfKg7s) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [A Minor Talent](https://open.spotify.com/album/2xwG9Qg8jZJRRUfd8M7kiD) | 2:37 | 2024-10-01 | 2025-11-19 |
 | [A Minor Thing](https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Minor Thing](https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv) | 3:37 | 2024-04-16 | 2026-01-27 |
+| [A moment to admire](https://open.spotify.com/track/6C1XD6vYmB0YecRoy4Z288) | [Autumn Steps](https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp) | [A moment to admire](https://open.spotify.com/album/6lVb1CC2P1BfLcA7HD1jm7) | 3:02 | 2026-11-20 |  |
 | [A Mutual Friend](https://open.spotify.com/track/0oo7APt2BwlH2DvLo163xC) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [A Mutual Friend](https://open.spotify.com/album/2iXXIsxR5dYhxMGAdrhK74) | 3:40 | 2026-01-16 |  |
 | [A New Hope](https://open.spotify.com/track/77fb2hmBPLvOod5ij9rsmx) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [A New Hope](https://open.spotify.com/album/0yX04smpSOdGBQsWMZ1Pmu) | 4:02 | 2025-07-01 |  |
 | [A New Story](https://open.spotify.com/track/2vgXZPi6Kh0iKWzI0Cw1pf) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [A New Story](https://open.spotify.com/album/3txv5NrvYUyxgEwxCHlYlG) | 3:41 | 2024-07-08 | 2024-11-26 |
@@ -56,6 +57,7 @@
 | [A Silent Call](https://open.spotify.com/track/4OFgo7TcxuJlYSAmiX3b7S) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [A Silent Call](https://open.spotify.com/album/6Kh4RqfPNDTp2gYdhkPQaX) | 3:23 | 2024-12-16 | 2025-11-19 |
 | [A Silent Place](https://open.spotify.com/track/1LarksQOfjXTKovfdYa6pd) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [A Silent Place](https://open.spotify.com/album/3N1vEv9Nnwcm76KePlour5) | 4:29 | 2024-08-26 | 2025-11-19 |
 | [A Sleepin' Bee](https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [A Sleepin' Bee](https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p) | 3:42 | 2022-09-29 | 2025-11-19 |
+| [A Small Thing Again](https://open.spotify.com/track/6FWoFBxcm8eObSs1u4EwKe) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [A Small Thing Again](https://open.spotify.com/album/4Eda385DeRnw3pyJ980nZh) | 3:27 | 2026-11-20 |  |
 | [A Swim in Pine Lake](https://open.spotify.com/track/0jufuLT8UYZLQu2yaaS52B) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [A Swim in Pine Lake](https://open.spotify.com/album/7qlQWrxfurEmYnOt8ITdjK) | 3:21 | 2024-03-08 | 2026-01-27 |
 | [A Thousand Candles](https://open.spotify.com/track/2LQF9MV2AXRoEO7wuMeMU9) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [A Thousand Candles](https://open.spotify.com/album/7lgKtuU9h7UDlYJzvcUzb4) | 3:35 | 2025-09-03 | 2026-07-18 |
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-02-23 | 2025-11-19 |
@@ -64,6 +66,7 @@
 | [A Wayfarer's Tale](https://open.spotify.com/track/0RrvMxwdAX6qBQHjR3EEPZ) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [A Wayfarer's Tale](https://open.spotify.com/album/3E7581DaCGTtHOi5KvwYpN) | 3:34 | 2023-10-27 | 2025-03-19 |
 | [A Wondrous Day at Sea](https://open.spotify.com/track/1qe1tA11dGRosaBxbKutUr) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Wondrous Day at Sea](https://open.spotify.com/album/5pgUveuZNbekDjIK3DXx3k) | 3:22 | 2024-03-22 | 2024-10-02 |
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2021-12-07 | 2022-02-16 |
+| [Able to Find Someone](https://open.spotify.com/track/2PFFa093JmpjTrWPgJlGeM) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Able to Find Someone](https://open.spotify.com/album/4mJbkDBN6biifYA4U5vdGf) | 3:10 | 2026-11-20 |  |
 | [Above All](https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Above All](https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ) | 3:02 | 2023-11-24 | 2025-02-11 |
 | [Above Clouds](https://open.spotify.com/track/7mKrA0Q90CFm0Rkbj4XFIM) | [Midnight Window Trio](https://open.spotify.com/artist/5c4URlpWr8dcszzPFYC8Ut) | [Above Clouds](https://open.spotify.com/album/5bPcHJmy6Gw5AYSXFUT5Wz) | 3:27 | 2025-09-17 |  |
 | [Abrupt Transition](https://open.spotify.com/track/7sxiGr7dQRUYJj0Rd31wJP) | [The Backridges](https://open.spotify.com/artist/33BcDolNeoUrJQPKYsvxia) | [Abrupt Transition](https://open.spotify.com/album/76Ul5WYmxGMryOqCIDMRu0) | 3:18 | 2026-04-10 |  |
@@ -523,6 +526,7 @@
 | [I Guess That Too](https://open.spotify.com/track/3H9howcJYmpW8d5wPqrgQd) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [I Guess That Too](https://open.spotify.com/album/6tQUVmdC5BUcVR0BiBpzPR) | 3:56 | 2024-07-01 | 2026-01-27 |
 | [I Hate to Say Goodbye](https://open.spotify.com/track/4ABVyxd2lsVW4J0TxlIcF5) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [I Hate to Say Goodbye](https://open.spotify.com/album/7kE0aft0tx52ddIidg6odz) | 4:00 | 2024-08-06 | 2025-11-19 |
 | [I Hear You Now](https://open.spotify.com/track/6SMfs8KCyzSANk33d3cQcN) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [I Hear You Now](https://open.spotify.com/album/7KAddonNSAiDuYBlMZIYS3) | 3:43 | 2024-01-12 | 2024-08-20 |
+| [I just came to say hi](https://open.spotify.com/track/1TXtFuuqbbTtiesj5UM1M8) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [I just came to say hi](https://open.spotify.com/album/1qpoiptsJQ9pEr4dEhdIoE) | 3:10 | 2026-11-20 |  |
 | [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 | 2025-03-25 |
 | [I Let You Go](https://open.spotify.com/track/2MUAcWl4bGxBtVUlUxC3xj) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [I Let You Go](https://open.spotify.com/album/7J3h6X9DQ1xtAzbcr6qlZU) | 4:08 | 2024-11-18 | 2025-11-19 |
 | [I Love You](https://open.spotify.com/track/1KmGXs3D1oKmVriBrJrIaA) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [I Love You](https://open.spotify.com/album/1nImZPHcIonDTwOkKKrozi) | 2:46 | 2023-11-24 | 2025-11-19 |
@@ -696,6 +700,7 @@
 | [Let's Fall In Love](https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Let's Fall In Love](https://open.spotify.com/album/7G0rXg3K3k85sqOLOeBokT) | 2:50 | 2023-12-08 | 2025-11-19 |
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 | 2025-03-04 |
 | [Let's Have Lunch at the Counter](https://open.spotify.com/track/7GsguN3kbzxm2n4kCEbXUf) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Let's Have Lunch at the Counter](https://open.spotify.com/album/3YcoF3yc2mpOsBCBO1dOwE) | 2:46 | 2024-02-09 | 2025-11-19 |
+| [Let’s Take 5](https://open.spotify.com/track/5vnqjALO8BlUFkfoqzMXJI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let’s Take 5](https://open.spotify.com/album/75grrGfprZLXtQHfK42Rw2) | 3:03 | 2026-11-20 |  |
 | [Licence to You](https://open.spotify.com/track/624ayxXkiDege3km1drmBj) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Licence to You](https://open.spotify.com/album/5sl6flvECpyIDwKgCDT1jB) | 3:48 | 2024-04-02 | 2025-11-19 |
 | [Like A Dream](https://open.spotify.com/track/0eZ0WtL0Xp12eEMEcehx8U) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Like A Dream](https://open.spotify.com/album/0VftaQKSY89g5zCH1cx5ns) | 3:25 | 2025-08-27 | 2025-09-18 |
 | [Like a Starfish in the Sea](https://open.spotify.com/track/3BoZ25lh3CE3wkrkVl49qT) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Beauty Becomes You](https://open.spotify.com/album/4sBnW9DTjFjoZQQtVRedpm) | 3:07 | 2023-10-20 | 2025-07-24 |

@@ -4,7 +4,7 @@
 
 > LISA SCHA en portada.
 
-808 songs - 1 day 18 hr 23 min
+809 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Ella se burló de mí](https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:30 | 2023-10-13 | 2023-11-11 |
 | [Ella Usó Mi cabeza Como Un Revólver \- Spotify Singles](https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Spotify Singles](https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT) | 4:19 | 2024-11-08 | 2025-03-01 |
 | [En el Humo](https://open.spotify.com/track/0WBikXl6kKfzOKCYGXQhv1) | [Camila Abril](https://open.spotify.com/artist/326jLhQ753w2gs1YHYKbnO), [Sofía Naara](https://open.spotify.com/artist/1YfbK6k6rXJVRPlqELvtyE) | [Todo el Brillo](https://open.spotify.com/album/6y8VWG9OceT3FqLEDbgdTQ) | 3:45 | 2026-08-21 |  |
-| [En Los Sueños](https://open.spotify.com/track/7a3BtnxJWh4Hr0dfLo467F) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:43 | 2026-09-25 |  |
+| [En Los Sueños](https://open.spotify.com/track/7a3BtnxJWh4Hr0dfLo467F) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:43 | 2026-09-25 | 2026-11-21 |
 | [En medio del desierto](https://open.spotify.com/track/3ipNbjYAmYgmBWRTW7m5xp) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [DOPAMINA](https://open.spotify.com/album/1Kw16YfS5WXfoRKU4QLoRD) | 3:07 | 2025-07-18 | 2025-11-29 |
 | [En Vano](https://open.spotify.com/track/6R12ZDn9nyXSdKlT36EhQm) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [En Vano](https://open.spotify.com/album/2dRft0eBfDnPAJ1cegh0Vy) | 2:54 | 2026-08-14 | 2026-10-16 |
 | [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 | 2024-03-22 | 2024-05-11 |
@@ -565,6 +565,7 @@
 | [Pero mi mente no me deja](https://open.spotify.com/track/4LKOMJEmMfaz9SRSkbHn0O) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [SUBIDOS AL PONY](https://open.spotify.com/album/46rFn3rJ8c4kvk8gSsLaI0) | 3:59 | 2025-09-12 | 2025-11-20 |
 | [Pesar](https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Pity Alvarez](https://open.spotify.com/artist/3ZM2EFVMGSXyEqn3l3HA26) | [Pesar](https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky) | 4:27 | 2024-10-11 | 2024-11-30 |
 | [Piel](https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Piel](https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2) | 3:29 | 2024-03-29 | 2025-04-04 |
+| [Pierdo la cabeza](https://open.spotify.com/track/01Dxgbmb8DPGqv9RAVvegW) | [Ceretti](https://open.spotify.com/artist/1mxmzlsBQxSDeXBDIj9emf) | [Pierdo la cabeza](https://open.spotify.com/album/35aHq0UtKY4UPw2ja5QIOD) | 4:15 | 2026-11-20 |  |
 | [Pinky](https://open.spotify.com/track/3rLeIIU6jILu8NmL0fmaRK) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF), [RIZHA](https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI) | [Pinky](https://open.spotify.com/album/6b8kR1f9PR7r9gGfdgIFT4) | 2:51 | 2026-07-17 | 2026-07-31 |
 | [Piola](https://open.spotify.com/track/1K5cL6O2dHT985ad2p1Cbm) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Piola](https://open.spotify.com/album/4WnVzvPrkXDRqPrJIjJ9pz) | 3:01 | 2023-10-13 | 2024-03-23 |
 | [Pipe Down](https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pipe Down](https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz) | 2:55 | 2024-01-19 | 2024-01-27 |

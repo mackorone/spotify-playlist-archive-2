@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,892 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,970 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [B4 B4 \(with Mayorkun & FOLA\)](https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:46 |
 | 50 | [GG](https://open.spotify.com/track/6t5cvs3MFp1iFL7xbwWXeT) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [GG](https://open.spotify.com/album/70Dh1aKJob1dlNyzDh2Nlr) | 3:03 |
 
-Snapshot ID: `AAAAAHQakHXR0PhCtzm7eIoVt5TTIo7j`
+Snapshot ID: `AAAAAKxQFHeK6+G1vedREQYxUpvy7SQa`

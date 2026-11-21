@@ -1,12 +1,12 @@
 {
   "description": "New music from Dua Lipa, Warhaus, Zo\u00eb Livay,  Jul & J Balvin, Ad\u00e8le Castillon, Zwangere Guy & Sef and more...",
-  "num_followers": 54932,
+  "num_followers": 55050,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcWU4cxxt1SBwBZ1NzeO7QRh4UF",
+  "snapshot_id": "AAAAAPRHjlbltfqJlxhDNrINQaapPG3O",
   "tracks": [
     {
       "added_at": "2026-11-19 23:02:26",
@@ -20,7 +20,7 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },
@@ -291,7 +291,7 @@
     {
       "added_at": "2026-11-19 23:02:26",
       "album": {
-        "name": "Around The World",
+        "name": "All Around The World (La La La La La)",
         "url": "https://open.spotify.com/album/6SEUHbva11yfBYcuurWGoK"
       },
       "artists": [
@@ -305,7 +305,7 @@
         }
       ],
       "duration_ms": 126400,
-      "name": "Around The World",
+      "name": "All Around The World (La La La La La)",
       "url": "https://open.spotify.com/track/6M13rru1yByqJG8NqCNha2"
     },
     {
@@ -1322,6 +1322,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "duration_ms": 182000,

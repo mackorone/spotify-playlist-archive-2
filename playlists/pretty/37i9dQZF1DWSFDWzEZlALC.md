@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,391 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,486 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Düren](https://open.spotify.com/track/1FCoGPb0tQyCxV5cSlYQLI) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Bad Düren](https://open.spotify.com/album/7Aq2rOEqlvC9ihTG19IzwD) | 1:47 |
 | 2 | [keine freunde](https://open.spotify.com/track/2ANRzIoEoHfEGdovYeWzJn) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [Panorama](https://open.spotify.com/album/3HyCyLodVfdUsL9dQyi4ru) | 2:01 |
-| 3 | [Blumen geschenkt](https://open.spotify.com/track/4bhiE9z1G6w4NDfHOACB1u) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Blumen geschenkt](https://open.spotify.com/album/7m551qrKMvSQY8RB8Ujpfj) | 4:56 |
+| 3 | [Blumen geschenkt](https://open.spotify.com/track/4bhiE9z1G6w4NDfHOACB1u) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Blumen geschenkt](https://open.spotify.com/album/7m551qrKMvSQY8RB8Ujpfj) | 4:56 |
 | 4 | [Scheitern](https://open.spotify.com/track/3QFNqRn1g5jSuWaE4LIm9B) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren \(Deluxe Version\)](https://open.spotify.com/album/0vDrER9fy9sQ1jNiJoJKi8) | 2:02 |
 | 5 | [es tut nur weil's schön war weh](https://open.spotify.com/track/0vZprjl93WErvZiAZA4yAz) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [es tut nur weil's schön war weh](https://open.spotify.com/album/6yiEYbUzTW5gcMqkitgsHj) | 2:34 |
 | 6 | [garnichts mehr](https://open.spotify.com/track/1ETcxn1m4SQLKyuxNQWxhd) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [garnichts mehr](https://open.spotify.com/album/6vCO5cmKyseqVoNFrxSd1z) | 1:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [ALLES WAS ICH HASS](https://open.spotify.com/track/6J7Q0gOTdEtH5AJHZOrJ7P) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [Die kleinste Stadt](https://open.spotify.com/album/07OJjbzHj4Cd4xF3IQB67H) | 2:32 |
 | 75 | [Stille](https://open.spotify.com/track/5ZeMthVlLr3CFHYOUfv5U5) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Stille EP](https://open.spotify.com/album/5YzhHMU4eQyu1aovE6Bj0S) | 2:59 |
 
-Snapshot ID: `AAAAAOFusvAQifZAVmYUuIW5X8zEu64L`
+Snapshot ID: `AAAAAMHfADlngHGXha9rpZ/nFeU3L7LB`

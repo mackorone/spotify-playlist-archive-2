@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,523 songs - 3 day 9 hr 31 min
+1,524 songs - 3 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [El Problema Del Amor](https://open.spotify.com/track/0qDqdzfkWlI3GxTOKyeV1E) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [El Regreso](https://open.spotify.com/album/13P9Qaty5SUmKgpSvpbOYt) | 3:40 | 2025-11-05 | 2025-11-11 |
 | [El Problema Del Amor](https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [El Problema Del Amor](https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv) | 3:40 | 2025-11-01 | 2025-11-03 |
 | [El Pronóstico](https://open.spotify.com/track/3SyKJIkKoA4RFMrdqYSTxj) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [KINGTO](https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ) | [El Pronóstico](https://open.spotify.com/album/1xYzvFY0GUHYbWx7uAYoTI) | 2:08 | 2024-08-10 | 2024-12-11 |
+| [El Riesgo](https://open.spotify.com/track/5oxGnXpTRvlcNXiT5BbpHz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/6VmJdoJmr6JZkcs2XRV40M) | 4:28 | 2026-11-20 |  |
 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 | 2026-09-13 | 2026-09-17 |
 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 | 2026-07-29 | 2026-11-06 |
 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 | 2026-08-01 | 2026-11-01 |
@@ -1004,7 +1005,7 @@
 | [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 | 2025-01-07 | 2025-02-10 |
 | [Perlas Negras](https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:23 | 2025-08-10 | 2025-09-01 |
 | [PERRA](https://open.spotify.com/track/0QQthhuTn2aYB0ZxILCf48) | [Lezcano Alan](https://open.spotify.com/artist/4JeRrGerAf9K5h4sp7Usjz) | [PERRA](https://open.spotify.com/album/3v7GytozWQfABUcQ09OqFB) | 2:03 | 2026-11-01 | 2026-11-11 |
-| [PERRA](https://open.spotify.com/track/50wj4bXPnhUOw0zV5h9dd2) | [Lezcano Alan](https://open.spotify.com/artist/4JeRrGerAf9K5h4sp7Usjz) | [PERRA](https://open.spotify.com/album/2bO6LeqPdNSRghRf87ptn1) | 2:03 | 2026-11-13 |  |
+| [PERRA](https://open.spotify.com/track/50wj4bXPnhUOw0zV5h9dd2) | [Lezcano Alan](https://open.spotify.com/artist/4JeRrGerAf9K5h4sp7Usjz) | [PERRA](https://open.spotify.com/album/2bO6LeqPdNSRghRf87ptn1) | 2:03 | 2026-11-13 | 2026-11-21 |
 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 | 2021-05-26 | 2021-08-11 |
 | [Perreo Bendito](https://open.spotify.com/track/69n1Bh7n79MXbA9XqH4MfM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:39 | 2022-06-25 | 2022-07-02 |
 | [Perrito Malvado](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Marita](https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ) | [Perrito Malvado](https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ) | 4:40 | 2021-12-26 | 2021-12-27 |

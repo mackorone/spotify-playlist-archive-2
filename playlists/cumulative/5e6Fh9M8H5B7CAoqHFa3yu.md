@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,842 songs - 6 day 21 hr 8 min
+2,847 songs - 6 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1340,6 +1340,7 @@
 | [La Porta dell' Est \(Trieste è così\)](https://open.spotify.com/track/51Sra4wnL833h6knzB72YA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [La Porta dell' Est \(Trieste è così\)](https://open.spotify.com/album/3SNaeqdZ3BRk7b9waYNdmk) | 4:30 | 2025-11-14 |  |
 | [La Root](https://open.spotify.com/track/09HsYUF9T2bEJMJQUesg5J) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Legacy Of the Sun](https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s) | 3:20 | 2024-03-10 |  |
 | [La rossa](https://open.spotify.com/track/5xxqCPto5WkEQGcyCT7VKN) | [Martino Stripoli](https://open.spotify.com/artist/5UdNN2pxDMK4USUqEqWUku) | [La rossa](https://open.spotify.com/album/0kr0iwaYQH9pCsUNWQtrgM) | 3:07 | 2025-09-08 |  |
+| [La soledad](https://open.spotify.com/track/0mGtkcWys9267jyvwupEmO) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [La soledad](https://open.spotify.com/album/3I5oCFyMGarSEBkdYQfQpe) | 1:35 | 2026-11-20 |  |
 | [La Ziminadda di Dominichinu \- Orchestral Version](https://open.spotify.com/track/0mc8ZILVFn9naG604eJCd7) | [Los Amigos](https://open.spotify.com/artist/2tZ5WLSncaSlhmRkBuILPu), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [La Ziminadda di Dominichinu \(Orchestral Version\)](https://open.spotify.com/album/7jXo0AURN3pDWXC3M1sEWz) | 3:37 | 2026-08-24 |  |
 | [Labiracja](https://open.spotify.com/track/2y2AS19DFQAspmVk73ZkWh) | [Sierpu](https://open.spotify.com/artist/3KMXxgdgbehB8ELRqunraF), [Łukasz Piszczek](https://open.spotify.com/artist/1r8Vw9ItwBujF8wFRrcctX) | [Labiracja](https://open.spotify.com/album/49TzYyUWz4QCmlxlZXwkrx) | 3:14 | 2025-08-02 |  |
 | [Lady Laura](https://open.spotify.com/track/5fMQ6RfiEXDYw3OsDkHSJK) | [Carlo Audino](https://open.spotify.com/artist/67lsVndBoiZORqZdHSCoQl) | [Non lasciarmi più](https://open.spotify.com/album/7pk6kZYfvoQHvcSbONQ2b6) | 4:45 | 2023-09-11 |  |
@@ -1624,6 +1625,7 @@
 | [My Baby Is a Superstar](https://open.spotify.com/track/3zUViqxMkQyeli2dBUzlH0) | [Peter Foreman](https://open.spotify.com/artist/5r2w9FvNgxIeSQuQuuBZph) | [My Baby Is a Superstar](https://open.spotify.com/album/4Ld8PrwGL5IYjQ0JJZPJ6M) | 3:15 | 2026-06-01 |  |
 | [My Biggest Fan](https://open.spotify.com/track/2qfPuBESKKnAWI1KRuTwnn) | [BIGG BAGGZ](https://open.spotify.com/artist/51j5AJZDaLf8GFSu5am0WE) | [My Biggest Fan](https://open.spotify.com/album/4WN8Zm2Jb39ItoC6z9zrJR) | 2:48 | 2025-10-07 |  |
 | [My Butterfly Dream's](https://open.spotify.com/track/57cKFWmHj6ZEvfCg4P59YI) | [RZWY](https://open.spotify.com/artist/6kjbhDLFGX81REbc6EACk4) | [My Butterfly Dream's](https://open.spotify.com/album/63Ot1I8sVGao8RdUDbJdWk) | 3:42 | 2025-05-22 |  |
+| [My Christmas List](https://open.spotify.com/track/7GhjVqfGARxRhvYLzpREiT) | [Parrot Loops](https://open.spotify.com/artist/5cgWl5jbeUyyU1qN6yFKTp) | [My Christmas List](https://open.spotify.com/album/4KSmDHZk3Vg2yVvLPPXR4g) | 2:37 | 2026-11-20 |  |
 | [My Dear Moon](https://open.spotify.com/track/5Z8esB9VR06kcNQ660qmxV) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [My Dear Moon](https://open.spotify.com/album/4ocryLazIq64xWQOvrzSKg) | 3:18 | 2025-09-28 |  |
 | [My dear ocean](https://open.spotify.com/track/6Vx7rnrs7bpBPqK6eFitjZ) | [Minhye J](https://open.spotify.com/artist/2E2b8xg4MmesEDv6QKZRiy) | [My dear ocean](https://open.spotify.com/album/77il9l2AGpvf1ieD1kRRTz) | 4:01 | 2025-11-20 |  |
 | [My Deliverer](https://open.spotify.com/track/49JD9uFWuq0s4yNCkyGpdp) | [R\-Juna](https://open.spotify.com/artist/0aQXmVGvxpQmQ3UbZttDBb) | [Rockers Dub](https://open.spotify.com/album/42ACrs0ZZyfAgihGeNImLE) | 5:31 | 2024-06-30 |  |
@@ -1721,6 +1723,7 @@
 | [No more Gunmen Dub \(cut 1\)](https://open.spotify.com/track/2XETSASDmBQ4yUUBvV9Qv6) | [Dubmaster Conte](https://open.spotify.com/artist/12Ms9bkvJpFIpOFN6V8ZYl) | [No more Gunmen / Bababoom Dub](https://open.spotify.com/album/3Tnqm0VucHtZLb73asZEZS) | 3:50 | 2026-09-03 |  |
 | [No No No](https://open.spotify.com/track/4DcJqeEsFI9q31wGoSU9fQ) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [No No No](https://open.spotify.com/album/6BueIXrNmmvd1ShZAxja7m) | 2:42 | 2025-08-06 |  |
 | [No One Like You](https://open.spotify.com/track/52LKwIbzBGEiByhT01Mn65) | [Sandi Padilla](https://open.spotify.com/artist/2iSXutDQwaCqQX7xujsUWq) | [The Frequency of Healing](https://open.spotify.com/album/2klgeDpHJWUaO4ractZY05) | 6:22 | 2025-08-12 |  |
+| [No One Tames the Fire](https://open.spotify.com/track/0onNW8eVxKnzS05UEog6tw) | [awilli9004](https://open.spotify.com/artist/6nQMOiWajkm9VmGDc7otaM) | [Written in a Different Key](https://open.spotify.com/album/3bvvulXZ0YofKDwpxS6gVs) | 2:57 | 2026-11-20 |  |
 | [NO OTHER](https://open.spotify.com/track/5G8bWK2iFuuubSZubcIm0P) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [NO OTHER](https://open.spotify.com/album/0nfXp673v2JUFjO85Dz5AB) | 7:00 | 2026-09-14 |  |
 | [No Other Dub](https://open.spotify.com/track/1TzsrmvHTedCaLDl1UKS2t) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:32 | 2024-03-25 |  |
 | [No Peace](https://open.spotify.com/track/6j1FRcO0AlBxkoFFqwhnCb) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu), [Pasnbesa](https://open.spotify.com/artist/5Y2bckLQhabsfHtaQ5rHZq) | [No Peace](https://open.spotify.com/album/4he5tNS0pe4NllI3n3sLVB) | 3:57 | 2024-09-21 |  |
@@ -1776,6 +1779,7 @@
 | [On Mine](https://open.spotify.com/track/1e4cscBCr2jSn2etp9fUvj) | [Atossa](https://open.spotify.com/artist/2k1zRozo0VCPb7h3jcqCje) | [On Mine](https://open.spotify.com/album/5Hb0lu9rkl24JapCulcLNj) | 3:29 | 2026-09-06 |  |
 | [On my Mind](https://open.spotify.com/track/4qTbFvNuU8c2yhSnzq54Ge) | [ITZ](https://open.spotify.com/artist/4iiraoDwoUYNr0fSUPGobd) | [On my Mind](https://open.spotify.com/album/5dHtRr1MfexaUA0Ydtampx) | 3:12 | 2025-08-14 |  |
 | [On to Something](https://open.spotify.com/track/0jqDscVcmnwLDEcRyYbmeY) | [Twan Blow](https://open.spotify.com/artist/6QQiRwr2qoowyy0sbPv3yv) | [On to Something](https://open.spotify.com/album/5K678HY1Imwsd5L4cRA1w4) | 3:04 | 2025-10-07 |  |
+| [Once in Royal David’s City](https://open.spotify.com/track/6nzBkwV0ykb7ptwnSExKv6) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Once in Royal David’s City](https://open.spotify.com/album/4i7dORCHIs43OCT56T9l22) | 2:18 | 2026-11-20 |  |
 | [One Better](https://open.spotify.com/track/45wViUjhlClQRK1cqM2ptP) | [Les Claypool](https://open.spotify.com/artist/1oM1vgebNTCZmVYwC3YYl8) | [Of Whales and Woe](https://open.spotify.com/album/1Ebb7SpWpE0Ioy8f9I9meX) | 5:59 | 2025-11-20 |  |
 | [one cigarette more](https://open.spotify.com/track/4JtBxIgorR07GHvsQa7CJn) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [one cigarette more](https://open.spotify.com/album/5gyvJsBHCkSbRuCfby5HD6) | 1:09 | 2025-07-24 |  |
 | [One Drop Of Living Water](https://open.spotify.com/track/29PRPpkWjjlIo0OXnyhKPb) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [Streams Of Living Water](https://open.spotify.com/album/4hkSPiVqKSZxxzXxpeNOdX) | 4:48 | 2024-03-22 |  |
@@ -2724,6 +2728,7 @@
 | [Wild Rose](https://open.spotify.com/track/1DSxPvR3hWSxPLvjESBJE6) | [Adam Briscoe](https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y) | [Wild Rose](https://open.spotify.com/album/7JEpKrtSqRtSXctVEyrThS) | 4:13 | 2026-04-22 |  |
 | [Wind of Memory](https://open.spotify.com/track/5zZIlhK0uriz3OCafDyTiO) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Wind of Memory](https://open.spotify.com/album/2mm8mdKvVf3wmqK3X8ZEKo) | 3:25 | 2023-08-16 |  |
 | [Winding Down](https://open.spotify.com/track/23up0WOGztxs52xTrPVajM) | [Robe Mode](https://open.spotify.com/artist/75v4Ig5LovCRPKJvQ2Gm7B) | [Winding Down](https://open.spotify.com/album/3xJftarohwHPE4GmgPyTyI) | 1:39 | 2025-11-14 |  |
+| [Winter Landscape](https://open.spotify.com/track/6Olqq7ehZrE6UE9EH5cZTt) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Winter Landscape](https://open.spotify.com/album/4NOyEsXiVy3lgQXei07jdj) | 2:27 | 2026-11-20 |  |
 | [Winter Merry](https://open.spotify.com/track/3UuTeffQjzkVdx1o980TMt) | [柯淳恩](https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82) | [Winter Merry](https://open.spotify.com/album/16vHUPwb2WQnoTTEvBfqrf) | 3:24 | 2025-12-26 |  |
 | [Wisdom Dub](https://open.spotify.com/track/4eIUYoh5YIlFDu3Io02cdi) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 3:11 | 2024-03-25 |  |
 | [Wise Dub](https://open.spotify.com/track/0TvfPQE7DYshEdPiD6XioH) | [Sir Racha](https://open.spotify.com/artist/5fIYHmDR0buHQzceD0zQa8) | [Gimme the Weed](https://open.spotify.com/album/6lruPpSjkIk1l4EFg4PT61) | 3:19 | 2024-05-01 |  |

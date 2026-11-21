@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1045437,
+  "num_followers": 1045375,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM6t+BjMoGJ0Bs8J+yEhv/5+79SL",
+  "snapshot_id": "AAAAAOGhVlCcI59IrKMqTRDCz6UnszVv",
   "tracks": [
     {
       "added_at": "2026-07-17 15:52:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Trevor Hall",
-        "url": "https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Where's The Love",
-      "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Set Yourself Free",
         "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 169911,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/5Yfvo0NueXP0DiveWmH3Za"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Trevor Hall",
+        "url": "https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Where's The Love",
+      "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Sunday Vibe",
-        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Sunday Vibe",
-      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "From Here To Now To You",
         "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 304322,
       "name": "Jump",
       "url": "https://open.spotify.com/track/4IIxGyabRyqXOnnBa99cKT"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Sunday Vibe",
+        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Sunday Vibe",
+      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "River Guide You",
-        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 189702,
-      "name": "River Guide You",
-      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Inner Love Energy",
         "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 219598,
       "name": "I'm Rich",
       "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "River Guide You",
+        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 189702,
+      "name": "River Guide You",
+      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Sunburn (with Tropidelic)",
-        "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
-      },
-      "artists": [
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        },
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 240435,
-      "name": "Sunburn (with Tropidelic)",
-      "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Setting Out for the Sun",
         "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 270228,
       "name": "Setting Out for the Sun",
       "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Sunburn (with Tropidelic)",
+        "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
+      },
+      "artists": [
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        },
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 240435,
+      "name": "Sunburn (with Tropidelic)",
+      "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "IRL",
-      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "If You Wanna Roll (with The Elovaters)",
         "url": "https://open.spotify.com/album/5e5cvqzU4lNCZQJJmZPHLx"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 179228,
       "name": "If You Wanna Roll (with The Elovaters)",
       "url": "https://open.spotify.com/track/0fbrmERo8JtzODur1bPazG"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Respect",
-        "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
-      },
-      "artists": [
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 203664,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Respect",
+        "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2223,6 +2223,26 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Two (with The Hip Abduction)",
+        "url": "https://open.spotify.com/album/1aQ2utdXHjEVtHf8C3ff1Z"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        },
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 213233,
+      "name": "Two (with The Hip Abduction)",
+      "url": "https://open.spotify.com/track/14Yv4l3SQsgQ1XAcWtP8kw"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/592WXDHttlFbqJIpYUbDiK"
       },
@@ -2243,22 +2263,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Two (with The Hip Abduction)",
-        "url": "https://open.spotify.com/album/1aQ2utdXHjEVtHf8C3ff1Z"
+        "name": "Welcome to Florida",
+        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
       },
       "artists": [
         {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        },
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
         }
       ],
-      "duration_ms": 213233,
-      "name": "Two (with The Hip Abduction)",
-      "url": "https://open.spotify.com/track/14Yv4l3SQsgQ1XAcWtP8kw"
+      "duration_ms": 170608,
+      "name": "Stayed",
+      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2283,22 +2299,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Welcome to Florida",
-        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
-      },
-      "artists": [
-        {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Stayed",
-      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "More Than Love",
         "url": "https://open.spotify.com/album/7nNNLTwL1f8V2abRrHMZi0"
       },
@@ -2311,22 +2311,6 @@
       "duration_ms": 260390,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/1QgFffVgIDUn10DNnswi3G"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
-      },
-      "artists": [
-        {
-          "name": "Katastro",
-          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2347,6 +2331,22 @@
       "duration_ms": 212994,
       "name": "Sun and the Moon (with Collie Buddz)",
       "url": "https://open.spotify.com/track/0RGfnMQ6yrUJymY6EMJ3tC"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
+      },
+      "artists": [
+        {
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
     },
     {
       "added_at": "2026-07-17 15:52:29",

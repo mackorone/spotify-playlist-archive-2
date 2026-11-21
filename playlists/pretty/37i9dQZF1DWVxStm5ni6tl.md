@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Chiara Savasta, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,616 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,619 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 44 | [Give You Flowers](https://open.spotify.com/track/0GzPrpPNALa2HdzbpzDriP) | [Jasmine Kiara](https://open.spotify.com/artist/2kGdlxpCZxXsqJ9d5BqD5f) | [Baby, Is That You?](https://open.spotify.com/album/5GwOVIIj9fcvDc1o4a0uNX) | 2:27 |
 | 45 | [Keep It Together](https://open.spotify.com/track/5ByocDaHLsuz8TPjCbPvDc) | [Brandi Vezina](https://open.spotify.com/artist/4y3FWeoOu53s9YtdagtFdy) | [Keep It Together](https://open.spotify.com/album/2gnQWtpFeJsCKgBhKFrymh) | 3:46 |
 
-Snapshot ID: `AAAAAFg6TDq24bf30nZRZj7uQme8H8Q5`
+Snapshot ID: `AAAAANCxPhX5uS9X1DZ80vglpbwbqcDn`

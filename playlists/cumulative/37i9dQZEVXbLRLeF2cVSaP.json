@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 120685,
       "name": "cachalot",
       "url": "https://open.spotify.com/track/7vlu745oX8YZIvQTZQBYQs"
@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
@@ -4582,7 +4582,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 104000,
       "name": "red weather",
       "url": "https://open.spotify.com/track/5pSC8KhubUzhy7039HDUOX"
@@ -5387,6 +5387,28 @@
     },
     {
       "album": {
+        "name": "SUPERFRESH",
+        "url": "https://open.spotify.com/album/2j4m5A1M98owTPYcD5i1oP"
+      },
+      "artists": [
+        {
+          "name": "ELLA",
+          "url": "https://open.spotify.com/artist/3Ppw3oP5nRqYhoGRDvhuUr"
+        },
+        {
+          "name": "\u0425\u041e\u041b\u041e\u0414",
+          "url": "https://open.spotify.com/artist/0FKeczLO7YGQaT9yu58vhX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "SUPERFRESH",
+      "url": "https://open.spotify.com/track/7a0qYeeOiIkoRYkDoXMHm8"
+    },
+    {
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -6098,7 +6120,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 178296,
       "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
@@ -6998,7 +7020,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/6yMFLAVzfpHZdN98V99Zsb"
@@ -8237,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "\u041b\u044e\u0431\u043e\u0432\u044c \u0438 \u0420\u0430\u043a\u0435\u0442\u044b, \u0427.1",
+        "url": "https://open.spotify.com/album/5ujJdrbo07FZObsDycaMgq"
+      },
+      "artists": [
+        {
+          "name": "GONE.Fludd",
+          "url": "https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124032,
+      "name": "\u041a\u041e\u0414 \u0413\u0418\u0410\u0421",
+      "url": "https://open.spotify.com/track/7jt5qt0YwLHJ2EdWX6mQTi"
+    },
+    {
+      "album": {
         "name": "\u041f\u0440\u043e\u0440\u043e\u043a. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430 (\u041e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0443\u043d\u0434\u0442\u0440\u0435\u043a \u043a \u0444\u0438\u043b\u044c\u043c\u0443 \"\u041f\u0440\u043e\u0440\u043e\u043a\" \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430)",
         "url": "https://open.spotify.com/album/5MwnvkgiIw85rWsmBgd59p"
       },
@@ -8729,6 +8769,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f",
+        "url": "https://open.spotify.com/album/2qQwE1nvsEjDDPvthG6Y7V"
+      },
+      "artists": [
+        {
+          "name": "Weeka",
+          "url": "https://open.spotify.com/artist/4s4yoiOQypgEro1fpJVydb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f",
+      "url": "https://open.spotify.com/track/6GXMBIFkvcutrDNI0s6mmG"
+    },
+    {
+      "album": {
         "name": "\u041a\u0435\u0442\u0430\u043c\u0438\u043d\u043e\u0432\u0430\u044f \u042f\u043c\u0430 2",
         "url": "https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk"
       },
@@ -8820,7 +8878,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 178124,
       "name": "\u043c\u0438\u043b\u044b\u0439 \u0443\u0431\u043b\u044e\u0434\u043e\u043a",
       "url": "https://open.spotify.com/track/1KSfNhPMipD1RDvT7JMvWb"
@@ -9530,7 +9588,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 134188,
       "name": "\u041d\u0443 \u0438 \u0447\u0451?",
       "url": "https://open.spotify.com/track/6Un1gJPIWzyRwOtmL4E0Jt"
@@ -11004,7 +11062,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 193561,
       "name": "\u0421\u0435\u043a\u0441 \u043f\u043e-\u043f\u0438\u0442\u0435\u0440\u0441\u043a\u0438",
       "url": "https://open.spotify.com/track/3mMXGxnS6OFkKtqzSYgL0T"
@@ -11862,7 +11920,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 145942,
       "name": "\u0442\u044b \u043b\u044e\u0431\u0438\u0448\u044c \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT"

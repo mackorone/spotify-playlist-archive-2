@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 27.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,914 likes - 107 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,934 likes - 107 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 16 | [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 |
 | 17 | [STORM I](https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 3:29 |
 | 18 | [Dead Company](https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir) | 3:19 |
-| 19 | [Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:29 |
-| 20 | [HACE CALOR](https://open.spotify.com/track/4tabsd3NLLwuT90wkuNh7C) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:26 |
-| 21 | [Colors Collide](https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [New Constellations](https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9) | [Colors Collide](https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb) | 3:35 |
-| 22 | [Red Flag](https://open.spotify.com/track/5m8QBWMfWxq9F8e8uI53hp) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)+](https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ) | 3:11 |
+| 19 | [HACE CALOR](https://open.spotify.com/track/4tabsd3NLLwuT90wkuNh7C) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:26 |
+| 20 | [Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:29 |
+| 21 | [Red Flag](https://open.spotify.com/track/5m8QBWMfWxq9F8e8uI53hp) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)+](https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ) | 3:11 |
+| 22 | [Colors Collide](https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [New Constellations](https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9) | [Colors Collide](https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb) | 3:35 |
 | 23 | [Waist 36 Leg 32](https://open.spotify.com/track/3IPLwU2d6nETANRwM5OoLb) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Ghosts \(100 Days of Morning\)](https://open.spotify.com/album/3F9ZnOWuIZZpf3oV1SvRTy) | 3:50 |
 | 24 | [Muero](https://open.spotify.com/track/4Y9IOTRm5rEgZ0jSP9KGmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 3:49 |
 | 25 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 44 | [dramatique](https://open.spotify.com/track/1Gw998U4FMej6nuOxAbjn6) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [DRAMA](https://open.spotify.com/album/39ZEVXaHtMaTuxWOUJXbiH) | 2:01 |
 | 45 | [APRENDER A AMAR](https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 1:39 |
 | 46 | [Ready To Go](https://open.spotify.com/track/6KEIaqDtnIXKcDILpNbo9K) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Ready To Go](https://open.spotify.com/album/5Nu0zhhhjLqMV9roSP6uhj) | 3:18 |
-| 47 | [Autopilot](https://open.spotify.com/track/2HB0CSmHzShtuZzvvo7FC2) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F) | 2:46 |
-| 48 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 |
-| 49 | [Feel So Good Around U](https://open.spotify.com/track/7arXWdNWVrppJH0w9hgGKf) | [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Feel So Good Around U](https://open.spotify.com/album/5pitE0A89EPXOxhkl3HJYh) | 4:32 |
-| 50 | [Avalanche](https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:12 |
+| 47 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 |
+| 48 | [Autopilot](https://open.spotify.com/track/2HB0CSmHzShtuZzvvo7FC2) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F) | 2:46 |
+| 49 | [Avalanche](https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:12 |
+| 50 | [Feel So Good Around U](https://open.spotify.com/track/7arXWdNWVrppJH0w9hgGKf) | [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Feel So Good Around U](https://open.spotify.com/album/5pitE0A89EPXOxhkl3HJYh) | 4:32 |
 | 51 | [FITNESS FIRST](https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [FITNESS FIRST](https://open.spotify.com/album/62FuCq483syEgtWTFD03zP) | 2:45 |
 | 52 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 |
 | 53 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 56 | [UN DÍA NUEVO \(FUEGO\)](https://open.spotify.com/track/4d58HIXc7hNxYOCZrqsLpK) | [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [godie.](https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH), [V.I.C](https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s) | [UN DÍA NUEVO \(FUEGO\)](https://open.spotify.com/album/7jY6TxiqsreKO8znOxzHAR) | 2:28 |
 | 57 | [Can't Feel It](https://open.spotify.com/track/4moWJefMHCuUPCpwKAqI7A) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 3:37 |
 | 58 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 |
-| 59 | [Achtung! Optimism](https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Optimism](https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t) | 4:08 |
-| 60 | [FIGURE IT OUT](https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [FIGURE IT OUT](https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC) | 2:15 |
+| 59 | [FIGURE IT OUT](https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [FIGURE IT OUT](https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC) | 2:15 |
+| 60 | [Achtung! Optimism](https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Optimism](https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t) | 4:08 |
 | 61 | [23](https://open.spotify.com/track/7yBH2DRYZ5zsklX5nseXzK) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC) | 2:48 |
 | 62 | [Platinum](https://open.spotify.com/track/7ErBuIxiS0pW775JYs8kFA) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Torn](https://open.spotify.com/album/7Cdd128AeI1AD6oqE8uVVp) | 2:42 |
 | 63 | [Adieu Clémence](https://open.spotify.com/track/1p2Majs5PEH4xKLn0T1HNC) | [Tao](https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h) | [Adieu Clémence](https://open.spotify.com/album/4RCesufe1n18aubuTf3Led) | 3:00 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 106 | [BOP](https://open.spotify.com/track/55B7h4UVKWsKG5prz7xRr3) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr), [Jolie P](https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB) | [BOP](https://open.spotify.com/album/6w1Dq46a5GjDEcVCmgnYrv) | 4:15 |
 | 107 | [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 |
 
-Snapshot ID: `AAAAAAIvAUSiZ+2DKRZ9O0YGePbYs4K/`
+Snapshot ID: `AAAAALqZEC8CUZFy6ID/+jwAZ0JfjcXv`

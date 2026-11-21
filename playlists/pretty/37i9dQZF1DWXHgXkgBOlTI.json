@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: SALVALAI",
-  "num_followers": 33693,
+  "num_followers": 33703,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMH7HIZLkFcxFx7r1/vBYis8affI",
+  "snapshot_id": "AAAAALrfVaWqDZxq+ZKhQAkJpLos2A5+",
   "tracks": [
     {
       "added_at": "2026-09-15 15:00:16",
@@ -667,22 +667,18 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/02eKXgRieK4rSCYLlyLY5y"
+        "name": "REAL KICKS",
+        "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
       },
       "artists": [
         {
-          "name": "\u672c\u7530\u7af9\u66e0",
-          "url": "https://open.spotify.com/artist/4s7Fk4GSE20zLzyTq05gUo"
-        },
-        {
-          "name": "\u4eca\u6751\u88d5\u53f8",
-          "url": "https://open.spotify.com/artist/6wM0OcxPKVdZmVpnpMs91g"
+          "name": "Calmera",
+          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
         }
       ],
-      "duration_ms": 281346,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/0xgAMhn7qqKrQcACbIEPoa"
+      "duration_ms": 186906,
+      "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
+      "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
     },
     {
       "added_at": "2026-09-15 15:00:16",
@@ -703,18 +699,22 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "REAL KICKS",
-        "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/02eKXgRieK4rSCYLlyLY5y"
       },
       "artists": [
         {
-          "name": "Calmera",
-          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
+          "name": "\u672c\u7530\u7af9\u66e0",
+          "url": "https://open.spotify.com/artist/4s7Fk4GSE20zLzyTq05gUo"
+        },
+        {
+          "name": "\u4eca\u6751\u88d5\u53f8",
+          "url": "https://open.spotify.com/artist/6wM0OcxPKVdZmVpnpMs91g"
         }
       ],
-      "duration_ms": 186906,
-      "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
-      "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
+      "duration_ms": 281346,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/0xgAMhn7qqKrQcACbIEPoa"
     },
     {
       "added_at": "2026-09-15 15:00:16",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
+        "name": "Tangerine Peel Jam",
+        "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
+      },
+      "artists": [
+        {
+          "name": "Ear Candy Jazz Factory",
+          "url": "https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Tailwind",
+      "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
+    },
+    {
+      "added_at": "2026-09-15 15:00:16",
+      "album": {
         "name": "PYRAMID4",
         "url": "https://open.spotify.com/album/5219vHKf8elS7hRI11Ig9X"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 305372,
       "name": "Love Lights",
       "url": "https://open.spotify.com/track/1Uh6c02Wxkq30F6aXPPWul"
-    },
-    {
-      "added_at": "2026-09-15 15:00:16",
-      "album": {
-        "name": "NEW DAY",
-        "url": "https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB"
-      },
-      "artists": [
-        {
-          "name": "MIDORINOMARU",
-          "url": "https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "birth",
-      "url": "https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

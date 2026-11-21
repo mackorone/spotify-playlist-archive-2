@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: The Womack Sisters",
-  "num_followers": 65639,
+  "num_followers": 65637,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeu4vzoDilWqHox29u37xFVROvh",
+  "snapshot_id": "AAAAAK3oOqbHWQ0gsORSIHqrcbF4smW8",
   "tracks": [
     {
       "added_at": "2026-11-08 19:40:25",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Here I Am",
-        "url": "https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 179735,
-      "name": "Honest To God",
-      "url": "https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
         "name": "Any Place In Time",
         "url": "https://open.spotify.com/album/4QZDDxKkCBKjpuyasd6Kog"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 195145,
       "name": "Any Place In Time",
       "url": "https://open.spotify.com/track/0Y72XLGZnYGDeUfFwXvxCS"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 179735,
+      "name": "Honest To God",
+      "url": "https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 173827,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma"
+    },
+    {
+      "added_at": "2026-11-08 19:40:25",
+      "album": {
         "name": "gloria!",
         "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
       },
@@ -603,22 +619,18 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Nothing Into Something",
-        "url": "https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH"
+        "name": "Shipwrecked",
+        "url": "https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
         }
       ],
-      "duration_ms": 141885,
-      "name": "Nothing Into Something",
-      "url": "https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2"
+      "duration_ms": 192200,
+      "name": "Shipwrecked",
+      "url": "https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa"
     },
     {
       "added_at": "2026-11-08 19:40:25",
@@ -639,34 +651,22 @@
     {
       "added_at": "2026-11-08 19:40:25",
       "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x"
+        "name": "Nothing Into Something",
+        "url": "https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH"
       },
       "artists": [
         {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 173827,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma"
-    },
-    {
-      "added_at": "2026-11-08 19:40:25",
-      "album": {
-        "name": "Shipwrecked",
-        "url": "https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh"
-      },
-      "artists": [
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
         {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 192200,
-      "name": "Shipwrecked",
-      "url": "https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa"
+      "duration_ms": 141885,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2"
     },
     {
       "added_at": "2026-11-08 19:40:25",

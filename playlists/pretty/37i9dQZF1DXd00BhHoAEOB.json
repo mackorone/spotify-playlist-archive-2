@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 598991,
+  "num_followers": 598968,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGx85pj4nwHlcPMVWbLb2C4xZT+P",
+  "snapshot_id": "AAAAAGlknEFW+rboGskm9B/yb/gyXZRM",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:10",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
+        "name": "Luz V",
+        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "No me importa nada",
+      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 159733,
       "name": "Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
-        "name": "Luz V",
-        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
-      },
-      "artists": [
-        {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "No me importa nada",
-      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "TUS OJOS",
-        "url": "https://open.spotify.com/album/3zTdfEy5DxixVh2SsNyLWu"
-      },
-      "artists": [
-        {
-          "name": "Beto Cardenas",
-          "url": "https://open.spotify.com/artist/4qhnTntV6WnEHPdNyC4oRC"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "TUS OJOS",
-      "url": "https://open.spotify.com/track/66iwTS1oZxQm31fBNMBUcb"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 269360,
       "name": "Piensa en m\u00ed",
       "url": "https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "TUS OJOS",
+        "url": "https://open.spotify.com/album/3zTdfEy5DxixVh2SsNyLWu"
+      },
+      "artists": [
+        {
+          "name": "Beto Cardenas",
+          "url": "https://open.spotify.com/artist/4qhnTntV6WnEHPdNyC4oRC"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "TUS OJOS",
+      "url": "https://open.spotify.com/track/66iwTS1oZxQm31fBNMBUcb"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
-      },
-      "artists": [
-        {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
-        }
-      ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6haoNmOyEjfg57MARTlQwa"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 209218,
       "name": "Paseo Por El Parque",
       "url": "https://open.spotify.com/track/6xMFOBTe29qVyIRuTLn5ZY"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+      },
+      "artists": [
+        {
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+        }
+      ],
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 156016,
-      "name": "Qu\u00e9date Un Ratito M\u00e1s",
-      "url": "https://open.spotify.com/track/54UWlGEHoE0LYvpPCTNuJy"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "Remedios",
         "url": "https://open.spotify.com/album/3i4xUcTsaFK4ZjWdxx4uzp"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 208074,
       "name": "Remedios",
       "url": "https://open.spotify.com/track/7EozlnvFrXBD2wl5jdCvDR"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 156016,
+      "name": "Qu\u00e9date Un Ratito M\u00e1s",
+      "url": "https://open.spotify.com/track/54UWlGEHoE0LYvpPCTNuJy"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Terra",
-        "url": "https://open.spotify.com/album/7g1USrooXeCD9I4DLHAZyW"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Buhotronix",
-          "url": "https://open.spotify.com/artist/3yvoWOVO5YKnz6Id1Xyxe9"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Coronado",
-      "url": "https://open.spotify.com/track/1KmB86Dw1mffqKuErR2pU9"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/7g1USrooXeCD9I4DLHAZyW"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Buhotronix",
+          "url": "https://open.spotify.com/artist/3yvoWOVO5YKnz6Id1Xyxe9"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Coronado",
+      "url": "https://open.spotify.com/track/1KmB86Dw1mffqKuErR2pU9"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Dolores y compa\u00f1\u00eda",
-        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+        "name": "Susana Baca",
+        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
       },
       "artists": [
         {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
         }
       ],
-      "duration_ms": 197456,
-      "name": "Dolores",
-      "url": "https://open.spotify.com/track/4BEH5g6OVUG1sDToICk03y"
+      "duration_ms": 298573,
+      "name": "Caras Lindas",
+      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Susana Baca",
-        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
       },
       "artists": [
         {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
         }
       ],
-      "duration_ms": 298573,
-      "name": "Caras Lindas",
-      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
+      "duration_ms": 197456,
+      "name": "Dolores",
+      "url": "https://open.spotify.com/track/4BEH5g6OVUG1sDToICk03y"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/2yd8sDDHD9Rzdefr3ZY8Nh"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Crist\u00f3bal Comala",
+          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
+        }
+      ],
+      "duration_ms": 251583,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/4DyV9fhLFynASWndwms2fz"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
         "name": "No tenemos prisa",
         "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 173756,
       "name": "Mujer P\u00e1jaro",
       "url": "https://open.spotify.com/track/64zazX8C4uCP4FJnpod2UD"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/2yd8sDDHD9Rzdefr3ZY8Nh"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1zaro Crist\u00f3bal Comala",
-          "url": "https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK"
-        }
-      ],
-      "duration_ms": 251583,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/4DyV9fhLFynASWndwms2fz"
     },
     {
       "added_at": "2026-11-06 06:00:10",

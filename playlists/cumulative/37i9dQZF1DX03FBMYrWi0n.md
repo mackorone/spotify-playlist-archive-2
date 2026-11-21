@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Loïc Lafrance
 
-747 songs - 1 day 18 hr 21 min
+748 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [CAPS LOCK](https://open.spotify.com/track/50Xj9ygdLzT6jsSkMqBwfM) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [CAPS LOCK](https://open.spotify.com/album/2hOvCXR3WlsBgDZ6wPA7Fp) | 4:07 | 2026-09-25 | 2026-10-03 |
 | [Carte du ciel](https://open.spotify.com/track/57nLBQ5B7m20grJpimsQyv) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE) | 2:49 | 2025-03-28 | 2025-09-28 |
 | [CashCash](https://open.spotify.com/track/5LwCGDHsiuGfDvRhPGiKEZ) | [Will Scott III](https://open.spotify.com/artist/6K3jWTMwwlx3Fww59I8KOt) | [CashCash](https://open.spotify.com/album/1OdB65XeDTURCXF2XVczRT) | 3:15 | 2026-05-08 | 2026-08-22 |
-| [CASTLE WALLS](https://open.spotify.com/track/2THUiEvUWbVl71pqdsubSS) | [Coutchou](https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR) | [CASTLE WALLS](https://open.spotify.com/album/3sXHEUHO8NLFxZMdcpJz4D) | 3:09 | 2026-05-08 |  |
+| [CASTLE WALLS](https://open.spotify.com/track/2THUiEvUWbVl71pqdsubSS) | [Coutchou](https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR) | [CASTLE WALLS](https://open.spotify.com/album/3sXHEUHO8NLFxZMdcpJz4D) | 3:09 | 2026-05-08 | 2026-11-21 |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2023-02-10 | 2025-10-11 |
 | [Ce qu'il reste de nous](https://open.spotify.com/track/1IQ65ML4nBZiyIHs3ooirm) | [Nana Quinn](https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4) | [Ce qu'il reste de nous](https://open.spotify.com/album/2q1xOv4ke2mpZDN5mPOzkM) | 5:36 | 2026-01-09 | 2026-04-04 |
 | [Ce qu'on aura](https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Ce qu'on aura](https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl) | 3:56 | 2024-01-26 | 2024-06-01 |
@@ -678,6 +678,7 @@
 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 | 2023-02-10 | 2025-10-11 |
 | [top of the morning](https://open.spotify.com/track/18lPoK9dIKtRRPYh8z2oyW) | [Classical X](https://open.spotify.com/artist/3lhNTFStFPddPJQ4aPhqH3) | [top of the morning](https://open.spotify.com/album/5NNZmpQyaalMxY1WT30Rhu) | 2:14 | 2026-11-06 |  |
 | [Toujours mieux](https://open.spotify.com/track/4LAdc3GvmKO0JaEh58FmQ0) | [Tom Leger](https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK) | [Toujours mieux](https://open.spotify.com/album/6ZHZUzD5Eiz1uA0d3h41Xf) | 2:25 | 2025-10-31 | 2026-01-24 |
+| [Tourterelle](https://open.spotify.com/track/58v5rZGche1dBOT4149hAC) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Tourterelle](https://open.spotify.com/album/74lT0WgjpACroYBDLoxYt3) | 3:16 | 2026-11-20 |  |
 | [Tout ce que je voudrais être, c'est tout ce que je ne suis pas](https://open.spotify.com/track/5iISNJSdGntEhsDBXAtisg) | [Balcon sans princesse](https://open.spotify.com/artist/5Astt7a0MyMm7eRaZCgDON) | [Tout ce que je voudrais être, c'est tout ce que je ne suis pas](https://open.spotify.com/album/38DtPEirXjM5bhREZDmK22) | 3:56 | 2026-07-24 | 2026-09-26 |
 | [Tout rattraper](https://open.spotify.com/track/217AEOMcFUNPX3Dr6DNzVe) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Tout rattraper](https://open.spotify.com/album/17ZeFve5oXk01lDyuRiv99) | 3:53 | 2025-10-31 | 2025-11-15 |
 | [Tout recommence](https://open.spotify.com/track/6k4AAQgHGx1Lt7jcz0nsKM) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Contempler l'abîme](https://open.spotify.com/album/5Uk8LG9rHpZFTR7sI4RUqp) | 2:54 | 2025-11-14 | 2026-07-18 |

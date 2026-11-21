@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,901 songs - 7 day 0 hr 41 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,906 songs - 7 day 0 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2908,6 +2908,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2898 | [Rezzo](https://open.spotify.com/track/0I5stzUKl6ZeVYBp6eMQrN) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:17 |
 | 2899 | [Amarillo](https://open.spotify.com/track/0quRZRcOMKLnaZA9HpjMTa) | [Verspa](https://open.spotify.com/artist/1w1ksZJz8ZCEsul0Ihyofh) | [Amarillo](https://open.spotify.com/album/5uAjLGI3jTfjKR4MOBDkE5) | 5:38 |
 | 2900 | [Carol of the Bells Line Dance](https://open.spotify.com/track/5DktCdbLlOKrMUrcyFTI2G) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Carol of the Bells Line Dance](https://open.spotify.com/album/5O4bqkwB9dzNu7gPHTTNzG) | 2:36 |
-| 2901 | [Con Verte Respirar](https://open.spotify.com/track/2ccBrBtatFgwNMYtWdr0lv) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Con Verte Respirar](https://open.spotify.com/album/5KgeSSnJwBTAkF2PQTnCxP) | 3:50 |
+| 2901 | [La soledad](https://open.spotify.com/track/0mGtkcWys9267jyvwupEmO) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [La soledad](https://open.spotify.com/album/3I5oCFyMGarSEBkdYQfQpe) | 1:35 |
+| 2902 | [Con Verte Respirar](https://open.spotify.com/track/2ccBrBtatFgwNMYtWdr0lv) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Con Verte Respirar](https://open.spotify.com/album/5KgeSSnJwBTAkF2PQTnCxP) | 3:50 |
+| 2903 | [Winter Landscape](https://open.spotify.com/track/6Olqq7ehZrE6UE9EH5cZTt) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Winter Landscape](https://open.spotify.com/album/4NOyEsXiVy3lgQXei07jdj) | 2:27 |
+| 2904 | [My Christmas List](https://open.spotify.com/track/7GhjVqfGARxRhvYLzpREiT) | [Parrot Loops](https://open.spotify.com/artist/5cgWl5jbeUyyU1qN6yFKTp) | [My Christmas List](https://open.spotify.com/album/4KSmDHZk3Vg2yVvLPPXR4g) | 2:37 |
+| 2905 | [No One Tames the Fire](https://open.spotify.com/track/0onNW8eVxKnzS05UEog6tw) | [awilli9004](https://open.spotify.com/artist/6nQMOiWajkm9VmGDc7otaM) | [Written in a Different Key](https://open.spotify.com/album/3bvvulXZ0YofKDwpxS6gVs) | 2:57 |
+| 2906 | [Once in Royal David’s City](https://open.spotify.com/track/6nzBkwV0ykb7ptwnSExKv6) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Once in Royal David’s City](https://open.spotify.com/album/4i7dORCHIs43OCT56T9l22) | 2:18 |
 
-Snapshot ID: `AAAMTIqixaxknG1x7S/2TE6ln73F4OqT`
+Snapshot ID: `AAAMUqmDtpQ7dlw2jm/hSWjwcZOwpMeJ`

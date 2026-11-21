@@ -1377,6 +1377,32 @@
     },
     {
       "album": {
+        "name": "MENTE",
+        "url": "https://open.spotify.com/album/3ahMCTFKbj6oipNiZadJlP"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226338,
+      "name": "MENTE",
+      "url": "https://open.spotify.com/track/5IHDQL2JOMSYtsQHERJI39"
+    },
+    {
+      "album": {
         "name": "MENTE (with Tainy & Mau y Ricky)",
         "url": "https://open.spotify.com/album/3svtbAQNLpKVpUFlArRN3n"
       },
@@ -1396,7 +1422,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 226338,
       "name": "MENTE (with Tainy & Mau y Ricky)",
       "url": "https://open.spotify.com/track/5OVYDbQP9pMKpF0ViSyMty"

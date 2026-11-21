@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113138,
+  "num_followers": 113139,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGtSoL/lRcmFKnudfjag4ZyEQKbc",
+  "snapshot_id": "AAAAAMg8zX/dOPnN+sXmNU+BLkW0Bf9n",
   "tracks": [
     {
       "added_at": "2026-11-13 16:44:05",
@@ -539,30 +539,6 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
-        "name": "LUBIMY",
-        "url": "https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
-        },
-        {
-          "name": "Skolim",
-          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
-        },
-        {
-          "name": "Donatan",
-          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
-        }
-      ],
-      "duration_ms": 148831,
-      "name": "LUBIMY",
-      "url": "https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
         "name": "AIOLI",
         "url": "https://open.spotify.com/album/2YtxeCsI2O64Zx6z6ChhAW"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 151875,
       "name": "AIOLI",
       "url": "https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
+        "name": "LUBIMY",
+        "url": "https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        },
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        }
+      ],
+      "duration_ms": 148831,
+      "name": "LUBIMY",
+      "url": "https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -639,6 +639,26 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
+        "name": "jakby ok",
+        "url": "https://open.spotify.com/album/2epRg7LZCWlzDT13OzMiAh"
+      },
+      "artists": [
+        {
+          "name": "LALE",
+          "url": "https://open.spotify.com/artist/1BaXV5IqUHk4V3QkLsSN05"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        }
+      ],
+      "duration_ms": 137932,
+      "name": "jakby ok",
+      "url": "https://open.spotify.com/track/4agwHBJr7jnvS9VHEJRJ0n"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
         "name": "B\u0119dzie pi\u0119knie",
         "url": "https://open.spotify.com/album/0aScZB7r4zTGdeGlUlmxXY"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 143048,
       "name": "halo Houston",
       "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
-        "name": "jakby ok",
-        "url": "https://open.spotify.com/album/2epRg7LZCWlzDT13OzMiAh"
-      },
-      "artists": [
-        {
-          "name": "LALE",
-          "url": "https://open.spotify.com/artist/1BaXV5IqUHk4V3QkLsSN05"
-        },
-        {
-          "name": "Dizzma",
-          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
-        }
-      ],
-      "duration_ms": 137932,
-      "name": "jakby ok",
-      "url": "https://open.spotify.com/track/4agwHBJr7jnvS9VHEJRJ0n"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
+        "name": "Serce z wosku",
+        "url": "https://open.spotify.com/album/2Boo6XvXersbCc8Cgry0aX"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "duration_ms": 152337,
+      "name": "Serce z wosku",
+      "url": "https://open.spotify.com/track/6rgF0ql0Gg200aoW0vp5X6"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
-        "name": "Serce z wosku",
-        "url": "https://open.spotify.com/album/2Boo6XvXersbCc8Cgry0aX"
+        "name": "A Jak",
+        "url": "https://open.spotify.com/album/79uqUDVizofi4IsC8tXNgw"
       },
       "artists": [
         {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
         }
       ],
-      "duration_ms": 152337,
-      "name": "Serce z wosku",
-      "url": "https://open.spotify.com/track/6rgF0ql0Gg200aoW0vp5X6"
+      "duration_ms": 158783,
+      "name": "A Jak",
+      "url": "https://open.spotify.com/track/1IJIUgWX5Z4WTXz7S7CMB6"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -975,22 +991,6 @@
       "duration_ms": 168240,
       "name": "Serce",
       "url": "https://open.spotify.com/track/7CLoNAwsM3ObHdNCo6XNwn"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
-        "name": "A Jak",
-        "url": "https://open.spotify.com/album/79uqUDVizofi4IsC8tXNgw"
-      },
-      "artists": [
-        {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
-        }
-      ],
-      "duration_ms": 158783,
-      "name": "A Jak",
-      "url": "https://open.spotify.com/track/1IJIUgWX5Z4WTXz7S7CMB6"
     },
     {
       "added_at": "2026-11-13 16:44:05",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-11-13 16:44:05",
       "album": {
+        "name": "Maj",
+        "url": "https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Szpak",
+          "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Maj",
+      "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"
+    },
+    {
+      "added_at": "2026-11-13 16:44:05",
+      "album": {
         "name": "Co mi tam",
         "url": "https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 167652,
       "name": "Co mi tam",
       "url": "https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7"
-    },
-    {
-      "added_at": "2026-11-13 16:44:05",
-      "album": {
-        "name": "Maj",
-        "url": "https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Szpak",
-          "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Maj",
-      "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"
     }
   ],
   "unique_name": "... ale najpierw kawa",

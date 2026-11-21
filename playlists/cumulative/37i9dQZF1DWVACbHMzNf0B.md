@@ -4,7 +4,7 @@
 
 > somos una fusión que no termina✨💚 Valdo Rodriguez en portada
 
-1,154 songs - 2 day 13 hr 16 min
+1,156 songs - 2 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Imaginación](https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Imaginación](https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz) | 4:22 | 2024-07-12 | 2024-08-14 |
 | [IMPOSIBLE](https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [IMPOSIBLE](https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW) | 3:13 | 2026-03-13 | 2026-05-16 |
 | [Intenciones Malas](https://open.spotify.com/track/5mHvccDXkSclGx5no3wtZ1) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Intenciones Malas](https://open.spotify.com/album/6znVJeVrLQHBt4YY3vJ0Ru) | 2:15 | 2022-12-16 | 2023-11-11 |
+| [INTENSO](https://open.spotify.com/track/3zECAmenZqFieCRGLfG3Jn) | [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [INTENSO](https://open.spotify.com/album/5vrSCb808EdjxsM2s63xRd) | 2:51 | 2026-11-20 |  |
 | [Intercambio Injusto](https://open.spotify.com/track/0Jv1VuDC57QUvMEd1CpkNW) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Intercambio Injusto](https://open.spotify.com/album/6GFqNV8XbAMPkXZeW81z2Y) | 3:25 | 2024-07-12 | 2024-08-14 |
 | [INTOCABLE](https://open.spotify.com/track/54brOymWBGRCDOWhBWzA5m) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [STAR](https://open.spotify.com/album/5YH266XRF5JlrgqzvwIiGX) | 2:33 | 2026-05-01 | 2026-09-23 |
 | [INTROvertido](https://open.spotify.com/track/6FKp6uZuar0fub2TzNwkvR) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [INTROvertido](https://open.spotify.com/album/092UguXHP7wSQSMV9W2rMs) | 3:18 | 2025-03-21 | 2025-05-17 |
@@ -807,6 +808,7 @@
 | [Pasta](https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Pasta](https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P) | 3:14 | 2025-08-01 | 2025-11-15 |
 | [Patrullon](https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Clase Personal](https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg) | [Patrullon](https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP) | 2:38 | 2025-04-04 | 2025-11-01 |
 | [Pedazo De Tonto](https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Pedazo De Tonto](https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb) | 2:40 | 2023-02-24 | 2023-04-29 |
+| [PELIBLACK](https://open.spotify.com/track/3Sm7LzlMDOR19M9IH6zibS) | [Los Juniors de La Montaña](https://open.spotify.com/artist/304T5qiPITdwBthiURWORg) | [PELIBLACK](https://open.spotify.com/album/0Ytf6G19OsC3e8PQWtkRwN) | 1:53 | 2026-11-20 |  |
 | [peliculiando](https://open.spotify.com/track/4st6K8nGBjANh0mKNvOpnt) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:28 | 2025-05-02 | 2025-07-05 |
 | [Pensamientos Grandes](https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Pensamientos Grandes](https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf) | 4:03 | 2023-05-19 | 2023-08-23 |
 | [Pensando En Grande](https://open.spotify.com/track/0k3jCVNMmYF78FeBmj7zWn) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU) | [DEL CERO AL CIEN](https://open.spotify.com/album/6fqg03bbpSA8a6bpbRaWlK) | 2:59 | 2026-01-09 | 2026-02-28 |

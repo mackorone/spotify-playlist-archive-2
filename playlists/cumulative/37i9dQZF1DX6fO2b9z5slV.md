@@ -2,16 +2,21 @@
 
 ### [Must\-Watch Latin Videos](https://open.spotify.com/playlist/37i9dQZF1DX6fO2b9z5slV)
 
-> You can't miss out on these\. Music videos only available on Premium\. Cover: Judeline
+> You can't miss out on these\. Music videos only available on Premium\. Cover: Myke Towers & Rauw Alejandro
 
-15 songs - 45 min 25 sec
+25 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Xon De Que](https://open.spotify.com/track/3FqUvsLaAh4k3Uh2d7L3bR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 2:21 | 2026-10-16 |  |
 | [AGUA](https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [AGUA](https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF) | 3:11 | 2026-10-16 |  |
+| [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-11-20 |  |
+| [BODYPAINTING](https://open.spotify.com/track/0E0ppoTPc2mSg5g32GFzK9) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [BODYPAINTING](https://open.spotify.com/album/5flDmNt39994F8KgZ2r7QU) | 2:42 | 2026-11-20 |  |
+| [CATIRA](https://open.spotify.com/track/661rXAsu9bIXLjQd1Xl2HA) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [CATIRA](https://open.spotify.com/album/7jF5rAgT0vLc6P9iXlI6K2) | 3:05 | 2026-11-20 |  |
+| [COMO FUERA](https://open.spotify.com/track/7vWP4YzXQVp0BuP8IbVE5i) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [COMO FUERA](https://open.spotify.com/album/358cwYBV3NtpS3Tu0qVNfr) | 2:58 | 2026-11-20 |  |
 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 | 2026-10-16 |  |
 | [DOLCE VITA](https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [WET DREAMS](https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr) | 3:10 | 2026-10-16 |  |
+| [Guacamayas ft\. Clara Vegas Goetz](https://open.spotify.com/track/1SoOaxj7Qp7eSCfjgSOxwb) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [Guacamayas ft\. Clara Vegas Goetz](https://open.spotify.com/album/0ILmqoQ5ajcwrg5tV0wefn) | 2:55 | 2026-11-20 |  |
 | [Hombre De Bien](https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Hombre De Bien](https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3) | 3:01 | 2026-10-16 |  |
 | [KINKY](https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [KINKY](https://open.spotify.com/album/2P3o7T3rBrFKd5i8wkIssO) | 2:03 | 2026-10-16 |  |
 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 | 2026-10-16 |  |
@@ -23,5 +28,10 @@
 | [Me Mata](https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Me Mata](https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C) | 3:06 | 2026-10-16 |  |
 | [Ojos Brujos](https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Ojos Brujos](https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH) | 4:10 | 2026-10-16 |  |
 | [Quién Contra Mí \- Live From Los Ángeles](https://open.spotify.com/track/4B63O9ddDnEXNyAAkKBhTE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Live From Los Ángeles](https://open.spotify.com/album/7yAaOQSsXdjiRjvrtDCFc2) | 3:39 | 2026-10-16 |  |
+| [te clavas](https://open.spotify.com/track/6o5PR3dNC1h7t8tqewX5ud) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [te clavas](https://open.spotify.com/album/6WoOIHEKP13mgV6hFDzpgS) | 4:01 | 2026-11-20 |  |
+| [Tremendo Desastre](https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Tremendo Desastre](https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t) | 3:22 | 2026-11-20 |  |
+| [uno+1](https://open.spotify.com/track/0jzIZfvE0dayZflAL7MJ2U) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [uno+1](https://open.spotify.com/album/7ssfNloiP6fxfovaiBODyZ) | 2:56 | 2026-11-20 |  |
+| [VAMO A VEL](https://open.spotify.com/track/0125qUd6QK9Wq7qWtimhYH) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [VAMO A VEL](https://open.spotify.com/album/0t39doVzJDjU5WyQxLnHhj) | 4:03 | 2026-11-20 |  |
+| [ZOMBI](https://open.spotify.com/track/2rqNI5AB99l6FsTCdnkKfV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [ZOMBI](https://open.spotify.com/album/27u6ALuzTCWi7VcuME5Mul) | 3:15 | 2026-11-20 |  |
 
 \*This playlist was first scraped on 2026-10-21. Prior content cannot be recovered.

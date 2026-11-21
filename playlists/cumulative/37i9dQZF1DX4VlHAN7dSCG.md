@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Crispy脆樂團
 
-1,026 songs - 2 day 18 hr 56 min
+1,027 songs - 2 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,6 +773,7 @@
 | [淋浴](https://open.spotify.com/track/57Yn2DxwNQ21cozvbQmiYJ) | [解夢人](https://open.spotify.com/artist/4ZCU8Xicq2nqCo42Jlh3Q9) | [妳愛我的樣子](https://open.spotify.com/album/3cdzEgcYCcAuMpGZzRMCyi) | 3:17 | 2024-08-15 | 2024-09-13 |
 | [淡水](https://open.spotify.com/track/4l5texgUzfmzSBDudsuZTu) | [塵沐](https://open.spotify.com/artist/7ugBnFswmsORk98lPmZ4Lf) | [When](https://open.spotify.com/album/6AwyB2ITGoly2qQ0pyl7iR) | 3:54 | 2025-02-06 | 2025-03-07 |
 | [深夜漫步](https://open.spotify.com/track/6RKk3THLhbgQo1Y2ZvjNJd) | [南嶼](https://open.spotify.com/artist/22PTpjIHCfMVsMnZDOHqix) | [深夜漫步](https://open.spotify.com/album/5cIhVsHgPpq6IDBbI2M3kr) | 5:07 | 2025-06-26 | 2025-07-04 |
+| [深夜的胡思亂想](https://open.spotify.com/track/613cLqpHcSeBWSalQrzaE1) | [修齊](https://open.spotify.com/artist/2I5T2tiJUUo0V2gri9oFG5), [狗柏](https://open.spotify.com/artist/2W6TvLSc4LZLMdLpBswU8D) | [朋友、戀人與最糟糕的事](https://open.spotify.com/album/5IGpzmp6PzfUHOQid2CdlV) | 3:58 | 2026-11-20 |  |
 | [深灰](https://open.spotify.com/track/7BQMFMmbfxduBClD4itNSJ) | [薄荷葉](https://open.spotify.com/artist/60rRASfjRQDHGKsnmef9oN) | [深灰](https://open.spotify.com/album/2O3OIOtd2hhJ39wFCTLB3v) | 10:36 | 2025-07-31 | 2025-08-29 |
 | [淵](https://open.spotify.com/track/0JHjA5R4aBfcrnYZnb2YMU) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [淵](https://open.spotify.com/album/2IjDTmF9SOVyT8gjYADQQL) | 4:05 | 2025-04-10 | 2025-07-18 |
 | [混凝土冲浪](https://open.spotify.com/track/5vCx1kNNdrlQDOWuJu0jrb) | [THE BOOTLEGS](https://open.spotify.com/artist/4A5Mnspx41WceBak00HlvU) | [幻灯片](https://open.spotify.com/album/6QD0EcxxFfnND0j2VCMZsz) | 3:14 | 2025-04-10 | 2025-05-16 |
@@ -929,7 +930,7 @@
 | [讓你走以後](https://open.spotify.com/track/35pqfWpRozJDdghz8Xy4UI) | [fuvva](https://open.spotify.com/artist/6wpBdJXOYHd7L8fHYKL46r) | [讓你走以後](https://open.spotify.com/album/7iG0MQvTb124Hhhy5Osdr0) | 5:35 | 2025-05-01 | 2025-06-27 |
 | [讓我們看雲去 \- 滾石撞樂隊2 \(原唱:陳明韶\)](https://open.spotify.com/track/1cHHL9a1Qkzv3zxs9CWPsS) | [SONNIE 桑尼](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [滾石撞樂隊2 \- 讓我們看雲去](https://open.spotify.com/album/54jP8W3uImT0j8rz32LoHe) | 3:07 | 2025-11-06 | 2025-12-12 |
 | [请你一定要记得我好吗](https://open.spotify.com/track/2JJbEb6aepuqhwxpciin38) | [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [请你一定要记得我好吗](https://open.spotify.com/album/3nichQZu2PbnRk0fOd96Tz) | 3:18 | 2025-03-21 | 2025-04-11 |
-| [请饶恕我的脆弱](https://open.spotify.com/track/0kU5TY80o4a1JINPq2lx2S) | [康士坦的變化球](https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK) | [请饶恕我的脆弱](https://open.spotify.com/album/6NS6nIspnlQKEhOyCuAyR3) | 3:01 | 2026-07-23 |  |
+| [请饶恕我的脆弱](https://open.spotify.com/track/0kU5TY80o4a1JINPq2lx2S) | [康士坦的變化球](https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK) | [请饶恕我的脆弱](https://open.spotify.com/album/6NS6nIspnlQKEhOyCuAyR3) | 3:01 | 2026-07-23 | 2026-11-21 |
 | [豬肝麵線](https://open.spotify.com/track/46hdyC1kBOxUFcdr3Ti0gt) | [Whistle 夜萧](https://open.spotify.com/artist/7wKs35Zk43WEeSbxa5snCq), [多あ爱梦](https://open.spotify.com/artist/5mCh80WPP1yVLBqX349KeG) | [豬肝麵線](https://open.spotify.com/album/1SmUA7PZeycLin1nE5zMxw) | 3:18 | 2024-09-19 | 2024-10-18 |
 | [財富 \(Good Luck.\)](https://open.spotify.com/track/371wnydrO4YGQQn6Xoez05) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [財富 \(Good Luck.\)](https://open.spotify.com/album/4Fn2GsF5C20d6jLuasdnJf) | 3:53 | 2026-11-06 |  |
 | [買](https://open.spotify.com/track/6iiGBYs3F4Yo7MVtaudJdb) | [自然捲](https://open.spotify.com/artist/0Rsu8bbOYUkrZQAd1c2KSr) | [C'est La Vie Vol.2－大捲包小卷](https://open.spotify.com/album/1E0UZbI1Y5Nu9mGnJpZtOQ) | 2:53 | 2026-07-23 | 2026-11-20 |

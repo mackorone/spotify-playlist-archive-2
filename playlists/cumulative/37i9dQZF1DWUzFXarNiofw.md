@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: GIVĒON
 
-6,498 songs - 14 day 3 hr 22 min
+6,499 songs - 14 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Afford It \(From the Motion picture “One Of Them Days”\)](https://open.spotify.com/track/7ELTHpC3ZpT6geNBz1zzN4) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Diva Gurl](https://open.spotify.com/artist/4ryikYxDE2ShiLDkzMqs11) | [DivaGurl: A Story By Keke Palmer \- EP](https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth) | 2:34 | 2025-01-17 | 2025-03-22 |
 | [Afraid Of Love](https://open.spotify.com/track/3bAw3BSH1bEiQkKDI7PrMe) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Afraid Of Love](https://open.spotify.com/album/6SUkomHCMylDL1QnhWfHxq) | 2:50 | 2024-03-08 | 2024-04-06 |
 | [Afraid, Pt\. 2 \- feat\. Xenia Manasseh](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2 \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 | 2025-03-14 | 2025-05-03 |
-| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-20 |  |
+| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-20 |  |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-05-18 |
 | [After All](https://open.spotify.com/track/1dKs1cUWl57GpEW20FAw0h) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [After All](https://open.spotify.com/album/4MnZnhpFL8gT0EIrB7Q2ZR) | 4:08 | 2026-01-23 | 2026-03-07 |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 | 2023-12-09 |
@@ -3800,7 +3800,8 @@
 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-10 | 2025-11-08 |
 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 | 2023-03-03 | 2023-04-15 |
 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 | 2023-05-05 | 2023-05-27 |
-| [Narcotica](https://open.spotify.com/track/3xoZfRajtcVV9ClP8ZoGC5) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Narcotica](https://open.spotify.com/album/3BDT2NEqBmvqTPi3AFEMuU) | 3:20 | 2026-10-16 |  |
+| [Narcissist \(feat\. Viuta\)](https://open.spotify.com/track/08GAalYGOPBEG8CkXKhvxv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Viuta](https://open.spotify.com/artist/2qnb90128C5mziYwX3uMu2) | [Narcissist \(feat\. Viuta\)](https://open.spotify.com/album/5ZnqAF9r8DK25AXQk5Zy7g) | 2:58 | 2026-11-20 |  |
+| [Narcotica](https://open.spotify.com/track/3xoZfRajtcVV9ClP8ZoGC5) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Narcotica](https://open.spotify.com/album/3BDT2NEqBmvqTPi3AFEMuU) | 3:20 | 2026-10-16 | 2026-11-21 |
 | [Nasty](https://open.spotify.com/track/4Z973kxz9iOlxwTlCDskpl) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Nasty](https://open.spotify.com/album/6p6WVSuVgt1Jimwnz6fdy2) | 2:59 | 2024-06-28 | 2024-08-17 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-04-12 | 2024-06-15 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-02-24 | 2023-04-29 |

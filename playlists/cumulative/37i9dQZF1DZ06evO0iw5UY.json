@@ -813,6 +813,32 @@
     },
     {
       "album": {
+        "name": "Krewella & Yellow Claw - New World (feat. Taylor Bennett)",
+        "url": "https://open.spotify.com/album/5dQU0fKWQiAug7KBahk3Gj"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Taylor Bennett",
+          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161963,
+      "name": "Krewella & Yellow Claw - New World (feat. Taylor Bennett)",
+      "url": "https://open.spotify.com/track/2gBQ35qqBE75t00kV221Xy"
+    },
+    {
+      "album": {
         "name": "Fallen Embers",
         "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
       },
@@ -1170,32 +1196,6 @@
       "duration_ms": 195744,
       "name": "Never Been Hurt",
       "url": "https://open.spotify.com/track/7hXIYmnroOk6YikdncYlI4"
-    },
-    {
-      "album": {
-        "name": "New World",
-        "url": "https://open.spotify.com/album/5dQU0fKWQiAug7KBahk3Gj"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Taylor Bennett",
-          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
-        }
-      ],
-      "date_added": "2023-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 161963,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/2gBQ35qqBE75t00kV221Xy"
     },
     {
       "album": {

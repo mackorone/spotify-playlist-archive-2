@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest new recordings. Cover: Original Broadway Cast of The Lost Boys",
-  "num_followers": 113090,
+  "num_followers": 113093,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOSYZl4iebq2v0qLEf3ft/vfKNM",
+  "snapshot_id": "AAAAAOeuRhXy/4UU6gPiyW+ncJ046Ass",
   "tracks": [
     {
       "added_at": "2026-08-21 22:27:37",
@@ -636,16 +636,24 @@
       },
       "artists": [
         {
-          "name": "Two Strangers (Carry A Cake Across New York)",
-          "url": "https://open.spotify.com/artist/0f35iPjkC8ECxz4szceGSN"
-        },
-        {
           "name": "Sam Tutty",
           "url": "https://open.spotify.com/artist/5xrGqeeyTEVVfBWj8hItfB"
         },
         {
           "name": "Christiani Pitts",
           "url": "https://open.spotify.com/artist/0mxLeFr2sWSejRUKBT3Oyd"
+        },
+        {
+          "name": "Two Strangers (Carry A Cake Across New York)",
+          "url": "https://open.spotify.com/artist/0f35iPjkC8ECxz4szceGSN"
+        },
+        {
+          "name": "Kit Buchan",
+          "url": "https://open.spotify.com/artist/5jFrdnjUbHbGO2ihyA5SoX"
+        },
+        {
+          "name": "Jim Barne",
+          "url": "https://open.spotify.com/artist/46LOgKoqyFSbAzlEXl8S8T"
         }
       ],
       "duration_ms": 198659,

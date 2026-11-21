@@ -1,13 +1,33 @@
 {
-  "description": "The best Dance, House, Bass and EDM tracks right now, curated by <a href=\"https://www.instagram.com/nightvision/\">NIGHTVISION</a>!  Cover: TyriqueOrDie",
-  "num_followers": 20939,
+  "description": "The best Dance, House, Bass and EDM tracks right now, curated by <a href=\"https://www.instagram.com/nightvision/\">NIGHTVISION</a>!  Cover: Loud Luxury",
+  "num_followers": 20937,
   "original_name": "ALL ACCESS DANCE",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAh3fXyq9vsoxLMh19VI1hZIEQCH9/s",
+  "snapshot_id": "AAAh4N6kEnEzuxUNyxvCGqwONr4TJaU/",
   "tracks": [
+    {
+      "added_at": "2026-11-20 18:42:50",
+      "album": {
+        "name": "HEARTS DON\u2019T LIE.",
+        "url": "https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "HEARTS DON\u2019T LIE.",
+      "url": "https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2"
+    },
     {
       "added_at": "2026-11-06 10:43:24",
       "album": {

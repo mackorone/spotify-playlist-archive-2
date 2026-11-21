@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a> 🚀🚀 featuring Subtronics & Crankdat
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,779 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,807 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [B.O.B.](https://open.spotify.com/track/4eu2C1zMf5wjOlbhBtua5n) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [B.O.B.](https://open.spotify.com/album/6GyAj12htrIhQNoFeAUGuN) | 2:03 |
 | 2 | [Eternity \(feat\. Emi Grace\)](https://open.spotify.com/track/6CwEB6vhbFxiX5JaOzpWM5) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Escapism Vol\. II](https://open.spotify.com/album/4aqUvBOO4ieaXIuXDrvAW2) | 3:25 |
 | 3 | [WITH ME \- Crankdat Remix](https://open.spotify.com/track/0CNeSfSqaXGDkTKOG8soRk) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [WITH ME \[Crankdat Remix\]](https://open.spotify.com/album/3gHTcUva1zhO2SZHu6dxa8) | 2:18 |
-| 4 | [Bass Down Low](https://open.spotify.com/track/4SfmfGdmkNKaAehfaJNBLI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Bass Down Low](https://open.spotify.com/album/3ETPAwPRfnD3RafGRa93qL) | 2:19 |
+| 4 | [BASS DOWN LOW](https://open.spotify.com/track/4SfmfGdmkNKaAehfaJNBLI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [BASS DOWN LOW](https://open.spotify.com/album/3ETPAwPRfnD3RafGRa93qL) | 2:19 |
 | 5 | [Throw Sum Mo'](https://open.spotify.com/track/7Kb0qkoko5Yn8s4ZviI1hx) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Flozone](https://open.spotify.com/artist/3SoFUkULAf5goHkXVeppoh), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Throw Sum Mo'](https://open.spotify.com/album/1dYFGT38SjbouwcX5zAfl9) | 3:18 |
 | 6 | [NOT ANOTHER LOVE SONG](https://open.spotify.com/track/2iuyhZ4LYo82yYHBE0fthZ) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [NOT ANOTHER LOVE SONG](https://open.spotify.com/album/2ROgoSKr1XZzCzfsD2KCnw) | 3:06 |
 | 7 | [Can't Stop Me Now](https://open.spotify.com/track/0ELmB2r0C0iusi6b0zJH7s) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Can't Stop Me Now](https://open.spotify.com/album/1jX4PMIL9J9LX3B3FKBHY9) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [All The Things She Said \(Culture Shock Version\)](https://open.spotify.com/track/4hp4cs1fKConq0Cmr4luW9) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [All The Things She Said \(Culture Shock Version\)](https://open.spotify.com/album/4iHVL611SiXiIYtgEJbmRS) | 2:38 |
 | 100 | [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 |
 
-Snapshot ID: `AAAAAFxwv2gK+6Gn2gzxL9VV/a0nKkbg`
+Snapshot ID: `AAAAAHWJCAPMI0kKxLhNT2pyUPbK603j`

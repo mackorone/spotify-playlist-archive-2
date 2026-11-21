@@ -2,7 +2,7 @@
 
 ### [Ska Around The Globe](https://open.spotify.com/playlist/37i9dQZF1DX4mnAzYEyRVc)
 
-> The world series of Ska\. Cover: Massendefekt
+> The world series of Ska\. Cover: The Cat Empire
 
 731 songs - 1 day 17 hr 59 min
 

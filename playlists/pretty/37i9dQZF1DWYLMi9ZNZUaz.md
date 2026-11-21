@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,364 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,386 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 39 | [QUAY ĐI QUAY LẠI \(feat\. HIEUTHUHAI\)](https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [ANH TRAI "SAY HI", Chung Kết 1](https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln) | 3:30 |
 | 40 | [Cá Mập Con](https://open.spotify.com/track/2ZaNDguKgghsZ1LRlbCZNv) | [Mason Nguyen](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Hipz](https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0) | [Cá Mập Con](https://open.spotify.com/album/14qCKKMXKpVIWkFz9q4U1l) | 2:55 |
 | 41 | [Tấm Lòng Cửu Long](https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5) | [Ricky Star](https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4) | [ĐÔI CHÂN ĐI](https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs) | 5:44 |
-| 42 | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8) | [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2) | 4:54 |
-| 43 | [Berlin](https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v) | [Khoi Vu](https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93) | [Berlin](https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE) | 2:18 |
-| 44 | [ADAMN](https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb) | [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [ADAMN](https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB) | 3:43 |
+| 42 | [Berlin](https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v) | [Khoi Vu](https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93) | [Berlin](https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE) | 2:18 |
+| 43 | [ADAMN](https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb) | [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [ADAMN](https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB) | 3:43 |
+| 44 | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8) | [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2) | 4:54 |
 | 45 | [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 |
 | 46 | [Tuyển Bạn Gái](https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op) | [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Tuyển Bạn Gái](https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4) | 3:40 |
-| 47 | [Em Bé](https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Em Bé](https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN) | 3:12 |
+| 47 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
 | 48 | [Giờ Thì Ai Cười](https://open.spotify.com/track/0CKe6iIHpuoArjOsT4iese) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Giờ Thì Ai Cười](https://open.spotify.com/album/2RMjhvldsFe8ZsHHhnRsQT) | 3:06 |
 | 49 | [Thói Quen \(25 Mét Vuông\) \[feat\. Gducky\]](https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW) | [Thói Quen \(25 mét vuông\) \[feat\. Gducky\]](https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR) | 4:39 |
 | 50 | [CHẶT](https://open.spotify.com/track/23BZZg1Br5awD2AuC4RGGN) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh), [Đỗ Nam Sơn](https://open.spotify.com/artist/2qQqPycFRsJtVHrr2SuGFJ) | [CHẶT](https://open.spotify.com/album/61jRkngK2b1txLJQPjIAdw) | 3:18 |
 
-Snapshot ID: `AAAAAG4mYqYaJpizcJKryA1RzhlEgrgX`
+Snapshot ID: `AAAAADVDN1DMxmc0erbUv7a/byBYJoYU`

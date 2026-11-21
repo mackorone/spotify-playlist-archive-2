@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 20 likes - 364 songs - 23 hr 20 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 20 likes - 365 songs - 23 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -372,5 +372,6 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 362 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:24 |
 | 363 | [Kill Me](https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 4:41 |
 | 364 | [I'm Going Home](https://open.spotify.com/track/0mpAxd8iOa74mPyaHaHHGh) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B), [The Rocky Horror Picture Show](https://open.spotify.com/artist/76bQhD0x4b8VlS0gLG016G) | [The Rocky Horror Picture Show \- Original Soundtrack \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/22wHP6MgVndK4lNQo6UXBa) | 2:54 |
+| 365 | [Just Look My Way](https://open.spotify.com/track/2IPa8rnAGLeXcMglmv7Ibn) | [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd) | [Helluva Boss Season Three, Part 1 \(Deluxe\)](https://open.spotify.com/album/5xFntJ0fkIn66ZiFuiMUKa) | 3:44 |
 
-Snapshot ID: `AAAESyP/ZP6bLIgevNWsvTphCaRVHfus`
+Snapshot ID: `AAAETHMCjue/arv9ahq0BbXFa6Qc5JAD`

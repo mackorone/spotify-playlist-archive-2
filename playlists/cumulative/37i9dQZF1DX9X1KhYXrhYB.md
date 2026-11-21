@@ -4,7 +4,7 @@
 
 > Secrets will be spilled\. Listen to the music from Yellowjackets, now streaming on Paramount+.
 
-138 songs - 9 hr 1 min
+142 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 | 2025-04-14 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2023-05-26 |  |
 | [Far Behind](https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:59 | 2025-02-14 |  |
+| [Feed Someone \(Original Song From The TV Series Yellowjackets\)](https://open.spotify.com/track/3rCSnNwUDkJlxjqBM8aqVd) | [Craig Wedren](https://open.spotify.com/artist/4GPehFTPUP3j8J8ULlpqWh), [Anna Waronker](https://open.spotify.com/artist/4TAV6oFZ5ARdlybbpFAFri) | [Feed Someone \(Original Song From The TV Series Yellowjackets\)](https://open.spotify.com/album/3FdxDNnvJ08AT7S0ehOkH0) | 2:44 | 2026-11-21 |  |
 | [Feel the Pain](https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Without a Sound](https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4) | 4:19 | 2023-05-26 |  |
 | [Feelin' Like Yeah Yeah Yeah](https://open.spotify.com/track/39IWzKlq4ggWvqTyxqWut7) | [Simon Tellier](https://open.spotify.com/artist/4ZLAACYvR4O4jZpuYQjknL), [Roland Bingaman](https://open.spotify.com/artist/5HiHK1FPVHrphjnb7IPINi) | [On the Radar: Pop Hits](https://open.spotify.com/album/27uIFxnOXwi4tPBYtq3daR) | 2:45 | 2025-02-27 |  |
 | [Firestarter](https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 4:39 | 2023-05-26 |  |
@@ -111,6 +112,7 @@
 | [Rump Shaker](https://open.spotify.com/track/4dY4JVC0Q9CwpeZ6JAclIc) | [Wreckx\-N\-Effect](https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK) | [Hard Or Smooth](https://open.spotify.com/album/6xLyv6QON3hOuKiqRKvNOw) | 5:12 | 2023-05-26 |  |
 | [S P A C E](https://open.spotify.com/track/5qbNuYdT99BCBM8KwVNVW5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:25 | 2023-05-26 |  |
 | [Sad But True](https://open.spotify.com/track/4HP8PWR9iXY62ZB0oijpoK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Sad But True](https://open.spotify.com/album/5I2lH99d5gMyqKRobgW47K) | 4:12 | 2023-05-26 |  |
+| [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2026-11-20 |  |
 | [Sat Nam Mantra](https://open.spotify.com/track/6yeDjKXTPBiJpi1mc2mZtm) | [Jan Pham Huu Tri](https://open.spotify.com/artist/5BslBBDdQDye77LfVMMevX) | [Zen & Meditation](https://open.spotify.com/album/2774ePBv8YezCUaErbCkHx) | 5:32 | 2023-05-26 |  |
 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 | 2023-05-26 |  |
 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 | 2023-05-26 |  |
@@ -123,6 +125,7 @@
 | [Street Spirit \(Fade Out\)](https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:13 | 2023-05-26 |  |
 | [Supernova](https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Whip\-Smart](https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp) | 2:48 | 2023-05-26 |  |
 | [Take Me Down](https://open.spotify.com/track/1DsJ13PQOoTZw9KtFbYYVa) | [Sonica Disturbia](https://open.spotify.com/artist/755aSu1XmV6D2KEojhlOju) | [Take Me Down](https://open.spotify.com/album/34GtwZ6nwneipbvBU3o6zX) | 3:39 | 2023-05-26 |  |
+| [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 | 2026-11-20 |  |
 | [The Haunted](https://open.spotify.com/track/35fSzJmanlZnbUvWDWiANu) | [Dot Allison](https://open.spotify.com/artist/69IZoi4l9e7KcUpbgP9K7e), [Amy Bowman](https://open.spotify.com/artist/4BmEV40ueCBorDN132z72s) | [Heart\-Shaped Scars](https://open.spotify.com/album/7l18SXwik9wg5eeBe1hjDj) | 6:20 | 2023-05-26 |  |
 | [The Killing Moon](https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 5:48 | 2023-05-26 |  |
 | [The Killing Moon](https://open.spotify.com/track/3qonkCQ0O3xc0vAYcdJKtg) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Bande à Part](https://open.spotify.com/album/091WxYOuLgWkTEu7Jxsup4) | 3:39 | 2023-05-26 |  |
@@ -140,6 +143,7 @@
 | [What If...](https://open.spotify.com/track/3qZgd4HWXOdAabUK4OCQTf) | [Dore Soul](https://open.spotify.com/artist/75MOaB7tN9qveuE1xtpqdm) | [The New Shit](https://open.spotify.com/album/4xPqDWxiHDO75FrTko7CIP) | 3:39 | 2023-05-26 |  |
 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 | 2023-05-26 |  |
 | [When I Go Walking](https://open.spotify.com/track/598xDgAdZrcgGl8enCL9Qi) | [Popecoke](https://open.spotify.com/artist/7eymBgyW6fYpsZbDWonk2k) | [Popecoke](https://open.spotify.com/album/1Gnb0IRbTRUVVTL2ybfucV) | 2:03 | 2023-05-26 |  |
+| [Where Did You Sleep Last Night \- Live](https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 5:06 | 2026-11-20 |  |
 | [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:18 | 2025-04-14 |  |
 | [Won’t Waste a Day](https://open.spotify.com/track/3dUo2qhuZx03K02Jnv3SKV) | [James Donald Davies](https://open.spotify.com/artist/1VbN7BZ3ZZgjrANSvVvTmE), [Martin Jackson](https://open.spotify.com/artist/6mi6nkoO97luQdYIoRYzf0) | [Psychedelic Pop 2](https://open.spotify.com/album/3zLkJUCVZR7bvEBkmextsF) | 2:52 | 2023-05-26 |  |
 | [Your Good Girl's Gonna Go Bad](https://open.spotify.com/track/4pWTSkhzqCGHycPO51SBDY) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 2:01 | 2025-04-14 |  |

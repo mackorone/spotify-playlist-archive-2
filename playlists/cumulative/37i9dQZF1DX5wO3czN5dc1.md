@@ -2,9 +2,9 @@
 
 ### [Afro House Pulse](https://open.spotify.com/playlist/37i9dQZF1DX5wO3czN5dc1)
 
-> The heartbeat of Afro House from Africa and around the globe\. Cover: TRESOR
+> The heartbeat of Afro House from Africa and around the globe\. Cover: Heavy\-K
 
-419 songs - 1 day 11 hr 21 min
+420 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bengicela \(feat\. Jazzworx\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. Jazzworx\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 | 2025-06-19 | 2025-10-04 |
 | [Better Wait](https://open.spotify.com/track/47ytW7FVxOdDbA4BkUrxUa) | [Rosey Gold](https://open.spotify.com/artist/5VzOCXUuAeHgbabXvn70DJ), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Better Wait](https://open.spotify.com/album/5Up6JD7aMmxOrMnjibpTjG) | 3:57 | 2026-07-30 |  |
 | [Between Malawi & Zambia \- Mixed](https://open.spotify.com/track/6lNWdI0Rfx7KYFcTZXmcVk) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Leo Gira](https://open.spotify.com/artist/18FnUahuqpZRX5xQj4ZwnP), [Ivory White](https://open.spotify.com/artist/2RPWOrsiDZePdTuM8R6udn), [Cephas Maseko](https://open.spotify.com/artist/2I2uw31de5SWWGHtDZ6sGE) | [Winter 2026 \(DJ Mix\)](https://open.spotify.com/album/3ZrJDjTJDIPeBjQns0E8s7) | 6:17 | 2026-06-12 | 2026-11-13 |
+| [Big Banker](https://open.spotify.com/track/4FyZxz9kWPdxId2CSN4HUi) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Respect The Drumboss 2026](https://open.spotify.com/album/3RLNBSccp1To4BCSOsFpR4) | 4:28 | 2026-11-20 |  |
 | [Billions \- Major League Djz Remix](https://open.spotify.com/track/1HeDGAsbt3ifG3enK4eCT9) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Billions \(Major League Djz Remix\)](https://open.spotify.com/album/6FtW8lv0woXaoV8bXNsAxQ) | 3:28 | 2025-06-19 | 2025-07-04 |
 | [Bittersweet Memories](https://open.spotify.com/track/6rRNr6g4UwF4gPnajJsvLT) | [ofen](https://open.spotify.com/artist/2poK3O5RNozifvCICkWZG9), [CHUMA](https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs) | [Bittersweet Memories](https://open.spotify.com/album/1WicCGlvtgEtIRRETMkdOq) | 3:30 | 2026-08-06 |  |
 | [Bloom \(feat\. Lou Xtwo\) \- afro house edit](https://open.spotify.com/track/6jT46sVx9YP1tPI1SYONhk) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Lou Xtwo](https://open.spotify.com/artist/7k5fnVM7UaT6HMxqbV6bhz) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 4:13 | 2026-02-13 | 2026-08-28 |
@@ -85,7 +86,7 @@
 | [Dwana Days](https://open.spotify.com/track/1Old2F6y7j1fJRNKesCwGE) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn) | [Chuki](https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8) | 6:32 | 2026-02-26 | 2026-03-06 |
 | [Ebaba \- Main Mix](https://open.spotify.com/track/0dcPM8zeNN8eHm6CSxPUi4) | [Deep Narratives](https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c) | [Indlamu](https://open.spotify.com/album/1I2Le2fc9bJdZMZlltdEC3) | 5:49 | 2026-10-22 | 2026-11-06 |
 | [Ecstasy](https://open.spotify.com/track/3BLczPDaKaqyEEIfwaiBAu) | [Biggi da vine](https://open.spotify.com/artist/3KD3JVmIQS6miScFZMWic5), [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [S.A.N.E](https://open.spotify.com/artist/0lCphjdtD0BKEaOk61mA5b) | [Ecstasy](https://open.spotify.com/album/0obePYPjXJO9uQ0RvUERSX) | 4:33 | 2025-07-10 | 2025-07-18 |
-| [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 | 2026-06-12 |  |
+| [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 | 2026-06-12 | 2026-11-21 |
 | [Emandulo](https://open.spotify.com/track/51tG3lFafTShrD5Zei8ewG) | [FiNE](https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Emandulo](https://open.spotify.com/album/4Eiwz4UCEbYjf5n9CI6pQQ) | 3:27 | 2025-07-10 | 2025-08-15 |
 | [Emandulo \(Ode to uMageba\)](https://open.spotify.com/track/0q9GfOsdm04274pe5rNtfi) | [Son Of Nguni](https://open.spotify.com/artist/130qq1ptjWR60uyjiBVofN) | [Emandulo \(Ode to uMageba\)](https://open.spotify.com/album/49rA8zccpmH3M5Bi4KnpX1) | 6:25 | 2025-07-10 | 2025-07-18 |
 | [Emaweni](https://open.spotify.com/track/4iwQtGPYthkR4O2w9w6Ge6) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [SYKES](https://open.spotify.com/artist/0jQCL3PGTu3kvhLPkxocws) | [Humelela](https://open.spotify.com/album/7abcyNlCWwFcjJyLNrNSFn) | 6:18 | 2025-06-19 | 2025-09-10 |

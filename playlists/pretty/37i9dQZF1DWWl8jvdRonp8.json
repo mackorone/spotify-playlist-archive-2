@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 317826,
+  "num_followers": 317923,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI/tzvHQkro6l5eA9QoSgBODpAtd",
+  "snapshot_id": "AAAAADOUxNPpqVRNwMMBSq9Bby14e1wm",
   "tracks": [
     {
       "added_at": "2026-07-16 23:50:42",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
+        "name": "Te Voy a Hacer Feliz",
+        "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Sort\u00e9",
+          "url": "https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy"
+        }
+      ],
+      "duration_ms": 234924,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/0HG7OidBVulOngsXxhlj2r"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
         "name": "Mi Problema",
         "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 209493,
       "name": "Como Me Haces Falta - En Vivo",
       "url": "https://open.spotify.com/track/6OdM2SY00jlo37aRvw29h4"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
-        "name": "Te Voy a Hacer Feliz",
-        "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Sort\u00e9",
-          "url": "https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy"
-        }
-      ],
-      "duration_ms": 234924,
-      "name": "El Peor De Mis Fracasos",
-      "url": "https://open.spotify.com/track/0HG7OidBVulOngsXxhlj2r"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Mis Dos Vicios",
-        "url": "https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Te Voy a Hacer Feliz",
         "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 260263,
       "name": "Se Va Muriendo M\u00ed Alma",
       "url": "https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Mis Dos Vicios",
+        "url": "https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd"
     },
     {
       "added_at": "2026-07-16 23:50:42",

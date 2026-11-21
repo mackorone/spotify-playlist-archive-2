@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20307,
+  "num_followers": 20306,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAArcssmMyiCbDYFBKzCj26tX101nvC6",
+  "snapshot_id": "AAArc7oZCTaA2BJ0zaaumqdpWsXo5YFx",
   "tracks": [
     {
       "added_at": "2026-11-18 00:14:34",
@@ -1383,6 +1383,22 @@
       "duration_ms": 184962,
       "name": "Badman Riddim",
       "url": "https://open.spotify.com/track/2ziL2h3KBY2ABkUZEPBG4u"
+    },
+    {
+      "added_at": "2026-11-20 20:38:30",
+      "album": {
+        "name": "Summer High",
+        "url": "https://open.spotify.com/album/3zHpJKyqlWCC0qL0HqCbrR"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Summer High",
+      "url": "https://open.spotify.com/track/0iRT3x0q20SPDWaWbKCPJ7"
     }
   ],
   "unique_name": "Moving Castle Monthly",

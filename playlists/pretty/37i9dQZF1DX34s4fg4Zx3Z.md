@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: Annie\. Thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,527 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,525 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 49 | [Lemon Flower](https://open.spotify.com/track/7BshuBWUbOVPcZxsPyIIyg) | [Nuwie](https://open.spotify.com/artist/3TYA4QzDYPiyR6BNirJnep), [Bảo Nghi](https://open.spotify.com/artist/2sVYd9tXtInjx7dfxP5MRj) | [Lemon Flower](https://open.spotify.com/album/2Fklk5FGAO53xFRgW17OMf) | 3:27 |
 | 50 | [Ngay moi](https://open.spotify.com/track/5CvxU17TGJEpSTs68uQeqq) | [Kinn](https://open.spotify.com/artist/1deDBB69YQHCr0hfw2INEt), [Maijr](https://open.spotify.com/artist/0HHBSTu3AlADZj3jAl3oU5) | [Ngay moi](https://open.spotify.com/album/1Gxp3fcqryCUOocF75DTHy) | 2:46 |
 
-Snapshot ID: `AAAAAO0fa2mjAA2rTWfoTJCNmZljixvT`
+Snapshot ID: `AAAAALudZnm4fwGeakUFUSQO2TYjWaFM`

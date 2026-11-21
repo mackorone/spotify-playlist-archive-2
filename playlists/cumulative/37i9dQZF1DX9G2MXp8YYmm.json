@@ -9751,6 +9751,28 @@
     },
     {
       "album": {
+        "name": "Nerdesin Ey Tanr\u0131m",
+        "url": "https://open.spotify.com/album/3S16BFquZVjUoCLfQN6hp2"
+      },
+      "artists": [
+        {
+          "name": "R\u0131za Sar\u0131ta\u015f",
+          "url": "https://open.spotify.com/artist/7MUr26eqFK3BCP4y6A1mJw"
+        },
+        {
+          "name": "Devrim \u00d6zkan",
+          "url": "https://open.spotify.com/artist/2oIEhAnqryRCrpQJtLp2CQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206103,
+      "name": "Nerdesin Ey Tanr\u0131m",
+      "url": "https://open.spotify.com/track/6meX2fieTgDWAjaCGUb7zx"
+    },
+    {
+      "album": {
         "name": "Mest Of ArabesQ",
         "url": "https://open.spotify.com/album/7lRl5LmVaMAAtaK5j5Kqre"
       },
@@ -15344,7 +15366,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 285694,
       "name": "\u015eahsen Ben",
       "url": "https://open.spotify.com/track/6BE7FMDyYtF71h8bVAdyz3"

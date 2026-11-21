@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=9ae1382b68cd4db3"> JEDSOUL</a>\. Updates every Wednesday.
 
-4,252 songs - 8 day 21 hr 56 min
+4,253 songs - 8 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Cameras On You](https://open.spotify.com/track/4vDCVqK3D0vG3nZ3prwaKc) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ) | [Cameras On You](https://open.spotify.com/album/4gPiJdO6OpzjPuUXYv498S) | 2:41 | 2022-10-28 | 2022-12-01 |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-11-30 | 2023-03-04 |
 | [Can We](https://open.spotify.com/track/3KnP27rDPSD6dJGmelSTGL) | [Tianie](https://open.spotify.com/artist/1QZOwd2hrrcrl8BV7l3LCt), [Rosehardt](https://open.spotify.com/artist/4r6z3Bx1rDiuqkyKGXGvSN) | [Can We](https://open.spotify.com/album/2GUOej8Wpn6rtyGhOG7FFw) | 2:54 | 2021-12-01 | 2022-01-13 |
+| [can we be friends?](https://open.spotify.com/track/0DTYSTfFCLOaRLFcMYQwC9) | [Veronica](https://open.spotify.com/artist/6u7k7tbT583IHziqzFAC8j) | [can we be friends?](https://open.spotify.com/album/3UKWGrwTjo8DF0Vo1MVyRw) | 2:41 | 2026-11-20 |  |
 | [CAN YOU BE MY BABY](https://open.spotify.com/track/1DMEuTvueRO3VAe3Gn6BEo) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/7jv2CuoOPH30iKKgWv367J) | 3:37 | 2022-08-10 | 2022-09-09 |
 | [Can You Take It](https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Can You Take It](https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG) | 3:01 | 2023-01-18 | 2024-01-11 |
 | [Can You?](https://open.spotify.com/track/2VJLjzy9GzDd38aJwg7VsW) | [HARV](https://open.spotify.com/artist/30wdrkW0hVWYdLxmUaIYZp) | [Can You?](https://open.spotify.com/album/1SeaTu4PRtVLqB7wJNvpiC) | 2:39 | 2024-06-19 | 2024-12-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover: DJ Tunez",
+  "description": "Intersection of R&B and afrobeats. Cover: Rema",
   "name": "afro&b ",
   "tracks": [
     {
@@ -202,6 +202,28 @@
       "duration_ms": 180000,
       "name": "Afraid, Pt. 2 - feat. Xenia Manasseh",
       "url": "https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV"
+    },
+    {
+      "album": {
+        "name": "African Love Story (From Children of Blood and Bone)",
+        "url": "https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "African Love Story (From Children of Blood and Bone)",
+      "url": "https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn"
     },
     {
       "album": {
@@ -3809,6 +3831,28 @@
     },
     {
       "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
+    },
+    {
+      "album": {
         "name": "ATOM II",
         "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
       },
@@ -4002,7 +4046,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 197973,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/4id8zQT8oUUWj5IOzq6PkT"
@@ -5340,7 +5384,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
@@ -9757,6 +9801,28 @@
     },
     {
       "album": {
+        "name": "Reminder",
+        "url": "https://open.spotify.com/album/6aHI6aK4gBDKDB9q5dpvUW"
+      },
+      "artists": [
+        {
+          "name": "Myx Quest",
+          "url": "https://open.spotify.com/artist/6JmBU7YwghMOJWV31Su7Ra"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/0dHey8DZjVUpUjTReXSyS1"
+    },
+    {
+      "album": {
         "name": "Point Of View",
         "url": "https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc"
       },
@@ -11520,7 +11586,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 189152,
       "name": "Taking Me Places",
       "url": "https://open.spotify.com/track/33ut674yyb3quH7Ubf6Q7J"

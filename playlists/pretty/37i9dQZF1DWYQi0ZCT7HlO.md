@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 > Cozy Christmas piano and a crackling log fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,364 likes - 68 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,826 likes - 68 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 67 | [Lo, How A Rose E'er Blooming \- Fireplace](https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 3:44 |
 | 68 | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS) | 4:05 |
 
-Snapshot ID: `AAAAAB8ajFaS2NYszAtWV4cA1rF95OEi`
+Snapshot ID: `AAAAALDDiIWdS+GdoOmXx/gnxoTmme41`

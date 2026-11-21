@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Cezinando, Zara Larsson, Alan Walker, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,801 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,878 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 3 | [YUME](https://open.spotify.com/track/1kS1tlbXznxJ1Lcf41rL0A) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Raul](https://open.spotify.com/artist/7HJvf1WkxIKAF20M4uENgs) | [YUME](https://open.spotify.com/album/4i03JuGhTAVzOemgFYo88e) | 3:32 |
 | 4 | [Cold as a Blizzard](https://open.spotify.com/track/3cF0eG9pY99CRcGS3O2PLQ) | [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Cold as a Blizzard](https://open.spotify.com/album/5edWSkzS39jgHWOTz4KlVm) | 2:15 |
 | 5 | [DIVA](https://open.spotify.com/track/2f4MmxD14ih0NwOJtPzs7v) | [BEKLAGELIG](https://open.spotify.com/artist/2TegRnuyTu36WxXBGCXTUN), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Sevz](https://open.spotify.com/artist/57mBHUGMVlet5QyJ1zhylA), [Fanden](https://open.spotify.com/artist/2jtcW2dd5WjB1zIqMAhGdT) | [DIVA](https://open.spotify.com/album/3ESQtzwJ36zSQlDFWpI9G1) | 1:59 |
-| 6 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:12 |
+| 6 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 |
 | 7 | [The Vacation Song](https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [The Vacation Song](https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK) | 3:27 |
 | 8 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
 | 9 | [Ratatouille](https://open.spotify.com/track/3Cy6xYGa0fT6kaGe7i6rd0) | [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [Ratatouille](https://open.spotify.com/album/2LdYcbh4elxOLpohy9bfAK) | 2:11 |
 | 10 | [CALIFORNIA](https://open.spotify.com/track/6xIXPs5iQBFbH1WEohooD9) | [1362](https://open.spotify.com/artist/5VWzTrcdAotjUAGJ6M2KDZ) | [CALIFORNIA](https://open.spotify.com/album/3UEpajOOaRjdSCkw1Bj7Ow) | 3:13 |
 | 11 | [I'll Be Your Reason](https://open.spotify.com/track/1xwrOnKbruRRtOZTS4DFX1) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [I'll Be Your Reason](https://open.spotify.com/album/1RaLMEYU5pMx1iwiO1WF7T) | 3:46 |
-| 12 | [Høyt blir lavt](https://open.spotify.com/track/5pi9nvxPgBtlyI1g9Ja5mE) | [Kordfløyel](https://open.spotify.com/artist/48XfqaX7MK5sRiR4NVl6tq) | [Høyt blir lavt](https://open.spotify.com/album/27oOz2D0deamtoAcvOnjZu) | 2:41 |
+| 12 | [Høyt blir lavt](https://open.spotify.com/track/5pi9nvxPgBtlyI1g9Ja5mE) | [Kordfløyel](https://open.spotify.com/artist/48XfqaX7MK5sRiR4NVl6tq) | [Høyt blir lavt](https://open.spotify.com/album/27oOz2D0deamtoAcvOnjZu) | 2:45 |
 | 13 | [Dreamgirl](https://open.spotify.com/track/2nSdNYU2fONm2zGAPzpKni) | [Selma Eriksen](https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz) | [Dreamgirl](https://open.spotify.com/album/1jjfllp2FuqH3lBSoRmfiN) | 3:16 |
 | 14 | [prettyboymusic](https://open.spotify.com/track/0SN9na7zkkj3lpyosrudSc) | [brvge](https://open.spotify.com/artist/33lBP13fSNr2FdUBXZ7vtK), [Xander](https://open.spotify.com/artist/3NXmMJiPfF1Dl37aFiKP3u), [Cedric](https://open.spotify.com/artist/1sx2K9ug6B7ciez7hoAztL) | [BEHIND THE SCENES](https://open.spotify.com/album/7nszBIT580G7ZBFQmyLQQv) | 2:30 |
 | 15 | [Virkelig virkelig](https://open.spotify.com/track/0cZJw0qLKlMiNWG4vELAyO) | [Cezinando](https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z) | [EP 2](https://open.spotify.com/album/4h6P0dVeHrwgji7MNGHzpA) | 4:11 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 26 | [SEX PÅ X\-CRUISE](https://open.spotify.com/track/4XO8yqxp3smUSUaUdbUlTc) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [SEX PÅ X\-CRUISE](https://open.spotify.com/album/7tycDyTY2Hu8jOIW9d4561) | 2:29 |
 | 27 | [BYGD SOM 50](https://open.spotify.com/track/1qdI3ow1wUBlK5tQZjITfJ) | [Obede](https://open.spotify.com/artist/52iOjoWrTb6PywzCQjyKNl) | [BYGD SOM 50](https://open.spotify.com/album/0eB7WUEdG4diNvi6nlEQmX) | 1:36 |
 | 28 | [Coming Back](https://open.spotify.com/track/6QkCwQ4NeRlfTL0uteQsLR) | [Jay Sorrow](https://open.spotify.com/artist/0EaL2KcqElU2R12PDvAiuZ) | [Coming Back](https://open.spotify.com/album/02zjOpr3KS4233Pua4ZYbL) | 2:18 |
-| 29 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
+| 29 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 30 | [Leave With Me](https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Leave With Me \(Featured in Always Lalisa\)](https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn) | 3:04 |
 | 31 | [KILLING GOD WITH COMPUTERS](https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [爱](https://open.spotify.com/album/2Y8q8UKpgrmPGV8mFchvIj) | 3:17 |
 | 32 | [Whispers](https://open.spotify.com/track/4JQbBJYPjnQjqmTeuNb4VK) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Whispers](https://open.spotify.com/album/5Mo6eSAVWITxgvIjfAeLF7) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 99 | [unfolded](https://open.spotify.com/track/7Be42TyWXpNFStuxNw8Khg) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [unfolded](https://open.spotify.com/album/0I5uPQBjW366cqW5FCalvM) | 1:39 |
 | 100 | [Get ‘Em Girls](https://open.spotify.com/track/0PLJ8yOxocpIiRlo20Bp0f) | [KARLEE GIRL](https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX) | [Get ‘Em Girls](https://open.spotify.com/album/2Gtzo1b2Hsv9kkh5r4CT6P) | 3:19 |
 
-Snapshot ID: `AAAAAOA+D3eF/82rnRuMS013v45CTkbn`
+Snapshot ID: `AAAAAER6OpVwog/K0P7g6lkZ3QP3LmUn`

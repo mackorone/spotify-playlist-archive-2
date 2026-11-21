@@ -748,7 +748,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 240000,
       "name": "66 am",
       "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 233733,
       "name": "Adicci\u00f3n",
       "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
@@ -5991,6 +5991,28 @@
     },
     {
       "album": {
+        "name": "Camaron con Pulpo",
+        "url": "https://open.spotify.com/album/6hJcfgrzpYGSRM4yAxzPj4"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154186,
+      "name": "Camaron con Pulpo",
+      "url": "https://open.spotify.com/track/5RLYmkKVbc40Sckd9G0w2i"
+    },
+    {
+      "album": {
         "name": "Cambiaste",
         "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
       },
@@ -6492,7 +6514,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 167968,
       "name": "Cham\u00e1n",
       "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
@@ -10000,6 +10022,28 @@
       "duration_ms": 205517,
       "name": "Dime - Toy Selectah Cumbia Remix",
       "url": "https://open.spotify.com/track/5CrIhnbLia8Fqqr4d8UEi1"
+    },
+    {
+      "album": {
+        "name": "Rudos & Cursis",
+        "url": "https://open.spotify.com/album/6tzucWhG8CsFCOO4PdvSJ7"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Dime Lo Que Piensas",
+      "url": "https://open.spotify.com/track/5EFBBP7XbiVz25UziOYWkf"
     },
     {
       "album": {
@@ -15798,7 +15842,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 153745,
       "name": "HOTEL",
       "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
@@ -16872,7 +16916,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 212794,
       "name": "LA APUESTA",
       "url": "https://open.spotify.com/track/56GIxVbEkklSLH3ausSpqG"
@@ -22288,7 +22332,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 175522,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
@@ -23280,6 +23324,28 @@
       "duration_ms": 161520,
       "name": "Morena (Remix)",
       "url": "https://open.spotify.com/track/6q4sbXxKDwNiKCZHoonE99"
+    },
+    {
+      "album": {
+        "name": "Moreno Fantasy rmx",
+        "url": "https://open.spotify.com/album/5LDo69kDsEUiM982sa3Z17"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Moreno Fantasy rmx",
+      "url": "https://open.spotify.com/track/3ypqyY9KRSP8Db1SzYwnUe"
     },
     {
       "album": {
@@ -25444,7 +25510,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 206516,
       "name": "No Sabes De Romances",
       "url": "https://open.spotify.com/track/2rgodkCLWBkleiJ5FezowZ"
@@ -26834,6 +26900,28 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+    },
+    {
+      "album": {
+        "name": "Oveja Negra",
+        "url": "https://open.spotify.com/album/1v4zFBshC4YmJv1snxbxWC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143506,
+      "name": "Oveja Negra",
+      "url": "https://open.spotify.com/track/7LcDqOSX8tVQSAbDAdFUuk"
     },
     {
       "album": {
@@ -33713,6 +33801,28 @@
     },
     {
       "album": {
+        "name": "Suzuki (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111655,
+      "name": "Suzuki (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
+    },
+    {
+      "album": {
         "name": "Su\u00e9ltate",
         "url": "https://open.spotify.com/album/6cWIv2C8VPNbNL3Xi8aQpJ"
       },
@@ -36322,7 +36432,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 126722,
       "name": "T\u00cdMIDA, SANTA Y PELIGROSA",
       "url": "https://open.spotify.com/track/6yhlBas06D4GJ7hLWod9gH"
@@ -38292,7 +38402,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 155629,
       "name": "Wall Street",
       "url": "https://open.spotify.com/track/0jcMfmjkoFqxWAB4Xx8mr0"
@@ -38766,6 +38876,24 @@
       "duration_ms": 164186,
       "name": "Y Soporta",
       "url": "https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu"
+    },
+    {
+      "album": {
+        "name": "Una Raya M\u00e1s Al Tigre",
+        "url": "https://open.spotify.com/album/7MJoZxZbsqqDkdtvZZgZua"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Y Tu Tiempo Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/5a3c1xOoKAhdFatTbONVYI"
     },
     {
       "album": {
@@ -39262,6 +39390,24 @@
       "duration_ms": 193521,
       "name": "Ya volv\u00ed",
       "url": "https://open.spotify.com/track/5DWdfSyrocFlZtav2HFwXF"
+    },
+    {
+      "album": {
+        "name": "YAKUZA",
+        "url": "https://open.spotify.com/album/750ro0mlyNiHoCYKdYygZC"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161315,
+      "name": "YAKUZA",
+      "url": "https://open.spotify.com/track/2xNLHMfWrRhFkKtzwX1IWX"
     },
     {
       "album": {

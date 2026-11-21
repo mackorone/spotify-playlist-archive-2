@@ -1765,6 +1765,28 @@
     },
     {
       "album": {
+        "name": "Me Alegrar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5mV6q57MdDUSRU7G7LAmUA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Me Alegrar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1APH91wfvZVnKZKLsNP2Cp"
+    },
+    {
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
       },
@@ -3184,7 +3206,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 185969,
       "name": "Teu Amor Por Mim",
       "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
@@ -3382,6 +3404,24 @@
       "duration_ms": 234613,
       "name": "Valeu a Pena: Releitura",
       "url": "https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm"
+    },
+    {
+      "album": {
+        "name": "Intimidade - Vol. 03",
+        "url": "https://open.spotify.com/album/1b0fR8h1vgZnWyXKZtRx8C"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "Vendavais",
+      "url": "https://open.spotify.com/track/2KQtvdqhFtNnkz3613nW0t"
     },
     {
       "album": {

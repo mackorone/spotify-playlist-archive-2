@@ -1,12 +1,12 @@
 {
   "description": "Discover the latest Korean classical & new age music! (Cover: \uc724\ud55c(YOONHAN)) \ucd5c\uc2e0 \ud55c\uad6d \ud074\ub798\uc2dd\uacfc \ub274\uc5d0\uc774\uc9c0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5961,
+  "num_followers": 5968,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO7uM9wZcpAyP96E/5ygoywIjc/L",
+  "snapshot_id": "AAAAAJK9+07D72/0/DTBuNOIi/plmX9Z",
   "tracks": [
     {
       "added_at": "2026-11-20 01:07:27",
@@ -708,7 +708,7 @@
           "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
         },
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
@@ -804,7 +804,7 @@
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
-      },
-      "artists": [
-        {
-          "name": "Libelante",
-          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
-    },
-    {
-      "added_at": "2026-11-20 01:07:27",
-      "album": {
         "name": "Il Mondo",
         "url": "https://open.spotify.com/album/5KZRNp9ayuswLvXGyUPmYq"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 234266,
       "name": "Il Mondo",
       "url": "https://open.spotify.com/track/1Ep6pGxu3lZcqPJOLiYRbY"
+    },
+    {
+      "added_at": "2026-11-20 01:07:27",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
+      },
+      "artists": [
+        {
+          "name": "Libelante",
+          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1076,7 +1076,7 @@
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         },
         {
@@ -1180,7 +1180,7 @@
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "A Christmas Symphony",
-        "url": "https://open.spotify.com/album/6XkOhydeYpbV2rRGOyUdQ9"
-      },
-      "artists": [
-        {
-          "name": "cho min gyu",
-          "url": "https://open.spotify.com/artist/0z18ejgzsJmt0DWuCshKv1"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "A Christmas Symphony",
-      "url": "https://open.spotify.com/track/6iNSCePbwUiSDQ2bF5yj3e"
-    },
-    {
-      "added_at": "2026-11-20 01:07:27",
-      "album": {
         "name": "Growl (Orchestra Version)",
         "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 244918,
       "name": "Growl - Orchestra Version",
       "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
+    },
+    {
+      "added_at": "2026-11-20 01:07:27",
+      "album": {
+        "name": "A Christmas Symphony",
+        "url": "https://open.spotify.com/album/6XkOhydeYpbV2rRGOyUdQ9"
+      },
+      "artists": [
+        {
+          "name": "cho min gyu",
+          "url": "https://open.spotify.com/artist/0z18ejgzsJmt0DWuCshKv1"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "A Christmas Symphony",
+      "url": "https://open.spotify.com/track/6iNSCePbwUiSDQ2bF5yj3e"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1376,7 +1376,7 @@
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
@@ -1812,7 +1812,7 @@
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "name": "Danny Koo",
           "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         },
         {
@@ -1919,6 +1919,30 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
+        "name": "psalms",
+        "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        },
+        {
+          "name": "Budapest Scoring Orchestra and Choir",
+          "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
+        },
+        {
+          "name": "Jung Eun Hye",
+          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
+        }
+      ],
+      "duration_ms": 371146,
+      "name": "memorare",
+      "url": "https://open.spotify.com/track/6K0CsO1HJbf7k2eOYg9khP"
+    },
+    {
+      "added_at": "2026-11-20 01:07:27",
+      "album": {
         "name": "Lost In Memory",
         "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
       },
@@ -1963,30 +1987,6 @@
       "duration_ms": 246546,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
-    },
-    {
-      "added_at": "2026-11-20 01:07:27",
-      "album": {
-        "name": "psalms",
-        "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
-      },
-      "artists": [
-        {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
-        },
-        {
-          "name": "Budapest Scoring Orchestra and Choir",
-          "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
-        },
-        {
-          "name": "Jung Eun Hye",
-          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
-        }
-      ],
-      "duration_ms": 371146,
-      "name": "memorare",
-      "url": "https://open.spotify.com/track/6K0CsO1HJbf7k2eOYg9khP"
     },
     {
       "added_at": "2026-11-20 01:07:27",

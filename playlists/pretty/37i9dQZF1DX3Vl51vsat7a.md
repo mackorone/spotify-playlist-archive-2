@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 49 | [Lonely](https://open.spotify.com/track/0Z6wRXvwfrCGZSZRmbOnAi) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Lonely](https://open.spotify.com/album/73eC5wTTB0XFpHUZ29ma8X) | 2:40 |
 | 50 | [belly of the beast](https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [bullfight](https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD) | 3:36 |
 
-Snapshot ID: `AAAAAGm8nXsVsD5SNpqx4JrndmfyqIVM`
+Snapshot ID: `AAAAAAklyhEW+NUKPpSPbahnBdm+ymPF`

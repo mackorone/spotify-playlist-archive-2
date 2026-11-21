@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with Julien Baker.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,136,612 likes - 84 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,136,145 likes - 84 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 83 | [Dreams](https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Dreams](https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL) | 3:11 |
 | 84 | [L+R](https://open.spotify.com/track/1EgDWQYtFBrqwRBypzCwR7) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [as in progress](https://open.spotify.com/album/4ywGQ13kokX0rq53emZfMn) | 2:34 |
 
-Snapshot ID: `AAAAANsy8CbDyCQlArQ7q2ejqTnlHRks`
+Snapshot ID: `AAAAAEvNqkJnCKHtdILfTXrY9wJTRPvp`

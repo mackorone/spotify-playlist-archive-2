@@ -4760,7 +4760,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 142973,
       "name": "Cancer",
       "url": "https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG"
@@ -6796,7 +6796,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 295000,
       "name": "Disenchanted",
       "url": "https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP"
@@ -8396,7 +8396,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 299226,
       "name": "Famous Last Words",
       "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
@@ -10662,6 +10662,24 @@
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "album": {
+        "name": "Three Cheers for Sweet Revenge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2UyMXfEjHvT4LlrVYqXGTM"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202181,
+      "name": "Helena - 2025 Mix",
+      "url": "https://open.spotify.com/track/5Oi4bcuLV8D3YJ6w4FBEUz"
     },
     {
       "album": {
@@ -13906,10 +13924,28 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 239629,
       "name": "Kita Lewati Berdua",
       "url": "https://open.spotify.com/track/704I5f8yKt0ekmwl0Od8vc"
+    },
+    {
+      "album": {
+        "name": "Kita Lewati Berdua",
+        "url": "https://open.spotify.com/album/5COe0kIigebpByNmTHaSWt"
+      },
+      "artists": [
+        {
+          "name": "Overnight",
+          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239750,
+      "name": "Kita Lewati Berdua",
+      "url": "https://open.spotify.com/track/2mn00fy8AngFTLzRMDQlCJ"
     },
     {
       "album": {
@@ -20226,7 +20262,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 287477,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/1DVHCvTwuwtZrpYDV4irH5"
@@ -20302,7 +20338,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 219924,
       "name": "Pure",
       "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
@@ -21682,7 +21718,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 227908,
       "name": "Salah Apa Aku",
       "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
@@ -21718,7 +21754,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 270486,
       "name": "Sampai Mati",
       "url": "https://open.spotify.com/track/0w2kjlWmp8JUMtylt0kNMh"
@@ -24106,7 +24142,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -26178,7 +26214,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Terbelah Jadi Dua",
       "url": "https://open.spotify.com/track/0euhFPZ2tlFElQzppQCzCw"
@@ -26200,7 +26236,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 255000,
       "name": "Terbelah Jadi Dua",
       "url": "https://open.spotify.com/track/2wAa43qM16H0PWAwiHTk5S"
@@ -28732,7 +28768,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 311106,
       "name": "Welcome to the Black Parade",
       "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"

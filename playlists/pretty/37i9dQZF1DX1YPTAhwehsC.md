@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 ### [State of Mind](https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC)
 
-> Up and down I\-95\. Cover: Westside Gunn
+> Up and down I\-95\. Cover: Fergie Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,672 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,635 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Pain](https://open.spotify.com/track/2H81TA0vQexPYaFXRAGqjt) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [iight bet!](https://open.spotify.com/album/7eeKZCUXa6fxPOCGaCPqfY) | 2:23 |
 | 100 | [Paul](https://open.spotify.com/track/4d0Iik325hU4ci3c5Lh3he) | [Nahree](https://open.spotify.com/artist/3ykDsdvm7KEfk05HH9t0ax) | [SAVE!](https://open.spotify.com/album/3ZhL5dmsbLOlYR7Kk15dpE) | 2:22 |
 
-Snapshot ID: `AAAAAJcWgx4K+zLT9RCycfAFNnr58bDA`
+Snapshot ID: `AAAAAPlJ5LiVnikIcThiyVO+V4ZlXMBr`

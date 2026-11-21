@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAADDS+PvcHHlhYe41SqB8GGldHTLuei",
+  "snapshot_id": "AAADEG2SfXVpx5OBGOMXA1MLY7sjuiM0",
   "tracks": [
     {
       "added_at": "2023-08-20 17:59:56",
@@ -10339,6 +10339,58 @@
       "duration_ms": 225037,
       "name": "Pe\u00e7o pra Chover",
       "url": "https://open.spotify.com/track/5ACQIZYeHktPw6Ku3ADuxq"
+    },
+    {
+      "added_at": "2026-11-20 17:07:59",
+      "album": {
+        "name": "Si Hago Todo Mal",
+        "url": "https://open.spotify.com/album/3uqellZFKrxilOPoAhYH4r"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1al D\u00e9bil o Inexistente",
+          "url": "https://open.spotify.com/artist/0AHivSTCsGgtBvVi34uO0A"
+        }
+      ],
+      "duration_ms": 149553,
+      "name": "Si Hago Todo Mal",
+      "url": "https://open.spotify.com/track/4eL6x2Gtx6SK2dtUrWULFe"
+    },
+    {
+      "added_at": "2026-11-20 17:08:47",
+      "album": {
+        "name": "HardTimesTimesTimes",
+        "url": "https://open.spotify.com/album/7d9PFJkDJAm2pXD6VWbuen"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        },
+        {
+          "name": "yukigloom",
+          "url": "https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha"
+        }
+      ],
+      "duration_ms": 184126,
+      "name": "HardTimesTimesTimes",
+      "url": "https://open.spotify.com/track/2RtACPtJIOptw2m7nsU6De"
+    },
+    {
+      "added_at": "2026-11-20 17:08:53",
+      "album": {
+        "name": "Codinome Mulher",
+        "url": "https://open.spotify.com/album/2xf7snMHcLBSiE6LOQJXza"
+      },
+      "artists": [
+        {
+          "name": "banda plano b",
+          "url": "https://open.spotify.com/artist/71Ej1tQMWH7QQNbntcQpUY"
+        }
+      ],
+      "duration_ms": 204010,
+      "name": "Codinome Mulher",
+      "url": "https://open.spotify.com/track/6LqCTbmQwISfs9h2eKEdo4"
     }
   ],
   "unique_name": "Rock Frequency (2)",

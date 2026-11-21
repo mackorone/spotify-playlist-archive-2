@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 162711,
       "name": "Green Cats Cave",
       "url": "https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J"
@@ -1970,6 +1970,24 @@
       "duration_ms": 103424,
       "name": "hand of god",
       "url": "https://open.spotify.com/track/4U3ch2mx6XHGIRrpQuIlWQ"
+    },
+    {
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/30XHpT09SCggYG5pq0pXqv"
+      },
+      "artists": [
+        {
+          "name": "David Cutter Music",
+          "url": "https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150230,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/2UZTfsfSUknvgAQwkg4fWX"
     },
     {
       "album": {

@@ -7191,6 +7191,24 @@
     },
     {
       "album": {
+        "name": "My Living Room",
+        "url": "https://open.spotify.com/album/4UNdDJhOx9c1N2EUGxMJPe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Suave",
+          "url": "https://open.spotify.com/artist/3AsoN7oDEpiTlHy9cJHz6A"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "My Living Room",
+      "url": "https://open.spotify.com/track/6N0SQvbChzzupoNGis0sOe"
+    },
+    {
+      "album": {
         "name": "N Seoul Tower",
         "url": "https://open.spotify.com/album/0tAzqKIDlC4UuIQpsodljo"
       },

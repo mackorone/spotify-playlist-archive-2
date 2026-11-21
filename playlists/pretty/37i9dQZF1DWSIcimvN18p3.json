@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Aldous Harding",
-  "num_followers": 336451,
+  "num_followers": 336461,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxNq4ugtqEUCI26t36hJOUGlo5P",
+  "snapshot_id": "AAAAAOYa3E8FSScLX2YgXq9GMX22D/sv",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:12",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Parallelograms",
-        "url": "https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo"
-      },
-      "artists": [
-        {
-          "name": "Linda Perhacs",
-          "url": "https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM"
-        }
-      ],
-      "duration_ms": 157346,
-      "name": "Hey, Who Really Cares",
-      "url": "https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Mercy Now",
         "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 350560,
       "name": "Mercy Now",
       "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Parallelograms",
+        "url": "https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo"
+      },
+      "artists": [
+        {
+          "name": "Linda Perhacs",
+          "url": "https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM"
+        }
+      ],
+      "duration_ms": 157346,
+      "name": "Hey, Who Really Cares",
+      "url": "https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Highway 101, Vol. 2",
         "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 220586,
       "name": "(Do You Love Me) Just Say Yes",
       "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
       "artists": [
         {
-          "name": "Esther Rose",
-          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 298400,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM"
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
+      },
+      "artists": [
+        {
+          "name": "Esther Rose",
+          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "I Could Drive You Crazy",
         "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 216128,
       "name": "I Could Drive You Crazy",
       "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Universal Soldier",
-      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Universal Soldier",
+      "url": "https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "B\u00e9la Fleck & Abigail Washburn",
-        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Railroad",
-      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Dollar Bill Bar",
         "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 162290,
       "name": "Man's World",
       "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "B\u00e9la Fleck & Abigail Washburn",
+        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Railroad",
+      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 246611,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "One Step Ahead",
         "url": "https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 212466,
       "name": "Kentucky Borderline",
       "url": "https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 246611,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Crosshairs",
-      "url": "https://open.spotify.com/track/7qIt6ymGZPn8DWVtv1DcMI"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
       },
@@ -2111,18 +2095,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 198200,
-      "name": "A Feather's Not A Bird",
-      "url": "https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP"
+      "duration_ms": 243773,
+      "name": "Crosshairs",
+      "url": "https://open.spotify.com/track/7qIt6ymGZPn8DWVtv1DcMI"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2139,6 +2123,22 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "A Feather's Not A Bird",
+      "url": "https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Dream Song",
-        "url": "https://open.spotify.com/album/7hB4iSq2vdaVMJ5esXxe6t"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 275974,
-      "name": "Dream Song",
-      "url": "https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Stand In",
         "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 286388,
       "name": "Stand In",
       "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Dream Song",
+        "url": "https://open.spotify.com/album/7hB4iSq2vdaVMJ5esXxe6t"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 275974,
+      "name": "Dream Song",
+      "url": "https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Mosh Pit",
-        "url": "https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 323857,
-      "name": "Mosh Pit",
-      "url": "https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "baja bird",
         "url": "https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 228681,
       "name": "baja bird",
       "url": "https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Mosh Pit",
+        "url": "https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 323857,
+      "name": "Mosh Pit",
+      "url": "https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2519,18 +2519,18 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Maja Lena",
+          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+      "duration_ms": 179306,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
     }
   ],
   "unique_name": "Women of Folk",

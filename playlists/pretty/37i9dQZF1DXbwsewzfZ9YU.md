@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Haywire 617
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,825 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,865 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [The Hurt Continues](https://open.spotify.com/track/51sb7CUU1tSAw1iWe3tQwn) | [Blood & Tears](https://open.spotify.com/artist/2TtDxxQQEqbb6gy5o7cOnW) | [Brotherhood Demo](https://open.spotify.com/album/0vL9ARWBlnjyrJ5rag2EVS) | 2:29 |
 | 100 | [Force of Will](https://open.spotify.com/track/5mJgniy9jKEseDJjpPPhG0) | [Barricade](https://open.spotify.com/artist/5BQeNqfLrO1uQrIhBiFvzh) | [No Spirit](https://open.spotify.com/album/7cM3Vcnf7OQfXyETVxukFm) | 1:18 |
 
-Snapshot ID: `AAAAAHalZ8WyIa1F/bAfw0jyJtYEcK4E`
+Snapshot ID: `AAAAAOpZHqfABFFR65OSXbEA/kEFm47W`

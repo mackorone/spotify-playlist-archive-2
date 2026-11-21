@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Blackbeans",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -476,6 +476,24 @@
       "duration_ms": 178164,
       "name": "speak no evil",
       "url": "https://open.spotify.com/track/1aqDEC2IbLAMdBMXUTNG8K"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/3ra4Ha17GKrY48DQokHNoz"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/08614YUJvxwJ7ysSB26Uk4"
     },
     {
       "album": {
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 222666,
       "name": "\u0e14\u0e32\u0e27 (pluto)",
       "url": "https://open.spotify.com/track/5HVsZLMvmUC4phal6rEwfW"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 307565,
       "name": "\u0e1b\u0e25\u0e32\u0e22\u0e40\u0e2a\u0e49\u0e19\u0e02\u0e2d\u0e1a\u0e1f\u0e49\u0e32 (Oath To Romance)",
       "url": "https://open.spotify.com/track/62bBrZb27BfRxPG8JyG5Yz"
@@ -2001,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e23\u0e20\u0e32\u0e27\u0e19\u0e32 (PRAY)",
+        "url": "https://open.spotify.com/album/4bzgqOjPI8y0326ZBrFLuY"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u0e1e\u0e23\u0e20\u0e32\u0e27\u0e19\u0e32 (PRAY)",
+      "url": "https://open.spotify.com/track/4IrRw8f8Yv3unQD25sRTPR"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27(\u0e41\u0e15\u0e48\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27)",
         "url": "https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI"
       },
@@ -2084,7 +2120,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 194000,
       "name": "\u0e21\u0e19\u0e15\u0e23\u0e4c\u0e23\u0e31\u0e01 K-Pop",
       "url": "https://open.spotify.com/track/0wPICfymAfvctV7uJnlWSk"
@@ -2978,7 +3014,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 235000,
       "name": "\u0e40\u0e18\u0e2d\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22\u0e19\u0e30\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e48\u0e2d\u0e19\u0e41\u0e2d",
       "url": "https://open.spotify.com/track/5neprQuS9bDAGrVsuAy1uR"
@@ -3165,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "_\u0e2a\u0e27\u0e21\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e32\u0e01\u0e40\u0e02\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/5njshrmSpOPplfq5QMOM0Q"
+      },
+      "artists": [
+        {
+          "name": "_less",
+          "url": "https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202748,
+      "name": "\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e1f\u0e31\u0e07\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e15\u0e48\u0e2d (Ice Cream)",
+      "url": "https://open.spotify.com/track/6I5g4bWAeHWkXjANWpliCd"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2a\u0e31\u0e49\u0e19 132 \u0e04\u0e33",
         "url": "https://open.spotify.com/album/2uKrgqQ4eL86ZaACEutyyu"
       },
@@ -3256,6 +3310,24 @@
       "duration_ms": 282591,
       "name": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1c\u0e49\u0e32 (Things)",
       "url": "https://open.spotify.com/track/0jlUg5VpNwTmVBIUfaIrX7"
+    },
+    {
+      "album": {
+        "name": "BEACH BAR",
+        "url": "https://open.spotify.com/album/2nJxaVqsaSXBjCN9pLJHVt"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258153,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e40\u0e27\u0e25\u0e32 (We Met, We Parted)",
+      "url": "https://open.spotify.com/track/2ZdohVX9Cgsu1sgHrmgXKa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Tori Kelly & HILLARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,246 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,279 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 79 | [Lovin'](https://open.spotify.com/track/3xy8huS44QPfzob15J15Wn) | [Emma Nissen](https://open.spotify.com/artist/1DnRR6YVHXOJJ960ZKUzGS) | [Moved](https://open.spotify.com/album/6QzaLQ6pBHHMDWr75dJBRW) | 3:16 |
 | 80 | [Sinner 2 Winner](https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y) | [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j) | [Sinner 2 Winner](https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob) | 2:42 |
 
-Snapshot ID: `AAAAAPDgZNKujD0oI9GX+uq8IVYU734I`
+Snapshot ID: `AAAAANXcWLe4Bu9UMZ4ihfYIqEsgII9l`

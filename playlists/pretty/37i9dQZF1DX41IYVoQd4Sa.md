@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : ברי סחרוף
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,741 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,744 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 49 | [יותר מדי בבת אחת](https://open.spotify.com/track/3t2GoEUZyLUeXogiQqzg5o) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [יותר מדי בבת אחת](https://open.spotify.com/album/4NCqWhw52XSrUFUJRA02uo) | 3:11 |
 | 50 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
 
-Snapshot ID: `AAAAAJN6skao1GsVM0k9S8DN8hyN5kHP`
+Snapshot ID: `AAAAAHDKfues3oJaJSDzjPJIPIITQLm4`

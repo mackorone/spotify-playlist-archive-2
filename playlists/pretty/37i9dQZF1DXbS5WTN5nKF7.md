@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Karol G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,652 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,696 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 50 | [Nouméa](https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Linema](https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl) | [Nouméa](https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I) | 3:48 |
 
-Snapshot ID: `AAAAAFQGz+8i/8v7wa6aA/t5ew0g+5zJ`
+Snapshot ID: `AAAAACrP69+vMxhG5awnwTCp2p5fDlzM`

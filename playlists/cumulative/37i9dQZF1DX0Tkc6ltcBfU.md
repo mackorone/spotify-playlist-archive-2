@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: YFN Lucci
 
-3,040 songs - 5 day 21 hr 9 min
+3,041 songs - 5 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Afraid](https://open.spotify.com/track/4yxQkYkrFWCHrKVwiwXRL2) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Afraid](https://open.spotify.com/album/2iQUURzBFgj4OHI0SCBaMn) | 1:53 | 2025-07-18 | 2025-09-20 |
 | [Africa](https://open.spotify.com/track/63Z5XjhYhs4qJ7RVhSHtn8) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP) | [Africa](https://open.spotify.com/album/7ne5pqe1F2AzZBVKJjnXCX) | 2:28 | 2026-09-04 | 2026-09-12 |
 | [Ah'chi](https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ah'chi](https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5) | 3:40 | 2024-07-05 | 2025-02-01 |
+| [AHH YEA](https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 2:00 | 2026-11-20 |  |
 | [AI \(feat\. Luh Tyler\)](https://open.spotify.com/track/54Wvdr3WOo9QYmVExtUs2i) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Category 5: The Biggest Hurricane](https://open.spotify.com/album/5DjtMejXZGFkAYJpmrU8Gt) | 2:11 | 2023-12-29 | 2024-01-20 |
 | [AI Marley](https://open.spotify.com/track/5rCTD50Q76KjAQfKyBBl5T) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DESHAWN](https://open.spotify.com/album/1kBZ0CgBB3hqPCENxpKTNl) | 3:45 | 2025-08-15 | 2025-08-23 |
 | [Aight](https://open.spotify.com/track/0Eo6kDmtQaG21N6TPUe37r) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [In House 2: Boosie and the Beast](https://open.spotify.com/album/77GGwgpfSTtyK64PTfe5VX) | 2:48 | 2024-02-09 | 2024-02-17 |

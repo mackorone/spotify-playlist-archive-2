@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alex Fernandez \ud83d\udcf8",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Lucero, Majo Aguilar \ud83d\udcf8",
   "name": "Mariachi 2026",
   "tracks": [
     {
@@ -3105,6 +3105,28 @@
     },
     {
       "album": {
+        "name": "El Ojo Alegre",
+        "url": "https://open.spotify.com/album/2rXsAGS5pq2iflrCwDu3XL"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162784,
+      "name": "El Ojo Alegre",
+      "url": "https://open.spotify.com/track/0igFqoWKIvKwsObqBtRTGI"
+    },
+    {
+      "album": {
         "name": "El Pobre",
         "url": "https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo"
       },
@@ -3742,6 +3764,24 @@
       "duration_ms": 231302,
       "name": "Este Amor",
       "url": "https://open.spotify.com/track/4qQEpeUsKJYeRTZmF9nsSf"
+    },
+    {
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/7cZStbzv3lmp3onxR8O6l6"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171150,
+      "name": "Este Cari\u00f1o",
+      "url": "https://open.spotify.com/track/5L0GhGIuNKKGKSw4ZMSZfl"
     },
     {
       "album": {
@@ -7681,6 +7721,24 @@
     },
     {
       "album": {
+        "name": "Patria Querida",
+        "url": "https://open.spotify.com/album/03hMQskNBLKBt5taaZdfyo"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166329,
+      "name": "Patria Querida",
+      "url": "https://open.spotify.com/track/0FK722fJJUp4sgqborEunh"
+    },
+    {
+      "album": {
         "name": "Buscando el Olvido",
         "url": "https://open.spotify.com/album/4UFscI9bYCYgaPdDojIZkh"
       },
@@ -10183,6 +10241,24 @@
     },
     {
       "album": {
+        "name": "Te Vas \u00c1ngel M\u00edo",
+        "url": "https://open.spotify.com/album/6IPk365infZXMEARae8XeG"
+      },
+      "artists": [
+        {
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221589,
+      "name": "Te Vas \u00c1ngel M\u00edo",
+      "url": "https://open.spotify.com/track/0GnChJeC4cTbUNbbbcItvA"
+    },
+    {
+      "album": {
         "name": "Endeble",
         "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
       },
@@ -10909,6 +10985,42 @@
     },
     {
       "album": {
+        "name": "Caprichos",
+        "url": "https://open.spotify.com/album/6RpwoyuXUyyfZq9YxHoSxb"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Vas A Recordarme",
+      "url": "https://open.spotify.com/track/0cLJrYmBe0yDueNn0b8UcE"
+    },
+    {
+      "album": {
+        "name": "Vas y Vienes",
+        "url": "https://open.spotify.com/album/0aHxYHSNj5HH0d6tftnYwc"
+      },
+      "artists": [
+        {
+          "name": "Johan Sanabria",
+          "url": "https://open.spotify.com/artist/1K3jKSzJRcwgOMJBgMxqdn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Vas y Vienes",
+      "url": "https://open.spotify.com/track/21mlr0keyiGV7C5HKOt60T"
+    },
+    {
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn"
       },
@@ -11192,6 +11304,24 @@
       "duration_ms": 159466,
       "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
       "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
+    },
+    {
+      "album": {
+        "name": "Una Raya M\u00e1s Al Tigre",
+        "url": "https://open.spotify.com/album/7MJoZxZbsqqDkdtvZZgZua"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Y Tu Tiempo Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/5a3c1xOoKAhdFatTbONVYI"
     },
     {
       "album": {
@@ -11668,6 +11798,24 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "album": {
+        "name": "No Todo Fue Amor",
+        "url": "https://open.spotify.com/album/1POaLG8Gt3chiBDTcw3VRw"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201757,
+      "name": "\u00c9l No Eres T\u00fa",
+      "url": "https://open.spotify.com/track/7FtY7pcArLtn9U17F6fSsp"
     },
     {
       "album": {

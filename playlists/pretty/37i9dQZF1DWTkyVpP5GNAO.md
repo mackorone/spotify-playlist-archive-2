@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,290 likes - 80 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,314 likes - 80 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 79 | [Gloria A Dios Aleluya Amén](https://open.spotify.com/track/3T8ZYvtXYvUgIz37y41DHP) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Santo Es Su Nombre](https://open.spotify.com/album/27X0U0GsZ7d4dqouOnFesh) | 5:11 |
 | 80 | [Mi Primer Amor](https://open.spotify.com/track/33Wr1cv6HYuTLbqiIgxEUP) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Mi Primer Amor](https://open.spotify.com/album/5hTiFDFmmR84rDuqBeVqwe) | 4:07 |
 
-Snapshot ID: `AAAAAL8pYB11E5Q76RKaT3iVJ01AEELC`
+Snapshot ID: `AAAAAH0vm+x/uO0wjHaEQN8cQKAOn3Wl`

@@ -4,7 +4,7 @@
 
 > New music by Paloma Morphy, Myke Towers & Rauw Alejandro, Joaquina, Kapo and more.
 
-13,333 songs - 28 day 20 hr 45 min
+13,335 songs - 28 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7484,6 +7484,7 @@
 | [Mi Droga \(feat\. Dei V\)](https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SOBR3NATURAL](https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt) | 3:44 | 2025-12-19 | 2026-01-15 |
 | [Mi Ego](https://open.spotify.com/track/4yly37NMuuw336fB8PJeIX) | [El Pinche Valentin](https://open.spotify.com/artist/7EquQBFR1KIRdtc9wtq77m), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Anubis](https://open.spotify.com/album/2uevLH2c9kFu6mUTOy13BQ) | 2:25 | 2021-12-31 | 2022-01-15 |
 | [Mi Enemigo El Amor](https://open.spotify.com/track/7JAHUU4lxuLjAdPzoByBdw) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mi Enemigo El Amor](https://open.spotify.com/album/1TiI7P3TbT6BQ5epT7NWpb) | 4:09 | 2026-11-20 |  |
+| [Mi Esposa Consentida](https://open.spotify.com/track/7C27k5lANwonEIe2cKN48D) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Esposa Consentida](https://open.spotify.com/album/7tkgA8z4fg8ewU72q6njVM) | 3:21 | 2026-11-20 |  |
 | [Mi Estilo](https://open.spotify.com/track/17mO121s5ssjoi3lVK7qs9) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Melodía](https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc) | 1:57 | 2022-10-21 | 2022-10-29 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3vxd5kyudvfULdOlC7LuzT) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/7o2rasMBeBQUfGlt49M6Ah) | 2:59 | 2022-05-20 | 2022-05-28 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 | 2024-02-23 | 2024-03-02 |
@@ -12347,6 +12348,7 @@
 | [Un Amor Como Este](https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW) | 3:05 | 2023-03-03 | 2023-03-11 |
 | [Un Amor De La Calle](https://open.spotify.com/track/5ufnoTzJt2FImTzPCSjXQH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Un Amor De La Calle](https://open.spotify.com/album/0brihey374OI8OMWxCzPLg) | 3:02 | 2025-08-16 | 2025-08-23 |
 | [Un Amor Que Se Termina](https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Un Amor Que Se Termina](https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI) | 2:36 | 2024-08-16 | 2024-08-24 |
+| [un arrunchis más](https://open.spotify.com/track/2e3u2Ux8M3EIWtimLdl9xW) | [MONÁCO](https://open.spotify.com/artist/5mrZpUB8oFSOMkyyhW0rmH) | [un arrunchis más](https://open.spotify.com/album/60ceKPXKu0sEs4tnPdRF0R) | 2:35 | 2026-11-20 |  |
 | [UN AÑO DE MIERDA](https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [UN AÑO DE MIERDA](https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O) | 2:50 | 2023-07-28 | 2023-08-05 |
 | [Un Bendito Día](https://open.spotify.com/track/0SN8t32hU7C203Tnmzew1p) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Bendito Día](https://open.spotify.com/album/6tYRIeNLlDe8MxrU0rl48o) | 3:31 | 2025-02-07 | 2025-02-15 |
 | [Un Besito](https://open.spotify.com/track/6ydzrKlwcFdroCNwbpRVFn) | [Nigel](https://open.spotify.com/artist/1CEX09QFQGNdyIzFLKYksf), [Osquel](https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd) | [Un Besito](https://open.spotify.com/album/3HWur6KmfoZ84KueFJkmQl) | 3:27 | 2023-07-07 | 2023-07-15 |

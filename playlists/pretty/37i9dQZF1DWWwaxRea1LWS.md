@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT celebrates 10 years of 24K Magic\. Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,255,085 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,254,946 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 29 | [CRZY](https://open.spotify.com/track/6Dwtha2FtZFoMEBh5GR2sq) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:11 |
 | 30 | [Keep You In Mind](https://open.spotify.com/track/7pZYgw8XSIDQXLxnYOZas9) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [A Song For Everyone](https://open.spotify.com/album/39BbwMf6XkukXH5ZI88Os2) | 3:15 |
 
-Snapshot ID: `AAAAAHIjOrgYA+keaXk1A36hAo2GPrQn`
+Snapshot ID: `AAAAAGapcuFcoSR68o1w71DwnnWxZYoU`

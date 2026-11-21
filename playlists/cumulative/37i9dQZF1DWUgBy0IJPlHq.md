@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Ken Pomeroy
 
-922 songs - 2 day 7 hr 43 min
+924 songs - 2 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-04-28 | 2025-10-11 |
 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:08 | 2026-10-23 |  |
 | [Everybody Else](https://open.spotify.com/track/70WAxgKcmPb9z48YwxIpvT) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Everybody Else](https://open.spotify.com/album/43SnDuO3vSQWIJLUUZoPkM) | 2:57 | 2021-12-17 | 2022-02-12 |
-| [Everybody Wants To Be A Cowboy \(feat\. Billy Strings\)](https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:39 | 2026-05-01 |  |
+| [Everybody Wants To Be A Cowboy \(feat\. Billy Strings\)](https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:39 | 2026-05-01 | 2026-11-21 |
 | [Everything At Once \(feat\. Jeff Tweedy\)](https://open.spotify.com/track/2bit2LuOPnCeU2ob19Gxgl) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Everything At Once](https://open.spotify.com/album/10GH9Xfp9nTC9WgKTAUvY8) | 3:45 | 2023-03-31 | 2024-01-27 |
 | [Everything She Ain’t](https://open.spotify.com/track/0ENB9P6WtUEKYjQ3dKnK23) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 2:31 | 2022-03-18 | 2024-02-10 |
 | [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 | 2022-01-14 | 2022-03-18 |
@@ -319,6 +319,7 @@
 | [Game For Guessing \(feat\. Robert Ellis\)](https://open.spotify.com/track/4jqAbk5oP2vIWnqmMGWGBt) | [Zachary Williams](https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv), [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Dirty Camaro](https://open.spotify.com/album/3ehs5YxrC7X217QCg46MY7) | 3:01 | 2021-12-17 | 2022-01-22 |
 | [Game I Can’t Win](https://open.spotify.com/track/6S54LiJPmBRfm877hXbOX0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Game I Can't Win](https://open.spotify.com/album/1jOP8GYgypMo7my87TeygA) | 3:21 | 2025-02-28 | 2025-07-05 |
 | [Gasoline \- Stripped](https://open.spotify.com/track/1qsp5iIMa3hOTOFWdopEyA) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline \(Stripped\)](https://open.spotify.com/album/2s8jiyfSLj03myus9nTOuO) | 3:19 | 2026-11-06 |  |
+| [Georgia Heat](https://open.spotify.com/track/5J4zQyVUCmspvu2fFirczw) | [Ava Hall](https://open.spotify.com/artist/3jbuDS17Z5ioo8IFU1sjGt) | [Georgia Heat](https://open.spotify.com/album/3SEMrOxJAWzCqIuuxNGChN) | 2:51 | 2026-11-20 |  |
 | [Get It Over With](https://open.spotify.com/track/3U2ssFocMXixGcMyMfCK77) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [The Pleasantville Sessions](https://open.spotify.com/album/02EzJitxNC5vFYcob0Zuos) | 4:38 | 2025-11-07 | 2026-06-13 |
 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2021-12-17 | 2022-04-09 |
 | [Get Lucky](https://open.spotify.com/track/4ZCko883ozgRWoVX92CySJ) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Get Lucky](https://open.spotify.com/album/1GeMArEzZQYAM09KA8cplb) | 2:45 | 2022-04-29 | 2022-07-16 |
@@ -489,6 +490,7 @@
 | [Life Ain't Fair and the World Is Mean](https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [High Top Mountain](https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf) | 2:06 | 2022-11-25 | 2024-08-17 |
 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 | 2023-11-17 | 2024-04-06 |
 | [Life of Sin](https://open.spotify.com/track/4fCBhPtizvIiLO6CIdcbxK) | [El Dorodo](https://open.spotify.com/artist/6sUWXsmu4XcTynrokoDkg7) | [Life of Sin](https://open.spotify.com/album/1q0iylqwruS3d76PYeptK7) | 2:13 | 2022-12-09 | 2023-04-15 |
+| [Lights Go Out](https://open.spotify.com/track/7gDsY5sd5bQrrvhtz7jwKy) | [mor](https://open.spotify.com/artist/0yvVfS792TJ08fVhNZzPQd) | [Lights Go Out](https://open.spotify.com/album/0aYydJr4sWk11hsjiGCdlt) | 3:20 | 2026-11-20 |  |
 | [Lines in the Levee](https://open.spotify.com/track/1nwCUobJyADXmUFw3GHu7g) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Lines in the Levee](https://open.spotify.com/album/2BNx9xYzKPs9TQcAaVhwoK) | 3:40 | 2022-06-24 | 2022-07-30 |
 | [Little Man](https://open.spotify.com/track/6Jl5JH9uK72WhohyRD1u8d) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [Little Man](https://open.spotify.com/album/6k5P9cgBCYi1SKODBB1QDs) | 4:39 | 2026-10-23 |  |
 | [Little Reminders](https://open.spotify.com/track/1t9t8EHLXIhSgp0ffBB8oQ) | [Caleb Caudle](https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU) | [Little Reminders](https://open.spotify.com/album/6jnwhFn1h5eQpgyb6HGeES) | 3:40 | 2022-04-29 | 2022-06-04 |
@@ -808,7 +810,7 @@
 | [The Outpost](https://open.spotify.com/track/43Gid9sb0CEk9VilaAGbEz) | [Outpost Drive](https://open.spotify.com/artist/5SD8blz2Ibqibs4tPNDNas) | [The Outpost](https://open.spotify.com/album/5CRBX77uKSJx3llvJ2Nbpv) | 5:25 | 2026-06-05 |  |
 | [The Way I Oughta Go](https://open.spotify.com/track/2Ox7xfLVrJQR84VjdIY7pU) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Way I Oughta Go](https://open.spotify.com/album/7FqRMs9KaepjsURIwRMwq7) | 4:10 | 2022-08-05 | 2023-04-01 |
 | [The Worst I Ever Had](https://open.spotify.com/track/6ukH7HaBF08keigApMwLO0) | [Jackson Taylor & the Sinners](https://open.spotify.com/artist/0xhLp59a1jm2yaqwEcrrEx) | [The Worst I Ever Had](https://open.spotify.com/album/3WmqyZcbhors6tThPpSqrN) | 3:31 | 2022-05-27 | 2022-06-18 |
-| [These Days](https://open.spotify.com/track/5LQfUtk8NtTxeMZNsQGXNr) | [Kindred Valley](https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy) | [These Days](https://open.spotify.com/album/3uzJcjGjrBD4LnIfm63BCV) | 3:34 | 2026-05-01 |  |
+| [These Days](https://open.spotify.com/track/5LQfUtk8NtTxeMZNsQGXNr) | [Kindred Valley](https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy) | [These Days](https://open.spotify.com/album/3uzJcjGjrBD4LnIfm63BCV) | 3:34 | 2026-05-01 | 2026-11-21 |
 | [Things A Man Oughta Know](https://open.spotify.com/track/45Ue0F8p2OaC94Jdyoeg6u) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Neon Diamonds](https://open.spotify.com/album/65LXcpHPc6gJ9sFaKJbNsH) | 3:23 | 2021-12-17 | 2022-05-20 |
 | [Think I'll Stay](https://open.spotify.com/track/6cpZoc1E7SBdJHh6AjAv96) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Think I'll Stay](https://open.spotify.com/album/7fQan4IJWlBk0UkY0Zj2oD) | 3:36 | 2021-12-17 | 2022-02-05 |
 | [This Ain't It](https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 6:14 | 2023-06-09 | 2025-10-11 |

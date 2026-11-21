@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-244 songs - 19 hr 35 min
+245 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Deus te salve Maria](https://open.spotify.com/track/4vwrcMO6M6Gjf1EZHtFyu8) | [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk), [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Verónica Sanfilippo](https://open.spotify.com/artist/70jDa8sYqczy9YjrRCgftf) | [Deus te salve Maria](https://open.spotify.com/album/5AM8zEdKhK1U2L2YPNOD90) | 5:17 | 2023-05-05 | 2023-07-15 |
 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 | 2022-09-02 | 2026-03-14 |
 | [Devoção aos Sacrários](https://open.spotify.com/track/5qoERqso53EV4dCfulbpnc) | [Denise Gomes](https://open.spotify.com/artist/2Ewk5pCDZi4eOJrn0lZsM4), [Katholika](https://open.spotify.com/artist/3f91v9pYkW8iCGX5iWmhV1) | [Devoção aos Sacrários](https://open.spotify.com/album/7LH2IgKH8QTM1gC0W5s33R) | 5:04 | 2024-11-08 | 2025-02-01 |
-| [Dias Melhores Virão](https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481) | [Dias Melhores Virão](https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O) | 4:21 | 2024-07-19 |  |
+| [Dias Melhores Virão](https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481) | [Dias Melhores Virão](https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O) | 4:21 | 2024-07-19 | 2026-11-21 |
 | [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 | 2022-09-02 | 2024-12-21 |
 | [Divino Esposo](https://open.spotify.com/track/2vcDp4l6tl3dvQaStYu5Ps) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/1UH1xNf23o2u24v42G5nYj) | 3:38 | 2023-11-24 | 2024-04-19 |
 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 | 2022-09-02 |  |
@@ -199,6 +199,7 @@
 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 | 2024-09-20 |  |
 | [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 | 2022-10-14 | 2024-06-15 |
 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 | 2022-09-02 | 2024-12-07 |
+| [Sacramento da Comunhão](https://open.spotify.com/track/3TKNtNuIps7ofqARW3x6Xx) | [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [Ep 2 \- O Som da Igreja 2](https://open.spotify.com/album/4QdvmSHaAD0eONPddZXaZp) | 3:31 | 2026-11-20 |  |
 | [Sagrada Beleza](https://open.spotify.com/track/0cIoeW3jCYVJwRTbKbEFAs) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Sagrada Beleza](https://open.spotify.com/album/6rzJoLDKx9H0pJVbwTIouy) | 3:47 | 2022-09-02 | 2023-02-11 |
 | [Santa Maria das Criancinhas](https://open.spotify.com/track/7JHagjKO0odXVQAwHfjJjk) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Júlia Melo](https://open.spotify.com/artist/2AcaqHSl3NYQZORUxnUygt), [Nilton Duarte](https://open.spotify.com/artist/7KrQ1ROzmauhfaevQDXwG3) | [Santa Maria das Criancinhas](https://open.spotify.com/album/2JgGFjBhY7pPOfBlfhtTwC) | 5:02 | 2023-05-12 | 2023-06-03 |
 | [Santa Rita de Cássia](https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Santa Rita de Cássia](https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy) | 5:10 | 2026-05-22 |  |

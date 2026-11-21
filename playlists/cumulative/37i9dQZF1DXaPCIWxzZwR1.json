@@ -21924,7 +21924,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 208460,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
@@ -28960,6 +28960,24 @@
       "duration_ms": 202909,
       "name": "Muse",
       "url": "https://open.spotify.com/track/7E5S9WN0WCewbPLoDMBdn1"
+    },
+    {
+      "album": {
+        "name": "Music All Over Her Body",
+        "url": "https://open.spotify.com/album/4JFxbRpXOCpwTX17AVL9qP"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "Music All Over Her Body",
+      "url": "https://open.spotify.com/track/6oR9Lb8TWwZ60ybem3SHF8"
     },
     {
       "album": {

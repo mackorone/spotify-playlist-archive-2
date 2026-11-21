@@ -1,13 +1,221 @@
 {
-  "description": "Lo nuevo del mundo tropical. Cover: Dale Pututi & Nesty y Micro TDH",
-  "num_followers": 395437,
+  "description": "Lo nuevo del mundo tropical. Cover: Los Fibios",
+  "num_followers": 395500,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALGoh58n2UcDtlVDs8tiNhG80Ll8",
+  "snapshot_id": "AAAAAI8celpopS0pwmlYBR1IjDHJEBvu",
   "tracks": [
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "GALLO CHIQUITO",
+        "url": "https://open.spotify.com/album/4abvnqrIXX0nXtJditzXl5"
+      },
+      "artists": [
+        {
+          "name": "Los Fibos",
+          "url": "https://open.spotify.com/artist/1Kcaj61FM0mFYwh4ZCN4Lw"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "gallo chiquito",
+      "url": "https://open.spotify.com/track/0hsOMigdCKoUstLW5K4wEU"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "Que Suene Mi Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4ynQYoEfNt61h2OcLdrKp4"
+      },
+      "artists": [
+        {
+          "name": "El Imperio de la Cumbia",
+          "url": "https://open.spotify.com/artist/7oH6m56njcHhlXnb3cvHSC"
+        },
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Que Suene Mi Canci\u00f3n",
+      "url": "https://open.spotify.com/track/000oHtSp3UTToB11mCJyBC"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "Barriletes (Cuarteto)",
+        "url": "https://open.spotify.com/album/62msJB106QhxoVn0e9WFU8"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 209084,
+      "name": "Barriletes - Cuarteto",
+      "url": "https://open.spotify.com/track/5Lbe9ovQ4boQo7zXAcEu5R"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "Bye Bye Bye",
+        "url": "https://open.spotify.com/album/3HybQiBARxXq9r98LJgr4u"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/1OsDVNWHqW6cCCPPFAYMLD"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/4pt3YzSijT0QJBowxRd7Jm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 188677,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/3Gq7jBOYcn2SsbTdfEFWtU"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "Un mes",
+        "url": "https://open.spotify.com/album/132BlCkThY77N2DzX3XNTn"
+      },
+      "artists": [
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        }
+      ],
+      "duration_ms": 134831,
+      "name": "Un mes",
+      "url": "https://open.spotify.com/track/5hq8m9OltAQ8AEdiiOiJyc"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "La Playlist de los Amigos",
+        "url": "https://open.spotify.com/album/6UbdjE87DUVtW6uJMYhoHV"
+      },
+      "artists": [
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "godie.",
+          "url": "https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH"
+        },
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "La Mujer de mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/2Jf4SYfnO3JG940qivEdgs"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "Embrujo de cumbia",
+        "url": "https://open.spotify.com/album/3BtTUPaSxysXWo0HXUnyDH"
+      },
+      "artists": [
+        {
+          "name": "Pepe Gomez Jr. y su Grupo Union 82",
+          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
+        },
+        {
+          "name": "Costa Azul El Imperio De La Cumbia",
+          "url": "https://open.spotify.com/artist/05GPZXkv1i3nZSb40r57bp"
+        }
+      ],
+      "duration_ms": 184768,
+      "name": "Embrujo de cumbia",
+      "url": "https://open.spotify.com/track/1dB7J4k9sQrefkuruR27Yn"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "Como Duele El Fr\u00edo",
+        "url": "https://open.spotify.com/album/0NxiO7FZ9fsnYNy7MHzs85"
+      },
+      "artists": [
+        {
+          "name": "Dezigual",
+          "url": "https://open.spotify.com/artist/5Q0liZ3RGX6CJE9MKneXQS"
+        },
+        {
+          "name": "Alex Manga",
+          "url": "https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ"
+        },
+        {
+          "name": "Enaldo Barrera Jr.",
+          "url": "https://open.spotify.com/artist/73RHY7tqM7MunOCUTiHkmw"
+        }
+      ],
+      "duration_ms": 240074,
+      "name": "Como Duele El Fr\u00edo",
+      "url": "https://open.spotify.com/track/1hjIEBarq6qWkG1sqsXbHZ"
+    },
+    {
+      "added_at": "2026-11-20 16:59:07",
+      "album": {
+        "name": "Como rat\u00f3n al queso",
+        "url": "https://open.spotify.com/album/53zCzQ9e1QP8AauVfk48BT"
+      },
+      "artists": [
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        },
+        {
+          "name": "Beangel",
+          "url": "https://open.spotify.com/artist/0r4vWhARLwFqZ8hCzPKryf"
+        }
+      ],
+      "duration_ms": 192166,
+      "name": "Como rat\u00f3n al queso",
+      "url": "https://open.spotify.com/track/7Mno36Ot96tk1CpjWDRgYI"
+    },
     {
       "added_at": "2026-11-13 06:00:51",
       "album": {

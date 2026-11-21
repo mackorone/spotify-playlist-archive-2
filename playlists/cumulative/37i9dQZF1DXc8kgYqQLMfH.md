@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,350 songs - 2 day 3 hr 38 min
+1,351 songs - 2 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 | 2023-03-01 | 2026-04-25 |
 | [Cotton Cloud](https://open.spotify.com/track/0MF8Kt0jkvQAyGHumTc7CF) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Cotton Cloud](https://open.spotify.com/album/7jWSbj1bC222IlvFNTnosl) | 1:44 | 2023-02-17 | 2025-07-16 |
 | [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 | 2025-07-16 |
+| [counting memories i never got to make](https://open.spotify.com/track/2YL3brTIDPqoOoqCSiNSAc) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [counting memories i never got to make](https://open.spotify.com/album/7AiFbKyNNFhPkoBUbk7XG5) | 2:27 | 2026-11-13 |  |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-11-10 | 2022-07-22 |
 | [counting the days until we meet again](https://open.spotify.com/track/7jcEaXD19od05Y4aqgffgW) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [counting the days until we meet again](https://open.spotify.com/album/0Mh4bl2SRoNKzkrsrPabqa) | 2:38 | 2025-10-03 |  |
 | [Cozy](https://open.spotify.com/track/4GJmFQTiFcpTHxhu08RIlx) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Cozy](https://open.spotify.com/album/4AYK42KZsekEDCi1rxnYN5) | 2:28 | 2024-01-05 | 2025-07-16 |
@@ -798,7 +799,7 @@
 | [Must've Been the Wind](https://open.spotify.com/track/6dJ9y9bauSaavJbkPcEjkk) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Must've Been the Wind](https://open.spotify.com/album/1ZcDCFhsueOAXABOPaN6QT) | 2:17 | 2024-02-09 |  |
 | [My Lazy Day](https://open.spotify.com/track/5QH4LPBdzy8T6kzlFVSqJs) | [LazyLofi Boy](https://open.spotify.com/artist/6JdbBiVmstveo09InLdoWR) | [My Lazy Day](https://open.spotify.com/album/1cL9HMrbLpIu1cqyWcJUgA) | 2:21 | 2022-06-17 | 2023-09-22 |
 | [My Pond](https://open.spotify.com/track/3dRnbYBfxx1dXbHEpI7Ayt) | [Finn Horizon](https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve) | [My Pond](https://open.spotify.com/album/0Ht2STMgFBaApzQSmj4hYQ) | 2:27 | 2025-11-14 |  |
-| [my safe place](https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [my safe place](https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv) | 1:36 | 2026-03-20 |  |
+| [my safe place](https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [my safe place](https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv) | 1:36 | 2026-03-20 | 2026-11-21 |
 | [My Secret Glade](https://open.spotify.com/track/32tT51UcINiBPpJ7qqR20p) | [Slow Fidelity](https://open.spotify.com/artist/30g2s6KY7QIvSy004P2ZbX) | [My Secret Glade](https://open.spotify.com/album/7ko9nDoYvNvzKivkk0cyvp) | 2:06 | 2021-11-10 | 2023-05-20 |
 | [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 | 2022-09-02 | 2024-09-28 |
 | [Mystic River](https://open.spotify.com/track/6uEgRQIdNPhZ3wG04k7uor) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Mystic River](https://open.spotify.com/album/4zq8b76Dwg1GMqBDJ40Zou) | 2:20 | 2022-10-28 | 2023-10-06 |

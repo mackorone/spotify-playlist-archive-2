@@ -1,12 +1,12 @@
 {
-  "description": "Myke Towers & Rauw Alejandro, Dua Lipa, Kristina & Quevedo, Anuel, Estopa y m\u00e1s novedades de la semana.",
-  "num_followers": 418995,
+  "description": "Myke Towers & Rauw Alejandro, Dua Lipa, Kristina & Quevedo, Estopa y m\u00e1s novedades de la semana.",
+  "num_followers": 419456,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK4RkOlvMlO0xuyMiHOaW6Pb2NYy",
+  "snapshot_id": "AAAAAOt1yqbduZ9KZjwcl8xOIlabydJo",
   "tracks": [
     {
       "added_at": "2026-11-20 00:00:44",
@@ -40,7 +40,7 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },
@@ -67,6 +67,22 @@
       "duration_ms": 199090,
       "name": "SOY MEJOR 2.0",
       "url": "https://open.spotify.com/track/0rBmgEXrNfd0Qa9xEDvn6X"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
+        "name": "Se Toco El T#tito Con Mi Gl*ck",
+        "url": "https://open.spotify.com/album/2J33n3xk9ArHdSdJf09zfR"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Se Toco El T#tito Con Mi Gl*ck",
+      "url": "https://open.spotify.com/track/48m48t4jXHpMbo805OOaj1"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -803,6 +819,26 @@
       "duration_ms": 141979,
       "name": "1bb",
       "url": "https://open.spotify.com/track/7LCTl5WR7dSXkgz8wilpkE"
+    },
+    {
+      "added_at": "2026-11-20 09:53:47",
+      "album": {
+        "name": "Navidad si t\u00fa est\u00e1s",
+        "url": "https://open.spotify.com/album/4xQqD1KMu7fqTnO6bfir99"
+      },
+      "artists": [
+        {
+          "name": "Chenoa",
+          "url": "https://open.spotify.com/artist/0i3ypO6G38iZmANDHWZxlY"
+        },
+        {
+          "name": "EDER",
+          "url": "https://open.spotify.com/artist/13vvbXKznTfelfzORYUKKc"
+        }
+      ],
+      "duration_ms": 178201,
+      "name": "Navidad si t\u00fa est\u00e1s",
+      "url": "https://open.spotify.com/track/3bjG4zS2a4czK1tuzaPIiV"
     },
     {
       "added_at": "2026-11-20 00:00:44",

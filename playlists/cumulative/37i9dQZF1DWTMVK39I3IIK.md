@@ -4,7 +4,7 @@
 
 > unge kniv 🔪 @Albert
 
-489 songs - 1 day 1 hr 5 min
+490 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
 | [Hælervarer](https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Hælervarer](https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3) | 3:04 | 2026-06-26 | 2026-09-13 |
 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 | 2026-11-18 |
-| [Høj På Livet](https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Høj På Livet](https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa) | 3:39 | 2026-06-04 |  |
+| [Høj På Livet](https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Høj På Livet](https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa) | 3:39 | 2026-06-04 | 2026-11-21 |
 | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2024-10-10 | 2024-11-22 |
 | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 |  |
@@ -380,6 +380,7 @@
 | [Solens Skær](https://open.spotify.com/track/3MnouEbKUGwGHgRrgHi7i7) | [Oscar Køhler](https://open.spotify.com/artist/6qTbRdIl3s58jkXrFQ1qjv) | [Solens Skær](https://open.spotify.com/album/353ZcfsIjTXTzwH3mN5cbv) | 2:29 | 2025-07-17 | 2025-07-25 |
 | [Solrig Altan](https://open.spotify.com/track/5t9Zq4DT9FtqXOqB5Vl4bI) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat), [Oilly Wallace](https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F) | [Det, Man Vander, Vokser](https://open.spotify.com/album/6E6WiXDFMhMxLO4FjAdH6r) | 2:51 | 2026-09-25 |  |
 | [Solskam](https://open.spotify.com/track/22VyCWyIDIV7TCEpzX6qtx) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Forandring, please!?](https://open.spotify.com/album/0o2CoLXWid9ZTCSVv4RNcs) | 3:36 | 2025-03-13 | 2025-03-28 |
+| [Somebody Else](https://open.spotify.com/track/42TZ8v1FCmjONt811taDFA) | [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [Somebody Else](https://open.spotify.com/album/5ixLrST22xz2PcqTsHb6zu) | 2:58 | 2026-11-13 |  |
 | [Someone Else](https://open.spotify.com/track/6Bd25fpOLW5TzfRRtqcaFG) | [Polly](https://open.spotify.com/artist/6bgHaCCE9UiIf2leOgjdtW) | [Someone Else](https://open.spotify.com/album/7q2e4nLEpahAGAxpyUusfS) | 3:26 | 2025-08-28 | 2025-09-05 |
 | [Sometimes I rush](https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Sometimes I rush](https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B) | 1:30 | 2026-10-01 |  |
 | [Space Rock](https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Space Rock](https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0) | 1:58 | 2024-11-07 | 2024-11-22 |

@@ -4,7 +4,7 @@
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-408 songs - 23 hr 33 min
+413 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [AZUL](https://open.spotify.com/track/1A6IgGJoJh5EmOor4mcgW8) | [eneteka](https://open.spotify.com/artist/6RHLAgaaDfd253CDttKmKn) | [NIÑO PROBLEMA](https://open.spotify.com/album/5ylmrdvMnQzN7ANzrCzVHc) | 2:09 | 2025-05-08 | 2026-04-06 |
 | [Año con Año](https://open.spotify.com/track/0FiT2i4aiZfejZ64EkGQQU) | [Alex Payró](https://open.spotify.com/artist/7MnamQUTTBuEmvTdxnJV9w) | [Año con Año](https://open.spotify.com/album/6ywKhCYaDYQ2kBK8cfRZtL) | 3:00 | 2025-07-12 | 2026-04-06 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-10-07 |  |
+| [Backtothefuture](https://open.spotify.com/track/0RqTlpUaqjmuw4wzE9bORW) | [NHaftiert](https://open.spotify.com/artist/6LJozEXOVpcAwRmg9ORN4e) | [Backtothefuture](https://open.spotify.com/album/2ZRA5TjYP9OhMYU5gWk9q2) | 2:25 | 2026-11-20 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-01-24 |  |
 | [Baila Conmigo](https://open.spotify.com/track/6hCBAnhlFdizKBW2s7tp8C) | [Ritmo Kingz Beats](https://open.spotify.com/artist/0vHUsehFohFNcoX6pz6pSd), [Kevin Gerz](https://open.spotify.com/artist/3xLyhsksg3H1IfENHNepQr) | [Baila Conmigo](https://open.spotify.com/album/3AWbtgmi6MHRxXFVoYe74Q) | 1:57 | 2025-03-04 | 2026-04-06 |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-24 | 2026-06-12 |
@@ -91,6 +92,7 @@
 | [Cómo Olvidarte \(Versión Fiesta\)](https://open.spotify.com/track/468voyLxVFkRgiXIZ2cw65) | [Alfio Maccari](https://open.spotify.com/artist/5jZI4JcJqkokZOY1Np4N3k) | [Cómo Olvidarte](https://open.spotify.com/album/6wJWogyYf0eBr7FMkFLXMG) | 3:22 | 2025-09-23 | 2026-04-06 |
 | [DALI](https://open.spotify.com/track/4t5E47KbYMw4E1y2KkKP9z) | [Lukrean](https://open.spotify.com/artist/6nTAxRksalcLLw2KVkhazq) | [DALI](https://open.spotify.com/album/3GyaXYY1zIhdqzltuO2pzp) | 2:05 | 2025-06-17 | 2026-04-06 |
 | [De los 90](https://open.spotify.com/track/64zqxW7RxyjQORzlFZ6OEy) | [Protocolo Tumbao](https://open.spotify.com/artist/3xCzUkstvWKv77Ve0gHAfh) | [Insólito](https://open.spotify.com/album/0zQSXpTX02JHrGuTr0MwuH) | 3:17 | 2025-04-04 | 2026-04-06 |
+| [DEEWANA BANAAYE](https://open.spotify.com/track/7rqnNYYWG02LsfNzxnlae8) | [Avinash Kumar Raghuvanshi](https://open.spotify.com/artist/6JEaQ1Ukzoh1Hr4Z4d0YVI) | [DEEWANA BANAAYE](https://open.spotify.com/album/6LFzpdCnP52ICF9IIEgm6a) | 6:14 | 2026-11-20 |  |
 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 | 2025-01-24 | 2026-06-12 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-24 | 2026-06-12 |
 | [Deserción](https://open.spotify.com/track/6vmO3d7zdfCru9hOiv7ik5) | [Wilson Way](https://open.spotify.com/artist/730U4St8BvcYyR5ojPw0M4) | [Lo Que Soy, Vol\. 2](https://open.spotify.com/album/5gaS1ApOyaSeUQBXQt3g51) | 3:32 | 2025-04-18 | 2026-04-06 |
@@ -101,6 +103,7 @@
 | [Die with a Smile \- COVER](https://open.spotify.com/track/6OczjOWnmeIRbnEixThL4Q) | [Penelope Speed](https://open.spotify.com/artist/3O5x2R3xkhLebG07K8G7Li) | [Die with a Smile \(COVER\)](https://open.spotify.com/album/4Js2rUXXcU129797L2TyZF) | 4:12 | 2025-01-26 | 2026-06-12 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2025-01-24 | 2026-06-12 |
 | [Dime, ¿por qué?](https://open.spotify.com/track/1fiBfIOJZvdsGRJeQqGPHG) | [varezzz](https://open.spotify.com/artist/7LBMHjY7HMQrcqhshF49gj) | [Dime, ¿por qué?](https://open.spotify.com/album/4ckFbOj39hzANt7eKNHgfZ) | 2:48 | 2025-05-11 | 2026-04-06 |
+| [Dingsbums](https://open.spotify.com/track/5djlBzwk9RD1Kt28aNCnVa) | [Gigi Ferruccio](https://open.spotify.com/artist/3fikedCCBng5WYQxVJsjuk) | [Dingsbums](https://open.spotify.com/album/2RE6R9p2UPDheL3OJl0uD2) | 4:17 | 2026-11-20 |  |
 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2026-10-07 |  |
 | [Drama Queen](https://open.spotify.com/track/613vtBkDfBbvwYixROuc5p) | [Issa Solchaga](https://open.spotify.com/artist/10E3nziZZuHlG97n7TJuy5) | [Drama Queen](https://open.spotify.com/album/2CaPenNzoZVRHvnloRFAaw) | 3:37 | 2025-08-17 | 2026-04-06 |
 | [Dreaming of Better Days](https://open.spotify.com/track/5xakJCIWkJMDDJL4kQgtBC) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Dreaming of Better Days](https://open.spotify.com/album/2NLhQ3pPgmNBzi44IrYkuI) | 2:42 | 2026-09-04 |  |
@@ -309,6 +312,7 @@
 | [Remember Me](https://open.spotify.com/track/22RgBj8cUtHIGsOzUySffo) | [DJ GINJAR](https://open.spotify.com/artist/0Xte1AypW7XJPM1LC7ow90) | [Remember Me](https://open.spotify.com/album/7lESGHJLtmhh4wJfpQgHaL) | 3:13 | 2025-02-01 | 2026-06-12 |
 | [Rise](https://open.spotify.com/track/1MndG3N2bAbEBnrvqDcurV) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 4:03 | 2025-01-26 | 2026-06-12 |
 | [Rock Sanctuary](https://open.spotify.com/track/35kNF9R4vmn728iWoSC6dT) | [RoberWiz](https://open.spotify.com/artist/4s7i7GgPIAl0IIlXzHJCrJ) | [Guitar World](https://open.spotify.com/album/7H0EPY28bJjoOFi6OeES08) | 3:25 | 2026-09-15 |  |
+| [ROSALEA](https://open.spotify.com/track/34XZnD0LcAUmj6IbD8U518) | [Yaw Bruno](https://open.spotify.com/artist/5H8FFHJxmTGEQkKhQIcVvv), [Pauline](https://open.spotify.com/artist/2cpiRrUkMRJ7gNkWgp1UjY) | [ROSALEA](https://open.spotify.com/album/2V3o8x2lIaY71ugOaLVn40) | 2:47 | 2026-11-20 |  |
 | [Rumors](https://open.spotify.com/track/7uCQX8i4AV3SMRRVoRdgT0) | [Therese Ulvan](https://open.spotify.com/artist/24qdEK31HZjFC6s7B9lOSn) | [I Am](https://open.spotify.com/album/7GuFnDLxZARv8CN2PnKDwJ) | 3:58 | 2025-02-01 | 2026-06-12 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-01-24 |  |
 | [SAIONARA](https://open.spotify.com/track/5nXg4SofzBkhFj13ScOMJ9) | [Erick R.G](https://open.spotify.com/artist/7pIMLcXof7LV535RjyQY9T) | [SAIONARA](https://open.spotify.com/album/4K37IlZizYEhrSvQyaScX0) | 2:58 | 2025-04-26 | 2026-04-06 |
@@ -332,6 +336,7 @@
 | [Sin Control](https://open.spotify.com/track/6OJ0tbNV5zj9UvyBH43ZuT) | [La Racha](https://open.spotify.com/artist/5JzN6rrSv2tnE1Iau1kThx) | [Sin Control](https://open.spotify.com/album/4o5djTfRbeyWhCr2cZvO4c) | 3:48 | 2026-08-20 |  |
 | [SION](https://open.spotify.com/track/65jNAQhwNFLgALzsWSRgtO) | [CHA](https://open.spotify.com/artist/4SVS3RUjhRnMsmX2Q3NOpq) | [SION](https://open.spotify.com/album/7aMsx7582glx8y5kPmiRKg) | 3:59 | 2025-05-08 | 2026-04-06 |
 | [Slow & Steady](https://open.spotify.com/track/3TsIIkIwTBbRBuihmgKPGa) | [Ella Campbell](https://open.spotify.com/artist/0I2UoCR3WntpFizGgGdymv) | [Slow & Steady](https://open.spotify.com/album/6mw7RvplKcPAllJj029QYA) | 3:27 | 2026-11-17 |  |
+| [SMOKE](https://open.spotify.com/track/445MgzyWez6iBlk5J8TxUT) | [Dutty Harry](https://open.spotify.com/artist/3NzZpzynfDm5orttWL8WYK), [Rikko Genius](https://open.spotify.com/artist/6Meau5M3ThGHxnBJQ5NcMS) | [THE GENIUS TWINZ](https://open.spotify.com/album/05YmPQZfEfygiI0MwqMudo) | 3:09 | 2026-11-20 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-10-07 |  |
 | [So, get away](https://open.spotify.com/track/4vxDZWJVAwVK4CWIR8nG9d) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [So, get away](https://open.spotify.com/album/7t9s6HULh9DQ4lF0IEoOg2) | 3:39 | 2025-10-24 | 2026-04-06 |
 | [Soledad](https://open.spotify.com/track/2w8JUSlPm6iq0qEbnec4mW) | [Monko](https://open.spotify.com/artist/62w78YeMxP37Tx063lbTKN) | [Soledad](https://open.spotify.com/album/0CweW2Z8YkerhXTZ6tmK5b) | 3:20 | 2025-07-28 | 2026-04-06 |

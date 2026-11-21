@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 240661,
       "name": "chrysalis",
       "url": "https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb"
@@ -1632,6 +1632,24 @@
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/6h5pwyjroNlJBPffXwkG0B"
+      },
+      "artists": [
+        {
+          "name": "Poom",
+          "url": "https://open.spotify.com/artist/6v9PUrKLT8G0KekwqwFs6O"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301809,
+      "name": "En Solo",
+      "url": "https://open.spotify.com/track/4aZzbq2xxxTGraY1VSwBy3"
     },
     {
       "album": {
@@ -2348,6 +2366,32 @@
       "duration_ms": 202380,
       "name": "Gotta Be",
       "url": "https://open.spotify.com/track/4xMKaAg2LUNaGo8y5JGI2W"
+    },
+    {
+      "album": {
+        "name": "GREEN GRASS",
+        "url": "https://open.spotify.com/album/50ocvp4pMX4B2oQFa2g0em"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Swindle",
+          "url": "https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144603,
+      "name": "GREEN GRASS",
+      "url": "https://open.spotify.com/track/7C5VitZZmrt9CfNfT00Nv6"
     },
     {
       "album": {
@@ -3360,7 +3404,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 191495,
       "name": "Love Bites Back",
       "url": "https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE"

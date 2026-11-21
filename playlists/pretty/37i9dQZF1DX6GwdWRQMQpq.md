@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Saweetie
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,267,983 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267,949 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 48 | [Mad Again](https://open.spotify.com/track/1cNFwJ8hvTCz4k2BJCDyBW) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa \(Ice Cream Summer Deluxe\)](https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM) | 3:02 |
 | 49 | [Ran Out](https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Ran Out](https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq) | 2:22 |
 
-Snapshot ID: `AAAAAB4xB05J9j/b7nkwAYHnAoJyBPTJ`
+Snapshot ID: `AAAAAL/75J2TDg21PAXZVSk83Y9+Wg5N`

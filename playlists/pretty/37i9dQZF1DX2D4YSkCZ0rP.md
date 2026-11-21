@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Marius
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,336 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,342 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [Adrénaline](https://open.spotify.com/track/2jhUjeVIfb3gDmHIoXffSZ) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Sur un malentendu](https://open.spotify.com/album/7rqNofOsgsCau3IiIEhorJ) | 2:10 |
 | 40 | [DÉSIR](https://open.spotify.com/track/4MoJaVhA04WspUheA55r3e) | [Loa Mercury](https://open.spotify.com/artist/6Zb2vTrIhur77yejWgHN60) | [DÉSIR](https://open.spotify.com/album/6OBlt0Ggf4Z7TOnIv3NRyG) | 3:33 |
 
-Snapshot ID: `AAAAAMKyCgxmCMWjKwsJ3ZHfgFSuEb35`
+Snapshot ID: `AAAAABqOyN9j343toJIHrGq4sVkG8642`

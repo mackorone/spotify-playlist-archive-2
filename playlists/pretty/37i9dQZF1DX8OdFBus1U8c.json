@@ -1,12 +1,12 @@
 {
   "description": "Best of Malayalam Hip-Hop! \nCover :  Fejo",
-  "num_followers": 215210,
+  "num_followers": 215225,
   "original_name": "RAP 91 Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBdn6/IR/i+RFXGSMId/+tbDiw8",
+  "snapshot_id": "AAAAAGhNYY6KGi9Ys/1IKbp0F2YOZ1ay",
   "tracks": [
     {
       "added_at": "2026-10-30 23:27:41",
@@ -27,6 +27,30 @@
       "duration_ms": 186352,
       "name": "For A Reason",
       "url": "https://open.spotify.com/track/2XK7JEW46rkMXsC7W5NaWL"
+    },
+    {
+      "added_at": "2026-11-20 09:09:03",
+      "album": {
+        "name": "Haqeeqat (The Flip Scene)",
+        "url": "https://open.spotify.com/album/6J4iF611RQTAZjV5E1iz3z"
+      },
+      "artists": [
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "HRISHI",
+          "url": "https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O"
+        },
+        {
+          "name": "Johnson",
+          "url": "https://open.spotify.com/artist/0lBuOEA4uUMWE8KHTWPRiF"
+        }
+      ],
+      "duration_ms": 147669,
+      "name": "Haqeeqat - The Flip Scene",
+      "url": "https://open.spotify.com/track/6STvT84LQ5oksMvC7ogYtA"
     },
     {
       "added_at": "2026-10-26 15:52:10",
@@ -213,6 +237,30 @@
       "url": "https://open.spotify.com/track/6f8jrndAoBowEJJZ86bN6h"
     },
     {
+      "added_at": "2026-11-20 09:09:03",
+      "album": {
+        "name": "Kaanunnindavo",
+        "url": "https://open.spotify.com/album/1UYkr3fbXTLj2NMMGjs2bC"
+      },
+      "artists": [
+        {
+          "name": "Fazil AS",
+          "url": "https://open.spotify.com/artist/6CwkEW6hoZyH96fUkUg6I6"
+        },
+        {
+          "name": "Abu X-wrong",
+          "url": "https://open.spotify.com/artist/5pzpptEtegqrjysHniMto5"
+        },
+        {
+          "name": "CJ J",
+          "url": "https://open.spotify.com/artist/6bVL3yWdI21Kj0nRYJXuNB"
+        }
+      ],
+      "duration_ms": 158897,
+      "name": "Kaanunnindavo",
+      "url": "https://open.spotify.com/track/7EmHAlny9my2AwO87Ol7gd"
+    },
+    {
       "added_at": "2026-11-06 10:25:32",
       "album": {
         "name": "MANNOD",
@@ -341,6 +389,26 @@
       "url": "https://open.spotify.com/track/7pohXl8Q0xMD4OOV9wMcRQ"
     },
     {
+      "added_at": "2026-11-20 09:09:03",
+      "album": {
+        "name": "Fight Club",
+        "url": "https://open.spotify.com/album/06Hoaf9H6JVqOna0hLjzLg"
+      },
+      "artists": [
+        {
+          "name": "Baizyeah",
+          "url": "https://open.spotify.com/artist/5q5qxjk6S64TT57OYKRDMd"
+        },
+        {
+          "name": "Brad Ford",
+          "url": "https://open.spotify.com/artist/4IGYvJx9Mlr92L6astezfE"
+        }
+      ],
+      "duration_ms": 163364,
+      "name": "Fight Club",
+      "url": "https://open.spotify.com/track/7lVhI8fkIjvooLa0mEMXJr"
+    },
+    {
       "added_at": "2026-10-21 05:22:03",
       "album": {
         "name": "Namaskaram",
@@ -387,6 +455,22 @@
       "duration_ms": 201290,
       "name": "NOKKANDA",
       "url": "https://open.spotify.com/track/56mbKN7GFVaBk91qXCqfyg"
+    },
+    {
+      "added_at": "2026-11-20 09:09:03",
+      "album": {
+        "name": "BENZ",
+        "url": "https://open.spotify.com/album/67nPWhvY3NyGQkFMJCt2ix"
+      },
+      "artists": [
+        {
+          "name": "CHNGRA",
+          "url": "https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO"
+        }
+      ],
+      "duration_ms": 162725,
+      "name": "BENZ",
+      "url": "https://open.spotify.com/track/6v7HSLTGWoIkLbGkGd9n7d"
     },
     {
       "added_at": "2026-10-21 12:31:46",

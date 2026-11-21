@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute.",
-  "num_followers": 354505,
+  "num_followers": 354536,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOi3l0mnsgr0ucRNikHdo8xKGNRb",
+  "snapshot_id": "AAAAAAYVQqKgyO9GTJT5zZ+pz05uNH1X",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-11-19 23:01:11",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
-      },
-      "artists": [
-        {
-          "name": "Jose Merce",
-          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Al alba",
-      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
-    },
-    {
-      "added_at": "2026-11-19 23:01:11",
-      "album": {
         "name": "Puro Sudor",
         "url": "https://open.spotify.com/album/2NsJYtKczJuQpwgBtG6z4B"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 240027,
       "name": "Puro Sudor",
       "url": "https://open.spotify.com/track/5oFlQ9KS8qxtGB1vxms7io"
+    },
+    {
+      "added_at": "2026-11-19 23:01:11",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
+      },
+      "artists": [
+        {
+          "name": "Jose Merce",
+          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Al alba",
+      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
     },
     {
       "added_at": "2026-11-19 23:01:11",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-11-19 23:01:11",
       "album": {
-        "name": "Quemas (2026)",
-        "url": "https://open.spotify.com/album/7wj7LIIkWYY5vtIMtLIZHw"
-      },
-      "artists": [
-        {
-          "name": "Xoel L\u00f3pez",
-          "url": "https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx"
-        }
-      ],
-      "duration_ms": 167062,
-      "name": "Quemas - 2026",
-      "url": "https://open.spotify.com/track/7EKWxJ86vKdOkU4fmJ3EQI"
-    },
-    {
-      "added_at": "2026-11-19 23:01:11",
-      "album": {
         "name": "Los Mares De China",
         "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2026-11-19 23:01:11",
       "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+        "name": "Quemas (2026)",
+        "url": "https://open.spotify.com/album/7wj7LIIkWYY5vtIMtLIZHw"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+          "name": "Xoel L\u00f3pez",
+          "url": "https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx"
         }
       ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+      "duration_ms": 167062,
+      "name": "Quemas - 2026",
+      "url": "https://open.spotify.com/track/7EKWxJ86vKdOkU4fmJ3EQI"
     },
     {
       "added_at": "2026-11-19 23:01:11",
@@ -1295,6 +1279,22 @@
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
+    },
+    {
+      "added_at": "2026-11-19 23:01:11",
+      "album": {
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
     },
     {
       "added_at": "2026-11-19 23:01:11",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-11-19 23:01:11",
       "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+    },
+    {
+      "added_at": "2026-11-19 23:01:11",
+      "album": {
         "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
         "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
-    },
-    {
-      "added_at": "2026-11-19 23:01:11",
-      "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2026-11-19 23:01:11",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-11-19 23:01:11",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "added_at": "2026-11-19 23:01:11",
+      "album": {
         "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
         "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 174225,
       "name": "Tanto para dar",
       "url": "https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0"
-    },
-    {
-      "added_at": "2026-11-19 23:01:11",
-      "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2026-11-19 23:01:11",

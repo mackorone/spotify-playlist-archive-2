@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-1,048 songs - 2 day 1 hr 22 min
+1,049 songs - 2 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Mobbin'](https://open.spotify.com/track/0Zkf62cIbqiRhDMB2GYOaY) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Mobbin'](https://open.spotify.com/album/3QJPfHaj6f6KUJiGYNM09z) | 2:38 | 2022-07-17 | 2022-09-03 |
 | [Monster](https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 2:58 | 2022-03-23 | 2022-04-21 |
 | [moshpit](https://open.spotify.com/track/3ucI5YXSFWj0GLtRXz9x7o) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:17 | 2022-09-03 | 2024-01-13 |
+| [Motion](https://open.spotify.com/track/3vgkBgjdMySarupq3sjKGL) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Melodicb](https://open.spotify.com/artist/13B7Yh5BjSEwNj40HapGcM) | [Motion](https://open.spotify.com/album/5fLFF4s8bZ82gc8ugJHxqK) | 2:28 | 2026-11-06 |  |
 | [Motivation \(feat\. Social Club\)](https://open.spotify.com/track/1eb1ADsizGY0d7xnzeZrlc) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Loose Canon, Vol\. 2](https://open.spotify.com/album/0QjVXmoD2SBCoMM1QvKjUa) | 4:37 | 2022-02-04 | 2023-08-12 |
 | [MOTOROLA FREESTYLE](https://open.spotify.com/track/5UA8fUpu2HYSVaruek4XZ9) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g) | [MOTOROLA FREESTYLE](https://open.spotify.com/album/3hMmCflBOb5VuNG0J5eOBt) | 2:27 | 2025-02-07 | 2025-10-23 |
 | [MOVE](https://open.spotify.com/track/7wMJA0CAXtc7cFJ491SauD) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [MOVE](https://open.spotify.com/album/0QnVNYkQaDXfykx634AslD) | 2:37 | 2025-02-07 | 2025-12-13 |
@@ -681,7 +682,7 @@
 | [On The Move](https://open.spotify.com/track/18WFulRBbY7YarGcqcf1kU) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [On The Move](https://open.spotify.com/album/3Z560AcJBJdBmI7WZ75kz1) | 2:12 | 2025-11-07 |  |
 | [One Accord](https://open.spotify.com/track/0xSfb2NBVIH8xHXc35AKlK) | [RESEY](https://open.spotify.com/artist/6BRWEbW6MMdKL4xLIDQ304), [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh) | [One Accord](https://open.spotify.com/album/5sNUOz1lV1ztXrPr9s57DK) | 3:05 | 2026-05-29 | 2026-07-04 |
 | [One Call](https://open.spotify.com/track/1mZCwJiRpLc0Jv0941ixvo) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [No Church In A While](https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ) | 2:29 | 2022-02-04 | 2023-08-12 |
-| [ONE FOR THE BOOKS](https://open.spotify.com/track/1TS5vlAFPB7Bd70DOOEUTw) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [K Diamond](https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL) | [ONE FOR THE BOOKS](https://open.spotify.com/album/5pLcpsNy4lO3NzkfC05yZc) | 2:49 | 2025-04-04 |  |
+| [ONE FOR THE BOOKS](https://open.spotify.com/track/1TS5vlAFPB7Bd70DOOEUTw) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [K Diamond](https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL) | [ONE FOR THE BOOKS](https://open.spotify.com/album/5pLcpsNy4lO3NzkfC05yZc) | 2:49 | 2025-04-04 | 2026-11-21 |
 | [One of Them Ones](https://open.spotify.com/track/6PvGHaqmL4MkGTys1AvprY) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [One of Them Ones](https://open.spotify.com/album/2bQ6Fp4CxGSoHqBxjpRrg5) | 2:17 | 2025-08-07 |  |
 | [ONE WAY](https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ONE WAY](https://open.spotify.com/album/129z9tZwZhdnICLk2o0OQ6) | 2:11 | 2022-07-17 | 2024-01-13 |
 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 | 2024-03-20 | 2026-04-04 |

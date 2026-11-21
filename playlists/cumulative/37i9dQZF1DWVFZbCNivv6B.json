@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Faruz Feet en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Gera MX en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 212300,
       "name": "Ayer",
       "url": "https://open.spotify.com/track/5VCIR3Qov0V9LWc2bufJAI"
@@ -2320,6 +2320,24 @@
       "duration_ms": 237096,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/0E8GRaZs5UsNB9yd8TDdLx"
+    },
+    {
+      "album": {
+        "name": "Banqueta y Banquete",
+        "url": "https://open.spotify.com/album/085Bo3bP00OjI6fKoaXHWc"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Banqueta y Banquete",
+      "url": "https://open.spotify.com/track/4t6wfCi3yQMa56kkp3BV7k"
     },
     {
       "album": {
@@ -4049,6 +4067,28 @@
     },
     {
       "album": {
+        "name": "CEO",
+        "url": "https://open.spotify.com/album/4Jj7oDfcfg4k91SNyL1Kmu"
+      },
+      "artists": [
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        },
+        {
+          "name": "David bukowski",
+          "url": "https://open.spotify.com/artist/4bITAmagheKMaosETXK80X"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "CEO",
+      "url": "https://open.spotify.com/track/2xoiQADWe50bwxmPdfAI3G"
+    },
+    {
+      "album": {
         "name": "Cerda",
         "url": "https://open.spotify.com/album/6A5HbXck2L3a4tL9A6w91Z"
       },
@@ -5690,6 +5730,28 @@
       "duration_ms": 285500,
       "name": "Cypher Rv X Capital Gang",
       "url": "https://open.spotify.com/track/5hjdGrBkuYrNBAuiqahcES"
+    },
+    {
+      "album": {
+        "name": "C\u00d3DIGO: BARRAS",
+        "url": "https://open.spotify.com/album/4Qz9hXB0C8KiMmOeIAqMT8"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Token'one",
+          "url": "https://open.spotify.com/artist/23dkmyBb5NdKdjokpPjT9l"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251019,
+      "name": "C\u00f3digo de Barras",
+      "url": "https://open.spotify.com/track/3U6QO5hzAlUJHJGwa5KFCA"
     },
     {
       "album": {
@@ -8862,7 +8924,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 154468,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/4LK15gMihJCqj6ZlOVWxHO"
@@ -9844,6 +9906,28 @@
       "duration_ms": 269038,
       "name": "Humo y Tequila",
       "url": "https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A"
+    },
+    {
+      "album": {
+        "name": "Hundido en la Oscuridad",
+        "url": "https://open.spotify.com/album/7odd6PKEpV4ADjHaznJFxg"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lee",
+          "url": "https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz"
+        },
+        {
+          "name": "Ruido",
+          "url": "https://open.spotify.com/artist/0250OEy6zueop2wumtDMXP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Hundido en la Oscuridad",
+      "url": "https://open.spotify.com/track/5Hf5QHS96hitbmTf9JKWY6"
     },
     {
       "album": {
@@ -11571,6 +11655,36 @@
     },
     {
       "album": {
+        "name": "Le Promet\u00ed a Mam\u00e1",
+        "url": "https://open.spotify.com/album/5A8GXjdj3UO7tFu41c98JQ"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Maniako",
+          "url": "https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3"
+        },
+        {
+          "name": "Nuco",
+          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
+        },
+        {
+          "name": "Tm Zaiko",
+          "url": "https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279428,
+      "name": "Le Promet\u00ed a Mam\u00e1",
+      "url": "https://open.spotify.com/track/2ADOupiG0jCCvF2W0Zunal"
+    },
+    {
+      "album": {
         "name": "Le Ruego a Dios",
         "url": "https://open.spotify.com/album/2iDUeErcSvIoFKtjVGej9n"
       },
@@ -11770,7 +11884,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 252467,
       "name": "Ley del Calent\u00f3n",
       "url": "https://open.spotify.com/track/58AFgZWmEyod2ass4g4lHR"
@@ -12820,7 +12934,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 199411,
       "name": "Mal Ejemplo",
       "url": "https://open.spotify.com/track/3t5YZbc2H3cg7YOzGQhnmQ"
@@ -15461,6 +15575,32 @@
     },
     {
       "album": {
+        "name": "Ontas?",
+        "url": "https://open.spotify.com/album/7LgaBOWTUS0CRKFYK2DkIr"
+      },
+      "artists": [
+        {
+          "name": "El Sensei",
+          "url": "https://open.spotify.com/artist/6BcOVxe4V595dvArS23sXd"
+        },
+        {
+          "name": "Yoga Fire",
+          "url": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199883,
+      "name": "Ontas?",
+      "url": "https://open.spotify.com/track/4mDyEDU5YDRztKuHDWyQhe"
+    },
+    {
+      "album": {
         "name": "Orgullo Caf\u00e9",
         "url": "https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC"
       },
@@ -15970,7 +16110,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 215064,
       "name": "Pasos al cielo",
       "url": "https://open.spotify.com/track/6CXGn4CeXV0CVWUrqhAK4x"
@@ -17259,6 +17399,28 @@
     },
     {
       "album": {
+        "name": "Noesis",
+        "url": "https://open.spotify.com/album/34l9G7KA7Np7oa3rBKOhyL"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        },
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Prodigio",
+      "url": "https://open.spotify.com/track/1RkbItB8kWDijT7pdVA2BQ"
+    },
+    {
+      "album": {
         "name": "Prohibida",
         "url": "https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD"
       },
@@ -17992,7 +18154,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 258466,
       "name": "RAPEROS MEXICANOS",
       "url": "https://open.spotify.com/track/2NGGJw5irFAcbtZF7U7Dli"
@@ -20432,7 +20594,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 157710,
       "name": "Tendo",
       "url": "https://open.spotify.com/track/3iF0eiKr5vVC4QoxT93FAB"

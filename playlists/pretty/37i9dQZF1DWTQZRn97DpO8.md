@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : AFFA
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,578 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,560 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [l’épicier](https://open.spotify.com/track/1b8HMVhixwFZQJ08QKY7A6) | [Jeanne Bringtown](https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo) | [l’épicier](https://open.spotify.com/album/0lsPXkUcscY5Lc6I50X061) | 3:00 |
 | 50 | [Sors de ma vie](https://open.spotify.com/track/6xFooD3XgYjz9AoslWJ9ls) | [Osmaus](https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF) | [Sors de ma vie](https://open.spotify.com/album/0diX9eXeebHIv7XDjuyPbe) | 4:19 |
 
-Snapshot ID: `AAAAAHeJydzprUBldF9hfWSa1rtQTc3l`
+Snapshot ID: `AAAAAENjWIWcbHx4N3titXEHZzd0rZ4v`

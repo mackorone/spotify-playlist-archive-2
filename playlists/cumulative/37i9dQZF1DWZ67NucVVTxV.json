@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Time and Space",
+        "url": "https://open.spotify.com/album/0DHDiiApo6bKBpz1UfZuQH"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Alujon",
+      "url": "https://open.spotify.com/track/2sotMZwvvJ9ZbqitFBY2fe"
+    },
+    {
+      "album": {
         "name": "Aluta",
         "url": "https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t"
       },
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 169263,
       "name": "Awesome Things",
       "url": "https://open.spotify.com/track/17FiSdQ9GISHOhnVOkdTxZ"
@@ -3753,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "Check Up",
+        "url": "https://open.spotify.com/album/4WyTvoyJ6JzMLnOzmaCZMk"
+      },
+      "artists": [
+        {
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143669,
+      "name": "Check Up",
+      "url": "https://open.spotify.com/track/7vxljyUUjPsbXv6loi0dj7"
+    },
+    {
+      "album": {
         "name": "Chele",
         "url": "https://open.spotify.com/album/4WL9btBwHahqGtBO0uaxqQ"
       },
@@ -3790,7 +3826,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 160000,
       "name": "CHELSEA",
       "url": "https://open.spotify.com/track/7bqytRU8u6CIdNfNPCfo1U"
@@ -4012,6 +4048,28 @@
       "duration_ms": 138187,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ"
+    },
+    {
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/31htNCnKv0SUQqISftKMb8"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1VWGibPsJzoO6MQKi17Dpf"
     },
     {
       "album": {
@@ -6473,6 +6531,42 @@
     },
     {
       "album": {
+        "name": "Girl From The West",
+        "url": "https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Get The Money",
+      "url": "https://open.spotify.com/track/30ONwK8OCScAw6Q73xcATH"
+    },
+    {
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/3hgsFi1fNogPGdarMHCfUO"
+      },
+      "artists": [
+        {
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117502,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2vnLytR69QdTF5RSdseuIZ"
+    },
+    {
+      "album": {
         "name": "YEEBO",
         "url": "https://open.spotify.com/album/2qeaO3fagOUndhz27vNyaF"
       },
@@ -7956,7 +8050,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 175200,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/6rHdtmeLEjbNL03Zbs0TYE"
@@ -8320,6 +8414,24 @@
       "duration_ms": 160714,
       "name": "Ifesinachi",
       "url": "https://open.spotify.com/track/07MthdskQl9A0yxbNuIBzu"
+    },
+    {
+      "album": {
+        "name": "IGBAYI",
+        "url": "https://open.spotify.com/album/0w6JJVva2k8WqIY1FaUxCm"
+      },
+      "artists": [
+        {
+          "name": "Cazulee",
+          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151103,
+      "name": "IGBAYI",
+      "url": "https://open.spotify.com/track/3sc1nMuxW7RxK57OrcV3u2"
     },
     {
       "album": {
@@ -8730,6 +8842,28 @@
       "duration_ms": 170000,
       "name": "Jara Joro",
       "url": "https://open.spotify.com/track/1HZd6S5XRpOqUTqQI4yH0Y"
+    },
+    {
+      "album": {
+        "name": "Jeje",
+        "url": "https://open.spotify.com/album/4dQ0fjqXBMme6fHZ81hPHo"
+      },
+      "artists": [
+        {
+          "name": "Rii",
+          "url": "https://open.spotify.com/artist/7qUIE0IFXYbRganFGgTvzT"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208598,
+      "name": "Jeje",
+      "url": "https://open.spotify.com/track/6k5WKlAeuJ34iynpNSxrpG"
     },
     {
       "album": {
@@ -11233,6 +11367,28 @@
     },
     {
       "album": {
+        "name": "Money In A Wheelbarrow",
+        "url": "https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151909,
+      "name": "Money In A Wheelbarrow",
+      "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
+    },
+    {
+      "album": {
         "name": "Money is A Must",
         "url": "https://open.spotify.com/album/4256OlluZzbCNTEngtqnZJ"
       },
@@ -11446,6 +11602,24 @@
       "duration_ms": 150000,
       "name": "Motide",
       "url": "https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke"
+    },
+    {
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/1Qm7KVqspELth6dvmXqtBR"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4mTIjTQ3EqYW1FnX4pisMR"
     },
     {
       "album": {
@@ -12684,6 +12858,24 @@
       "duration_ms": 198620,
       "name": "Of Course",
       "url": "https://open.spotify.com/track/07g4rBsJAXS0GXvc0IR6kk"
+    },
+    {
+      "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/4Gu7rukCVGg6wn8gwTRE7x"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133605,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/52XWV7WV93wB9PHo7Vs2J2"
     },
     {
       "album": {
@@ -14095,6 +14287,24 @@
     },
     {
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/4P8uk1xoaO2Gh3GOWwQHv4"
+      },
+      "artists": [
+        {
+          "name": "Ajesings",
+          "url": "https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164728,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/087qFAqKnIwtDfWbFImzOd"
+    },
+    {
+      "album": {
         "name": "UnitedMasters Presents: Most Likely",
         "url": "https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4"
       },
@@ -14458,6 +14668,24 @@
       "duration_ms": 191400,
       "name": "Prayer Request II",
       "url": "https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt"
+    },
+    {
+      "album": {
+        "name": "Ends With Us",
+        "url": "https://open.spotify.com/album/2kSeVhYIuk9LyzqLT4vWh3"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188522,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4eBLc3qRDHnK2OXterlbvx"
     },
     {
       "album": {
@@ -18549,6 +18777,24 @@
     },
     {
       "album": {
+        "name": "WHITE LAMBO",
+        "url": "https://open.spotify.com/album/3FaUK0uSyAxqfdfW26VuZv"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "WHITE LAMBO",
+      "url": "https://open.spotify.com/track/1tTWlIdLDCWepo55CRkU0w"
+    },
+    {
+      "album": {
         "name": "what a feeling",
         "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
       },
@@ -19300,6 +19546,28 @@
       "duration_ms": 199439,
       "name": "\u00c0j\u00e0l\u00e1 Travel (Remix)",
       "url": "https://open.spotify.com/track/7vECPXXTtBOScFvOyOE8jn"
+    },
+    {
+      "album": {
+        "name": "\u00d3ri Mi",
+        "url": "https://open.spotify.com/album/121GR2YemARVcJLRYganqy"
+      },
+      "artists": [
+        {
+          "name": "G\u00e4by",
+          "url": "https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3"
+        },
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92506,
+      "name": "\u00d3ri Mi",
+      "url": "https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ67NucVVTxV"

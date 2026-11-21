@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-18",
-  "description": "Catch the hottest Punjabi tracks. Cover: Cheema Y",
+  "description": "Catch the hottest Punjabi tracks. Cover: Sidhu Moosewala",
   "name": "Hot Hits Punjabi",
   "tracks": [
     {
@@ -2515,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Kangana Tera Ni",
+        "url": "https://open.spotify.com/album/6GsQhKHhdxxkXp0WXebqw1"
+      },
+      "artists": [
+        {
+          "name": "Abeer Arora",
+          "url": "https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Kangana Tera Ni",
+      "url": "https://open.spotify.com/track/2I1PH3gryNuaFkrGV4orCZ"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
       },
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 179763,
       "name": "Lor Lor",
       "url": "https://open.spotify.com/track/0UVcAOt6NMxYQ24zD66XKk"

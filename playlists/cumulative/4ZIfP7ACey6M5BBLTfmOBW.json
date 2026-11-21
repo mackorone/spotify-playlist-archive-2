@@ -15231,6 +15231,24 @@
     },
     {
       "album": {
+        "name": "SIMON SAYS",
+        "url": "https://open.spotify.com/album/2foroeWzjDQNdvc4oykpeL"
+      },
+      "artists": [
+        {
+          "name": "BAMT",
+          "url": "https://open.spotify.com/artist/02HtrDQJDSV1umYHzqzWdv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141744,
+      "name": "SIMON SAYS",
+      "url": "https://open.spotify.com/track/24KjLIyqr75HMZX1UUPM8s"
+    },
+    {
+      "album": {
         "name": "Sinners",
         "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
       },

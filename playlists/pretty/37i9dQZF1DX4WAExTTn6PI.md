@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Schaefer Llana
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,205 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,222 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Sweep](https://open.spotify.com/track/3KLxhV9PZclzv2vVmrsdvd) | [Carly King](https://open.spotify.com/artist/1UwGYTysZ66BPA3uZx73qf) | [Loving you is Easy](https://open.spotify.com/album/5wA0uDOBnmByu5TPUspSLk) | 3:01 |
 | 100 | [E\-350](https://open.spotify.com/track/1WNpKT5QYALA3YhzXlPxpI) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Susto Stringband](https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d), [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [E\-350](https://open.spotify.com/album/0xfHOLl0LPD96FsxZLWzCl) | 2:58 |
 
-Snapshot ID: `AAAAAE4IdM6QWGMRc6gKQq4u3eAVByRn`
+Snapshot ID: `AAAAAEjVUZOBUGoE8PmKaiwIt5unBvCQ`

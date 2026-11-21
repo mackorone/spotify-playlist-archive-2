@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dia, Dua Lipa, Budi Doremi, TheOvertunes, Gracie Abrams, BIGBANG dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 253925,
+  "num_followers": 254414,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF4IlUdikBYjT6TqD62HGUpmRUQo",
+  "snapshot_id": "AAAAAB/88I2tS/c10svqeO8Df2cu1GH0",
   "tracks": [
     {
       "added_at": "2026-11-19 17:03:26",
@@ -104,7 +104,7 @@
           "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 192301,
+      "duration_ms": 191500,
       "name": "Go Easy (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/7L3LxgjqLyM9P4Cp7afyKc"
     },
     {
+      "added_at": "2026-11-20 09:00:39",
+      "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/25h8LIMoPhLF8f5kT2BuIk"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 142870,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/1eP2AytiZlppmvR0VVdylu"
+    },
+    {
       "added_at": "2026-11-19 17:03:26",
       "album": {
         "name": "Hai, Halo",
@@ -506,6 +522,10 @@
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Children of Blood and Bone (Original Motion Picture Soundtrack)",
+          "url": "https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x"
         }
       ],
       "duration_ms": 182000,
@@ -815,6 +835,26 @@
       "duration_ms": 244368,
       "name": "Cinta Abadi",
       "url": "https://open.spotify.com/track/3zTspEbLBGBlXcBoXk9eNI"
+    },
+    {
+      "added_at": "2026-11-20 12:57:39",
+      "album": {
+        "name": "Baby I'm Sorry",
+        "url": "https://open.spotify.com/album/6kkz2w7oFfQ0nefIrF8FQo"
+      },
+      "artists": [
+        {
+          "name": "Tiket",
+          "url": "https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM"
+        },
+        {
+          "name": "Rifqi FTR",
+          "url": "https://open.spotify.com/artist/0E7e9JsNEXjJ608E1MJnvh"
+        }
+      ],
+      "duration_ms": 227715,
+      "name": "Baby I'm Sorry",
+      "url": "https://open.spotify.com/track/7N3fCuTW73IhphZ1Ms2One"
     },
     {
       "added_at": "2026-11-19 17:03:26",

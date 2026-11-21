@@ -1485,6 +1485,32 @@
     },
     {
       "album": {
+        "name": "Vai Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3qnxF6o5TSVcN8e9aBxhER"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351818,
+      "name": "Vai Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/6cqiVcOgkPVZzIsb1yklp0"
+    },
+    {
+      "album": {
         "name": "Vai Valer a Pena",
         "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },

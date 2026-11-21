@@ -1,12 +1,12 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Ninho",
-  "num_followers": 25267,
+  "num_followers": 25315,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL8s053QoHP7ctjq9Rtyjuui87cn",
+  "snapshot_id": "AAAAAO/77WBu2V8xTskKn3RjhG9XdxB5",
   "tracks": [
     {
       "added_at": "2026-11-20 05:03:08",
@@ -193,7 +193,7 @@
         }
       ],
       "duration_ms": 160532,
-      "name": "La couleur des billets",
+      "name": "La couleur des billets (avec Baxter Dexter)",
       "url": "https://open.spotify.com/track/6dTJvvJHmFIN81nQ9rJVIC"
     },
     {
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "CYBERTESLA",
-        "url": "https://open.spotify.com/album/5gYCJP14fCtr33zvD0dhdI"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "CYBERTESLA",
-      "url": "https://open.spotify.com/track/30XuVaQikcrhVfiNRvbqfr"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "MON B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "CYBERTESLA",
+        "url": "https://open.spotify.com/album/5gYCJP14fCtr33zvD0dhdI"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "CYBERTESLA",
+      "url": "https://open.spotify.com/track/30XuVaQikcrhVfiNRvbqfr"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
+        "name": "My Eyes Only - Flashback",
+        "url": "https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "ELLE VOULAIT",
+      "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
         "name": "Allo Doudou",
         "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 170681,
       "name": "Allo Doudou",
       "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
-        "name": "My Eyes Only - Flashback",
-        "url": "https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "ELLE VOULAIT",
-      "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "REQUIEM : MIEUX QU'HIER",
-        "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 153490,
-      "name": "EXPLICIT 69",
-      "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "Diff\u00e9rent",
         "url": "https://open.spotify.com/album/7oIYfGvrSN74YK9cKCyxGq"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 170382,
       "name": "Diff\u00e9rent",
       "url": "https://open.spotify.com/track/2FuofUVE32dk7jRIvqirxU"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "REQUIEM : MIEUX QU'HIER",
+        "url": "https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 153490,
+      "name": "EXPLICIT 69",
+      "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "AVEC MOI",
-        "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "AVEC MOI",
-      "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 176190,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "AVEC MOI",
+        "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "AVEC MOI",
+      "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "Ch\u00e9rie coco",
-        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ch\u00e9rie coco",
-      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "L'humain",
         "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "GROSEILLE",
-        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
       },
       "artists": [
         {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 173013,
-      "name": "GROSEILLE",
-      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
+        "name": "GROSEILLE",
+        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "GROSEILLE",
+      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
         "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
         "url": "https://open.spotify.com/album/1Fbqsi2HxBGmopqqBQ6iBt"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 177230,
       "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
       "url": "https://open.spotify.com/track/58o2zTwld2GgP7RQ2BYU94"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "Mati\u00e8re Noire",
+        "url": "https://open.spotify.com/album/7zfXEgQCawBuwXsG5ycP4A"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 210091,
+      "name": "Maman ne dort pas",
+      "url": "https://open.spotify.com/track/13s4WADIFnSBfLYJ8KW4hr"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1419,22 +1435,6 @@
       "duration_ms": 262557,
       "name": "Le Bon Samaritain",
       "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
-        "name": "Mati\u00e8re Noire",
-        "url": "https://open.spotify.com/album/7zfXEgQCawBuwXsG5ycP4A"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 210091,
-      "name": "Maman ne dort pas",
-      "url": "https://open.spotify.com/track/13s4WADIFnSBfLYJ8KW4hr"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "RM-035",
-        "url": "https://open.spotify.com/album/2xi0f1E2qZiRlOpBYroJu2"
-      },
-      "artists": [
-        {
-          "name": "Mous-K",
-          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
-        }
-      ],
-      "duration_ms": 163807,
-      "name": "RM-035",
-      "url": "https://open.spotify.com/track/4oOzQaMMsqN4LRsFBEMTLw"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "NZELA",
         "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 191013,
       "name": "NZELA",
       "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "RM-035",
+        "url": "https://open.spotify.com/album/2xi0f1E2qZiRlOpBYroJu2"
+      },
+      "artists": [
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        }
+      ],
+      "duration_ms": 163807,
+      "name": "RM-035",
+      "url": "https://open.spotify.com/track/4oOzQaMMsqN4LRsFBEMTLw"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1571,42 +1571,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "EXTASIAAAAA",
-        "url": "https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq"
-      },
-      "artists": [
-        {
-          "name": "Ino Casablanca",
-          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
-        }
-      ],
-      "duration_ms": 171776,
-      "name": "L\u00c9 TAL",
-      "url": "https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
-        "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
-      },
-      "artists": [
-        {
-          "name": "Typhee",
-          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
-        },
-        {
-          "name": "Nouvelle \u00c9cole",
-          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "TERIYAKI - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "Noir pour demain",
         "url": "https://open.spotify.com/album/1j1M39SOdvam6lIMqbmYIl"
       },
@@ -1619,6 +1583,22 @@
       "duration_ms": 216053,
       "name": "Noir pour demain",
       "url": "https://open.spotify.com/track/0qSFgDDJp1SjU2F5QM96wZ"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "EXTASIAAAAA",
+        "url": "https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "duration_ms": 171776,
+      "name": "L\u00c9 TAL",
+      "url": "https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1639,6 +1619,26 @@
       "duration_ms": 158776,
       "name": "INCOGNITO",
       "url": "https://open.spotify.com/track/2uoKEakNdnvTGA5YOgQKZx"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "TERIYAKI - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
         "name": "APR\u00c8S LA SAISIE",
         "url": "https://open.spotify.com/album/6OrWqWuu9UlS0DEiETSIPs"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 167741,
       "name": "600K",
       "url": "https://open.spotify.com/track/1Awm1OB4Sd2eOBfKpp2UhQ"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "BLESSED",
-        "url": "https://open.spotify.com/album/61mRt0l9LF8v9dIiJw8gat"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 129880,
-      "name": "Tequila Shot",
-      "url": "https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "BYAKUGAN",
         "url": "https://open.spotify.com/album/6HQt23uDVxzyucxDtqRSKI"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 248000,
       "name": "Huracan",
       "url": "https://open.spotify.com/track/6QRy8EXr1ZzPQNRXlAm4TH"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/61mRt0l9LF8v9dIiJw8gat"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 129880,
+      "name": "Tequila Shot",
+      "url": "https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm"
     }
   ],
   "unique_name": "Rap francophone",

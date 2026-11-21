@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12265,
+  "num_followers": 12263,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKftCKc3mML0KxdOyTltZ10+k7XX",
+  "snapshot_id": "AAAAACD4Ga8setoGAF1yua6th1E09uWw",
   "tracks": [
     {
       "added_at": "2026-11-03 06:24:03",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
         "name": "Airman Morning Diaries",
         "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 201077,
       "name": "Blue Island (feat. 1Ho & Chan)",
       "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
         "name": "Je T'aime",
         "url": "https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+        "name": "Wherever",
+        "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
       },
       "artists": [
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
         }
       ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
+      "duration_ms": 171251,
+      "name": "Wherever",
+      "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -643,22 +659,6 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
-        "name": "Wherever",
-        "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 171251,
-      "name": "Wherever",
-      "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "WEAK",
-        "url": "https://open.spotify.com/album/7JErMWy5j6BAaQ6brtCsU5"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 197291,
-      "name": "NOT OK (Feat. MINNIE)",
-      "url": "https://open.spotify.com/track/0tSDqQOK8EgoRxYXWkP5rR"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
         "name": "Someday (feat. Ha Hyun Sang)",
         "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 181666,
       "name": "Someday (feat. Ha Hyun Sang)",
       "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
+        "name": "WEAK",
+        "url": "https://open.spotify.com/album/7JErMWy5j6BAaQ6brtCsU5"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 197291,
+      "name": "NOT OK (Feat. MINNIE)",
+      "url": "https://open.spotify.com/track/0tSDqQOK8EgoRxYXWkP5rR"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "Mutualism",
-        "url": "https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1"
-      },
-      "artists": [
-        {
-          "name": "MRCH",
-          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "seesaw",
-      "url": "https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 184680,
       "name": "Picnic",
       "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
+        "name": "Mutualism",
+        "url": "https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "seesaw",
+      "url": "https://open.spotify.com/track/1YWGqISxSJrSP7bXGEYFxd"
     },
     {
       "added_at": "2026-11-03 06:24:03",

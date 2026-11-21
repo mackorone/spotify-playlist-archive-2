@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Dior 大穎
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,455 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,452 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [懂的都懂](https://open.spotify.com/track/6MDgM4iLuZajkwEYwsnxrH) | [Dizzy Dizzo 蔡詩芸](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [懂的都懂](https://open.spotify.com/album/4UmlHS19LWaNyYkcco8aRT) | 2:34 |
 | 50 | [芝麻小事 \- 影集《接招吧！製作人》單元曲](https://open.spotify.com/track/0bhJSlbRLCo8sOeCIMy83v) | [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [芝麻小事 \(影集《接招吧！製作人》單元曲\)](https://open.spotify.com/album/5BXdzBqfhKDk3qYeaRxk0l) | 4:37 |
 
-Snapshot ID: `AAAAAOmqO0Lru6qOhShYIOjpDsME9mwH`
+Snapshot ID: `AAAAAB+3zGv40cRDg9s74mY9XKi75iLp`

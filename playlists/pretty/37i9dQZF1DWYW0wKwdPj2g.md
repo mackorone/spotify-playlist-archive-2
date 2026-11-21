@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,494 likes - 100 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,559 likes - 100 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Gbope Mi \(Live\)](https://open.spotify.com/track/2ZHAaraotmmXc13Ir9DOVy) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [Gbope Mi \(Live\)](https://open.spotify.com/album/6xAjLrGrMyXKMHfwpW880A) | 3:14 |
 | 100 | [Revelations 7 \- Live](https://open.spotify.com/track/2MiUaD8WJxxCWt30Q2FPYa) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Abike Adesida](https://open.spotify.com/artist/2wIsKcvptr39PMISxnIy1s) | [Revelations 7 \(Live\)](https://open.spotify.com/album/6JJh5T65NZDCP5RGSTa9V2) | 12:36 |
 
-Snapshot ID: `AAAAAEU0VbU5LYanXan1CgLLHYru9B8+`
+Snapshot ID: `AAAAAHgbXAEMeWjYENIFxfc7tLWWYmUT`

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 65352,
+  "num_followers": 65361,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avzqgAAAAAC0HwJhRwSZL235712gUSF5",
+  "snapshot_id": "av48AAAAAAASnhNpDqCHbrEDwOhwIcM2",
   "tracks": [
     {
       "added_at": null,
@@ -67,18 +67,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEY DE VIDA",
-        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
+        "name": "Parque de Diversiones",
+        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 178794,
-      "name": "MENTIRAS 2",
-      "url": "https://open.spotify.com/track/2nieLOn9PfFgDZ2KWRD5t5"
+      "duration_ms": 209358,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
     },
     {
       "added_at": null,
@@ -99,22 +103,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parque de Diversiones",
-        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+        "name": "LEY DE VIDA",
+        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 209358,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
+      "duration_ms": 178794,
+      "name": "MENTIRAS 2",
+      "url": "https://open.spotify.com/track/2nieLOn9PfFgDZ2KWRD5t5"
     },
     {
       "added_at": null,

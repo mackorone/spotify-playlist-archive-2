@@ -5,24 +5,6 @@
   "tracks": [
     {
       "album": {
-        "name": "PROFUNDA",
-        "url": "https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "date_added": "2026-11-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T"
-    },
-    {
-      "album": {
         "name": "\"forever\"",
         "url": "https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK"
       },
@@ -3438,7 +3420,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 136000,
       "name": "5432ON",
       "url": "https://open.spotify.com/track/1Z3p17NoMQVSqsPF3KVDhl"
@@ -21200,6 +21182,24 @@
       "duration_ms": 205386,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/68FZuay5wpGLYyIqcBanXa"
+    },
+    {
+      "album": {
+        "name": "Gut Feeling",
+        "url": "https://open.spotify.com/album/5hdO1CmE281xgCqMTNNP9y"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239408,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5MnWNqim58IV07FuKB27pD"
     },
     {
       "album": {
@@ -40464,7 +40464,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 195608,
       "name": "Cold Blooded (Demo) - from the Netflix Series \"Nobody Wants This\" Season 3",
       "url": "https://open.spotify.com/track/3NAR5ij8H2QbmGxUlfuxSv"
@@ -56378,7 +56378,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 250319,
       "name": "Don\u2019t Stop Trying To Love Me",
       "url": "https://open.spotify.com/track/7rnIrXzCRFNUnJtwCyPRsn"
@@ -78780,7 +78780,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 170383,
       "name": "Glown Up",
       "url": "https://open.spotify.com/track/6sWfrBBy9OtTyradfCy1Cp"
@@ -81828,7 +81828,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 184413,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/4yBofFU6RdztFsyffEFwIp"
@@ -82756,6 +82756,24 @@
       "duration_ms": 168000,
       "name": "Grey Lines",
       "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
+    },
+    {
+      "album": {
+        "name": "grief and all his friends",
+        "url": "https://open.spotify.com/album/7cFDR0dj9FMcqxw0HLGrzA"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198054,
+      "name": "grief and all his friends",
+      "url": "https://open.spotify.com/track/1brCf12togJyd7TJlDpxP3"
     },
     {
       "album": {
@@ -92694,7 +92712,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 201875,
       "name": "Home Is A Face",
       "url": "https://open.spotify.com/track/6FCIe99r3f0ldJWn06yZau"
@@ -105354,6 +105372,24 @@
       "duration_ms": 178000,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
+    },
+    {
+      "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/25h8LIMoPhLF8f5kT2BuIk"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142870,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/1eP2AytiZlppmvR0VVdylu"
     },
     {
       "album": {
@@ -160875,6 +160911,28 @@
     },
     {
       "album": {
+        "name": "iD",
+        "url": "https://open.spotify.com/album/4lQn6FJQ0tYewK6OaKYW83"
+      },
+      "artists": [
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        },
+        {
+          "name": "EQ",
+          "url": "https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125373,
+      "name": "PLAY ME",
+      "url": "https://open.spotify.com/track/4FzVSlf2EpTfm6jJhz5TYF"
+    },
+    {
+      "album": {
         "name": "Here For It All",
         "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
@@ -164178,6 +164236,24 @@
       "duration_ms": 175328,
       "name": "professional heartbreaker",
       "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
+    },
+    {
+      "album": {
+        "name": "PROFUNDA",
+        "url": "https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ"
+      },
+      "artists": [
+        {
+          "name": "judith",
+          "url": "https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154449,
+      "name": "PROFUNDA",
+      "url": "https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T"
     },
     {
       "album": {
@@ -196122,6 +196198,24 @@
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
+    },
+    {
+      "album": {
+        "name": "Sweet Tooth Sugar High",
+        "url": "https://open.spotify.com/album/5q4FvUELBTC66mkRSPILqY"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Sweet Tooth Sugar High",
+      "url": "https://open.spotify.com/track/3ZcN5U1u7Lh7bcdeE2NC0p"
     },
     {
       "album": {

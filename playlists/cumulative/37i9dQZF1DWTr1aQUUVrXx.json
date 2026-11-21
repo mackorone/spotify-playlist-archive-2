@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "A Small Thing Again",
+        "url": "https://open.spotify.com/album/4Eda385DeRnw3pyJ980nZh"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207406,
+      "name": "A Small Thing Again",
+      "url": "https://open.spotify.com/track/6FWoFBxcm8eObSs1u4EwKe"
+    },
+    {
+      "album": {
         "name": "A Thousand Candles",
         "url": "https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 220960,
       "name": "A Window to Your Soul",
       "url": "https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT"
+    },
+    {
+      "album": {
+        "name": "Able to Find Someone",
+        "url": "https://open.spotify.com/album/4mJbkDBN6biifYA4U5vdGf"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190324,
+      "name": "Able to Find Someone",
+      "url": "https://open.spotify.com/track/2PFFa093JmpjTrWPgJlGeM"
     },
     {
       "album": {
@@ -1517,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "I just came to say hi",
+        "url": "https://open.spotify.com/album/1qpoiptsJQ9pEr4dEhdIoE"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190662,
+      "name": "I just came to say hi",
+      "url": "https://open.spotify.com/track/1TXtFuuqbbTtiesj5UM1M8"
+    },
+    {
+      "album": {
         "name": "I Saw The Sun",
         "url": "https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM"
       },
@@ -1982,6 +2036,24 @@
       "duration_ms": 265317,
       "name": "Let's Not",
       "url": "https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Take 5",
+        "url": "https://open.spotify.com/album/75grrGfprZLXtQHfK42Rw2"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183543,
+      "name": "Let\u2019s Take 5",
+      "url": "https://open.spotify.com/track/5vnqjALO8BlUFkfoqzMXJI"
     },
     {
       "album": {
@@ -4048,7 +4120,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-21",
       "duration_ms": 216566,
       "name": "When You Come Home",
       "url": "https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR"

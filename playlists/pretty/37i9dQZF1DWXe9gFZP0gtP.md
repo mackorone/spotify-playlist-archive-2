@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,013,804 likes - 225 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,014,241 likes - 225 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 224 | [Night Blur](https://open.spotify.com/track/2AvugcGYwiaauCwa959yVL) | [Moss Halo](https://open.spotify.com/artist/6wqRBYlhl3lWjQ3iO7uabQ) | [Night Blur](https://open.spotify.com/album/47LSJbpLg0fQuWBzp3wpOD) | 2:27 |
 | 225 | [Silent Sanctuary](https://open.spotify.com/track/3Tu7IMjLuD54GnjR4fMRz8) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Silent Sanctuary](https://open.spotify.com/album/4W4yi3HHLc1aVEDTviOBXP) | 2:29 |
 
-Snapshot ID: `AAAAABOsNLBz/0bokNdYi4RJIHMdQIiI`
+Snapshot ID: `AAAAANYeUFdYak+Ckm2cZqNQflbJxUYv`

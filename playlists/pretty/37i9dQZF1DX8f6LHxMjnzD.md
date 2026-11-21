@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,057 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,231 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Fall In Your Arms](https://open.spotify.com/track/0YEYLAdq4OYX0xgtQAZFBp) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Something To Say \(Deluxe\)](https://open.spotify.com/album/6dd2umlPod0QG71Rh1xOgJ) | 3:19 |
 | 40 | [Hypocrite](https://open.spotify.com/track/1ONuYJSDYgRsmcYiXTSiRa) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Hypocrite](https://open.spotify.com/album/58lm0T7jaeUFT1hkqLzVzY) | 2:28 |
 
-Snapshot ID: `AAAAAGZ4ycLJo/B0esarImDZB7KiWma+`
+Snapshot ID: `AAAAALneufPj/1eKVY9a/SdzGHT1ZJIc`

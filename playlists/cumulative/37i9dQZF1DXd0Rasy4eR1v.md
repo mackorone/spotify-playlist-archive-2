@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Honey King
 
-1,441 songs - 3 day 4 hr 59 min
+1,442 songs - 3 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,6 +1091,7 @@
 | [Rus Na Kurreh](https://open.spotify.com/track/4hmt5X9o0xWEjTn5QvhAsC) | [Luqy](https://open.spotify.com/artist/6gCmR66uSPKIUxQveeoWB3) | [Rus Na Kurreh](https://open.spotify.com/album/4hwZd1s2Y0nw4ci2KKt7xc) | 2:30 | 2022-10-26 | 2022-11-18 |
 | [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 | 2025-05-23 | 2025-10-25 |
 | [ruswayi](https://open.spotify.com/track/07HEmgH4cdehLqUMEkB8Jm) | [MAARIJ](https://open.spotify.com/artist/70dkTHwH6Pkzo2rvGfukp2), [NXS](https://open.spotify.com/artist/4NrlUQ2WgLRUGCYVvIG9bt) | [GREEN ROOM BLUES](https://open.spotify.com/album/1ZUkYxrHhq157QlSObfYt6) | 3:37 | 2026-01-12 | 2026-04-04 |
+| [SAA](https://open.spotify.com/track/0iQkrHHwG7xk6edqgOsp4H) | [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [SAA](https://open.spotify.com/album/45Y285WlaIja8eAVvcuIhB) | 2:55 | 2026-11-20 |  |
 | [Saajna](https://open.spotify.com/track/27xt7pD3h0mZ6cg0y07PpV) | [Musawir Khan](https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH) | [Saajna](https://open.spotify.com/album/50BM6yrfg5GRbmVRCdzqSd) | 3:00 | 2026-04-17 | 2026-09-18 |
 | [Saajna](https://open.spotify.com/track/47jrjADMtdDFBgY3OLEhlR) | [Salman Riaz](https://open.spotify.com/artist/2KohC1BuJg5vKPayKyZxS1), [Zoraiz Riaz](https://open.spotify.com/artist/6niZeNtEAL32ctmePwx6OI) | [Saajna](https://open.spotify.com/album/45SyUM1lclSDpwBG5UVVO2) | 4:00 | 2024-01-04 | 2024-02-24 |
 | [SAANJH](https://open.spotify.com/track/35uQHzRMUVP19vO7QknzsZ) | [XLR8](https://open.spotify.com/artist/18COFflz52DNyC1f2JAumS), [DRG Musics](https://open.spotify.com/artist/0bMnT7mTcQQZa1cLr7kPlW) | [SAANJH](https://open.spotify.com/album/0vzS6S7tJyZxZfNkPRwsuj) | 2:44 | 2024-01-12 | 2024-05-10 |
