@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > TYCH, SKO, B4RKIE, Bully, C7EVN en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,166 likes - 79 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,169 likes - 79 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,691 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,697 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Body](https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Body](https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv) | 3:36 |
 | 50 | [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 |
 
-Snapshot ID: `av48AAAAAADgszPK1vOm7SSbzDPOS6AC`
+Snapshot ID: `av+NgAAAAAAjVeUMvWrteTxsaVnT2aY8`

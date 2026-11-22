@@ -10813,6 +10813,24 @@
     },
     {
       "album": {
+        "name": "dirty white tee",
+        "url": "https://open.spotify.com/album/3OAlV55JOKLQsmrlcSpeYm"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "dirty white tee",
+      "url": "https://open.spotify.com/track/72pgOuR3pxKvFWYuJ5Tke3"
+    },
+    {
+      "album": {
         "name": "Disappointment (feat. Rxseboy)",
         "url": "https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd"
       },
@@ -13016,6 +13034,24 @@
       "duration_ms": 162656,
       "name": "essential",
       "url": "https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu"
+    },
+    {
+      "album": {
+        "name": "Even Roses Die",
+        "url": "https://open.spotify.com/album/3gia3qjf17hWWBLygoBST2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141497,
+      "name": "Even Roses Die",
+      "url": "https://open.spotify.com/track/7boIu5FtLrXwEpkkU3t9Gw"
     },
     {
       "album": {
@@ -26420,7 +26456,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 201294,
       "name": "lovergirl",
       "url": "https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7"
@@ -32346,7 +32382,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 190828,
       "name": "Passion Isn't Rare",
       "url": "https://open.spotify.com/track/42J7aNa2mO69y98CQRdFis"

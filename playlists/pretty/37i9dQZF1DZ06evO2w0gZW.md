@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,502 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,536 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 18 | [I Stay In Love](https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:32 |
 | 19 | [Heartbreaker \(feat\. JAŸ\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 |
 | 20 | [It's A Wrap](https://open.spotify.com/track/0CnlKa2jjIMzG0gLN1KZbD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:58 |
-| 21 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
+| 21 | [Don't Forget About Us](https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:53 |
 | 22 | [Through The Rain](https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw) | 4:48 |
 | 23 | [Thank God I Found You \(feat\. Joe & 98°\)](https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:17 |
 | 24 | [Dreamlover](https://open.spotify.com/track/5m9aremBVDMMMAP1tfFCbx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:53 |
-| 25 | [Don't Forget About Us](https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:53 |
+| 25 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
 | 26 | [I Want To Know What Love Is](https://open.spotify.com/track/4ttCCNTaRSKmgFYOmNQzsO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:27 |
 | 27 | [Open Arms](https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:29 |
 | 28 | [I Still Believe](https://open.spotify.com/track/2feekrJqyB9lBEBgC54IQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [I Still Believe EP](https://open.spotify.com/album/1xq3CF71gkQhjPdORWp4rt) | 3:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 46 | [Can't Let Go](https://open.spotify.com/track/0ikbcCJIJaY9sKEivAXJ4I) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:27 |
 | 47 | [Can't Take That Away \(Mariah's Theme\)](https://open.spotify.com/track/2Epqce6wM48J6Wnlmhn42c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:32 |
 | 48 | [I'll Be Lovin' U Long Time](https://open.spotify.com/track/1PzVLh1uoq5pAUnqNQElQq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:01 |
-| 49 | [Loverboy \- Remix](https://open.spotify.com/track/37V9Td9HDL6GQ8SF0To3U8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga), [Twenty II](https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1) | [Loverboy \(Remix\)](https://open.spotify.com/album/385M8ex7dAinRxjMHlY9Ph) | 4:30 |
-| 50 | [My Love](https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:24 |
+| 49 | [My Love](https://open.spotify.com/track/07o5JbRuDi5ir7rhsOi0ap) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:24 |
+| 50 | [Loverboy \- Remix](https://open.spotify.com/track/37V9Td9HDL6GQ8SF0To3U8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga), [Twenty II](https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1) | [Loverboy \(Remix\)](https://open.spotify.com/album/385M8ex7dAinRxjMHlY9Ph) | 4:30 |
 
 Snapshot ID: `av48AAAAAACSO5gcJTnvyaKGPUa0G6bO`

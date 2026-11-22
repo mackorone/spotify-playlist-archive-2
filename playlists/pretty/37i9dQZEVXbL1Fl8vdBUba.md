@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,015 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,018 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 29 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
 | 30 | [Las Muñequitas](https://open.spotify.com/track/4d7Lhz5BI123cftvGwozrE) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Transilvania](https://open.spotify.com/album/3GTeA1D6L9ijgf3IJ71oRP) | 3:19 |
 | 31 | [Dame Hombro](https://open.spotify.com/track/1FXksRH3lFxHPlBauolc3C) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Kevin Wai](https://open.spotify.com/artist/51juLUSUPiiS1aWyVPbd2o), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Dame Hombro](https://open.spotify.com/album/3jQsz4uZDT3oZJEzcxKUjq) | 2:04 |
-| 32 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
+| 32 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
 | 33 | [Suzuki \(from GTAVI: The Album\)](https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Suzuki \(from GTAVI: The Album\)](https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp) | 1:51 |
 | 34 | [Tormentos](https://open.spotify.com/track/5eo0PWDVYIo83HHTLWy5Ub) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Historia Musical de Rodolfo Bailable](https://open.spotify.com/album/3l7Fd0pmT6wdIgJmG0TaoJ) | 4:20 |
 | 35 | [TUKI TUKI](https://open.spotify.com/track/5lZ8kgIFTHbu1PrwMj3Tqr) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [EL MEJOR HOMBRE DEL MUNDO](https://open.spotify.com/album/6fdaLD9AcFrRO32HjRHyq8) | 6:15 |
 | 50 | [Amor](https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi) | 3:19 |
 
-Snapshot ID: `MpPh0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MpUp8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

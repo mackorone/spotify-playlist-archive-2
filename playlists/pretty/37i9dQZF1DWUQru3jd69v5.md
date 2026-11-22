@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Quest in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,333 likes - 65 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,329 likes - 65 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 55 | [fomo :/](https://open.spotify.com/track/1Ir0BU9fRhlESmLJnkkedC) | [RIRI2K](https://open.spotify.com/artist/14QMCAaOdrpr30PrA2tvid) | [fomo :/](https://open.spotify.com/album/63XNLA0BiSXp3zCdlwMJ3d) | 1:48 |
 | 56 | [Söttilissima](https://open.spotify.com/track/3hLIsPQR0K27CD54vwODVz) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR) | [Söttilissima](https://open.spotify.com/album/32aGX1JdmCyT2wY7ay1hKz) | 2:48 |
 | 57 | [MAI COME VOI](https://open.spotify.com/track/20FFyQ25Z6dIqoHYeYIStz) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [MAI COME VOI](https://open.spotify.com/album/1VUVjZeuTglMpT1Gy6hVSd) | 2:24 |
-| 58 | [Scientology \(feat\. UNK\)](https://open.spotify.com/track/23BcIx6OM3urMisZg3lTGR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [Scientology \(feat\. UNK\)](https://open.spotify.com/album/4DnSpPbjNXS89k8fq8B3bn) | 2:49 |
+| 58 | [Scientology \(feat\. UNK\)](https://open.spotify.com/track/23BcIx6OM3urMisZg3lTGR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7) | [Scientology \(feat\. UNK\)](https://open.spotify.com/album/4DnSpPbjNXS89k8fq8B3bn) | 2:49 |
 | 59 | [Paradiso Champagne](https://open.spotify.com/track/63atLbrk93mGjwYDYI8a49) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [N'](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [MAMMA MUOIO LEGGENDA](https://open.spotify.com/album/6d6xsaxQRqCcSulyNq3LYo) | 2:41 |
 | 60 | [OUTSIDE](https://open.spotify.com/track/73L4lKTyhjVA5YDEPtVCod) | [Passa Lzn](https://open.spotify.com/artist/6xMSpxOkrzrQgWu3fOSKBB) | [OUTSIDE](https://open.spotify.com/album/4lU7DEbgR2znuUVHUosCmR) | 2:24 |
 | 61 | [UNPLAYABLE](https://open.spotify.com/track/3DXsHePY5OToh8mzLAOj0X) | [foocus](https://open.spotify.com/artist/1XYpSPrrhDCaqMWhRBOuk8) | [UNPLAYABLE](https://open.spotify.com/album/68XPRdAs72tWPBXXjvJb4z) | 2:37 |

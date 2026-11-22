@@ -4,7 +4,7 @@
 
 > 
 
-3,265 songs - 6 day 23 hr 47 min
+3,267 songs - 6 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2106,6 +2106,7 @@
 | [One Kiss](https://open.spotify.com/track/37TihzMwEhWjjhIolN3QDI) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [One Kiss](https://open.spotify.com/album/78G0hf0YL5HoM4q6jVdOh6) | 2:47 | 2024-12-14 |  |
 | [One Last Dance](https://open.spotify.com/track/6hh1KPkxLP66phtVpJzhAv) | [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [One Last Dance](https://open.spotify.com/album/5w6KaTQaodXWqpaDigsWG8) | 3:09 | 2025-05-03 |  |
 | [One Last Moment](https://open.spotify.com/track/5CGNVCtb6IMEH1hPiguLLU) | [Onlynumbers](https://open.spotify.com/artist/14lZi2xEonJg9DyYk9JBak), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [One Last Moment](https://open.spotify.com/album/2CKRBj408wey09TSEV0ngv) | 5:11 | 2026-10-02 |  |
+| [One More](https://open.spotify.com/track/6DYDxYyQUFPoqgU4K5XpTx) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Atef](https://open.spotify.com/artist/1b8QKXnA1e1CPFMosj8OMi), [Hannah Fortune](https://open.spotify.com/artist/6508dFylHewcpxkYOYJge0), [lowstattic](https://open.spotify.com/artist/40CobdqkzS30FO9Corzff3) | [One More](https://open.spotify.com/album/4hP5xWEWOKNWxxVroSHHDp) | 3:07 | 2026-11-21 |  |
 | [One More](https://open.spotify.com/track/6WtHZDm7tHiFOw5Dfe26Pf) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Atef](https://open.spotify.com/artist/1b8QKXnA1e1CPFMosj8OMi), [hannah fortune](https://open.spotify.com/artist/6FxopGV7KJxgtdUZohvHEu), [lowstattic](https://open.spotify.com/artist/40CobdqkzS30FO9Corzff3) | [One More](https://open.spotify.com/album/3fS0VlNoksj8zROHofftU8) | 3:07 | 2023-06-30 |  |
 | [One More Love \- Hardcore Uproar Radio Mix](https://open.spotify.com/track/282vJnbuodTw7AHAaUzeib) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B), [Banana Man](https://open.spotify.com/artist/37wRgQRWKVjf5nlFA4ckcK) | [One More Love VIP](https://open.spotify.com/album/401RUOlbwpQuHQvaA3CwK3) | 2:56 | 2023-04-10 |  |
 | [One More Night](https://open.spotify.com/track/0A1xQnMVSHk0eOvm7ONMCU) | [ALPHI](https://open.spotify.com/artist/6TUS92w9xO24LS2EzuRR2M) | [One More Night](https://open.spotify.com/album/4YIVOrC76csvnaYo3wt7cQ) | 2:15 | 2025-07-07 |  |
@@ -2567,6 +2568,7 @@
 | [So Cold](https://open.spotify.com/track/2VZ1eAKMcrF3eXwYWq2NHQ) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [So Cold](https://open.spotify.com/album/0iCFyqcvr2DMB14ZdOX2M6) | 3:20 | 2023-12-17 |  |
 | [SO CRUSHED](https://open.spotify.com/track/1EgIWVigCWT0B13QUDu9w5) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [The Final Dose](https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5) | 2:55 | 2025-01-25 |  |
 | [So Good](https://open.spotify.com/track/1lAxHBKcVgATKOLMckYNY2) | [Jakka\-B](https://open.spotify.com/artist/2jVj0crTzkmBmxsBXkQaM8) | [So Good](https://open.spotify.com/album/38MvtZEMAVZq3wtkGRf3Pa) | 3:06 | 2026-10-18 |  |
+| [SO GROOVY](https://open.spotify.com/track/2wvqB1EjdtiMCru9tCkahd) | [El Desperado](https://open.spotify.com/artist/2ajGq9BEnKOi6B5wTZ7uWn) | [BLACK & RED](https://open.spotify.com/album/1YjLCRKKmpquuNK3qpYw81) | 2:37 | 2026-11-21 |  |
 | [SO HIGHER](https://open.spotify.com/track/40ogJaLwZD0t0LRHwjShng) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [SO HIGHER](https://open.spotify.com/album/0xGRvLaNQXIzixkoB8l4Gx) | 3:53 | 2026-08-09 |  |
 | [So Hot](https://open.spotify.com/track/7hdyEMLyLAQJnqg6uZgB7f) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:21 | 2023-04-16 |  |
 | [So Hot](https://open.spotify.com/track/12wf4O6FpjMnVARx02ZhRy) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [So Hot](https://open.spotify.com/album/29FvRyAml4hRQhx8hkWzJC) | 1:56 | 2024-12-20 |  |

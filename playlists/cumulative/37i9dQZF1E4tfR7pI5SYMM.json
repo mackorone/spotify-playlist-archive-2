@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Sanguine, Autoimmune, Bad Scullianz and more",
+  "description": "With Sanguine, Autoimmune, The Datsuns and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -2670,7 +2670,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 216756,
       "name": "Carry The Light",
       "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 231808,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
@@ -5964,7 +5964,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 120463,
       "name": "Fade and Burn",
       "url": "https://open.spotify.com/track/4rcBlkiUrkEcmtqerD3D6P"
@@ -6090,7 +6090,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -8702,7 +8702,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "I TRIED - Remastered",
       "url": "https://open.spotify.com/track/6I4IgbVQCcz29puOorIlbI"
@@ -9062,7 +9062,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 203000,
       "name": "In Search of the Queen",
       "url": "https://open.spotify.com/track/624Gy9PG4R7nwfGKhB33C4"
@@ -9264,7 +9264,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -9390,7 +9390,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 215000,
       "name": "It's All Rock 'n' Roll",
       "url": "https://open.spotify.com/track/4w7U0zcSBIZm83XkLj5QqP"
@@ -9444,7 +9444,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 138187,
       "name": "Jag f\u00e5r ingen luft",
       "url": "https://open.spotify.com/track/1qK1jKi4datgKIed8lIpNR"
@@ -9766,7 +9766,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 211626,
       "name": "Kanskje p\u00e5 tide",
       "url": "https://open.spotify.com/track/3oDizYKL6swQ5DIARE5ojF"
@@ -9954,7 +9954,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 310037,
       "name": "Kj\u00e6rlighetsvise",
       "url": "https://open.spotify.com/track/7xTYA8Irajx34KVfhQW3k0"
@@ -10275,6 +10275,24 @@
     },
     {
       "album": {
+        "name": "L\u2019Homme De L\u2019Ombre",
+        "url": "https://open.spotify.com/album/7jKQnw1jaRvnG1R24MuLBT"
+      },
+      "artists": [
+        {
+          "name": "Marc O",
+          "url": "https://open.spotify.com/artist/6v0MFRn5CLhrSRcj1uU4lF"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Le Fondu Des Bas-Fonds D'\u00e9cran",
+      "url": "https://open.spotify.com/track/1nvgZFw7cyV3sejLGfS4n1"
+    },
+    {
+      "album": {
         "name": "Lecha in De Toschn",
         "url": "https://open.spotify.com/album/3WyeLYYJsLFToXszyIKmNn"
       },
@@ -10506,7 +10524,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 239020,
       "name": "Liar",
       "url": "https://open.spotify.com/track/50CdyAHhFvgljISzTlQlSN"
@@ -11412,7 +11430,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Mannen i speilet",
       "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
@@ -12844,7 +12862,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 171000,
       "name": "Next Call - Remaster",
       "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
@@ -14490,7 +14508,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 279833,
       "name": "Pink Leather Dragon",
       "url": "https://open.spotify.com/track/6J82v5KoNP6SHIpl2L6mxG"
@@ -14806,7 +14824,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 218504,
       "name": "Prolog",
       "url": "https://open.spotify.com/track/3jY33HrpQnWcRD6MDNYvEq"
@@ -14842,7 +14860,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 184240,
       "name": "Protest Dommer",
       "url": "https://open.spotify.com/track/4TxgkuOsPy0b3CMAuGTR30"
@@ -15074,7 +15092,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 230357,
       "name": "Red",
       "url": "https://open.spotify.com/track/3wIZA8RgVwy8MCZ8FbbmjL"
@@ -16134,7 +16152,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 177562,
       "name": "She's Outside",
       "url": "https://open.spotify.com/track/5h0OQLMrwlAHKC1xlO5DG3"
@@ -16224,7 +16242,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 148166,
       "name": "Silence please",
       "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
@@ -16242,7 +16260,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -16314,7 +16332,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 235400,
       "name": "Sister Satan",
       "url": "https://open.spotify.com/track/1oimF27za8gamGoPY57n6n"
@@ -16480,6 +16498,24 @@
       "duration_ms": 170970,
       "name": "Slowly Goes The Night",
       "url": "https://open.spotify.com/track/3s3YAcAClDrZChvOVk8REW"
+    },
+    {
+      "album": {
+        "name": "Small Hands",
+        "url": "https://open.spotify.com/album/0DwurnmpyNqFRc7BfJntot"
+      },
+      "artists": [
+        {
+          "name": "GarageBand",
+          "url": "https://open.spotify.com/artist/6paOCxbaSPczG06fc825Mq"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Small Hands",
+      "url": "https://open.spotify.com/track/5n1HIK0ojoOtRt4uCvYfur"
     },
     {
       "album": {
@@ -17258,7 +17294,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -17744,7 +17780,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -17860,7 +17896,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 216416,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/1b8L17UDtyqHMMSYAxJYRl"
@@ -19802,7 +19838,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 186798,
       "name": "TOO LATE",
       "url": "https://open.spotify.com/track/69EBf3iMvbL04Q0nyuhPuJ"
@@ -20392,6 +20428,24 @@
       "duration_ms": 243275,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/5ymlvITgfdrADuXRFEddj6"
+    },
+    {
+      "album": {
+        "name": "Dimensionality",
+        "url": "https://open.spotify.com/album/4GloANoW8YAXBCguJPZ4wP"
+      },
+      "artists": [
+        {
+          "name": "Mesa House",
+          "url": "https://open.spotify.com/artist/1CDI5YbLN4AJz5VTUzSdFE"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Uneasy",
+      "url": "https://open.spotify.com/track/3mjEUoM5JxDfGLwqf6K8mv"
     },
     {
       "album": {
@@ -22472,7 +22526,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"
@@ -22566,7 +22620,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 405887,
       "name": "\u03a0\u03ad\u03c4\u03c1\u03b9\u03bd\u03b7 \u039a\u03b1\u03c1\u03b4\u03b9\u03ac",
       "url": "https://open.spotify.com/track/0URP7XFmxC0ySmRocZcyhZ"

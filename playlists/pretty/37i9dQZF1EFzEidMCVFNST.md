@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 310 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 310 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 145 | [Mel Safadinho \- Ao Vivo](https://open.spotify.com/track/0zQMTpRnaKTpH9wiyKN8kV) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 3:28 |
 | 146 | [Roceiro Apaixonado \- Ao Vivo](https://open.spotify.com/track/0kprZSNUNrMw85sdFQ386R) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:54 |
 | 147 | [A Chefe](https://open.spotify.com/track/3puyNIEka2XLSO2ueqHJ20) | [Deolane Bezerra](https://open.spotify.com/artist/1aPzm7FJtqESEl0nNjB8zt), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [A Chefe](https://open.spotify.com/album/7qlYsgyB6H4gRPRiTEAKjT) | 3:06 |
-| 148 | [Amor De Confusão \- Ao Vivo Em São José Do Rio Preto / 2019](https://open.spotify.com/track/5tkX6BlWWqFLexRW0UTJHD) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Pra Todo Mundo Ver \(Ao Vivo Em São José Do Rio Preto / 2019 / Vol\. 1\)](https://open.spotify.com/album/49HS8jv1Hi8sOPwlfjJ5ok) | 2:50 |
-| 149 | [Domingo De Chuva](https://open.spotify.com/track/6xsv0mCYbq4C5TtRm5A3yY) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/2sk3tsVz5cmkvU65gPCYVH) | 3:07 |
+| 148 | [Domingo De Chuva](https://open.spotify.com/track/6xsv0mCYbq4C5TtRm5A3yY) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/2sk3tsVz5cmkvU65gPCYVH) | 3:07 |
+| 149 | [Amor De Confusão \- Ao Vivo Em São José Do Rio Preto / 2019](https://open.spotify.com/track/5tkX6BlWWqFLexRW0UTJHD) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Pra Todo Mundo Ver \(Ao Vivo Em São José Do Rio Preto / 2019 / Vol\. 1\)](https://open.spotify.com/album/49HS8jv1Hi8sOPwlfjJ5ok) | 2:50 |
 | 150 | [O Plano](https://open.spotify.com/track/5Qb39DhjfN6hreBiJo9ikX) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE), [Jeninho](https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os) | [O Plano](https://open.spotify.com/album/1lWK0asDIo4ZrBMTKEiOJF) | 2:52 |
 | 151 | [Sol e Mar](https://open.spotify.com/track/6CYHpbTOvUC9HQ8aWxU3Wn) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 1](https://open.spotify.com/album/0xDwMkd9eQMSEI8eX6DMlp) | 3:03 |
 | 152 | [Nem Solteiro, Nem Casado](https://open.spotify.com/track/2bwUCxR06Rb07IzqnWy6s9) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Nem Solteiro, Nem Casado](https://open.spotify.com/album/7AwCW3qncKYCU4WGRYbWHD) | 2:25 |
@@ -281,8 +281,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 271 | [RASCUNHO](https://open.spotify.com/track/4VtB2ZsC23wIgWITyOL66J) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek) | 2:43 |
 | 272 | [Louco por Tu \(Ao Vivo\)](https://open.spotify.com/track/3rRgb24SWRECGFNoXNQPh8) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:41 |
 | 273 | [Tudo Menos Eu](https://open.spotify.com/track/6p0x5kaKOKHVsIwXbxrY36) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil](https://open.spotify.com/album/6zFv6lGXG71eVSR75F6dlA) | 3:00 |
-| 274 | [Quem Quer Esquecer](https://open.spotify.com/track/5MIgemjUysn0APdKD04R4l) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 2:56 |
-| 275 | [Dia D \- Ao Vivo](https://open.spotify.com/track/2x27qfjs2LHNDFCgdbBusn) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2 \(Ao Vivo\)](https://open.spotify.com/album/2BsZHZMyJKhfMMiFb3348T) | 2:49 |
+| 274 | [Dia D \- Ao Vivo](https://open.spotify.com/track/2x27qfjs2LHNDFCgdbBusn) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2 \(Ao Vivo\)](https://open.spotify.com/album/2BsZHZMyJKhfMMiFb3348T) | 2:49 |
+| 275 | [Quem Quer Esquecer](https://open.spotify.com/track/5MIgemjUysn0APdKD04R4l) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 2:56 |
 | 276 | [Apaga Apaga Apaga](https://open.spotify.com/track/0AblU4v5EVSvYuH2iddLox) | [Chupando Halles](https://open.spotify.com/artist/0AZuVrycUN3ZPRBIY4Wca0) | [Chupando Halles \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/0jV4XKftXfuBFzwoL9J0DJ) | 4:12 |
 | 277 | [Meu Mundo E Voce](https://open.spotify.com/track/6f3dG2tqxZM5MuSUXbu31a) | [Marcos & Fernando](https://open.spotify.com/artist/0cHeelq87RR6yX2ttH6MTg) | [Marcos E Fernando](https://open.spotify.com/album/4VXqWRr0tDpgKb0Gc0O8NI) | 3:21 |
 | 278 | [Danada](https://open.spotify.com/track/36eFHUFM0ycLpEORndVcYC) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Energia Não Mente \(Parte 2\)](https://open.spotify.com/album/4PdV8B612SJmygmqYFbyqA) | 2:18 |
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 309 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 |
 | 310 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `AciNvAAAAACT0iZ5YPZXvwTfg5Cwvx4A`
+Snapshot ID: `AciTIAAAAABaYhwXGondA7KLi0krbe/R`

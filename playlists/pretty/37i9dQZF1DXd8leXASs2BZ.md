@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: TAKEKO420
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,013 likes - 115 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,020 likes - 115 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 4 | [Passport Flow](https://open.spotify.com/track/4rijzdZ6UBvOa80TpQE5Wm) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [Passport Flow](https://open.spotify.com/album/2wfd7yEQWn9Cpf8QuXm2s9) | 2:20 |
 | 5 | [0から1](https://open.spotify.com/track/1qXQ0YcbbKkRT0hafruTt0) | [Reichi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D) | [0から1](https://open.spotify.com/album/2eKYbDKLiAG6ryEscvJ91e) | 2:37 |
 | 6 | [黙れ](https://open.spotify.com/track/1XPhwNV73H5mYuo0VKv6WD) | [Jairo nark](https://open.spotify.com/artist/1lmUrNTjONM6jJsBpyBULM) | [J nark MIC performance](https://open.spotify.com/album/6vz4LGp6QzGHGs6zlXQZE4) | 3:02 |
-| 7 | [ChaseTheMoney freestyle \(feat\. CFN MALIK, Jellyyabashi, Brrrsos & 22baby\)](https://open.spotify.com/track/2YBXmX4RXBfPIpxPT1SqK0) | [YOKO SQUAD](https://open.spotify.com/artist/2NSHi5A6nMEmtl7bcPDZbk), [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX), [jellyyabashi](https://open.spotify.com/artist/5kKAUW1SKN5nZWviLZfzzZ), [Brrrsos](https://open.spotify.com/artist/6OdaLkpkxnnwouUTwgMAQa), [22baby](https://open.spotify.com/artist/3mKsM539jtNSew8Qbma5dJ) | [FYBR](https://open.spotify.com/album/7tJ9N8ZrDGf2R43OQt3nW8) | 4:08 |
+| 7 | [ChaseTheMoney freestyle \(feat\. CFN MALIK, Jellyyabashi, Brrrsos & 22baby\)](https://open.spotify.com/track/2YBXmX4RXBfPIpxPT1SqK0) | [YOKO SQUAD](https://open.spotify.com/artist/2NSHi5A6nMEmtl7bcPDZbk), [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX), [Jellyyabashi](https://open.spotify.com/artist/69suZSCot0GYGN0Qi0Ua1D), [Brrrsos](https://open.spotify.com/artist/6OdaLkpkxnnwouUTwgMAQa), [22baby](https://open.spotify.com/artist/3mKsM539jtNSew8Qbma5dJ) | [FYBR](https://open.spotify.com/album/7tJ9N8ZrDGf2R43OQt3nW8) | 4:08 |
 | 8 | [kouken](https://open.spotify.com/track/1UjX1nYh8EUB65cqIYqd10) | [Saggypants Shimba](https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG) | [kouken](https://open.spotify.com/album/4oiKvoGCf9wkbiDDF0Yi94) | 2:08 |
 | 9 | [にゃんにゃん戦争](https://open.spotify.com/track/0pLsi9rkaSQWYoGpB53xnf) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Kush Savage](https://open.spotify.com/artist/3P1lDUfazqTIz6O2axYLmY) | [FIND ME OUT](https://open.spotify.com/album/6X00QVIYeVgLOfioLgmPv1) | 1:33 |
 | 10 | [夕呉 \(feat\. ACE COOL\)](https://open.spotify.com/track/1pR4Fi1puphw3YNlb0fxxV) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [from](https://open.spotify.com/album/3lopI2NrW6S3vtJLTtlUPo) | 3:25 |

@@ -1,13 +1,29 @@
 {
   "description": "New releases for the kids. Cover: Ms. Rachel & Mr. Aron",
-  "num_followers": 105664,
+  "num_followers": 105714,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWLVzKY+pwVqKUgBUi6hMWKaWsh",
+  "snapshot_id": "AAAAAO9WqNVguZIn9RMl0jU2V436SJMO",
   "tracks": [
+    {
+      "added_at": "2026-11-21 17:35:31",
+      "album": {
+        "name": "Hexed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6vzM1pQAny3spDuhLlZ9k2"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 227634,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7Mz7gHxxHSlyCsy1yKmeeF"
+    },
     {
       "added_at": "2026-11-13 05:01:27",
       "album": {
@@ -1803,22 +1819,6 @@
       "duration_ms": 127849,
       "name": "The First Day of School",
       "url": "https://open.spotify.com/track/1F0GS50NFBIeYks6sUGIU6"
-    },
-    {
-      "added_at": "2026-07-17 04:00:48",
-      "album": {
-        "name": "Kids' Greatest Hits",
-        "url": "https://open.spotify.com/album/4UiReCwQXaXYLbz9KX9KcU"
-      },
-      "artists": [
-        {
-          "name": "LooLoo Kids",
-          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "Five Little Monkeys Sing Along",
-      "url": "https://open.spotify.com/track/2X8Mn27aKr5NxXFSWiCdJE"
     }
   ],
   "unique_name": "New Kids Music",

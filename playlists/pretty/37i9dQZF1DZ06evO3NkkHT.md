@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,297 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,371 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 3:05 |
 | 50 | [Picc ah Side](https://open.spotify.com/track/6TbgonRcfEQX9xUUbo9N5M) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:47 |
 
-Snapshot ID: `av48AAAAAAB2/sF2k4k4Lhw5M8POryFC`
+Snapshot ID: `av+NgAAAAAD2q56AmfecvIFugfbRkFYC`

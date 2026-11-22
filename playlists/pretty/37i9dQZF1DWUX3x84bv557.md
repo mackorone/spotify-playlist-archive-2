@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Zoë Livay \(Spotify <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,957 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,940 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200994,
+      "name": "800 cv",
+      "url": "https://open.spotify.com/track/5enru95abMUdvoZGqaWqjL"
+    },
+    {
+      "album": {
         "name": "80qm",
         "url": "https://open.spotify.com/album/5nNXcTFibANjNbLye2jMLU"
       },
@@ -3410,6 +3428,24 @@
       "duration_ms": 138354,
       "name": "AKON",
       "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
+    },
+    {
+      "album": {
+        "name": "Akuza",
+        "url": "https://open.spotify.com/album/3ZURGbrAbYvSPz3s1ja9rV"
+      },
+      "artists": [
+        {
+          "name": "Kidda",
+          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "Akuza",
+      "url": "https://open.spotify.com/track/4Bow2NCTtGeo7PsTnOiWMS"
     },
     {
       "album": {
@@ -5112,7 +5148,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -7374,7 +7410,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -8574,7 +8610,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 190960,
       "name": "BANTU MENTALIT\u00c9",
       "url": "https://open.spotify.com/track/0Acl8fJa73xQ1nmEdIuKGx"
@@ -13738,7 +13774,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -24550,7 +24586,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -25434,6 +25470,24 @@
       "duration_ms": 190327,
       "name": "Fl\u00fcgefische",
       "url": "https://open.spotify.com/track/548Ui03in4Dat66SwnIZqe"
+    },
+    {
+      "album": {
+        "name": "FL\u00dcGEL",
+        "url": "https://open.spotify.com/album/3LF1E9zmSNaTntoBM1ujiT"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172858,
+      "name": "FL\u00dcGEL",
+      "url": "https://open.spotify.com/track/5LkjTiiR368ZNlIZbCe7yV"
     },
     {
       "album": {
@@ -28393,6 +28447,28 @@
     },
     {
       "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -28884,7 +28960,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -34358,7 +34434,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -34880,7 +34956,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -40481,7 +40557,7 @@
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 336495,
+      "duration_ms": 336337,
       "name": "Life Is Real",
       "url": "https://open.spotify.com/track/70Ou8rph9E3tqebWIhn8T9"
     },
@@ -43036,6 +43112,28 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
+    },
+    {
+      "album": {
+        "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+        "url": "https://open.spotify.com/album/3aWz9wbzzF4LTtPC1XkO9r"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123253,
+      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/3AwCviyAGjYBjeCYz5vWep"
     },
     {
       "album": {
@@ -48414,7 +48512,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
@@ -50162,7 +50260,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -57057,6 +57155,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Purosangue",
+      "url": "https://open.spotify.com/track/2PGcxFm284PpdW3xAbxt1h"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -57784,7 +57900,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -66410,7 +66526,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 173386,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
@@ -70384,6 +70500,28 @@
       "duration_ms": 312794,
       "name": "Thriller - 2003 Edit",
       "url": "https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f"
+    },
+    {
+      "album": {
+        "name": "Throw That Thang",
+        "url": "https://open.spotify.com/album/4TrFNu02UOt6B9tgpxy8OQ"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203276,
+      "name": "Throw That Thang",
+      "url": "https://open.spotify.com/track/2dtnHqzhrZWxpowKi0swwo"
     },
     {
       "album": {
@@ -74747,6 +74885,32 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211170,
+      "name": "Victory Lap (feat. Shiva, Geolier)",
+      "url": "https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4"
+    },
+    {
+      "album": {
         "name": "Vielen Dank",
         "url": "https://open.spotify.com/album/2etLSDgqjXojLOpg7zZV3r"
       },
@@ -75785,6 +75949,24 @@
     },
     {
       "album": {
+        "name": "WAS HAST DU MIT MIR GEMACHT",
+        "url": "https://open.spotify.com/album/02ita9FKgdsCvgXRgIhWZF"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "WAS HAST DU MIT MIR GEMACHT",
+      "url": "https://open.spotify.com/track/7ez3IUR4Zk7GKVzMcFhsxH"
+    },
+    {
+      "album": {
         "name": "Was macht Gzuz?!",
         "url": "https://open.spotify.com/album/0ROvNi7xFUP9SNA4xNSaO4"
       },
@@ -76552,6 +76734,32 @@
       "duration_ms": 141817,
       "name": "Wei\u00dft Du",
       "url": "https://open.spotify.com/track/5Si5NXNqqYE1OMQ0Zg8ipI"
+    },
+    {
+      "album": {
+        "name": "WELCOME (feat. Eminem)",
+        "url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162412,
+      "name": "WELCOME (feat. Eminem)",
+      "url": "https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM"
     },
     {
       "album": {
@@ -77740,7 +77948,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
@@ -80564,6 +80772,24 @@
       "duration_ms": 160817,
       "name": "Zwischen den Wolken (feat. Karen & Tarek K.I.Z)",
       "url": "https://open.spotify.com/track/2VSsJgvIyjG32tT7hLPmIq"
+    },
+    {
+      "album": {
+        "name": "Z\u00e4me simer vieli",
+        "url": "https://open.spotify.com/album/1ylj6BHbHea1DtxoBAW8MW"
+      },
+      "artists": [
+        {
+          "name": "Jule X",
+          "url": "https://open.spotify.com/artist/1TSeKOGQXY1ERc745kFTJ0"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162773,
+      "name": "Z\u00e4me simer vieli",
+      "url": "https://open.spotify.com/track/63uorVaaXUhzBcYY5c2qVO"
     },
     {
       "album": {

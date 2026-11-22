@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550 likes - 64 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 551 likes - 64 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 4 | [So Amazing](https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 3:44 |
 | 5 | [Please Come Home for Christmas](https://open.spotify.com/track/2mOtx6P21hecOcPoVuZbzF) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 3:37 |
 | 6 | [Don't You Know That?](https://open.spotify.com/track/5RooV1JApOOviPiQcho9xx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 4:02 |
-| 7 | [There's Nothing Better Than Love](https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:45 |
-| 8 | [If I Didn't Know Better](https://open.spotify.com/track/6GBxfhz2eKwlF1OaYGy7Cx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:07 |
+| 7 | [If I Didn't Know Better](https://open.spotify.com/track/6GBxfhz2eKwlF1OaYGy7Cx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:07 |
+| 8 | [There's Nothing Better Than Love](https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:45 |
 | 9 | [Every Year, Every Christmas](https://open.spotify.com/track/5lPlakX2SJa6dOaMY8LiDj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 5:06 |
 | 10 | [Your Secret Love](https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:12 |
 | 11 | [Keeping My Faith In You](https://open.spotify.com/track/7ji63VKn7BttCU7hqnbZxF) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:55 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 | 64 | [Best of All the Worst](https://open.spotify.com/track/4goN8Bu1d2tMfXdkrjbtLE) | [Power of Three](https://open.spotify.com/artist/2X9kK2mdRUNiUed2yuhhEI) | [Best Of All The Worst](https://open.spotify.com/album/4J0Wp5xSXKCPBuIrAgo4sz) | 4:04 |
 
-Snapshot ID: `AciNigAAAABZfHZLWLO78t/ULpLfdm0L`
+Snapshot ID: `AciTPgAAAADupsOxEN1eAF19sxGAbDPa`

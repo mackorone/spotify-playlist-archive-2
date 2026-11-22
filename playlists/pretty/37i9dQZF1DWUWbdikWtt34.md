@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Robi DA7
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,999 likes - 112 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,024 likes - 112 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

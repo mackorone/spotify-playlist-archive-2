@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. B0YG1RL on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,760 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,777 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 5 | [5 Point Palm Exploding Heart Technique](https://open.spotify.com/track/7MQmAlT1CD20zFoCZCUmLK) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 2:54 |
 | 6 | [Undertow](https://open.spotify.com/track/6DOjBiSpsvE8qgEb2nV8Wz) | [Arthur Hnatek](https://open.spotify.com/artist/7iKMlMMzSb9jVQDwygYlOT) | [Undertow](https://open.spotify.com/album/1AqbbnxsnAgrNYYWF3zv0y) | 3:14 |
 | 7 | [REALITY](https://open.spotify.com/track/4VJ6UuQ0IvSbUCjh3JPt79) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq) | [B0YG1RL](https://open.spotify.com/album/2lPdkaDRDeLDpzTEXi7iuj) | 3:26 |
-| 8 | [IDKW2TU](https://open.spotify.com/track/02x9wWn5dzcJrPcD2EkUKa) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [IDKW2TU](https://open.spotify.com/album/5yYpZHFXzEhxynQBK1AKbZ) | 3:25 |
+| 8 | [IDKW2TU](https://open.spotify.com/track/02x9wWn5dzcJrPcD2EkUKa) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N), [CASHWAN](https://open.spotify.com/artist/11iS3CLAnWiIPQE3cOI2NK) | [IDKW2TU](https://open.spotify.com/album/5yYpZHFXzEhxynQBK1AKbZ) | 3:25 |
 | 9 | [TT Stunt](https://open.spotify.com/track/3ET3cgh7NYU74PoEU1RmzS) | [Loidis](https://open.spotify.com/artist/2TDYu0uxVowgHaYN6P14k2) | [From The Toolkit Of Lovers](https://open.spotify.com/album/6dbpTliEiGiQF6qphsDv2F) | 7:30 |
 | 10 | [Mirror signal](https://open.spotify.com/track/3eyBCLt3X0ysU6PvfTtShm) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K), [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [Late Loop](https://open.spotify.com/album/5ma4Jeo1KwJXQpBOKkq2PF) | 4:53 |
 | 11 | [One Trip](https://open.spotify.com/track/79gQh0dbQeOgav4OZkyED2) | [Factory Floor](https://open.spotify.com/artist/6xgNzJAeEB8BTOSzcTO1EI) | [Continuation / One Trip](https://open.spotify.com/album/0mKVOorU7BTZPz52RRBeY2) | 5:36 |

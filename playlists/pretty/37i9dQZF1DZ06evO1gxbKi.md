@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,936 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,938 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 49 | [Everybody's Gonna Have A Wonderful Time Up There \(Gospel Boogie\)](https://open.spotify.com/track/42qyhd9ofnURz1MC3pnxzH) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 3](https://open.spotify.com/album/4RrvoXYcDS4fd9E98jsJ7T) | 2:44 |
 | 50 | [Amazing Grace](https://open.spotify.com/track/6l3QpNalr5RJy3QKkCUrzu) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:25 |
 
-Snapshot ID: `av48AAAAAADQ9gyypzGnO3K5PmprSmVW`
+Snapshot ID: `av+NgAAAAAC0gl3v5hU7nmEIAg3PaBAJ`

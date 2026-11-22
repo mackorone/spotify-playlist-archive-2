@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-1,108 songs - 1 day 14 hr 29 min
+1,111 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [i'll still wait for you](https://open.spotify.com/track/3vl9LRYuSGuOmvHYoXqMf9) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [i'll still wait for you](https://open.spotify.com/album/521MPHp2Y8dkNLrNmjaoqr) | 1:49 | 2025-05-30 |  |
 | [i'm sorry for everything](https://open.spotify.com/track/0RZV3Sqz7fgmi48JVWFEfh) | [Shomamick.](https://open.spotify.com/artist/5cBBiwYlrrXcMDHPAMKIep) | [i'm sorry for everything](https://open.spotify.com/album/3kDUm6u4TnmRrkt0yiOJgg) | 2:19 | 2025-07-19 | 2026-01-03 |
 | [IDNLVYU](https://open.spotify.com/track/2bNIWsEl9JUYaLR50BYI3H) | [dierollie](https://open.spotify.com/artist/03bk7A5a2rXuTbYyLdqyhb) | [IDNLVYU](https://open.spotify.com/album/4YdVnrvCa2mczW7LD6k90l) | 2:03 | 2025-12-19 | 2026-01-03 |
+| [idée noire](https://open.spotify.com/track/4joiQc4ne1gJRULcdvsx4w) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [idée noire](https://open.spotify.com/album/7llJbiYIPkvf6XBgS4mmdU) | 2:24 | 2026-11-21 |  |
 | [if i never wake up](https://open.spotify.com/track/3aXKOAW4cpaDS5H1gNXLZO) | [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9) | [Freedom](https://open.spotify.com/album/1MXVcmYFMHX0J2YxVyzPgD) | 2:12 | 2026-05-30 |  |
 | [if i stay](https://open.spotify.com/track/3CKPe4xQpTvRQq6906AwwT) | [lienu](https://open.spotify.com/artist/0WRJNZY1CNsywmFn89i6GP) | [if i stay](https://open.spotify.com/album/0oH1EFxyd4J4PcrVNkQ9Fc) | 1:44 | 2026-09-25 |  |
 | [if i weren't so broken](https://open.spotify.com/track/58C1KFbKcG21zs76iuLzCc) | [analog\_mannequin](https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH) | [if i weren't so broken](https://open.spotify.com/album/44XFwJ1M6YFdSrX8JevCcM) | 3:05 | 2026-06-27 |  |
@@ -811,6 +812,7 @@
 | [scanlines](https://open.spotify.com/track/4TOv15SXms5GawHFGASchy) | [weather system](https://open.spotify.com/artist/0ozJozgTJh1netV5iNDJAu) | [scanlines](https://open.spotify.com/album/6ATO5mK75L6zJyPLENMd3A) | 2:03 | 2025-06-06 |  |
 | [scence](https://open.spotify.com/track/0oHTd0ybm5kH5RaU2GHevE) | [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU), [almogfx](https://open.spotify.com/artist/099h113YJ299YZfyIEDncL) | [scence](https://open.spotify.com/album/1g8O7NRLU7UhrN8rHnTcgd) | 2:23 | 2025-06-27 |  |
 | [school rooftop](https://open.spotify.com/track/5CAfv3LrBonpnIkbjcYkui) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [school rooftop](https://open.spotify.com/album/5IIOintFw4zTSsvgY8146S) | 2:40 | 2025-11-09 |  |
+| [scion](https://open.spotify.com/track/3KIK66h5lOUogO7AOHICON) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l), [Kub0](https://open.spotify.com/artist/1G0DoICczjBpWjARx4g1yO) | [scion](https://open.spotify.com/album/2Ryxl81TrfGe1bZeDlf5fx) | 2:17 | 2026-11-21 |  |
 | [search of lost](https://open.spotify.com/track/61vIGTG92joyrXh8MxKqYS) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [search of lost](https://open.spotify.com/album/20CuTO31SVsdSSfD51YNho) | 1:36 | 2026-02-27 |  |
 | [searching for you](https://open.spotify.com/track/5khuxTETOEZmGwRf6ccJ8m) | [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [searching for you](https://open.spotify.com/album/495WHOU0T4w0e82VGovhH8) | 1:36 | 2025-05-02 |  |
 | [seashore](https://open.spotify.com/track/3yPBsRjYwyZ3kpchV9oVFK) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7) | [seashore](https://open.spotify.com/album/6QdqK7LiCMWfuDdR7Aa6wx) | 1:49 | 2025-08-02 |  |
@@ -965,6 +967,7 @@
 | [those days were beautiful](https://open.spotify.com/track/2IZHegG9khVH5vgvDxxKUv) | [nØtexist](https://open.spotify.com/artist/6sFI7g0y6nDykIhAn6r1UX) | [those days were beautiful](https://open.spotify.com/album/1CqkWyEzD6xe7lxXzO942R) | 2:16 | 2025-04-25 |  |
 | [thoughtlife](https://open.spotify.com/track/5S08kuquOfSPvfsUQC5qBI) | [since 1993](https://open.spotify.com/artist/4wlPCsRxw2NDDcpNZYKiv2) | [thoughtlife](https://open.spotify.com/album/4oMBrguA7nKLKcXFvn7126) | 2:59 | 2025-08-15 |  |
 | [thresholds](https://open.spotify.com/track/1AWRHDnpNHCvzEiI5YrifB) | [statika](https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83) | [thresholds](https://open.spotify.com/album/0mfydTsiXymcPgwrxoEhHu) | 1:22 | 2025-08-08 |  |
+| [throes of compassion](https://open.spotify.com/track/1ba8TeZtAElOs0s9CxPzR5) | [nœm.](https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE), [dreamveil](https://open.spotify.com/artist/2rS07JNfWaQ1W4R83bM6HW) | [throes of compassion](https://open.spotify.com/album/3VGgJobvRTrh5AGMlUbQTq) | 3:04 | 2026-11-21 |  |
 | [through my childhood eyes](https://open.spotify.com/track/2zSRjTKmcat7DyP0InAwgK) | [Child Of The Clouds](https://open.spotify.com/artist/4HYMCcgMtKwY5yvQwNQwRm) | [through my childhood eyes](https://open.spotify.com/album/0kQLCft1NX7nyclwKUqO08) | 2:22 | 2025-07-19 | 2026-01-03 |
 | [thunderstorm](https://open.spotify.com/track/5Lrr58B8NY4aHUM95obUln) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [thunderstorm](https://open.spotify.com/album/2T8GUggfRJ83OVQ0UnlBB5) | 1:20 | 2026-10-11 |  |
 | [till eternity](https://open.spotify.com/track/7A0MI7RMJQcDuaVDu15QeP) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [ambient furniture vol\. 1](https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq) | 1:23 | 2026-10-11 |  |

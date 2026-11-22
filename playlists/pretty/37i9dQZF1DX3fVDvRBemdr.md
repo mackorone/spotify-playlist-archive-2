@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Rene Karst 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,614 likes - 102 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,632 likes - 102 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

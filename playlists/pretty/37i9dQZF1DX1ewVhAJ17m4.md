@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Like Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,676 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,686 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

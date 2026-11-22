@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Dermot Henry
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,535 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,533 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -111,9 +111,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 101 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 |
 | 102 | [Niente Da Perdere](https://open.spotify.com/track/1hkI9llv6C123opgiGoDBj) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:21 |
 | 103 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
-| 104 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
-| 105 | [MALASUERTE](https://open.spotify.com/track/3kBToJJ8zUdXNFOxBlObOy) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:40 |
+| 104 | [MALASUERTE](https://open.spotify.com/track/3kBToJJ8zUdXNFOxBlObOy) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:40 |
+| 105 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 106 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 | 107 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 
-Snapshot ID: `AciNxgAAAACRBJAufD/hoGbeb0AT99W4`
+Snapshot ID: `AciTDAAAAABNUR2OgsOhOWbotl0Og1+f`

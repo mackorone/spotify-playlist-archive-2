@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Gabby Moura, Imaginasamba
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,236 likes - 74 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,247 likes - 74 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

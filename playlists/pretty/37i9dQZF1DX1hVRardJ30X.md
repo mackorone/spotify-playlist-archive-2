@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Paloma Morphy, Myke Towers & Rauw Alejandro, Joaquina, Kapo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,638 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,645 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 14 | [Malcria](https://open.spotify.com/track/5mFZfZAypJz1gR7dXMeHqn) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Malcria](https://open.spotify.com/album/7hbPOwVx5c1ehsANDOK54P) | 2:18 |
 | 15 | [\(Hey Baby\) Qué Pasó?](https://open.spotify.com/track/0xWEAlPvE7YJj1o36xei8m) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [\(Hey Baby\) Qué Pasó?](https://open.spotify.com/album/24bckPC97urDozPMVTogg1) | 2:59 |
 | 16 | [Moreno Fantasy rmx](https://open.spotify.com/track/3ypqyY9KRSP8Db1SzYwnUe) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Moreno Fantasy rmx](https://open.spotify.com/album/5LDo69kDsEUiM982sa3Z17) | 3:43 |
-| 17 | [HABITACIÓN \- Pro League](https://open.spotify.com/track/179Ia6FcqRNvqetZUsKuip) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Marcelo Rubio](https://open.spotify.com/artist/73SzRVvTkuEWYn2AtdhU5Q) | [HABITACIÓN \(Pro League\)](https://open.spotify.com/album/0vGhb6FVWg4vyLeDCjvnzq) | 3:09 |
+| 17 | [HABITACIÓN \- Pro League](https://open.spotify.com/track/179Ia6FcqRNvqetZUsKuip) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [HABITACIÓN \(Pro League\)](https://open.spotify.com/album/0vGhb6FVWg4vyLeDCjvnzq) | 3:09 |
 | 18 | [Lo Siento Mi Amor \- Spotify Singles](https://open.spotify.com/track/1w2i07yE8CvDcbA8bnrEAj) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Lo Siento Mi Amor \- Spotify Singles](https://open.spotify.com/album/7zoTDjFYDlSMeXL3E1xiAf) | 3:27 |
 | 19 | [NOVELA \(chica q guapa\)](https://open.spotify.com/track/5Z63bP7bF6Vx7oyaicMyts) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [NOVELA \(chica q guapa\)](https://open.spotify.com/album/7y7R94bDFRBKAZh8gEFXPD) | 2:56 |
 | 20 | [ADÁN Y EVA](https://open.spotify.com/track/071YJXiLNE5ygbIMW8JTpB) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [ADÁN Y EVA](https://open.spotify.com/album/3kJa7NLyJ92u2YkSG65bnQ) | 3:40 |

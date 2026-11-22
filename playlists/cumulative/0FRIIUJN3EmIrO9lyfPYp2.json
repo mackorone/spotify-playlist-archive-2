@@ -9677,6 +9677,24 @@
     },
     {
       "album": {
+        "name": "id\u00e9e noire",
+        "url": "https://open.spotify.com/album/7llJbiYIPkvf6XBgS4mmdU"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "id\u00e9e noire",
+      "url": "https://open.spotify.com/track/4joiQc4ne1gJRULcdvsx4w"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1MXVcmYFMHX0J2YxVyzPgD"
       },
@@ -15575,6 +15593,28 @@
     },
     {
       "album": {
+        "name": "scion",
+        "url": "https://open.spotify.com/album/2Ryxl81TrfGe1bZeDlf5fx"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        },
+        {
+          "name": "Kub0",
+          "url": "https://open.spotify.com/artist/1G0DoICczjBpWjARx4g1yO"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "scion",
+      "url": "https://open.spotify.com/track/3KIK66h5lOUogO7AOHICON"
+    },
+    {
+      "album": {
         "name": "search of lost",
         "url": "https://open.spotify.com/album/20CuTO31SVsdSSfD51YNho"
       },
@@ -18528,6 +18568,28 @@
       "duration_ms": 82372,
       "name": "thresholds",
       "url": "https://open.spotify.com/track/1AWRHDnpNHCvzEiI5YrifB"
+    },
+    {
+      "album": {
+        "name": "throes of compassion",
+        "url": "https://open.spotify.com/album/3VGgJobvRTrh5AGMlUbQTq"
+      },
+      "artists": [
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        },
+        {
+          "name": "dreamveil",
+          "url": "https://open.spotify.com/artist/2rS07JNfWaQ1W4R83bM6HW"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "throes of compassion",
+      "url": "https://open.spotify.com/track/1ba8TeZtAElOs0s9CxPzR5"
     },
     {
       "album": {

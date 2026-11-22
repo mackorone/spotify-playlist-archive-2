@@ -1,6 +1,6 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 22769,
+  "num_followers": 22774,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
-        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 315898,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ELZA2",
         "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 236093,
       "name": "\u9769\u547d",
       "url": "https://open.spotify.com/track/3vrRp3jqWHh1viOqo7AfBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 315898,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Null",
-        "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 332160,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ELZA2",
         "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
       },
@@ -647,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "GG",
-      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wonderer",
         "url": "https://open.spotify.com/album/1epCToRIcaej0S2RbwU8sR"
       },
@@ -679,6 +647,22 @@
       "duration_ms": 255075,
       "name": "Wonderer",
       "url": "https://open.spotify.com/track/1Ohak4cmxlOjnvgEr7GHLz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Null",
+        "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 332160,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
       "duration_ms": 227266,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6VlPH5gZxmk5tdRJzAl6Aa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GG",
+        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "GG",
+      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
     },
     {
       "added_at": null,

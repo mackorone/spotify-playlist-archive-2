@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,070 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,071 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 49 | [Lil Bit \(feat\. METTA\)](https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Metta](https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:42 |
 | 50 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
 
-Snapshot ID: `av48AAAAAAAmdyyZkAXSC4R+0gDaElFE`
+Snapshot ID: `av+NgAAAAABCsOSDCNnNfp+RJPDRFEU0`

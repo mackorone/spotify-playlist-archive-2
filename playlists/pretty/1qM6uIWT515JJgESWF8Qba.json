@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 628,
+  "num_followers": 631,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACZArBWDgrSGmTctg9whxKpMCGLRVw",
+  "snapshot_id": "AAACaCX96KMuv9MwfZ34StoHtmY5hynM",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1235,6 +1235,70 @@
       "duration_ms": 237893,
       "name": "Chasing The Pain",
       "url": "https://open.spotify.com/track/1QTIeW4raevjoFoqCnpyJN"
+    },
+    {
+      "added_at": "2026-11-21 16:12:24",
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR"
+      },
+      "artists": [
+        {
+          "name": "Black Grouse",
+          "url": "https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4"
+        }
+      ],
+      "duration_ms": 165723,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO"
+    },
+    {
+      "added_at": "2026-11-21 16:12:40",
+      "album": {
+        "name": "Fuck Off",
+        "url": "https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u"
+      },
+      "artists": [
+        {
+          "name": "Black Grouse",
+          "url": "https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Fuck Off",
+      "url": "https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT"
+    },
+    {
+      "added_at": "2026-11-21 16:14:14",
+      "album": {
+        "name": "City To Ourselves",
+        "url": "https://open.spotify.com/album/0yRXOtTOW4YHWwVIhYGOZ5"
+      },
+      "artists": [
+        {
+          "name": "Hag Roast",
+          "url": "https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ"
+        }
+      ],
+      "duration_ms": 218269,
+      "name": "City To Ourselves",
+      "url": "https://open.spotify.com/track/6BkXcKxGTEV8InQPa56gvN"
+    },
+    {
+      "added_at": "2026-11-21 18:38:33",
+      "album": {
+        "name": "DDeep in Soul",
+        "url": "https://open.spotify.com/album/5sObpToTONHJqsGCV7KMe6"
+      },
+      "artists": [
+        {
+          "name": "Piglets DDeep Forest",
+          "url": "https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY"
+        }
+      ],
+      "duration_ms": 846428,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6jVrywFRidATOA5opVWDAg"
     }
   ],
   "unique_name": "Local Rock Bands",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,018 likes - 75 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,026 likes - 75 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 21 | [Brochevarevarurar](https://open.spotify.com/track/5gRW0aQdzRizSiXVvfLsLl) | [A\. Kanyakumari](https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH) | [Strings Of Harmony \- Violin On 3 Octaves](https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob) | 5:28 |
 | 22 | [Tandanana \- Instrumental](https://open.spotify.com/track/0JON5cHB8JHm6HosXlkMRR) | [S\. Ballesh](https://open.spotify.com/artist/4Ayo58CebvhV9I7IguYsm4) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 4:53 |
 | 23 | [Raga Bhairavi / Raagam\-Taanam](https://open.spotify.com/track/11N16vE0jjIFgLaz6jN4XF) | [T\. N\. Krishnan](https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE) | [The Carnatic Violin](https://open.spotify.com/album/2FCE6mcnD61Vm44xnEf6A1) | 17:47 |
-| 24 | [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 |
+| 24 | [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Umayalpuram K\. Sivaraman](https://open.spotify.com/artist/6DeWClYw2sFmW2UMltys8Q), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [V\. Lakshminarayana](https://open.spotify.com/artist/0WUMt5JqpkWXGk4O1NItFi) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 |
 | 25 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:49 |
 | 26 | [Charukesi \(Violin Solo\)](https://open.spotify.com/track/7sbj3epB23VijBZxq8FgNs) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 6:24 |
 | 27 | [Varamu Thillana](https://open.spotify.com/track/50HvKoFvoDCwWXFCnMbWCx) | [Jayanthi Kumaresh](https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT) | [Thillana Thillana](https://open.spotify.com/album/0dirlx0J8UVjf1xTuimgwf) | 8:47 |

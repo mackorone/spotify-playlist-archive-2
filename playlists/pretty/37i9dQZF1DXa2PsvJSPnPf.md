@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,436 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,440 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

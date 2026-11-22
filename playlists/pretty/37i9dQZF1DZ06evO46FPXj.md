@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46FPXj.md) - [plain]
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,989 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,992 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46FPXj.md) - [plain]
 | 49 | [Pro Radii](https://open.spotify.com/track/5aQaszY8FoaiDYWoefdTBC) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/5GkWqRrNyaJHMDrVOQK2bt) | 8:41 |
 | 50 | [Tewe](https://open.spotify.com/track/0kP5ZOXqlNDZqy0oIbXJjI) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB) | 6:56 |
 
-Snapshot ID: `av48AAAAAACCJqPPIC7mMBD/Dr8/SMLW`
+Snapshot ID: `av+NgAAAAACO3wkzxm9XOBjtsV6VPj2F`

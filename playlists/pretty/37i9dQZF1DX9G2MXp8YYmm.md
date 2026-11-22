@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G2MXp8YYmm.md) - [plain]
 
 > Popun sevilen isimleri\. Kapak: Hande Mehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,667 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,669 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

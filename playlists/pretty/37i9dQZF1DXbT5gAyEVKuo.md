@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Transformation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,155 likes - 75 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,185 likes - 75 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

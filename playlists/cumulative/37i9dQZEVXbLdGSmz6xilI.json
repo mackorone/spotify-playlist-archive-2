@@ -4274,7 +4274,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -12190,6 +12190,24 @@
     {
       "album": {
         "name": "t\u00ecnh",
+        "url": "https://open.spotify.com/album/0uiU9hZIBhDOaad9HCp7sX"
+      },
+      "artists": [
+        {
+          "name": "Kha",
+          "url": "https://open.spotify.com/artist/6tWaQSIL7reD85PKStNk28"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354782,
+      "name": "H\u01b0 kh\u00f4ng",
+      "url": "https://open.spotify.com/track/0sR5ThoE0uoskXWrm6KDxP"
+    },
+    {
+      "album": {
+        "name": "t\u00ecnh",
         "url": "https://open.spotify.com/album/3OHwEMy3p3ZczW3L62lZbv"
       },
       "artists": [
@@ -14152,7 +14170,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 228413,
       "name": "Kh\u00f4ng Th\u1ec3 Say",
       "url": "https://open.spotify.com/track/1K0HQ30Wc11okzlcnFA7Ub"
@@ -23082,7 +23100,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 235658,
       "name": "Sandwich & Story",
       "url": "https://open.spotify.com/track/50xuQI5QlXggFKpq66IBON"
@@ -25120,6 +25138,24 @@
       "duration_ms": 238330,
       "name": "Suit & Tie",
       "url": "https://open.spotify.com/track/38MI5LpTajiO3A0DQGcCmu"
+    },
+    {
+      "album": {
+        "name": "Sun Showers (From \"The Angry Birds Movie 3\u201d)",
+        "url": "https://open.spotify.com/album/4cNtPGMuwAtNKCN7NT7dMj"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171012,
+      "name": "Sun Showers (From \"The Angry Birds Movie 3\u201d)",
+      "url": "https://open.spotify.com/track/43LLlCRgC6fYYqIaXGLmpd"
     },
     {
       "album": {
@@ -28120,7 +28156,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
@@ -28156,7 +28192,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -29582,7 +29618,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 210067,
       "name": "V\u1ebft M\u01b0a",
       "url": "https://open.spotify.com/track/5cn5oHiXJTLiuthgbgfkMh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,367 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,383 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 25 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 |
 | 26 | [Bbydhyonchord](https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:33 |
 | 27 | [4](https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:37 |
-| 28 | [em2500 M253X \[London 03.06.17\]](https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 1:52 |
+| 28 | [\#1](https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:27 |
 | 29 | [Kladfvgbung Mischk](https://open.spotify.com/track/47O5CKgLTHDAo2BPxcECYw) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 2:06 |
-| 30 | [\#1](https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:27 |
+| 30 | [em2500 M253X \[London 03.06.17\]](https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 1:52 |
 | 31 | [Analogue Bubblebath](https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 |
 | 32 | [\#21](https://open.spotify.com/track/56wLenDrpunq4jPiMMissg) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 4:15 |
-| 33 | [minipops 67 \[120.2\]\[source field mix\]](https://open.spotify.com/track/00xFfMsOn9TbRe3sZcdABm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 4:47 |
-| 34 | [\#7](https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 8:51 |
+| 33 | [\#7](https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 8:51 |
+| 34 | [minipops 67 \[120.2\]\[source field mix\]](https://open.spotify.com/track/00xFfMsOn9TbRe3sZcdABm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 4:47 |
 | 35 | [Gwely Mernans](https://open.spotify.com/track/4g6qsLXJvMybGoPlnDM4yU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 5:08 |
 | 36 | [On](https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG) | 7:12 |
 | 37 | [Goon Gumpas](https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 46 | [Rhubarb Orc\. 19.53 Rev](https://open.spotify.com/track/2fRIkIeA6I99RfxmcKAaUG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 6:41 |
 | 47 | [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 4:22 |
 | 48 | [Yellow Calx](https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:04 |
-| 49 | [Spiral Staircase \(AFX Remix\) \[London 14.09.2019\]](https://open.spotify.com/track/26f6imLWpUiaBZa7SWNfI7) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv), [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG), [AFX](https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 5:05 |
-| 50 | [XMAS\_EVET10 \[120\]\[thanaton3 mix\]](https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 10:31 |
+| 49 | [XMAS\_EVET10 \[120\]\[thanaton3 mix\]](https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 10:31 |
+| 50 | [Spiral Staircase \(AFX Remix\) \[London 14.09.2019\]](https://open.spotify.com/track/26f6imLWpUiaBZa7SWNfI7) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv), [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG), [AFX](https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 5:05 |
 
 Snapshot ID: `av48AAAAAAAz65ie54CXMTcX/HxDKmA1`

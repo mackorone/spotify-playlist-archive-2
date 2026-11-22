@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Loli Molina
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,635 likes - 120 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,639 likes - 120 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

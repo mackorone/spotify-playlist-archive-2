@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,415 likes - 50 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,414 likes - 50 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 36 | [Alvo Mais Que a Neve](https://open.spotify.com/track/0715W8VVrXKZ0AEGvh0NV0) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Alvo Mais Que a Neve](https://open.spotify.com/album/2rjke7YMI8dwuldfIgrvAz) | 5:49 |
 | 37 | [Glória & Honra \- Ao Vivo](https://open.spotify.com/track/6TDIE68zeCLRsSFMSzhveu) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl) | 6:25 |
 | 38 | [Não Temerei Jamais \- Ao Vivo](https://open.spotify.com/track/6Sdrwq8zngkVO1ChdJeZhu) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/07v04MgOyAk8ydF6OlKF4q) | 5:52 |
-| 39 | [Me Esvaziar \- Ao Vivo](https://open.spotify.com/track/3Q1gs1DPIasox473EGBjsT) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO) | 4:32 |
-| 40 | [O Leão E A Igreja \(feat\. Nívea Soares\) \- Ao Vivo](https://open.spotify.com/track/1WGYEaDlxW9BTSFVCi664Z) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Preto no Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT) | 4:27 |
+| 39 | [O Leão E A Igreja \(feat\. Nívea Soares\) \- Ao Vivo](https://open.spotify.com/track/1WGYEaDlxW9BTSFVCi664Z) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Preto no Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT) | 4:27 |
+| 40 | [Me Esvaziar \- Ao Vivo](https://open.spotify.com/track/3Q1gs1DPIasox473EGBjsT) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO) | 4:32 |
 | 41 | [Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/5dVJKhH37X59z49GwroBA1) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl) | 13:10 |
 | 42 | [Medley Coração Igual ao Teu \- Ao Vivo](https://open.spotify.com/track/2PjEd6B3RbNNNAfmtVmbAr) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Helena Tannure](https://open.spotify.com/artist/39KjnIg0klnFqQwuYenYnn), [Mariana Valadão](https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Memórias do Coração \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/66g2KoRXmiPxTUBEcoUi5d) | 7:17 |
 | 43 | [Tu És Bom \- Ao Vivo](https://open.spotify.com/track/3jD3glgtQJZhaZxXuDieIA) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/6n2hi8eE4YQ9fs9vkZm5Io) | 8:59 |

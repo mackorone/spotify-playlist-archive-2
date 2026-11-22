@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > La tierra del Rap de oro puro\. Ian Cordova en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,717 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,699 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

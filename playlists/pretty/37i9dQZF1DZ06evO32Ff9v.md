@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,242 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,265 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [El Caguamillo](https://open.spotify.com/track/5iTCPbNS7QcfJzG8VToyMi) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Alta Gama](https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m) | [El Caguamillo](https://open.spotify.com/album/1Lsk54vHCJZFIzb0wsH0Em) | 3:11 |
 | 50 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
 
-Snapshot ID: `av48AAAAAAARLVsG5R6rufgpH8VdqwSG`
+Snapshot ID: `av+NgAAAAACxrBzTrkPbyYskPIeNSHcY`

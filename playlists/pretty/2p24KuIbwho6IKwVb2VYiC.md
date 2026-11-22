@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Loud Luxury
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 20,937 likes - 113 songs - 5 hr 48 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 20,936 likes - 113 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 1 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 2 | [Just A Little Bit More](https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Just A Little Bit More](https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC) | 3:34 |
 | 3 | [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 |
 | 4 | [Get Some](https://open.spotify.com/track/70uWjZG9zxWYYoP7a0RHI7) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Get Some](https://open.spotify.com/album/0Q1FtIcbcTuU6frCg9aQA3) | 1:48 |

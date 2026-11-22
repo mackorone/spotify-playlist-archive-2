@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > unge kniv 🔪 @Albert
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,171 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,164 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 69 | [Somebody Else](https://open.spotify.com/track/42TZ8v1FCmjONt811taDFA) | [Brimheim](https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J) | [Somebody Else](https://open.spotify.com/album/5ixLrST22xz2PcqTsHb6zu) | 2:58 |
 | 70 | [Jetlag](https://open.spotify.com/track/6HtKaapCZGhHKvuWatfaLk) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Jetlag](https://open.spotify.com/album/5rNJuFVUU2CwTBWB8Zw5fk) | 4:01 |
 
-Snapshot ID: `AAAAAAMGiGPzk49CuJsRtgkHi/U0KGAl`
+Snapshot ID: `AAAAAP2IspmvD4h5KO7eyUD/NNtrcVeT`

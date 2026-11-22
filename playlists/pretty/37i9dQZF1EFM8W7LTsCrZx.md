@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 146 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 146 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 39 | [Zwilling](https://open.spotify.com/track/28eswYbPQEl1dCvxz5lWQc) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Zwilling](https://open.spotify.com/album/2kZQkjTic3M1mG1dVIB0Av) | 1:44 |
 | 40 | [Nichts hittet mehr](https://open.spotify.com/track/02yiCq5hKu0U8NWdqJDKRv) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:28 |
 | 41 | [Seite an Seite](https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Seite an Seite](https://open.spotify.com/album/56he14BpKsirM76ZLonOa1) | 3:30 |
-| 42 | [Lonely](https://open.spotify.com/track/4SJlI83lQrhKAQG53uobmU) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:40 |
-| 43 | [Aguilera Christina](https://open.spotify.com/track/3ySIm2Y0PMfkJCwHPOQykL) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Aguilera Christina](https://open.spotify.com/album/4SKWxTdvlXcFXbH4NeKRTB) | 2:24 |
+| 42 | [Aguilera Christina](https://open.spotify.com/track/3ySIm2Y0PMfkJCwHPOQykL) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Aguilera Christina](https://open.spotify.com/album/4SKWxTdvlXcFXbH4NeKRTB) | 2:24 |
+| 43 | [Lonely](https://open.spotify.com/track/4SJlI83lQrhKAQG53uobmU) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:40 |
 | 44 | [So weit weg \(Molekül\)](https://open.spotify.com/track/4zM3hlAbAOIjDn4rawv9XM) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:31 |
 | 45 | [ALLEIN](https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:23 |
 | 46 | [OH LORD](https://open.spotify.com/track/0PognQlVVpu4bIzHHEoEFm) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg) | [OH LORD](https://open.spotify.com/album/2F2NuTUqKfHoTyTH1d5Ab3) | 2:17 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 51 | [NRW](https://open.spotify.com/track/4WcUdGXHHtKfZj9ysZka2D) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:19 |
 | 52 | [Water Freestyle](https://open.spotify.com/track/75CfQ5KmvgV3WsJ8dFOHwJ) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Say Less \(Bonus\)](https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV) | 3:27 |
 | 53 | [Tage die uns brechen](https://open.spotify.com/track/4A6FX1XiK7tD48Omknk2Bs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 3:16 |
-| 54 | [Nebel](https://open.spotify.com/track/5qpsr6fAJd12dd1TsCofZl) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 1:23 |
-| 55 | [Soft](https://open.spotify.com/track/73pOCqJVVHoyMLH3orprph) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:08 |
+| 54 | [Soft](https://open.spotify.com/track/73pOCqJVVHoyMLH3orprph) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:08 |
+| 55 | [Nebel](https://open.spotify.com/track/5qpsr6fAJd12dd1TsCofZl) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 1:23 |
 | 56 | [Strasse brennt](https://open.spotify.com/track/5JFLVMxSuepBp8O4oL8nHj) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 3:05 |
 | 57 | [ROLLING LOUD](https://open.spotify.com/track/459vC3MIlA0fxybzgnsmxO) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Lelosa](https://open.spotify.com/artist/0RHTQm9f0cO7uay999YTiW) | [ROLLING LOUD](https://open.spotify.com/album/3hYzftzzaINi005lS6mpG6) | 2:46 |
 | 58 | [Moneyfeen](https://open.spotify.com/track/0AuQf2tbJaP5gNw6xVUtc0) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moneyfeen](https://open.spotify.com/album/2h0BSzn8CrAUCYENsGpbFI) | 2:39 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 79 | [Halleluja](https://open.spotify.com/track/4Fkx5o8Im6eS4IQ2P4scPb) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:17 |
 | 80 | [Kronleuchter](https://open.spotify.com/track/3S1nKUgekSLhaqYrmtb9vc) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:43 |
 | 81 | [PREMIUM CHAYA](https://open.spotify.com/track/3JmFFDkQ91JCesqIKzYkDl) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:29 |
-| 82 | [Too Many](https://open.spotify.com/track/7lU5Ai0Zqrq9Kone1nfKVq) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [Say Less \(Bonus\)](https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV) | 2:48 |
-| 83 | [GIRLS NIGHT](https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:37 |
+| 82 | [GIRLS NIGHT](https://open.spotify.com/track/3XGyzbloYVg9rWO2anCbeE) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:37 |
+| 83 | [Too Many](https://open.spotify.com/track/7lU5Ai0Zqrq9Kone1nfKVq) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [Say Less \(Bonus\)](https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV) | 2:48 |
 | 84 | [Hoch](https://open.spotify.com/track/46J1w8OPUxruyaNPGNvt81) | [Gianni Suave](https://open.spotify.com/artist/1krJvMu9OkhIxX5cMoZGLb), [Ramzey](https://open.spotify.com/artist/4LiSTXiV4QgUW5ZmJMaAm5), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [Ich falle in Frieden \(Deluxe\)](https://open.spotify.com/album/4FqZDl238SgxOnB2JD30RI) | 2:46 |
 | 85 | [Oxygen](https://open.spotify.com/track/1ldGKrswcYHf1dVrIQEhqF) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 1:40 |
 | 86 | [RICH BITCH](https://open.spotify.com/track/0KwDfeMNRdw6h8fZVma1Ef) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:28 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 145 | [prelude german dream](https://open.spotify.com/track/01evqoqXak7CRQfusYyKff) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:28 |
 | 146 | [prelude girls night](https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:14 |
 
-Snapshot ID: `AciNqAAAAABNcbATogfesWXMAlz8q0lP`
+Snapshot ID: `AciTDAAAAAD7BF+Y+dhXtGO5MqlLfKFA`

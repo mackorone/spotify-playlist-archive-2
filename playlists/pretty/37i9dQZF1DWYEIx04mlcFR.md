@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Baskiat en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,256 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,255 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [KAWASAKI \- &TEAM Remix](https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8) | 2:41 |
 | 50 | [Estás DISTANTE](https://open.spotify.com/track/6tYwbdJWWrHo1l7OrymbUS) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [DISTANTE & tarde !!!](https://open.spotify.com/album/2EYql05GEvhAARlphRH6xH) | 3:02 |
 
-Snapshot ID: `AAAAAAFgnToqPHIRpr2XJukZv2w3aiZq`
+Snapshot ID: `AAAAAFN3/SjdYbVsr+OEQQ4OrVMz5JIS`

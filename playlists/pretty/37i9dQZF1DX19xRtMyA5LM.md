@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks van Kevin, Spanker, Mesy, Rijck, Bartofso en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,300 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,258 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 11 | [Gecompliceerd](https://open.spotify.com/track/4M0gnzN0BgEDgIthLbo1B7) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [Manio](https://open.spotify.com/artist/0WHCUAZSpyxMxMjF5qTtx8), [Tyrex](https://open.spotify.com/artist/0cElq2CAnpC2fh9mZHe9Tb) | [Gecompliceerd](https://open.spotify.com/album/21aULVUNsP11yI83Gdcm2A) | 3:10 |
 | 12 | [Spaarpot](https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Qlassiek](https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt) | 2:13 |
 | 13 | [FF TERUG](https://open.spotify.com/track/0KxUxkxhBwFJaPSZxQkOB1) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [FF TERUG](https://open.spotify.com/album/3OvaKp5a4jLDpIt9pGseaT) | 4:12 |
-| 14 | [Crimi’s](https://open.spotify.com/track/5BXW4GHpeI1sx79uf1EW5q) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw) | [Crimi’s](https://open.spotify.com/album/54iq2zPKKTgKUV2J8h4bGK) | 2:48 |
+| 14 | [Crimi’s](https://open.spotify.com/track/5BXW4GHpeI1sx79uf1EW5q) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Crimi’s](https://open.spotify.com/album/54iq2zPKKTgKUV2J8h4bGK) | 2:48 |
 | 15 | [Therapy](https://open.spotify.com/track/78SJwGy4jvYsWaRwOa7uAN) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Therapy](https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD) | 2:04 |
 | 16 | [PROJECT FLEX](https://open.spotify.com/track/6s5clLEiXgpkYRyJSP0Gnu) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Project Flex](https://open.spotify.com/album/7E1vZAyUrCRUE0l3LYp4MT) | 1:30 |
 | 17 | [Belangrijk](https://open.spotify.com/track/1SStwka8Rc6xFWMsViJgOf) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [DE GIER](https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw) | 2:39 |

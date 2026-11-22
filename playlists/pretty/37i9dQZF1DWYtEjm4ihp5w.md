@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: 7ari
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,689 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,738 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 2 | [PARANOÏAQUE](https://open.spotify.com/track/1UIxNpRP57J00xb8IQ6RyY) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [PARANOÏAQUE](https://open.spotify.com/album/3xfSHo9LFtLKJDqT2XWDtq) | 3:19 |
 | 3 | [J'en ai marre](https://open.spotify.com/track/2RL4lGgnvpJzZg4lfTvrPo) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [J'en ai marre](https://open.spotify.com/album/6g5QAGRcNpbBohDuirDkIx) | 3:36 |
 | 4 | [Sabor](https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Sabor](https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU) | 3:48 |
-| 5 | [Gen Z Girl](https://open.spotify.com/track/5RHMJ0D3NdDZJbyyzk2VyK) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Gen Z Girl](https://open.spotify.com/album/3p0Yk1rIxm1GakEmcqAOgA) | 3:22 |
+| 5 | [Chemkara](https://open.spotify.com/track/6ogFiUOgCO5Td1WiYDPTNs) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Paranormal](https://open.spotify.com/album/3w6eeGeDIxMGrTGqwpLtxU) | 2:55 |
 | 6 | [CARAPACE](https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [CARAPACE](https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX) | 2:49 |
-| 7 | [Chemkara](https://open.spotify.com/track/6ogFiUOgCO5Td1WiYDPTNs) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Paranormal](https://open.spotify.com/album/3w6eeGeDIxMGrTGqwpLtxU) | 2:55 |
-| 8 | [Couci Couca](https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [UFUL](https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3) | 3:05 |
+| 7 | [Couci Couca](https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [UFUL](https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3) | 3:05 |
+| 8 | [Gen Z Girl](https://open.spotify.com/track/5RHMJ0D3NdDZJbyyzk2VyK) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Gen Z Girl](https://open.spotify.com/album/3p0Yk1rIxm1GakEmcqAOgA) | 3:22 |
 | 9 | [PRINCES DE LA VILLE](https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Hoba Hoba Spirit](https://open.spotify.com/artist/2aZPgvcYQD2z4NIoO8x8Gi) | [A MAN WITH A GUN](https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV) | 3:37 |
 | 10 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 |
 | 11 | [shetana](https://open.spotify.com/track/0kW1NmONG0dtHGHxrkPHgo) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [hated gummo](https://open.spotify.com/album/4ygfhl1detXw7Qsrcssh6Q) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [OMAR](https://open.spotify.com/track/1EbiUYXaBSCEShyNcuywcl) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 3:03 |
 | 50 | [CVP](https://open.spotify.com/track/3ZHISEni91oxZLbjDmtsAy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 2:47 |
 
-Snapshot ID: `AAAAAOL4BVQAug3p5AUPbAULfDIh1wBl`
+Snapshot ID: `AAAAAGGVYmomxcTvWCqTLIb8ceeRG6eV`

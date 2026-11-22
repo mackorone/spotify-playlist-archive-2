@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: aespa, Eartha Kitt\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,539 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,646 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 |
 | 100 | [Heart of Christmas](https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Heart of Christmas](https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P) | 3:31 |
 
-Snapshot ID: `AAAAADDctX1jL3+xIIWOxuTydjygf4+A`
+Snapshot ID: `AAAAANG39/PVSRPxugDuESQfw1IR0pfe`

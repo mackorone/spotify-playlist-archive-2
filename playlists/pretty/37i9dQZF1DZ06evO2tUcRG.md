@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,058 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,049 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 49 | [Essência da Adoração](https://open.spotify.com/track/4KoQN1sEF0q7AyomRFVjLP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/1xI0My3Cq8ZQOjHY3YXwmD) | 7:53 |
 | 50 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/6PGTtlFYNqK8nyYpuMj4wi) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/17bkTKEjHWr60N9bMUrGo6) | 5:09 |
 
-Snapshot ID: `av48AAAAAAAqLCH2CBKFzb7YTwyniKdX`
+Snapshot ID: `av+NgAAAAAAdDO6YFxbP/jHA+5xKyDDt`

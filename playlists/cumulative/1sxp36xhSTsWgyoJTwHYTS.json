@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "BIMMA",
+        "url": "https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v"
+      },
+      "artists": [
+        {
+          "name": "AME",
+          "url": "https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177136,
+      "name": "BIMMA",
+      "url": "https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j"
+    },
+    {
+      "album": {
         "name": "Bitcoin",
         "url": "https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp"
       },

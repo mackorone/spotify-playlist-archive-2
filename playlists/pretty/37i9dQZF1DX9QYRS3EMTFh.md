@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta, bouyon & dembow du moment\. Photo : Miimii KDS x LeJuh x Pyroman
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,561 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,591 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TTN](https://open.spotify.com/track/3QqDXTzciS0a0qQFWomKvz) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i), [Pyroman](https://open.spotify.com/artist/3Y5ViBDZKQTqxMGpN0WoWS) | [TTN](https://open.spotify.com/album/7yySkCyB7zsDmiZoyEfJ1v) | 2:31 |
+| 1 | [TTN](https://open.spotify.com/track/3QqDXTzciS0a0qQFWomKvz) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i), [Pyroman](https://open.spotify.com/artist/3almi4LtPglSLIHNUsCzQp) | [TTN](https://open.spotify.com/album/7yySkCyB7zsDmiZoyEfJ1v) | 2:31 |
 | 2 | [Bad](https://open.spotify.com/track/31F6qHhydlh0c7lHs4DmQe) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [Bad](https://open.spotify.com/album/2hvDcEaSZpbkQuA4djiLcu) | 2:22 |
 | 3 | [Bobo](https://open.spotify.com/track/4xfzyZozGFxFcClEoIxGVm) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [Lamasa](https://open.spotify.com/artist/1uUK444FLjdUxGArP7aOgN) | [Bobo](https://open.spotify.com/album/2266x7U3u0WVTOsbbiCTgA) | 2:19 |
 | 4 | [Bruk Out](https://open.spotify.com/track/2orzQOODmU0MrB3ABFT51g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Bruk Out](https://open.spotify.com/album/10WwNtINKl6G0AgP5LdneO) | 2:20 |

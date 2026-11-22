@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 49 | [Rat Bat Blue \- Remastered](https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:26 |
 | 50 | [Uncommon Man](https://open.spotify.com/track/7t49MeETMEZ3QaFM0oXw0C) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Now What ?!](https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5) | 7:00 |
 
-Snapshot ID: `av48AAAAAAAO4D8iqm89Y2P2OqHrnS/k`
+Snapshot ID: `av+NgAAAAACFskypDr+K1BnQUWyuWKAZ`

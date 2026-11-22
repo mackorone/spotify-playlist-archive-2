@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Adèle Castillon, Jul x J Balvin, Dua Lipa, Ninho et Pomme au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,603 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,571 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 25 | [La fin du monde](https://open.spotify.com/track/3cvew17wXJitNwcS1sgmW8) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [La fin du monde](https://open.spotify.com/album/1NNucGlIZ6KGCgaSOWgTD5) | 3:05 |
 | 26 | [Strings of Fate](https://open.spotify.com/track/74lfSiAHg1z7qfjai64qHg) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Strings of Fate](https://open.spotify.com/album/1JRfQITGdbUjLnrhwGnsK7) | 3:12 |
 | 27 | [Back 2 Basics](https://open.spotify.com/track/2qOAPQHnLnmdGeMzpPgdLg) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Back 2 Basics](https://open.spotify.com/album/7j8isPHDehSK7vvzX8a7cG) | 3:36 |
-| 28 | [TTN](https://open.spotify.com/track/3QqDXTzciS0a0qQFWomKvz) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i), [Pyroman](https://open.spotify.com/artist/3Y5ViBDZKQTqxMGpN0WoWS) | [TTN](https://open.spotify.com/album/7yySkCyB7zsDmiZoyEfJ1v) | 2:31 |
+| 28 | [TTN](https://open.spotify.com/track/3QqDXTzciS0a0qQFWomKvz) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i), [Pyroman](https://open.spotify.com/artist/3almi4LtPglSLIHNUsCzQp) | [TTN](https://open.spotify.com/album/7yySkCyB7zsDmiZoyEfJ1v) | 2:31 |
 | 29 | [YUME](https://open.spotify.com/track/1kS1tlbXznxJ1Lcf41rL0A) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Raul](https://open.spotify.com/artist/7HJvf1WkxIKAF20M4uENgs) | [YUME](https://open.spotify.com/album/4i03JuGhTAVzOemgFYo88e) | 3:32 |
 | 30 | [Evil](https://open.spotify.com/track/33fdsT0aOPGhHe3YUaWQz4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Evil](https://open.spotify.com/album/2kd3EO629nFKikFxc7MpH4) | 3:00 |
 | 31 | [Debout](https://open.spotify.com/track/1wk6Zve0KRioYIbDVmR3tS) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Ici Noé](https://open.spotify.com/album/7vdPcR5eHr8WjKcY7bgOkc) | 3:39 |

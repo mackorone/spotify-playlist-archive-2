@@ -54541,6 +54541,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5ei5rUUj6XCudY0xcqepWt"
+      },
+      "artists": [
+        {
+          "name": "Hotline",
+          "url": "https://open.spotify.com/artist/63QwEh7zhIXBVV2TViF89I"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170922,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5w3BDwaQXAjYvKrpBDuwSn"
+    },
+    {
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -72906,6 +72924,24 @@
       "duration_ms": 110593,
       "name": "Safe With Me (sped up)",
       "url": "https://open.spotify.com/track/0o0LVtOSeeLMyBzqeav4nW"
+    },
+    {
+      "album": {
+        "name": "Antarctica (Chillout)",
+        "url": "https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj"
+      },
+      "artists": [
+        {
+          "name": "DJAR3K",
+          "url": "https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334639,
+      "name": "Sailing through the seas",
+      "url": "https://open.spotify.com/track/6hrPdxv4KwueUnZSHW1dDO"
     },
     {
       "album": {

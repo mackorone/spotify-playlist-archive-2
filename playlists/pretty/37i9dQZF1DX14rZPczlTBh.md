@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,648 likes - 50 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,664 likes - 50 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

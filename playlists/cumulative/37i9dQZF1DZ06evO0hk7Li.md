@@ -4,10 +4,11 @@
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-138 songs - 7 hr 37 min
+139 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(So\) Good](https://open.spotify.com/track/0bFr0AA8WoucJLgJ1QE5YP) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [\(So\) Good](https://open.spotify.com/album/5K6FlxKKY0lm7vpLTKkxQ9) | 3:23 | 2026-11-22 |  |
 | [A Tree Never Waters Itself](https://open.spotify.com/track/7yuDZRLymVMwVSycLdA2rB) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book I](https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v) | 1:38 | 2024-11-24 |  |
 | [A Tree Never Waters Itself \- A COLORS SHOW](https://open.spotify.com/track/0IiJqBVwl2UBndbj09abSA) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [A Tree Never Waters Itself \- A COLORS SHOW](https://open.spotify.com/album/1TPZIZ7ofOyvNKtoqy643u) | 1:55 | 2025-03-30 | 2025-04-27 |
 | [Aim for My Head](https://open.spotify.com/track/4QAQ3JRAFcBm0zrX3oREX4) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:09 | 2022-08-27 | 2022-10-27 |
@@ -99,7 +100,7 @@
 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 | 2023-05-20 |  |
 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 | 2021-12-28 |  |
 | [Our Song](https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-31 |  |
-| [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 | 2022-08-28 |  |
+| [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 | 2022-08-28 | 2026-11-22 |
 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 | 2021-12-28 |  |
 | [Paris \(Interlude\)](https://open.spotify.com/track/5IGgGCX3RegkeEAgNvNQAr) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 0:56 | 2026-04-13 | 2026-04-29 |
 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 | 2021-12-28 |  |

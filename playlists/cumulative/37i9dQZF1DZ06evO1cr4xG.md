@@ -4,7 +4,7 @@
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-99 songs - 7 hr 52 min
+100 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Shogun](https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 11:54 | 2022-05-31 |  |
 | [Sickness Unto You](https://open.spotify.com/track/4cCPkc82Y1zBw98LXLR6Gc) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:14 | 2022-05-30 | 2022-10-11 |
 | [Silence in the Snow](https://open.spotify.com/track/6R8XKSzEw5DteWa9zAOhq3) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:40 | 2022-05-30 |  |
-| [Six Walls](https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Struck Dead](https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ) | 7:18 | 2025-11-02 |  |
+| [Six Walls](https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Struck Dead](https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ) | 7:18 | 2025-11-02 | 2026-11-22 |
 | [Snøfall](https://open.spotify.com/track/6EDhenm0Rc3MJBAQ2SpbGZ) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 1:28 | 2022-05-30 | 2022-10-13 |
 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 | 2022-05-30 |  |
 | [Struck Dead](https://open.spotify.com/track/3b8yFZD80QgsltsbrYjJXQ) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Struck Dead](https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ) | 5:17 | 2025-11-02 |  |
@@ -92,6 +92,7 @@
 | [The Revanchist](https://open.spotify.com/track/2CSpiBpyXR0n5uWdjptqhP) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 7:17 | 2022-06-04 | 2022-10-13 |
 | [The Shadow Of The Abattoir](https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 7:11 | 2022-05-30 |  |
 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 | 2022-05-30 |  |
+| [The Terror](https://open.spotify.com/track/2AhaxVHsIEJXXrAtHpLsty) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Crown In The Grave](https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ) | 4:42 | 2026-11-22 |  |
 | [The Thing That's Killing Me](https://open.spotify.com/track/0WlNuiiMIAmSN67LhqH6zm) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:30 | 2024-07-06 | 2024-07-07 |
 | [The Wretchedness Inside](https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:31 | 2022-06-01 |  |
 | [This World Can't Tear Us Apart](https://open.spotify.com/track/4UpehRX0AFfdhFX2ZQNETh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade](https://open.spotify.com/album/42MixogSAsobX5po649Y0j) | 3:30 | 2022-05-30 | 2022-10-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,021 likes - 80 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,044 likes - 80 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

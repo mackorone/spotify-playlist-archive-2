@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist frá Zara Larsson, Gracie Abrams og mörgum fleirum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,741 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,740 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

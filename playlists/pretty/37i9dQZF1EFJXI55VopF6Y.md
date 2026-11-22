@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 71 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 71 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 24 | [Downtown](https://open.spotify.com/track/7HC2wmjJiRWTafCVJ51fzF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/79lxZaUXKearOjAgMsW295) | 2:11 |
 | 25 | [Your Move](https://open.spotify.com/track/3Rmp4xkxopfS9X86UbaZan) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Your Move](https://open.spotify.com/album/1AQLlITkv6bazdrKg2uyME) | 3:07 |
 | 26 | [Snälla berätta för mig](https://open.spotify.com/track/10P8TvdoE4tARfz4JNSm51) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:23 |
-| 27 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
-| 28 | [Girls Girl](https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 3:24 |
+| 27 | [Girls Girl](https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 3:24 |
+| 28 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 29 | [Bittersweet Escape](https://open.spotify.com/track/37HFzLXWBnlbbzXzTbUpnX) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 2:47 |
 | 30 | [Dance All Night](https://open.spotify.com/track/7Krdp9RzlsUtsRxs7Y5wQP) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:55 |
 | 31 | [Flicker](https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:17 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 70 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 71 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AciNigAAAAC6k1HZMbGt5pvFftZ6lNEy`
+Snapshot ID: `AciTAgAAAAAAj91hyGm7uZzk8B0KJX16`

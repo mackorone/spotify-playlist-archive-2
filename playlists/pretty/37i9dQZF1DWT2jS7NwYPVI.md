@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Madra Salach
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,372 likes - 203 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,381 likes - 203 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Lucero, Majo Aguilar 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,315 likes - 88 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,355 likes - 88 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

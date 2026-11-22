@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,455 likes - 62 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,460 likes - 62 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. La Dinastía de Tuzantla Michoacán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,501 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,532 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

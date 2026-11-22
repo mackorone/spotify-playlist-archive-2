@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Dua Lipa, Sido, Helene Fischer, Monet192, GIMS & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,478 likes - 93 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,482 likes - 93 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 17 | [Spinello](https://open.spotify.com/track/6GYj5j3wGUvbFmxI5sFv0c) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU) | [Spinello](https://open.spotify.com/album/1V7tv8X3yjWOXIfS2jurXe) | 1:29 |
 | 18 | [Blumen geschenkt](https://open.spotify.com/track/4bhiE9z1G6w4NDfHOACB1u) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Blumen geschenkt](https://open.spotify.com/album/7m551qrKMvSQY8RB8Ujpfj) | 4:56 |
 | 19 | [Zäme simer vieli](https://open.spotify.com/track/63uorVaaXUhzBcYY5c2qVO) | [Jule X](https://open.spotify.com/artist/1TSeKOGQXY1ERc745kFTJ0) | [Zäme simer vieli](https://open.spotify.com/album/1ylj6BHbHea1DtxoBAW8MW) | 2:42 |
-| 20 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 20 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 21 | [pantani](https://open.spotify.com/track/2dY2ziDM4NZFJKA90oXkPb) | [Luuk](https://open.spotify.com/artist/0gmyQ8yVCO4u4QZgwTnw2P) | [pantani](https://open.spotify.com/album/7fiLcvClbA1SuwUQ8gEdVk) | 2:42 |
 | 22 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 23 | [Plus la même](https://open.spotify.com/track/4LR8VSrOJryO2uOIcjxVIG) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [\(Re\)belle](https://open.spotify.com/album/3aAOQOzk2Iso145hyJ65Nu) | 2:50 |

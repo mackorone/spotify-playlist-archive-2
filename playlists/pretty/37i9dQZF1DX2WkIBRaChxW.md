@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring GIVĒON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,528 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,491 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

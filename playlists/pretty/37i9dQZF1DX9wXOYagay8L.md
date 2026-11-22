@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: The Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,691 likes - 95 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,751 likes - 95 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 10 | [I Choose You](https://open.spotify.com/track/0GUE9FYe401DkryTuUBS7b) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [I Choose You](https://open.spotify.com/album/23tkxRAF7cyv8rS6rGuUzl) | 3:24 |
 | 11 | [Idliso](https://open.spotify.com/track/7DmG8BsUL1PZRlrQNW9AgP) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Intando Kumnini](https://open.spotify.com/album/7y9ZTolHoLTcGuoJrk0PSR) | 3:43 |
 | 12 | [Uthando Olumnandi](https://open.spotify.com/track/4d0ndOCNJVDanM593ywDBs) | [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP), [Seemah](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [LilyFaith](https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv) | [Uthando Olumnandi](https://open.spotify.com/album/6yNgWwMpvbv9tBzySpysrp) | 4:37 |
-| 13 | [Ifa Lami \(feat\. Anzo & Tshego AMG\)](https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Anzo](https://open.spotify.com/artist/17hUKyhHJ29kKUdyOzax7a), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Ifa Lami](https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB) | 4:19 |
+| 13 | [Ifa Lami \(feat\. Anzo & Tshego AMG\)](https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Ifa Lami](https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB) | 4:19 |
 | 14 | [Intliziyo Yam \(feat\. ThandaMusic & Phila Madlingozi\)](https://open.spotify.com/track/08CUFo3F4Fyo2h88wis5ZR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [ThandaMusic](https://open.spotify.com/artist/1dLjf8moHgk7y4fyqLZwgm), [Phila Madlingozi](https://open.spotify.com/artist/4zPXgTnWEA519PcjqEAhho) | [Intliziyo Yam \(feat\. ThandaMusic & Phila Madlingozi\)](https://open.spotify.com/album/4vHigfoQ55jMrsZ9pTVpJe) | 4:46 |
 | 15 | [Uze Wazi](https://open.spotify.com/track/3GYiqvumhNGXCSV1OPe8H8) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Ipasi](https://open.spotify.com/album/3yUNhSSh2NVxnJr3ZbiA5o) | 4:22 |
 | 16 | [Ntombi YomSotho](https://open.spotify.com/track/4bSpLUkOha2SlMIrg2yOl5) | [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Ntombi YomSotho](https://open.spotify.com/album/5OWa7YwEt4EpMNYpnffd9C) | 4:07 |

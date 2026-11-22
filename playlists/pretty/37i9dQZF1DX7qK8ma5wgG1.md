@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 
 > It's okay to cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,759,230 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,759,125 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 | 11 | [Mine](https://open.spotify.com/track/7Mrm4nzcPAiYMQK3iewCRY) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:08 |
 | 12 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 13 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 |
-| 14 | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/track/3h7UpzkWwGHDSYOyZzjWgN) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/7s9tN7wLGVuWclzIeywrxs) | 3:30 |
+| 14 | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/track/3h7UpzkWwGHDSYOyZzjWgN) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/7s9tN7wLGVuWclzIeywrxs) | 3:30 |
 | 15 | [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 |
 | 16 | [I love being sad](https://open.spotify.com/track/5Mcj19iLQqbwAf1uun8Td7) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I love being sad](https://open.spotify.com/album/2iAOojxL36gOF93qPbn36B) | 2:35 |
 | 17 | [It Is What It Is](https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [It Is What It Is](https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4) | 3:10 |

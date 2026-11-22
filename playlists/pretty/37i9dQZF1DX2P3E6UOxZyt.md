@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 大咖讓歌單很有料，小眾讓歌單有得聊。Cover: KAXA
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,522 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,525 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

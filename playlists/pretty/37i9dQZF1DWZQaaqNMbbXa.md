@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops! Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,483 likes - 133 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,517 likes - 133 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

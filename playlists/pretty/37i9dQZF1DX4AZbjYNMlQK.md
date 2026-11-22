@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,449 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,487 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 74 | [Diciembre](https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM) | [Ander](https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc), [Romo One](https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs) | [Diciembre](https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4) | 3:35 |
 | 75 | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [voy a pedirte a ti \(esta navidad\)](https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG) | 2:42 |
 
-Snapshot ID: `AAAAALzrOgJ2T5RYkIPeDAgNq4gyHcZy`
+Snapshot ID: `AAAAAJC78YcqMmeblYNeJhhUDG4AjJEI`

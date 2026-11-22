@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,628 likes - 199 songs - 15 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,695 likes - 199 songs - 15 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

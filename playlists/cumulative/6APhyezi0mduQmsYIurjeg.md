@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-628 songs - 1 day 14 hr 0 min
+630 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Don't go to strangers](https://open.spotify.com/track/2VJTAJ8KjA7z1hNbkMAu9L) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [A Dozen Years Ago, Dozen Songs\. J.J\. Cale Tribute](https://open.spotify.com/album/1TLHKnWvLSPZMAcXGxcyX9) | 3:03 | 2025-10-27 |  |
 | [Don't Let Go \- Jameson Remix](https://open.spotify.com/track/3yhHxzZUKIfv2rEKQZ3RV4) | [Left on Read](https://open.spotify.com/artist/2sTYQuj6Z7HAif2Bm2BkCb), [Jameson](https://open.spotify.com/artist/3HFEPOD054IjtQnTHFeUXY) | [Don't Let Go \(Jameson Remix\)](https://open.spotify.com/album/3A5e2uYJoNEh4MLZiOx04m) | 3:26 | 2025-01-07 |  |
 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:37 | 2023-01-10 |  |
+| [Don't Turn Away](https://open.spotify.com/track/2guSt8H3wo8SEvuOKLF1v9) | [SS.PERSIAN](https://open.spotify.com/artist/0OrIsLM9dCRG7SzGpzlhNJ) | [OCEAN OF MELODIES](https://open.spotify.com/album/3qo5wqHfKMVB09QbogeG0T) | 5:13 | 2026-11-21 |  |
 | [Don't waste your life!](https://open.spotify.com/track/66qJkRBNunqOwKYcbg6W8D) | [gimbal.lock](https://open.spotify.com/artist/0wv7aRV86MRNE9N0RcSobf) | [Don't waste your life!](https://open.spotify.com/album/4SebSNbUzPtNbLjv5AX7IV) | 3:32 | 2023-10-19 |  |
 | [Don't Worry Be Happy](https://open.spotify.com/track/0QgLs0OmNTDHobbLJTt08s) | [Companhia da Música](https://open.spotify.com/artist/0ssB1qf1ATFwpRWDkZZFmr) | [20](https://open.spotify.com/album/6t01iFld3K2PUfxwc6X1bD) | 4:41 | 2023-01-10 |  |
 | [Donde Termina La Cerca \- Version Live in Magdalena Sound Studio](https://open.spotify.com/track/1PgPzntsYQbrmhTeix0Bjb) | [Fran Jimeno](https://open.spotify.com/artist/2zYCI88yNXrhj9c08iD3wD) | [Set Live in Magdalena Sound Studio \(Version Live in Magdalena Sound Studio\)](https://open.spotify.com/album/3P3RmoveAQyD1wuhInWNL9) | 3:12 | 2025-01-07 |  |
@@ -299,6 +300,7 @@
 | [Kick](https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:42 | 2023-01-10 |  |
 | [Kiss Cam Anxiety](https://open.spotify.com/track/1eZuofkHaErKgHCMLXiESP) | [Circus Nerves](https://open.spotify.com/artist/0DcUB0yCRCW7ZcxoYO2QQW) | [Kiss Cam Anxiety](https://open.spotify.com/album/77coKL0yOnrMiBdWf8ivMf) | 4:03 | 2024-12-29 |  |
 | [La Chica del Centro](https://open.spotify.com/track/6fca1NUXcdFTPy0k0gurvX) | [Línea Zero](https://open.spotify.com/artist/0zwHd6kFgUntrDDxvbtDKa) | [La Chica del Centro](https://open.spotify.com/album/4uZoTJzkQoe11vkzdZUAHc) | 2:58 | 2025-03-19 |  |
+| [La Colpa](https://open.spotify.com/track/6RYdVakZoIM4pNgfnPLbpa) | [Zephiro](https://open.spotify.com/artist/7euzpSgCdCp5RdQQ1hvsyJ) | [Baikonur](https://open.spotify.com/album/2Lk0UEtxvptllO1hnePJSZ) | 4:33 | 2026-11-21 |  |
 | [La signora Minù](https://open.spotify.com/track/3LnMB8WTQKH4rFCygtWfOB) | [Fakkinautika](https://open.spotify.com/artist/7t98FJi0ooEfFTHybstPgl) | [Basta essere profondi](https://open.spotify.com/album/1uexJxcoZqf7YXSuAmHJwX) | 3:38 | 2025-11-03 |  |
 | [Laberinto](https://open.spotify.com/track/6fSvVwotOPr57E5Xl8X9sY) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 5:49 | 2025-11-03 |  |
 | [Las uvas de la ira](https://open.spotify.com/track/5QPyYbQAXD7SHCCTYeEklM) | [Marga Sur](https://open.spotify.com/artist/7rSixX8zFeTYZ3KqB9HPaf) | [Las uvas de la ira](https://open.spotify.com/album/2HqEuxTldY61ykrGQMTQ6L) | 3:39 | 2024-02-26 |  |

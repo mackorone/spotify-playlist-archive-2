@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with Julien Baker.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,136,145 likes - 84 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,135,699 likes - 84 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

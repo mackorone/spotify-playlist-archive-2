@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: cikho
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,443 likes - 307 songs - 16 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,440 likes - 307 songs - 16 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,7 +258,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 248 | [You Got](https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [You Got](https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r) | 3:26 |
 | 249 | [Sex N' Drugs](https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:44 |
 | 250 | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/track/5mEW1mq6KKEOO5rgHrepif) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/album/5kYQxc0ICdvP7ZS9OfR0i6) | 4:57 |
-| 251 | [war outside](https://open.spotify.com/track/7IXCfadpx5y8O37WojfLUp) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [war outside](https://open.spotify.com/album/2NIWgo6xKR6YbWt0xfKw0z) | 3:06 |
+| 251 | [war outside](https://open.spotify.com/track/7IXCfadpx5y8O37WojfLUp) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [war outside](https://open.spotify.com/album/2NIWgo6xKR6YbWt0xfKw0z) | 3:06 |
 | 252 | [One Foot in Front of the Other](https://open.spotify.com/track/1gh1oLs5EBKsGf5KDwgxiO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/39biam1ziDPOSlUeB9fx3L) | 3:12 |
 | 253 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 |
 | 254 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |

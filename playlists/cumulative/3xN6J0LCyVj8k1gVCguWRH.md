@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,738 songs - 15 day 17 hr 8 min
+6,742 songs - 15 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Better Tho](https://open.spotify.com/track/0xDl961ndADTHwYCe6BdZJ) | [Benjamin Elgar](https://open.spotify.com/artist/1mZG5hV4wNG35hrBSjZGBk) | [Better Tho](https://open.spotify.com/album/0aDGSY89NfpZSh1YFnUms8) | 3:17 | 2025-02-05 | 2025-02-17 |
 | [Between the Lines feat\. ZOF \- Late Night Edit](https://open.spotify.com/track/55h5cffa2fXzFZ495SsXwQ) | [ZOF](https://open.spotify.com/artist/31ZEegh9kQpn4W6L9efEV5), [UZEF](https://open.spotify.com/artist/2D0AjD2YwbgEM2AN9lD721) | [Between the Lines](https://open.spotify.com/album/6qxlgNmrn1SB1AN6KAS80A) | 5:58 | 2021-03-26 | 2021-04-11 |
 | [beverly hills](https://open.spotify.com/track/6FZfgEiOEBsfvvH3OpDYi2) | [Julia Kate](https://open.spotify.com/artist/1fIGYGeXGTQXAo1CuW7FaQ) | [beverly hills](https://open.spotify.com/album/3Z7bJrbCT58ReP5V5RaiIk) | 5:00 | 2024-11-15 | 2024-11-27 |
+| [BEYOND](https://open.spotify.com/track/05NuBFNJrVsrxqZiQa5dCa) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [SNOWING IN SPACE](https://open.spotify.com/album/35j9YK0XDqI3V0sfjQXLFL) | 4:04 | 2026-11-21 |  |
 | [Beyond Me](https://open.spotify.com/track/7tLV8vkj5DhpA9E4nHNB5h) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Beyond Me](https://open.spotify.com/album/6rlxsmPJo7Ed9lLvqw6Jb4) | 3:34 | 2024-12-25 | 2025-01-06 |
 | [BHMF \(Blondes Have More Fun\)](https://open.spotify.com/track/2ZC8zli3RK85zCBce63xrr) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [BHMF \(Blondes Have More Fun\)](https://open.spotify.com/album/0TcxnaZmW0Kz9mixTrGHKs) | 2:45 | 2026-04-01 | 2026-05-03 |
 | [Bien Me Sabe](https://open.spotify.com/track/5gcRmpYXejRJF4wum0pOcQ) | [Guido Valdellora](https://open.spotify.com/artist/3Gdqh1Q3CJlXw0GAVi3L5r) | [Ciervos de Japón](https://open.spotify.com/album/5DIMYG6sl1glO79kcw2Kl9) | 3:35 | 2023-08-27 | 2023-09-26 |
@@ -652,6 +653,7 @@
 | [Big Girl Money](https://open.spotify.com/track/4TKqvlOiZ4NMbN8nrnG1vm) | [HuneyFire](https://open.spotify.com/artist/0sQfQ0RFg4PD4pewfWt4Tc) | [Big Girl Money](https://open.spotify.com/album/0JSm2JXqgWbNy8qbmW33bO) | 2:51 | 2026-06-20 | 2026-07-03 |
 | [Big Head](https://open.spotify.com/track/3RhwEcqn6s7qDcmsznD1vi) | [Noyé](https://open.spotify.com/artist/71qv5Tg0A3iA3f7XjO1Sg3) | [Big Head](https://open.spotify.com/album/4CCWem7IjUyYU8uQIYJD5U) | 3:48 | 2025-04-12 | 2025-04-24 |
 | [Big House Small](https://open.spotify.com/track/3p4IU21EWccpUNati2sVHT) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Big House Small](https://open.spotify.com/album/1tvnj9Ld404EG272mR5kJz) | 2:45 | 2020-05-25 | 2020-06-10 |
+| [BIG PLAYZ](https://open.spotify.com/track/6oijradG0FlLSRlhbux0Qn) | [BENJI DOLLAR BILL](https://open.spotify.com/artist/55qffqOIdUSbSo2iX0lel8) | [BIG PLAYZ](https://open.spotify.com/album/1KS9S7Xh6tPQJrVcXMBRwK) | 2:07 | 2026-11-22 |  |
 | [big screen](https://open.spotify.com/track/2rlojI1c4BsoLMb8s5wux8) | [ROHAN](https://open.spotify.com/artist/7HFCjHsd7vL8o1YLKPIo3C) | [big screen](https://open.spotify.com/album/2iTjjCIfUJjDWvPGLAyrWc) | 2:35 | 2025-02-10 | 2025-02-25 |
 | [Big Time](https://open.spotify.com/track/3hUNF276pCSwNbw9G9lWaK) | [Jeffrey Hill](https://open.spotify.com/artist/0hGpGNEAMrXuKfi11jnJHd) | [Big Time](https://open.spotify.com/album/2SFPlbFvQDIPlQ0R7mREnf) | 2:24 | 2026-05-28 | 2026-06-27 |
 | [Big Water](https://open.spotify.com/track/1ow6PUvjwc6zjxF0YSoob3) | [Noah Solt](https://open.spotify.com/artist/3ahNmULLhWIi6zVFJl2MYp) | [Big Water](https://open.spotify.com/album/3zRfydNvex5puF6Oep9hcB) | 3:28 | 2024-05-17 | 2024-05-29 |
@@ -3255,6 +3257,7 @@
 | [Leave Me Alone With My Muse](https://open.spotify.com/track/1n5DSoXXxLjmJwzxyAMC3M) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1) | [Leave Me Alone](https://open.spotify.com/album/5dufWSUiq1zTgEcZTloz3t) | 3:42 | 2025-06-04 | 2025-06-17 |
 | [Leave On](https://open.spotify.com/track/3cW5hkEti7bgrHGHrlEgkI) | [Smith William](https://open.spotify.com/artist/5DxdZin9LBhrN8SLwTg9fr) | [Soundtrack to a Daydream](https://open.spotify.com/album/771YFM8J5owQTbwzgwioLf) | 3:51 | 2024-12-03 | 2024-12-15 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-05-05 | 2024-04-21 |
+| [Leave The Light On \(Teeko Edit\)](https://open.spotify.com/track/1iKiGzYiJQFqFtCpIQ3eoL) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq), [Teeko](https://open.spotify.com/artist/6hDCpPhelYmDwDZQMA7oyC) | [Leave The Light On](https://open.spotify.com/album/4Hsd5ceKLPeBkldoaLdGEX) | 2:14 | 2026-11-21 |  |
 | [Leave The Light On For Me](https://open.spotify.com/track/4GArRiXhTAxHQwnwODbeCe) | [Benni Frank](https://open.spotify.com/artist/2bRS7FSjDc0BgnMMiDDVka) | [Leave The Light On For Me](https://open.spotify.com/album/7o7VJItgEcigXJEyfkMhsx) | 3:47 | 2024-08-03 | 2024-08-15 |
 | [Leave You for Him](https://open.spotify.com/track/1mKvgJO7a6t65Vp7TEfleR) | [Stammer](https://open.spotify.com/artist/6B4uHdkPlccm08zyHC4Msh) | [Leave You for Him](https://open.spotify.com/album/156P9i1NV3uZarWH5tfPAg) | 4:18 | 2024-10-11 | 2024-10-23 |
 | [Leave You Keh](https://open.spotify.com/track/7bQTj0Rq3NU1Yg5YH4utYu) | [Joechriz](https://open.spotify.com/artist/7xDqHe77Cg5LqHH0UufDET) | [Leave You Keh](https://open.spotify.com/album/4eg77Wj5uCClisZ6zr2qmb) | 2:37 | 2026-11-18 |  |
@@ -5451,6 +5454,7 @@
 | [Suddenly](https://open.spotify.com/track/5xIy9cysQ2zQ2VPlKxs1wk) | [Elline Day](https://open.spotify.com/artist/0iClslv1V4PdKWLVzXyn2g) | [Suddenly](https://open.spotify.com/album/5h6OGZIm80BtGbDTopuPuv) | 2:17 | 2024-10-26 | 2024-11-07 |
 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/6Lr01PlejUgfDqDPlRV8px) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 | 2025-01-29 | 2025-02-09 |
 | [Sueño De Verano](https://open.spotify.com/track/6qYXc6mGRhYy7yqKb5PzJt) | [Sergi Barranco](https://open.spotify.com/artist/7dOw0iVZzE0c3kzJcDrh5w), [Carmen Arráez](https://open.spotify.com/artist/4wK8q4slC1jdxgiUejKwEY), [La Vecina](https://open.spotify.com/artist/23d8X4AewGJySQDXyvk88W) | [Anáforas](https://open.spotify.com/album/4V987WePrxIr8LCkoWVnJJ) | 2:40 | 2024-02-24 | 2024-03-03 |
+| [Sueños](https://open.spotify.com/track/01nY6VvdQozYklrDeVQ4WX) | [Turbides](https://open.spotify.com/artist/4HXgu3qxsuz1jbAwmKWDSJ), [Bernardo Turbides](https://open.spotify.com/artist/7z8lecrwUQQbUo9iHvLq9E) | [Sueños](https://open.spotify.com/album/6GcxZU48Be3QlomAknJSCi) | 3:14 | 2026-11-22 |  |
 | [Sugar Daddy](https://open.spotify.com/track/2R1759HDsyHhhOn4PM3pSk) | [Jordan Rivers & The Real Juice](https://open.spotify.com/artist/23V3hZ8OOhLund0FUEW6Cm) | [Sugar Daddy](https://open.spotify.com/album/71XTpdu6oVhIWfjHsr4hBQ) | 4:05 | 2024-01-28 | 2024-02-05 |
 | [Sugar Rush](https://open.spotify.com/track/5bik4LKCGQq0s6KRuBjB36) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Sugar Rush](https://open.spotify.com/album/38lLpEsRcfJW91jcNBsYOK) | 2:37 | 2024-06-14 | 2024-06-26 |
 | [Sugar Rush](https://open.spotify.com/track/4a5zjlrFccOGX4BQB8QkYN) | [Honezty](https://open.spotify.com/artist/4GJEgiGuXq4NaZOKKPXv5T) | [Sugar Rush](https://open.spotify.com/album/0oHSlmXvnRdz6llLyDIShj) | 3:10 | 2025-02-06 | 2025-02-18 |

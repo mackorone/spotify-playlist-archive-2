@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Dua Lipa for GTA VI, Gracie Abrams, Rema, Grimes, TOMORROW X TOGETHER, TALK and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,906 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,861 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 8 | [Losing Hand](https://open.spotify.com/track/7gH4uknNSbUMg3gQmAs6W9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Losing Hand](https://open.spotify.com/album/1L8sIfJdlmYxWIjs2GjJIv) | 3:37 |
 | 9 | [Just A Woman](https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Just A Woman](https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop) | 3:44 |
 | 10 | [AHH YEA](https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 2:00 |
-| 11 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 11 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 12 | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/1akuT1qSIAoOhpPhUxGpyR) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/5TZmF4xF98fss6CqT3oCSh) | 3:10 |
 | 13 | [Tremendo Desastre](https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Tremendo Desastre](https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t) | 3:22 |
 | 14 | [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 |

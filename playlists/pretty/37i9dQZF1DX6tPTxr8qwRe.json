@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - Ari Abdul on the cover",
-  "num_followers": 522440,
+  "num_followers": 522444,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUeTiBRYSh/49Mk0ym+giuoMWSK",
+  "snapshot_id": "AAAAAMAsgM62Hb/4lx5s1gURnwR2K7Ui",
   "tracks": [
     {
       "added_at": "2026-11-13 05:02:07",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/5u74bjEr8UeSVFcBAcYGtP"
     },
     {
+      "added_at": "2026-11-21 17:33:13",
+      "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/7ofwhRfERqLY1PkWDdoqz5"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/2tQ40SF5DyO2NH9fXMRNI4"
+    },
+    {
       "added_at": "2026-10-23 13:08:29",
       "album": {
         "name": "do the math",
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8"
     },
     {
-      "added_at": "2026-11-13 05:02:07",
+      "added_at": "2026-11-21 17:33:13",
       "album": {
-        "name": "Tulips",
-        "url": "https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8"
+        "name": "Steps (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5QR57qRfOJVqqieBL1I0sW"
       },
       "artists": [
         {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 193550,
-      "name": "Tulips",
-      "url": "https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm"
+      "duration_ms": 186106,
+      "name": "The Understudy",
+      "url": "https://open.spotify.com/track/0IKeyxXtkLIYBNMOM4cO0n"
     },
     {
       "added_at": "2026-10-30 04:00:40",
@@ -91,6 +107,22 @@
     {
       "added_at": "2026-11-13 05:02:07",
       "album": {
+        "name": "Tulips",
+        "url": "https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "duration_ms": 193550,
+      "name": "Tulips",
+      "url": "https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm"
+    },
+    {
+      "added_at": "2026-11-13 05:02:07",
+      "album": {
         "name": "bark bark bark",
         "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
       },
@@ -103,22 +135,6 @@
       "duration_ms": 146114,
       "name": "bark bark bark",
       "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
-    },
-    {
-      "added_at": "2026-10-30 04:00:40",
-      "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/11QcHtHtbBiD0SHISXRUTL"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 168506,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/60rDCiZ2OWfOi4hVEKxZup"
     },
     {
       "added_at": "2026-11-13 05:02:07",
@@ -135,6 +151,22 @@
       "duration_ms": 197454,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/4NAJMC4ztvXmJwYbIoOOa0"
+    },
+    {
+      "added_at": "2026-10-30 04:00:40",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/11QcHtHtbBiD0SHISXRUTL"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 168506,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/60rDCiZ2OWfOi4hVEKxZup"
     },
     {
       "added_at": "2026-10-30 04:00:40",
@@ -299,22 +331,6 @@
       "duration_ms": 216428,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/2dud2t6ANdp6TJrojXF6Vr"
-    },
-    {
-      "added_at": "2026-10-02 04:00:40",
-      "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"
     },
     {
       "added_at": "2026-10-23 13:08:29",
@@ -791,22 +807,6 @@
       "duration_ms": 163133,
       "name": "Miss Misunderstood",
       "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
-    },
-    {
-      "added_at": "2026-08-28 04:22:45",
-      "album": {
-        "name": "Scaring Everyone",
-        "url": "https://open.spotify.com/album/0qSgpybtLjvk9kfwShpocT"
-      },
-      "artists": [
-        {
-          "name": "Eva Rose",
-          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
-        }
-      ],
-      "duration_ms": 204534,
-      "name": "Scaring Everyone",
-      "url": "https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV"
     },
     {
       "added_at": "2026-08-14 04:00:14",

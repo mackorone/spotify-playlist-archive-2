@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Lauri Haav, pehmoaino, Axel Kala & Dw..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,292 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,298 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 68 | [Bad Vibe](https://open.spotify.com/track/33kmbK1QWUhJb05rL5vV9F) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Bad Vibe](https://open.spotify.com/album/6pRiIH5mMRYIiFrgVeunTr) | 3:16 |
 | 69 | [So far away](https://open.spotify.com/track/58A2Ab2Qz74gVWocMma1ZV) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [So far away](https://open.spotify.com/album/0u39rxlbiG06n63mnZyIjx) | 2:57 |
 | 70 | [YUME](https://open.spotify.com/track/1kS1tlbXznxJ1Lcf41rL0A) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Raul](https://open.spotify.com/artist/7HJvf1WkxIKAF20M4uENgs) | [YUME](https://open.spotify.com/album/4i03JuGhTAVzOemgFYo88e) | 3:32 |
-| 71 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 71 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 72 | [Fire](https://open.spotify.com/track/3gXPPeGYuBhNHCrOXBwsrQ) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Fire](https://open.spotify.com/album/19bfTUc47e6s9zFw5vNHsd) | 3:43 |
 | 73 | [typeshi\_ouioui](https://open.spotify.com/track/3gJCRcg8F4lJUjkURE9rUK) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [typeshi\_ouioui](https://open.spotify.com/album/32QPShlEAvdtrfoATJNmmr) | 2:36 |
 | 74 | [Be The One](https://open.spotify.com/track/7HcRDFPfKpiiixEvr1lT2X) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Be The One](https://open.spotify.com/album/3sq96tyDm5asCaRnmUzGVc) | 2:05 |

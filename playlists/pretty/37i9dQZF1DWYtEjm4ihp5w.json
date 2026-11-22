@@ -1,12 +1,12 @@
 {
   "description": "Cover: 7ari",
-  "num_followers": 450689,
+  "num_followers": 450738,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOL4BVQAug3p5AUPbAULfDIh1wBl",
+  "snapshot_id": "AAAAAGGVYmomxcTvWCqTLIb8ceeRG6eV",
   "tracks": [
     {
       "added_at": "2026-11-20 00:00:42",
@@ -83,18 +83,18 @@
     {
       "added_at": "2026-11-20 00:00:42",
       "album": {
-        "name": "Gen Z Girl",
-        "url": "https://open.spotify.com/album/3p0Yk1rIxm1GakEmcqAOgA"
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/3w6eeGeDIxMGrTGqwpLtxU"
       },
       "artists": [
         {
-          "name": "ONZY",
-          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Gen Z Girl",
-      "url": "https://open.spotify.com/track/5RHMJ0D3NdDZJbyyzk2VyK"
+      "duration_ms": 175051,
+      "name": "Chemkara",
+      "url": "https://open.spotify.com/track/6ogFiUOgCO5Td1WiYDPTNs"
     },
     {
       "added_at": "2026-11-20 00:00:42",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-11-20 00:00:42",
       "album": {
-        "name": "Paranormal",
-        "url": "https://open.spotify.com/album/3w6eeGeDIxMGrTGqwpLtxU"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 175051,
-      "name": "Chemkara",
-      "url": "https://open.spotify.com/track/6ogFiUOgCO5Td1WiYDPTNs"
-    },
-    {
-      "added_at": "2026-11-20 00:00:42",
-      "album": {
         "name": "UFUL",
         "url": "https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 185663,
       "name": "Couci Couca",
       "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
+    },
+    {
+      "added_at": "2026-11-20 00:00:42",
+      "album": {
+        "name": "Gen Z Girl",
+        "url": "https://open.spotify.com/album/3p0Yk1rIxm1GakEmcqAOgA"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Gen Z Girl",
+      "url": "https://open.spotify.com/track/5RHMJ0D3NdDZJbyyzk2VyK"
     },
     {
       "added_at": "2026-11-20 00:00:42",

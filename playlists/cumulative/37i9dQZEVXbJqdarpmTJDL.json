@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "2310",
+        "url": "https://open.spotify.com/album/0z9vHNH2KQtFXBEGu89VQH"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "Lived",
+          "url": "https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196010,
+      "name": "2310",
+      "url": "https://open.spotify.com/track/35wM6XldbiFkUEFkHh9S7U"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -5370,7 +5392,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 280360,
       "name": "Apopse Tha Se Oneireuto",
       "url": "https://open.spotify.com/track/4zELnzUP8uL9fNVRKmVoqW"
@@ -8750,6 +8772,32 @@
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/6tNIE06ZzfYLQWCvmLjUWn"
+    },
+    {
+      "album": {
+        "name": "BEYONC\u00c9",
+        "url": "https://open.spotify.com/album/3JysBTsuV4EYp6pX6U4PT0"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159849,
+      "name": "BEYONC\u00c9",
+      "url": "https://open.spotify.com/track/1Xg8TwV1fuooICDTuOA9fN"
     },
     {
       "album": {
@@ -12726,7 +12774,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 210309,
       "name": "Cocaina Marijuana",
       "url": "https://open.spotify.com/track/7nsKK8k1I9f8mxpzg3wvYK"
@@ -29528,7 +29576,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 181224,
       "name": "KAKOS GIA SENA",
       "url": "https://open.spotify.com/track/7kBrXPkGGmQMDmnz7Bi1Yh"
@@ -31414,7 +31462,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 174065,
       "name": "KLEIDIA",
       "url": "https://open.spotify.com/track/5XM5BN2S3HLTaK4wvC7RZe"
@@ -37974,7 +38022,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 174000,
       "name": "Medallion",
       "url": "https://open.spotify.com/track/7H7dHzMQGXLl1NveKglZ1E"
@@ -46839,6 +46887,28 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/0YQNRWc1QiFrDZLdOLozjE"
+      },
+      "artists": [
+        {
+          "name": "Merko",
+          "url": "https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166168,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6ZRoikFxCekpUFknCO0HFB"
+    },
+    {
+      "album": {
         "name": "VEGANZE",
         "url": "https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp"
       },
@@ -50330,7 +50400,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 180005,
       "name": "PROVLIMATA",
       "url": "https://open.spotify.com/track/3YS425rBxK3yfr7EogEX4W"
@@ -67436,6 +67506,28 @@
       "duration_ms": 139793,
       "name": "ZORO",
       "url": "https://open.spotify.com/track/4EyUAzD2ctcDjrZ1aeowYC"
+    },
+    {
+      "album": {
+        "name": "ZORO",
+        "url": "https://open.spotify.com/album/6t6bDv7wKWaO8bXnvZiNml"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200233,
+      "name": "ZORO",
+      "url": "https://open.spotify.com/track/3dXIOrX6ixec2EcZsGcsjw"
     },
     {
       "album": {

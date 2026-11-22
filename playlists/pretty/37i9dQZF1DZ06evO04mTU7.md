@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULLIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,280 likes - 48 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,289 likes - 48 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 47 | [Tente Outra Vez](https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Sebrae Nosso Canto](https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA) | [Tente Outra Vez](https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq) | 1:54 |
 | 48 | [Aju](https://open.spotify.com/track/5OKRfZjxg0rfrx8ZQxw8X0) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 2:33 |
 
-Snapshot ID: `av48AAAAAACOwDMJ7p0RFq4NfwxxB2nc`
+Snapshot ID: `av+NgAAAAADdYQBkY6YPKn32MNC6cTfP`

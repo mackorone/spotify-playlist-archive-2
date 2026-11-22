@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾 Carit BR en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,396 likes - 125 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,433 likes - 125 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 124 | [La Minifalda \- En Vivo](https://open.spotify.com/track/7in4vqCYwHd3yVcEyazmf4) | [Los Rk Oficial](https://open.spotify.com/artist/6YVykXdVX5iIbzvdK6tqAP), [los unicos rk](https://open.spotify.com/artist/2qZP5fddUj6n2JX8ndsrpJ) | [La Minifalda \(En Vivo\)](https://open.spotify.com/album/7uqv2mkX3wX8DqOFL3oMdC) | 3:16 |
 | 125 | [Como Cumbiambero Que Soy](https://open.spotify.com/track/16RYSxYRjTE26PjQAkS3IY) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Fruko, El Teso](https://open.spotify.com/album/0elnXjwAQsyPNwfLLKGENj) | 3:01 |
 
-Snapshot ID: `AAAAAO9j9qHKw4t0/a4VJY+67A/Y3/qm`
+Snapshot ID: `AAAAAHprUl8GbDqD4P/9kyUpkTNHLXUL`

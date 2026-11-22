@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,255 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,530 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [Pop's Cool Groove](https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:23 |
 | 100 | [More Or Les Paul](https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [White Sand](https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8) | 4:39 |
 
-Snapshot ID: `AAAAAARy0kXJUYy4WlUO3fzjEEqYqsvX`
+Snapshot ID: `AAAAACNLvpQJxZoesZceRojX7h/IYRxN`

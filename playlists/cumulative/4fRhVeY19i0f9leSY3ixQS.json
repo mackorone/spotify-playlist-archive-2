@@ -4218,7 +4218,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 157744,
       "name": "BETTER HOME",
       "url": "https://open.spotify.com/track/34UpIHKRxHSu7CqXNbpKRA"
@@ -7020,7 +7020,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 284240,
       "name": "Bury me",
       "url": "https://open.spotify.com/track/3uLP3tTcp9lgaYU4Qw1NC3"
@@ -24907,6 +24907,24 @@
     },
     {
       "album": {
+        "name": "Left for Dead",
+        "url": "https://open.spotify.com/album/0pFfKDauzmo1E8oWs2VjxZ"
+      },
+      "artists": [
+        {
+          "name": "The Del-Chronics",
+          "url": "https://open.spotify.com/artist/0bjnKHikkRyAAgvazRDbiX"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168918,
+      "name": "Left for Dead",
+      "url": "https://open.spotify.com/track/18gnxjdFpBFYZv4CuIL2Rm"
+    },
+    {
+      "album": {
         "name": "LEGACY",
         "url": "https://open.spotify.com/album/6QVGvi9ltKtk9qMNyhCmoV"
       },
@@ -25704,7 +25722,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 190545,
       "name": "limbs",
       "url": "https://open.spotify.com/track/633ebOvF2yNG0frWLzqxmX"
@@ -38690,7 +38708,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 201676,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/2EIAiBSwGryIB8NbLwjuFR"
@@ -47834,7 +47852,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 197663,
       "name": "Vingt dieux - Radio Edit",
       "url": "https://open.spotify.com/track/1Xceed48hvTCkwHFBTH7NK"

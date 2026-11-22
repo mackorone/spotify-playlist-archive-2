@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: A7S & Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,699 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,847 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 5 | [Nobody Can Know Me Like You Do](https://open.spotify.com/track/0drT8Zlv5uzrQMAKNzDq2u) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Nobody Can Know Me Like You Do](https://open.spotify.com/album/2yEwVF5gabrSZFZ473Syr6) | 3:00 |
 | 6 | [DON'T SAY SORRY](https://open.spotify.com/track/1KAlQvQPoaGnxKzLRvXfoZ) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [DON'T SAY SORRY](https://open.spotify.com/album/4AwqOYFutqKIlBI1MBz1QL) | 2:53 |
 | 7 | [Piece of Your Love](https://open.spotify.com/track/0MmSOjUpkoSu8WePBIzH88) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Piece of Your Love](https://open.spotify.com/album/5aqKsW1DEwhyFWopnzWykz) | 2:07 |
-| 8 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 8 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 9 | [Forget Your Name](https://open.spotify.com/track/0fQsJwl7nuBdAzfTzlPfgF) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Forget Your Name](https://open.spotify.com/album/6JLsJAAlF3kdAMwqkCpqxj) | 3:24 |
 | 10 | [Coming Back to Love](https://open.spotify.com/track/5GfKZuTNlWMkdspG6uKtBE) | [Corey Lerue](https://open.spotify.com/artist/7sPhCTb9H4UJsBoVcnoQRY), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Coming Back to Love](https://open.spotify.com/album/4wlcbk9eNzzJoXq7LNq7di) | 2:35 |
 | 11 | [Conscience](https://open.spotify.com/track/7kVflQ58eE21ugGgSrJZFC) | [Bryce Alakai](https://open.spotify.com/artist/6xq5N3jccoYOrN19UUbo8B) | [Conscience](https://open.spotify.com/album/7K3wK5jnuaCS16suoypqXN) | 2:24 |

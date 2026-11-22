@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like sad hour, with Sienna Spiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,390,104 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,390,179 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 145 | [I Tried](https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [I Tried](https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP) | 2:32 |
 | 146 | [i've missed you longer](https://open.spotify.com/track/7EqfOy9UoftDjltyjjN6Wj) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [i've missed you longer](https://open.spotify.com/album/4CkB0GvNIsUJKtmhMtLTjd) | 3:19 |
 | 147 | [Eastside Girls](https://open.spotify.com/track/0aIoaYbTcStz4yBHHCjgzi) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 3:19 |
-| 148 | [all my favourite people are sad](https://open.spotify.com/track/6jkmc5eOlVQdhL7xISd2UO) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV) | 3:11 |
+| 148 | [all my favourite people are sad](https://open.spotify.com/track/6jkmc5eOlVQdhL7xISd2UO) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV) | 3:11 |
 | 149 | [Pretty Ugly](https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Pretty Ugly](https://open.spotify.com/album/1TmgctcS57hCkBysw77AUI) | 2:49 |
 | 150 | [Meet Me At The Cafe](https://open.spotify.com/track/0I4BZ46wgUqbazXhHATA1V) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Meet Me At The Cafe](https://open.spotify.com/album/0GBVskaDi7VBjU5h2OQ8BN) | 3:03 |
 

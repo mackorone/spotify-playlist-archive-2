@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 634 songs - 1 day 14 hr 23 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 636 songs - 1 day 14 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -642,5 +642,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 632 | [Si Hago Todo Mal](https://open.spotify.com/track/4eL6x2Gtx6SK2dtUrWULFe) | [Señal Débil o Inexistente](https://open.spotify.com/artist/0AHivSTCsGgtBvVi34uO0A) | [Si Hago Todo Mal](https://open.spotify.com/album/3uqellZFKrxilOPoAhYH4r) | 2:29 |
 | 633 | [HardTimesTimesTimes](https://open.spotify.com/track/2RtACPtJIOptw2m7nsU6De) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [HardTimesTimesTimes](https://open.spotify.com/album/7d9PFJkDJAm2pXD6VWbuen) | 3:04 |
 | 634 | [Codinome Mulher](https://open.spotify.com/track/6LqCTbmQwISfs9h2eKEdo4) | [banda plano b](https://open.spotify.com/artist/71Ej1tQMWH7QQNbntcQpUY) | [Codinome Mulher](https://open.spotify.com/album/2xf7snMHcLBSiE6LOQJXza) | 3:24 |
+| 635 | [Don't Turn Away](https://open.spotify.com/track/2guSt8H3wo8SEvuOKLF1v9) | [SS.PERSIAN](https://open.spotify.com/artist/0OrIsLM9dCRG7SzGpzlhNJ) | [OCEAN OF MELODIES](https://open.spotify.com/album/3qo5wqHfKMVB09QbogeG0T) | 5:13 |
+| 636 | [La Colpa](https://open.spotify.com/track/6RYdVakZoIM4pNgfnPLbpa) | [Zephiro](https://open.spotify.com/artist/7euzpSgCdCp5RdQQ1hvsyJ) | [Baikonur](https://open.spotify.com/album/2Lk0UEtxvptllO1hnePJSZ) | 4:33 |
 
-Snapshot ID: `AAADEG2SfXVpx5OBGOMXA1MLY7sjuiM0`
+Snapshot ID: `AAADEmEauF26I0EAH6JBzYjxkFfdedqr`

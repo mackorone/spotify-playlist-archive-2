@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 
 > The best new music videos from independent artists and labels\. Featuring Cowboy Hunters\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,410 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

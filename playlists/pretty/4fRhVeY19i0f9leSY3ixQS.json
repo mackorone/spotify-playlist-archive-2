@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 2160,
+  "num_followers": 2161,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAvxfDRzKcxoT00q0SIVxO78orbxiBa",
+  "snapshot_id": "AAAvx0+0qift0I4w5qWNc86yS/MsZ0yZ",
   "tracks": [
     {
       "added_at": "2026-10-22 02:48:54",
@@ -4065,22 +4065,6 @@
       "url": "https://open.spotify.com/track/4kJlNcyreyxta4BuzSxnEv"
     },
     {
-      "added_at": "2026-10-22 07:03:16",
-      "album": {
-        "name": "BETTER HOME",
-        "url": "https://open.spotify.com/album/7b3FSPsBBpzQoA8hDl56U9"
-      },
-      "artists": [
-        {
-          "name": "DINERBOY",
-          "url": "https://open.spotify.com/artist/3I3YgwOStCkPsM1kTEYP0Z"
-        }
-      ],
-      "duration_ms": 157744,
-      "name": "BETTER HOME",
-      "url": "https://open.spotify.com/track/34UpIHKRxHSu7CqXNbpKRA"
-    },
-    {
       "added_at": "2026-10-26 12:00:34",
       "album": {
         "name": "Malady",
@@ -4127,74 +4111,6 @@
       "duration_ms": 216000,
       "name": "Only the Fool",
       "url": "https://open.spotify.com/track/3xJuIoezRPw4fh2PTASts8"
-    },
-    {
-      "added_at": "2026-10-22 03:11:11",
-      "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/7y1ChkHIpnU2VscdbA0ey6"
-      },
-      "artists": [
-        {
-          "name": "The Whiles",
-          "url": "https://open.spotify.com/artist/6S6nFvyJr6Q6NAJ15n4D0i"
-        }
-      ],
-      "duration_ms": 201676,
-      "name": "Shudder",
-      "url": "https://open.spotify.com/track/2EIAiBSwGryIB8NbLwjuFR"
-    },
-    {
-      "added_at": "2026-10-22 12:01:17",
-      "album": {
-        "name": "limbs",
-        "url": "https://open.spotify.com/album/2qXig9GUaYZSN3iRdyIq9z"
-      },
-      "artists": [
-        {
-          "name": "eiv",
-          "url": "https://open.spotify.com/artist/75kuYm6ZL9gAv0bc43q1gt"
-        }
-      ],
-      "duration_ms": 190545,
-      "name": "limbs",
-      "url": "https://open.spotify.com/track/633ebOvF2yNG0frWLzqxmX"
-    },
-    {
-      "added_at": "2026-10-22 10:59:16",
-      "album": {
-        "name": "Vingt dieux (Radio Edit)",
-        "url": "https://open.spotify.com/album/1lGHLxZWw1dYifH983hMfT"
-      },
-      "artists": [
-        {
-          "name": "Mathis Akengin",
-          "url": "https://open.spotify.com/artist/1N4P8YGXlMEonj2Xqceiw0"
-        },
-        {
-          "name": "Nikola",
-          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
-        }
-      ],
-      "duration_ms": 197663,
-      "name": "Vingt dieux - Radio Edit",
-      "url": "https://open.spotify.com/track/1Xceed48hvTCkwHFBTH7NK"
-    },
-    {
-      "added_at": "2026-10-22 09:29:17",
-      "album": {
-        "name": "R3-b1Rth",
-        "url": "https://open.spotify.com/album/2kXkqjyhU83JqqFjUpxAIE"
-      },
-      "artists": [
-        {
-          "name": "Hydraphonicz",
-          "url": "https://open.spotify.com/artist/0qXSWr9Op0Ecbf2NZXA6FC"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Bury me",
-      "url": "https://open.spotify.com/track/3uLP3tTcp9lgaYU4Qw1NC3"
     },
     {
       "added_at": "2026-10-23 04:03:41",
@@ -5919,6 +5835,22 @@
       "duration_ms": 216924,
       "name": "Fair Weather Friends",
       "url": "https://open.spotify.com/track/2wavKpqLdYX7zzUEWLsZEK"
+    },
+    {
+      "added_at": "2026-11-21 09:29:47",
+      "album": {
+        "name": "Left for Dead",
+        "url": "https://open.spotify.com/album/0pFfKDauzmo1E8oWs2VjxZ"
+      },
+      "artists": [
+        {
+          "name": "The Del-Chronics",
+          "url": "https://open.spotify.com/artist/0bjnKHikkRyAAgvazRDbiX"
+        }
+      ],
+      "duration_ms": 168918,
+      "name": "Left for Dead",
+      "url": "https://open.spotify.com/track/18gnxjdFpBFYZv4CuIL2Rm"
     }
   ],
   "unique_name": "Spotify Radio",

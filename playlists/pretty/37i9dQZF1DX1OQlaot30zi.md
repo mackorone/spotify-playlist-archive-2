@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Sfera Ebbasta, FreshMula, Enny P, Saintpaul e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,403 likes - 105 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,406 likes - 105 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 15 | [AVIATOR \(feat\. Pitta\)](https://open.spotify.com/track/7JRX06m6COvbmgpUZDu4PL) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [AVIATOR \(feat\. Pitta\)](https://open.spotify.com/album/4jlM8mTOx6eIEQf8qxxwJL) | 1:18 |
 | 16 | [Amore Narcos](https://open.spotify.com/track/2FDWDDENSwMDv7uOgkKSop) | [Ugo Borghetti](https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Bebbo & Friends](https://open.spotify.com/album/4JDC57CnHQVkcqSlqqCVFO) | 2:26 |
 | 17 | [fiori </3](https://open.spotify.com/track/7aa5Zkz2DqIF9QXDJr2B4i) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [fiori </3](https://open.spotify.com/album/083v6NI5SYpXqmVI2IPlTM) | 2:40 |
-| 18 | [Come&Go \(feat\. Valco\)](https://open.spotify.com/track/0Z4A2EZzTGKEmAySbxnQWd) | [Mozik](https://open.spotify.com/artist/1uT0OFWvGNOscEs3bquXwb), [Valco](https://open.spotify.com/artist/3jtHon0Ownfbhg84OrhJRa) | [Come&Go \(feat\. Valco\)](https://open.spotify.com/album/00HxRb4i0JCkes0fdJbn9N) | 2:32 |
+| 18 | [Come&Go \(feat\. Valco\)](https://open.spotify.com/track/0Z4A2EZzTGKEmAySbxnQWd) | [Mozik](https://open.spotify.com/artist/1uT0OFWvGNOscEs3bquXwb), [Valco](https://open.spotify.com/artist/1HIWZ5BXx2wWTOjwMNeXzP) | [Come&Go \(feat\. Valco\)](https://open.spotify.com/album/00HxRb4i0JCkes0fdJbn9N) | 2:32 |
 | 19 | [ALLE TIPE PIACCIONO I CRIMI](https://open.spotify.com/track/6EyAGZPV2RXSNnnC9u7aAD) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Davyx](https://open.spotify.com/artist/2UYkGWFsNTlRvQ3pEwofn9) | [ALLE TIPE PIACCIONO I CRIMI](https://open.spotify.com/album/3gvlogxEKMNiVtowCAWwH9) | 2:17 |
 | 20 | [Type Shii](https://open.spotify.com/track/3PHxaCSGt3E1uFSG72uJAB) | [R£d](https://open.spotify.com/artist/4hZ6NhyyFrGR6TAnEROtVs) | [Blood](https://open.spotify.com/album/4pJRmwG7iETOnttKS1RW8R) | 2:54 |
 | 21 | [tiki tiki \*\_\_\_\*](https://open.spotify.com/track/2aY5G9EyxzPVy2z4gkpiRC) | [RIRI2K](https://open.spotify.com/artist/14QMCAaOdrpr30PrA2tvid) | [tiki tiki \*\_\_\_\*](https://open.spotify.com/album/3es8aG8NvrEHzOSQlz2OFO) | 2:34 |

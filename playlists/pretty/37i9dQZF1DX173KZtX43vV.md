@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,576 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,582 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 46 | [Don't Want](https://open.spotify.com/track/1a4kuAuM9rMX49yalPL3at) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR) | [Girl From The West](https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2) | 2:37 |
 | 47 | [Head East](https://open.spotify.com/track/5HcXw3Ya8aUWsm4ypp5Mfm) | [Zeddy East](https://open.spotify.com/artist/0Uh3cVDmdhE0v8SgOEnvGA) | [Head East](https://open.spotify.com/album/3tyE1AFg7jkzAsjldNssxE) | 2:26 |
 | 48 | [DRTY](https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DRTY](https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8) | 3:20 |
-| 49 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
+| 49 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
 | 50 | [That's Gonna Be Me](https://open.spotify.com/track/3YNNRtuiTrltTzIG2RAfpC) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [That's Gonna Be Me](https://open.spotify.com/album/2AAETGX6pJyr9SQLhgF9kD) | 2:41 |
 
 Snapshot ID: `AAAAACVWmCEOaeDjIJ/emCrgLlCNZMQQ`

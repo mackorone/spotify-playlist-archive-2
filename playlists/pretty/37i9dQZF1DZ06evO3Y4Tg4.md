@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,726 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,761 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 35 | [No Words](https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 3:30 |
 | 36 | [Hangman](https://open.spotify.com/track/7r7NTwtWAhPRtzylDu3hnE) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Hangman](https://open.spotify.com/album/5M13djplqPTZNq7eFBPKdg) | 3:54 |
 | 37 | [Disaster \(feat\. J Hus\)](https://open.spotify.com/track/4icut3XOowTQhcT9ov3xTm) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:00 |
-| 38 | [the people that saved me](https://open.spotify.com/track/4T9hQ3glnJKtH8uWr0MBm9) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV) | 2:46 |
+| 38 | [the people that saved me](https://open.spotify.com/track/4T9hQ3glnJKtH8uWr0MBm9) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV) | 2:46 |
 | 39 | [How I Met My Ex](https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 7:25 |
 | 40 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 |
 | 41 | [Samantha](https://open.spotify.com/track/4YLzVD32aMH4qgSsSPtNbl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Samantha](https://open.spotify.com/album/7gZazM80DtQjZyFz2e9tJe) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/12UgxYOGvFcuFlIf95vEGr) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 4:02 |
 | 50 | [Same Emotions \(feat\. Dave\)](https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Ends, Never Ends](https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay) | 3:58 |
 
-Snapshot ID: `av48AAAAAAAkEEDhnm9e8WfOK1+P8tOq`
+Snapshot ID: `av+NgAAAAACjU14kict1Nu5N0aRUPoN9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,019 likes - 596 songs - 1 day 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,024 likes - 596 songs - 1 day 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -303,8 +303,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 293 | [Power of Persuasion](https://open.spotify.com/track/4vDpWeR7nTQYCd67fVMzf6) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [The Essential Pointer Sisters](https://open.spotify.com/album/6QmOTNMb8Ab1ZbDd5sJ3AU) | 3:39 |
 | 294 | [Every Road Leads Back to You](https://open.spotify.com/track/2Rqjs2uSnjmbpAMG4T4G64) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [For the Boys \(Music from the Motion Picture\)](https://open.spotify.com/album/478uzZcKkV2fmQx6hmNYIv) | 3:47 |
 | 295 | [If I Was A River](https://open.spotify.com/track/4rR7VsNybSF84FRMho7DGU) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/3btFeEZj2oDNbNKK2YHr6a) | 5:20 |
-| 296 | [Bitch On Heels](https://open.spotify.com/track/3pK3HdXgQnBIQ8nHsPHzPT) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp) | [Bitch On Heels](https://open.spotify.com/album/62i4YXPijTuG2Gl22xCqmd) | 3:10 |
-| 297 | [Nothing Hurts Like Love](https://open.spotify.com/track/72HPQqLjTB273IrE7cnHNx) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/2IGzeXqhpPyj3hsblRnUA1) | 3:04 |
+| 296 | [Nothing Hurts Like Love](https://open.spotify.com/track/72HPQqLjTB273IrE7cnHNx) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/2IGzeXqhpPyj3hsblRnUA1) | 3:04 |
+| 297 | [Bitch On Heels](https://open.spotify.com/track/3pK3HdXgQnBIQ8nHsPHzPT) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp) | [Bitch On Heels](https://open.spotify.com/album/62i4YXPijTuG2Gl22xCqmd) | 3:10 |
 | 298 | [Private Affair](https://open.spotify.com/track/2MTzv3PkSqleXAL4qXNExy) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Peculiar Situation](https://open.spotify.com/album/3tA6UJIQuIqtCsdxiCYTK6) | 4:30 |
 | 299 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 |
 | 300 | [Perfection](https://open.spotify.com/track/0C5QSBH1wHLfP1cAKQIK4i) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:29 |
@@ -434,8 +434,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 424 | [Deeper Into You](https://open.spotify.com/track/54Iege5B0R9bQZYbsR1c2o) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:50 |
 | 425 | [Overloved](https://open.spotify.com/track/0Y1U5q9knkjYgk9iKRco64) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh) | [This Is My Time](https://open.spotify.com/album/5iz3DdRLx9bhxWffOblQrz) | 4:11 |
 | 426 | [Grow Old With Me](https://open.spotify.com/track/35V6hLZnsdV3NAvYOKPebX) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:21 |
-| 427 | [Remedy](https://open.spotify.com/track/3bxzT4yaeRHQPT8CHEwpvB) | [Riker Lynch](https://open.spotify.com/artist/55V2PZSif52loZswGkBTeK) | [Remedy](https://open.spotify.com/album/7GzMp5E159jqdlQ4hJCBZi) | 3:23 |
-| 428 | [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 |
+| 427 | [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 |
+| 428 | [Remedy](https://open.spotify.com/track/3bxzT4yaeRHQPT8CHEwpvB) | [Riker Lynch](https://open.spotify.com/artist/55V2PZSif52loZswGkBTeK) | [Remedy](https://open.spotify.com/album/7GzMp5E159jqdlQ4hJCBZi) | 3:23 |
 | 429 | [Daylight](https://open.spotify.com/track/3e77KhgFsECoLi2E96wyXQ) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasil '86](https://open.spotify.com/album/2TWdw6Wv1MQfijDukYyUqm) | 4:33 |
 | 430 | [I Wanna Touch U There](https://open.spotify.com/track/5pV8d2QFgPdXRCB6RZ3DuD) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Unbelievable](https://open.spotify.com/album/7uFLItUNd2vwdHonz7PdPg) | 3:24 |
 | 431 | [Heart With Your Name On It \(Solo Musivideos\)](https://open.spotify.com/track/21VCoOSymPoyBI5VgkvCC6) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:46 |
@@ -486,8 +486,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 476 | [Emergency..\. \(c'est juste pour rire\)](https://open.spotify.com/track/7wJvygRRDU8tWJGDw1KnVy) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Merci](https://open.spotify.com/album/1OywRJOoGaifH6Jug5zdLg) | 3:53 |
 | 477 | [Never Changing Love](https://open.spotify.com/track/6Gvle1zxRejXZh57PLpDNS) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [21..\. Ways To Grow \(Expanded Edition\)](https://open.spotify.com/album/1LCN1FSKjERpebIGF7TmtU) | 4:16 |
 | 478 | [Language Of Love](https://open.spotify.com/track/5kkwOqclBO8CHyryiEvYBn) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:15 |
-| 479 | [Letting You Go](https://open.spotify.com/track/7C6iDUTZxf6YbkLaxiXU1y) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [Time](https://open.spotify.com/album/36b3VVCe459J9S3JsC9Knz) | 4:47 |
-| 480 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
+| 479 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
+| 480 | [Letting You Go](https://open.spotify.com/track/7C6iDUTZxf6YbkLaxiXU1y) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [Time](https://open.spotify.com/album/36b3VVCe459J9S3JsC9Knz) | 4:47 |
 | 481 | [Tell It To The Moon](https://open.spotify.com/track/6VBDF1Q6du1T7p8LhyiblP) | [Martha Davis](https://open.spotify.com/artist/2ioCVuqjcRCoQPhEYY0kmg) | [Policy](https://open.spotify.com/album/3LYSK5WS0E3QigUu1mu0fs) | 4:11 |
 | 482 | [Only Love](https://open.spotify.com/track/29kLaik7s8woznFMjGv2qW) | [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [When You're A Boy](https://open.spotify.com/album/5jggxDQtP1eGNgqOAThQSY) | 4:24 |
 | 483 | [Live On Love \- Extended Mix](https://open.spotify.com/track/0BEP3J7Dsxb2nlpeAYYXyL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Feel Again](https://open.spotify.com/album/6Z57L1nJyOsBAX2JpP9xMb) | 3:49 |
@@ -605,4 +605,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 595 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 596 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AciNigAAAABDnMzdawo/+S0WxL1LvdVq`
+Snapshot ID: `AciTDAAAAADFn08PfvQTggBj8iFTd0FA`

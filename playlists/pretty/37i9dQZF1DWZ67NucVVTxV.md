@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > My enemy na sapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,186 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,224 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 24 | [Check Up](https://open.spotify.com/track/7vxljyUUjPsbXv6loi0dj7) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Check Up](https://open.spotify.com/album/4WyTvoyJ6JzMLnOzmaCZMk) | 2:23 |
 | 25 | [BY FIRE!](https://open.spotify.com/track/6SJAOQftqJXBX1WHi8Hs7h) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 3:05 |
 | 26 | [CA$H EVERYDAY](https://open.spotify.com/track/3suWL7v5DD7cMXsmo22djj) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [NOMADINHO: 4TH PRIME](https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3) | 2:54 |
-| 27 | [Óri Mi](https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI) | [Gäby](https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Óri Mi](https://open.spotify.com/album/121GR2YemARVcJLRYganqy) | 1:32 |
+| 27 | [Óri Mi](https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI) | [Gäby](https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Óri Mi](https://open.spotify.com/album/121GR2YemARVcJLRYganqy) | 1:23 |
 | 28 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 |
 | 29 | [Get Up](https://open.spotify.com/track/2vnLytR69QdTF5RSdseuIZ) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Get Up](https://open.spotify.com/album/3hgsFi1fNogPGdarMHCfUO) | 1:57 |
 | 30 | [Nigga](https://open.spotify.com/track/0voiVxfuDYLdwVTmE4bErO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 3:05 |

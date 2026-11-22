@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,598 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,652 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 8 | [Nee Choopule](https://open.spotify.com/track/6Aj47EmEZoiKAUIQspyC9D) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Endukante Premanta](https://open.spotify.com/album/0TUZIDy2nyZLmzYyF8eGwx) | 6:00 |
 | 9 | [Nuvvu Nuvvu](https://open.spotify.com/track/2herWh0PWhDrI6XCpj3FsI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Khadgam](https://open.spotify.com/album/4BBwcysIlZX8VjMV2AlTy7) | 5:33 |
 | 10 | [Adigaa](https://open.spotify.com/track/4k9RLcTWZog34sIXt23Ibr) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 3:30 |
-| 11 | [Challa Gaali Thakuthunna](https://open.spotify.com/track/6IWD4Vklpj6wHVGaMB89dO) | [Senthil](https://open.spotify.com/artist/4chi55fx5usXwPsJq1g2a3), [Rihitha](https://open.spotify.com/artist/7HCfn98lJJNkmv6Gn0F2Fc), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananth Sriram](https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz) | [Yevade Subramanyam](https://open.spotify.com/album/6bO23GNwB0rVPb9fduDb2b) | 4:08 |
+| 11 | [Challa Gaali Thakuthunna](https://open.spotify.com/track/6IWD4Vklpj6wHVGaMB89dO) | [Senthil](https://open.spotify.com/artist/4chi55fx5usXwPsJq1g2a3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananth Sriram](https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz) | [Yevade Subramanyam](https://open.spotify.com/album/6bO23GNwB0rVPb9fduDb2b) | 4:08 |
 | 12 | [Emantaro](https://open.spotify.com/track/0ZOlLikCYIMHF2sJcx3oS8) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Gudumba Shankar](https://open.spotify.com/album/4NZCKWyfrZC82wCR5fC7in) | 6:18 |
 | 13 | [Snehithudaa](https://open.spotify.com/track/0b7HiR0vRs2gUbwZeJjfN3) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sakhi](https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu) | 6:07 |
 | 14 | [Nee Tholisariga](https://open.spotify.com/track/5bRsCXzjpkjDXmVGkgfL4w) | [R\. P\. Patnaik](https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy), [Usha Munukutla](https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw) | [Santhosham](https://open.spotify.com/album/5e1sQOcB4PnyMXxQ6BMZJf) | 4:50 |

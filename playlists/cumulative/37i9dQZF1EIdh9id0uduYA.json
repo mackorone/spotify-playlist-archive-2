@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-18",
-  "description": "Epic music for you. Also try <a href=\"spotify:playlist:37i9dQZF1EIhNpWx8EPz9z\">orchestral</a>, <a href=\"spotify:playlist:37i9dQZF1EQcAnxYY2ZXzJ\">soundtrack</a>, <a href=\"spotify:playlist:37i9dQZF1EIgR99Qyg7ECh\">score</a>, <a href=\"spotify:playlist:37i9dQZF1EIfnkSMcirbYT\">neoclassical</a>, <a href=\"spotify:playlist:37i9dQZF1EIf5tEX16x28Z\">new age</a>",
+  "description": "Epic music for you. Also try <a href=\"spotify:playlist:37i9dQZF1EQcAnxYY2ZXzJ\">soundtrack</a>, <a href=\"spotify:playlist:37i9dQZF1EIhNpWx8EPz9z\">orchestral</a>, <a href=\"spotify:playlist:37i9dQZF1EIgR99Qyg7ECh\">score</a>, <a href=\"spotify:playlist:37i9dQZF1EIfnkSMcirbYT\">neoclassical</a>, <a href=\"spotify:playlist:37i9dQZF1EIf5tEX16x28Z\">new age</a>",
   "name": "Epic Mix",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 975266,
       "name": "A Dark Knight",
       "url": "https://open.spotify.com/track/5QFdOfeQlX8gp7ick31XRG"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 239000,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/5hJYkCht6O86MUeruTm9x2"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 82837,
       "name": "Akkadian Empire",
       "url": "https://open.spotify.com/track/7rzvcyHkSU7v9rwM2z0cIF"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 235226,
       "name": "Ameno",
       "url": "https://open.spotify.com/track/7mfvOqsvzZaUl7sfbcNk4E"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 155912,
       "name": "Aqua Vitae",
       "url": "https://open.spotify.com/track/7xyTwfEZREkNAajaaAAZRN"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 156759,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/5HuPzwE4B81glp3UMWGfB9"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 177142,
       "name": "Aria Math - Cinematic Orchestra",
       "url": "https://open.spotify.com/track/0WP8TIbpj2sWstuPvQcDcb"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 326773,
       "name": "Arrival to Earth",
       "url": "https://open.spotify.com/track/4u4VElxO7JM4IR4jR4TL1s"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 186613,
       "name": "Assassin's Creed III Main Theme",
       "url": "https://open.spotify.com/track/3Pyb7rYWBsRL24vmdlzlxk"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 153026,
       "name": "Autobots",
       "url": "https://open.spotify.com/track/1hQMzVXdoDZXcO16GOhWc5"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 266240,
       "name": "Blackheart",
       "url": "https://open.spotify.com/track/3F8IMDEkjiT2oalTDipFCx"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 191306,
       "name": "Bound by Purpose",
       "url": "https://open.spotify.com/track/6evF0ypf3WAVLrdhliUKkQ"
@@ -3338,7 +3338,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 278199,
       "name": "Conquest of Paradise",
       "url": "https://open.spotify.com/track/5avVpUakfMHD6qGpaH26CF"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 94621,
       "name": "Darth Vader vs Adolf Hitler",
       "url": "https://open.spotify.com/track/4d9GHjgoXm6kyeHQoARFHG"
@@ -3984,7 +3984,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 257546,
       "name": "Destiny of the Chosen",
       "url": "https://open.spotify.com/track/6W1DIA971Cl4YHm0dQQ8dV"
@@ -4282,7 +4282,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 115733,
       "name": "Dragon Rider",
       "url": "https://open.spotify.com/track/2DNWd97WEB7JrS1iLJ8S3C"
@@ -4402,7 +4402,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 195000,
       "name": "Dream Chasers",
       "url": "https://open.spotify.com/track/6tXtvM9glF9DFlete3EwVY"
@@ -4496,7 +4496,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 236641,
       "name": "Duel of the Fates (Reimagined) [From Star Wars Episode I: The Phantom Menace]",
       "url": "https://open.spotify.com/track/754qlMLTaIvPsZwAZFyzzN"
@@ -4536,6 +4536,24 @@
       "duration_ms": 142253,
       "name": "Dumbledore's Farewell",
       "url": "https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL"
+    },
+    {
+      "album": {
+        "name": "Dune 3 Trailer Music 2 - Epic Version",
+        "url": "https://open.spotify.com/album/0S8ES6gjEJbvjpT9KxWBzj"
+      },
+      "artists": [
+        {
+          "name": "PianoPrinceOfAnime",
+          "url": "https://open.spotify.com/artist/3EfZQ0iG4GrwXwF8K90Enr"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Dune 3 Trailer Music 2 - Epic Version",
+      "url": "https://open.spotify.com/track/3KjvFELownT7F1YbJFA8Cn"
     },
     {
       "album": {
@@ -5924,7 +5942,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 200226,
       "name": "First Class",
       "url": "https://open.spotify.com/track/5IWmdl33NNTLsKlLT6WSlh"
@@ -6182,7 +6200,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 194351,
       "name": "Formula 1 Theme",
       "url": "https://open.spotify.com/track/5r7egnfTIQjaKSGREhIky9"
@@ -6262,7 +6280,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 112689,
       "name": "Freedom Is Ours",
       "url": "https://open.spotify.com/track/4pROzeg0tvzXtbvuyQlTa0"
@@ -6478,7 +6496,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 166536,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/3UGPYGZAgNUDdIb0SkJKGE"
@@ -7346,7 +7364,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 133555,
       "name": "Heart of Courage",
       "url": "https://open.spotify.com/track/2jiVcU72bmVrLFeO2vIZjW"
@@ -7368,7 +7386,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 117394,
       "name": "Heart of Courage",
       "url": "https://open.spotify.com/track/2JJNV1Kwrcj28NhYX69b46"
@@ -7576,7 +7594,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 172800,
       "name": "He\u2019s a Pirate - Epic Version",
       "url": "https://open.spotify.com/track/4IE95t2pdFCUD8rBk919wE"
@@ -7794,7 +7812,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 183857,
       "name": "Hold Them Down",
       "url": "https://open.spotify.com/track/7wvGcFU9QtWhU8UUwd0SQ5"
@@ -8048,7 +8066,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 357173,
       "name": "Hunted",
       "url": "https://open.spotify.com/track/6fTryA4lyktMSFkzakl5vY"
@@ -8690,7 +8708,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 238333,
       "name": "Infinite White",
       "url": "https://open.spotify.com/track/5I9Cov6VfGvpiHe2k9EY9l"
@@ -8788,7 +8806,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 175658,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/56ip230HpH0onzY1mgiaa0"
@@ -8882,7 +8900,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 170704,
       "name": "Invincible (Instrumental)",
       "url": "https://open.spotify.com/track/4fDWdQGhJ8SdqvrvL001zk"
@@ -8936,7 +8954,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 143453,
       "name": "Iron Man 3",
       "url": "https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK"
@@ -9194,7 +9212,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 219088,
       "name": "Kanye West (Runaway) [Epic Version]",
       "url": "https://open.spotify.com/track/1OjFtCLI8pyUTINMSsyhmE"
@@ -9484,7 +9502,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 205120,
       "name": "La Locura Est\u00e1 en M\u00ed - Remix",
       "url": "https://open.spotify.com/track/448WCkNg0QupLcngnGbKvV"
@@ -9564,7 +9582,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 148519,
       "name": "Lacrimosa Dominae",
       "url": "https://open.spotify.com/track/7jVtEfc3TUM5TYl8bMeyzV"
@@ -9868,7 +9886,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/4LhgwcTWwJQc6DFTkLXVEc"
@@ -10120,7 +10138,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 294653,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/0tCVkXsVGdkhcg3JPQf7bG"
@@ -10364,7 +10382,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 250588,
       "name": "Love in Paradise",
       "url": "https://open.spotify.com/track/67DLd8kZir4eEaXZULD9Yj"
@@ -11122,7 +11140,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 234933,
       "name": "Mhysa",
       "url": "https://open.spotify.com/track/4wxaEgPlUbEUwiAnThBUkw"
@@ -11140,7 +11158,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 129950,
       "name": "Mind Heist",
       "url": "https://open.spotify.com/track/2dCVCXtqyOTj7FoJinCV1w"
@@ -11524,7 +11542,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 222453,
       "name": "My Name Is Lincoln",
       "url": "https://open.spotify.com/track/24V9V4erGgsbLeSa7tlimK"
@@ -11706,7 +11724,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 175594,
       "name": "Never Back Down",
       "url": "https://open.spotify.com/track/76dD3N5fLefdI4q2F7hlYH"
@@ -11860,7 +11878,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 167700,
       "name": "No Longer You",
       "url": "https://open.spotify.com/track/7Gxf7hWyHaQjCTXtqOkNNV"
@@ -11896,7 +11914,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 246271,
       "name": "No Time for Caution",
       "url": "https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi"
@@ -12062,7 +12080,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 254293,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/11IXRdEjiH0KL8nh4G1j7d"
@@ -12194,7 +12212,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 147807,
       "name": "Obsidian",
       "url": "https://open.spotify.com/track/3wfgdlB5M7xNkXamtftagD"
@@ -12364,7 +12382,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 521461,
       "name": "Odysseus",
       "url": "https://open.spotify.com/track/4cNfcmyCGw53tOSOsRI3z8"
@@ -12506,7 +12524,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 198694,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2OcJObU137hl1mz6JhVByn"
@@ -12564,7 +12582,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 195640,
       "name": "Optimus",
       "url": "https://open.spotify.com/track/7uhc5ZnEe8gHVvoye4A7Ic"
@@ -13096,7 +13114,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 268106,
       "name": "Preliator",
       "url": "https://open.spotify.com/track/0cYecWbOfhK3sFR5jWY5U6"
@@ -13862,7 +13880,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 207329,
       "name": "Requiem for a Dream (Epic Orchestral Version)",
       "url": "https://open.spotify.com/track/6FhLpKFcts4obzk3GXkYqs"
@@ -13884,7 +13902,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 249426,
       "name": "Requiem for a Tower",
       "url": "https://open.spotify.com/track/4MsokbZXfyIYpYMKiYUlDW"
@@ -14094,7 +14112,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 133017,
       "name": "Ride to Glory",
       "url": "https://open.spotify.com/track/03eqdlquKzJQg9LYngD6HO"
@@ -14252,7 +14270,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 182142,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/1TCdyogXbC2SO1o6PkriMw"
@@ -15892,7 +15910,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 205573,
       "name": "Star Trek Main Theme",
       "url": "https://open.spotify.com/track/6fVX8mF9ZqS1V8G2ZFCbLQ"
@@ -15968,7 +15986,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 144200,
       "name": "Statues",
       "url": "https://open.spotify.com/track/775OxWq9wfVzmVDS0n3zff"
@@ -16200,7 +16218,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 138799,
       "name": "Strength of a Thousand Men",
       "url": "https://open.spotify.com/track/7cpzXxMsnshObNFv5jlWyq"
@@ -16316,7 +16334,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 172152,
       "name": "Suns and Stars",
       "url": "https://open.spotify.com/track/3larSaqXsJSDwxHILQ3dzG"
@@ -16334,7 +16352,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 284834,
       "name": "Sunshine (Adagio in D Minor)",
       "url": "https://open.spotify.com/track/50ExtKr8j9cHTY3OEw282G"
@@ -16430,7 +16448,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 195232,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6dDQur1A01h7QBCz1Zxhq2"
@@ -16682,7 +16700,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 155853,
       "name": "Test Drive [3m20]",
       "url": "https://open.spotify.com/track/60rRDrWpiw1mXPNWXuEExX"
@@ -16776,7 +16794,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 123360,
       "name": "The Avengers",
       "url": "https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR"
@@ -16922,7 +16940,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 428200,
       "name": "The Battle",
       "url": "https://open.spotify.com/track/1ze3GTOVgAG5xLVrvcEoUS"
@@ -17150,7 +17168,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 201938,
       "name": "The Challenge",
       "url": "https://open.spotify.com/track/6OcYbEUhpuAMOSTBJrmfLM"
@@ -17356,7 +17374,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 165818,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU"
@@ -17608,7 +17626,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 169066,
       "name": "The Kiss",
       "url": "https://open.spotify.com/track/5umoZmJLW98rlImZulfLp5"
@@ -17792,7 +17810,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 228700,
       "name": "The Mad Queen",
       "url": "https://open.spotify.com/track/32Dd5uSqhkV2DuxmC2ccW0"
@@ -18232,7 +18250,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 426266,
       "name": "The Way",
       "url": "https://open.spotify.com/track/2ufpTLLgG1Q1etucp78w5m"
@@ -18776,7 +18794,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 275556,
       "name": "Time",
       "url": "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
@@ -19160,7 +19178,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 256558,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/1KJ1Ptfro1xv1o4QLoXq7m"
@@ -19656,7 +19674,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 320466,
       "name": "Victory",
       "url": "https://open.spotify.com/track/0mL7jKqLliIYtbEOyBlIhJ"
@@ -19830,7 +19848,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 153661,
       "name": "War Chant - Dune Part Three Trailer Music",
       "url": "https://open.spotify.com/track/025Bj1NUF7ravOGoPdPGAD"
@@ -20028,7 +20046,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 204586,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/5yn8iZezcZ6aAhDKAYcN0o"
@@ -20284,7 +20302,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 230606,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/6zwU8vaWh08iw8bV7EwFfz"
@@ -20438,7 +20456,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 186749,
       "name": "Where Is Your God Now",
       "url": "https://open.spotify.com/track/3ovtITup4WcZtgDjW7nWZR"
@@ -20474,7 +20492,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 122870,
       "name": "Why Do We Fall?",
       "url": "https://open.spotify.com/track/0Mbd5y1ZlWzSUR2jNQAJXY"
@@ -20572,7 +20590,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 247388,
       "name": "Wings",
       "url": "https://open.spotify.com/track/3CNhiZSfFSRTBYGamztCC9"
@@ -20758,7 +20776,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 345812,
       "name": "Would You Fall in Love with Me Again",
       "url": "https://open.spotify.com/track/3n6EpwMvMKRXEuYz4YUVRV"
@@ -20886,7 +20904,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 228746,
       "name": "You Say Run",
       "url": "https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB"
@@ -21056,7 +21074,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 167142,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/124FOoYRBypL3jNMzZPtT0"

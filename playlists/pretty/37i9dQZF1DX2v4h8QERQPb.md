@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Bardero$
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,518 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,513 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

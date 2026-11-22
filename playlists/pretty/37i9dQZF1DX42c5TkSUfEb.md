@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,378 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,343 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |
 | 100 | [tired](https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [tired](https://open.spotify.com/album/6gcpcA8kop087FU6dtUqPE) | 3:13 |
 
-Snapshot ID: `AAAAAG0fESYYmid/tTThmWrxydrhh5Vc`
+Snapshot ID: `AAAAANOSa996GfJf0lTB0OH1rCMQZHSA`

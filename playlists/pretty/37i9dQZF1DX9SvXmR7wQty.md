@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec K.Maro, Pomme, Ninho, La Zarra, Adéle Castillon,  Irdens Exantus, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,364 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,362 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > Relaxing jazz piano from the corner of a dim, cozy bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,605 likes - 125 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,557 likes - 125 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

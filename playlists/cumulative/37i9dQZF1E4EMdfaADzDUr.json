@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 233173,
       "name": "1968",
       "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 372640,
       "name": "54",
       "url": "https://open.spotify.com/track/716vLwPfdagrP3kGrYPmTh"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 413658,
       "name": "By the Brook",
       "url": "https://open.spotify.com/track/1CxkJzZB7IDqE5HtevW6JT"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 251707,
       "name": "California",
       "url": "https://open.spotify.com/track/5PMqsUfcYMHV3LnmIx4RGV"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 290243,
       "name": "Centre",
       "url": "https://open.spotify.com/track/0tqmR5NSGzHUqpuon6i5UI"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 414950,
       "name": "Dendrometry",
       "url": "https://open.spotify.com/track/7M1n5q7YmHCa3GtvaP3rtY"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 253859,
       "name": "Et le vent ?",
       "url": "https://open.spotify.com/track/26v12OEtCCX4CWObkeNzay"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 449225,
       "name": "Freed From Memories",
       "url": "https://open.spotify.com/track/0ctm8aaSxkORbzgZseBe42"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "in pursuit of connection",
       "url": "https://open.spotify.com/track/0kPBcaY5fjP1KHu903DECC"
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 325791,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4KDXL0KG6GZviMFMhosthB"
@@ -3368,6 +3368,28 @@
       "duration_ms": 373170,
       "name": "Kyoto - Extended Mix",
       "url": "https://open.spotify.com/track/0Y1OGSODGPTetOsUqMP5aP"
+    },
+    {
+      "album": {
+        "name": "L'ombre de moi-m\u00eame",
+        "url": "https://open.spotify.com/album/3zd9ZH8ani5L1lkGdI31nj"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        },
+        {
+          "name": "PACT",
+          "url": "https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286991,
+      "name": "L'ombre de moi-m\u00eame",
+      "url": "https://open.spotify.com/track/2KuYOG8IehhRzku9kqMe3p"
     },
     {
       "album": {
@@ -3534,7 +3556,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 236335,
       "name": "Living Later",
       "url": "https://open.spotify.com/track/6fFl4N6AB0pD0rb49DvhfP"
@@ -3954,7 +3976,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -4312,7 +4334,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 205714,
       "name": "New Perspective",
       "url": "https://open.spotify.com/track/5cSzuvpbwIHDbvTdM9hdmE"
@@ -4330,7 +4352,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 303859,
       "name": "Nighttime Feeling (Weekend Love)",
       "url": "https://open.spotify.com/track/5uNfp8283dTgqmnmYTvqrJ"
@@ -4680,7 +4702,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 282701,
       "name": "Passing Days",
       "url": "https://open.spotify.com/track/7sdwHdRvLJMAWbJyrJTOto"
@@ -4778,7 +4800,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 210491,
       "name": "PEOPLE//PLEASER",
       "url": "https://open.spotify.com/track/1Tczrcus38dWH0Y54zaJmQ"
@@ -5038,7 +5060,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 518240,
       "name": "Purpurreiher",
       "url": "https://open.spotify.com/track/0aNEWht4v7T61S8uREhERE"
@@ -5168,7 +5190,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 277992,
       "name": "Resonance Frequency",
       "url": "https://open.spotify.com/track/5dGS1QZQrWrZMAMytj1hIH"
@@ -5502,7 +5524,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 246955,
       "name": "Serpens",
       "url": "https://open.spotify.com/track/2Qyt9K8IpyR9xy9gIEA1EB"
@@ -5842,7 +5864,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 184320,
       "name": "Space",
       "url": "https://open.spotify.com/track/3Sc1sXkHQeGgs5125wLfqD"
@@ -5932,7 +5954,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 221577,
       "name": "Spiral - Edit",
       "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
@@ -5950,7 +5972,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 221066,
       "name": "Spirits of Joy",
       "url": "https://open.spotify.com/track/1jBKge3KmUCAtNazWzl93H"
@@ -7006,7 +7028,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 293510,
       "name": "Velvet Roads - Brandt Brauer Frick Remix",
       "url": "https://open.spotify.com/track/6g4YCo5pAcjxVeP7Sm61rk"
@@ -7306,7 +7328,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 294240,
       "name": "Wei\u00dfstorch",
       "url": "https://open.spotify.com/track/5QJ7iRiie9SP5kck7pSrXW"
@@ -7544,7 +7566,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 251612,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/4ubbyOgrDNCxvBJ0r9G9RL"

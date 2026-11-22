@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,844 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,835 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

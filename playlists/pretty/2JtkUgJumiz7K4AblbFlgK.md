@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain]
 
 > Chilled out, mellow pop from your favourite artists right now\. Cover: Dylan Gossett
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 346,490 likes - 117 songs - 6 hr 39 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 346,474 likes - 117 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain]
 | 7 | [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 |
 | 8 | [Dive \- Acoustic](https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive \(Acoustic\)](https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4) | 3:06 |
 | 9 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 |
-| 10 | [still a little something](https://open.spotify.com/track/6C0wqhnjUvHai4hNOsOOud) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [still a little something](https://open.spotify.com/album/1tqeRNh6UfpaEnlS656SQj) | 3:17 |
+| 10 | [still a little something](https://open.spotify.com/track/6C0wqhnjUvHai4hNOsOOud) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [still a little something](https://open.spotify.com/album/1tqeRNh6UfpaEnlS656SQj) | 3:17 |
 | 11 | [Higher \(C'est la vie\) \- Acoustic](https://open.spotify.com/track/1SgCYdcvspSuhC6wgm1KuC) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [Higher \(C'est la vie\) \[Acoustic\]](https://open.spotify.com/album/7yRsxT4P0CcrUuv1P2pomK) | 3:42 |
 | 12 | [Forest Fire](https://open.spotify.com/track/2H68FICymMXUfY2d4LyKms) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Forest Fire](https://open.spotify.com/album/0dVU77OGGXL8PIiobEBoGK) | 4:02 |
 | 13 | [Close One \- Acoustic](https://open.spotify.com/track/63OnQEl0F1148vKhrygnox) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One \(Acoustic\)](https://open.spotify.com/album/2ysjEWNjkBucMJaCHHKfZd) | 3:40 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain]
 | 42 | [girlfriends \- acoustic](https://open.spotify.com/track/7dqUbvg4fO9G8KRt5mUeDP) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [girlfriends \(acoustic\)](https://open.spotify.com/album/2kqfeYvZnp8aGdkzPmIFyi) | 3:28 |
 | 43 | [Tiny Dancer \- Remastered](https://open.spotify.com/track/7s0qgYr6jbRqfYRVhkFPfu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 6:15 |
 | 44 | [Side Effects \- Acoustic](https://open.spotify.com/track/5XdYlVWZydcTAbWFwravgI) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects \(Acoustic\)](https://open.spotify.com/album/20gcL4jSL2nUyDODzLZFqw) | 2:36 |
-| 45 | [people don't change \- demo](https://open.spotify.com/track/2OJJWhzn60YtiMoTFYLtMN) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [people don't change \(demo\)](https://open.spotify.com/album/4JhAAJS37dZAD8FfT9Ppd5) | 2:09 |
+| 45 | [people don't change \- demo](https://open.spotify.com/track/2OJJWhzn60YtiMoTFYLtMN) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [people don't change \(demo\)](https://open.spotify.com/album/4JhAAJS37dZAD8FfT9Ppd5) | 2:09 |
 | 46 | [Skyline Pigeon \- Piano Version / Remastered](https://open.spotify.com/track/4bli168vzpjzvkqHXn0EJ8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 3:54 |
 | 47 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 |
 | 48 | [I Don't Love You \- Acoustic](https://open.spotify.com/track/3LsduM07wEG6hYBR8tMNtV) | [Christy](https://open.spotify.com/artist/3BgniSkzaCLKgQSBkWcsoV) | [I Don’t Love You \(Acoustic\)](https://open.spotify.com/album/0OSGmhKWfR3dTeQpnDScvg) | 3:19 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain]
 | 96 | [Postcards](https://open.spotify.com/track/3Xi27eCYtFFEqDOGCWr6T8) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Postcards](https://open.spotify.com/album/3xAba1npkOgz18eO00d2Ft) | 3:49 |
 | 97 | [If Ever However Whenever Forever](https://open.spotify.com/track/6hWoFB6O3zD9WGe4TN3gJO) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [If Ever However Whenever Forever](https://open.spotify.com/album/6RKxkl2MCVXoqkR0bSp537) | 3:41 |
 | 98 | [Runaway \- Guitar Version](https://open.spotify.com/track/4pSmVnX17wpOQ6jer9kZ9N) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Runaway \(Guitar Version\)](https://open.spotify.com/album/5GmFVNPEcQ1A5T03IP1fqt) | 4:19 |
-| 99 | [lose](https://open.spotify.com/track/74NGwGnDUHnsHWM54qAEqV) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [lose](https://open.spotify.com/album/5OhWnSLSjhQQjN7LvQoWGy) | 2:56 |
+| 99 | [lose](https://open.spotify.com/track/74NGwGnDUHnsHWM54qAEqV) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [lose](https://open.spotify.com/album/5OhWnSLSjhQQjN7LvQoWGy) | 2:56 |
 | 100 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
 | 101 | [Next Thing \(Loverboy\)](https://open.spotify.com/track/3pKgOC7tlm4W0sCDLWPuPE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Next Thing \(Loverboy\)](https://open.spotify.com/album/3KAvR6XKFMYWnOlC7jzevW) | 3:03 |
 | 102 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/2JtkUgJumiz7K4AblbFlgK.md) - [plain]
 | 105 | [The Storm](https://open.spotify.com/track/6izqiQofSQemEHQgebxSzD) | [George O'Hanlon](https://open.spotify.com/artist/5U7rIQxm8yEEXbJB3bl7JE) | [The Storm](https://open.spotify.com/album/4Y0UuYHXcDXx5veHc6rpjy) | 3:14 |
 | 106 | [Shape Of My Heart](https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 4:39 |
 | 107 | [Chasing/Wasting Time](https://open.spotify.com/track/6QxsV3pAt6b4W4YlASULt8) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Chasing/Wasting Time](https://open.spotify.com/album/0EP83FLSLol542yJEAtsg8) | 2:38 |
-| 108 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
+| 108 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
 | 109 | [Girls Like Us \- Acoustic Version](https://open.spotify.com/track/1jfxr7knjiUEk0us86bRBz) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us \(Acoustic Versions\)](https://open.spotify.com/album/4xyYIlpGoVGEicd3Hc0WHX) | 2:54 |
 | 110 | [Seasons](https://open.spotify.com/track/2CEEKREL8eUBhNvsafRAsb) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Seasons](https://open.spotify.com/album/5pYxp6NKGkEZK8E9e6vvox) | 3:19 |
 | 111 | [New Wave \- Acoustic Version](https://open.spotify.com/track/0OzP1N5xTBjHWQL4np99vI) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [New Wave \(Acoustic Version\)](https://open.spotify.com/album/5HF1ccV26F5hD6BLVr2hjO) | 3:21 |

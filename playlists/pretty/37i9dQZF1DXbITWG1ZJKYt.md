@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,079,508 likes - 245 songs - 20 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,080,363 likes - 245 songs - 20 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 244 | [On The Sunny Side Of The Street](https://open.spotify.com/track/0DXb75jBHund71iIpnBBZv) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Side Up](https://open.spotify.com/album/75Le9ovZALfIivyeGGfkza) | 5:40 |
 | 245 | [Naima](https://open.spotify.com/track/1hVRTl4yhWmGW7ImZoO22e) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Deluxe Edition\)](https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi) | 4:18 |
 
-Snapshot ID: `AAAAAJy/UR2sxAP9tCom7DktD6GabWe4`
+Snapshot ID: `AAAAAPOgOIpCP9q9rtoqkp2DuQkQS4Kc`

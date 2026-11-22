@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,895 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,936 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

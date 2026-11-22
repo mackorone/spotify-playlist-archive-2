@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Helen Ochoa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,417 likes - 76 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,346 likes - 76 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

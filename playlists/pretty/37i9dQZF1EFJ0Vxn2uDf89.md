@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 191 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 191 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 84 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 |
 | 85 | [Leigh](https://open.spotify.com/track/7vqomJv75Sp17yEm3puTlv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:22 |
 | 86 | [Wasted](https://open.spotify.com/track/6QZNdH4HVdKMc6zxwyo6zF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:43 |
-| 87 | [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 |
-| 88 | [Bad Decisions](https://open.spotify.com/track/2WHEFHMKSfnCA36Ea2vfmr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:08 |
+| 87 | [Bad Decisions](https://open.spotify.com/track/2WHEFHMKSfnCA36Ea2vfmr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:08 |
+| 88 | [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 |
 | 89 | [Trepidation](https://open.spotify.com/track/4QOCthgAhRJKn4RbepFKC4) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 4:07 |
 | 90 | [The Weight of the Woods](https://open.spotify.com/track/5oZcHcUJ5zf9HviBBTbEJk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:42 |
 | 91 | [wallflower](https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:20 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 118 | [222](https://open.spotify.com/track/2n8sQRvylAvSM4bjE6yyw0) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:05 |
 | 119 | [Be My Yoko](https://open.spotify.com/track/2VxJ6xBdt83j9vSbMaZiKl) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Grizfolk](https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R) | 3:10 |
 | 120 | [Spiritual](https://open.spotify.com/track/1XYCF26x4HITjEyxMxZ01U) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Prelude](https://open.spotify.com/album/7rLrvPpkdkDXtocOwOXbVS) | 3:26 |
-| 121 | [Denim & Diamonds](https://open.spotify.com/track/01Owqjp8oN43Hw0r7TfJlt) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:12 |
-| 122 | [She Got Me](https://open.spotify.com/track/1oLV7m7ZYg34oCNI1vp2sy) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 1:54 |
+| 121 | [She Got Me](https://open.spotify.com/track/1oLV7m7ZYg34oCNI1vp2sy) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 1:54 |
+| 122 | [Denim & Diamonds](https://open.spotify.com/track/01Owqjp8oN43Hw0r7TfJlt) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:12 |
 | 123 | [Ocean Energy \(with Mr Gabriel\)](https://open.spotify.com/track/5JhPbo2a1K1nGhdZQSYXnE) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 3:41 |
 | 124 | [When I Got You](https://open.spotify.com/track/1mu8AkWi2i6iURU10BN4nt) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [When I Got You](https://open.spotify.com/album/0SoePJ4HcV4SQa93YMYPR1) | 3:16 |
 | 125 | [I Wish I Was A Shooting Star](https://open.spotify.com/track/4LgzdIJ6aR3UnTCr4EZ2Lt) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:37 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 190 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 191 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `AciNvAAAAABBW7ADgvA1G0aqV8dTtUuY`
+Snapshot ID: `AciTIAAAAABPifb3XgrwXDiD0xshs4Q0`

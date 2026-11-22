@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Fried Banana Shop
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,344 likes - 133 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,337 likes - 133 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

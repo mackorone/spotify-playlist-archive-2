@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Cezinando, Zara Larsson, Alan Walker, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,878 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,858 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 2 | [Fast Emotion \(from GTAVI: The Album\)](https://open.spotify.com/track/5ywRLhRi5JhoOoRurIyk5f) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Fast Emotion \(from GTAVI: The Album\)](https://open.spotify.com/album/6NL0OEV68wSPHAxQiGsuO5) | 2:53 |
 | 3 | [YUME](https://open.spotify.com/track/1kS1tlbXznxJ1Lcf41rL0A) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Raul](https://open.spotify.com/artist/7HJvf1WkxIKAF20M4uENgs) | [YUME](https://open.spotify.com/album/4i03JuGhTAVzOemgFYo88e) | 3:32 |
 | 4 | [Cold as a Blizzard](https://open.spotify.com/track/3cF0eG9pY99CRcGS3O2PLQ) | [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Cold as a Blizzard](https://open.spotify.com/album/5edWSkzS39jgHWOTz4KlVm) | 2:15 |
-| 5 | [DIVA](https://open.spotify.com/track/2f4MmxD14ih0NwOJtPzs7v) | [BEKLAGELIG](https://open.spotify.com/artist/2TegRnuyTu36WxXBGCXTUN), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Sevz](https://open.spotify.com/artist/57mBHUGMVlet5QyJ1zhylA), [Fanden](https://open.spotify.com/artist/2jtcW2dd5WjB1zIqMAhGdT) | [DIVA](https://open.spotify.com/album/3ESQtzwJ36zSQlDFWpI9G1) | 1:59 |
+| 5 | [DIVA](https://open.spotify.com/track/2f4MmxD14ih0NwOJtPzs7v) | [BEKLAGELIG](https://open.spotify.com/artist/2TegRnuyTu36WxXBGCXTUN), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Sevz](https://open.spotify.com/artist/2wIcDrGIOP35LTxKLpiwXX), [Fanden](https://open.spotify.com/artist/2jtcW2dd5WjB1zIqMAhGdT) | [DIVA](https://open.spotify.com/album/3ESQtzwJ36zSQlDFWpI9G1) | 1:59 |
 | 6 | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 |
 | 7 | [The Vacation Song](https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [The Vacation Song](https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK) | 3:27 |
 | 8 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |

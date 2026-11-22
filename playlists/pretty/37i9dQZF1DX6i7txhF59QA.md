@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: Jang Minho \(장민호\)\)<br/>Let's party with cheerful Korean trot medley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,196 likes - 154 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,198 likes - 154 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

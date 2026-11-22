@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > do not ever doubt mr\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,685 likes - 120 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,829 likes - 120 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

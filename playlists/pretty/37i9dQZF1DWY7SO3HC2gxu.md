@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music across Africa\. Cover: Mura
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,368 likes - 120 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,373 likes - 120 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

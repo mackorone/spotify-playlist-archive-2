@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Cassian, MPH, IDEMI, BLOND:ISH, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,762 likes - 119 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,761 likes - 119 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 52 | [RUN IN CIRCLES](https://open.spotify.com/track/6oudU6yGkmuvTCsiYfZIgZ) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [RUN IN CIRCLES](https://open.spotify.com/album/3utbjFsZZkkjQoaJa6KTrb) | 3:17 |
 | 53 | [DON'T SAY SORRY](https://open.spotify.com/track/1KAlQvQPoaGnxKzLRvXfoZ) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [DON'T SAY SORRY](https://open.spotify.com/album/4AwqOYFutqKIlBI1MBz1QL) | 2:53 |
 | 54 | [Fight It](https://open.spotify.com/track/4Mm0lBqjxHpecypk9ayAWx) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Fight It](https://open.spotify.com/album/6DEpX1OK5A4WKrX1lBU4V5) | 4:58 |
-| 55 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 55 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 56 | [DO NOT TOUCH](https://open.spotify.com/track/0fj7LbbOaTu22hoemvDFSc) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [DO NOT TOUCH](https://open.spotify.com/album/4EXphG82x55XoJf36KJSpW) | 3:26 |
 | 57 | [Dubstep Proper](https://open.spotify.com/track/06hW3CBqIcAQjlJsLLZM33) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Dubstep Proper](https://open.spotify.com/album/6XmeIexKCT3lBWies2fvDM) | 3:05 |
 | 58 | [BASS DOWN LOW](https://open.spotify.com/track/4SfmfGdmkNKaAehfaJNBLI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [BASS DOWN LOW](https://open.spotify.com/album/3ETPAwPRfnD3RafGRa93qL) | 2:19 |

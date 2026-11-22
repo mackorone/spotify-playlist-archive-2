@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,327 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,322 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 59 | [Sueño Raro](https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Sueño Raro](https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT) | 3:37 |
 | 60 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 |
 | 61 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
-| 62 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA SEGURA](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
+| 62 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [Catalina Segura](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
 | 63 | [Mi Religión](https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Un Amoroso Asunto](https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY) | 2:39 |
 | 64 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
 | 65 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 |

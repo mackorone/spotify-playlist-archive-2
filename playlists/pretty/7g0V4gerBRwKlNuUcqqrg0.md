@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain]
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 154,745 likes - 126 songs - 7 hr 32 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 154,756 likes - 126 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

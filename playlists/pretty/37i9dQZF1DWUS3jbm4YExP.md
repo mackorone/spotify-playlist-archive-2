@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,690 likes - 150 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,773 likes - 150 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Magnolia Tree](https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der) | [Magnolia Tree](https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB) | 2:48 |
 | 150 | [Guzelim Benim](https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl) | [Romano](https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl) | [G​ü​le G​ü​le](https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW) | 3:43 |
 
-Snapshot ID: `AAAAANIavOZ2l8U6woZ8McME4Q/b0v2t`
+Snapshot ID: `AAAAAIj9X5kQ6pD2aVYS1Je86LAsFjbN`

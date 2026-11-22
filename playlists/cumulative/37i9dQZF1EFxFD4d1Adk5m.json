@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 207977,
       "name": "Live It Up - Official Song 2018 FIFA World Cup Russia",
       "url": "https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT"
@@ -2139,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "STRANGERS",
+        "url": "https://open.spotify.com/album/4pG3WrkLjE56FpxT5YyvSm"
+      },
+      "artists": [
+        {
+          "name": "ENISA",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206596,
+      "name": "STRANGERS",
+      "url": "https://open.spotify.com/track/3ye2ucgFVQm67m0gWq2bY0"
+    },
+    {
+      "album": {
         "name": "Sucker / Imma Do My Thang",
         "url": "https://open.spotify.com/album/2VNqLVCqxcCQpDokaUuBpC"
       },
@@ -2220,6 +2238,24 @@
       "duration_ms": 164863,
       "name": "Take the Money and Run",
       "url": "https://open.spotify.com/track/19tMN8umiBe8059CFFuAJO"
+    },
+    {
+      "album": {
+        "name": "Need To Know",
+        "url": "https://open.spotify.com/album/2eaGTppnbiDub0FY57qJik"
+      },
+      "artists": [
+        {
+          "name": "XO",
+          "url": "https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206043,
+      "name": "Tell Me How It Feels",
+      "url": "https://open.spotify.com/track/0UkIRK1dzhaiTOGObfvpvi"
     },
     {
       "album": {

@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 74 | [Bed of Roses](https://open.spotify.com/track/5EaoIs38wFLA0wI3s1BKoh) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:29 |
 | 75 | [Chosen One](https://open.spotify.com/track/4ymjIpe2Xh1aSMWnPcBjXf) | [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h) | [Chosen One](https://open.spotify.com/album/4Cjds7BMXi2kIm71uDfERa) | 3:02 |
 | 76 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 |
-| 77 | [So Special](https://open.spotify.com/track/3K4vHAg8eSOdkADhmOUn1p) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 2:41 |
-| 78 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
+| 77 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
+| 78 | [So Special](https://open.spotify.com/track/3K4vHAg8eSOdkADhmOUn1p) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 2:41 |
 | 79 | [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 |
 | 80 | [Selfish](https://open.spotify.com/track/5c3GIQYmfyEuxFbCSExfl6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:50 |
 | 81 | [Talk with Your Body](https://open.spotify.com/track/7yPcAO4F6ozQi6lTi3n3Ai) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 3:08 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 118 | [Afterparty](https://open.spotify.com/track/0ZeD7U7TTQECHW8bU3l0WM) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 2:16 |
 | 119 | [Luv Hug](https://open.spotify.com/track/7AfipMJ54S6m004iJ3DvM9) | [Shunda K](https://open.spotify.com/artist/25EMx35978LX76CR9xPBhH), [Brittany Coney](https://open.spotify.com/artist/0jxdssOxFO2Z612ZOMbN1T) | [The Most Wanted](https://open.spotify.com/album/1T5GaDlXrcvs3UP1KBkQ0Q) | 3:44 |
 
-Snapshot ID: `AciNvAAAAADp33aJnI4CUSNoSeOZAl/w`
+Snapshot ID: `AciTIAAAAAA7+3q5f/oIpk0n0zFgaZUN`

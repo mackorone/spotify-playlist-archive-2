@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Pancho Barraza 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,537 likes - 120 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,587 likes - 120 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

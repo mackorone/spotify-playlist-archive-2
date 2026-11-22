@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,685 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,687 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 34 | [Part Time Pop Star](https://open.spotify.com/track/3KKqZvfveQ55uGePVr1Cht) | [Liam C](https://open.spotify.com/artist/5MPz6I6u7lDh2Cy1vPWfkd) | [Part Time Pop Star](https://open.spotify.com/album/4Ai3960D5TUMPbyjET37NU) | 2:33 |
 | 35 | [Home Run](https://open.spotify.com/track/109w5hk4ezymLbJVqmhQ5J) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT), [Ellie Hider](https://open.spotify.com/artist/1jjOn1UUNYsvqpjBQWk9Gl) | [Home Run](https://open.spotify.com/album/7lvKnXoAs9A7QpTJcrrGdc) | 2:26 |
 | 36 | [PAPER MAN !](https://open.spotify.com/track/6A60klhOqdxLnxzUugA5hf) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [I HATE YOU DON'T LEAVE ME !](https://open.spotify.com/album/2yZZ6VRCMGevv7zhSTvA8m) | 3:56 |
-| 37 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
+| 37 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
 | 38 | [Love You From A Distance](https://open.spotify.com/track/0hDYolSgOGbx1juIbsPplW) | [GRACE BRIDIE](https://open.spotify.com/artist/3u3NAucJOMpUFLwUS8QHFJ) | [Love You From A Distance](https://open.spotify.com/album/5BhlprUi6MnzJkWDCDK0Ai) | 3:08 |
 | 39 | [Lucy, When You Wake Up](https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Lucy, When You Wake Up](https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0) | 3:34 |
 | 40 | [Separate](https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Separate](https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv) | 4:16 |

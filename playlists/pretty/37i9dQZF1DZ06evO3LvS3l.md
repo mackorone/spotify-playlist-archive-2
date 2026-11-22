@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,317 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,324 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 49 | [Whiskey, Whiskey \(Take My Mind\)](https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [D.A.C.](https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1) | 2:30 |
 | 50 | [Cheap Thrills](https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 2:42 |
 
-Snapshot ID: `av48AAAAAADJlTgC8sZuz+yWM82nmkhB`
+Snapshot ID: `av+NgAAAAABWUs6PMn4z+4YoMulyKTxf`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-711 songs - 1 day 14 hr 57 min
+712 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [So Good](https://open.spotify.com/track/4G23gt9SnUrA7jtG8BVgtT) | [Katemale](https://open.spotify.com/artist/07sWxfVhzmjlQAlmH6McxS) | [So Good](https://open.spotify.com/album/5PDbfCzt21vfXQuofAr0Ba) | 2:37 | 2026-06-12 | 2026-10-13 |
 | [So Lucky](https://open.spotify.com/track/1Vyrs5FGXCrRmLI9x2YxQN) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [So Lucky](https://open.spotify.com/album/5hh2AwUTQ7G6TpnRwp8h1P) | 3:12 | 2024-02-27 |  |
 | [So Special](https://open.spotify.com/track/3K4vHAg8eSOdkADhmOUn1p) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 2:41 | 2024-08-23 |  |
+| [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 | 2026-11-21 |  |
 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 | 2024-02-27 |  |
 | [Sorry \- Latino Remix](https://open.spotify.com/track/3grxgV6Ot8KqtysApjYLs1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Sorry \(Latino Remix\)](https://open.spotify.com/album/6GY8rrxuEzSJI08F0rfigi) | 3:39 | 2024-02-27 |  |
 | [Sorry To Distract \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/1m2tvjehOcaAs9q0t2Y7bQ) | [Cheyenne Isabel Wells](https://open.spotify.com/artist/0W6h16rjhBU7tfUlXU6Hzr), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:51 | 2024-02-27 |  |

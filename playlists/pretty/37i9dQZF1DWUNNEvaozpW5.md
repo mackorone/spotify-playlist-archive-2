@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Estopa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,194 likes - 120 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,220 likes - 120 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

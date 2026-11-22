@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 628 likes - 76 songs - 4 hr 45 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 631 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,9 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 74 | [Read my Rights](https://open.spotify.com/track/0XGD6SwvkNiWJFr210ZikL) | [The Garbage Gang](https://open.spotify.com/artist/1iSFR5LUg4HcCTtOKiaX0s) | [Read my Rights](https://open.spotify.com/album/0Q0aTQdsJelK56hZ731jry) | 3:02 |
 | 75 | [Immortalized](https://open.spotify.com/track/4kk2VWSqNOb6vL7N0id4tn) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [Good for Nothing](https://open.spotify.com/album/1G7PsPs1tq25rNBTAPBSjr) | 3:18 |
 | 76 | [Chasing The Pain](https://open.spotify.com/track/1QTIeW4raevjoFoqCnpyJN) | [Eric Dover](https://open.spotify.com/artist/7gsPTHnMvjXV2j2yI5o7rA), [Devilfire](https://open.spotify.com/artist/4NzMsvQzasrFhegc5P5zLn) | [Black Soul Vendetta](https://open.spotify.com/album/3Q1t7CRjx91TZjWu15fpXn) | 3:57 |
+| 77 | [Paranoia](https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Paranoia](https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR) | 2:45 |
+| 78 | [Fuck Off](https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Fuck Off](https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u) | 2:54 |
+| 79 | [City To Ourselves](https://open.spotify.com/track/6BkXcKxGTEV8InQPa56gvN) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [City To Ourselves](https://open.spotify.com/album/0yRXOtTOW4YHWwVIhYGOZ5) | 3:38 |
+| 80 | [Nostalgia](https://open.spotify.com/track/6jVrywFRidATOA5opVWDAg) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Soul](https://open.spotify.com/album/5sObpToTONHJqsGCV7KMe6) | 14:06 |
 
-Snapshot ID: `AAACZArBWDgrSGmTctg9whxKpMCGLRVw`
+Snapshot ID: `AAACaCX96KMuv9MwfZ34StoHtmY5hynM`

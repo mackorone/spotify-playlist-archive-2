@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,735 songs - 4 day 4 hr 33 min
+1,737 songs - 4 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2023-07-22 | 2023-08-10 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-03-13 | 2026-05-03 |
 | [Ghost Girl](https://open.spotify.com/track/5voKDnuTGXBnIZbAqWnb8R) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 3:06 | 2025-07-23 | 2025-07-25 |
+| [GiiiRIP](https://open.spotify.com/track/4i115Ijs5MbfNBYpNsM0Sq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [GiiiRIP](https://open.spotify.com/album/4569jF2yYaWMvXuj3dDvFD) | 2:44 | 2026-11-21 |  |
 | [Gimme Gimme](https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Kingdom](https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4) | 3:51 | 2025-12-05 |  |
 | [Gimme Gimme](https://open.spotify.com/track/4wMY3Gk5WTjS47KtgNW4Gi) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Gimme Gimme](https://open.spotify.com/album/3BbiPVB8IP5qOUBGa5ZGnX) | 3:51 | 2025-11-26 | 2025-12-06 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 | 2022-07-22 |
@@ -591,7 +592,7 @@
 | [Lemonade](https://open.spotify.com/track/5WFV78jTbidmCVGg27c4Ss) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Lemonade](https://open.spotify.com/album/57qYwCkzMfGVErJGAK7wqn) | 3:19 | 2025-08-09 | 2025-12-06 |
 | [less](https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:13 | 2026-06-13 | 2026-06-20 |
 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-25 | 2026-09-18 |
-| [Let go](https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Let go](https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO) | 3:50 | 2024-07-27 |  |
+| [Let go](https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Let go](https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO) | 3:50 | 2024-07-27 | 2026-11-22 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-25 | 2025-12-28 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-25 | 2023-12-30 |
 | [let me know](https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [let me know](https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw) | 3:28 | 2023-09-22 | 2023-09-24 |
@@ -1433,6 +1434,7 @@
 | [放棄的界限](https://open.spotify.com/track/2yjdWLdNVckOHnR3DZNZM3) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [放棄的界限](https://open.spotify.com/album/3RAevkXe0xuObe3O7Ip7Ng) | 3:37 | 2026-07-31 | 2026-08-29 |
 | [救命稻草](https://open.spotify.com/track/0NX59nyBh0j8tlviUXereP) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 4:21 | 2024-03-13 | 2024-03-24 |
 | [救命稻草](https://open.spotify.com/track/4WBNWQZR2TCDanKIg95gpT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [救命稻草](https://open.spotify.com/album/5OlvQy8lBirp1AiU1ce8u7) | 4:21 | 2023-11-10 | 2024-02-18 |
+| [敢愛敢做](https://open.spotify.com/track/5k72u9OHqyTDMylqpG0izJ) | [George Lam](https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s), [David Ling Jr](https://open.spotify.com/artist/5ElXLkDzZPQA9fBzBjA9TJ) | [十三子祥](https://open.spotify.com/album/1houNW33tabPNBjNlsg3Bx) | 4:59 | 2026-11-21 |  |
 | [旋轉木馬](https://open.spotify.com/track/5YOyplpxGqOuxDr0BlQI0u) | [米爺](https://open.spotify.com/artist/4VSNdg5c0V26Srdi4MOHR7), [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [旋轉木馬](https://open.spotify.com/album/0QYP20KqKGrDyMYqkrTBhx) | 3:14 | 2026-07-14 |  |
 | [日出時讓街燈安睡 \(feat\. Jacky Cheung 張學友\)](https://open.spotify.com/track/1JUBwmyI8NXHwGO0SygEC3) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1), [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [日出時讓街燈安睡](https://open.spotify.com/album/6ObjdJaVenfMHwA8EYu7Za) | 4:16 | 2021-09-15 | 2021-10-08 |
 | [早知](https://open.spotify.com/track/7xdLlJHqhWRxK3WgVV5ROr) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [Most Wanted 霆鋒精選](https://open.spotify.com/album/4OX3BsQeHL79gLZJAy1Wtq) | 3:26 | 2025-04-26 | 2025-04-30 |
@@ -1570,7 +1572,7 @@
 | [當年情 \- 電影 "英雄本色" 主題曲](https://open.spotify.com/track/5rq0xnLBXZtNq1YYELpK4j) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [哥哥情歌](https://open.spotify.com/album/7bzBcjZ6AgbR9eXcBIEQnX) | 4:15 | 2021-04-03 | 2021-04-04 |
 | [當我們不再說晚安](https://open.spotify.com/track/5nft8DV4HTOPyt5RJ5xBA9) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [當我們不再說晚安](https://open.spotify.com/album/6gzB8wOU4M97H6dosO2uY8) | 4:00 | 2026-04-03 | 2026-05-08 |
 | [發現號](https://open.spotify.com/track/51sQ8I5sJYBXB0UatyrH5R) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [RubberBand Concert \#1](https://open.spotify.com/album/1VL5K8pByxcJfM3q7wcYBA) | 4:25 | 2021-04-07 | 2021-04-14 |
-| [白果](https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [COMPOSITION](https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ) | 3:02 | 2025-12-17 |  |
+| [白果](https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [COMPOSITION](https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ) | 3:02 | 2025-12-17 | 2026-11-22 |
 | [白果](https://open.spotify.com/track/3RSo9nydGrGTIRz4WKhE66) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [白果](https://open.spotify.com/album/3ivzUnVBuoaFa8Yl32gkiN) | 3:03 | 2025-01-04 | 2025-12-18 |
 | [百萬大道](https://open.spotify.com/track/4xwEBYfjM23pqOPGHdLPKN) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [百萬大道](https://open.spotify.com/album/4PKdmzU7XZXfCtXKksG6JX) | 2:44 | 2024-06-15 | 2024-06-19 |
 | [目擊者](https://open.spotify.com/track/4Gv1a2aasJe7OBGuJ3WJ0V) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [Sweet & Sour](https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE) | 4:23 | 2025-07-18 | 2025-07-26 |

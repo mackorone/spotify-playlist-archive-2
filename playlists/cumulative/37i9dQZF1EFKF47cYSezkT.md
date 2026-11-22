@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 5 hr 25 min
+112 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Wish You The Best](https://open.spotify.com/track/0QcM7UYxKyCantEBDN6d6V) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Jeans, Boys & Jesus \(Deluxe\)](https://open.spotify.com/album/3RvEN43t9XzBsSEzBupbrq) | 2:58 | 2026-10-18 |  |
 | [Work Of Art](https://open.spotify.com/track/1EU6rKdmudLSZJl9zJ4geL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 2:43 | 2024-01-29 |  |
 | [Written By A Woman](https://open.spotify.com/track/5ZLBwNrCPjjLBbPwsq09bZ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:26 | 2024-01-29 |  |
-| [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 | 2024-10-20 |  |
+| [Wrong](https://open.spotify.com/track/1IDZVFG4DeydwCuTP87vr5) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5xOSWk2Lq9gjqBSwqvVTk6) | 3:07 | 2026-11-21 |  |
+| [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 | 2024-10-20 | 2026-11-22 |
 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 | 2024-01-29 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

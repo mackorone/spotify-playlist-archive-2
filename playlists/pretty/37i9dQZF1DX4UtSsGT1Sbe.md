@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s\. Cover: Michael Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,070,896 likes - 150 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,071,627 likes - 150 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

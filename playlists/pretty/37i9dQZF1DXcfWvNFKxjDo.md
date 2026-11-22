@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Niklas Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,914 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,917 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 4 | [Back 2 Basics](https://open.spotify.com/track/2qOAPQHnLnmdGeMzpPgdLg) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Back 2 Basics](https://open.spotify.com/album/7j8isPHDehSK7vvzX8a7cG) | 3:36 |
 | 5 | [Bottle Service VIG](https://open.spotify.com/track/6kPXvN6u28Ku8xcHtpL0yV) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bottle Service VIG](https://open.spotify.com/album/70IKjzaI9Kdvd0LOPtLy2S) | 3:21 |
 | 6 | [Last Night On Earth](https://open.spotify.com/track/4fcxX5mglxYQdd4Wv251Yw) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Last Night On Earth](https://open.spotify.com/album/7M4T9aHgRvsUXUJa0nslF4) | 2:42 |
-| 7 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 7 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 8 | [Personal](https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Personal](https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu) | 3:22 |
 | 9 | [Piece of Your Love](https://open.spotify.com/track/0MmSOjUpkoSu8WePBIzH88) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Piece of Your Love](https://open.spotify.com/album/5aqKsW1DEwhyFWopnzWykz) | 2:07 |
 | 10 | [Cooked](https://open.spotify.com/track/3yVtaxEMLQFqDJppY9Zhlk) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [MDDLTN](https://open.spotify.com/artist/4E7dMxp4SghhM5iFqEJLN5), [Nico La Nova](https://open.spotify.com/artist/0lTU6uFgbYZ37bZDNy0pbK) | [Cooked](https://open.spotify.com/album/7E9T9xwBGTbhTz97R1Pac4) | 3:23 |

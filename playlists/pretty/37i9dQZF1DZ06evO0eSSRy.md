@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 28 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 28 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 18 | [The Luck You Had](https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:24 |
 | 19 | [Know](https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr) | 3:53 |
 | 20 | [412](https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:54 |
-| 21 | [Crashing In Circles](https://open.spotify.com/track/0wRD55qpmEqTTDMr2Kjemo) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 3:10 |
+| 21 | [Hurry Slowly](https://open.spotify.com/track/7plPrRlkbzd47xyWjDn6Xv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 4:19 |
 | 22 | [Houses of American Style](https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:04 |
 | 23 | [Semi Finalists](https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:43 |
 | 24 | [Violet](https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:12 |

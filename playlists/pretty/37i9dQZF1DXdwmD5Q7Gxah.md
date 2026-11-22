@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > aLex vs aLex its barking season <a href="https://loremandfriends.substack.com/p/sincerely\-and\-always\-forever"> plus \~new substack ft Heathers & Sammie Pearson here\~</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,926 likes - 162 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,042 likes - 162 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

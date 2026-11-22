@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Zé Felipe, Felipe Amorim
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,328 likes - 59 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,361 likes - 59 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 51 | [Príncipe Malvado](https://open.spotify.com/track/1wfN83s0Vt8FHLI5AL3V0z) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv), [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [Príncipe Malvado](https://open.spotify.com/album/7DbktIAeEVZ771PDcldcpE) | 2:37 |
 | 52 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 |
 | 53 | [Até Quando \- Ao Vivo](https://open.spotify.com/track/1XVbPUw5TejRT1IZHd7bOh) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Na Liga em Sampa \(Ao Vivo\)](https://open.spotify.com/album/1RmjfeUd6VTJNB4PJr2v3I) | 3:08 |
-| 54 | [FREQUENCIA DO PAREDAO](https://open.spotify.com/track/0ecohKlsV2UhUzuIWi8sis) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Contágio](https://open.spotify.com/album/4KnEviHskXTMD7jEmXPwsQ) | 2:38 |
+| 54 | [FREQUENCIA DO PAREDAO](https://open.spotify.com/track/0ecohKlsV2UhUzuIWi8sis) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Filho do Piseiro](https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW), [Dj Felipe Maia](https://open.spotify.com/artist/5xtHPJpaKmn16wr3JNA0na), [DJ Will o Cria](https://open.spotify.com/artist/13Fa4Eu8fFuYqRWpIB7hnV) | [Contágio](https://open.spotify.com/album/4KnEviHskXTMD7jEmXPwsQ) | 2:38 |
 | 55 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Diego](https://open.spotify.com/artist/7LhZFr6gyaW6KzVCMr40M8), [Victor Hugo](https://open.spotify.com/artist/2l49kVAvFQsuOM2SGsq0Pz) | [Tubarões \(Ao Vivo\)](https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB) | 2:42 |
 | 56 | [Obediente](https://open.spotify.com/track/5wdUd8sx9XVDe6Z0lGPIV4) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Na Manha](https://open.spotify.com/album/5VWqu3zetGSOS1xx7ceclH) | 2:31 |
 | 57 | [Mega Hair \- Ao Vivo](https://open.spotify.com/track/6ad36mVIDEoBOwhnlnjhcl) | [Netto Brito](https://open.spotify.com/artist/1slHyPE5gIYlHAKLiLv9PU), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Ilha do Arrocha, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5qjR3lMaqF61ZNQeWPhIMt) | 2:33 |

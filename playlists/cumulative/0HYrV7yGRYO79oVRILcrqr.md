@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-892 songs - 2 day 7 hr 32 min
+894 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Fastlane](https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Fastlane](https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH) | 3:18 | 2026-09-04 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-03 | 2026-07-12 |
 | [Fields of Life](https://open.spotify.com/track/2ZKwoUgERG8768n6ZQ6V6w) | [William Drake](https://open.spotify.com/artist/3Y40ISCrUgYcnwGexhaGxu) | [Fields of Life](https://open.spotify.com/album/1kIcy1XnVk1yFQL7FJQUVM) | 2:26 | 2026-10-03 |  |
+| [Fight](https://open.spotify.com/track/0i1adgYjpyXrw6CHjBTYGR) | [Guiltera](https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ) | [They](https://open.spotify.com/album/2ZdJpX7Fc9OK6zVSRqDZDU) | 3:25 | 2026-11-21 |  |
 | [Final Descent](https://open.spotify.com/track/0BLoSiH5Wzq5wT4gXWDDzI) | [KuF](https://open.spotify.com/artist/6qQu1ULU2QNlyWwZSoZnAj) | [Chapter 1](https://open.spotify.com/album/1oqKyK55DAyyTmCdwn37Lj) | 5:16 | 2026-05-28 | 2026-06-18 |
 | [Find My Way](https://open.spotify.com/track/7bBnQzXdNjsxqgf7FxP7bn) | [Tebtu](https://open.spotify.com/artist/4VVetWxuWhE6moggaKzJwB), [Tenet](https://open.spotify.com/artist/42zJQmRYrhAZQrpQL9ZVBn) | [Teb](https://open.spotify.com/album/7x4BJYFARd9zXvEA5h7ZiC) | 3:13 | 2026-05-09 | 2026-05-26 |
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 | 2025-12-17 |
@@ -297,6 +298,7 @@
 | [Gods Of Nothing](https://open.spotify.com/track/2Yv9CxExpB1ShTHJunFUR2) | [LITIUM](https://open.spotify.com/artist/6uRMtCzWDnM9a0hPsfdFAL) | [Gods Of Nothing](https://open.spotify.com/album/23e77QDUNdAZa1nnrrGeHQ) | 4:10 | 2026-10-07 |  |
 | [Goes like this](https://open.spotify.com/track/75u3OSWmlthee7G1k149hA) | [FH Baloo](https://open.spotify.com/artist/7rkZjZIX74Z5uG5ayplthd) | [Goes like this](https://open.spotify.com/album/2fRbbTLonnCV19IAYyjqmX) | 5:14 | 2025-09-02 | 2026-07-12 |
 | [Golden Tomorrow](https://open.spotify.com/track/4z0PFotNn3qfzy8UQjABQd) | [Mitchell Young](https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM) | [Divine Happiness](https://open.spotify.com/album/0Bb2w1dW3P2ds374ghyUug) | 3:24 | 2026-07-19 | 2026-08-10 |
+| [Goldieloxxx \- Broadcast Version](https://open.spotify.com/track/4P2ivSWuLgVRz0XgFp82Os) | [Freetoe Feet](https://open.spotify.com/artist/2IzenTwX1yXuovrgqf4r2g), [Blothar](https://open.spotify.com/artist/4MdgGPZo5PqtnC0pSoHiwZ), [Matt Starr](https://open.spotify.com/artist/2sNjM6oAA0Gpggjh5MPIwN), [Slim Jelly](https://open.spotify.com/artist/1wYscFfhoW0ZaXqMjwUUoL), [Desmond Taylor](https://open.spotify.com/artist/6xzP6wd9tKFXQ11PsVMTMt) | [Goldieloxxx \(Broadcast Version\)](https://open.spotify.com/album/1NrulozpZABhbMRZggEBUx) | 3:25 | 2026-11-21 |  |
 | [Good ain't easy](https://open.spotify.com/track/7ic4oLf0a1zRr4dRPdLltR) | [Billy Witch](https://open.spotify.com/artist/2ZWJj4PwlFSk50k0Oca1Bw) | [Good ain't easy](https://open.spotify.com/album/0anYwqjjH7DryavMxjKjv0) | 3:19 | 2025-11-10 | 2025-12-17 |
 | [Good Bye Baby](https://open.spotify.com/track/7wKQ4aUYEPXIq0FuWTIiS3) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Good Bye Baby](https://open.spotify.com/album/2C0ez6GxS1biRCR0AwH7fB) | 4:34 | 2025-11-12 | 2025-12-17 |
 | [Good Riddance](https://open.spotify.com/track/4juAsolkncVtBOvsjqiRfA) | [Daysick](https://open.spotify.com/artist/1mnmYPlWBNM4hgWRsgaelX) | [Good Riddance](https://open.spotify.com/album/3OOccZEWmOTs99aPn0w9M3) | 3:51 | 2026-03-07 | 2026-05-26 |

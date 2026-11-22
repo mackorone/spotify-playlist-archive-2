@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 191024,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4PklS7o8eJTGx744IZUOH0"
@@ -3528,6 +3528,24 @@
       "duration_ms": 152152,
       "name": "Saj Ke",
       "url": "https://open.spotify.com/track/0f2E2QWspTyRSygY4fx7Y8"
+    },
+    {
+      "album": {
+        "name": "Aarzoo",
+        "url": "https://open.spotify.com/album/77dBVKvNRHQtaxg1u5MKLL"
+      },
+      "artists": [
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441333,
+      "name": "Sajan Sajan Teri Dulhan",
+      "url": "https://open.spotify.com/track/16LrVogeqYzGOfPXCzTVyU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbzlSZRAZpg.md) - [plain]
 
 > Uni Uni Uni
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,487 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,486 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

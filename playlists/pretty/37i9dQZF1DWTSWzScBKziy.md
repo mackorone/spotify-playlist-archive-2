@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Strings & Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,931 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,933 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

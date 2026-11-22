@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > The sound of Afrobeats echoing around the world\. Cover: Baby Daiz & Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,877 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,924 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 79 | [For Life](https://open.spotify.com/track/3AQQQuvDhbER2K6a9ZajdE) | [Paulo Chakal](https://open.spotify.com/artist/0RmMqOdyj5lvgDY2GU2R8q), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [777](https://open.spotify.com/album/2fAsi13z2Xne3Uke6cNDjr) | 2:44 |
 | 80 | [Baby \(feat\. Minz\)](https://open.spotify.com/track/6YQgFBhoO8y1GZUX8imNgL) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Energy](https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr) | 2:13 |
 
-Snapshot ID: `AAAAALnHUhOAbTbSCOKNJ1/ZTjnfH97D`
+Snapshot ID: `AAAAANp0tBjaJWrscbsNWRj45Ojlw4Ke`

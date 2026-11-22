@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Zoë Livay, Kevin, Justen de Wildt, Dua Lipa, Kybba, Within Temptation & S10 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,967 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,950 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 38 | [Come Back Home](https://open.spotify.com/track/3hDIyRkk42heKhWGHtnxXI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Come Back Home](https://open.spotify.com/album/0AkkMJxxOA8xN02QfhIriD) | 3:44 |
 | 39 | [Belangrijk](https://open.spotify.com/track/1SStwka8Rc6xFWMsViJgOf) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [DE GIER](https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw) | 2:39 |
 | 40 | [Coco Chanel](https://open.spotify.com/track/03Dugqx7PX53fgN0KCh9CX) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Coco Chanel](https://open.spotify.com/album/31uvW58WJDa4Vr2LUZQhhi) | 2:36 |
-| 41 | [Crimi’s](https://open.spotify.com/track/5BXW4GHpeI1sx79uf1EW5q) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw) | [Crimi’s](https://open.spotify.com/album/54iq2zPKKTgKUV2J8h4bGK) | 2:48 |
+| 41 | [Crimi’s](https://open.spotify.com/track/5BXW4GHpeI1sx79uf1EW5q) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Crimi’s](https://open.spotify.com/album/54iq2zPKKTgKUV2J8h4bGK) | 2:48 |
 | 42 | [Hectic](https://open.spotify.com/track/6nduZhrN7Gom8j5VQtFfGJ) | [SHEP](https://open.spotify.com/artist/2krDLe9I5TNlM5riYKfibr), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Hectic](https://open.spotify.com/album/7AFObR47q4Iykw3Uai3lmk) | 3:20 |
 | 43 | [VERLATEN](https://open.spotify.com/track/3A3XRpPe7QIwgs4j3galpp) | [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [VERLATEN](https://open.spotify.com/album/7InyhvghdzhjDEE8xVanYh) | 1:44 |
 | 44 | [Fire](https://open.spotify.com/track/3gXPPeGYuBhNHCrOXBwsrQ) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Fire](https://open.spotify.com/album/19bfTUc47e6s9zFw5vNHsd) | 3:43 |

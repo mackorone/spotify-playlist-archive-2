@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 
 > Congratulations to all of the nominees and winners! Cover: Miranda Lambert and Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,351 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,246 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

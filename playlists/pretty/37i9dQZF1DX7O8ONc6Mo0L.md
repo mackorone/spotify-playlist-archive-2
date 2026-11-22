@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,794 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,861 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Vendavais](https://open.spotify.com/track/2KQtvdqhFtNnkz3613nW0t) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Intimidade \- Vol\. 03](https://open.spotify.com/album/1b0fR8h1vgZnWyXKZtRx8C) | 3:47 |
 | 80 | [Nada vai me separar \- Acústico](https://open.spotify.com/track/3Gx2PliooXRtT5Budt9Oc0) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/0OnNop3rDPF1YGjO94Okju) | 4:38 |
 
-Snapshot ID: `AAAAALqcwv+/k9qbURFfZbigsyMutb+d`
+Snapshot ID: `awBGowAAAABZ8DQ/jemvSSq3kyFLl4tX`

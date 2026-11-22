@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,674 songs - 4 day 0 hr 57 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,688 songs - 4 day 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1682,5 +1682,19 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1672 | [Damaged Goods \- 2021 Remaster](https://open.spotify.com/track/3X5iUAjlzKx0GmFvZr9i51) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment! \(2021 Remaster\)](https://open.spotify.com/album/36IRJcHbBBWgd3WjVEBEit) | 3:26 |
 | 1673 | [Pearls](https://open.spotify.com/track/4J7s7j5ulwElPG7HaGQDXR) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 4:33 |
 | 1674 | [Natural's Not In It \- 2021 Remaster](https://open.spotify.com/track/52gNmYoOzjH95jG3GPZWJ3) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment! \(2021 Remaster\)](https://open.spotify.com/album/36IRJcHbBBWgd3WjVEBEit) | 3:06 |
+| 1675 | [Star Star \- Remastered](https://open.spotify.com/track/5SvZD6ZnmDm0L4Ic5gvd5O) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/00ZkRCzSTS6jwUJLpaTWcj) | 4:23 |
+| 1676 | [Too Tough \- Remastered 2009](https://open.spotify.com/track/6HgSPgOSz5Gc9mlg5VV44E) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Undercover \(2009 Re\-Mastered\)](https://open.spotify.com/album/6Dee9XTTIUh5zXRUguuC40) | 3:51 |
+| 1677 | [Smoke Signals](https://open.spotify.com/track/2zMjyH4hqFkTNjlqZWK3YL) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:23 |
+| 1678 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 |
+| 1679 | [Demi Moore](https://open.spotify.com/track/0in4mX3ZUJNmBIyzuQoayG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:18 |
+| 1680 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 |
+| 1681 | [Killer](https://open.spotify.com/track/0LuyoQtrplnft7hoVf35QE) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:09 |
+| 1682 | [Georgia](https://open.spotify.com/track/5ASPgiUgnrHCfwnJlh04ZR) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 4:07 |
+| 1683 | [Chelsea](https://open.spotify.com/track/0X9dI1bvADrtAz9Uptharo) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 4:42 |
+| 1684 | [Would You Rather](https://open.spotify.com/track/6BbvPVwcZM0KO8XOv0wkcs) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:19 |
+| 1685 | [You Missed My Heart](https://open.spotify.com/track/3BGzKSHUVJawX3x2z6W7js) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 6:57 |
+| 1686 | [It'll All Work Out \(Bonus Track\)](https://open.spotify.com/track/0QTdNeshBSmLmpgHP7R5iV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 2:46 |
+| 1687 | [The Elevator](https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:40 |
+| 1688 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
 
-Snapshot ID: `AAAOtKuKXAIeEURnMFEx0bgByq1LXz38`
+Snapshot ID: `AAAOwhrcEG+bWtBfYKNYr65xUW4nafWY`

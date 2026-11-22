@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,653 likes - 360 songs - 19 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,655 likes - 360 songs - 19 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 59 | [On The Loose](https://open.spotify.com/track/0kThmY7A0ynir2qLWFFhrY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 |
 | 60 | [Act My Age](https://open.spotify.com/track/4bqIFmnVAsndYWuXxAwQet) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:18 |
 | 61 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
-| 62 | [Better Than Words](https://open.spotify.com/track/4qG3Um3jXlQnaQV1yVo3it) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:28 |
-| 63 | [Funeral](https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:54 |
+| 62 | [Funeral](https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:54 |
+| 63 | [Better Than Words](https://open.spotify.com/track/4qG3Um3jXlQnaQV1yVo3it) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:28 |
 | 64 | [Clouds](https://open.spotify.com/track/6ibWCCEne6WEqDBAv7BeXv) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:51 |
 | 65 | [Little White Lies](https://open.spotify.com/track/0O6VeBiFCwHrpVURJSsGsU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:17 |
 | 66 | [Long Way Down](https://open.spotify.com/track/2UFOh8iMQ2DON7sl3lqGJH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 |
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 170 | [Know My Way Around](https://open.spotify.com/track/794PgTv90bMLrOQPK9R6Uf) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:54 |
 | 171 | [Doesn't Matter](https://open.spotify.com/track/3bJySSPfgLzsM7lLJyr90G) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [TOOGOODTOBETRUE \(feat\. Sufjan Stevens & Rebecca Sugar\)](https://open.spotify.com/album/2tZug3aKryBvtzJTfKqARf) | 3:28 |
 | 172 | [24 Hours x Gypsy Woman \(feat\. Yasmin Green, Crystal Waters & Bougenvilla \) \[VIP Mash\-up\]](https://open.spotify.com/track/2YhF6jwopT55f7mKQynoQq) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [Bougenvilla](https://open.spotify.com/artist/1I5pYXplsbqmHaVWlAEhla), [Yasmin Green](https://open.spotify.com/artist/2UWEzvq7cBIcPt5Z9AwD1Y) | [24 Hours x Gypsy Woman \(feat\. Yasmin Green, Crystal Waters & Bougenvilla \) \[VIP Mash\-up\]](https://open.spotify.com/album/4hUvBq66ZnTxafPFy7Vgzg) | 2:23 |
-| 173 | [Think About You](https://open.spotify.com/track/49wvp0zE6RvYuxUrCoHgl6) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Think About You](https://open.spotify.com/album/10NN47P7LBmv69ywf8rX5e) | 3:08 |
-| 174 | [Monochromatic](https://open.spotify.com/track/1uXM1Gp6sLJJRERgICc5dB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:44 |
+| 173 | [Monochromatic](https://open.spotify.com/track/1uXM1Gp6sLJJRERgICc5dB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:44 |
+| 174 | [Think About You](https://open.spotify.com/track/49wvp0zE6RvYuxUrCoHgl6) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Think About You](https://open.spotify.com/album/10NN47P7LBmv69ywf8rX5e) | 3:08 |
 | 175 | [Running Out Of Time](https://open.spotify.com/track/4o8oO3wFV633UmrxQhjRTQ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 3:34 |
 | 176 | [the way i used to](https://open.spotify.com/track/7F3vjCKPlhvWKGl0h4p3lm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:15 |
 | 177 | [Cashmere](https://open.spotify.com/track/55sJWbfqyI3XjzNua7Mqk8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 2:55 |
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 221 | [All We Ever Wanted](https://open.spotify.com/track/7ekvWq3OCA6avtuSOnc2c1) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:44 |
 | 222 | [Infinity \(123\)](https://open.spotify.com/track/0hxm1fqvdrGLRbf1RF6wID) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Infinity \(123\)](https://open.spotify.com/album/5QzDHoPIyHsaD0XgnMwnKH) | 2:19 |
 | 223 | [Guitars and Drugs](https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Guitars and Drugs](https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V) | 3:12 |
-| 224 | [Never Seen You Dance](https://open.spotify.com/track/13N1HPNBK0oU0FbAUZ3xYT) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:48 |
-| 225 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
+| 224 | [Lungs \- Calibre Remix](https://open.spotify.com/track/0DzMAkZf0mSZQp4UFhhjFz) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Lungs \(Calibre Remix\)](https://open.spotify.com/album/3rQgypEayz3PHKrzSmbZOu) | 4:53 |
+| 225 | [Never Seen You Dance](https://open.spotify.com/track/13N1HPNBK0oU0FbAUZ3xYT) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:48 |
 | 226 | [This Fire](https://open.spotify.com/track/4PfWwiOX46mIy3qRt09SGX) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [FLOWER SHOPS \(THE ALBUM\): Two Dozen Roses](https://open.spotify.com/album/5BtYFs4SDVtDNnFFeXgEjw) | 3:02 |
 | 227 | [h2s \- Bonus track](https://open.spotify.com/track/7KFF8MzCpu1s8zTrHMt3Of) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [my neighbours don't know.](https://open.spotify.com/album/6ou5jov81dSypk2KJOLnCQ) | 4:22 |
 | 228 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 359 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 360 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AciNvAAAAACzqpKcHQDdINfpMuuxwuYJ`
+Snapshot ID: `AciTIAAAAABgyTWNB+7RBkJoPmUzBBqM`

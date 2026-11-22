@@ -2295,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "OCEAN OF MELODIES",
+        "url": "https://open.spotify.com/album/3qo5wqHfKMVB09QbogeG0T"
+      },
+      "artists": [
+        {
+          "name": "SS.PERSIAN",
+          "url": "https://open.spotify.com/artist/0OrIsLM9dCRG7SzGpzlhNJ"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313200,
+      "name": "Don't Turn Away",
+      "url": "https://open.spotify.com/track/2guSt8H3wo8SEvuOKLF1v9"
+    },
+    {
+      "album": {
         "name": "Don't waste your life!",
         "url": "https://open.spotify.com/album/4SebSNbUzPtNbLjv5AX7IV"
       },
@@ -5344,6 +5362,24 @@
       "duration_ms": 178410,
       "name": "La Chica del Centro",
       "url": "https://open.spotify.com/track/6fca1NUXcdFTPy0k0gurvX"
+    },
+    {
+      "album": {
+        "name": "Baikonur",
+        "url": "https://open.spotify.com/album/2Lk0UEtxvptllO1hnePJSZ"
+      },
+      "artists": [
+        {
+          "name": "Zephiro",
+          "url": "https://open.spotify.com/artist/7euzpSgCdCp5RdQQ1hvsyJ"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273826,
+      "name": "La Colpa",
+      "url": "https://open.spotify.com/track/6RYdVakZoIM4pNgfnPLbpa"
     },
     {
       "album": {

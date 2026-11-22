@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,726 songs - 4 day 4 hr 54 min
+1,727 songs - 4 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Anime A Metà](https://open.spotify.com/track/3o7VA7PCkHz2VYwXxZz7BC) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Anime A Metà](https://open.spotify.com/album/7qhml3sGdAvkB8nb2UQSo2) | 3:28 | 2026-03-09 | 2026-04-12 |
 | [Annet blod og DNA/Sjelevenn](https://open.spotify.com/track/0qFNPhIhBOtjOF1y0pfAOZ) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [Nostalgi](https://open.spotify.com/album/0238UGZP3T67WKpTJzO2Bg) | 3:51 | 2026-06-09 | 2026-07-19 |
 | [Another Cold Night in Chile](https://open.spotify.com/track/4U9wAy7SZrFtLoddShRllT) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Another Cold Night in Chile](https://open.spotify.com/album/7CKnc19vPdvtaZg1x1WZZr) | 3:32 | 2026-06-17 | 2026-07-19 |
+| [Another Goodbye](https://open.spotify.com/track/5yutgXr4hZanogTM7zxNR9) | [Fiery Gizzard](https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q) | [Another Goodbye](https://open.spotify.com/album/5KI7IMOyJbImYN8pOGTTep) | 4:12 | 2026-11-21 |  |
 | [Another Liquid Morning](https://open.spotify.com/track/1GUYfGyDlbXPfby77Wokp0) | [Angelo Ceriani Lofi Project](https://open.spotify.com/artist/0LC1JuXqN4iw9mouw8uak0) | [The Nymph's Vessel](https://open.spotify.com/album/6ADS7HvbQTiH8Qf7wMT8ub) | 2:40 | 2026-10-08 | 2026-11-12 |
 | [Antidote](https://open.spotify.com/track/6HidUQd2zsPED0wenu4HTK) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [A Too Lyrical](https://open.spotify.com/artist/1uvEtoW9SltUZ8bTZBIt64) | [Antidote](https://open.spotify.com/album/0Uz2hkErLP4W0eA8j2Q6y4) | 4:04 | 2026-03-16 | 2026-04-12 |
 | [Anxiety You](https://open.spotify.com/track/470eynl4mNNwdfnjmpXP1M) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Anxiety You](https://open.spotify.com/album/03qy6zCm1Y7oMSZIFDXSax) | 5:32 | 2026-05-26 | 2026-07-03 |

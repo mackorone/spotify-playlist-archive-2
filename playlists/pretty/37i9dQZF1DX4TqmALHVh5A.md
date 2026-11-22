@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: Dalí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,896 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,901 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 23 | [SUPERMAN](https://open.spotify.com/track/1Vto5Pgn6hOTpplSPcifJK) | [Cēzange](https://open.spotify.com/artist/0ln6gczhiAB8jyixTK6oJZ) | [SUPERMAN](https://open.spotify.com/album/0sevJ4k3OW7EW1MDffikAW) | 2:17 |
 | 24 | [À quoi je sers à part faire des classiques](https://open.spotify.com/track/3VQyhP9XFRrwLp7pRu3cX1) | [Stanislas](https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1) | [Bonsoir Stanislas](https://open.spotify.com/album/5ZVYJHqZAfUgJnYP7WytWp) | 2:45 |
 | 25 | [les veines du gueush](https://open.spotify.com/track/2QPbEUIuHBiWVMsaQbaWtz) | [ange](https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG) | [les veines du gueush](https://open.spotify.com/album/0snthMRbNrEZoKbGpksX10) | 1:43 |
-| 26 | [Mon Sac](https://open.spotify.com/track/2BCAVdzC0l3ReJtx2LAVbJ) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Mon Sac](https://open.spotify.com/album/2LI2h5BdnIk6a7kaq39pxb) | 2:17 |
+| 26 | [MON SAC](https://open.spotify.com/track/2BCAVdzC0l3ReJtx2LAVbJ) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [MON SAC](https://open.spotify.com/album/2LI2h5BdnIk6a7kaq39pxb) | 2:17 |
 | 27 | [Photos au mur](https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Photos au mur](https://open.spotify.com/album/6sAWUdypDkS7q4nXVisEM3) | 2:32 |
 | 28 | [Tout donner](https://open.spotify.com/track/0dVDB7he251aHjIp2OeCdG) | [Hotel Blue](https://open.spotify.com/artist/21hEqhG1BY1ZNg9chrijgp) | [Paolo](https://open.spotify.com/album/7nl8l63P2fqRVtvJb0UM2G) | 2:19 |
 | 29 | [Loin De Moi](https://open.spotify.com/track/4nwrzpcTlORPRJ0ZllSQRn) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Mec Normal](https://open.spotify.com/album/4DrSzyacBLr10kPXyu5RSz) | 3:33 |

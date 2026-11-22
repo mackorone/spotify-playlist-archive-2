@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Emma Ogier
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,676 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,615 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

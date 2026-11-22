@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > Canada's best dance hits, featuring BLOND:ISH + HAYLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,498 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,465 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 10 | [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 |
 | 11 | [Taste My Love](https://open.spotify.com/track/40aY6e7zdpErlxmINKgoIl) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [L I F E / L I N E](https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ) | [Taste My Love](https://open.spotify.com/album/05nl0hL6qeR0Nup4Bgs4x8) | 2:37 |
 | 12 | [Start Again](https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Start Again](https://open.spotify.com/album/43X6TZVig2360nHCauKFBc) | 5:16 |
-| 13 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 13 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 14 | [Why Die When You Can Dance?](https://open.spotify.com/track/0dpFFVul4ABmvEYR0hdWfJ) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Why Die When You Can Dance?](https://open.spotify.com/album/2JGDUWYtSqJ7LISND4Eedh) | 2:12 |
 | 15 | [Fancy Footwork](https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR) | 3:12 |
 | 16 | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg) | 3:15 |

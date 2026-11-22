@@ -2001,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Anjeli a d\u00e9moni",
+        "url": "https://open.spotify.com/album/4zyiEJSGcDNp8dRLT9naSp"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Anjeli a d\u00e9moni",
+      "url": "https://open.spotify.com/track/21Fk5jy1cV9ABAKHW3Ed2H"
+    },
+    {
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/1WyiymUhkXPBHzVptPpq1V"
       },
@@ -3188,7 +3206,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -5596,6 +5614,32 @@
       "duration_ms": 228673,
       "name": "Boss",
       "url": "https://open.spotify.com/track/4k6lImeyIoy0a3BFXggnWt"
+    },
+    {
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/5Xk4kgd7G6tHBPZXGqaXVt"
+      },
+      "artists": [
+        {
+          "name": "Sud\u017ea",
+          "url": "https://open.spotify.com/artist/3VX1cFy3R2AQjsjujZC9OP"
+        },
+        {
+          "name": "Sanchez22",
+          "url": "https://open.spotify.com/artist/4Mkunnaj0EsmtwYR1BypXO"
+        },
+        {
+          "name": "Huclberry",
+          "url": "https://open.spotify.com/artist/0TugplS9T5YUowNlX8MRZt"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195728,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5tZOSkmk5gHHnIOKxumCP9"
     },
     {
       "album": {
@@ -14172,7 +14216,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 157475,
       "name": "FURT PYTLE",
       "url": "https://open.spotify.com/track/59EAcjJDDQA7wAbRM4JDIw"
@@ -21156,7 +21200,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Kdo??",
       "url": "https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF"
@@ -22926,7 +22970,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -26888,7 +26932,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -33468,7 +33512,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 149035,
       "name": "po show",
       "url": "https://open.spotify.com/track/71eERERMDR7epp7n2ncgqI"
@@ -35152,7 +35196,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "P\u00e1tky",
       "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
@@ -37552,7 +37596,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -42079,6 +42123,28 @@
     },
     {
       "album": {
+        "name": "TANGO",
+        "url": "https://open.spotify.com/album/1hT1Xccoiq6YlrM79aSbCl"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229811,
+      "name": "TANGO",
+      "url": "https://open.spotify.com/track/3KOAcLxIHkFfF5u9maJ3xJ"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -45730,7 +45796,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 188000,
       "name": "V Hlav\u011b",
       "url": "https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o"

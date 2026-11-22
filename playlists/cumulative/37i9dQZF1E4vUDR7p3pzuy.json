@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 314210,
       "name": "All The Lovers",
       "url": "https://open.spotify.com/track/4WXNi3vDKyiOiuwz7JvkDf"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 171907,
       "name": "Blood",
       "url": "https://open.spotify.com/track/6eY15HTD4h77DwxvI2wmEO"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -8120,7 +8120,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -8138,7 +8138,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 284071,
       "name": "Fallout Shelter Resort",
       "url": "https://open.spotify.com/track/4kV1j7nNUxHURKbmDll7zK"
@@ -10798,7 +10798,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 282789,
       "name": "I Bet you bet on me",
       "url": "https://open.spotify.com/track/3BdPfRImojsrXKNP8RHTgT"
@@ -11693,6 +11693,24 @@
     },
     {
       "album": {
+        "name": "The Shadowman",
+        "url": "https://open.spotify.com/album/1mT4xHe4A4C8G6nzc83blJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Heal",
+          "url": "https://open.spotify.com/artist/1ZbfIkqawKxngQLS9rfS6W"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "In The Rose Garden",
+      "url": "https://open.spotify.com/track/5TFKIzXIiQEqzUdQrNY7AN"
+    },
+    {
+      "album": {
         "name": "In This Twilight",
         "url": "https://open.spotify.com/album/38UbIY8B1lhUpuy5bYYJxk"
       },
@@ -11770,6 +11788,24 @@
       "duration_ms": 302063,
       "name": "Incubus Succubus",
       "url": "https://open.spotify.com/track/22aTxOrMJ2heqnqOKYY53q"
+    },
+    {
+      "album": {
+        "name": "Independence Day",
+        "url": "https://open.spotify.com/album/4QiSIiobPxDHFptXPNsxxP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Zhivago",
+          "url": "https://open.spotify.com/artist/2fDxkQtYc4QEPUbThA6LsD"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244127,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/2zI3unOcxC2YBnPpgRlljm"
     },
     {
       "album": {
@@ -11964,10 +12000,28 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 358706,
       "name": "Instruments of Joy",
       "url": "https://open.spotify.com/track/0qA3waMueZJMvT3ztOpjyS"
+    },
+    {
+      "album": {
+        "name": "Reveries Before Silence",
+        "url": "https://open.spotify.com/album/7E3eIkVbx2UoU5JnB0aPZY"
+      },
+      "artists": [
+        {
+          "name": "Twice A Man",
+          "url": "https://open.spotify.com/artist/5f4QXUKgp11PrkYGztcfGy"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358706,
+      "name": "Instruments of Joy",
+      "url": "https://open.spotify.com/track/2fy5EnCgPSMoZmdSMV3FG3"
     },
     {
       "album": {
@@ -14548,7 +14602,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 212423,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6DHvP8Wblrg9XRyNXrsQNi"
@@ -15823,6 +15877,24 @@
     },
     {
       "album": {
+        "name": "Never Forever",
+        "url": "https://open.spotify.com/album/5gHWtcwTUs3UZrYd55yxFk"
+      },
+      "artists": [
+        {
+          "name": "fading pacific",
+          "url": "https://open.spotify.com/artist/3QZ9v3ovVuK99rmRQKbyxn"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258018,
+      "name": "Never Forever",
+      "url": "https://open.spotify.com/track/5sYFVlCzUjhWzCzJmaJXI9"
+    },
+    {
+      "album": {
         "name": "NEVER SAY NEVER",
         "url": "https://open.spotify.com/album/5dIDi8NI3XifptBiHCx0wT"
       },
@@ -16344,7 +16416,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 230545,
       "name": "Not Your Mother",
       "url": "https://open.spotify.com/track/3QP0viAkqGKE3uxodgbEo8"
@@ -17644,7 +17716,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 230375,
       "name": "Primary",
       "url": "https://open.spotify.com/track/3VMsVctpacmnH24pFMhmIa"
@@ -18370,6 +18442,24 @@
       "duration_ms": 328195,
       "name": "Ride the Night",
       "url": "https://open.spotify.com/track/65CLz2CF0QVhogC2nTz0A6"
+    },
+    {
+      "album": {
+        "name": "Reality Red",
+        "url": "https://open.spotify.com/album/2fFmZ5oWdi3IXBln04Y8Az"
+      },
+      "artists": [
+        {
+          "name": "Bitumen",
+          "url": "https://open.spotify.com/artist/1RGasOUCBKHhLrFWn10M7y"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321921,
+      "name": "Rites Private",
+      "url": "https://open.spotify.com/track/7BnQxmKerr56Q2qSmWVukz"
     },
     {
       "album": {
@@ -20328,7 +20418,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -21914,7 +22004,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 240744,
       "name": "Sweet Nightmare",
       "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
@@ -22504,7 +22594,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 218076,
       "name": "The Axe",
       "url": "https://open.spotify.com/track/1hNe73GiOT09efx1usYZcp"
@@ -22592,7 +22682,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 202127,
       "name": "The Black Hole Chronicles",
       "url": "https://open.spotify.com/track/2VR3dcqabJAr1QMsg0jIp5"
@@ -24052,7 +24142,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 230259,
       "name": "This War Is Wrong",
       "url": "https://open.spotify.com/track/0UjVPxJDB5rTpUB8zydF2W"
@@ -24626,7 +24716,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -24771,7 +24861,7 @@
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 197549,
+      "duration_ms": 195649,
       "name": "Trust Fall",
       "url": "https://open.spotify.com/track/7EhVKTqGb7BSIJLm1O5uB8"
     },
@@ -25304,7 +25394,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 252074,
       "name": "Until It's Gone",
       "url": "https://open.spotify.com/track/4EkRQa7qqj63c8jqKVga7W"
@@ -25930,7 +26020,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Walking out of the cave",
       "url": "https://open.spotify.com/track/6Hud5jnMcqPbtqIGPJwLqC"
@@ -27382,7 +27472,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "You Think I Care",
       "url": "https://open.spotify.com/track/1cIu80Ia1EBGAFT5QalKap"
@@ -27472,7 +27562,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 231875,
       "name": "Your Burning Stare",
       "url": "https://open.spotify.com/track/2Nan0EHN6cRFbmWrTtDJwt"

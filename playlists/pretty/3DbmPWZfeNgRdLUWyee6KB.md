@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,339 likes - 131 songs - 7 hr 54 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,340 likes - 132 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,5 +139,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 129 | [Virtuel](https://open.spotify.com/track/1MMjv32wl370qJX7sZN14h) | [Mathieu Gattuso](https://open.spotify.com/artist/5R3q8fx3lfNhMCKugdiRBx) | [Des choses simples](https://open.spotify.com/album/7i6MpxUbl4jIuGnpN1NWMW) | 3:37 |
 | 130 | [Best Of Both Worlds](https://open.spotify.com/track/0ep1bQzqyWJNcIOvwVSxim) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [GTA \(Growth, Trust & Affection\)](https://open.spotify.com/album/5AmotIpxQ42TDzWYj1IIMR) | 4:38 |
 | 131 | [Breakfast in Belgium](https://open.spotify.com/track/7qv5b3Sg2vzDacfy278gUb) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [WHERE](https://open.spotify.com/album/26uB4soPBKHN6BYkEEXYXs) | 3:33 |
+| 132 | [Another Goodbye](https://open.spotify.com/track/5yutgXr4hZanogTM7zxNR9) | [Fiery Gizzard](https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q) | [Another Goodbye](https://open.spotify.com/album/5KI7IMOyJbImYN8pOGTTep) | 4:12 |
 
-Snapshot ID: `AAAZy76vhDnd1cGVmGu/0No5EHpB7XyI`
+Snapshot ID: `AAAZzNECkxpx5Ur/zUmj1Z4EBIucty1i`

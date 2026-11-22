@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222 likes - 202 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223 likes - 202 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 23 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 |
 | 24 | [Bad Omens](https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:35 |
 | 25 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
-| 26 | [Lying \(feat\. Lil Tjay\)](https://open.spotify.com/track/6x8V3kUNlhVbwRbVP0QeSS) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Lying \(feat\. Lil Tjay\)](https://open.spotify.com/album/7whrfVw1VGwlQB1z9pHEbq) | 3:23 |
-| 27 | [Undress Rehearsal](https://open.spotify.com/track/1aPqexHVW20OTamBHdWWVL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:34 |
+| 26 | [Undress Rehearsal](https://open.spotify.com/track/1aPqexHVW20OTamBHdWWVL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:34 |
+| 27 | [Lying \(feat\. Lil Tjay\)](https://open.spotify.com/track/6x8V3kUNlhVbwRbVP0QeSS) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Lying \(feat\. Lil Tjay\)](https://open.spotify.com/album/7whrfVw1VGwlQB1z9pHEbq) | 3:23 |
 | 28 | [How Bad Do You Want It \(Oh Yeah\)](https://open.spotify.com/track/7EcMaRZ5PeKgsF1PhpXUZf) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [How Bad Do You Want It \(Oh Yeah\)](https://open.spotify.com/album/5Anvuuz9x1tgrMIxurIvw3) | 3:44 |
 | 29 | [All The Way](https://open.spotify.com/track/0SB9oIIBgZaYdV2GrwkxbX) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 2:59 |
 | 30 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 201 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 202 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AciNvAAAAAAKqE4xEgdAsTVkYVg1eDWX`
+Snapshot ID: `AciTIAAAAAA8Z4KM+Knfzr+C6Lj3VwRN`

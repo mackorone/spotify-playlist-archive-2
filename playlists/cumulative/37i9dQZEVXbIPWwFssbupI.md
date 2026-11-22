@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,878 songs - 6 day 6 hr 13 min
+2,881 songs - 6 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [50k€](https://open.spotify.com/track/5SN8g3koBFMIJdB7icMzk3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:08 | 2023-10-29 | 2023-11-03 |
 | [50°](https://open.spotify.com/track/2yl8lePeFcQAPJKef8AM93) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 3:59 | 2022-09-17 | 2022-09-30 |
 | [5711](https://open.spotify.com/track/5RC9yp02bibgHc4aPfjYe9) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Stamina, Memento](https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9) | 3:05 | 2021-07-04 | 2021-07-05 |
-| [6.35](https://open.spotify.com/track/1cUQ8R5ulPGoijhaU6RAYM) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [IN INFINITUM](https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0) | 2:43 | 2026-11-14 |  |
+| [6.35](https://open.spotify.com/track/1cUQ8R5ulPGoijhaU6RAYM) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [IN INFINITUM](https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0) | 2:43 | 2026-11-14 | 2026-11-22 |
 | [6G](https://open.spotify.com/track/3kE3VJSOnOqmAXasRyDdfE) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:51 | 2024-02-10 | 2024-02-18 |
 | [6G](https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [6G](https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt) | 2:52 | 2024-02-03 | 2024-02-11 |
 | [7/7](https://open.spotify.com/track/4amTXPB0wsTVRQ47RLaw04) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [7/7](https://open.spotify.com/album/3gaIeLI062EL7svxxQQ2E4) | 2:37 | 2023-04-15 | 2023-05-07 |
@@ -1152,7 +1152,7 @@
 | [I'm So Excited](https://open.spotify.com/track/5uiQynC3Gq7tR7U41BONTF) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [I'm So Excited](https://open.spotify.com/album/093iA3ZvTkpHNfWtiDKhiz) | 2:55 | 2022-12-11 | 2023-01-10 |
 | [I'M SORRY](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 | 2024-09-27 | 2025-01-19 |
 | [I'M THAT GIRL](https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:28 | 2022-07-30 | 2022-08-01 |
-| [I.G](https://open.spotify.com/track/3WCqZwVyQHAqKSqRcjWNfK) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [IN INFINITUM](https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0) | 3:07 | 2026-11-14 |  |
+| [I.G](https://open.spotify.com/track/3WCqZwVyQHAqKSqRcjWNfK) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [IN INFINITUM](https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0) | 3:07 | 2026-11-14 | 2026-11-22 |
 | [Ici](https://open.spotify.com/track/46q47fNFlw92EzX6xdJHg1) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [Kekra](https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr) | 2:58 | 2021-04-04 | 2021-04-05 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2023-10-13 |
 | [II MOST WANTED](https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:28 | 2024-03-30 | 2024-04-01 |
@@ -1587,6 +1587,7 @@
 | [Ma p'tite prison](https://open.spotify.com/track/1ajuXHjr4xLmr0h73GCuf1) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:53 | 2025-12-06 | 2025-12-08 |
 | [Ma p'tite étoile](https://open.spotify.com/track/4MQgqO4HollqhSs1Cu9xRR) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Vague à l'âme](https://open.spotify.com/album/4CXUvRIWCqZo7en5oeBaIK) | 3:54 | 2021-10-06 | 2021-11-04 |
 | [ma p'tite étoile](https://open.spotify.com/track/7iSEs4lppLZQEPOG4e6BbF) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [vague à l'âme](https://open.spotify.com/album/4PYEbjC6QDMvJ7rNtRBG3U) | 3:54 | 2021-08-16 | 2021-10-06 |
+| [Ma préférée](https://open.spotify.com/track/3AwCviyAGjYBjeCYz5vWep) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma préférée](https://open.spotify.com/album/3aWz9wbzzF4LTtPC1XkO9r) | 2:03 | 2026-11-21 |  |
 | [Ma puce](https://open.spotify.com/track/4oic9UbrBMEK3QjY11ONWQ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:06 | 2025-04-26 | 2025-05-01 |
 | [Ma Réalité](https://open.spotify.com/track/1IMgLV6uQ1mzc1XzfhLRQt) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:50 | 2023-02-18 | 2023-03-18 |
 | [MACHIAVEL](https://open.spotify.com/track/0piV3LI3gf1GUxxRvkRUtd) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Numéro d'écrou](https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf) | 2:41 | 2026-03-28 | 2026-04-06 |
@@ -1882,6 +1883,7 @@
 | [Numéro 9](https://open.spotify.com/track/60lP1bVGsS0XytKQU4AnLa) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [Kekra](https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr) | 2:31 | 2021-04-04 | 2021-04-05 |
 | [Nwar sur Nwar](https://open.spotify.com/track/4QVznVau5Vsj7pSUTwGXAi) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:21 | 2022-12-03 | 2022-12-09 |
 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:27 | 2022-12-25 | 2025-12-28 |
+| [OCÉAN DE PROBLÈMES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 | 2026-11-21 |  |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-04 |
 | [Offishal](https://open.spotify.com/track/3hH4JiJWA57DmOSDmMNo73) | [Ambiance Skandal](https://open.spotify.com/artist/2n2jly4e9kmWEHSX8N0XUa) | [Offishal](https://open.spotify.com/album/1nfKasxAhhxkrHoLoyFx3D) | 2:40 | 2021-11-19 | 2021-11-26 |
 | [Offshore](https://open.spotify.com/track/7FSBBwk1A5N9dlm0zMnAEM) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 3:38 | 2022-11-19 | 2022-11-26 |
@@ -2871,7 +2873,8 @@
 | [Élément 115](https://open.spotify.com/track/4UfbCR87edQDCnA2cYXikA) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Élément 115](https://open.spotify.com/album/5AavGPbUnFL8rrgAUHOrec) | 3:38 | 2022-01-21 | 2022-01-23 |
 | [Émotif \(Booska 1H\)](https://open.spotify.com/track/1O2mX6MrjsJlkCGEF0TVWL) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Polak](https://open.spotify.com/album/6LDfsPJ7ACw7LkWzncyLx1) | 2:41 | 2022-11-04 | 2023-05-27 |
 | [Étincelle \- Maradona](https://open.spotify.com/track/2PZTDaakPcvII5QJJP7SDO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Étincelle \(Maradona\)](https://open.spotify.com/album/19ZrUrjD6DTq9jRbYEOsma) | 3:32 | 2021-09-12 | 2021-09-19 |
-| [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 | 2026-08-31 |  |
+| [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 | 2026-08-31 | 2026-11-22 |
+| [Été avec toi](https://open.spotify.com/track/0I6ak8nLMqI4k233VOBVCd) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [\(Re\)belle](https://open.spotify.com/album/3aAOQOzk2Iso145hyJ65Nu) | 3:09 | 2026-11-21 |  |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-12-02 |
 | [Δ\. Dieu ne ment jamais](https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:19 | 2022-08-16 | 2023-05-27 |
 | [Ε\. Signaler](https://open.spotify.com/track/0z0izoGFPCoPJKFi41azyb) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:21 | 2026-08-25 |  |

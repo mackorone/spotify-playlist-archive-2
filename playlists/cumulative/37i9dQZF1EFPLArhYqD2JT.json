@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 179840,
       "name": "Come to the Land of the Argentine",
       "url": "https://open.spotify.com/track/1Wtqr2O8vAl5yfY5yYCLFx"
@@ -6806,7 +6806,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 158080,
       "name": "Mr. Jazz Himself",
       "url": "https://open.spotify.com/track/1YAXKxFmhMOvdywBe5dYn7"
@@ -8028,6 +8028,24 @@
       "duration_ms": 173706,
       "name": "Roses Of Yesterday",
       "url": "https://open.spotify.com/track/2TEa83m2lXEvfspv1Iy8nh"
+    },
+    {
+      "album": {
+        "name": "Weihnachtshits - Dean Martin",
+        "url": "https://open.spotify.com/album/02xH1wNCCV73L7fJ9cj7jP"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135799,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/7F4OElE6R7V7sL5QuJcIkR"
     },
     {
       "album": {
@@ -11266,7 +11284,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 157546,
       "name": "When My Baby Smiles",
       "url": "https://open.spotify.com/track/4LssPLlvQzHWrfDysjl1XU"

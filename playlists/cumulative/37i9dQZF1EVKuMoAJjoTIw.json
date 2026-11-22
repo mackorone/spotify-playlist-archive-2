@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXDaYK299f9T>Cigarettes After Sex</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 134197,
       "name": "7 Years (Remix)",
       "url": "https://open.spotify.com/track/1kFlDnWmBTvCBxxeGDpIdp"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 197027,
       "name": "Angeli",
       "url": "https://open.spotify.com/track/6a2WBo4YCOL0hSD0i1ruxM"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 175175,
       "name": "Comparse",
       "url": "https://open.spotify.com/track/2FlCcDDwgFzC1Kd2C8Lxzp"
@@ -4298,7 +4298,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 156501,
       "name": "Cose che non ho",
       "url": "https://open.spotify.com/track/21kQljwZIBJ3n2Wx5IEbH3"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 135168,
       "name": "CRY",
       "url": "https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 135724,
       "name": "CUORE RINCHIUSO",
       "url": "https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d"
@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
@@ -4998,6 +4998,24 @@
       "duration_ms": 177506,
       "name": "Demons",
       "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR"
+    },
+    {
+      "album": {
+        "name": "Umile (Deluxe)",
+        "url": "https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "Dentro la mia testa",
+      "url": "https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX"
     },
     {
       "album": {
@@ -5564,7 +5582,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 234446,
       "name": "DUBBI",
       "url": "https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO"
@@ -6136,7 +6154,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 95466,
       "name": "Everybody Dies In Their Nightmares",
       "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
@@ -7370,7 +7388,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 201182,
       "name": "Girasole (feat. Rkomi)",
       "url": "https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2"
@@ -7620,7 +7638,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "guerra dentro",
       "url": "https://open.spotify.com/track/2aPz4c03AsOhTgbuSnfrCs"
@@ -7638,7 +7656,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 167761,
       "name": "Guerra Persa",
       "url": "https://open.spotify.com/track/5K2iD1Ch3a1FHMR3U1foFi"
@@ -8756,7 +8774,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
@@ -13270,7 +13288,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H"
@@ -13436,7 +13454,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 215186,
       "name": "MISTAKE",
       "url": "https://open.spotify.com/track/0rc9XLNs7KZXu2ASA3LbL8"
@@ -13516,6 +13534,28 @@
       "duration_ms": 216000,
       "name": "Mohabat",
       "url": "https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5"
+    },
+    {
+      "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192611,
+      "name": "Momenti No",
+      "url": "https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu"
     },
     {
       "album": {
@@ -14026,7 +14066,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 168308,
       "name": "Never Be Alright",
       "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
@@ -14106,7 +14146,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 226808,
       "name": "Niente Canzoni D'Amore - Inedito",
       "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
@@ -14308,7 +14348,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
@@ -14416,7 +14456,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 228454,
       "name": "Non lo Sai",
       "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
@@ -14826,7 +14866,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 179372,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0nrQctfuJf5yEjPKHlMiBp"
@@ -15100,7 +15140,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
@@ -15166,7 +15206,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "Paura Del Buio",
       "url": "https://open.spotify.com/track/6fE9wB3g3cEVjwVVIhdKS1"
@@ -15238,7 +15278,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 244062,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH"
@@ -18490,7 +18530,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 138869,
       "name": "Stare Senza (feat. Fashion Forty)",
       "url": "https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt"
@@ -18704,7 +18744,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 156000,
       "name": "Sto Bene",
       "url": "https://open.spotify.com/track/7yDWlv3NjJLXG17O9bgr48"
@@ -19668,7 +19708,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -20316,7 +20356,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 172198,
       "name": "TI DIREI",
       "url": "https://open.spotify.com/track/5RlANDmPsPHSkYHFzchhIt"
@@ -20622,7 +20662,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
@@ -22236,7 +22276,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 95680,
       "name": "Why Am I Waiting",
       "url": "https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld"
@@ -22510,7 +22550,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"
@@ -22640,7 +22680,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 198656,
       "name": "Ya Para Qu\u00e9",
       "url": "https://open.spotify.com/track/3KmPDFJeamrxeUknSDqsfk"

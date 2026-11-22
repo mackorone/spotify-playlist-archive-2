@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893 likes - 139 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 894 likes - 139 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 81 | [Death Row](https://open.spotify.com/track/07K1WRKXskn1izYOFPnl0A) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:00 |
 | 82 | [Deep Sea Diving](https://open.spotify.com/track/3hE7LW2R8O6X7KTbjBDAPz) | [aboutagirl](https://open.spotify.com/artist/1Rm8cDAHAL2mo9H7sUxohj), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Deep Sea Diving](https://open.spotify.com/album/2lRXr9TZZxfzU7tZQtaDmm) | 3:19 |
 | 83 | [Bad Reception](https://open.spotify.com/track/7tBXxrBMQICE4VSzSiu2V7) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:36 |
-| 84 | [essential](https://open.spotify.com/track/7hXBQubLTgHqjyJWRovnQa) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [so here you are, drowning](https://open.spotify.com/album/6ao5NAirCG56jFXuwO0fo3) | 2:42 |
+| 84 | [essential](https://open.spotify.com/track/7hXBQubLTgHqjyJWRovnQa) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [so here you are, drowning](https://open.spotify.com/album/6ao5NAirCG56jFXuwO0fo3) | 2:42 |
 | 85 | [Nobody \- Radio Edit](https://open.spotify.com/track/4HD4FRMS1WVcUicTXPLjMp) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Nobody](https://open.spotify.com/album/0K0Xjl0oZeqTrvSZtg89w5) | 3:25 |
 | 86 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 87 | [Empty](https://open.spotify.com/track/1LxLkxWL22Z9aJhkqrkUlz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:28 |
 | 88 | [Man Still Cries](https://open.spotify.com/track/37Sq87EEERNJbGulpfmTYA) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Things I Can't Say Out Loud](https://open.spotify.com/album/1KRP8aalo8bVkOuYhMFO10) | 2:55 |
-| 89 | [autopilot](https://open.spotify.com/track/7o7A2Ne5pe7JHBzdpSgBua) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [about the party](https://open.spotify.com/album/3tfHqNvu8jksogQMBd7VX8) | 2:34 |
+| 89 | [autopilot](https://open.spotify.com/track/7o7A2Ne5pe7JHBzdpSgBua) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [about the party](https://open.spotify.com/album/3tfHqNvu8jksogQMBd7VX8) | 2:34 |
 | 90 | [Anyway](https://open.spotify.com/track/6wRJbAQrvKdIDZH2THGStG) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Garden](https://open.spotify.com/album/4c2hxhsZlNzGhZZozQObEj) | 2:29 |
 | 91 | [phones in heaven](https://open.spotify.com/track/7vGaC9ntTMniIqdBeu1h6m) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:17 |
 | 92 | [rendezvous](https://open.spotify.com/track/3WcxQTzkPbYIlx5x7lFiBW) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/3e9xFKdGt0oS5O4fMubFT5) | 3:05 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 138 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 139 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `AciNqAAAAAALXyb9RqKlw1XlkOhVORCo`
+Snapshot ID: `AciTDAAAAABaZY4kNfOgDtYASqWt04eB`

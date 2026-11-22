@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 27.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,934 likes - 107 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,939 likes - 107 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

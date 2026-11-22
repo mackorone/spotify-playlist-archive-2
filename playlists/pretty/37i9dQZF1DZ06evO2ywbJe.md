@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,850 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,856 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 20 | [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 |
 | 21 | [10 Bottles](https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [10 Bottles](https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh) | 2:58 |
 | 22 | [BITCH & MONEY](https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 3:15 |
-| 23 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 |
-| 24 | [JE M'APPELLE](https://open.spotify.com/track/5v3mdFr8pPLv1BlVuXCRnT) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv) | [SHOGUN IN LAGOS](https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe) | 4:03 |
+| 23 | [JE M'APPELLE](https://open.spotify.com/track/5v3mdFr8pPLv1BlVuXCRnT) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv) | [SHOGUN IN LAGOS](https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe) | 4:03 |
+| 24 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 |
 | 25 | [Hip Hop Messiah](https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:19 |
 | 26 | [Adamma](https://open.spotify.com/track/1nf2dhwY1wgNZE9eg1NbHh) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Izztopik](https://open.spotify.com/artist/3xV6vHDr8Ca4GHDZT0JSRt) | [Adamma](https://open.spotify.com/album/0jnmt7emWLRgWxkf9b69bR) | 3:23 |
 | 27 | [Grind \- Remix](https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7) | [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [Grind \(Remix\)](https://open.spotify.com/album/39gLwu2Xy7NTnCVGbAjH51) | 3:24 |

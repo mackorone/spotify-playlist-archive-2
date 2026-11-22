@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sfera Ebbasta, Dua Lipa, Angelica Bove, Jul e J Balvin, Gracie Abrams e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,325 likes - 95 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,323 likes - 95 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 67 | [8 MONTAGNE](https://open.spotify.com/track/6tNW0Mo1JrMBrLxEjXHSyq) | [Totem](https://open.spotify.com/artist/4S3jg23v1gg17rTKI952fK) | [8 MONTAGNE](https://open.spotify.com/album/0oJC0fYDoNvEpgRF4UqIcI) | 2:24 |
 | 68 | [STRADE + SICURE](https://open.spotify.com/track/5AdX88e8xDZDKUpOAziX8U) | [DALAI XV](https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6) | [STRADE + SICURE](https://open.spotify.com/album/6GVP5KwIizKxjkvx60JSgr) | 2:51 |
 | 69 | [TAGLI](https://open.spotify.com/track/3rRK8Sy5Q92EA2PlVrKAL0) | [Kemio](https://open.spotify.com/artist/3lcUhj4fQ2c5kkxPaoomoc) | [TAGLI](https://open.spotify.com/album/0uxZsFXQ0dYuO2UBZUb8Sp) | 2:57 |
-| 70 | [Come&Go \(feat\. Valco\)](https://open.spotify.com/track/0Z4A2EZzTGKEmAySbxnQWd) | [Mozik](https://open.spotify.com/artist/1uT0OFWvGNOscEs3bquXwb), [Valco](https://open.spotify.com/artist/3jtHon0Ownfbhg84OrhJRa) | [Come&Go \(feat\. Valco\)](https://open.spotify.com/album/00HxRb4i0JCkes0fdJbn9N) | 2:32 |
+| 70 | [Come&Go \(feat\. Valco\)](https://open.spotify.com/track/0Z4A2EZzTGKEmAySbxnQWd) | [Mozik](https://open.spotify.com/artist/1uT0OFWvGNOscEs3bquXwb), [Valco](https://open.spotify.com/artist/1HIWZ5BXx2wWTOjwMNeXzP) | [Come&Go \(feat\. Valco\)](https://open.spotify.com/album/00HxRb4i0JCkes0fdJbn9N) | 2:32 |
 | 71 | [Sotto una Palma](https://open.spotify.com/track/5oXYx89HuJsUgq1lFshxSG) | [AZael](https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk), [Thrilljard](https://open.spotify.com/artist/1hU5tCFqrPp0suz17uIC2t) | [Sotto una Palma](https://open.spotify.com/album/79uS9NUA0SqE3ROSWrNpbp) | 2:44 |
 | 72 | [Furore](https://open.spotify.com/track/2s38Xm9G1uFyt2x3cP7bU7) | [Alessandro Ragazzo](https://open.spotify.com/artist/5zcXt8JnA4jK1xjSd67aq2) | [Furore](https://open.spotify.com/album/40EsydVC7Y9okL0zkgDNDJ) | 3:12 |
 | 73 | [Solo noi](https://open.spotify.com/track/1qNohCcYWSXdxKv7br2Wio) | [camilla](https://open.spotify.com/artist/2gW26YtnOvLWTj2w17GTs0) | [Solo noi](https://open.spotify.com/album/34OTFGQkteoFMqtrF8K5xC) | 2:53 |

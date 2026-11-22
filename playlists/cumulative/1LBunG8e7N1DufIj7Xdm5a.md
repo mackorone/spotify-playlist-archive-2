@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,533 songs - 12 day 21 hr 32 min
+5,535 songs - 12 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2982,6 +2982,7 @@
 | [Memento](https://open.spotify.com/track/1TB66UcMEeZgO6ll0CCkno) | [Zeronne](https://open.spotify.com/artist/2PZeD3cV1t2nYO80gl6pqw) | [Memento](https://open.spotify.com/album/7lWFp6qoGIQ89fRAW3UrX6) | 2:26 | 2026-08-05 |  |
 | [Memorias](https://open.spotify.com/track/0ihb7reRAoUhDPaV9ODrum) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 4:35 | 2026-11-19 |  |
 | [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 | 2026-09-04 |  |
+| [Memories](https://open.spotify.com/track/5w3BDwaQXAjYvKrpBDuwSn) | [Hotline](https://open.spotify.com/artist/63QwEh7zhIXBVV2TViF89I) | [Memories](https://open.spotify.com/album/5ei5rUUj6XCudY0xcqepWt) | 2:50 | 2026-11-21 |  |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2026-11-03 |  |
 | [Memory Card Moments \- Radio Edit](https://open.spotify.com/track/0wCMvP6jojZx738ZOWIEJ6) | [NVRLØST](https://open.spotify.com/artist/5jdHtc5hxhdY9dG2rTS2VE) | [„UNLOCKED:// FILES FROM THE VOID“](https://open.spotify.com/album/6uJTVbOSGms0QLadVQE8Db) | 2:36 | 2025-06-11 |  |
 | [Memudar](https://open.spotify.com/track/42MN7rZSgf51HjESLwydIm) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Memudar](https://open.spotify.com/album/5aS3Oc95zN232HjNzk0dWO) | 3:52 | 2026-11-12 |  |
@@ -3984,6 +3985,7 @@
 | [Sad Song \- Single Version](https://open.spotify.com/track/0sM1yXhut3nUjtaXxfbLUQ) | [LKF](https://open.spotify.com/artist/60xRkVUDT48U8am6MXBjuz), [Amiri](https://open.spotify.com/artist/2Ll5uRPghBt8yLaI44FJU7) | [Sad Song](https://open.spotify.com/album/1s5tdq4L8q8EvE0MfZ0ph6) | 3:17 | 2026-11-04 |  |
 | [SAD!](https://open.spotify.com/track/6s5P0hX86ml031Kld7gxcV) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [SAD!](https://open.spotify.com/album/0kugS8PQcSzjvz8QY2oTe7) | 2:35 | 2025-12-18 |  |
 | [Safe With Me \(sped up\)](https://open.spotify.com/track/0o0LVtOSeeLMyBzqeav4nW) | [Augxst](https://open.spotify.com/artist/2cLT5hSCjzPEqSngz0M6lg) | [Safe With Me](https://open.spotify.com/album/4BDNIFU2sq7cfgIvXpcUmh) | 1:50 | 2025-06-23 |  |
+| [Sailing through the seas](https://open.spotify.com/track/6hrPdxv4KwueUnZSHW1dDO) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 5:34 | 2026-11-21 |  |
 | [Sakê De Binks](https://open.spotify.com/track/4D6ZaYG8xUp8tJ24A52wp3) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc), [Casão Rennó](https://open.spotify.com/artist/3A7hlyVNvg5AEqwIF4HXtm) | [Sakê De Binks](https://open.spotify.com/album/1HNvSEkybDOV743FV9qYdq) | 3:50 | 2026-04-22 |  |
 | [Salga el sol](https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:25 | 2026-03-15 |  |
 | [Sali Sali](https://open.spotify.com/track/5jQup4wpvAb1MISpqDfPZ3) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 2:58 | 2025-10-23 |  |

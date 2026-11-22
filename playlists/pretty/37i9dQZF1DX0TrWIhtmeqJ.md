@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: KTmelodies
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,552 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,548 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 14 | [MY PEOPLE](https://open.spotify.com/track/5o4xxhY17mfqFhIqO4WeQf) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [TENKI](https://open.spotify.com/album/2XadlUi76KaqpMdolmqqbV) | 3:19 |
 | 15 | [EVERGLADE](https://open.spotify.com/track/0ixjah5iT7gUE6VCG6XIdQ) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [SCREWED UP](https://open.spotify.com/album/0ChQ95WhNx739YGFBc04vg) | 2:01 |
 | 16 | [we could've moved mountains](https://open.spotify.com/track/0Nk0MmIpvpEVdwf25QhgBY) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [maria](https://open.spotify.com/album/2EG73KOEhUnJlY7FqBKaF5) | 2:15 |
-| 17 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
+| 17 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
 | 18 | [Talking A Lot](https://open.spotify.com/track/3e64l56lmo1sBPY5cMMHWs) | [Skirmish](https://open.spotify.com/artist/5K2GSK8mGJrO5pkfL5neXc) | [Talking A Lot](https://open.spotify.com/album/3lwMYi4UP06ie7pE4ZZo4r) | 2:08 |
 | 19 | [HIMOTHY](https://open.spotify.com/track/6ZSBUGwOreaTfzLvWeYOFf) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s), [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [HIMOTHY](https://open.spotify.com/album/1lkV7GlZ7xvU1k0GrzyllB) | 2:50 |
 | 20 | [+facecard](https://open.spotify.com/track/4EM2IFIMFbV2WlPcD10Eq9) | [plusamari](https://open.spotify.com/artist/7aBsay1LwiX89GuowSd15N) | [colour + chaos](https://open.spotify.com/album/5f7rjbPfC6TSbqGHY2re8i) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Same Old Story](https://open.spotify.com/track/4ohYnWl912l2yKZ46EDStE) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [CLARK](https://open.spotify.com/artist/3oe253onRmaxNiz7NkNELQ), [DeeRiginal](https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [Same Old Story](https://open.spotify.com/album/2yCnCG9ZDTDAQMOvTCAG6t) | 2:53 |
 | 70 | [Burn It](https://open.spotify.com/track/3VeE0m2gkSJNg039yK4S1a) | [ok](https://open.spotify.com/artist/1uiGVqVPmQxy5lD8SHGAy5), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Burn It](https://open.spotify.com/album/660anNnVGegng3aOR1KNFi) | 2:40 |
 
-Snapshot ID: `AAAAACrhXVrGxDPqPpIvR+Te4zeOp73P`
+Snapshot ID: `AAAAAJ3wqjzE4AkXWCyvkN4N1378uWGx`

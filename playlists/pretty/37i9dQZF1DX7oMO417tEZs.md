@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚⋆a curated space for all the hidden gems⋆˚₊‧⁺ cover: HALO
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,217 likes - 102 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,227 likes - 102 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-352 songs - 21 hr 56 min
+356 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Cherry Vice](https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Cherry Vice](https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h) | 4:18 | 2026-03-28 | 2026-05-19 |
 | [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 | 2026-07-13 | 2026-08-08 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-05 | 2026-03-21 |
+| [City To Ourselves](https://open.spotify.com/track/6BkXcKxGTEV8InQPa56gvN) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [City To Ourselves](https://open.spotify.com/album/0yRXOtTOW4YHWwVIhYGOZ5) | 3:38 | 2026-11-21 |  |
 | [Clementine](https://open.spotify.com/track/2JzVE0Wyy7pvhjIq1StV4l) | [Every Living Beast](https://open.spotify.com/artist/2J3ATpiJf8oNmJLnVBmj1Z) | [Clementine](https://open.spotify.com/album/2TFnTOk9Aqk3QXz5XukWgt) | 2:55 | 2026-11-02 |  |
 | [Cliffhanger](https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:43 | 2026-02-24 | 2026-04-01 |
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-09-08 |  |
@@ -132,6 +133,7 @@
 | [Fragile Prism](https://open.spotify.com/track/4Kc2BR20xmeJpN2FQuClKp) | [Aurora Rising](https://open.spotify.com/artist/5ynYRfVl7ZsgRkFBhNOT9f) | [Fragile Prism](https://open.spotify.com/album/1kTkMQGBdJIakc60LY1PBK) | 3:23 | 2026-04-20 | 2026-05-19 |
 | [Frange](https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Frange](https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U) | 3:23 | 2026-06-01 | 2026-08-08 |
 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 | 2026-06-18 | 2026-08-08 |
+| [Fuck Off](https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Fuck Off](https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u) | 2:54 | 2026-11-21 |  |
 | [Fugaz](https://open.spotify.com/track/3dzGcbIkdeQqwbHCOnv4h5) | [Lirium](https://open.spotify.com/artist/0A5pTrUZAtZ9tl2TSySp3d) | [Fugaz](https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S) | 5:19 | 2025-11-06 | 2025-12-28 |
 | [Fáilte Ar Ais](https://open.spotify.com/track/1gyWpdvX41YmRY7IZ8wuQE) | [The Falls](https://open.spotify.com/artist/1idQKjppJVYq4aFbffUKEs) | [Fáilte Ar Ais](https://open.spotify.com/album/4GTOxYl0JiXsDst6BcbaAT) | 3:11 | 2026-09-02 | 2026-10-11 |
 | [GAMEOVER](https://open.spotify.com/track/13B4x0OnPzcjiQ5LbjZIfo) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Houseless](https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB) | 4:02 | 2025-10-27 | 2025-12-28 |
@@ -238,6 +240,7 @@
 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 | 2026-05-08 | 2026-06-14 |
 | [Non Mi Troverai](https://open.spotify.com/track/2xvIZraE0QZRMKghPhzbIC) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Non Mi Troverai](https://open.spotify.com/album/5i9qmAEmZna27PgyYhAB80) | 3:43 | 2026-11-02 |  |
 | [Nosferatu I Am](https://open.spotify.com/track/7sZudFcX8k2nTqwFqMcsIL) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Nosferatu I Am](https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j) | 3:21 | 2026-02-10 | 2026-04-01 |
+| [Nostalgia](https://open.spotify.com/track/6jVrywFRidATOA5opVWDAg) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Soul](https://open.spotify.com/album/5sObpToTONHJqsGCV7KMe6) | 14:06 | 2026-11-21 |  |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-10-23 | 2026-03-21 |
 | [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 | 2026-11-06 |  |
 | [OD](https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA) | [McMillin](https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc) | [Only From Afar](https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy) | 2:50 | 2026-06-15 | 2026-08-08 |
@@ -248,6 +251,7 @@
 | [Onwards](https://open.spotify.com/track/4xBM4eYPajrVlJTo6UD8E9) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 5:09 | 2026-02-07 | 2026-05-17 |
 | [Other Side of Me](https://open.spotify.com/track/7gehMNxHuuOZyMNBOmC0sr) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Other Side of Me](https://open.spotify.com/album/2BY2GT3R0z0aTaSZuweNEd) | 3:23 | 2025-09-16 |  |
 | [Overthrown](https://open.spotify.com/track/4aGCFWNgI4vUq9y9XuoVQA) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 5:27 | 2025-11-29 | 2025-12-28 |
+| [Paranoia](https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO) | [Black Grouse](https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4) | [Paranoia](https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR) | 2:45 | 2026-11-21 |  |
 | [Parasite](https://open.spotify.com/track/3XsQHlQKnZ9utK0vVpiUc3) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 4:07 | 2026-02-18 | 2026-04-01 |
 | [Parley](https://open.spotify.com/track/4uOI4eDk015nGE27qBuk61) | [Tortuga](https://open.spotify.com/artist/4QzhYIfvlEMycWybJ3wPHM) | [Flying Dutchman](https://open.spotify.com/album/5IncWnCMIvuY9MeewyWuWj) | 3:12 | 2026-03-05 | 2026-05-19 |
 | [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 | 2025-11-04 | 2025-12-28 |

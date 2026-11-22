@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > toda mi gente tirando emotes ❤️😈 Emi Blue en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,942 likes - 125 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,035 likes - 125 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

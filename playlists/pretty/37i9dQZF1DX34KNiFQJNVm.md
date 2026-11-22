@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem IZA, Dua Lipa,  Di Propósito com Diego & Victor Hugo, Netto Brito com Kamisa 10 e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,321,122 likes - 89 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,320,919 likes - 89 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [Cego, Surdo e Mudo](https://open.spotify.com/track/5k8bGUFsugpIwJob3T4arQ) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Neguinho PRT](https://open.spotify.com/artist/5UN3G2aFCOyez0SBlRkRZt), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Gudy](https://open.spotify.com/artist/7GXgrgtdo5kqKhsx4jfbhH), [Mc Felipe JC](https://open.spotify.com/artist/1gQ8PWw7pF2nn0H48NYKe7), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Cego, Surdo e Mudo](https://open.spotify.com/album/4IG69c7nmqVbWisyZYgk9O) | 6:48 |
 | 42 | [Controla](https://open.spotify.com/track/4Cs0BBi6l6qPWEthdlNAXH) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Controla](https://open.spotify.com/album/17nRk3KfeEpaxgSFlEcwtj) | 2:48 |
 | 43 | [Obediente](https://open.spotify.com/track/5wdUd8sx9XVDe6Z0lGPIV4) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Na Manha](https://open.spotify.com/album/5VWqu3zetGSOS1xx7ceclH) | 2:31 |
-| 44 | [FREQUENCIA DO PAREDAO](https://open.spotify.com/track/0ecohKlsV2UhUzuIWi8sis) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Contágio](https://open.spotify.com/album/4KnEviHskXTMD7jEmXPwsQ) | 2:38 |
+| 44 | [FREQUENCIA DO PAREDAO](https://open.spotify.com/track/0ecohKlsV2UhUzuIWi8sis) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Filho do Piseiro](https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW), [Dj Felipe Maia](https://open.spotify.com/artist/5xtHPJpaKmn16wr3JNA0na), [DJ Will o Cria](https://open.spotify.com/artist/13Fa4Eu8fFuYqRWpIB7hnV) | [Contágio](https://open.spotify.com/album/4KnEviHskXTMD7jEmXPwsQ) | 2:38 |
 | 45 | [Eu Catuquei](https://open.spotify.com/track/2U8pVF1sIMvdc3KYaw5vx1) | [Lipe Lucena](https://open.spotify.com/artist/2hr2Pae57x29iMVqjKnHnf), [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ) | [Eu Catuquei](https://open.spotify.com/album/212VPcUoGFA3GAjwsse2vp) | 3:07 |
 | 46 | [Um Tapinha Não Doi](https://open.spotify.com/track/3RFA34x6bWjgz6R9LyWgM5) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Zé Cantor](https://open.spotify.com/artist/09IVixIx3VLLFmWZfojamH) | [DB MIX : Na Vaquejada \(Live\)](https://open.spotify.com/album/09l0psaCG8HATBucOrwVLI) | 2:01 |
 | 47 | [Será Tarde Demais](https://open.spotify.com/track/2n7AWpAXJauJKLejzW4uxo) | [Simone Morena](https://open.spotify.com/artist/6ZLrr7ThUgVtMaIZRAhK9R) | [Brega da Morena 2.0](https://open.spotify.com/album/07OtuzvT4alF2W8E8KLlab) | 3:25 |

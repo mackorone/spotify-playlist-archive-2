@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Vi har ikke kun ventet på GTA6 men også på 'København' fra Ukendt Kunstner🏙️
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,905 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,902 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

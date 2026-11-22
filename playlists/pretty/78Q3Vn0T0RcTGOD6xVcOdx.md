@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 553 likes - 97 songs - 5 hr 17 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 554 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,12 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 95 | [DEEWANA BANAAYE](https://open.spotify.com/track/7rqnNYYWG02LsfNzxnlae8) | [Avinash Kumar Raghuvanshi](https://open.spotify.com/artist/6JEaQ1Ukzoh1Hr4Z4d0YVI) | [DEEWANA BANAAYE](https://open.spotify.com/album/6LFzpdCnP52ICF9IIEgm6a) | 6:14 |
 | 96 | [SMOKE](https://open.spotify.com/track/445MgzyWez6iBlk5J8TxUT) | [Dutty Harry](https://open.spotify.com/artist/3NzZpzynfDm5orttWL8WYK), [Rikko Genius](https://open.spotify.com/artist/6Meau5M3ThGHxnBJQ5NcMS) | [THE GENIUS TWINZ](https://open.spotify.com/album/05YmPQZfEfygiI0MwqMudo) | 3:09 |
 | 97 | [ROSALEA](https://open.spotify.com/track/34XZnD0LcAUmj6IbD8U518) | [Yaw Bruno](https://open.spotify.com/artist/5H8FFHJxmTGEQkKhQIcVvv), [Pauline](https://open.spotify.com/artist/2cpiRrUkMRJ7gNkWgp1UjY) | [ROSALEA](https://open.spotify.com/album/2V3o8x2lIaY71ugOaLVn40) | 2:47 |
+| 98 | [Deep Pain](https://open.spotify.com/track/0exb86ht5m4MXd9EBCS0OG) | [GRANDTURK](https://open.spotify.com/artist/3r64rpOyek39eXyi5k5wXx) | [Deep Pain](https://open.spotify.com/album/2Kwb4L8iN7HH3RV2RHinis) | 3:30 |
+| 99 | [SÓ UM PLANO](https://open.spotify.com/track/67nArEz1zeWjbZm62adUzi) | [Real Brutal One](https://open.spotify.com/artist/32bVsNnz2q85tLoFVPns0y), [JOVEM PERCK](https://open.spotify.com/artist/1dVwq8YEqypaAMpNGFNT6U) | [SÓ UM PLANO](https://open.spotify.com/album/0LOaX1D2FfCMpjymf8R5jR) | 3:31 |
+| 100 | [Candy virus](https://open.spotify.com/track/0KQZ3QY3A0LnhDsCYHYGDq) | [Prof candy](https://open.spotify.com/artist/1N0DGsUwIXX9Voc2o7KMIF) | [Candy virus](https://open.spotify.com/album/3mkt4788ACOZUKCfRSwn7V) | 2:24 |
+| 101 | [Ibele Gp](https://open.spotify.com/track/3ZxeKmMgCPglHis7XLbbV3) | [Forza 105](https://open.spotify.com/artist/2QmemftpXMO8jXYenNxWmI) | [Ibele Gp](https://open.spotify.com/album/7KXR6dxy4MA4q8uwJv9NJ1) | 4:40 |
+| 102 | [..Grab a Cub...r](https://open.spotify.com/track/0HzhsUyGPszH8U38VVue34) | [Young Ink](https://open.spotify.com/artist/5d9ejTJfd9ddNIPRb5gdeN) | [Young Ink Street Vibes E.P](https://open.spotify.com/album/0vpeV7Eg5Saf6taokpLhhT) | 2:14 |
+| 103 | [On This Sunny Day \- Acoustic Version](https://open.spotify.com/track/6dOth3Yidrkt6bpCLPWrrk) | [Nicholas Koontz](https://open.spotify.com/artist/0L24SOGFqmKdnI4ty6VAEq) | [On This Sunny Day \(Acoustic Version\)](https://open.spotify.com/album/5hZmy6Oq59DqwVOHAcH9gH) | 3:57 |
+| 104 | [Repete \(Abundantly\)](https://open.spotify.com/track/52gCi3CV4nJgg79Hb8szo2) | [Eayo](https://open.spotify.com/artist/7xeNH4nOfhPG2tIDvJD1vZ) | [Repete \(Abundantly\)](https://open.spotify.com/album/6XQy6PhNnv430gvAxs0AVp) | 3:28 |
 
-Snapshot ID: `AAACxPfPww0bWxcon+myu+cRGYKyKYyy`
+Snapshot ID: `AAACy/b/j6g9x6XvJwCHlPXsQsRlE4DJ`

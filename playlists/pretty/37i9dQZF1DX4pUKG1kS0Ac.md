@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 
 > We never stopped believin'
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,392,459 likes - 150 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,392,451 likes - 150 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

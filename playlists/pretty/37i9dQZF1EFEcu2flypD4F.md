@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,606 likes - 346 songs - 21 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,609 likes - 346 songs - 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 63 | [Titans \(feat\. Sia & Labrinth\)](https://open.spotify.com/track/2nYPVp7BJuoaJ4rQmg5FM5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/5pmiFuzEtKlwWQhy5irJIJ) | 3:19 |
 | 64 | [Eye of the Needle](https://open.spotify.com/track/2ejeiQQcxOONtMDgV2GXSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:08 |
 | 65 | [Golden \(feat\. Sia\)](https://open.spotify.com/track/0HZWWaKieQ9ZETkTEUVTH2) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Golden \(feat\. Sia\)](https://open.spotify.com/album/2KorcISo9JBqG6Siszd2AO) | 3:35 |
-| 66 | [Devil In Me](https://open.spotify.com/track/5PJujqvYgwsNn31pVTtebG) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe Plus\)](https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx) | 4:09 |
-| 67 | [Underneath the Mistletoe](https://open.spotify.com/track/6HFKeEGEJGI0rIyg2r0iLo) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:50 |
+| 66 | [Underneath the Mistletoe](https://open.spotify.com/track/6HFKeEGEJGI0rIyg2r0iLo) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:50 |
+| 67 | [Devil In Me](https://open.spotify.com/track/5PJujqvYgwsNn31pVTtebG) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe Plus\)](https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx) | 4:09 |
 | 68 | [House On Fire](https://open.spotify.com/track/1fiKURoz6s2OXZhMkhF488) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 4:01 |
 | 69 | [Oasis \(feat\. Foxes\)](https://open.spotify.com/track/59JreAiZzOF6pB8nIqEi20) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:57 |
 | 70 | [Soon We'll Be Found](https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:20 |
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 190 | [Let Your Tears Fall](https://open.spotify.com/track/6rpEn1b8ompD8bDLNCgcsE) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:55 |
 | 191 | [Don't Bring Me Down](https://open.spotify.com/track/5NnE3oUpSAqu6l0Ykh17Aq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:24 |
 | 192 | [Cloud](https://open.spotify.com/track/2FJbI3eMCaEmvNFpcmDLys) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:43 |
-| 193 | [You're My Flame](https://open.spotify.com/track/4Z5lH4Q13Ejj0hdTaSttri) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:16 |
-| 194 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 |
+| 193 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 |
+| 194 | [You're My Flame](https://open.spotify.com/track/4Z5lH4Q13Ejj0hdTaSttri) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:16 |
 | 195 | [Beautiful Calm Driving](https://open.spotify.com/track/3vn3tYZAJ3h95G9JSsKJv9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 |
 | 196 | [The Co\-Dependent](https://open.spotify.com/track/3YmGYGEvtVYxOH0cjNKf2I) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 2:55 |
 | 197 | [Death By Chocolate](https://open.spotify.com/track/3bcGux71KANXSsGPODKz5A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 345 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 346 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AciNigAAAAD4E6Eo/+NK4PobfjLr9XJB`
+Snapshot ID: `AciTKgAAAAAIW7+F6YRLC7kKtM1JmbTl`

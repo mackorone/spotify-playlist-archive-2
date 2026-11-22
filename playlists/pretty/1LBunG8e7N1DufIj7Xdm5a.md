@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,585 songs - 13 day 0 hr 20 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,587 songs - 13 day 0 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5593,5 +5593,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5583 | [Keep The Scar](https://open.spotify.com/track/5HpigoUviIeuE5tgKmS6sD) | [Vorren House](https://open.spotify.com/artist/1tsiOSB0TPP0Bb6cxNmfHp) | [Keep The Scar](https://open.spotify.com/album/4LmDaT1lokqnBVnutmYW6z) | 2:48 |
 | 5584 | [I Believe in Christmas](https://open.spotify.com/track/01Q2tfk8gS5b4G1UbP6C16) | [Corners of Sanctuary](https://open.spotify.com/artist/2awE3SRj1mzablPjOH4TE1) | [I Believe in Christmas](https://open.spotify.com/album/68IlHVcDaYWsqU4jGvF4jr) | 2:38 |
 | 5585 | [FEEL IT, SHOW IT!](https://open.spotify.com/track/02b0W9YNktf9gbiscmC6rt) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [FEEL IT, SHOW IT!](https://open.spotify.com/album/1g9rwuBZYavKsdHgRiMItc) | 2:34 |
+| 5586 | [Memories](https://open.spotify.com/track/5w3BDwaQXAjYvKrpBDuwSn) | [Hotline](https://open.spotify.com/artist/63QwEh7zhIXBVV2TViF89I) | [Memories](https://open.spotify.com/album/5ei5rUUj6XCudY0xcqepWt) | 2:50 |
+| 5587 | [Sailing through the seas](https://open.spotify.com/track/6hrPdxv4KwueUnZSHW1dDO) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 5:34 |
 
-Snapshot ID: `AAALH6wFQ6GNaUenHNDe4YDgfP4qbg6I`
+Snapshot ID: `AAALIX7WSqaKtmHV5RscUTWqnDUdnx7T`

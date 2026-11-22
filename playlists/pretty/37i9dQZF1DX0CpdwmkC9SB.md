@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 
 > The biggest festival of the year is back\. The official playlist for Glastonbury 2027.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,170 likes - 66 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,523 likes - 66 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

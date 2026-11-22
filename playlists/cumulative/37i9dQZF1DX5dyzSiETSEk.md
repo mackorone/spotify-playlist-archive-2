@@ -4,11 +4,11 @@
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-208 songs - 11 hr 17 min
+209 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Kung Fu Panda 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj) | 3:12 | 2024-03-08 |  |
+| [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Kung Fu Panda 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj) | 3:12 | 2024-03-08 | 2026-11-22 |
 | [Abracadabra](https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:28 | 2025-07-20 | 2026-01-06 |
 | [All I Want \- From "High School Musical: The Musical: The Series"](https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [All I Want \(From "High School Musical: The Musical: The Series"\)](https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2) | 2:57 | 2020-09-29 |  |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2020-09-29 | 2026-01-06 |
@@ -32,6 +32,7 @@
 | [Bop!](https://open.spotify.com/track/0BGNXAcQi4cUN5Nbjf4Jn6) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/4EB3X4HFVCptX7k6raTtkt) | 2:36 | 2022-07-22 | 2023-05-16 |
 | [Bop!](https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9) | 2:36 | 2021-08-04 | 2022-10-13 |
 | [Bop!](https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Bop!](https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R) | 2:36 | 2022-07-22 | 2022-11-24 |
+| [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-11-21 |  |
 | [Bottle Up \- from PAW Patrol: The Dino Movie](https://open.spotify.com/track/7LAcikXNoHVAQFeEx8caQ2) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7), [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Bottle Up \(from PAW Patrol: The Dino Movie\)](https://open.spotify.com/album/76p8b3x5fdwcM6QbhpOFOR) | 3:37 | 2026-06-12 |  |
 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 | 2020-09-29 |  |
 | [Broken & Beautiful](https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Broken & Beautiful](https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj) | 3:38 | 2024-04-19 | 2024-12-09 |

@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Ms\. Rachel & Mr\. Aron
 
-1,271 songs - 2 day 3 hr 31 min
+1,272 songs - 2 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Five Little Dinosaurs Jumping On The Bed](https://open.spotify.com/track/1f45Dwk7O4Xub78YVAQhAD) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Five Little Dinosaurs Jumping On The Bed](https://open.spotify.com/album/0iu5RcG2cRjZBiDWwntcSn) | 3:00 | 2026-06-05 | 2026-08-22 |
 | [Five Little Ducks](https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Five Little Ducks](https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh) | 2:29 | 2026-05-22 | 2026-07-28 |
 | [Five Little Monkeys](https://open.spotify.com/track/72Lo8CwVosyInkViXWPVrh) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Sing\-Along](https://open.spotify.com/album/39pJlWsJz0W3KsO62gLyMg) | 2:04 | 2025-04-18 | 2025-07-21 |
-| [Five Little Monkeys Sing Along](https://open.spotify.com/track/2X8Mn27aKr5NxXFSWiCdJE) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Kids' Greatest Hits](https://open.spotify.com/album/4UiReCwQXaXYLbz9KX9KcU) | 2:16 | 2026-07-17 |  |
+| [Five Little Monkeys Sing Along](https://open.spotify.com/track/2X8Mn27aKr5NxXFSWiCdJE) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Kids' Greatest Hits](https://open.spotify.com/album/4UiReCwQXaXYLbz9KX9KcU) | 2:16 | 2026-07-17 | 2026-11-22 |
 | [Five Little Monsters \- Max's Playtime](https://open.spotify.com/track/7BX4e2T0ZOCZj0x5d3o2bJ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Five Little Monsters \(Max's Playtime\)](https://open.spotify.com/album/0Npf8GniW719mvjZscvlUT) | 1:55 | 2026-05-29 | 2026-08-08 |
 | [Five Senses](https://open.spotify.com/track/1ffnhVhWBiBWnZK49LF3Cl) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Five Senses](https://open.spotify.com/album/5LoExnG1rVGzHWqw1ssBVS) | 2:50 | 2024-05-03 | 2025-03-08 |
 | [Five Senses](https://open.spotify.com/track/532z9KyF7qiKBAZle0Ekzv) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Five Senses](https://open.spotify.com/album/4qFSfVhhxrqPDrt7wjofwx) | 2:13 | 2025-01-31 | 2025-07-21 |
@@ -678,6 +678,7 @@
 | [Lunchtime](https://open.spotify.com/track/0gPOGw9OMsNNZGyN7dpEp4) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Circle Time Songs](https://open.spotify.com/album/6xfQODNKbQ1Z7JLFJ9ubMs) | 1:26 | 2025-02-21 | 2025-07-21 |
 | [Lyla in the Loop Theme Song](https://open.spotify.com/track/7nGboqSUZN4wulhkTWkzh9) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Lyla in the Loop Theme Song](https://open.spotify.com/album/0QJ3tPei9ccVhIID8YhzkD) | 1:16 | 2024-08-30 | 2025-03-08 |
 | [Made You Look](https://open.spotify.com/track/5ttxYejlhiCwPTcTbNwqXu) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Made You Look](https://open.spotify.com/album/4jfzlorwWNBAM86cTori3g) | 2:15 | 2024-03-01 | 2024-08-24 |
+| [Magic](https://open.spotify.com/track/7Mz7gHxxHSlyCsy1yKmeeF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Hexed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6vzM1pQAny3spDuhLlZ9k2) | 3:47 | 2026-11-21 |  |
 | [Magic Bouncy House](https://open.spotify.com/track/4TRdujHAi7kJPhgxxek0ZB) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Magic Bouncy House](https://open.spotify.com/album/7EtyqhkWqkBIzvl6QZKFev) | 3:15 | 2024-06-28 | 2025-03-08 |
 | [Magic Day](https://open.spotify.com/track/5X0GFoSX2gq0VfPqgsK3Jf) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Orbit Deen](https://open.spotify.com/artist/17tuJG7gcopBASfFsVr4pb) | [Magic Day](https://open.spotify.com/album/7CdnhWwYTOWWdMKlxJFwcp) | 2:59 | 2022-04-15 | 2023-10-21 |
 | [Magic Words](https://open.spotify.com/track/2kDyYf1ltjSVcMV0rjkyEz) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Magic Words](https://open.spotify.com/album/1dHOus3prUwqULN5eOKjL5) | 3:06 | 2025-05-30 | 2026-01-15 |

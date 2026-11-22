@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-265 songs - 14 hr 15 min
+266 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bateau Ivre](https://open.spotify.com/track/362IgnIOGrbp8FvtZLu8q9) | [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [MO](https://open.spotify.com/artist/6efZkPMkmkcZDYzz25OYXf) | [Bateau Ivre](https://open.spotify.com/album/57brHpszcN7drrC7gZho3j) | 2:25 | 2023-12-30 |  |
 | [Be My Lover](https://open.spotify.com/track/39gK29wYJ7TZ3Rv4snB4iY) | [Eddie Zar](https://open.spotify.com/artist/36LzPiVbpx9xKEYRrlwUB6) | [Be My Lover](https://open.spotify.com/album/4AIQJEuoZX9Kr5UY2Uqmtm) | 3:10 | 2023-04-28 |  |
 | [Best life](https://open.spotify.com/track/77UvpCgGlhiokNz3MSdA9N) | [Atenza](https://open.spotify.com/artist/6lsaUujE2t21eMaGinjkMA), [$imao](https://open.spotify.com/artist/7rsvsT9zCNO3FqpWkS6Nzg) | [Isis](https://open.spotify.com/album/1CeBlVAA7kkb6TEl0CinVz) | 2:51 | 2024-05-28 |  |
+| [BIMMA](https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j) | [AME](https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV) | [BIMMA](https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v) | 2:57 | 2026-11-22 |  |
 | [Bitcoin](https://open.spotify.com/track/5xEezRGbYu4vvWAd8Vx5gK) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [TroyBoss](https://open.spotify.com/artist/2mjMr4WZPRQHSJSBtAUyfr) | [Bitcoin](https://open.spotify.com/album/2Xfm6HJSoCwVmeTcJHIQQp) | 3:16 | 2023-12-12 |  |
 | [Blackmail](https://open.spotify.com/track/3XJST1YzBws8oeOZIdOcgt) | [Hugo Oliveira](https://open.spotify.com/artist/2ZxbwpbrLzxHF6gN87P2Mi) | [Blackmail](https://open.spotify.com/album/2ULSHsGfG6yAepvXIG4XOI) | 2:59 | 2023-12-06 |  |
 | [Bohémien](https://open.spotify.com/track/4F32E00xHDsgqGNsxLeSmG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Une saison en enfance](https://open.spotify.com/album/2uc49yePXwHHO205fQi7jQ) | 3:14 | 2023-01-11 |  |

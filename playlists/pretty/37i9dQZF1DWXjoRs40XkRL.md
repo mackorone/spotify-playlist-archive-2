@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,920 likes - 100 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,939 likes - 100 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 75 | [Mora Akhiyaan](https://open.spotify.com/track/6VS6r1lw6XQg1JwE3a6zhK) | [Prayas Pandey](https://open.spotify.com/artist/6zrMaYTtn7Ll4L9nHL9DOS) | [Mora Akhiyaan](https://open.spotify.com/album/0c7dOlWQ6Wa3TkFo7JJ4i8) | 3:43 |
 | 76 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi 2](https://open.spotify.com/album/4RlDoF53xUIiKYC0TEgbxz) | 21:49 |
 | 77 | [ESWY](https://open.spotify.com/track/1yazBO7fdWNDUcr3uuRbTr) | [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [ESWY](https://open.spotify.com/album/0cOUvMbQkmW7xMYTAwBUPI) | 2:59 |
-| 78 | [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 |
+| 78 | [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Umayalpuram K\. Sivaraman](https://open.spotify.com/artist/6DeWClYw2sFmW2UMltys8Q), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [V\. Lakshminarayana](https://open.spotify.com/artist/0WUMt5JqpkWXGk4O1NItFi) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 |
 | 79 | [Najariya LoFi Cake Mix](https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 2:36 |
 | 80 | [Aaye Na Tum Sajan](https://open.spotify.com/track/27mA4RBKzR3cuIGK7orBII) | [Muskan Srivastava](https://open.spotify.com/artist/2qHcjeVyYijdsZdmG302ZQ), [Aakash Rajan](https://open.spotify.com/artist/0RDjGRm28CVB47PJMaSnrW), [Flutronic](https://open.spotify.com/artist/4ietXW3zN3JrVrseieYY9P) | [Aaye Na Tum Sajan](https://open.spotify.com/album/4Gm2oUiw20caVY4EIg2t68) | 3:34 |
 | 81 | [Garjat Aayi Re \- Miyan Malhaar \- Teentaal](https://open.spotify.com/track/0dFhCT3tJ73gQYPHM0dbNh) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Kumar Sharma](https://open.spotify.com/artist/7ub0qIn7JQe3XCqzULgec6), [Kathak Rockers](https://open.spotify.com/artist/4JlRWfdSxNUonT3X0h12q3) | [Garjat Aayi Re](https://open.spotify.com/album/7zSXbsC4y9d7ylkApW3V8I) | 5:59 |

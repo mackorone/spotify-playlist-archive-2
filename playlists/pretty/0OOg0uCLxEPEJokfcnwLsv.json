@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1472,
+  "num_followers": 1492,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHWi1ccNFJ0H+bjqkUBLNq3eKUxJv4",
+  "snapshot_id": "AAAHZyXYuT7Vyzs40rL6MJ4ZR65uabV7",
   "tracks": [
     {
       "added_at": "2026-08-18 04:07:14",
@@ -1303,6 +1303,214 @@
       "duration_ms": 168004,
       "name": "Kill Me With A Kiss",
       "url": "https://open.spotify.com/track/1fKSRmApiBIgJ5bYsPrShp"
+    },
+    {
+      "added_at": "2026-11-21 16:14:03",
+      "album": {
+        "name": "City To Ourselves",
+        "url": "https://open.spotify.com/album/0yRXOtTOW4YHWwVIhYGOZ5"
+      },
+      "artists": [
+        {
+          "name": "Hag Roast",
+          "url": "https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ"
+        }
+      ],
+      "duration_ms": 218269,
+      "name": "City To Ourselves",
+      "url": "https://open.spotify.com/track/6BkXcKxGTEV8InQPa56gvN"
+    },
+    {
+      "added_at": "2026-11-21 16:23:53",
+      "album": {
+        "name": "Long Walk Home",
+        "url": "https://open.spotify.com/album/0axMqYmSod8cxl64QQoBHE"
+      },
+      "artists": [
+        {
+          "name": "Colider",
+          "url": "https://open.spotify.com/artist/69s9BHfKknFYjpRwml8BAf"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Long Walk Home",
+      "url": "https://open.spotify.com/track/0THpAKif54ZY03WA93YQHe"
+    },
+    {
+      "added_at": "2026-11-21 16:29:02",
+      "album": {
+        "name": "Cold Little Feelings",
+        "url": "https://open.spotify.com/album/484muB9x6pL29ETmDnYXXL"
+      },
+      "artists": [
+        {
+          "name": "Eric Schenkman",
+          "url": "https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4"
+        }
+      ],
+      "duration_ms": 245546,
+      "name": "Cold Little Feelings",
+      "url": "https://open.spotify.com/track/2Nc5TocmZjZU4RwnfUEauE"
+    },
+    {
+      "added_at": "2026-11-21 16:31:13",
+      "album": {
+        "name": "Ella Breeze",
+        "url": "https://open.spotify.com/album/0bP3TkQhIZLpMxpPJhNCtn"
+      },
+      "artists": [
+        {
+          "name": "Brad Arliss",
+          "url": "https://open.spotify.com/artist/06lLd5jrInOYWDVsfL6bzG"
+        }
+      ],
+      "duration_ms": 154686,
+      "name": "Ella Breeze",
+      "url": "https://open.spotify.com/track/7gcOSsQjpEPYsGcjvrWPIv"
+    },
+    {
+      "added_at": "2026-11-21 16:33:08",
+      "album": {
+        "name": "Last Days of Rome",
+        "url": "https://open.spotify.com/album/0jZAfFVsQHjDuZTXpkkEWN"
+      },
+      "artists": [
+        {
+          "name": "Unquiet Nights",
+          "url": "https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot"
+        }
+      ],
+      "duration_ms": 187922,
+      "name": "Last Days of Rome",
+      "url": "https://open.spotify.com/track/0EQkP95IMQbCFRrBULXrsw"
+    },
+    {
+      "added_at": "2026-11-21 16:38:32",
+      "album": {
+        "name": "Mais Um Tempo Aqui",
+        "url": "https://open.spotify.com/album/0Nya0upHv9dLpauWjK9IJK"
+      },
+      "artists": [
+        {
+          "name": "Fullgas",
+          "url": "https://open.spotify.com/artist/4qSgAga2J296bJHBWMo4cA"
+        }
+      ],
+      "duration_ms": 195336,
+      "name": "Mais Um Tempo Aqui",
+      "url": "https://open.spotify.com/track/31R2QujaEh07JVZngMuWKY"
+    },
+    {
+      "added_at": "2026-11-21 18:00:04",
+      "album": {
+        "name": "Hail Saturn / Damnation",
+        "url": "https://open.spotify.com/album/2b2T6BtljYWoiPKhtfPEiD"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 156856,
+      "name": "Damnation",
+      "url": "https://open.spotify.com/track/6qngy0jHZBM489p6WIYFJq"
+    },
+    {
+      "added_at": "2026-11-21 18:11:43",
+      "album": {
+        "name": "Dark Things",
+        "url": "https://open.spotify.com/album/38E4yGUargmP23lKfh046r"
+      },
+      "artists": [
+        {
+          "name": "Resident Hero",
+          "url": "https://open.spotify.com/artist/6ov0ZOdwUGfWOPPP1DhfzY"
+        }
+      ],
+      "duration_ms": 237033,
+      "name": "Dark Things",
+      "url": "https://open.spotify.com/track/742RKDiqJG0ybMWOtz38my"
+    },
+    {
+      "added_at": "2026-11-21 18:20:38",
+      "album": {
+        "name": "Milk and Cookies",
+        "url": "https://open.spotify.com/album/133koDII8OmfJrFaxLJwsz"
+      },
+      "artists": [
+        {
+          "name": "The Falls",
+          "url": "https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA"
+        }
+      ],
+      "duration_ms": 194069,
+      "name": "Milk and Cookies",
+      "url": "https://open.spotify.com/track/2VFpZyLUornNSiPjifpvvu"
+    },
+    {
+      "added_at": "2026-11-21 18:39:51",
+      "album": {
+        "name": "Three Women",
+        "url": "https://open.spotify.com/album/5TSkCSq6ddPL7lzazQ5Alk"
+      },
+      "artists": [
+        {
+          "name": "Bianca Rastafiore",
+          "url": "https://open.spotify.com/artist/0J9iB1rMMqrCPxvRIYcOME"
+        }
+      ],
+      "duration_ms": 216545,
+      "name": "#3 (The funk song)",
+      "url": "https://open.spotify.com/track/6YWJgMKrl5D3Jya0jQPaeI"
+    },
+    {
+      "added_at": "2026-11-21 18:52:09",
+      "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/7wHLdYV2rySnQ7FdhuUeGG"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "duration_ms": 144395,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/3oPuLZzvFvl5TF1YzA6RFy"
+    },
+    {
+      "added_at": "2026-11-21 19:01:16",
+      "album": {
+        "name": "Saturday Song For Sunday",
+        "url": "https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU"
+      },
+      "artists": [
+        {
+          "name": "X-Rated 1994",
+          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
+        }
+      ],
+      "duration_ms": 204896,
+      "name": "Saturday Song For Sunday",
+      "url": "https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr"
+    },
+    {
+      "added_at": "2026-11-21 19:08:54",
+      "album": {
+        "name": "Strains (420 Deluxe EP)",
+        "url": "https://open.spotify.com/album/6DlliTyyxLxtiYZQy8aNys"
+      },
+      "artists": [
+        {
+          "name": "Space of a Day",
+          "url": "https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB"
+        }
+      ],
+      "duration_ms": 201841,
+      "name": "Future #1 - 2026 Remix",
+      "url": "https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM"
     }
   ],
   "unique_name": "Unsigned Rock",

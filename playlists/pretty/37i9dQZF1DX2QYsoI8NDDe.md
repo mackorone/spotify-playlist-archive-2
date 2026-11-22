@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Las Marias
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,657 likes - 136 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,656 likes - 136 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 135 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU) | 4:14 |
 | 136 | [A Través Del Vaso](https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Través Del Vaso](https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ) | 3:02 |
 
-Snapshot ID: `AAAAAAYZe//2mqGTNjOvcp/1SM28quq0`
+Snapshot ID: `AAAAAMGvyz7El5Kl5qrVCy2Z1pekAA4r`

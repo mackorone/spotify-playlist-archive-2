@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: SKYLERR & kavabanga Depo kolibri
+> 50 найгарячіших пісень в Україні\. Обкладинка: Povin'
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,568 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,584 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Червоний мак](https://open.spotify.com/track/3wgjTy5esSJiekFbS0LBRt) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg), [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Червоний мак](https://open.spotify.com/album/67turAkNUghJQnJBgTYfgE) | 3:29 |
-| 2 | [Німесил](https://open.spotify.com/track/30sgJs4XDi5W9QuXmVTpwK) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Німесил](https://open.spotify.com/album/5oh7SSKoxCqq51jiQmnTC2) | 2:31 |
-| 3 | [Дві весни](https://open.spotify.com/track/1LqZGmuthue7GOtBp6hEmQ) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Sviatoslav Vakarchuk](https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I) | [Дві весни](https://open.spotify.com/album/6FPEAKQ5MHEYkBV4s6DzqU) | 3:50 |
-| 4 | [Фанат](https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Фанат](https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa) | 3:18 |
-| 5 | [Ліхтарики](https://open.spotify.com/track/3sZGWY8klzkjRMYGx4RJ3O) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Ліхтарики](https://open.spotify.com/album/4DCxZZkvifNqv0dlnP5lpd) | 2:27 |
-| 6 | [Тисяча пісень](https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Тисяча пісень](https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV) | 3:51 |
-| 7 | [Червоні прапорці](https://open.spotify.com/track/4SCuJ31JyLkJXaK2bJui3i) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Червоні прапорці](https://open.spotify.com/album/6lWFE3O6uR3hB5QHSvRVGG) | 2:40 |
-| 8 | [Люди для людей](https://open.spotify.com/track/4OVOZeec45CTqW9kC0tQoW) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Люди для людей](https://open.spotify.com/album/6fG1S5qK5mzYK806UOxVCR) | 4:02 |
-| 9 | [Кажи мені правду](https://open.spotify.com/track/4lsQbnwUCPXjPJZ84JFLtp) | [HUDAK](https://open.spotify.com/artist/3poPb56ojafRVuANnCTPIL), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W), [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [MOTANA](https://open.spotify.com/artist/5BP8JAe1kls7LqWojEfYmr) | [Кажи мені правду](https://open.spotify.com/album/32XYKXbYnaYxou7LRW4BOz) | 4:08 |
-| 10 | [Не сам](https://open.spotify.com/track/2mXA07JWWCbq4pJwlCM5j7) | [Povin'](https://open.spotify.com/artist/5JmdCeZUntMWY5XxqgQcRe), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Не сам](https://open.spotify.com/album/6yUENgPV8BB1SDBChUmfvx) | 3:02 |
+| 1 | [Не сам](https://open.spotify.com/track/2mXA07JWWCbq4pJwlCM5j7) | [Povin'](https://open.spotify.com/artist/5JmdCeZUntMWY5XxqgQcRe), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Не сам](https://open.spotify.com/album/6yUENgPV8BB1SDBChUmfvx) | 3:02 |
+| 2 | [Червоний мак](https://open.spotify.com/track/3wgjTy5esSJiekFbS0LBRt) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg), [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Червоний мак](https://open.spotify.com/album/67turAkNUghJQnJBgTYfgE) | 3:29 |
+| 3 | [Німесил](https://open.spotify.com/track/30sgJs4XDi5W9QuXmVTpwK) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Німесил](https://open.spotify.com/album/5oh7SSKoxCqq51jiQmnTC2) | 2:31 |
+| 4 | [Дві весни](https://open.spotify.com/track/1LqZGmuthue7GOtBp6hEmQ) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Sviatoslav Vakarchuk](https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I) | [Дві весни](https://open.spotify.com/album/6FPEAKQ5MHEYkBV4s6DzqU) | 3:50 |
+| 5 | [Фанат](https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Фанат](https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa) | 3:18 |
+| 6 | [Ліхтарики](https://open.spotify.com/track/3sZGWY8klzkjRMYGx4RJ3O) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Ліхтарики](https://open.spotify.com/album/4DCxZZkvifNqv0dlnP5lpd) | 2:27 |
+| 7 | [Тисяча пісень](https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Тисяча пісень](https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV) | 3:51 |
+| 8 | [Червоні прапорці](https://open.spotify.com/track/4SCuJ31JyLkJXaK2bJui3i) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Червоні прапорці](https://open.spotify.com/album/6lWFE3O6uR3hB5QHSvRVGG) | 2:40 |
+| 9 | [Люди для людей](https://open.spotify.com/track/4OVOZeec45CTqW9kC0tQoW) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Люди для людей](https://open.spotify.com/album/6fG1S5qK5mzYK806UOxVCR) | 4:02 |
+| 10 | [Кажи мені правду](https://open.spotify.com/track/4lsQbnwUCPXjPJZ84JFLtp) | [HUDAK](https://open.spotify.com/artist/3poPb56ojafRVuANnCTPIL), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W), [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [MOTANA](https://open.spotify.com/artist/5BP8JAe1kls7LqWojEfYmr) | [Кажи мені правду](https://open.spotify.com/album/32XYKXbYnaYxou7LRW4BOz) | 4:08 |
 | 11 | [Очі](https://open.spotify.com/track/2NZPExBlpDpqSvtqSXLXaN) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf), [melos](https://open.spotify.com/artist/5S22rA3rwyENktb6V5LvA9) | [Очі](https://open.spotify.com/album/3apDvnMTrS7L2CVO49Bkph) | 2:54 |
 | 12 | [КРИЛА ЛЕЛЕКИ](https://open.spotify.com/track/5KoAIiBQdZJYhbtxwQ1Nvb) | [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [КРИЛА ЛЕЛЕКИ](https://open.spotify.com/album/71teZep0gqgDwEVSKqesvf) | 3:18 |
 | 13 | [Не складається](https://open.spotify.com/track/2Vv2butM4lUAJFcQJusFof) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Не складається](https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [Питань нема](https://open.spotify.com/track/7bXv03fXWRWpXUajb9F0WY) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Питань нема](https://open.spotify.com/album/7bMLZ9QarJof8TuEUEHBx7) | 2:47 |
 | 50 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 
-Snapshot ID: `AAAAAGVm9zvgWL65HI8yhE3C2DXec11E`
+Snapshot ID: `AAAAAE2jBvgoZYhEAON53mbtMS1H8Sbq`

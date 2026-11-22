@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: Zaylevelten
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,834 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,855 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

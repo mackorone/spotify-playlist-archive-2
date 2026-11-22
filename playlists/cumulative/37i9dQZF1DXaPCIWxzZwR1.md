@@ -4,7 +4,7 @@
 
 > next gen pop<br/>Cover: Romy Mars
 
-2,602 songs - 5 day 7 hr 56 min
+2,604 songs - 5 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 | 2022-06-17 | 2023-04-10 |
 | [Dirty Thoughts](https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil) | 2:09 | 2021-12-16 | 2022-07-29 |
 | [Dirty Thoughts](https://open.spotify.com/track/7zZDRq9CLl37OAywR39KVy) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [The Monster You Made Me](https://open.spotify.com/album/3aLOGvykDskOiDaLnTghjH) | 2:09 | 2023-04-07 | 2023-04-29 |
+| [dirty white tee](https://open.spotify.com/track/72pgOuR3pxKvFWYuJ5Tke3) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [dirty white tee](https://open.spotify.com/album/3OAlV55JOKLQsmrlcSpeYm) | 2:55 | 2026-11-21 |  |
 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-25 | 2022-06-11 |
 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 | 2022-06-24 | 2022-10-22 |
 | [Disneyland](https://open.spotify.com/track/5mkN2GqoR5NWJc4GB3huAc) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [P.U.K.E Tapes, Vol\. 1](https://open.spotify.com/album/7BYvwszB1kPrpgn8kLxqvk) | 2:14 | 2021-06-05 | 2021-06-26 |
@@ -713,6 +714,7 @@
 | [ESCORT](https://open.spotify.com/track/6yfScK103B2KuUHf7aZ6Tp) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [ESCORT](https://open.spotify.com/album/1rt8MMTzYNWxzr2NLwvXlV) | 3:38 | 2021-10-16 | 2021-12-04 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-12 | 2024-07-13 |
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-13 | 2023-01-28 |
+| [Even Roses Die](https://open.spotify.com/track/7boIu5FtLrXwEpkkU3t9Gw) | [Sarah Lola](https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe) | [Even Roses Die](https://open.spotify.com/album/3gia3qjf17hWWBLygoBST2) | 2:21 | 2026-11-21 |  |
 | [Even When/The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Even When/The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL) | 1:46 | 2021-04-30 | 2021-05-29 |
 | [EVER AGAIN](https://open.spotify.com/track/6bVFrhyMHTWzRe5v5RTnSA) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [EVER AGAIN](https://open.spotify.com/album/02BP8qD2EHtYpi77uyG3PJ) | 2:36 | 2022-04-29 | 2022-07-13 |
 | [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2022-12-16 | 2023-02-18 |
@@ -1438,7 +1440,7 @@
 | [love's not pain](https://open.spotify.com/track/2mElFGDLWCZnuyHt6APKdl) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [love's not pain](https://open.spotify.com/album/0KFgeoREfHIGhvOiyWAAWn) | 2:26 | 2024-10-11 | 2025-08-09 |
 | [lovebomb](https://open.spotify.com/track/6g5ToBz8mGURaauPqfyYvU) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:09 | 2022-10-28 | 2023-03-18 |
 | [Loverboy](https://open.spotify.com/track/1FWoak0OgTq1jrYfRKfXsj) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Helios](https://open.spotify.com/album/34XppM4qBBkVv7eDZEei1N) | 3:44 | 2021-08-25 | 2022-02-09 |
-| [lovergirl](https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket deluxe](https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX) | 3:21 | 2026-05-08 |  |
+| [lovergirl](https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket deluxe](https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX) | 3:21 | 2026-05-08 | 2026-11-22 |
 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 | 2021-03-19 | 2021-04-10 |
 | [LoveSick](https://open.spotify.com/track/6MEHkS9tjO4ztPmqlXtzGr) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:26 | 2021-09-11 | 2022-02-19 |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-09-08 | 2023-10-14 |
@@ -1759,7 +1761,7 @@
 | [Paris](https://open.spotify.com/track/7B1uCKAfh7aLRWsdGS363J) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Paris](https://open.spotify.com/album/3ZI1S0UFbkGLE3K7wHFd0H) | 3:21 | 2023-05-19 | 2023-06-03 |
 | [Parking Lot](https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Parking Lot](https://open.spotify.com/album/6DvcqZjRJ2f462uQAeHHoG) | 3:32 | 2025-08-01 | 2025-10-11 |
 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [LILHUDDY](https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 | 2021-09-18 | 2021-10-09 |
-| [Passion Isn't Rare](https://open.spotify.com/track/42J7aNa2mO69y98CQRdFis) | [Sarah Lola](https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe) | [Passion Isn't Rare](https://open.spotify.com/album/7Iehhp14cGzyFbsl9suqCv) | 3:10 | 2026-10-23 |  |
+| [Passion Isn't Rare](https://open.spotify.com/track/42J7aNa2mO69y98CQRdFis) | [Sarah Lola](https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe) | [Passion Isn't Rare](https://open.spotify.com/album/7Iehhp14cGzyFbsl9suqCv) | 3:10 | 2026-10-23 | 2026-11-22 |
 | [PATCHWERK \(with Two Feet\)](https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [PATCHWERK \(with Two Feet\)](https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H) | 2:21 | 2021-03-26 | 2021-06-12 |
 | [PATTERN](https://open.spotify.com/track/4SJm0QAznuWDNn4TvhB4PG) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [SECONDHAND SMOKE](https://open.spotify.com/album/5VwMEjoJ8jsdCAKIhqhIbe) | 3:19 | 2026-11-13 |  |
 | [Payback](https://open.spotify.com/track/3R6SiwQlQDsEGN514Am6xD) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Payback](https://open.spotify.com/album/35azufJoqJ4BMzZGUUdSwr) | 3:44 | 2023-09-01 | 2023-09-23 |

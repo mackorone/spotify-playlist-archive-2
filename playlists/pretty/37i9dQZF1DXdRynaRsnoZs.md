@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,641 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,754 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

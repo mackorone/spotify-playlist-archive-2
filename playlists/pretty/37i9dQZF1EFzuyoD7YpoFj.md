@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 388 songs - 19 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 539 likes - 388 songs - 19 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 75 | [High Society: Who Wants to Be a Millionaire?](https://open.spotify.com/track/0TxO7yP07lBlbw5NWmIbIh) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra Sings the Songbooks, Vol\. 5](https://open.spotify.com/album/1qWlA1lgQ33tGspMUH8wD1) | 2:09 |
 | 76 | [Give Him The Ooh\-La\-La](https://open.spotify.com/track/0ghtS4w1pSxPrlpCoLrXhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 2:41 |
 | 77 | [Goodbye, Little Dream, Goodbye](https://open.spotify.com/track/4cFEDjjpNsg4WkHSt6lc3c) | [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 2:23 |
-| 78 | [You Don't Know This Man](https://open.spotify.com/track/0RuWBmJgd6VXAGVx0kYIgo) | [Carolee Carmello](https://open.spotify.com/artist/05AYNNHK2QrbfVD1iawhp2) | [Parade \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2pIKRHaTrSHGh4yLBJMy9z) | 2:12 |
-| 79 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 |
+| 78 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 |
+| 79 | [You Don't Know This Man](https://open.spotify.com/track/0RuWBmJgd6VXAGVx0kYIgo) | [Carolee Carmello](https://open.spotify.com/artist/05AYNNHK2QrbfVD1iawhp2) | [Parade \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2pIKRHaTrSHGh4yLBJMy9z) | 2:12 |
 | 80 | [Overture](https://open.spotify.com/track/2NTXTzvznh6bdlEkikXOEH) | [Anything Goes New Broadway Company Orchestra](https://open.spotify.com/artist/0kWHuPyJRJeGeuxiJqZ3Z3) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 2:37 |
 | 81 | [One Summer Night](https://open.spotify.com/track/1VUK0BnDIE06kxrE4GdHiO) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [Stars Legacy](https://open.spotify.com/album/4SkLp4Mq1K7rZmiV9aVeR8) | 2:30 |
 | 82 | [Wee\-Wee, Pee\-Pee, Tinkle!](https://open.spotify.com/track/5pJVrsl5Y7RSSDA4I1BQf8) | [Wonder Pets](https://open.spotify.com/artist/7ni4mcsUHE4P5g7Qd15DHD) | [Wonder Pets](https://open.spotify.com/album/7956RvTfKwsOZe6yljDVMa) | 1:38 |
@@ -381,8 +381,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 371 | [Porter / Orch\. Klickmann, Spialek, Russell Bennett & De Paeckh: Fifty Million Frenchmen: Overture](https://open.spotify.com/track/3anTizdPA3D58ynOdbEbzi) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [London Sinfonietta](https://open.spotify.com/artist/68kuKZp7yrgzZpoh5m6dWA), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Porter: Overtures & Within the Quota](https://open.spotify.com/album/453quw75TPiFDwhNYYg7oh) | 3:44 |
 | 372 | [When I Was a Little Cuckoo](https://open.spotify.com/track/6COliJJRcC2dFhuEC2RE0H) | [Charlotte Rae](https://open.spotify.com/artist/1RRFegdj7q3BQRHqjlxPgC) | [Songs I Taught My Mother](https://open.spotify.com/album/0JBxQhvCYJpGXNhgaKl4b2) | 2:33 |
 | 373 | [A Little Rumba Numba \- From the Musical ''Let's Face It''](https://open.spotify.com/track/50ZihVZ3plSTqSkqok1Pev) | [Hildegarde](https://open.spotify.com/artist/2rRbq8hkrtbwE1tDbbWXlq) | [Let's Face It \(From the Musical ''Let's Face It''\)](https://open.spotify.com/album/1NHxATXTjt8ySrOR4Vh54G) | 3:00 |
-| 374 | [Gigolo](https://open.spotify.com/track/2Ar4duALNV2YzlyqXrXKTv) | [Courtney Kenny](https://open.spotify.com/artist/4n35oaVa9XMujvcvhdT1OU) | [American Cabaret Songs, 1950\-2000](https://open.spotify.com/album/4Mo8QFsHZvL68i5tAfyK4Z) | 2:02 |
-| 375 | [You're Too Far Away](https://open.spotify.com/track/2kgfqPDxQAt6xBKoqf1xfz) | [Muzzy Marcellino](https://open.spotify.com/artist/7uRhymmIttUu5cbYlOeX4C), [Ted Fio Rito & His Orchestra](https://open.spotify.com/artist/7DIWTRQhlpxu8KwizRVpu1) | [We Call It Jazz!, Vol\. 55](https://open.spotify.com/album/3MTcw3us3uqlwZ3WOgaiut) | 2:54 |
+| 374 | [You're Too Far Away](https://open.spotify.com/track/2kgfqPDxQAt6xBKoqf1xfz) | [Muzzy Marcellino](https://open.spotify.com/artist/7uRhymmIttUu5cbYlOeX4C), [Ted Fio Rito & His Orchestra](https://open.spotify.com/artist/7DIWTRQhlpxu8KwizRVpu1) | [We Call It Jazz!, Vol\. 55](https://open.spotify.com/album/3MTcw3us3uqlwZ3WOgaiut) | 2:54 |
+| 375 | [Gigolo](https://open.spotify.com/track/2Ar4duALNV2YzlyqXrXKTv) | [Courtney Kenny](https://open.spotify.com/artist/4n35oaVa9XMujvcvhdT1OU) | [American Cabaret Songs, 1950\-2000](https://open.spotify.com/album/4Mo8QFsHZvL68i5tAfyK4Z) | 2:02 |
 | 376 | [C'est si facile de vous aimer \(Easy to Love\)](https://open.spotify.com/track/6sPAZooZny9UycKZt7Vgkl) | [Marc Fosset Trio](https://open.spotify.com/artist/2XJm4YgjpQdlnbVcj14I5L) | [I Want to Be Happy](https://open.spotify.com/album/0I52fHQ0GcrlTVIuDWQHJf) | 3:44 |
 | 377 | [Du bist Schuld daran](https://open.spotify.com/track/188X6WD8Bu0Sb7U4AsW4Vc) | [Caroline Kiesewetter](https://open.spotify.com/artist/72Rbr2DX6hUSA5KuyILAxd) | [Mal laut, mal leise](https://open.spotify.com/album/08EDCfCpdlA6uuafwGpJLk) | 3:08 |
 | 378 | [You'll Never Get Rich](https://open.spotify.com/track/15C6kgeHsiGFmQqwR7BsVQ) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 0:56 |
@@ -397,4 +397,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 387 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 388 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AciNxgAAAADY2TuI70zVJ2T9P+ib03Jj`
+Snapshot ID: `AciTDAAAAAA7RpxCQXi9xDq022LWRJrf`

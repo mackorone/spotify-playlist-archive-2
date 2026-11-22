@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md) - cumulative - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \- Ana Mena y Lola Indigo en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Quevedo y Elvis Crespo en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-429 songs - 22 hr 27 min
+430 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [RAYO DE LUZ](https://open.spotify.com/track/4e48qabruKkdAHWuSh67xM) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [RAYO DE LUZ](https://open.spotify.com/album/2g5GgTx8lV9UNovLeJiTFZ) | 3:16 | 2025-03-01 | 2025-06-01 |
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-08-03 | 2024-11-24 |
 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 | 2026-05-02 |  |
+| [RETRICA](https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [SORDO DE UN PIE](https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir) | 3:22 | 2026-11-21 |  |
 | [Sabe](https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sabe](https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0) | 2:57 | 2022-01-15 | 2022-03-06 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-02-12 | 2022-06-26 |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-08-09 | 2026-05-03 |
@@ -387,7 +388,7 @@
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-10-19 | 2025-04-27 |
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-25 | 2026-07-26 |
 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 | 2024-08-24 | 2025-01-12 |
-| [TIRAMISÚ](https://open.spotify.com/track/2D1DYCgKAlsKSqSBafXZ5q) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [TIRAMISÚ](https://open.spotify.com/album/5VPc2RUHrRAJAikiworXO4) | 3:00 | 2026-07-25 |  |
+| [TIRAMISÚ](https://open.spotify.com/track/2D1DYCgKAlsKSqSBafXZ5q) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [TIRAMISÚ](https://open.spotify.com/album/5VPc2RUHrRAJAikiworXO4) | 3:00 | 2026-07-25 | 2026-11-22 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-11-05 | 2023-01-29 |
 | [Titiritar](https://open.spotify.com/track/7cJDcvC6nSbkx4quEn7vTk) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Titiritar](https://open.spotify.com/album/55kodOr5aKPVSKUuHa608P) | 3:01 | 2024-07-06 | 2024-10-27 |
 | [Todo cambia](https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Todo cambia](https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd) | 3:30 | 2024-01-27 | 2024-09-22 |

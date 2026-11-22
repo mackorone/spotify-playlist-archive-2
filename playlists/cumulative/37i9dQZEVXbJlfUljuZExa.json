@@ -406,7 +406,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 305357,
       "name": "Ada titik-titik di ujung doa",
       "url": "https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV"
@@ -7460,7 +7460,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -10648,6 +10648,24 @@
     {
       "album": {
         "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/6F0yiLAZ3ZEpZXHhYFRrr6"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202339,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/1UUZgGa03L7HFyNheI2rfV"
+    },
+    {
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
       "artists": [
@@ -10676,7 +10694,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 202181,
       "name": "Helena - 2025 Mix",
       "url": "https://open.spotify.com/track/5Oi4bcuLV8D3YJ6w4FBEUz"
@@ -12206,6 +12224,24 @@
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/6F0yiLAZ3ZEpZXHhYFRrr6"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187982,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/2OM4M6VlM2rrA90LgIVJbc"
     },
     {
       "album": {
@@ -17320,7 +17356,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
@@ -21718,7 +21754,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 227908,
       "name": "Salah Apa Aku",
       "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
@@ -22418,6 +22454,24 @@
       "duration_ms": 157106,
       "name": "Selamat Hari Raya",
       "url": "https://open.spotify.com/track/7rGfXJN92ttB0FX0FWtHGR"
+    },
+    {
+      "album": {
+        "name": "Selesa",
+        "url": "https://open.spotify.com/album/232Qa7xuykRTLUblmklKmd"
+      },
+      "artists": [
+        {
+          "name": "Hael Husaini",
+          "url": "https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202353,
+      "name": "Selesa",
+      "url": "https://open.spotify.com/track/1P3Eyb3d119wA5AH4BhQrj"
     },
     {
       "album": {
@@ -26214,7 +26268,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 255000,
       "name": "Terbelah Jadi Dua",
       "url": "https://open.spotify.com/track/0euhFPZ2tlFElQzppQCzCw"
@@ -26236,7 +26290,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Terbelah Jadi Dua",
       "url": "https://open.spotify.com/track/2wAa43qM16H0PWAwiHTk5S"

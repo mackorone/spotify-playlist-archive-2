@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: asthma
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,599 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,591 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

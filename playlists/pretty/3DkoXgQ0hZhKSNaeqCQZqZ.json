@@ -1,13 +1,129 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1267,
+  "num_followers": 1270,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGKE7iDWEG7t6KVf/CGRrJ2GXsDndP",
+  "snapshot_id": "AAAGNIjHX22YHtg+YE9P/sQrHKZ11aG0",
   "tracks": [
+    {
+      "added_at": "2026-11-22 05:47:14",
+      "album": {
+        "name": "Lilac Shitty / Eat San Diego",
+        "url": "https://open.spotify.com/album/3IwJCN5KR4NLjteGIfQxUt"
+      },
+      "artists": [
+        {
+          "name": "Deathbed Parthenon",
+          "url": "https://open.spotify.com/artist/3VLmRE795i59vG0mjDXN3I"
+        }
+      ],
+      "duration_ms": 204171,
+      "name": "Eat San Diego",
+      "url": "https://open.spotify.com/track/3pOA5EAQyDjn38bAIAxg6U"
+    },
+    {
+      "added_at": "2026-11-22 02:46:38",
+      "album": {
+        "name": "abaddon",
+        "url": "https://open.spotify.com/album/3cdzx5kK1c6Sbi4q5Nu5JC"
+      },
+      "artists": [
+        {
+          "name": "lillybug",
+          "url": "https://open.spotify.com/artist/4E2TcTjE4vNGZ8eNtMzQ7U"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "abaddon",
+      "url": "https://open.spotify.com/track/6J84RJG0wHi2QVfX2fVYLf"
+    },
+    {
+      "added_at": "2026-11-22 05:49:21",
+      "album": {
+        "name": "LIVE (I WANNA SEE YOU) [FAVSONG]",
+        "url": "https://open.spotify.com/album/2qheGFGFFM59jplujfYUEd"
+      },
+      "artists": [
+        {
+          "name": "flatroom !!",
+          "url": "https://open.spotify.com/artist/3oeqmvHqZaCf0gdCK0Eo4C"
+        },
+        {
+          "name": "marshall4",
+          "url": "https://open.spotify.com/artist/2BOw2Ooy4maMEzNg1LR0HJ"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "LIVE (I WANNA SEE YOU) [FAVSONG]",
+      "url": "https://open.spotify.com/track/4lJOh4n5tGlfEr2sxxNpU8"
+    },
+    {
+      "added_at": "2026-11-22 02:46:16",
+      "album": {
+        "name": "MAKE A MOVE",
+        "url": "https://open.spotify.com/album/4dYA1ANlQ1fxPGQVO5iyeN"
+      },
+      "artists": [
+        {
+          "name": "HYPERPUP",
+          "url": "https://open.spotify.com/artist/2KYbArEPLKH4MpXX2eDjk2"
+        }
+      ],
+      "duration_ms": 210193,
+      "name": "MAKE A MOVE",
+      "url": "https://open.spotify.com/track/7fjhXJVhHxJd0c68s3BEIG"
+    },
+    {
+      "added_at": "2026-11-22 02:45:07",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/12aq1kbJgTQ6L483bCHCDo"
+      },
+      "artists": [
+        {
+          "name": "Betu",
+          "url": "https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7"
+        }
+      ],
+      "duration_ms": 221472,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5NbwYv2jL0lZOGK7L5hIaZ"
+    },
+    {
+      "added_at": "2026-11-22 02:44:45",
+      "album": {
+        "name": "Mom, my speaker broke",
+        "url": "https://open.spotify.com/album/0RCoRuA3v2spoOshWnsb7k"
+      },
+      "artists": [
+        {
+          "name": "Muffin Fox",
+          "url": "https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q"
+        }
+      ],
+      "duration_ms": 174695,
+      "name": "Mom, my speaker broke",
+      "url": "https://open.spotify.com/track/2K8bIRskdsV1NIhSUDoBFB"
+    },
+    {
+      "added_at": "2026-11-22 05:51:33",
+      "album": {
+        "name": "\u7d14\u5ea6",
+        "url": "https://open.spotify.com/album/2TCTuCOgul2CinbWt8CLIf"
+      },
+      "artists": [
+        {
+          "name": "Water",
+          "url": "https://open.spotify.com/artist/1NXNw7RoWcUm5GAEdIyvNt"
+        }
+      ],
+      "duration_ms": 83666,
+      "name": "\u7d14\u5ea6",
+      "url": "https://open.spotify.com/track/0FCMvHcZeX0nKPLty5AeOt"
+    },
     {
       "added_at": "2026-11-21 05:12:48",
       "album": {
@@ -43,6 +159,54 @@
       "duration_ms": 185142,
       "name": "ASHITAKA'S CURSE",
       "url": "https://open.spotify.com/track/4GBN4QvZN14xbOYpI29VS8"
+    },
+    {
+      "added_at": "2026-11-22 05:49:50",
+      "album": {
+        "name": "[4NOW: PART I]",
+        "url": "https://open.spotify.com/album/20V7Xynwzl4pCuhNhDZNmQ"
+      },
+      "artists": [
+        {
+          "name": "bappy",
+          "url": "https://open.spotify.com/artist/6dtWB9xG7j1nvjmPMrhTk7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "IN THE NAME OF SWAG",
+      "url": "https://open.spotify.com/track/54UtOQ2B4Ip9bucZLRYrxQ"
+    },
+    {
+      "added_at": "2026-11-11 21:44:54",
+      "album": {
+        "name": "PARTY LIKE THIS",
+        "url": "https://open.spotify.com/album/0feRHXSSAqBn2l0skYrmRM"
+      },
+      "artists": [
+        {
+          "name": "fearozzles",
+          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
+        },
+        {
+          "name": "Johnny Staxx",
+          "url": "https://open.spotify.com/artist/1f2SRb6igf9FXPgPKEKuOt"
+        },
+        {
+          "name": "silverluv",
+          "url": "https://open.spotify.com/artist/6uLoUTi9Gj0xZ4Ozgdwxm6"
+        },
+        {
+          "name": "bobowakeup",
+          "url": "https://open.spotify.com/artist/1SCLtqNhNEFvbuRjVMfIVl"
+        },
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "duration_ms": 194685,
+      "name": "PARTY LIKE THIS",
+      "url": "https://open.spotify.com/track/75KAY9fMflyNCxgMgknChO"
     },
     {
       "added_at": "2026-11-15 05:53:22",
@@ -155,38 +319,6 @@
       "duration_ms": 207804,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/226Qb8cRQY6oPPkepfeng6"
-    },
-    {
-      "added_at": "2026-11-11 21:44:54",
-      "album": {
-        "name": "PARTY LIKE THIS",
-        "url": "https://open.spotify.com/album/0feRHXSSAqBn2l0skYrmRM"
-      },
-      "artists": [
-        {
-          "name": "fearozzles",
-          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
-        },
-        {
-          "name": "Johnny Staxx",
-          "url": "https://open.spotify.com/artist/1f2SRb6igf9FXPgPKEKuOt"
-        },
-        {
-          "name": "silverluv",
-          "url": "https://open.spotify.com/artist/6uLoUTi9Gj0xZ4Ozgdwxm6"
-        },
-        {
-          "name": "bobowakeup",
-          "url": "https://open.spotify.com/artist/1SCLtqNhNEFvbuRjVMfIVl"
-        },
-        {
-          "name": "Bryn",
-          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
-        }
-      ],
-      "duration_ms": 194685,
-      "name": "PARTY LIKE THIS",
-      "url": "https://open.spotify.com/track/75KAY9fMflyNCxgMgknChO"
     },
     {
       "added_at": "2026-10-30 05:39:18",

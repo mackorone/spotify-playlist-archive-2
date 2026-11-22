@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,602 likes - 25 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,604 likes - 25 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 24 | [Far Gone](https://open.spotify.com/track/3Zb6AU2AVH9F9GhPAgtti2) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Far Gone](https://open.spotify.com/album/4BhXjhxbsEHRwVqdhG7JJl) | 3:21 |
 | 25 | [Dumpapa](https://open.spotify.com/track/29hRTF2McBiRPU5Vp1EpPU) | [Partha](https://open.spotify.com/artist/2OEQZoOnwAgF3ODf953X41), [Ashlay JC](https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt) | [Dumpapa](https://open.spotify.com/album/1X1Edptqqxvy2p5UIBkRRE) | 2:24 |
 
-Snapshot ID: `AAAAAGE1uy917g5DJkToOBN6zonsrHZE`
+Snapshot ID: `AAAAAPJa/HFrMSbDtgFVyZ/N7/StnePr`

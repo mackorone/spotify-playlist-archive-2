@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29qo6meCGNU.md) - [plain]
 
 > Perreo con ❤️‍🔥❤️‍🔥❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,679 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,692 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

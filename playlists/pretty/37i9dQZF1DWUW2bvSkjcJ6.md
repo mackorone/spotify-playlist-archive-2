@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Dua Lipa, Sido, Helene Fischer, Zartmann, reezy & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,671 likes - 84 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,644 likes - 84 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 10 | [Promises](https://open.spotify.com/track/2XFRcchBUPCzNi613DWMaq) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Promises](https://open.spotify.com/album/5RM0HIHjiMaOPwCDpK3dKm) | 2:25 |
 | 11 | [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 |
 | 12 | [Blumen geschenkt](https://open.spotify.com/track/4bhiE9z1G6w4NDfHOACB1u) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Blumen geschenkt](https://open.spotify.com/album/7m551qrKMvSQY8RB8Ujpfj) | 4:56 |
-| 13 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
+| 13 | [HEARTS DON’T LIE.](https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [HEARTS DON’T LIE.](https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE) | 3:11 |
 | 14 | [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 |
 | 15 | [WE ON GO \- HONORABLE Version](https://open.spotify.com/track/0brs1wJlXA87KIv4vXQOIB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [WE ON GO \(HONORABLE Version\)](https://open.spotify.com/album/6EZ578zedbTHsYcDVxsqxd) | 2:45 |
 | 16 | [Einmal zu weit](https://open.spotify.com/track/6zKBxUUXcwJb6VED2eB67o) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Einmal zu weit](https://open.spotify.com/album/096HCYI8v2anhy3VpQlsBM) | 3:19 |

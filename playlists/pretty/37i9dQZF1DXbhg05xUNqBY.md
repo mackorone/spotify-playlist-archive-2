@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Let go and let God.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,985 likes - 150 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,974 likes - 150 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

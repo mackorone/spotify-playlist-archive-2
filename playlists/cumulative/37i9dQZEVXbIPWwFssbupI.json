@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 163813,
       "name": "6.35",
       "url": "https://open.spotify.com/track/1cUQ8R5ulPGoijhaU6RAYM"
@@ -22992,7 +22992,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 187520,
       "name": "I.G",
       "url": "https://open.spotify.com/track/3WCqZwVyQHAqKSqRcjWNfK"
@@ -31723,6 +31723,28 @@
     },
     {
       "album": {
+        "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+        "url": "https://open.spotify.com/album/3aWz9wbzzF4LTtPC1XkO9r"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123253,
+      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/3AwCviyAGjYBjeCYz5vWep"
+    },
+    {
+      "album": {
         "name": "D&P \u00e0 vie",
         "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
       },
@@ -37622,6 +37644,24 @@
       "duration_ms": 267463,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
+    },
+    {
+      "album": {
+        "name": "M.I.L.S 4 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202860,
+      "name": "OC\u00c9AN DE PROBL\u00c8MES",
+      "url": "https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32"
     },
     {
       "album": {
@@ -57302,10 +57342,28 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 187320,
       "name": "\u00c9t\u00e9 avec toi",
       "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
+    },
+    {
+      "album": {
+        "name": "(Re)belle",
+        "url": "https://open.spotify.com/album/3aAOQOzk2Iso145hyJ65Nu"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "\u00c9t\u00e9 avec toi",
+      "url": "https://open.spotify.com/track/0I6ak8nLMqI4k233VOBVCd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Offset, Don Toliver, Future, and Drake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,203 likes - 59 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,053 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

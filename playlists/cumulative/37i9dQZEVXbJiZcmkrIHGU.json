@@ -4247,6 +4247,28 @@
     },
     {
       "album": {
+        "name": "Aktiv",
+        "url": "https://open.spotify.com/album/7a4iCo1PU6wVpRFWAb7Dfz"
+      },
+      "artists": [
+        {
+          "name": "Ghost61",
+          "url": "https://open.spotify.com/artist/3Ust4zjda1k2oady1gt6Cy"
+        },
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131760,
+      "name": "Aktiv",
+      "url": "https://open.spotify.com/track/0EkvIz1ckGI3TP6HWl9UUU"
+    },
+    {
+      "album": {
         "name": "Zweite Chance",
         "url": "https://open.spotify.com/album/0AFiMKjprqsC1ojd1yb2xq"
       },
@@ -8551,6 +8573,24 @@
     },
     {
       "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/3vnpDY0TvK9476QFA8E918"
+      },
+      "artists": [
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119005,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7mHtiCvkBcJv7b3nLjaxy7"
+    },
+    {
+      "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
       },
@@ -8916,7 +8956,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -25195,6 +25235,24 @@
     },
     {
       "album": {
+        "name": "EISBERG",
+        "url": "https://open.spotify.com/album/0OeFuCvYQLMWmKqSa6Z9CO"
+      },
+      "artists": [
+        {
+          "name": "HARDWICK",
+          "url": "https://open.spotify.com/artist/5LUWRPPWSSuoscgqvF2j7p"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "EISBERG",
+      "url": "https://open.spotify.com/track/7xNm3nBTEQG7tK5aB2ndDE"
+    },
+    {
+      "album": {
         "name": "Eismond",
         "url": "https://open.spotify.com/album/1u6xdiBDytdAaFJ5ExPWY5"
       },
@@ -28286,7 +28344,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -29344,6 +29402,24 @@
       "duration_ms": 127615,
       "name": "FLYY",
       "url": "https://open.spotify.com/track/4HAzTQo22iVcz9KIkTjlpz"
+    },
+    {
+      "album": {
+        "name": "FL\u00dcGEL",
+        "url": "https://open.spotify.com/album/3LF1E9zmSNaTntoBM1ujiT"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172858,
+      "name": "FL\u00dcGEL",
+      "url": "https://open.spotify.com/track/5LkjTiiR368ZNlIZbCe7yV"
     },
     {
       "album": {
@@ -31064,7 +31140,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 184815,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/3syJILv7CyZQ3ZSkm2xu5a"
@@ -33890,6 +33966,28 @@
       "duration_ms": 168973,
       "name": "GO (feat. Ufo361)",
       "url": "https://open.spotify.com/track/769KHZP7uwjSgFhW5sECvW"
+    },
+    {
+      "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
     {
       "album": {
@@ -40846,7 +40944,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 156106,
       "name": "IMPULSIVE",
       "url": "https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA"
@@ -41036,7 +41134,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 172680,
       "name": "In der Weihnachtsb\u00e4ckerei",
       "url": "https://open.spotify.com/track/5RxYjZmEaCYgYZ5Yht7Xc7"
@@ -41844,7 +41942,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -48508,7 +48606,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -48658,7 +48756,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -50350,7 +50448,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -50742,7 +50840,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -55062,7 +55160,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 125357,
       "name": "Mi Chico - Official - Jason Derulo x Melody",
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
@@ -58216,7 +58314,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -59818,7 +59916,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -80011,6 +80109,24 @@
     },
     {
       "album": {
+        "name": "Tag & Nacht",
+        "url": "https://open.spotify.com/album/4IQ1zrnL2hEyqwQ5WFLPgf"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Tag & Nacht",
+      "url": "https://open.spotify.com/track/1LAsZImZKMKslCIneDkH74"
+    },
+    {
+      "album": {
         "name": "Tag eins",
         "url": "https://open.spotify.com/album/5YX9AavF2GbYiF9NuLtcOT"
       },
@@ -81740,7 +81856,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -82676,6 +82792,28 @@
       "duration_ms": 312794,
       "name": "Thriller - 2003 Edit",
       "url": "https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f"
+    },
+    {
+      "album": {
+        "name": "Throw That Thang",
+        "url": "https://open.spotify.com/album/4TrFNu02UOt6B9tgpxy8OQ"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203276,
+      "name": "Throw That Thang",
+      "url": "https://open.spotify.com/track/2dtnHqzhrZWxpowKi0swwo"
     },
     {
       "album": {
@@ -84917,6 +85055,28 @@
     },
     {
       "album": {
+        "name": "Tut mir leid (feat. Mucco)",
+        "url": "https://open.spotify.com/album/7aXihUybDaD030LOsS3NXD"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        },
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159049,
+      "name": "Tut mir leid (feat. Mucco)",
+      "url": "https://open.spotify.com/track/7Lk3oCxmZ6afsxkMARZcdi"
+    },
+    {
+      "album": {
         "name": "Tut mir nicht leid",
         "url": "https://open.spotify.com/album/529mXL2l9YqhhnVg9cOUrF"
       },
@@ -85788,7 +85948,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 219864,
       "name": "UNETHICAL",
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
@@ -89161,6 +89321,24 @@
     },
     {
       "album": {
+        "name": "WAS HAST DU MIT MIR GEMACHT",
+        "url": "https://open.spotify.com/album/02ita9FKgdsCvgXRgIhWZF"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "WAS HAST DU MIT MIR GEMACHT",
+      "url": "https://open.spotify.com/track/7ez3IUR4Zk7GKVzMcFhsxH"
+    },
+    {
+      "album": {
         "name": "Was ich mach",
         "url": "https://open.spotify.com/album/1WVhNwop7LwhqtUItjV5qC"
       },
@@ -89919,6 +90097,28 @@
     },
     {
       "album": {
+        "name": "WE ON GO (HONORABLE Version)",
+        "url": "https://open.spotify.com/album/6EZ578zedbTHsYcDVxsqxd"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165801,
+      "name": "WE ON GO - HONORABLE Version",
+      "url": "https://open.spotify.com/track/0brs1wJlXA87KIv4vXQOIB"
+    },
+    {
+      "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
       },
@@ -90466,6 +90666,32 @@
       "duration_ms": 128534,
       "name": "Wei\u00dft du \u00fcberhaupt noch wer ich bin?",
       "url": "https://open.spotify.com/track/2WaGqcbTEIiM8QPHPmqclR"
+    },
+    {
+      "album": {
+        "name": "WELCOME (feat. Eminem)",
+        "url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162412,
+      "name": "WELCOME (feat. Eminem)",
+      "url": "https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM"
     },
     {
       "album": {

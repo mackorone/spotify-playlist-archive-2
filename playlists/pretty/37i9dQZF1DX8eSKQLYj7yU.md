@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Take a walk through the holiday holler with your favorite pickers
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,454 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,464 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

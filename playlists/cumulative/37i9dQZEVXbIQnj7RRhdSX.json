@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200994,
+      "name": "800 cv",
+      "url": "https://open.spotify.com/track/5enru95abMUdvoZGqaWqjL"
+    },
+    {
+      "album": {
         "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
       },
@@ -2492,6 +2510,24 @@
       "duration_ms": 130214,
       "name": "ACCAVALLATO (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/6c0cbRgAHgRqWFTQ34U69b"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Account",
+      "url": "https://open.spotify.com/track/1A19Rhn0eiTnzv5roFgXXU"
     },
     {
       "album": {
@@ -3950,7 +3986,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 177348,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
@@ -5796,7 +5832,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 146250,
       "name": "AYAYAY",
       "url": "https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ"
@@ -6926,7 +6962,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 149893,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p"
@@ -14365,6 +14401,28 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220167,
+      "name": "Comethe (feat. Pyrex)",
+      "url": "https://open.spotify.com/track/5bvSqGqxO5IfvJ08nosESC"
+    },
+    {
+      "album": {
         "name": "CANCUN",
         "url": "https://open.spotify.com/album/6dfFlS3ruKbUsuLVpLfzXe"
       },
@@ -14952,6 +15010,24 @@
       "duration_ms": 44589,
       "name": "Cose Non Sane (Interlude)",
       "url": "https://open.spotify.com/track/5TiiZFMEmCAWwt66FzPefR"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208208,
+      "name": "Cose Nostalgiche",
+      "url": "https://open.spotify.com/track/3yW1q3R4FglYD4dUs2JbCA"
     },
     {
       "album": {
@@ -24706,7 +24782,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 168342,
       "name": "Giovani Re",
       "url": "https://open.spotify.com/track/7aNsNTpMq7D4fffUiYKXNR"
@@ -25022,7 +25098,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 274173,
       "name": "Gli anni (96)",
       "url": "https://open.spotify.com/track/1jCsyZouqhSvnIeSTbvZL2"
@@ -30582,7 +30658,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -31634,7 +31710,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 249173,
       "name": "L'Emozione Non Ha Voce (Io Non So Parlar D'Amore)",
       "url": "https://open.spotify.com/track/6QDbrhZDKku58X7iv7cKKr"
@@ -32866,7 +32942,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 222794,
       "name": "La musica non c'\u00e8",
       "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
@@ -33412,7 +33488,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 192040,
       "name": "La tua canzone",
       "url": "https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO"
@@ -35477,6 +35553,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229322,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/4N2JequQMXHzZnJh0chyRj"
+    },
+    {
+      "album": {
         "name": "Lontano",
         "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
       },
@@ -35488,7 +35582,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 229322,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
@@ -41037,6 +41131,28 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Moonlight (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS"
+    },
+    {
+      "album": {
         "name": "sFaCioLaTe miXTaPe",
         "url": "https://open.spotify.com/album/7qj8awQvM423Uvc0VpxtXq"
       },
@@ -42302,7 +42418,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 226906,
       "name": "NEON",
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
@@ -43536,6 +43652,24 @@
       "duration_ms": 192786,
       "name": "Non Fare Cos\u00ec",
       "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199322,
+      "name": "Non guardarmi cos\u00ec",
+      "url": "https://open.spotify.com/track/1WM7v9ZYHlo8jGT8iObOhw"
     },
     {
       "album": {
@@ -51099,6 +51233,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Purosangue",
+      "url": "https://open.spotify.com/track/2PGcxFm284PpdW3xAbxt1h"
+    },
+    {
+      "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
       },
@@ -51836,7 +51988,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 216098,
       "name": "Questa domenica",
       "url": "https://open.spotify.com/track/1VX2LLBpUPS2QJVou4WGz3"
@@ -53540,7 +53692,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 193226,
       "name": "ROMANTICA",
       "url": "https://open.spotify.com/track/4RIoOQSJUih7XWXbdxut8W"
@@ -59714,7 +59866,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 175013,
       "name": "Stupida sfortuna",
       "url": "https://open.spotify.com/track/0HS9jzQvqyEyVLuo7sskFO"
@@ -61714,6 +61866,46 @@
       "duration_ms": 164160,
       "name": "Ti raggiunger\u00f2",
       "url": "https://open.spotify.com/track/3cqu5fPwdsXZHIRpDeXPoh"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179613,
+      "name": "Ti ricordi (feat. Ghali)",
+      "url": "https://open.spotify.com/track/3CK6Hf2IXtwKVbr7ZdnLjF"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172946,
+      "name": "Ti soffro",
+      "url": "https://open.spotify.com/track/0ALE0y4tBQCkgRIw9GRUmd"
     },
     {
       "album": {
@@ -65869,6 +66061,32 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211170,
+      "name": "Victory Lap (feat. Shiva, Geolier)",
+      "url": "https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4"
+    },
+    {
+      "album": {
         "name": "Vida Mala (feat. Medy)",
         "url": "https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0"
       },
@@ -66158,7 +66376,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 187573,
       "name": "Visiera A Becco",
       "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
@@ -66340,6 +66558,24 @@
       "duration_ms": 184560,
       "name": "Vivi o muori (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/7Fg7qvvwCR3NyHWya91x2o"
+    },
+    {
+      "album": {
+        "name": "Vivian",
+        "url": "https://open.spotify.com/album/5R4UcURDTa8iAhmADCrY4j"
+      },
+      "artists": [
+        {
+          "name": "Alex Fontana",
+          "url": "https://open.spotify.com/artist/4WxHNeMUO9NIo0A0M6hkr9"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/6QkXWOi9lL54T2QOf2IFeP"
     },
     {
       "album": {
@@ -67618,7 +67854,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 185229,
       "name": "WINNER",
       "url": "https://open.spotify.com/track/491FRiVMaWeyl8NYFGXjRg"

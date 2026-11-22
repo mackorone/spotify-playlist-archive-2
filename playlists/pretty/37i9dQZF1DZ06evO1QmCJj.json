@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 49035,
+  "num_followers": 49042,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADli6A3ir9Sx9rNwvrUM1ZV",
+  "snapshot_id": "av+NgAAAAABZyN3KO1pxi2/uhjRie3Au",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 187161,
+      "name": "MI COLETA",
+      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CORAZONES ROTOS",
         "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 230130,
       "name": "CORAZONES ROTOS",
       "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 187161,
-      "name": "MI COLETA",
-      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
     },
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Mimi",
-          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
         }
       ],
-      "duration_ms": 155904,
-      "name": "SI TE VAS",
-      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
+      "duration_ms": 192292,
+      "name": "YO TE LLEVO",
+      "url": "https://open.spotify.com/track/1Fa4oDtnqvcXsvtybrJMZ0"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
         }
       ],
-      "duration_ms": 192292,
-      "name": "YO TE LLEVO",
-      "url": "https://open.spotify.com/track/1Fa4oDtnqvcXsvtybrJMZ0"
+      "duration_ms": 155904,
+      "name": "SI TE VAS",
+      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "AN1MAL",
+      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "AN1MAL",
-      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
     },
     {
       "added_at": null,

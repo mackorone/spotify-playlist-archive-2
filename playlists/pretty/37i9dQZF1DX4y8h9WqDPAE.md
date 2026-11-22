@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > R&B, Hip\-Hop, Pop, Afrobeats and everything in between!  Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,065 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,079 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,059 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,997 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 99 | [Rhythm Of The House](https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Rhythm Of The House](https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp) | 3:19 |
 | 100 | [Not A Problem](https://open.spotify.com/track/34cGRbu2sg9mXm8fcUWlTw) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Not A Problem](https://open.spotify.com/album/4lck2TEXJQ94JSgv3Mhf5p) | 4:07 |
 
-Snapshot ID: `AAAAAA10IboPSWGNTVyhaBQZSS0Ftj4u`
+Snapshot ID: `AAAAACRWX9HbtBR0OvOXfFDo5OlRehhI`

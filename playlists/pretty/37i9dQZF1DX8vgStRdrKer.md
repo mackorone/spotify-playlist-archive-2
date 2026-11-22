@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,303 likes - 100 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,311 likes - 100 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,139 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,138 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 59 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
 | 60 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 |
 
-Snapshot ID: `AAAAAMg8zX/dOPnN+sXmNU+BLkW0Bf9n`
+Snapshot ID: `AAAAADMTk/GaUi3KYYZUDWTQoTvt2b/G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Venna, Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,328 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,344 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 51 | [Control](https://open.spotify.com/track/2Ts6u2309VQVAgZtYkMfnW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Control](https://open.spotify.com/album/1X4nLRbFFwhVRfxwbuFDOT) | 2:42 |
 | 52 | [SPLINTER](https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [Splinter](https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB) | 2:53 |
 | 53 | [Mind is a Dancer](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 4:28 |
-| 54 | [suffer](https://open.spotify.com/track/2YZlu9U67zQQ6tAzaKZyG7) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [suffer](https://open.spotify.com/album/59ElFnfSof0iThMX1qLp1I) | 3:23 |
+| 54 | [suffer](https://open.spotify.com/track/2YZlu9U67zQQ6tAzaKZyG7) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [suffer](https://open.spotify.com/album/59ElFnfSof0iThMX1qLp1I) | 3:23 |
 | 55 | [Conversation](https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Conversation](https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof) | 3:43 |
 | 56 | [don't be sad :\)!](https://open.spotify.com/track/0hPoIUiH8Soo3X3xnBm5ZW) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Outsider Music Vol 1: you don't know what you want, do you?](https://open.spotify.com/album/4f5t578repKV8L5eVA75GL) | 2:15 |
 | 57 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 |

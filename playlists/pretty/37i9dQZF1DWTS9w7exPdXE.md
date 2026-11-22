@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Nederpop en Volkspop meezingers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,073 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,131 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

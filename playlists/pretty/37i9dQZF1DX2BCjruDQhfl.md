@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > Tracks voor de juiste vibe\. Cover: Idaly & CHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,110 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,099 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

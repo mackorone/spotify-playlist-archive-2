@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,598 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,452 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 21 | [Overthinker](https://open.spotify.com/track/2b8BZIE6VefboEkZMrNhRX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Overthinker](https://open.spotify.com/album/2vKqcQXs8Rvrcvb2vEgn8Q) | 3:40 |
 | 22 | [Last song i sing](https://open.spotify.com/track/6GKrqFUnbzWhk20QTqMAUN) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [Last song i sing](https://open.spotify.com/album/2EaMewgRhSXHb4cEHdugvL) | 3:39 |
 | 23 | [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 |
-| 24 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
+| 24 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
 | 25 | [Jane](https://open.spotify.com/track/4szoLrDN83yNMMBPGh4nCo) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Jane](https://open.spotify.com/album/37jYqngzHIRHmAef9SWsFr) | 3:28 |
 | 26 | [Hole In My Heart](https://open.spotify.com/track/2bHjNfdVnjQVlL6Utnz2z8) | [Wyatt](https://open.spotify.com/artist/4SLgQO3VSUSc9prFr4OEmU) | [Hole In My Heart](https://open.spotify.com/album/3XBltEoNHM3cP2b6Ijlizw) | 4:16 |
 | 27 | [Some People](https://open.spotify.com/track/5VgZ0mo1nbHVQmeenbdny4) | [Spanish Horses](https://open.spotify.com/artist/3YrLAGmnU9JltcICs5wBy1) | [Some People](https://open.spotify.com/album/0XGoiNqqMHMKA1JYKVW3GI) | 4:01 |

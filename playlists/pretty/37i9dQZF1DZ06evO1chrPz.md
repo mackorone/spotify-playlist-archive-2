@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,850 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,863 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [You're Worthy of My Praise/As The Deer \- Live](https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 2:26 |
 | 50 | [Mi Esperanza Está en Jesús \(En Vivo\)](https://open.spotify.com/track/4yE8DVGo9zXET84d8uRp4V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 4:51 |
 
-Snapshot ID: `av48AAAAAAA5nrkJPTkhFYU5ROnn4kfN`
+Snapshot ID: `av+NgAAAAABXG1iwyUg5AFs+HPYHnTlo`

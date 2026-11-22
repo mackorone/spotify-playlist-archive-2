@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 267 songs - 14 hr 22 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 268 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -275,5 +275,6 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 265 | [Ne baisse jamais les bras](https://open.spotify.com/track/2YjiYnZvI3VfTxubeUGaDC) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [SaintLouis](https://open.spotify.com/artist/7t8YDBSiYdJXRnCWjWC0tD) | [Soulitaire](https://open.spotify.com/album/0Yu63iTCPXTq825WvqWqDQ) | 4:18 |
 | 266 | [La nuit pour adresse](https://open.spotify.com/track/4gvFL12l3nmL4ynUJ82yyZ) | [Olive](https://open.spotify.com/artist/6vAVYxk3IayFetuFPhSuVw) | [OLIIVE](https://open.spotify.com/album/3fGq1NUKCuNW4sBcWJvceC) | 3:41 |
 | 267 | [LA MER](https://open.spotify.com/track/49Ka6WAH2WAoJ3MXanfSwf) | [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [CT \#1](https://open.spotify.com/album/75tgk8xFzraJLyxbjVM7I5) | 2:27 |
+| 268 | [BIMMA](https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j) | [AME](https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV) | [BIMMA](https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v) | 2:57 |
 
-Snapshot ID: `AAABNQXoY8EJDuy1C+NRGlw1ishcp87h`
+Snapshot ID: `AAABNh0dkZ4xJ0pHsPzBMzsnrFfR4ku7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,049 likes - 42 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,053 likes - 42 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 37 | [Secret](https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:04 |
 | 38 | [Cerulean Blue](https://open.spotify.com/track/7IWrMlYzrsiM6IQoLh4gKm) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:05 |
 | 39 | [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 |
-| 40 | [Another Green World \- 2004 Remaster](https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 1:41 |
+| 40 | [Miss Sarajevo \- Live](https://open.spotify.com/track/5a376mA6M7RgxwrZFfJOYf) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Michael Kamen](https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb) | [Pavarotti & Friends Together For The Children Of Bosnia](https://open.spotify.com/album/6kbVOhOCjRxh34aaEfORZD) | 6:22 |
 | 41 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
-| 42 | [Miss Sarajevo \- Live](https://open.spotify.com/track/5a376mA6M7RgxwrZFfJOYf) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Michael Kamen](https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb) | [Pavarotti & Friends Together For The Children Of Bosnia](https://open.spotify.com/album/6kbVOhOCjRxh34aaEfORZD) | 6:22 |
+| 42 | [Another Green World \- 2004 Remaster](https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 1:41 |
 
 Snapshot ID: `av48AAAAAAC0WN1CE9iRHzNjzrab9JOZ`

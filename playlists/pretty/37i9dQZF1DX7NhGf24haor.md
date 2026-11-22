@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Darren Styles & TOZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,372 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,458 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

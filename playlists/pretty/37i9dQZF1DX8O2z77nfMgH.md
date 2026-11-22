@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Myke Towers,  Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,022 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,916 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 40 | [fuimos felices](https://open.spotify.com/track/22bf5wVhqgQV3SXnFOQLaW) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [fuimos felices](https://open.spotify.com/album/089brC1OhSSily0dlDlMVJ) | 3:38 |
 | 41 | [La Primera \- En Vivo](https://open.spotify.com/track/6eBVS1ggl9G2ojgXsSmmo7) | [Eros](https://open.spotify.com/artist/0JA5WnpLcVKO0RNKSZAhiW) | [Desde Ciudad Bolívar \(Barrio el Paraíso\) \[En Vivo\]](https://open.spotify.com/album/2iVT6zyrdM1ip2AV2cy00R) | 2:46 |
 | 42 | [TOKEN](https://open.spotify.com/track/0u7lB7NwtcYS2uWkz9kGxJ) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [TOKEN](https://open.spotify.com/album/0Clwak2OObuQvDaTU4kUHb) | 1:57 |
-| 43 | [HABITACIÓN \- Pro League](https://open.spotify.com/track/179Ia6FcqRNvqetZUsKuip) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Marcelo Rubio](https://open.spotify.com/artist/73SzRVvTkuEWYn2AtdhU5Q) | [HABITACIÓN \(Pro League\)](https://open.spotify.com/album/0vGhb6FVWg4vyLeDCjvnzq) | 3:09 |
+| 43 | [HABITACIÓN \- Pro League](https://open.spotify.com/track/179Ia6FcqRNvqetZUsKuip) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [HABITACIÓN \(Pro League\)](https://open.spotify.com/album/0vGhb6FVWg4vyLeDCjvnzq) | 3:09 |
 | 44 | [ORIGAMI \- &TEAM](https://open.spotify.com/track/7ryS70o9gUeHXAwsEAQIQv) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [ORIGAMI](https://open.spotify.com/album/797dBz2qHdt8W3tDV2a8l1) | 3:04 |
 | 45 | [Candela](https://open.spotify.com/track/4n0qlG76z3tvjZEOxCMF6r) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Afromak](https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK) | [Candela](https://open.spotify.com/album/0biPYydB1wHGMdJ2eUHsXJ) | 3:56 |
 | 46 | [PVTAS&TRAP](https://open.spotify.com/track/6g7v0NpXq3kktqjA0DmpXz) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [PVTAS&TRAP](https://open.spotify.com/album/1uUXQYBbdSQmVfThQmP8ro) | 2:13 |

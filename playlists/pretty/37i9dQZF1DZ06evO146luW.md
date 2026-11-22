@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,816 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,821 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 49 | [Gunshy \(Re\-recorded\)](https://open.spotify.com/track/2rbme7pc6goqI4wMcqIJEY) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Six String Sorrow Sessions](https://open.spotify.com/album/1az69IUJwlDGbVdpmrFaAN) | 4:48 |
 | 50 | [Better Without You](https://open.spotify.com/track/12lagnH3LHPUHTXkQhAGph) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:21 |
 
-Snapshot ID: `av48AAAAAABQ/4QhERgM42rHL7BypMA6`
+Snapshot ID: `av+NgAAAAACOMxwsqUhGHnay70MBxGIl`

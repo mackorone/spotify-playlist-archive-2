@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : Jailer 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,212 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,601 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

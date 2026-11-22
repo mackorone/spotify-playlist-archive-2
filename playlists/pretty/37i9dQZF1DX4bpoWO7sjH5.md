@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Israel & New Breed, Unified Sound, Adrienne Bailon\-Houghton, Claudette Bailon, Diana Marie, Travy Joe, Aaron Moses, & Nate Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,780 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,792 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

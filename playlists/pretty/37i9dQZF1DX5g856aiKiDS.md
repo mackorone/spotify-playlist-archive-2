@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,240 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,253 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 49 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
 | 50 | [Loving you came easy](https://open.spotify.com/track/1qVTJQBU7Kq5HjFH9pVcyl) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [Loving you came easy](https://open.spotify.com/album/2Bsv2RBvYrUT4rKpfIqd3B) | 3:02 |
 
-Snapshot ID: `AAAAAOKEPepPr6UNvp/b/vjqbjG7G3c2`
+Snapshot ID: `AAAAAHE2Vo3TxoO40gsvzD2OfON990SF`

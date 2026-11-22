@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,472 likes - 80 songs - 4 hr 48 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,492 likes - 93 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,18 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 78 | [Crumbling Castle](https://open.spotify.com/track/2MOAwTkYaxHc6rcY2QPYcm) | [Derek D'Acoustic](https://open.spotify.com/artist/5JdnqmtLVoIZy7X85Nxyin) | [Crumbling Castle](https://open.spotify.com/album/1XlzdDxCC7RXhBRHPyswyC) | 4:28 |
 | 79 | [Somewhere in the Middle](https://open.spotify.com/track/1Soch8t4XTmagsPJCEqrAi) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Something Something Disco](https://open.spotify.com/album/1PrZie0NfaYvlTTfB8DAve) | 3:26 |
 | 80 | [Kill Me With A Kiss](https://open.spotify.com/track/1fKSRmApiBIgJ5bYsPrShp) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Kill Me With A Kiss](https://open.spotify.com/album/25ikxA50fL755TK0KYkbCO) | 2:48 |
+| 81 | [City To Ourselves](https://open.spotify.com/track/6BkXcKxGTEV8InQPa56gvN) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [City To Ourselves](https://open.spotify.com/album/0yRXOtTOW4YHWwVIhYGOZ5) | 3:38 |
+| 82 | [Long Walk Home](https://open.spotify.com/track/0THpAKif54ZY03WA93YQHe) | [Colider](https://open.spotify.com/artist/69s9BHfKknFYjpRwml8BAf) | [Long Walk Home](https://open.spotify.com/album/0axMqYmSod8cxl64QQoBHE) | 3:38 |
+| 83 | [Cold Little Feelings](https://open.spotify.com/track/2Nc5TocmZjZU4RwnfUEauE) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Cold Little Feelings](https://open.spotify.com/album/484muB9x6pL29ETmDnYXXL) | 4:05 |
+| 84 | [Ella Breeze](https://open.spotify.com/track/7gcOSsQjpEPYsGcjvrWPIv) | [Brad Arliss](https://open.spotify.com/artist/06lLd5jrInOYWDVsfL6bzG) | [Ella Breeze](https://open.spotify.com/album/0bP3TkQhIZLpMxpPJhNCtn) | 2:34 |
+| 85 | [Last Days of Rome](https://open.spotify.com/track/0EQkP95IMQbCFRrBULXrsw) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Last Days of Rome](https://open.spotify.com/album/0jZAfFVsQHjDuZTXpkkEWN) | 3:07 |
+| 86 | [Mais Um Tempo Aqui](https://open.spotify.com/track/31R2QujaEh07JVZngMuWKY) | [Fullgas](https://open.spotify.com/artist/4qSgAga2J296bJHBWMo4cA) | [Mais Um Tempo Aqui](https://open.spotify.com/album/0Nya0upHv9dLpauWjK9IJK) | 3:15 |
+| 87 | [Damnation](https://open.spotify.com/track/6qngy0jHZBM489p6WIYFJq) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Hail Saturn / Damnation](https://open.spotify.com/album/2b2T6BtljYWoiPKhtfPEiD) | 2:36 |
+| 88 | [Dark Things](https://open.spotify.com/track/742RKDiqJG0ybMWOtz38my) | [Resident Hero](https://open.spotify.com/artist/6ov0ZOdwUGfWOPPP1DhfzY) | [Dark Things](https://open.spotify.com/album/38E4yGUargmP23lKfh046r) | 3:57 |
+| 89 | [Milk and Cookies](https://open.spotify.com/track/2VFpZyLUornNSiPjifpvvu) | [The Falls](https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA) | [Milk and Cookies](https://open.spotify.com/album/133koDII8OmfJrFaxLJwsz) | 3:14 |
+| 90 | [\#3 \(The funk song\)](https://open.spotify.com/track/6YWJgMKrl5D3Jya0jQPaeI) | [Bianca Rastafiore](https://open.spotify.com/artist/0J9iB1rMMqrCPxvRIYcOME) | [Three Women](https://open.spotify.com/album/5TSkCSq6ddPL7lzazQ5Alk) | 3:36 |
+| 91 | [Bring Your Love](https://open.spotify.com/track/3oPuLZzvFvl5TF1YzA6RFy) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Bring Your Love](https://open.spotify.com/album/7wHLdYV2rySnQ7FdhuUeGG) | 2:24 |
+| 92 | [Saturday Song For Sunday](https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Saturday Song For Sunday](https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU) | 3:24 |
+| 93 | [Future \#1 \- 2026 Remix](https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Strains \(420 Deluxe EP\)](https://open.spotify.com/album/6DlliTyyxLxtiYZQy8aNys) | 3:21 |
 
-Snapshot ID: `AAAHWi1ccNFJ0H+bjqkUBLNq3eKUxJv4`
+Snapshot ID: `AAAHZyXYuT7Vyzs40rL6MJ4ZR65uabV7`

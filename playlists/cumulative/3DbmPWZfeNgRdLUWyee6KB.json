@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Another Goodbye",
+        "url": "https://open.spotify.com/album/5KI7IMOyJbImYN8pOGTTep"
+      },
+      "artists": [
+        {
+          "name": "Fiery Gizzard",
+          "url": "https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252878,
+      "name": "Another Goodbye",
+      "url": "https://open.spotify.com/track/5yutgXr4hZanogTM7zxNR9"
+    },
+    {
+      "album": {
         "name": "The Nymph's Vessel",
         "url": "https://open.spotify.com/album/6ADS7HvbQTiH8Qf7wMT8ub"
       },

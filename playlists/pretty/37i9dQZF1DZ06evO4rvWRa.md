@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,645 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,626 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 37 | [Heartbreak Melody](https://open.spotify.com/track/1E9Gah4TTcvIyfvOkQC0ds) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/0SD3WgKtWtXSFmJyVaEsDX) | 3:11 |
 | 38 | [PS5](https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:32 |
 | 39 | [Monster](https://open.spotify.com/track/2cxjLvJ5U7rTAyG14aebDX) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Monster](https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy) | 2:38 |
-| 40 | [Last Song](https://open.spotify.com/track/1NwjNtLjb5brVDyAaKr6J0) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R) | 2:33 |
+| 40 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/1NwjNtLjb5brVDyAaKr6J0) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R) | 2:33 |
 | 41 | [Mind Of A Warrior](https://open.spotify.com/track/2RTlBcRS6nGVtP07AjkChQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Mind Of A Warrior](https://open.spotify.com/album/2Bx51Mj90wGsPP2ZlcAIiN) | 2:52 |
 | 42 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 43 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |

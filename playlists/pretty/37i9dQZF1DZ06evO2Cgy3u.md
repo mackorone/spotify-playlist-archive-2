@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 
 > This is The Raincoats\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091 likes - 33 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093 likes - 33 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 | 32 | [Looking in the Shadows](https://open.spotify.com/track/0UZ0EzyvcRHfwhLUiBf5K2) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:14 |
 | 33 | [Only Tonight](https://open.spotify.com/track/2O4XtuW60jpbVQFPJaan0c) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:28 |
 
-Snapshot ID: `av48AAAAAAB2Kao1EJhmjDwOEd9F2av/`
+Snapshot ID: `av+NgAAAAAAQFcTDz5N9CBwV/mMCNNnb`

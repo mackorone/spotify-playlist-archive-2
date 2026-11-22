@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 7 | [FOOLS](https://open.spotify.com/track/062jh4N4nECnQpzHY7Iky4) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood](https://open.spotify.com/album/64AUWuw7LstVHT40CmFVg4) | 3:40 |
 | 8 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 9 | [Grow as We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 |
-| 10 | [Must Have Been The Wind](https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:57 |
-| 11 | [Mind Is A Prison](https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:41 |
+| 10 | [Mind Is A Prison](https://open.spotify.com/track/2hGQDYmjkwTS0J7Q2bM2sF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:41 |
+| 11 | [Must Have Been The Wind](https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:57 |
 | 12 | [WILD](https://open.spotify.com/track/4YZVHEUZPJcFXkZghT2IhG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood](https://open.spotify.com/album/64AUWuw7LstVHT40CmFVg4) | 3:48 |
 | 13 | [Drink About](https://open.spotify.com/track/5r2kpjTJlJouxpESA1xEEY) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:02 |
 | 14 | [Put It on Me](https://open.spotify.com/track/7tySfDFfBiCjraLdoy6In5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [The Hearse](https://open.spotify.com/album/0CibAyYN112OULmO1Rhpsv) | 3:22 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 123 | [Vintage](https://open.spotify.com/track/1VD5r2AI7Im5lulgjjIbSP) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Late But Blooming](https://open.spotify.com/album/4W0t8ASDbL0OEYVtz3kAFf) | 3:35 |
 | 124 | [Father's Daughter](https://open.spotify.com/track/6GrNQpUeL0lwTaU02sQS60) | [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [Sixteen](https://open.spotify.com/album/5Tag3rGJu9CySbiFFuC0zB) | 5:17 |
 
-Snapshot ID: `AciNigAAAABt63homED3moFooLkkiD2C`
+Snapshot ID: `AciTDAAAAABSGCiP/r+YtH8FPrD9M73q`

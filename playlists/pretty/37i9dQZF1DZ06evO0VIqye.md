@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,684 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,685 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 49 | [Tush](https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV) | 2:21 |
 | 50 | [Coney Island Whitefish](https://open.spotify.com/track/0s0oLRYtGnZkJEQ59NjRsQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas) | 3:36 |
 
-Snapshot ID: `av48AAAAAABoZjp3mn5lO+u0lHCHRdhv`
+Snapshot ID: `av+NgAAAAAAiGKk+QXGzbIYfon6845Li`

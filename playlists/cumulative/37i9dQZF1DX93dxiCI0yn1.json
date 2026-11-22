@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-02",
-  "description": "\u3010\u30b5\u30a4\u30d5\u30a1\u30fc\u97f3\u6e90\u3092\u516c\u958b\uff01\u3011ABEMA\u300cRAPSTAR 2026\u300d\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5be9\u67fb\u54e1\u3084\u756a\u7d44\u5185\u3067\u6d3b\u8e8d\u3057\u305f\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3001\u6628\u5e74\u6d3b\u8e8d\u3057\u305f\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u697d\u66f2\u3092\u6bce\u9031\u6c34\u66dc\u65e5\u306b\u66f4\u65b0\u3002 \u30de\u30a4\u30e9\u30a4\u30d6\u30e9\u30ea\u306b\u4fdd\u5b58\u3057\u3066\u6bce\u9031\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046\u3002",
+  "description": "\u3010ROOTS\u30b9\u30c6\u30fc\u30b8\u697d\u66f2\u3092\u516c\u958b\uff01\u3011ABEMA\u300cRAPSTAR 2026\u300d\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u756a\u7d44\u5185\u3067\u6d3b\u8e8d\u3057\u3066\u3044\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u697d\u66f2\u3092\u6bce\u9031\u66f4\u65b0\u3002 \u30de\u30a4\u30e9\u30a4\u30d6\u30e9\u30ea\u306b\u4fdd\u5b58\u3057\u3066\u6bce\u9031\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046\u3002",
   "name": "RAPSTAR 2026",
   "tracks": [
     {
@@ -100,6 +100,32 @@
       "duration_ms": 258642,
       "name": "128 Bars",
       "url": "https://open.spotify.com/track/6sgxM9Zl77IU5IHApwQp8v"
+    },
+    {
+      "album": {
+        "name": "1day (R)",
+        "url": "https://open.spotify.com/album/2dOjxVcntajWvghmopMNf7"
+      },
+      "artists": [
+        {
+          "name": "FARMHOUSE",
+          "url": "https://open.spotify.com/artist/30zptKpJ1amp2A00OOx3DM"
+        },
+        {
+          "name": "Kee Rooz",
+          "url": "https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh"
+        },
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "1day (R)",
+      "url": "https://open.spotify.com/track/1Vts9sixN6QUtX6VwguIbm"
     },
     {
       "album": {
@@ -408,7 +434,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 147461,
       "name": "Ain't No Love",
       "url": "https://open.spotify.com/track/4Qxso8H0Ps5qLGr8b8sfa6"
@@ -688,7 +714,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 175140,
       "name": "BBA Spice",
       "url": "https://open.spotify.com/track/0ZQDoVWPmzWk6nNupepaGA"
@@ -1508,7 +1534,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 97096,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/601CvllcQ95ex9XIcH0tbK"
@@ -2348,10 +2374,32 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 155869,
       "name": "Driving",
       "url": "https://open.spotify.com/track/61DIupY3nvw0wSw4FExlRC"
+    },
+    {
+      "album": {
+        "name": "DE:",
+        "url": "https://open.spotify.com/album/7tou2D4mgvVzPYgfVwB1uh"
+      },
+      "artists": [
+        {
+          "name": "Joe Cupertino",
+          "url": "https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188295,
+      "name": "DUMP!",
+      "url": "https://open.spotify.com/track/6DmK3A22PshWUdGioiQvzs"
     },
     {
       "album": {
@@ -2838,7 +2886,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 93684,
       "name": "FUSUMA",
       "url": "https://open.spotify.com/track/6eEkG9cCpBRcoLiAEo8AX5"
@@ -2886,7 +2934,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 171483,
       "name": "GALFY8",
       "url": "https://open.spotify.com/track/08CUnvHkqucEaew7fzc3pU"
@@ -3477,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u967d\u30ad\u30e3\u6539",
+        "url": "https://open.spotify.com/album/35399LEa4ueSsJR03YXo4e"
+      },
+      "artists": [
+        {
+          "name": "Jairo nark",
+          "url": "https://open.spotify.com/artist/1lmUrNTjONM6jJsBpyBULM"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115244,
+      "name": "Hey@grok",
+      "url": "https://open.spotify.com/track/1xmi7xvHxlcqOnbH2J96VS"
+    },
+    {
+      "album": {
         "name": "HIDANE",
         "url": "https://open.spotify.com/album/1jGuHHw2Cm1Au4vfe8ZfCz"
       },
@@ -3738,7 +3804,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 146084,
       "name": "HIROYUKI",
       "url": "https://open.spotify.com/track/5apejRv7TuiRhO4xf1GhTH"
@@ -3760,7 +3826,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 169763,
       "name": "Hiyake (feat. kZm)",
       "url": "https://open.spotify.com/track/6Iyy0yB4pYsT6KZeIOnMpx"
@@ -3990,7 +4056,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 188696,
       "name": "Hurricane (feat. Benjazzy)",
       "url": "https://open.spotify.com/track/3se7CUz578kZd8Jv2zVbqC"
@@ -4085,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "Saggypants Shimba",
+          "url": "https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91184,
+      "name": "I got new Me -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/64vE3jDG1Bb15lEZE5pooT"
+    },
+    {
+      "album": {
         "name": "I got something to say (feat. Benjazzy)",
         "url": "https://open.spotify.com/album/6pRuB09w8zjWsPtzyHfdPt"
       },
@@ -4104,6 +4188,24 @@
       "duration_ms": 290000,
       "name": "I got something to say (feat. Benjazzy)",
       "url": "https://open.spotify.com/track/1UvoQkdkYAW4u28uwqOxxF"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "Almond_Eye",
+          "url": "https://open.spotify.com/artist/5kCr5QAbsKB84QfRBhAgIp"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98684,
+      "name": "I'm Almond_Eye -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/26YjCu6gn6iNx2qX85a33T"
     },
     {
       "album": {
@@ -4275,6 +4377,28 @@
     },
     {
       "album": {
+        "name": "JOJO\u2605",
+        "url": "https://open.spotify.com/album/7fhhQHVY4W644QkTynKZMC"
+      },
+      "artists": [
+        {
+          "name": "ShowyRENZO",
+          "url": "https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4"
+        },
+        {
+          "name": "Filix\u738b",
+          "url": "https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144633,
+      "name": "JOJO\u2605",
+      "url": "https://open.spotify.com/track/5UVX4mLFAk9SmsSPszSCLp"
+    },
+    {
+      "album": {
         "name": "KAMEHAMEHA (feat. \u00a5ellow Bucks) [Remix]",
         "url": "https://open.spotify.com/album/3okCdc85yV8LIWrjFtVdzQ"
       },
@@ -4324,6 +4448,24 @@
       "duration_ms": 188571,
       "name": "KAMEHAMEHA - Remix",
       "url": "https://open.spotify.com/track/5JlOC3MCRM59MNjePtvnWf"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "Dumbperson",
+          "url": "https://open.spotify.com/artist/1wE10VAKwnX23fLkN5AoqS"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110547,
+      "name": "KAMISHIBAI -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/4YkTpCxRF5Soo2GyqCy7yW"
     },
     {
       "album": {
@@ -4480,6 +4622,28 @@
       "duration_ms": 131259,
       "name": "KURAMA",
       "url": "https://open.spotify.com/track/4Ugcyaem0ODdXVMkqMYGRx"
+    },
+    {
+      "album": {
+        "name": "LAST SONG",
+        "url": "https://open.spotify.com/album/4Fg8R1TGByP8zODbyZ58kJ"
+      },
+      "artists": [
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        },
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210434,
+      "name": "LAST SONG",
+      "url": "https://open.spotify.com/track/5A7XxGML9MpHIhRbV4xwSL"
     },
     {
       "album": {
@@ -4861,6 +5025,24 @@
     },
     {
       "album": {
+        "name": "Love All Serve All",
+        "url": "https://open.spotify.com/album/7EyQph6ZXg3VazI8hXdzz1"
+      },
+      "artists": [
+        {
+          "name": "Kee Rooz",
+          "url": "https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Love All Serve All",
+      "url": "https://open.spotify.com/track/4ygkI4gXiXMQFzdDuVhW1K"
+    },
+    {
+      "album": {
         "name": "Ma Boyz (Remix)",
         "url": "https://open.spotify.com/album/2uXXb64tqLAz4jvqgiTxY0"
       },
@@ -4884,7 +5066,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 208433,
       "name": "Ma Boyz - Remix",
       "url": "https://open.spotify.com/track/1jGhHrWH6s5rDE4dzoaOXT"
@@ -5104,7 +5286,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 98720,
       "name": "Million",
       "url": "https://open.spotify.com/track/71jB4VRpvg8DTxs2584CT7"
@@ -5122,7 +5304,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 92842,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/5mzMRDFuJl0SXEOL4c2wef"
@@ -5250,6 +5432,24 @@
       "duration_ms": 223750,
       "name": "Morpheus",
       "url": "https://open.spotify.com/track/1TDzraj5stggv3ZB7Jgh2L"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "S TILL I DIE",
+          "url": "https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103636,
+      "name": "Motivate -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/7G59jXE1CVfbL3AkCtcHH2"
     },
     {
       "album": {
@@ -5874,7 +6074,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 163366,
       "name": "OYJ",
       "url": "https://open.spotify.com/track/3p18KC7lAWs6dy5PgaRx3K"
@@ -6426,10 +6626,46 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 173210,
       "name": "REAL LOVE (feat. Kaneee)",
       "url": "https://open.spotify.com/track/4b6QVDiOfgIwsZF5qjkD1L"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "Kee Rooz",
+          "url": "https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "Reason to Live -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/3uW6FPOcKm3nsaLeKdkq6B"
+    },
+    {
+      "album": {
+        "name": "Regalia",
+        "url": "https://open.spotify.com/album/1bPbKRSiDnNlrAHf1toVcE"
+      },
+      "artists": [
+        {
+          "name": "Dumbperson",
+          "url": "https://open.spotify.com/artist/1wE10VAKwnX23fLkN5AoqS"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112711,
+      "name": "Regalia",
+      "url": "https://open.spotify.com/track/6lg9Dpg5c12INjSEtoUpfu"
     },
     {
       "album": {
@@ -6516,7 +6752,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 168000,
       "name": "REVENGE",
       "url": "https://open.spotify.com/track/4f3oJsO48iDBTqyJTzYMmn"
@@ -6953,6 +7189,24 @@
     },
     {
       "album": {
+        "name": "SIMPLE",
+        "url": "https://open.spotify.com/album/53YmFPgs6lS5DxRnvDhmTf"
+      },
+      "artists": [
+        {
+          "name": "BabyNyca",
+          "url": "https://open.spotify.com/artist/5W803C69kmkFBpVLXkWRap"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150232,
+      "name": "SIMPLE",
+      "url": "https://open.spotify.com/track/5yOoptiLUTnGgQVtfbn513"
+    },
+    {
+      "album": {
         "name": "SKYBLUE",
         "url": "https://open.spotify.com/album/2OLEphG78Bw1dKTuD2kpKi"
       },
@@ -7290,7 +7544,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 164374,
       "name": "Still Blond, Stay Gold",
       "url": "https://open.spotify.com/track/6Et5GQ81uB0HVcoNWQaOGP"
@@ -7584,7 +7838,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 157714,
       "name": "The Claimant",
       "url": "https://open.spotify.com/track/529YiEDBEQObmy5rrtwZ4m"
@@ -7807,6 +8061,24 @@
     },
     {
       "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "MADEINBEN10",
+          "url": "https://open.spotify.com/artist/0k1GMH23HmiT7ffgRs8kkX"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104772,
+      "name": "Uhhmm -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/3IXy1f42Df6nZVlgiPIqY9"
+    },
+    {
+      "album": {
         "name": "UMAKEMEFEELLIKE",
         "url": "https://open.spotify.com/album/5rpukCNIktkUKhk3C7V2yu"
       },
@@ -7844,6 +8116,24 @@
       "duration_ms": 135906,
       "name": "UNBOX",
       "url": "https://open.spotify.com/track/2acr8t8tAvvVmALee20mxm"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "BabyNyca",
+          "url": "https://open.spotify.com/artist/5W803C69kmkFBpVLXkWRap"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114166,
+      "name": "UNSEEN -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/4p5HXsiL5vZj8HjLL3wC1s"
     },
     {
       "album": {
@@ -8349,6 +8639,24 @@
     },
     {
       "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "Will Support",
+          "url": "https://open.spotify.com/artist/2EM6vlLvBitmQnERk6cUNt"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95428,
+      "name": "Wii Sports -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/6X9cInTKuNbulfU49nGKDa"
+    },
+    {
+      "album": {
         "name": "Wraiths",
         "url": "https://open.spotify.com/album/1rF4xEdq8bcGj6TnuhGRDN"
       },
@@ -8364,6 +8672,24 @@
       "duration_ms": 97500,
       "name": "Wraiths",
       "url": "https://open.spotify.com/track/37BBp8xQYjSlGtwWgrOSt2"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "AI jacky",
+          "url": "https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103181,
+      "name": "XXL -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/1YaxdLTflefpWJShn5YWw3"
     },
     {
       "album": {
@@ -8527,6 +8853,24 @@
     },
     {
       "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "TellU(TellHer)TellU-5/\u30c6\u30eb\u30c6\u30e9\u30c6\u30eb\u30b3",
+          "url": "https://open.spotify.com/artist/4SWvVcRpTAmXyuTF3qiVVs"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115833,
+      "name": "\u3042\u3089\u304c\u3044 -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/7Eq3bvKPJFhEmba7Y28DNv"
+    },
+    {
+      "album": {
         "name": "FREESTYLE LIFESTYLE",
         "url": "https://open.spotify.com/album/42mYbYH1PdHpVR1I1AdXiX"
       },
@@ -8582,6 +8926,24 @@
       "duration_ms": 152000,
       "name": "\u3061\u3087\u3063\u3061\u3085\u306d\uff01\uff01\uff01 (feat. R-\u6307\u5b9a)",
       "url": "https://open.spotify.com/track/38nPGn1D7Spw6gNfSVHtdo"
+    },
+    {
+      "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "will away",
+          "url": "https://open.spotify.com/artist/3Eb0QAEpwk7AcvcJH51E36"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112087,
+      "name": "\u306a\u3042 -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/2vsZNcKQvOQ5XsPvDChVNh"
     },
     {
       "album": {
@@ -8673,6 +9035,24 @@
     },
     {
       "album": {
+        "name": "RAPSTAR 2026 ROOTS STAGE",
+        "url": "https://open.spotify.com/album/1JOLcQO0V5ivgSTMCbtAp1"
+      },
+      "artists": [
+        {
+          "name": "wood pure luvheart",
+          "url": "https://open.spotify.com/artist/30RL8eEQZ4jNfEkuBsElvx"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110547,
+      "name": "\u30ab\u30c4\u4e3c -RAPSTAR 2026-",
+      "url": "https://open.spotify.com/track/5kmCQb65MJWbqriB4zzXVn"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30e2\u30c8\u30e9\u30b1\u306e\u30cb\u30b1 (feat. Jairo nark)",
         "url": "https://open.spotify.com/album/2x4dmUXLzw8ytiXTpVqgxL"
       },
@@ -8706,7 +9086,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 134684,
       "name": "\u30bb\u30eb\u30d5\u30d5\u30e9\u30a4\u30c7\u30fc",
       "url": "https://open.spotify.com/track/444mX7Tw6Jfa3daYJ9ipgm"
@@ -8818,7 +9198,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 148629,
       "name": "\u30cb\u30b3\u30cb\u30b3",
       "url": "https://open.spotify.com/track/1385y58ViBHBPQa9Hvx174"
@@ -8950,7 +9330,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 127838,
       "name": "\u30d9\u30ea\u30fc\u30b9\u30e2\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5wTKru7YOFVZe5nGxv2FKy"
@@ -9054,7 +9434,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 105454,
       "name": "\u30ef\u30ac\u30de\u30de",
       "url": "https://open.spotify.com/track/4B0AtVq52UoNheNCb1douN"
@@ -9550,7 +9930,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 281141,
       "name": "\u7d19\u3068\u30da\u30f3\u3068\u4ffa\u3068\u304a\u524d",
       "url": "https://open.spotify.com/track/3KsGB75JiW1WUmzr5Eg8uG"
@@ -9832,7 +10212,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-22",
       "duration_ms": 112663,
       "name": "\u96e8\u4e0a\u304c\u308a",
       "url": "https://open.spotify.com/track/6kl4SIzq9FpGatZ5lCEEz8"

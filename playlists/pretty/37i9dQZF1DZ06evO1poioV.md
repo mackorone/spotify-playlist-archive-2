@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,072 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,091 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Golden Ring \(with Brandi Carlile\)](https://open.spotify.com/track/1UAJwjjgG7ebRcmE5qqtiF) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Synonym](https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ) | 3:18 |
 | 50 | [Forever Young \- Live at Benaroya Hall, Seattle, WA \- November 2010](https://open.spotify.com/track/4o8k0A5ZB6WybwgCnn77ox) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Seattle Symphony Orchestra](https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb) | [Live At Benaroya Hall with The Seattle Symphony](https://open.spotify.com/album/7jKJ68WplsoCCnbpKUXiV8) | 4:46 |
 
-Snapshot ID: `av48AAAAAACbWXa1PdGmv9xFWPoahllb`
+Snapshot ID: `av+NgAAAAAD2flOR7sKegcD+c18EShV4`

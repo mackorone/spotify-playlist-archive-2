@@ -4681,6 +4681,24 @@
     },
     {
       "album": {
+        "name": "They",
+        "url": "https://open.spotify.com/album/2ZdJpX7Fc9OK6zVSRqDZDU"
+      },
+      "artists": [
+        {
+          "name": "Guiltera",
+          "url": "https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205051,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/0i1adgYjpyXrw6CHjBTYGR"
+    },
+    {
+      "album": {
         "name": "Chapter 1",
         "url": "https://open.spotify.com/album/1oqKyK55DAyyTmCdwn37Lj"
       },
@@ -5360,6 +5378,40 @@
       "duration_ms": 204545,
       "name": "Golden Tomorrow",
       "url": "https://open.spotify.com/track/4z0PFotNn3qfzy8UQjABQd"
+    },
+    {
+      "album": {
+        "name": "Goldieloxxx (Broadcast Version)",
+        "url": "https://open.spotify.com/album/1NrulozpZABhbMRZggEBUx"
+      },
+      "artists": [
+        {
+          "name": "Freetoe Feet",
+          "url": "https://open.spotify.com/artist/2IzenTwX1yXuovrgqf4r2g"
+        },
+        {
+          "name": "Blothar",
+          "url": "https://open.spotify.com/artist/4MdgGPZo5PqtnC0pSoHiwZ"
+        },
+        {
+          "name": "Matt Starr",
+          "url": "https://open.spotify.com/artist/2sNjM6oAA0Gpggjh5MPIwN"
+        },
+        {
+          "name": "Slim Jelly",
+          "url": "https://open.spotify.com/artist/1wYscFfhoW0ZaXqMjwUUoL"
+        },
+        {
+          "name": "Desmond Taylor",
+          "url": "https://open.spotify.com/artist/6xzP6wd9tKFXQ11PsVMTMt"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205035,
+      "name": "Goldieloxxx - Broadcast Version",
+      "url": "https://open.spotify.com/track/4P2ivSWuLgVRz0XgFp82Os"
     },
     {
       "album": {

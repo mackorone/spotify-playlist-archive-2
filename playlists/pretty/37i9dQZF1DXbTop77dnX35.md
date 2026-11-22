@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  Rema, Olamide, Burna Boy, Deto Blvck, Fameye, Shoday  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,234 likes - 81 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,439 likes - 81 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 62 | [Whatever You Wanted To \(WYWT\)](https://open.spotify.com/track/1xly5rqAgTw1vVi3jEOQKc) | [Tobes44](https://open.spotify.com/artist/75PhvG0SGrhcavLw5forbh), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Whatever You Wanted To \(WYWT\)](https://open.spotify.com/album/4W3AvmXhrZMW2hARagOwvm) | 2:50 |
 | 63 | [Mamiwater](https://open.spotify.com/track/66OgffrXNmtyiY5Q5V9AEs) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Mamiwater](https://open.spotify.com/album/1V9f23IyiyCPrdtvyrza8n) | 2:24 |
 | 64 | [Bani Kudi II](https://open.spotify.com/track/3O7oE6cHpZM6fUc4PbJ76q) | [Naija House Mafia](https://open.spotify.com/artist/0guY46xovntnvw1lBeBejC), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Bani Kudi II](https://open.spotify.com/album/6AqiRsFiCY6x0Jwif5XU8o) | 3:57 |
-| 65 | [Óri Mi](https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI) | [Gäby](https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Óri Mi](https://open.spotify.com/album/121GR2YemARVcJLRYganqy) | 1:32 |
+| 65 | [Óri Mi](https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI) | [Gäby](https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Óri Mi](https://open.spotify.com/album/121GR2YemARVcJLRYganqy) | 1:23 |
 | 66 | [Luvaman](https://open.spotify.com/track/2SuDJBPdKNKEi61XzY5uvJ) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Luvaman](https://open.spotify.com/album/1i5sX5PyVzdqPnPvv2ZuMK) | 2:02 |
 | 67 | [Big Professor](https://open.spotify.com/track/103azulimYPiBy9lyfqbdS) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV) | [Big Professor](https://open.spotify.com/album/6fUtrAsmiBGPSQJ6VkxcoK) | 3:21 |
 | 68 | [Idankidan](https://open.spotify.com/track/6i4iofET7ARqxC6YnuJuTL) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Idankidan](https://open.spotify.com/album/2ZPEETiJx6l1NpWKzmmfAR) | 2:30 |

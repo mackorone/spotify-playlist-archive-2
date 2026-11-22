@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- Ari Abdul on the cover
 
-1,188 songs - 2 day 7 hr 9 min
+1,190 songs - 2 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,7 +707,7 @@
 | [MISUNDERSTOOD](https://open.spotify.com/track/2bLvl13n5A23LeKggTrkTV) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [The Misunderstood EP](https://open.spotify.com/album/6Ep6pTjB74CbL3yiaTzikT) | 3:08 | 2025-09-12 | 2026-02-24 |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-02-25 | 2022-07-09 |
 | [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 | 2024-04-26 | 2024-06-29 |
-| [Molly](https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Molly](https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0) | 3:12 | 2026-10-02 |  |
+| [Molly](https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Molly](https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0) | 3:12 | 2026-10-02 | 2026-11-22 |
 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 | 2022-05-20 | 2022-09-17 |
 | [MONSTER](https://open.spotify.com/track/7kci5BIV3lQntWLztgsPdf) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [MONSTER](https://open.spotify.com/album/02C4IPMfqef1jih3U6xrKx) | 2:38 | 2023-03-31 | 2023-05-06 |
 | [Monster](https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Monster](https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE) | 3:19 | 2024-03-08 | 2024-04-27 |
@@ -787,6 +787,7 @@
 | [P.O.S.](https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U) | [Sky Katz](https://open.spotify.com/artist/2hXnTRT96JHAzENar0pxqc) | [P.O.S.](https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm) | 2:00 | 2022-12-09 | 2023-05-20 |
 | [PainHub](https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [PainHub](https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx) | 2:16 | 2023-03-31 | 2023-06-03 |
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-09-06 | 2025-01-11 |
+| [Panic Attack](https://open.spotify.com/track/2tQ40SF5DyO2NH9fXMRNI4) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Panic Attack](https://open.spotify.com/album/7ofwhRfERqLY1PkWDdoqz5) | 2:58 | 2026-11-21 |  |
 | [PANIC ATTACK](https://open.spotify.com/track/2eedk1GWWMQddPLcGdMnqW) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [PANIC ATTACK](https://open.spotify.com/album/3CNRa6ky0qtoGT9Huz7yK1) | 2:20 | 2024-10-04 | 2025-01-25 |
 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 | 2022-04-08 | 2022-06-04 |
 | [PAPERCUT](https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [PAPERCUT](https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo) | 3:14 | 2026-01-23 | 2026-07-18 |
@@ -897,7 +898,7 @@
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-07 | 2022-02-26 |
 | [Savage \(feat\. Kerser\)](https://open.spotify.com/track/3fr2OSg9CQPoMOTsILdJ6N) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln), [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Gothic Summer](https://open.spotify.com/album/2INYN4ZTJJk3DvxdODiYu8) | 3:13 | 2024-03-22 | 2024-04-27 |
 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2023-02-03 | 2023-03-04 |
-| [Scaring Everyone](https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Scaring Everyone](https://open.spotify.com/album/0qSgpybtLjvk9kfwShpocT) | 3:24 | 2026-08-28 |  |
+| [Scaring Everyone](https://open.spotify.com/track/32y58eUai4aKsY9LPSOqWV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Scaring Everyone](https://open.spotify.com/album/0qSgpybtLjvk9kfwShpocT) | 3:24 | 2026-08-28 | 2026-11-22 |
 | [Scatterbrain](https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv) | 2:09 | 2023-02-03 | 2023-08-19 |
 | [Screw Loose](https://open.spotify.com/track/7sKxMRhdgtvoqaCI9AIrdu) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Screw Loose](https://open.spotify.com/album/6nMrYMhDpqGpFGhq0T2gnL) | 3:23 | 2023-08-25 | 2024-01-05 |
 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 | 2024-09-20 | 2024-10-26 |
@@ -1042,6 +1043,7 @@
 | [The Symphony of Fxxkboys](https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [adagio](https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T) | 3:15 | 2026-04-17 | 2026-10-18 |
 | [The Things I Do For Love](https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp) | 2:40 | 2024-01-12 | 2024-06-22 |
 | [The Top \- from the Netflix Film "UGLIES"](https://open.spotify.com/track/3FDIzHl5F5DDp2c0dKWbhZ) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [The Top \- from the Netflix Film "UGLIES"](https://open.spotify.com/album/3HSefcT3hoMEzAXC0gN6PC) | 2:40 | 2024-09-13 | 2024-10-19 |
+| [The Understudy](https://open.spotify.com/track/0IKeyxXtkLIYBNMOM4cO0n) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Steps \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5QR57qRfOJVqqieBL1I0sW) | 3:06 | 2026-11-21 |  |
 | [THE VOID](https://open.spotify.com/track/2GXQeeJQisxNc6Rosah1f9) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [THE VOID](https://open.spotify.com/album/3gJ4IlBs3PgD0RR2wltwXd) | 2:48 | 2026-11-13 |  |
 | [Therapy](https://open.spotify.com/track/0wvj3kJpZIyu7eYfxeKn3g) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Therapy](https://open.spotify.com/album/5c0knxfQLKoNV5BwB7DKWH) | 2:18 | 2022-01-28 | 2022-04-23 |
 | [THEY ALL DIE IN THE END](https://open.spotify.com/track/3EMjyCdzpAVapByDEhict6) | [safesp8ce](https://open.spotify.com/artist/4ag9JIDeFbLg9vwAz6QqxO) | [THEY ALL DIE IN THE END](https://open.spotify.com/album/7BF7vzi4vGitNCfTm9VYro) | 2:45 | 2023-11-17 | 2024-01-16 |

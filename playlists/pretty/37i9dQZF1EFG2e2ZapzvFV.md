@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,545 likes - 183 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,546 likes - 183 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 120 | [Slow Motion](https://open.spotify.com/track/5eeLoiP0m2BKQBkI4jV8zY) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [P.M.](https://open.spotify.com/album/6EgGNPLYyZQ8PgqBykq5M3) | 3:34 |
 | 121 | [The Greatest \(feat\. Jonas Brothers\)](https://open.spotify.com/track/50Y4IbndT1N08oGrfb2eJU) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Sunday Best](https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T) | 3:35 |
 | 122 | [Cool on Fire](https://open.spotify.com/track/1Qjf2wFVNI0oz9bTtUOac2) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/7lrC5VrR0O2PXl8EWbRztk) | 3:33 |
-| 123 | [Apartment Song](https://open.spotify.com/track/0h6ymtVt32j6qKZzzMs8aV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:41 |
-| 124 | [Any Man](https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:46 |
+| 123 | [Any Man](https://open.spotify.com/track/0FeHSfzNeNbLtfii09pC5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 2:46 |
+| 124 | [Apartment Song](https://open.spotify.com/track/0h6ymtVt32j6qKZzzMs8aV) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:41 |
 | 125 | [Moment](https://open.spotify.com/track/1FbZA1NUgt5VwTcLF2VlDw) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:13 |
 | 126 | [High](https://open.spotify.com/track/7oNh0H3emjOKRpouhUxRdp) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:41 |
 | 127 | [Taunting The Cat](https://open.spotify.com/track/3giDeoZ22HmFOLPJXzT6va) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Score\)](https://open.spotify.com/album/44qAUS0siEj2plisdS25xw) | 2:09 |
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 157 | [Only the Young](https://open.spotify.com/track/15q2y19rSHDsx779Ca0v0k) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Velvet Days \| Piano Covers](https://open.spotify.com/album/2NluDOItMqQUKplkvjrtz8) | 1:32 |
 | 158 | [Apart Of You](https://open.spotify.com/track/1DWDQ3oTtgVbvxwcnnATDP) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:19 |
 | 159 | [Ride Up To The Door](https://open.spotify.com/track/4PegP7kf2a5RlgVgRZRmon) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Abomination EP](https://open.spotify.com/album/35G5xhEUPV2BPz0uqS9tBp) | 3:51 |
-| 160 | [SQRL](https://open.spotify.com/track/3SKl31kHIOLEUZxcRd51T2) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:43 |
-| 161 | [Lay with Me](https://open.spotify.com/track/5ZD9RQ4XBUZ22AtbUfWybI) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:03 |
+| 160 | [Lay with Me](https://open.spotify.com/track/5ZD9RQ4XBUZ22AtbUfWybI) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:03 |
+| 161 | [SQRL](https://open.spotify.com/track/3SKl31kHIOLEUZxcRd51T2) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:43 |
 | 162 | [This Is It](https://open.spotify.com/track/7Co3LZPuLTtrEjLDQtEjtc) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:13 |
 | 163 | [Take My Hand](https://open.spotify.com/track/0UBdJfTnB82221NYnIsT5R) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:38 |
 | 164 | [I Need This](https://open.spotify.com/track/211EszPlTiEiiHbphXiuEX) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:33 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 182 | [Buzzcut](https://open.spotify.com/track/7MtoF9z1wMtDqjbS7SJtEQ) | [St\. Augustine](https://open.spotify.com/artist/64Z3eqSabqBVpnGRRaUAfD) | [DEMOS](https://open.spotify.com/album/7zQ8bD7zGpk27yc2tHf6FN) | 3:48 |
 | 183 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AciNigAAAACfzsH6vVlhZL7cz8Q0uJ78`
+Snapshot ID: `AciTDAAAAADw7hYpT7EkgoFsWV5xq/xQ`

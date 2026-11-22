@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,447 likes - 290 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,448 likes - 290 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 30 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 |
 | 31 | [As We Go Along \- Single Version](https://open.spotify.com/track/78ZGquOoa2xA5JTCwo8rLL) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck), [Andrew Sandoval](https://open.spotify.com/artist/69AOV3HI5zQytsGu5pMUMN) | [The A's, The B's & The Monkees](https://open.spotify.com/album/1ZTjxLw4jrS92MvyB64JeH) | 3:57 |
 | 32 | [Some Kind of Wonderful](https://open.spotify.com/track/1UQST36ygsRXTB97OdbnlS) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love \(Hollywood Edition\)](https://open.spotify.com/album/3y2IB0hPXgf2zfZFgeBhXM) | 3:04 |
-| 33 | [The End](https://open.spotify.com/track/4MnuJzXf95zcud2cyMVxaf) | [Earl Grant](https://open.spotify.com/artist/0k3XbZNQTR8KVW2yWyJDDx) | [Velvet After Dark](https://open.spotify.com/album/2e5ssFcqryBvN50kNJAewj) | 2:20 |
-| 34 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 33 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 34 | [The End](https://open.spotify.com/track/4MnuJzXf95zcud2cyMVxaf) | [Earl Grant](https://open.spotify.com/artist/0k3XbZNQTR8KVW2yWyJDDx) | [Velvet After Dark](https://open.spotify.com/album/2e5ssFcqryBvN50kNJAewj) | 2:20 |
 | 35 | [Child of Mine](https://open.spotify.com/track/4A7oANUhxquUpTCuu6GmoD) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:02 |
 | 36 | [Been to Canaan](https://open.spotify.com/track/3fOJ99F9vgXuY0sBSf3PsG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:38 |
 | 37 | [Go Away Little Girl \(2023 Remastered\)](https://open.spotify.com/track/3TNJOWgzYMYtTbVJfD8sPE) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [Essential Classics, Vol\. 16: Steve Lawrence](https://open.spotify.com/album/4QNsKDSEVji4sM98Yer9ej) | 2:11 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 129 | [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 |
 | 130 | [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 |
 | 131 | [Surely](https://open.spotify.com/track/76QndCpwsOKj5Wp8oNYVBm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 4:57 |
-| 132 | [I Can't Say Goodbye to You](https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The New Album](https://open.spotify.com/album/7JqDnsWOUOEQ8tnxgxKMvW) | 2:12 |
-| 133 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 |
+| 132 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 |
+| 133 | [I Can't Say Goodbye to You](https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The New Album](https://open.spotify.com/album/7JqDnsWOUOEQ8tnxgxKMvW) | 2:12 |
 | 134 | [Cherie, I Love You](https://open.spotify.com/track/7LPPkBgnwPGiWMJ5e3qcku) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:29 |
 | 135 | [What A Sweet Thing That Was](https://open.spotify.com/track/69M1hKSe3E5uowQNwpwkHb) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Sing To Trumpets And Strings](https://open.spotify.com/album/0x4CVUhtrgHKqiLbti43Ar) | 2:28 |
 | 136 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AciNigAAAAAaNQ3+xCgOboSmSD3GzZcR`
+Snapshot ID: `AciTKgAAAAB+9fpyrEs5FCqjoBKJouvc`

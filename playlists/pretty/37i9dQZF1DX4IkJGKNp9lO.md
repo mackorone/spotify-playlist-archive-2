@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svenska punkklassiker och hardcore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103 likes - 140 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 113 likes - 140 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 139 | [Slåss som en tjej](https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Slåss som en tjej](https://open.spotify.com/album/0SIAtm0xtnqLdNipxYtRxZ) | 2:33 |
 | 140 | [Patriarkatet](https://open.spotify.com/track/5qhAF20De3Qh3EOUORPPYE) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 3:10 |
 
-Snapshot ID: `AAAAADSMcBwB6oNMMew/w7VIL/bECjzg`
+Snapshot ID: `AAAAADzcC612OndISlVz8OiDC+LouuIY`
