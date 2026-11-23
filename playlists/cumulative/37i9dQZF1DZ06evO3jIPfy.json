@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 341855,
       "name": "Attaboy",
       "url": "https://open.spotify.com/track/2Y0tFR4iYR57EnBK4mf34l"
@@ -2022,6 +2022,32 @@
       "duration_ms": 303179,
       "name": "Yelele Mama",
       "url": "https://open.spotify.com/track/6LVXsITlu5Xnxm4YRNxKOm"
+    },
+    {
+      "album": {
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/5Qz8m8EPJPX4DFGEW9h7qb"
+      },
+      "artists": [
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306631,
+      "name": "\u00c1r var alda | Dawn of Time",
+      "url": "https://open.spotify.com/track/72RW4SKS9thBgbDaYJGbgD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jIPfy"

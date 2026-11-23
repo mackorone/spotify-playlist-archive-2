@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,606 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 47,602 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 22 | [If You Want Me](https://open.spotify.com/track/6Vg8yVnhpss0YretdOsweS) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx), [Yunyakosva](https://open.spotify.com/artist/6Rb96f9TkQqMWLgaqey5tR) | [If You Want Me](https://open.spotify.com/album/5xB4tyr5YOmox6bJLtcmuf) | 3:44 |
 | 23 | [Diamond Drift](https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Diamond Drift](https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD) | 2:00 |
 | 24 | [BUTCHER](https://open.spotify.com/track/41gTOrNwEzYbAy3bvdOcIY) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [BUTCHER](https://open.spotify.com/album/7MVI1AMHeV7f4h09n6ImAP) | 2:21 |
-| 25 | [骸Attack!!](https://open.spotify.com/track/61h5b9EVrcZWg1Fnc1DC88) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [GREATEST SHITS](https://open.spotify.com/album/0irA7x2SBgb2PbCUhK5tMK) | 3:53 |
+| 25 | [骸Attack!! \(feat\. 初音ミク\)](https://open.spotify.com/track/61h5b9EVrcZWg1Fnc1DC88) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [GREATEST SHITS](https://open.spotify.com/album/0irA7x2SBgb2PbCUhK5tMK) | 3:53 |
 | 26 | [Disobey](https://open.spotify.com/track/5Ouuz2mxQIsBMC51fhVAbS) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Watch Me Burn](https://open.spotify.com/album/4S1yCE39l3p9mvQT7oXAeh) | 3:12 |
 | 27 | [Bankai](https://open.spotify.com/track/3tJeNGuVPfOGPfqkr1gfZ2) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM) | [Bankai](https://open.spotify.com/album/61fjA39NBuIwLmsVnnopig) | 2:07 |
 | 28 | [The After](https://open.spotify.com/track/0GsSqjirRBquQP6q36HchK) | [rider](https://open.spotify.com/artist/5yupl8lnBJSsPJ9Jmujexl) | [Never Forget Vacation 5](https://open.spotify.com/album/6HgCusDZYtsY9ubOGAl3a3) | 3:58 |

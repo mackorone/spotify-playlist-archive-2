@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 32508,
+  "num_followers": 32512,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAC2Eyq5cQuwpdESx3RJjnro",
+  "snapshot_id": "awDfAAAAAAAtpkgfWdzq3mWgFFurG+Ub",
   "tracks": [
     {
       "added_at": null,
@@ -91,98 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Willie Nelson American Outlaw (Live)",
-        "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        },
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        },
-        {
-          "name": "Dave Matthews",
-          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        },
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        },
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        },
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Micah Nelson",
-          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
-        },
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 134266,
-      "name": "Roll Me Up and Smoke Me When I Die - Live",
-      "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -211,6 +119,26 @@
       "duration_ms": 198133,
       "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Loving Arms",
+      "url": "https://open.spotify.com/track/2BR7FF7KdaL1ygxVJ39Iad"
     },
     {
       "added_at": null,
@@ -247,42 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Moon (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Loving Arms",
-      "url": "https://open.spotify.com/track/2BR7FF7KdaL1ygxVJ39Iad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 264871,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/68p2wVoGWkDKGJtdsRZDP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -311,6 +203,114 @@
       "duration_ms": 147453,
       "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 264871,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/68p2wVoGWkDKGJtdsRZDP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Willie Nelson American Outlaw (Live)",
+        "url": "https://open.spotify.com/album/0l6RxEFi0Y02Ddwfzf8Bwd"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        },
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Micah Nelson",
+          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The Little Willies",
+          "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
+        },
+        {
+          "name": "Ray Benson",
+          "url": "https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M"
+        },
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 134266,
+      "name": "Roll Me Up and Smoke Me When I Die - Live",
+      "url": "https://open.spotify.com/track/0wJN1HSPUpno8MXkVcIHdh"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 147909,
-      "name": "Help Me Make It Through the Night",
-      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 305506,
       "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 147909,
+      "name": "Help Me Make It Through the Night",
+      "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
     },
     {
       "added_at": null,
@@ -775,98 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On The Road Again (Live)",
-        "url": "https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        },
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Dave Matthews",
-          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        },
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        },
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Micah Nelson",
-          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
-        },
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "The Little Willies",
-          "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "On The Road Again - Live",
-      "url": "https://open.spotify.com/track/0vcJzE2LuNY9aoq2hdMjHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyful Noise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
       },
@@ -987,18 +895,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
       "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
+      "duration_ms": 263986,
+      "name": "Help Me Make It Through the Night - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/6LVPKE3YlFHPWtYJJ4YWHm"
     },
     {
       "added_at": null,
@@ -1067,34 +991,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
       },
       "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 263986,
-      "name": "Help Me Make It Through the Night - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/6LVPKE3YlFHPWtYJJ4YWHm"
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
     },
     {
       "added_at": null,
@@ -1135,22 +1043,6 @@
       "duration_ms": 209066,
       "name": "Who's to Bless and Who's to Blame",
       "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1211,6 +1103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1263,18 +1171,94 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+        "name": "On The Road Again (Live)",
+        "url": "https://open.spotify.com/album/1eRKpdh1dJb1ye3VNdHxQU"
       },
       "artists": [
         {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        },
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        },
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        },
+        {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Micah Nelson",
+          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The Little Willies",
+          "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
+        },
+        {
+          "name": "Ray Benson",
+          "url": "https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M"
         }
       ],
-      "duration_ms": 260687,
-      "name": "The Silver Tongued Devil and I",
-      "url": "https://open.spotify.com/track/2VwhoKTOxrfhkpCfIk1FhW"
+      "duration_ms": 156173,
+      "name": "On The Road Again - Live",
+      "url": "https://open.spotify.com/track/5AFWO7mtHjt8tzhMnL4NFm"
     },
     {
       "added_at": null,
@@ -1291,6 +1275,38 @@
       "duration_ms": 152586,
       "name": "Closer to the Bone",
       "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 260687,
+      "name": "The Silver Tongued Devil and I",
+      "url": "https://open.spotify.com/track/2VwhoKTOxrfhkpCfIk1FhW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surreal Thing",
+        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 211421,
+      "name": "If You Don't Like Hank Williams",
+      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
     },
     {
       "added_at": null,
@@ -1315,38 +1331,6 @@
       "duration_ms": 342857,
       "name": "The Lonely Night - Reprise Version",
       "url": "https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surreal Thing",
-        "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 211421,
-      "name": "If You Don't Like Hank Williams",
-      "url": "https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 285407,
-      "name": "To Beat the Devil",
-      "url": "https://open.spotify.com/track/3QkUapNCfV3hJFevn6poz3"
     },
     {
       "added_at": null,
@@ -1383,6 +1367,22 @@
       "duration_ms": 215133,
       "name": "Casey's Last Ride",
       "url": "https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 285407,
+      "name": "To Beat the Devil",
+      "url": "https://open.spotify.com/track/3QkUapNCfV3hJFevn6poz3"
     },
     {
       "added_at": null,

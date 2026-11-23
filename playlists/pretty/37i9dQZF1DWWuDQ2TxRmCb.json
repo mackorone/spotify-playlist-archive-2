@@ -1,6 +1,6 @@
 {
   "description": "Best of the modern folk artists! Cover- Kabir Cafe",
-  "num_followers": 96063,
+  "num_followers": 96066,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
+        "name": "Purvayi",
+        "url": "https://open.spotify.com/album/4Gi91Mb6apBXFFq0kIqQJ7"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "Purvayi (feat. Papon)",
+      "url": "https://open.spotify.com/track/2FBsVowygJJv4lg32ZHk5l"
+    },
+    {
+      "added_at": "2026-08-25 06:40:04",
+      "album": {
         "name": "Maari Maavadi",
         "url": "https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 291509,
       "name": "Maari Maavadi",
       "url": "https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU"
-    },
-    {
-      "added_at": "2026-08-25 06:40:04",
-      "album": {
-        "name": "Purvayi",
-        "url": "https://open.spotify.com/album/4Gi91Mb6apBXFFq0kIqQJ7"
-      },
-      "artists": [
-        {
-          "name": "Midival Punditz",
-          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
-        },
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "Purvayi (feat. Papon)",
-      "url": "https://open.spotify.com/track/2FBsVowygJJv4lg32ZHk5l"
     },
     {
       "added_at": "2026-08-25 06:40:04",
@@ -1003,22 +1003,26 @@
     {
       "added_at": "2026-08-25 06:40:04",
       "album": {
-        "name": "Bhammariyo",
-        "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
       },
       "artists": [
         {
-          "name": "Shruti Pathak",
-          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
         },
         {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Rishith Desikan",
+          "url": "https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD"
         }
       ],
-      "duration_ms": 233644,
-      "name": "Bhammariyo",
-      "url": "https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD"
+      "duration_ms": 325286,
+      "name": "Chaand Sakha Re",
+      "url": "https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N"
     }
   ],
   "unique_name": "Folk in India",

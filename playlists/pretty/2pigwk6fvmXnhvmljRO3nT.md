@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,490 songs - 21 day 13 hr 52 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 2 likes - 8,493 songs - 21 day 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4605,9 +4605,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 4595 | [사랑과 우정사이](https://open.spotify.com/track/6UWXnJ4MpEeVkBLXmF90aj) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:57 |
 | 4596 | [죄와 벌 \(罪와 罰\)](https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [살다가](https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe) | 4:03 |
 | 4597 | [살다가](https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [살다가](https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe) | 4:43 |
-| 4598 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 |
+| 4598 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 |
 | 4599 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 |
-| 4600 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
+| 4600 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
 | 4601 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
 | 4602 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 |
 | 4603 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 |
@@ -6894,7 +6894,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6884 | [F Song](https://open.spotify.com/track/4z9KVNX4hmk672SJfhtQNz) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [F Song](https://open.spotify.com/album/5ZacQ1N3XCqVC1urIKTAWH) | 3:44 |
 | 6885 | [There's A Place](https://open.spotify.com/track/1twDCOi0Qi28Vxu4v6K0WC) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Rush](https://open.spotify.com/album/6pSCibqEHlM0iunF7PufNU) | 2:49 |
 | 6886 | [Blurred Lines](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines \(Deluxe\)](https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j) | 4:23 |
-| 6887 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
+| 6887 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
 | 6888 | [How To Love](https://open.spotify.com/track/4aX4Oycsk1fhHIee1zqsDe) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter IV \(Deluxe\)](https://open.spotify.com/album/1uuSC0RCJB3dSp8Mb6GflZ) | 4:00 |
 | 6889 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 |
 | 6890 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
@@ -8498,5 +8498,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8488 | [Gwan Big up Urself](https://open.spotify.com/track/5RLIG9RLyMYhQGH7MI98ny) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 3:20 |
 | 8489 | [Apologize](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:04 |
 | 8490 | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Beautiful \(feat\. Camila Cabello\)](https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771) | 3:00 |
+| 8491 | [想像フォレスト](https://open.spotify.com/track/7A2552KyBtsuAWOAkwY8SS) | [Kano](https://open.spotify.com/artist/24HASvYQG1OvEFRWVWmOfx) | [rye](https://open.spotify.com/album/4NquD35lwzPcHlQ13rA0Jp) | 4:32 |
+| 8492 | [悔しさは種](https://open.spotify.com/track/5CXAfZ24wZwhecMGfIBHhj) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [愛はヘッドフォンから](https://open.spotify.com/album/1DAKG39yWgWQIiUMij8CQ6) | 3:42 |
+| 8493 | [Colorful](https://open.spotify.com/track/5jKaY1yceqsskkblLzopGF) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [Everlasting Night of Teenage Girls](https://open.spotify.com/album/2ztJCuDBki1rNOEi2TrH2W) | 4:43 |
 
-Snapshot ID: `AAAOMrpDz0FE14DlxT52YMvAFwA8c/Gx`
+Snapshot ID: `AAAONXPne1xeDvsgo8Bj2Qz7hKJQrYku`

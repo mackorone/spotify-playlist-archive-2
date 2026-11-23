@@ -806,6 +806,24 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136677,
+      "name": "avril 14th doubletempo,half speed",
+      "url": "https://open.spotify.com/track/7tN2eRw0nTc6CljBAj9yZZ"
+    },
+    {
+      "album": {
+        "name": "Drukqs (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 305000,
       "name": "Spiral Staircase (AFX Remix) [London 14.09.2019]",
       "url": "https://open.spotify.com/track/26f6imLWpUiaBZa7SWNfI7"
@@ -2620,6 +2638,24 @@
       "duration_ms": 365373,
       "name": "Start As You Mean To Go On",
       "url": "https://open.spotify.com/track/7F1YDlmTRGuOqmdDUElHfm"
+    },
+    {
+      "album": {
+        "name": "Drukqs (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Strotha Tynhe",
+      "url": "https://open.spotify.com/track/5CXdhD8p5mlEAQ9UjlIQsY"
     },
     {
       "album": {
@@ -2994,7 +3030,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 184906,
       "name": "Yellow Calx",
       "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"

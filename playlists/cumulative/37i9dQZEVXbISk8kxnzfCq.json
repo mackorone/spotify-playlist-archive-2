@@ -828,7 +828,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 208066,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 210600,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/5NojbhELrksthk39c7ia1N"
@@ -8842,7 +8842,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 250640,
       "name": "Eres M\u00eda",
       "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
@@ -8878,7 +8878,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8950,7 +8950,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -12402,7 +12402,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 207533,
       "name": "L a k e n o s h i",
       "url": "https://open.spotify.com/track/6OoYmAP9oZtBiSomWpDTWP"
@@ -13372,7 +13372,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 249608,
       "name": "La player (Bandolera)",
       "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
@@ -13514,10 +13514,28 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 190786,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/3agLJQ31lTcIlrNm2jRsqp"
+    },
+    {
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "album": {
@@ -15128,7 +15146,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 187160,
       "name": "M U S A E L E V \u00c1",
       "url": "https://open.spotify.com/track/7vPsviPvbWsFd9VuftF5JT"
@@ -17588,7 +17606,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
@@ -23247,6 +23265,24 @@
     },
     {
       "album": {
+        "name": "Se Toco El T#tito Con Mi Gl*ck",
+        "url": "https://open.spotify.com/album/2J33n3xk9ArHdSdJf09zfR"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Se Toco El T#tito Con Mi Gl*ck",
+      "url": "https://open.spotify.com/track/48m48t4jXHpMbo805OOaj1"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -23306,6 +23342,28 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "album": {
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299626,
+      "name": "Ser\u00e1 Mejor Que Te Vayas",
+      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
     },
     {
       "album": {
@@ -25930,7 +25988,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 367680,
       "name": "Toda - Remix",
       "url": "https://open.spotify.com/track/6RRnUWV7wemVRFZjPRQo66"
@@ -26076,7 +26134,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 192064,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
@@ -29636,6 +29694,24 @@
       "duration_ms": 191920,
       "name": "ZONA DEL PERREO",
       "url": "https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP"
+    },
+    {
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "album": {

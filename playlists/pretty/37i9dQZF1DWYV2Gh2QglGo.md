@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Rick Duff, Gustavo Mioto
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,604 likes - 200 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,609 likes - 200 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

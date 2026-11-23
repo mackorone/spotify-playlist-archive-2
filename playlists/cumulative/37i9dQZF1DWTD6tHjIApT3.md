@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: muque
 
-3,945 songs - 10 day 10 hr 51 min
+3,946 songs - 10 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1839,6 +1839,7 @@
 | [Start Again](https://open.spotify.com/track/1Sdy0q4FwSd5LfQzGSlx7M) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [Start Again](https://open.spotify.com/album/7q2dZD6S2UQTrxbEIuztL0) | 4:20 | 2022-10-04 | 2022-10-12 |
 | [Start Again](https://open.spotify.com/track/0MbSD9IRGxOb3lfNgfzjsH) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again](https://open.spotify.com/album/7vDeKzFvXgmuypvzlw1ViX) | 3:05 | 2023-02-02 | 2023-02-08 |
 | [Start Again](https://open.spotify.com/track/1RO02uAF8bliC04a4NlPiu) | [Nornis](https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx) | [Start Again](https://open.spotify.com/album/47PAVnWVz6rz4rnkvpZMHQ) | 3:40 | 2025-07-08 | 2025-07-15 |
+| [Start of Something New \- Lilas Version](https://open.spotify.com/track/7bFLr8QfQuSG1wVIt0QHVO) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Start of Something New \(Lilas Version\)](https://open.spotify.com/album/6r3mDthp0p2tGb8hK3jX1m) | 1:41 | 2026-11-17 |  |
 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 | 2023-01-03 | 2023-01-11 |
 | [Stay As You Are](https://open.spotify.com/track/5Fo5ij465pJ8mOnHWLa36N) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [ECHO](https://open.spotify.com/album/5nkFgUEdypq1GBF2culRmG) | 4:42 | 2025-01-07 | 2025-01-15 |
 | [STAY TRUE](https://open.spotify.com/track/0OYy0GM53pUulSzILKdb1f) | [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [STAY TRUE](https://open.spotify.com/album/0iFafxYa1T0kAI9uECfknn) | 3:24 | 2025-02-04 | 2025-02-12 |
@@ -3686,7 +3687,7 @@
 | [神様](https://open.spotify.com/track/7pTzcynk2FjT23kYssUHdw) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [THE ZOMBIE](https://open.spotify.com/album/0Dw5E1BFl1yRCs7U36x5XN) | 3:52 | 2022-06-02 | 2022-06-29 |
 | [神秘の領域へ](https://open.spotify.com/track/6DgqBcs8YYhCunqicmABkT) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 4:01 | 2022-08-18 | 2022-08-20 |
 | [福は内 鬼は外](https://open.spotify.com/track/6hCjUu1CkVppX0ue6g8W0I) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [The Mizuhara Sisters](https://open.spotify.com/artist/3tsvBhFzXFQYsK1Pc3w75L) | [福は内 鬼は外](https://open.spotify.com/album/49dnqkKRBRcNPwQX3Rzr49) | 2:28 | 2024-05-07 | 2024-05-15 |
-| [私が選んだもの](https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [私が選んだもの](https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU) | 4:19 | 2025-12-23 |  |
+| [私が選んだもの](https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [私が選んだもの](https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU) | 4:19 | 2025-12-23 | 2026-11-23 |
 | [私だけの人生](https://open.spotify.com/track/1STFOuSo5TfEz0m1sR8oA5) | [Charmant coco](https://open.spotify.com/artist/7sjEyXpi2SWI2J4rcKolGB) | [私だけの人生](https://open.spotify.com/album/0sBmnhxe2Ap3vXasX29RYo) | 4:29 | 2024-02-20 | 2024-02-28 |
 | [私にして](https://open.spotify.com/track/1PII87zGs7qMCD9AlEEM5f) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [私にして](https://open.spotify.com/album/6WLhoZVHZdcPkqnjcimLDN) | 4:11 | 2022-05-31 | 2022-07-20 |
 | [私のままで](https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [私のままで](https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B) | 4:15 | 2023-10-12 | 2024-02-02 |

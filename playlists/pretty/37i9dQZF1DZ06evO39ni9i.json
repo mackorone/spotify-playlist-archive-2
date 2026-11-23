@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 30792,
+  "num_followers": 30793,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAEzI7Iig1Wt1x+PtjcRgYq",
+  "snapshot_id": "awDfAAAAAACcO/j+/TBG/wLkowsPi4Zm",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+        "name": "There's A Riot Goin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 163360,
-      "name": "If It's Not Addin' Up",
-      "url": "https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y"
+      "duration_ms": 252333,
+      "name": "That's Pretty Clean - Instrumental",
+      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's A Riot Goin' On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 252333,
-      "name": "That's Pretty Clean - Instrumental",
-      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
+      "duration_ms": 163360,
+      "name": "If It's Not Addin' Up",
+      "url": "https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y"
     },
     {
       "added_at": null,

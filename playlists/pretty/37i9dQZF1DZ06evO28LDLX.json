@@ -1,12 +1,12 @@
 {
   "description": "This is Stephen Hough. The essential tracks, all in one playlist.",
-  "num_followers": 393,
+  "num_followers": 395,
   "original_name": "This Is Stephen Hough",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAB9B9EE1jBt4VEBMeo+UGTu",
+  "snapshot_id": "awDfAAAAAADvizGKXLaRiBSA9OrRDhjJ",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"An Era of Classical\": Piano and Orchestral Works",
-        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 149453,
-      "name": "6 Klavierst\u00fccke, Op. 118: No. 4, Intermezzo in F Minor",
-      "url": "https://open.spotify.com/track/71OGi8SpiJfeTgcWBWCDuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"A Beautiful Arietta\" - Romantic Works",
         "url": "https://open.spotify.com/album/7dn2PkLP6SSQSHLuPBQGIb"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 69146,
       "name": "Lyric Pieces Book 1, Op. 12: No. 1, Arietta",
       "url": "https://open.spotify.com/track/3ntirrflLfepcy3SIZzcSB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"An Era of Classical\": Piano and Orchestral Works",
+        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "6 Klavierst\u00fccke, Op. 118: No. 4, Intermezzo in F Minor",
+      "url": "https://open.spotify.com/track/71OGi8SpiJfeTgcWBWCDuH"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
-        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 98200,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
-      "url": "https://open.spotify.com/track/0rWjXuHg81ukk4eI14ggTP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schubert: Piano Sonata in A Major, D. 664; in E Minor, D. 769a; in G Major, D. 894",
         "url": "https://open.spotify.com/album/4OWWKtFGwUfc3lAKsf4bdG"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 463120,
       "name": "Piano Sonata No. 13 in A Major, D. 664: I. Allegro moderato",
       "url": "https://open.spotify.com/track/0BteJrDRD5QkJkQmNy08q1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 98200,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
+      "url": "https://open.spotify.com/track/0rWjXuHg81ukk4eI14ggTP"
     },
     {
       "added_at": null,
@@ -1003,30 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
-        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
+        "name": "Stephen Hough's Dream Album: Piano Bonbons",
+        "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        },
-        {
-          "name": "Bryden Thomson",
-          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 56933,
-      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
-      "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
+      "duration_ms": 137106,
+      "name": "Blow the Wind Southerly (Arr. Hough)",
+      "url": "https://open.spotify.com/track/1nHQwSvpaSoLMRaer8w2Fh"
     },
     {
       "added_at": null,

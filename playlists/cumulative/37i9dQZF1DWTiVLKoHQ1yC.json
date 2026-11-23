@@ -859,6 +859,28 @@
     },
     {
       "album": {
+        "name": "Blinded By The Lights",
+        "url": "https://open.spotify.com/album/4MyxdMHn11T7yNrUVeEuJq"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166178,
+      "name": "Blinded By The Lights",
+      "url": "https://open.spotify.com/track/7hrGjo6HMiPQjD0Ruc5yrl"
+    },
+    {
+      "album": {
         "name": "Break My Love",
         "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
       },
@@ -1968,7 +1990,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 222857,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX"

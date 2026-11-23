@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered 1989",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 146573,
       "name": "Crosstown Traffic",
       "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered 1989",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Dancing Barefoot",
-      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Dancing Barefoot",
+      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Dude Ranch",
         "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Here Are the Sonics",
-        "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 160400,
-      "name": "Have Love Will Travel",
-      "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -715,6 +699,22 @@
       "duration_ms": 150293,
       "name": "True Believers",
       "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Here Are the Sonics",
+        "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Have Love Will Travel",
+      "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
     },
     {
       "added_at": "2024-02-06 19:36:52",

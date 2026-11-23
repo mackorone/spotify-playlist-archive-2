@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,011 likes - 30 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,013 likes - 30 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 8 | [愛の放浪者 \- Vocalized Version](https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:41 |
 | 9 | [Jiyuu no Tsubasa](https://open.spotify.com/track/66dEMjbh1l8CN5uShkxxiw) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh) | 5:31 |
 | 10 | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/track/5seGEgJaETjGClu9VAzaUL) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 4:39 |
-| 11 | [Souyoku no Hikari](https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:05 |
+| 11 | [彼女は冷たい棺の中で](https://open.spotify.com/track/3mo7ekUP32oYKKfE1pv7DS) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:19 |
 | 12 | [Tasogare no Rakuen](https://open.spotify.com/track/0796AlQNQdc2pxYOITNRRI) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Rakuen e no Shingeki](https://open.spotify.com/album/6BbKferT8KWdpKvm8WxvGl) | 3:56 |
 | 13 | [Nikagetsugo no Kimi e](https://open.spotify.com/track/5GxwRF2jpMsccK71KsJopV) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh) | 5:27 |
 | 14 | [Saigo no Kyojin](https://open.spotify.com/track/0xrFv2ZCGupIkrwx4qgbXg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 3:57 |
-| 15 | [彼女は冷たい棺の中で](https://open.spotify.com/track/3mo7ekUP32oYKKfE1pv7DS) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:19 |
+| 15 | [双翼のヒカリ](https://open.spotify.com/track/5W8DK4ENZyKOQyeTAnO12O) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:05 |
 | 16 | [雛鳥 \- Vocalized Version](https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:15 |
 | 17 | [Kami no Miwaza](https://open.spotify.com/track/6wv7PuR3zmZOhRlXC8uVH0) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh) | 2:19 |
 | 18 | [13 no Fuyu](https://open.spotify.com/track/4zhnD2o1YYsTagGR1yXhLO) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 5:27 |
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 20 | [君は僕の希望 \- Vocalized Version](https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:10 |
 | 21 | [Moshi Kono Kabe no Naka ga Ikken no Ie Datoshitara](https://open.spotify.com/track/6jxk8wh8wD0m8euatyo76k) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Jiyuu e no Shingeki](https://open.spotify.com/album/1RKh3KNIyQDZyQiSk1sod8) | 4:12 |
 | 22 | [Kakumei no Yoru ni](https://open.spotify.com/track/0J4QZEh85vKCdttYUvna0y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 5:17 |
-| 23 | [Saigo no Senka](https://open.spotify.com/track/22JQgQBLIJoz8Be59B6IG1) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:28 |
+| 23 | [最期の戦果](https://open.spotify.com/track/7vhmR9p3ADtlHV4WyR8Ccp) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:28 |
 | 24 | [風が吹いた日 \- Piano Solo Version](https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 2:46 |
 | 25 | [風の行方 \- Vocalized Version](https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:11 |
-| 26 | [彼の者の名は… \- Vocalized Version](https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 6:12 |
+| 26 | [希望へ向う譚詩曲 \- Long Version](https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 8:08 |
 | 27 | [花が散る世界 \- Vocalized Version](https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 4:37 |
-| 28 | [希望へ向う譚詩曲 \- Long Version](https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 8:08 |
+| 28 | [彼の者の名は… \- Vocalized Version](https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 6:12 |
 | 29 | [ルクセンダルク紀行](https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 11:27 |
 | 30 | [来訪者 \- Long Version](https://open.spotify.com/track/4tKj8h6sJQ4fK4HtT9Qu2Y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 4:30 |
 
-Snapshot ID: `av48AAAAAAAxO0NKtLNpj5mPbT4WUrMB`
+Snapshot ID: `awDfAAAAAABMBLDK/yiVCCPzLdjloyaV`

@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAOMrpDz0FE14DlxT52YMvAFwA8c/Gx",
+  "snapshot_id": "AAAONXPne1xeDvsgo8Bj2Qz7hKJQrYku",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -82370,6 +82370,10 @@
         {
           "name": "Shakira",
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 196706,
@@ -82406,6 +82410,10 @@
         {
           "name": "Shakira",
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 196853,
@@ -122210,6 +122218,10 @@
         {
           "name": "Idina Menzel",
           "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 223840,
@@ -150619,6 +150631,54 @@
       "duration_ms": 180000,
       "name": "Beautiful (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF"
+    },
+    {
+      "added_at": "2026-11-23 00:55:00",
+      "album": {
+        "name": "rye",
+        "url": "https://open.spotify.com/album/4NquD35lwzPcHlQ13rA0Jp"
+      },
+      "artists": [
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/24HASvYQG1OvEFRWVWmOfx"
+        }
+      ],
+      "duration_ms": 272541,
+      "name": "\u60f3\u50cf\u30d5\u30a9\u30ec\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/7A2552KyBtsuAWOAkwY8SS"
+    },
+    {
+      "added_at": "2026-11-23 01:16:16",
+      "album": {
+        "name": "\u611b\u306f\u30d8\u30c3\u30c9\u30d5\u30a9\u30f3\u304b\u3089",
+        "url": "https://open.spotify.com/album/1DAKG39yWgWQIiUMij8CQ6"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u5ddd\u5343\u611b",
+          "url": "https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "\u6094\u3057\u3055\u306f\u7a2e",
+      "url": "https://open.spotify.com/track/5CXAfZ24wZwhecMGfIBHhj"
+    },
+    {
+      "added_at": "2026-11-23 01:33:21",
+      "album": {
+        "name": "Everlasting Night of Teenage Girls",
+        "url": "https://open.spotify.com/album/2ztJCuDBki1rNOEi2TrH2W"
+      },
+      "artists": [
+        {
+          "name": "H\u25b3G",
+          "url": "https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb"
+        }
+      ],
+      "duration_ms": 283600,
+      "name": "Colorful",
+      "url": "https://open.spotify.com/track/5jKaY1yceqsskkblLzopGF"
     }
   ],
   "unique_name": "Purge",

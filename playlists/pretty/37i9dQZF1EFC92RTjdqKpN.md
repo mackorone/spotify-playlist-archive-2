@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223 likes - 202 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224 likes - 202 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 138 | [Whisper](https://open.spotify.com/track/5AH5usocKPmrUFmZkdPvcH) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:06 |
 | 139 | [WET DREAM](https://open.spotify.com/track/2pTid5WZTf6PajZUaWlwyJ) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:59 |
 | 140 | [Energy](https://open.spotify.com/track/6pBkDdHNn7xujkpXYxqE2f) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:01 |
-| 141 | [PainHub](https://open.spotify.com/track/1KDIOubFEUaIg1y645HOVD) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:15 |
-| 142 | [Drop Top Sleigh Ride \(with Tyga\)](https://open.spotify.com/track/2qVCRYKDLRWpMXhpLR09O3) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:20 |
+| 141 | [Drop Top Sleigh Ride \(with Tyga\)](https://open.spotify.com/track/2qVCRYKDLRWpMXhpLR09O3) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:20 |
+| 142 | [PainHub](https://open.spotify.com/track/1KDIOubFEUaIg1y645HOVD) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:15 |
 | 143 | [The Only One](https://open.spotify.com/track/5gkGnVQ1XAW0Ee2aZSAGkC) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/4FF4II3GGoTuYRW3zenamA) | 3:20 |
 | 144 | [Feel On Me](https://open.spotify.com/track/4kEM6BvhUtFry78gHUeDHh) | [Ghosted](https://open.spotify.com/artist/3TOyRHj6rptXMN5F97Fpuq), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Feel On Me](https://open.spotify.com/album/6UZnxCo6vgmJG3ONVc6y8b) | 2:54 |
 | 145 | [Word Smith](https://open.spotify.com/track/0ycGgmtmbJWnMJRYiVsBcB) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Crystalline](https://open.spotify.com/album/1RAujeeZfUbofVGJUJ0qb8) | 2:58 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 201 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 202 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AciTIAAAAAA8Z4KM+Knfzr+C6Lj3VwRN`
+Snapshot ID: `AciY3gAAAADR6iSZlC9ZCMsnUTSJP695`

@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 330606,
+  "num_followers": 330824,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 263173,
       "name": "What's My Name?",
       "url": "https://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Disturbing Tha Peace Presents Bobby Valentino",
-        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
-      },
-      "artists": [
-        {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6kLZ1DzSxBkNVvdQm6CX0N"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "No Holding Back",
         "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 238760,
       "name": "1 Thing",
       "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Disturbing Tha Peace Presents Bobby Valentino",
+        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
+      },
+      "artists": [
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6kLZ1DzSxBkNVvdQm6CX0N"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 262226,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 283626,
       "name": "Like I Love You",
       "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "And Then...",
+        "url": "https://open.spotify.com/album/32jhKaGCt2obnOK6H6E4wD"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        },
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Ride wit U (feat. G-Unit)",
+      "url": "https://open.spotify.com/track/6EhWEvgOrOfqMcnuwIkbiL"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Street Dreams (Bonus Track)",
         "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
       },
@@ -1703,46 +1723,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "And Then...",
-        "url": "https://open.spotify.com/album/32jhKaGCt2obnOK6H6E4wD"
-      },
-      "artists": [
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        },
-        {
-          "name": "G-Unit",
-          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Ride wit U (feat. G-Unit)",
-      "url": "https://open.spotify.com/track/6EhWEvgOrOfqMcnuwIkbiL"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "A Day in the Life",
-        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
-      },
-      "artists": [
-        {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Georgy Porgy (feat. Faith Evans)",
-      "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/6aJHauR45e8XzoEeUgENtE"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 249026,
       "name": "Let's Get Married (feat. Run) - ReMarqable Remix",
       "url": "https://open.spotify.com/track/0mDSPvA2OAgIsSiGGGAesm"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Georgy Porgy (feat. Faith Evans)",
+      "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Fear Of Flying",
-        "url": "https://open.spotify.com/album/6DOrJ531pbcGf3ZkrfayPD"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Case Of The Ex (Whatcha Gonna Do)",
-      "url": "https://open.spotify.com/track/3G6hxSp260RzGw4sOiDOQ3"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Dutty Rock",
         "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 232506,
       "name": "Like Glue",
       "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Fear Of Flying",
+        "url": "https://open.spotify.com/album/6DOrJ531pbcGf3ZkrfayPD"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Case Of The Ex (Whatcha Gonna Do)",
+      "url": "https://open.spotify.com/track/3G6hxSp260RzGw4sOiDOQ3"
     },
     {
       "added_at": "2024-07-15 07:37:26",

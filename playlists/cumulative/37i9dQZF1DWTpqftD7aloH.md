@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-524 songs - 2 day 2 hr 46 min
+525 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Boa Nova \- Ao Vivo](https://open.spotify.com/track/0nnAYyAtG03COOAdaYds6r) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Boa Nova \(Ao Vivo\)](https://open.spotify.com/album/4MG0VfO2xxcO0LBIP5AuAj) | 7:37 | 2025-10-03 |  |
 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 | 2022-09-09 | 2025-02-15 |
 | [Bondade De Deus](https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Bondade De Deus](https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4) | 4:55 | 2023-03-11 |  |
+| [Bondade de Deus \- Ao Vivo](https://open.spotify.com/track/03aPuIf6qtM9QKQJO1hALs) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Bondade de Deus \(Ao Vivo\)](https://open.spotify.com/album/10eUgvi9JegRMcuio6kNLi) | 6:11 | 2026-04-10 |  |
 | [Brasa Viva \- Acústico](https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Único \(Acústico\)](https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195) | 6:52 | 2024-09-20 |  |
 | [Brilha Tua Luz](https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Brilha Tua Luz](https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7) | 4:55 | 2024-12-13 | 2025-09-20 |
 | [Broken Vessels \(Amazing Grace\) \- Live](https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 9:28 | 2022-09-09 | 2023-07-15 |
@@ -403,7 +404,7 @@
 | [Refrigério \- Ao Vivo](https://open.spotify.com/track/3nOV545Dwt1hFOkqbPnSA1) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Refrigério \(Ao Vivo\)](https://open.spotify.com/album/3SpV63lJaaEooevPHpPOMk) | 5:49 | 2024-01-05 | 2024-04-20 |
 | [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 8:33 | 2023-07-14 | 2023-09-02 |
 | [Rei e Santo \- Ao Vivo](https://open.spotify.com/track/5pQgg3LmMKBVQifdDslwCr) | [Canção e Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Rei e Santo \(Ao Vivo\)](https://open.spotify.com/album/69OtcCjBnzz8ZHp7q1KQ8v) | 6:37 | 2025-05-16 |  |
-| [Rendido Estou \- Ao Vivo](https://open.spotify.com/track/3TxiSs1OJz8dwgXTqEemNl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Débora Buzas](https://open.spotify.com/artist/6K6aHuOnmEhMwRlmgP6HA7) | [Rendido Estou \(Ao Vivo\)](https://open.spotify.com/album/49tCVa0gwrdqCN3LGUfBhh) | 5:53 | 2025-02-21 |  |
+| [Rendido Estou \- Ao Vivo](https://open.spotify.com/track/3TxiSs1OJz8dwgXTqEemNl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Débora Buzas](https://open.spotify.com/artist/6K6aHuOnmEhMwRlmgP6HA7) | [Rendido Estou \(Ao Vivo\)](https://open.spotify.com/album/49tCVa0gwrdqCN3LGUfBhh) | 5:53 | 2025-02-21 | 2026-11-23 |
 | [Respira Bem Fundo \- Ao Vivo](https://open.spotify.com/track/5Ym8ZEdJ4B6cbypqQYPcTG) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Respira Bem Fundo \(Ao Vivo\)](https://open.spotify.com/album/07wFnsSEJwOtpZauuTveti) | 3:51 | 2025-08-22 |  |
 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 | 2022-09-09 | 2024-04-20 |
 | [Restitui \- Ao Vivo](https://open.spotify.com/track/0NJuAF3mbH1EL3d8WAJ7Ra) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Restitui \(ao Vivo\)](https://open.spotify.com/album/3jKdDH1635WQtIUD52qCvp) | 4:17 | 2023-06-23 | 2025-03-08 |

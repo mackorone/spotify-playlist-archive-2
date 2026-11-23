@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,372 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,417 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 27 | [Corazón Culpable](https://open.spotify.com/track/4ZcjNfK9Df94vbT43Gm8dt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 5:59 |
 | 28 | [Quién Eres Tu](https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Cuando Se Quiere Se Puede](https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe) | 4:22 |
 | 29 | [Nereyda](https://open.spotify.com/track/4GqF1OeM18jaUiCs56JR5s) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Regresa Amor](https://open.spotify.com/album/64PLhfXkELD6htYvIBb4gv) | 4:55 |
-| 30 | [Shorty, Shorty](https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 2:54 |
-| 31 | [Se Te Nota](https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 3:58 |
+| 30 | [Se Te Nota](https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 3:58 |
+| 31 | [Shorty, Shorty](https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 2:54 |
 | 32 | [No Ha Sido Facil](https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 4:43 |
 | 33 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
 | 34 | [Que Vuelva](https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:31 |
-| 35 | [Se Acabo Lo Bonito](https://open.spotify.com/track/1kA2zpba5Tg4YsOoeCtD6S) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO) | 4:07 |
-| 36 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
+| 35 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
+| 36 | [Se Acabo Lo Bonito](https://open.spotify.com/track/1kA2zpba5Tg4YsOoeCtD6S) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO) | 4:07 |
 | 37 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
 | 38 | [Hombre No Muere de Pena](https://open.spotify.com/track/4vVvPFs0eszYfWHO2Qnzau) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Amor Bonito](https://open.spotify.com/album/3PUYcU1iMJDG30dwHgFDsX) | 3:54 |
 | 39 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 41 | [Esa Mujer](https://open.spotify.com/track/1RhQsb9KzlmaZ2dCPcefa7) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Dobletazo](https://open.spotify.com/album/67Zn5cir0VxgoZX8X4XbMt) | 4:33 |
 | 42 | [Perdido](https://open.spotify.com/track/18tS6OYnEJfHWokX62T322) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 4:05 |
 | 43 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
-| 44 | [Mujer Infiel](https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:11 |
+| 44 | [Adónde Se Fue ?](https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 3:05 |
 | 45 | [El Alcohol](https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 4:16 |
-| 46 | [Adónde Se Fue ?](https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 3:05 |
+| 46 | [Mujer Infiel](https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:11 |
 | 47 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
 | 48 | [Llora Alma Mía](https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Llora Alma Mia](https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so) | 4:21 |
 | 49 | [Ceniza fria](https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Loco De Amor](https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv) | 4:12 |
 | 50 | [Vine a Decirte Adios](https://open.spotify.com/track/7gz5kxYuat0XNOPgmPEg40) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Tranquilo y Tropical](https://open.spotify.com/album/5UnTv9TpJrwHXy8ZSwCCY8) | 4:39 |
 | 51 | [Antología De Caricias](https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 3:57 |
-| 52 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
-| 53 | [Ahora Vete](https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:47 |
+| 52 | [Ahora Vete](https://open.spotify.com/track/3yqgzXWZrRFQOqwDQJ7z3b) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Xtreme](https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi) | 3:47 |
+| 53 | [Laudano](https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:39 |
 | 54 | [Si Tu Me Dejas](https://open.spotify.com/track/2eMCoeD8MWC7sCTnMQTSkP) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [En Persona](https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq) | 4:13 |
 | 55 | [Perdoname](https://open.spotify.com/track/3CWgv82JBVeL9KX48BNLmb) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata A Su Tiempo](https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK) | 4:14 |
 | 56 | [Voy Pa 'lla](https://open.spotify.com/track/7ziYzhR5nL81mx1dEUmXEW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Chupadera](https://open.spotify.com/album/3L8jghUhYnZX453oDWD0cW) | 3:41 |

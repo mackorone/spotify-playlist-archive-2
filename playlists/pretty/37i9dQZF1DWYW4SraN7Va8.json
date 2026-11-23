@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 220542,
+  "num_followers": 220609,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 261495,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
         }
       ],
-      "duration_ms": 278706,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Kid In A Candy Store",
-        "url": "https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 248043,
-      "name": "Kid In A Candy Store",
-      "url": "https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Hot Wire",
         "url": "https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 240600,
       "name": "Girl Money",
       "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Kid In A Candy Store",
+        "url": "https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 248043,
+      "name": "Kid In A Candy Store",
+      "url": "https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y"
     },
     {
       "added_at": "2026-09-11 06:00:08",

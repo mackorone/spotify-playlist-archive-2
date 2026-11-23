@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 124647,
       "name": "7 MANN",
       "url": "https://open.spotify.com/track/1KGQmd5UoLQ8ami2RyNFJJ"
@@ -5204,7 +5204,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 150153,
       "name": "arm um mich",
       "url": "https://open.spotify.com/track/5jRvFqocteQ2pgwdbST4AN"
@@ -13877,6 +13877,24 @@
     },
     {
       "album": {
+        "name": "Darlene Love Feat. Winter Wonderland",
+        "url": "https://open.spotify.com/album/4swIribbYPrL6aUa5PR3bo"
+      },
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/2ggxtMt8Y6kFkoJonQ1gSO"
+    },
+    {
+      "album": {
         "name": "Christmas (Baby, Please Come Home)",
         "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
       },
@@ -13942,7 +13960,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 243057,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/7LoFMtL7hxP9tr5HYyyUrJ"
@@ -17780,7 +17798,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -20210,7 +20228,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 111000,
       "name": "EISBERG",
       "url": "https://open.spotify.com/track/7xNm3nBTEQG7tK5aB2ndDE"
@@ -26588,7 +26606,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 191500,
       "name": "Go Easy (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
@@ -27744,7 +27762,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 268937,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
@@ -29308,7 +29326,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -32193,6 +32211,24 @@
     },
     {
       "album": {
+        "name": "In der Weihnachtsb\u00e4ckerei",
+        "url": "https://open.spotify.com/album/4x5GjyI5mjuNwVTVRm5rF9"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172680,
+      "name": "In der Weihnachtsb\u00e4ckerei",
+      "url": "https://open.spotify.com/track/5RxYjZmEaCYgYZ5Yht7Xc7"
+    },
+    {
+      "album": {
         "name": "Winterkinder ...auf der Suche nach Weihnachten",
         "url": "https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6"
       },
@@ -33016,7 +33052,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -33052,7 +33088,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -40284,7 +40320,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 120000,
       "name": "Mama - Remix",
       "url": "https://open.spotify.com/track/69PI6qcKE6c90NCjPHHQnp"
@@ -41712,7 +41748,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
@@ -44342,7 +44378,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -58084,7 +58120,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -61568,7 +61604,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -62923,6 +62959,24 @@
     },
     {
       "album": {
+        "name": "The Works (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "Thank God It's Christmas",
+      "url": "https://open.spotify.com/track/2AEjZQblAZwdbcYA1qiexM"
+    },
+    {
+      "album": {
         "name": "The Works (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
       },
@@ -63864,7 +63918,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -63882,7 +63936,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -64490,7 +64544,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 203276,
       "name": "Throw That Thang",
       "url": "https://open.spotify.com/track/2dtnHqzhrZWxpowKi0swwo"
@@ -66856,7 +66910,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -66874,7 +66928,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -68140,7 +68194,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 115183,
       "name": "Verschwommen x Von hier an blind",
       "url": "https://open.spotify.com/track/1xuBGilhARR8eVh0Spww0R"

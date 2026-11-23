@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8R8qCu8OaPs.md) - [plain]
 
 > Listen to the soundtracks of My Youth\. \(마이 유스의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,921 likes - 27 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,920 likes - 27 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8R8qCu8OaPs.md) - [plain]
 | 13 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/2alWABSEi9VUpKYsJ7xkdG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [花樣年華 \(電影原聲大碟\)](https://open.spotify.com/album/5HNEVFApJGyXFH1ro73wF1) | 2:44 |
 | 14 | [I See You](https://open.spotify.com/track/2tjzHzqMMoCy9xWU0MAP3Q) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4vq5IM3eib2FIDfPdu23fP) | 4:28 |
 | 15 | [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 |
-| 16 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
+| 16 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
 | 17 | [Curated by LEE JOO MYUNG](https://open.spotify.com/track/2VgLz2y1giIZR1xBmmaSd2) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [My Youth Audio Liners](https://open.spotify.com/album/2QTDJwILYDUw2PehPkYwzt) | 0:32 |
 | 18 | [Dandelion \- single ver.](https://open.spotify.com/track/3eOXiUUfz9OhyVqoREsJYe) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Dandelion](https://open.spotify.com/album/3Jshf9ojwr5KPw0WznX3uk) | 4:12 |
 | 19 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 |

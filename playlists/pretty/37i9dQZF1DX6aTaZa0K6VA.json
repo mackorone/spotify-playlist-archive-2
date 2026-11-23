@@ -1,6 +1,6 @@
 {
   "description": "Super mega hits!  Foto: Dua Lipa",
-  "num_followers": 6499818,
+  "num_followers": 6499524,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 158494,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "The Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 199460,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "expectations (feat. Chappell Roan)",
-        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 223935,
-      "name": "expectations (feat. Chappell Roan)",
-      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245490,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245490,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "The Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 217099,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "serena joy",
-        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 185838,
-      "name": "serena joy",
-      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+        "name": "serena joy",
+        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+      "duration_ms": 185838,
+      "name": "serena joy",
+      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1487,6 +1487,22 @@
       "duration_ms": 242517,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1519,22 +1535,6 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "EYES CLOSED (with ZAYN)",
         "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
       "added_at": "2026-11-20 06:00:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 
 > Jelly, arcades and a man on the moon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,085 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,099 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 2 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:04 |
 | 3 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
 | 4 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
-| 5 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 |
-| 6 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
+| 5 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
+| 6 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 |
 | 7 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
 | 8 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
 | 9 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 41 | [Young Americans \- 2016 Remaster](https://open.spotify.com/track/7uPmQttafLiJyju14JREY4) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Young Americans \(2016 Remaster\)](https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P) | 5:13 |
 | 42 | [I Don't Like Mondays](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [The Fine Art Of Surfacing](https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts) | 4:19 |
 | 43 | [Tie a Yellow Ribbon Round the Ole Oak Tree \(feat\. Tony Orlando\) \- 1998 Remastered](https://open.spotify.com/track/12UzVR0M7asW2MHAZRJk0I) | [Dawn](https://open.spotify.com/artist/1vjeJ712UQutRhn6WJI4sF), [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Tuneweaving](https://open.spotify.com/album/3mrqSIFeycc3CccoaHR0Tq) | 3:26 |
-| 44 | [Save a Prayer \- Single Version](https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:45 |
-| 45 | [Ring My Bell](https://open.spotify.com/track/2BEArHIJsI5fxYEpCZv2sF) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5iGr1ahzViyPqmOUxSzYWo) | 3:32 |
+| 44 | [Ring My Bell](https://open.spotify.com/track/2BEArHIJsI5fxYEpCZv2sF) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5iGr1ahzViyPqmOUxSzYWo) | 3:32 |
+| 45 | [Save a Prayer \- Single Version](https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:45 |
 | 46 | [Stop! In The Name Of Love](https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes](https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A) | 2:52 |
 | 47 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
 | 48 | [When Will I See You Again](https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:58 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 62 | [Tell It to My Heart](https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Platinum & Gold Collection](https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP) | 3:40 |
 | 63 | [Touch Me \(I Want Your Body\)](https://open.spotify.com/track/13s6dCsNpSZflwVu2uzzPi) | [Samantha Fox](https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa) | [Samantha Fox Greatest Hits](https://open.spotify.com/album/2MLEz0a0JzhNpbqXn2UxgG) | 3:42 |
 | 64 | [Something's Gotten Hold of My Heart](https://open.spotify.com/track/68O1r5xQADu0JjvBibg9zN) | [Marc Almond](https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7), [Gene Pitney](https://open.spotify.com/artist/3ap1NzHNV9QA1x1V6z3gSe) | [The Stars We Are](https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR) | 4:40 |
-| 65 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/6S7OQQ19MSi5Fo2PQ6LL1u) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/album/6NXNYQ0pjEeqwBEU3yaKSf) | 4:05 |
-| 66 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 |
+| 65 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 |
+| 66 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/6S7OQQ19MSi5Fo2PQ6LL1u) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/album/6NXNYQ0pjEeqwBEU3yaKSf) | 4:05 |
 | 67 | [Sugar Baby Love](https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0) | [The Rubettes](https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39) | [The Best Of](https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N) | 3:29 |
 | 68 | [Because the Night](https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 3:22 |
 | 69 | [I'm in the Mood for Dancing](https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q) | [The Nolans](https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM) | [Altogether](https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS) | 3:18 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 76 | [Seasons in the Sun](https://open.spotify.com/track/6AhUX0ObPgTnS5GGFrRidN) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:25 |
 | 77 | [Dead Ringer for Love \(with Cher\)](https://open.spotify.com/track/6LR5yuN6XStHDZiusCxqYe) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Dead Ringer](https://open.spotify.com/album/2Y9CaNn1xUX2EJWIiBG45i) | 4:20 |
 | 78 | [Have You Seen Her](https://open.spotify.com/track/01cQPNCptd662nikuY42zw) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 5:10 |
-| 79 | [Pearl's A Singer](https://open.spotify.com/track/6abvu3x6fUlOniPRF8WCII) | [Elkie Brooks](https://open.spotify.com/artist/4Xn6fPXDrarY8LxXWqlE2M) | [Two Days Away](https://open.spotify.com/album/0Kl3JrLb3PocSPu4jdGuRa) | 3:38 |
-| 80 | [What's Love Got to Do with It](https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:46 |
+| 79 | [What's Love Got to Do with It](https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:46 |
+| 80 | [Pearl's A Singer](https://open.spotify.com/track/6abvu3x6fUlOniPRF8WCII) | [Elkie Brooks](https://open.spotify.com/artist/4Xn6fPXDrarY8LxXWqlE2M) | [Two Days Away](https://open.spotify.com/album/0Kl3JrLb3PocSPu4jdGuRa) | 3:38 |
 
 Snapshot ID: `AAAAAAiW0KMrLmQqlzNjO83r0p7fi0T6`

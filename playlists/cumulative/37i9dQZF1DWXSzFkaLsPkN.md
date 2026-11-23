@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Aanchal Tyagi
 
-384 songs - 21 hr 12 min
+385 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2023-05-02 | 2025-09-17 |
 | [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 | 2023-05-02 | 2025-07-26 |
 | [Aaja](https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Aaja](https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP) | 4:13 | 2023-06-26 | 2023-07-01 |
-| [Aaja Re Piya](https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Khushi Pareek](https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8) | [Aaja Re Piya](https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf) | 2:34 | 2026-08-07 |  |
+| [Aaja Re Piya](https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Khushi Pareek](https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8) | [Aaja Re Piya](https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf) | 2:34 | 2026-08-07 | 2026-11-23 |
 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 | 2025-11-14 | 2026-11-17 |
 | [Aankhein](https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Aankhein](https://open.spotify.com/album/2fKe65b6B7Bb0sFRY0A39s) | 5:15 | 2026-11-06 |  |
 | [Aao Bhula Dein](https://open.spotify.com/track/67nXL9Yf3zCLt8kmyI5vz2) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Aao Bhula Dein](https://open.spotify.com/album/3d7Oe8nu0J8yNt77PJir7w) | 3:37 | 2024-11-20 | 2025-02-11 |
@@ -263,6 +263,7 @@
 | [Parinaam](https://open.spotify.com/track/3xJ0OLjMdcuvcYQiUAcGlz) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Parinaam](https://open.spotify.com/album/4cQvaQtUd2Vjq0M8SNzyRv) | 2:15 | 2025-07-09 |  |
 | [Parwaana](https://open.spotify.com/track/1plViHUxnafeKCFKV6Tegs) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:11 | 2023-08-04 | 2023-08-10 |
 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav Dhawan](https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 | 2026-03-05 |  |
+| [Payaliyaan](https://open.spotify.com/track/5RjcZhJ9W13YckU17mX2ZO) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy), [Hia](https://open.spotify.com/artist/1QSqsXWlAEW0jnZzOesZ7y) | [Payaliyaan](https://open.spotify.com/album/1TkOEs3apHXVPY5Fk3G6Sg) | 3:48 | 2026-11-19 |  |
 | [Pehli Baar](https://open.spotify.com/track/27XgpNt1YAhNoOOjxf6sND) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Namit Das](https://open.spotify.com/artist/5hRlXrAjvQ7HEa3CSRYaSK) | [Pehli Baar](https://open.spotify.com/album/1aKx5Sx4JrTG1YIZKCc8AM) | 2:57 | 2023-12-15 | 2024-03-13 |
 | [Piya](https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Piya](https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK) | 2:21 | 2024-06-21 | 2026-07-03 |
 | [Piya](https://open.spotify.com/track/3dA2C0JVTXRS43erFqVLRy) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Piya](https://open.spotify.com/album/4BHubnTh605e8B4KdYgTYP) | 2:47 | 2024-06-18 | 2025-09-17 |

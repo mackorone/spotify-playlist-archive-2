@@ -2,7 +2,7 @@
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZIiJvqaSAaz>sombr</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIWvLtPAMQUqE>Ravyn Lenae</a>, <a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a> and more
 
 1,314 songs - 3 day 2 hr 39 min
 
@@ -475,7 +475,7 @@
 | [Home](https://open.spotify.com/track/5yCrrN0GiJjHkRJGWw5D13) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/3da6Ihr5l6xjOCDs5sTXIu) | 3:02 | 2024-01-13 | 2024-01-18 |
 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 | 2024-01-03 | 2024-02-02 |
 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2024-04-08 | 2024-04-09 |
-| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-10-31 |  |
+| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-10-31 | 2026-11-23 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2024-01-02 | 2024-04-30 |
 | [Honesty](https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 1](https://open.spotify.com/album/0j7uROzHS1tk3SmgP6zSPi) | 3:11 | 2023-12-31 | 2024-03-02 |
 | [Horizon](https://open.spotify.com/track/3EMVF8sD5TxLL8jK9WI7aN) | [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx) | [Horizon](https://open.spotify.com/album/3f3beu6st2VNSoc0bO8sdY) | 2:00 | 2024-01-01 | 2024-01-02 |
@@ -649,7 +649,7 @@
 | [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 | 2025-07-06 | 2025-07-07 |
 | [Love Is a Bitch](https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Love Is a Bitch](https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s) | 3:01 | 2024-01-04 | 2024-01-12 |
 | [Love Is Only a Feeling](https://open.spotify.com/track/7umZiitjVsEjMQ6HNddpUI) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Love Is Only a Feeling](https://open.spotify.com/album/5e82uQW57EpmAOCJvLKMpr) | 2:32 | 2024-01-23 |  |
-| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-09-07 | 2026-11-19 |
+| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-09-07 |  |
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2026-02-12 | 2026-02-13 |
 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 | 2024-04-04 | 2024-04-11 |
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2024-01-10 | 2025-12-03 |
@@ -936,7 +936,7 @@
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [Íñigo Quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2024-01-06 | 2026-05-01 |
 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 | 2025-09-10 | 2025-11-10 |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-08-23 | 2026-02-27 |
-| [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2026-02-09 | 2026-11-19 |
+| [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2026-02-09 |  |
 | [Simmer](https://open.spotify.com/track/0D8dzxPNbYA0Ck2auTnWGS) | [Robinson Roe](https://open.spotify.com/artist/5IjUr7lUdZ1mOUluaYpKZE) | [Simmer](https://open.spotify.com/album/6Ss5rIWTlbcpSFFOZ1bZ8Q) | 2:31 | 2026-06-10 | 2026-06-11 |
 | [SIN MIRAR LAS SEÑALES](https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Happy Birthday Flakko](https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4) | 3:00 | 2026-02-27 | 2026-04-29 |
 | [SINCERA TE](https://open.spotify.com/track/0LHx4VkNoLuC60p23xUpig) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 4:02 | 2025-09-02 | 2025-09-03 |
@@ -1271,7 +1271,7 @@
 | [You Wish](https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 3:29 | 2023-12-29 | 2025-08-16 |
 | [You'll Be Fine](https://open.spotify.com/track/09VolXvIlBUeBEsvYxcUgb) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf), [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Take Whatever](https://open.spotify.com/album/6cg8iY0SvBS4Uo8cUFVEa4) | 3:10 | 2026-11-20 | 2026-11-22 |
 | [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 | 2025-09-08 | 2026-11-09 |
-| [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 | 2026-11-22 |  |
+| [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 | 2026-11-22 | 2026-11-23 |
 | [Your Last Song](https://open.spotify.com/track/0dzEeQcN5jL4KNx33BTfSE) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [Your Last Song](https://open.spotify.com/album/2G8rYOABvMmkDO7yoFdtN8) | 3:12 | 2024-01-18 | 2024-04-15 |
 | [YourSong](https://open.spotify.com/track/3a0WnRbyfI5zDyYWw4tkYd) | [15MUS](https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j) | [MESSAGE](https://open.spotify.com/album/7lHPXv0n8vrqaZTFf4aHgu) | 4:27 | 2026-05-16 | 2026-06-30 |
 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 | 2025-08-16 | 2026-11-10 |

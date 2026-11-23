@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 163746,
       "name": "Cherry - Live At Paradiso, Amsterdam / 2007",
       "url": "https://open.spotify.com/track/2kYc6CwmPIj50O8QNmTqcn"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 164880,
       "name": "He Can Only Hold Her",
       "url": "https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 225653,
       "name": "He Can Only Hold Her / Doo Wop (That Thing) - Live At Paradiso, Amsterdam / 2007",
       "url": "https://open.spotify.com/track/20rqL3frTrgfwQuNMA2nVU"
@@ -399,6 +399,32 @@
     },
     {
       "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        },
+        {
+          "name": "Zalon Thompson",
+          "url": "https://open.spotify.com/artist/0zekQep7qKANc50WkNbqvP"
+        },
+        {
+          "name": "Ade Omotayo",
+          "url": "https://open.spotify.com/artist/6vBEH6ztLks6Wa9CbTHrgI"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "Hey Little Rich Girl",
+      "url": "https://open.spotify.com/track/3Qr31s6VvhQCwegs4pR7wL"
+    },
+    {
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -418,7 +444,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 215000,
       "name": "Hey Little Rich Girl",
       "url": "https://open.spotify.com/track/6huXEunO4jEFn9Q7WLoMZs"
@@ -466,6 +492,24 @@
       "duration_ms": 130080,
       "name": "I Heard Love Is Blind",
       "url": "https://open.spotify.com/track/4f7PUKUsyx2Ry02W1j9ymN"
+    },
+    {
+      "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130080,
+      "name": "I Heard Love Is Blind",
+      "url": "https://open.spotify.com/track/6hNQwu4W67RNkPOTiQe3iZ"
     },
     {
       "album": {
@@ -1278,10 +1322,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 410760,
       "name": "You Sent Me Flying / Cherry",
       "url": "https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX"
+    },
+    {
+      "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "You're Wondering Now",
+      "url": "https://open.spotify.com/track/32hc4EBnQCe9KxrlAELQog"
     },
     {
       "album": {
@@ -1296,7 +1358,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 153413,
       "name": "You're Wondering Now",
       "url": "https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY"

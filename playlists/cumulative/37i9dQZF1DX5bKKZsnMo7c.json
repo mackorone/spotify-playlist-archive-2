@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 225657,
       "name": "Above the Neck",
       "url": "https://open.spotify.com/track/1QOjSg4LVUTFtLJba1SWha"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 104427,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/4mMXxB95GryASboT4X11jV"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/004G3nON9ejsOF4Fnb5eX3"
+    },
+    {
+      "album": {
         "name": "Everything's Fine (Nuke Song)",
         "url": "https://open.spotify.com/album/3n8o6aNvxgEESt00ncoVLR"
       },
@@ -3320,6 +3338,24 @@
       "duration_ms": 242674,
       "name": "fairest fruit",
       "url": "https://open.spotify.com/track/4eTLw4k738PaAaHz81XXC6"
+    },
+    {
+      "album": {
+        "name": "The Poet",
+        "url": "https://open.spotify.com/album/0FxES8KJrC1l05E4lKdaxh"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183110,
+      "name": "Fairy",
+      "url": "https://open.spotify.com/track/0z2deS6KOYeBAOs6OTOvyw"
     },
     {
       "album": {
@@ -7204,7 +7240,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 217649,
       "name": "Never Be Me (M\u2605therf\u2605cker)",
       "url": "https://open.spotify.com/track/0RCaDuYsW4d5dtsx6G2u1K"
@@ -8542,7 +8578,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
@@ -10342,7 +10378,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"

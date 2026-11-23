@@ -376,7 +376,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 178611,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 198842,
       "name": "Sister Wives",
       "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 126168,
       "name": "whose fault",
       "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
@@ -1324,6 +1324,28 @@
       "duration_ms": 185379,
       "name": "Wrist",
       "url": "https://open.spotify.com/track/3FUhwWJhvtXJJWp8Vsq8w9"
+    },
+    {
+      "album": {
+        "name": "Wrist Remix (feat. Father)",
+        "url": "https://open.spotify.com/album/2fQtlsEw3pLSZuY3pDYtsD"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Father",
+          "url": "https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Wrist Remix (feat. Father)",
+      "url": "https://open.spotify.com/track/7oIZQABKsHYtqEMnmpWR8N"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kWHqs"

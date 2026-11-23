@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118906,
+  "num_followers": 118911,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAA3BvQ+QCQNOxh51oxMkTG/",
+  "snapshot_id": "awDfAAAAAACHwEmI7Fa+AZww2Md8BxLr",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 211648,
       "name": "El Hombre Alegre - En Vivo",
       "url": "https://open.spotify.com/track/4gjJ95Tps8wTzegFSM7llF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c1ngeles En El Muro (En Vivo)",
+        "url": "https://open.spotify.com/album/5u9tWcxb2zi0ltrJNKxvBP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 187344,
+      "name": "Noche & D\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/1oJkWfxHJ7Yi9nsrTzgiCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nunca Me Quisiste",
         "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 152789,
       "name": "Nunca Me Quisiste",
       "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c1ngeles En El Muro (En Vivo)",
-        "url": "https://open.spotify.com/album/5u9tWcxb2zi0ltrJNKxvBP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 187344,
-      "name": "Noche & D\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/1oJkWfxHJ7Yi9nsrTzgiCF"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pato Nada",
+        "url": "https://open.spotify.com/album/0OhyD2tALC8PZSFLRydDfJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Jando Cartagena",
+          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
+        }
+      ],
+      "duration_ms": 164989,
+      "name": "El Pato Nada",
+      "url": "https://open.spotify.com/track/79ODiZgprtTlyPhRfIlcBl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfC\u00f3mo Te Olvido?",
         "url": "https://open.spotify.com/album/2RMo1JLJ9Kr1twPWbqzfBJ"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 185427,
       "name": "Deli",
       "url": "https://open.spotify.com/track/16WSMvxhuxH9mYA5E5YXl8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pato Nada",
-        "url": "https://open.spotify.com/album/0OhyD2tALC8PZSFLRydDfJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Jando Cartagena",
-          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
-        }
-      ],
-      "duration_ms": 164989,
-      "name": "El Pato Nada",
-      "url": "https://open.spotify.com/track/79ODiZgprtTlyPhRfIlcBl"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 170004,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/5gP4fy4hP3TSyh6nuE25wB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novedad",
         "url": "https://open.spotify.com/album/655zzucpnGOJfBgO8bxU57"
       },
@@ -615,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqui Soy",
-        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+        "name": "\u00c1ngeles En El Muro (En Vivo)",
+        "url": "https://open.spotify.com/album/5u9tWcxb2zi0ltrJNKxvBP"
       },
       "artists": [
         {
@@ -624,9 +608,25 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 168317,
-      "name": "De Aqui Soy",
-      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
+      "duration_ms": 198197,
+      "name": "Mor\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/2yIfH2pHlTk7MbXcwGJbAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/5gP4fy4hP3TSyh6nuE25wB"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1ngeles En El Muro (En Vivo)",
-        "url": "https://open.spotify.com/album/5u9tWcxb2zi0ltrJNKxvBP"
+        "name": "De Aqui Soy",
+        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 198197,
-      "name": "Mor\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/2yIfH2pHlTk7MbXcwGJbAK"
+      "duration_ms": 168317,
+      "name": "De Aqui Soy",
+      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer & Hoy",
-        "url": "https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155008,
-      "name": "Ayer & Hoy",
-      "url": "https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solo Por Bonita",
         "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
       },
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 179171,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP"
+      "duration_ms": 164690,
+      "name": "El H",
+      "url": "https://open.spotify.com/track/1ipRWFeVZQ449C0HL8K8kS"
     },
     {
       "added_at": null,
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH"
+        "name": "Ayer & Hoy",
+        "url": "https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 208890,
-      "name": "Los Mitotes",
-      "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
+      "duration_ms": 155008,
+      "name": "Ayer & Hoy",
+      "url": "https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V"
     },
     {
       "added_at": null,
@@ -808,9 +792,25 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 164690,
-      "name": "El H",
-      "url": "https://open.spotify.com/track/1ipRWFeVZQ449C0HL8K8kS"
+      "duration_ms": 179171,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208890,
+      "name": "Los Mitotes",
+      "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 180047,
-      "name": "El Chapio",
-      "url": "https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8"
+      "duration_ms": 149952,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

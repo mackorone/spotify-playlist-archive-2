@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 179027,
+  "num_followers": 179080,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Y Por Esa Calle Vive",
-        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Y Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "S\u00f3lo para enamorados",
         "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 190840,
       "name": "Tri\u00e1ngulo",
       "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Y Por Esa Calle Vive",
+        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Y Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "16 Exitos De Oro",
-        "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Asi Te Quiero - Con Mariachi",
-      "url": "https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
       },
       "artists": [
         {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+      "duration_ms": 233666,
+      "name": "Asi Te Quiero - Con Mariachi",
+      "url": "https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "\u00c9xitos De \u00c9poca (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/1I7toj699MjUv6YIAhX6FT"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Ni Tu Amigo, Ni Tu Amante",
-      "url": "https://open.spotify.com/track/5YPwHHqFhj44Lv0OcPROSj"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "El Ultimo Beso",
         "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 140146,
       "name": "Al ritmo de la lluvia - Rhythm of the Rain",
       "url": "https://open.spotify.com/track/52C4jG5kIhSZbAGErim8nr"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/1I7toj699MjUv6YIAhX6FT"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "Ni Tu Amigo, Ni Tu Amante",
+      "url": "https://open.spotify.com/track/5YPwHHqFhj44Lv0OcPROSj"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Generacion 2000",
-          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
-        }
-      ],
-      "duration_ms": 140653,
-      "name": "T\u00fa Eres",
-      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4zTKmaPE1ExcLpq9L5FGYd"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 259578,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/0QwRB5Q6nxAN0AsLavgFOa"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Generacion 2000",
+          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
+        }
+      ],
+      "duration_ms": 140653,
+      "name": "T\u00fa Eres",
+      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+        "name": "Los \u00c9xitos De Los Terricolas",
+        "url": "https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 217129,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
+      "duration_ms": 245880,
+      "name": "Luto En Mi Alma",
+      "url": "https://open.spotify.com/track/75losSBec1tZJmJb4pzURW"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Los \u00c9xitos De Los Terricolas",
-        "url": "https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG"
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
       },
       "artists": [
         {
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 245880,
-      "name": "Luto En Mi Alma",
-      "url": "https://open.spotify.com/track/75losSBec1tZJmJb4pzURW"
+      "duration_ms": 217129,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
     },
     {
       "added_at": "2025-01-28 15:41:46",

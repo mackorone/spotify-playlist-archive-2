@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1600926,
+  "num_followers": 1600997,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
+        "name": "LONERWRLD, vol 1",
+        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 130742,
+      "name": "Fly god manners",
+      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
         "name": "Nobody Cares Till Everybody Does",
         "url": "https://open.spotify.com/album/0TpMAy5WPGObUkL5LPuuMc"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 279373,
       "name": "Jettin'",
       "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
-        "name": "LONERWRLD, vol 1",
-        "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 130742,
-      "name": "Fly god manners",
-      "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -835,34 +835,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Bo Jackson",
-        "url": "https://open.spotify.com/album/1KHFw3hsKvNGGCkXKQMrbT"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Photographic Memories (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/3RRjRfsNJ4A5Y3qAgQgAjD"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -887,6 +859,34 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Bo Jackson",
+        "url": "https://open.spotify.com/album/1KHFw3hsKvNGGCkXKQMrbT"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Photographic Memories (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/3RRjRfsNJ4A5Y3qAgQgAjD"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "MEET ME ON WOODWARD TOO",
-        "url": "https://open.spotify.com/album/0jHPCp9iry8OXCnuzHqTMw"
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
       "artists": [
         {
-          "name": "Moschino Jones",
-          "url": "https://open.spotify.com/artist/1xdbjh3k3l5EcfS87IYEVB"
-        },
-        {
-          "name": "prod.myles",
-          "url": "https://open.spotify.com/artist/2vPq8POxHuzTl9Ouys7uBm"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         }
       ],
-      "duration_ms": 131609,
-      "name": "MR. ROMANCE",
-      "url": "https://open.spotify.com/track/3hYgdrdb8b5BJbHiozjqSo"
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+        "name": "MEET ME ON WOODWARD TOO",
+        "url": "https://open.spotify.com/album/0jHPCp9iry8OXCnuzHqTMw"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Moschino Jones",
+          "url": "https://open.spotify.com/artist/1xdbjh3k3l5EcfS87IYEVB"
+        },
+        {
+          "name": "prod.myles",
+          "url": "https://open.spotify.com/artist/2vPq8POxHuzTl9Ouys7uBm"
         }
       ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+      "duration_ms": 131609,
+      "name": "MR. ROMANCE",
+      "url": "https://open.spotify.com/track/3hYgdrdb8b5BJbHiozjqSo"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "A Fine African Man",
-        "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "MASQUERADE",
-      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -1327,6 +1311,58 @@
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "A Fine African Man",
+        "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "MASQUERADE",
+      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "What Am I to Do?",
+        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "What Am I to Do?",
+      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1355,42 +1391,6 @@
       "duration_ms": 158106,
       "name": "PATCHWORK",
       "url": "https://open.spotify.com/track/38HigDpo88ILLFU2zhzRT6"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
-        "name": "What Am I to Do?",
-        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "What Am I to Do?",
-      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1647,30 +1647,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/0I4rNrQwJ8Ckk5iaShqjx7"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Termanology",
-          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
-        },
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        }
-      ],
-      "duration_ms": 236913,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/7xZ4p4vVt6m8pXIYuH0pMv"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "BLAH",
         "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
       },
@@ -1707,6 +1683,30 @@
       "duration_ms": 141172,
       "name": "Dont Wanna C Me Rich",
       "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/0I4rNrQwJ8Ckk5iaShqjx7"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Termanology",
+          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "duration_ms": 236913,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/7xZ4p4vVt6m8pXIYuH0pMv"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Quiet Miles",
-        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "Blueberry",
-      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "Burnout 5",
         "url": "https://open.spotify.com/album/4IhkrsR02UX0lXwquTTsjk"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 139073,
       "name": "Calamari",
       "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Quiet Miles",
+        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
     },
     {
       "added_at": "2026-11-20 05:01:22",

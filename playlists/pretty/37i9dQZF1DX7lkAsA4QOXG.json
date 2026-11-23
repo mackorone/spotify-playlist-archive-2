@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 161226,
+  "num_followers": 161244,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Reimagined",
-        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
-      },
-      "artists": [
-        {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 197146,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/1OlxI4JNTDvYQRiC9P2rHg"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Karen Souza Essentials",
-        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 232866,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Karen Souza Essentials",
+        "url": "https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Still We Dream",
-        "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
-      },
-      "artists": [
-        {
-          "name": "Donatella Montinaro",
-          "url": "https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G"
-        },
-        {
-          "name": "Danilo Tarso",
-          "url": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
-        }
-      ],
-      "duration_ms": 353941,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 228327,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/3lBfxgfIQ16YbgVaD1oBLy"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Still We Dream",
+        "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
+      },
+      "artists": [
+        {
+          "name": "Donatella Montinaro",
+          "url": "https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G"
+        },
+        {
+          "name": "Danilo Tarso",
+          "url": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
+        }
+      ],
+      "duration_ms": 353941,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -819,42 +819,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Start Again EP",
-        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "One Flight Down",
-      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Stockholm Underground",
-        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
-      },
-      "artists": [
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 303807,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Champagne & Declarations",
         "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
       },
@@ -871,6 +835,22 @@
       "duration_ms": 277411,
       "name": "Walk On The Wildside",
       "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Start Again EP",
+        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "One Flight Down",
+      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -895,6 +875,26 @@
       "duration_ms": 411893,
       "name": "Fields of Gold - Live",
       "url": "https://open.spotify.com/track/1vAO8K5hBp5TollswpLnXX"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Stockholm Underground",
+        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
+      },
+      "artists": [
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 303807,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1051,42 +1051,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Bird On The Wire",
-      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Technically Acceptable",
-        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Iverson",
-          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
-        }
-      ],
-      "duration_ms": 230389,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Daylight at Midnight",
         "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
       },
@@ -1107,6 +1071,26 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Technically Acceptable",
+        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Iverson",
+          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
+        }
+      ],
+      "duration_ms": 230389,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Falling Grace",
-        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
-      },
-      "artists": [
-        {
-          "name": "Charlie Ballantine",
-          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Oliver Nelson Plays Michelle",
         "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 162480,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Falling Grace",
+        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
+      },
+      "artists": [
+        {
+          "name": "Charlie Ballantine",
+          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "My New Old Friend",
-        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
-      },
-      "artists": [
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        }
-      ],
-      "duration_ms": 358453,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Pointless Nostalgic",
         "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 294293,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0vwiOFVhknyIMu7TkFDbWo"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "My New Old Friend",
+        "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
+      },
+      "artists": [
+        {
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
+        }
+      ],
+      "duration_ms": 358453,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Your Mother Should Know",
-        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Your Mother Should Know",
-      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Jamie Cullum - Twentysomething",
         "url": "https://open.spotify.com/album/4jw9SLZArYuQOApMXWOZw7"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 215733,
       "name": "Wind Cries Mary",
       "url": "https://open.spotify.com/track/6A0JLDjO5kWSCb97DpRxVN"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Your Mother Should Know",
+        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Your Mother Should Know",
+      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
     },
     {
       "added_at": "2025-03-13 14:12:56",

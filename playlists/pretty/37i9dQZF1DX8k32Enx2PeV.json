@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17828,
+  "num_followers": 17835,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
+        "name": "TESORIIITO",
+        "url": "https://open.spotify.com/album/7fvVTbNgJjY0jqMOApwqrO"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "TESORIIITO",
+      "url": "https://open.spotify.com/track/3oiFhiHsLKdWjsQpHWmwhz"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
-        "name": "TESORIIITO",
-        "url": "https://open.spotify.com/album/7fvVTbNgJjY0jqMOApwqrO"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "TESORIIITO",
-      "url": "https://open.spotify.com/track/3oiFhiHsLKdWjsQpHWmwhz"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
         "name": "Segunda Cita",
         "url": "https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 170013,
       "name": "Segunda Cita",
       "url": "https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
-        "name": "Beso a Beso",
-        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 137969,
-      "name": "Beso a Beso",
-      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
-        "name": "BRUJA",
-        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 171296,
-      "name": "BRUJA",
-      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 211200,
       "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
       "url": "https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 171296,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
+        "name": "TRESCENDER",
+        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 161030,
+      "name": "Regalito",
+      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
         "name": "Un 20",
         "url": "https://open.spotify.com/album/2SN3HjYZTIy7z9lGl6jXh3"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 195886,
       "name": "JEEP",
       "url": "https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
-        "name": "TRESCENDER",
-        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 161030,
-      "name": "Regalito",
-      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
+        "name": "Me Enamor\u00f3",
+        "url": "https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf"
+      },
+      "artists": [
+        {
+          "name": "Osman M\u00fasica",
+          "url": "https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Me Enamor\u00f3",
+      "url": "https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
         "name": "Alas Rotas",
         "url": "https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 175841,
       "name": "Que Se Reporten",
       "url": "https://open.spotify.com/track/5ViVSElIxnYSy0QjwftX41"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
-        "name": "Me Enamor\u00f3",
-        "url": "https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf"
-      },
-      "artists": [
-        {
-          "name": "Osman M\u00fasica",
-          "url": "https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC"
-        }
-      ],
-      "duration_ms": 154411,
-      "name": "Me Enamor\u00f3",
-      "url": "https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
-        "name": "NEED YOU",
-        "url": "https://open.spotify.com/album/3gQ85Ruy47gQS8Ouzo6Tb5"
-      },
-      "artists": [
-        {
-          "name": "Chela",
-          "url": "https://open.spotify.com/artist/6hZpNk9z7528toR33pm6xm"
-        },
-        {
-          "name": "10 QUI",
-          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "NEED YOU",
-      "url": "https://open.spotify.com/track/7qfylXOwztCv7Eq3FoIJVe"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
         "name": "Cosas del Destino",
         "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
+        "name": "NEED YOU",
+        "url": "https://open.spotify.com/album/3gQ85Ruy47gQS8Ouzo6Tb5"
+      },
+      "artists": [
+        {
+          "name": "Chela",
+          "url": "https://open.spotify.com/artist/6hZpNk9z7528toR33pm6xm"
+        },
+        {
+          "name": "10 QUI",
+          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "NEED YOU",
+      "url": "https://open.spotify.com/track/7qfylXOwztCv7Eq3FoIJVe"
     },
     {
       "added_at": "2026-11-13 04:59:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,627 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,614 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 44 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 45 | [INOCENTE](https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [INOCENTE](https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn) | 2:19 |
 | 46 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
-| 47 | [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 |
-| 48 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |
+| 47 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |
+| 48 | [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 |
 | 49 | [Cupido](https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Cupido](https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw) | 2:45 |
 | 50 | [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 |
 | 51 | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih) | 4:33 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 55 | [Uma Cabana](https://open.spotify.com/track/5okIfDBy57Ek20m0pJdHcz) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Uma Cabana](https://open.spotify.com/album/054n4OQyd9yxD52XfFa01t) | 2:22 |
 | 56 | [Fica na mesma](https://open.spotify.com/track/3RBdM6NSJR3qbpNiyaLvXQ) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 2:22 |
 | 57 | [Fogo](https://open.spotify.com/track/02bXQT3SjWidxbQzXgsFox) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Fogo](https://open.spotify.com/album/7gCNxpxdgi7cMG7EpbUcPC) | 4:03 |
-| 58 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
-| 59 | [A Noite Toda](https://open.spotify.com/track/6rHhSqNwSOs7H9efSlRVad) | [NoyaNoBeat](https://open.spotify.com/artist/1ZglvfavmB4dk9EqUgcUXU) | [A Noite Toda](https://open.spotify.com/album/317va0OlQTikMVJeEBLLPn) | 2:38 |
+| 58 | [A Noite Toda](https://open.spotify.com/track/6rHhSqNwSOs7H9efSlRVad) | [NoyaNoBeat](https://open.spotify.com/artist/1ZglvfavmB4dk9EqUgcUXU) | [A Noite Toda](https://open.spotify.com/album/317va0OlQTikMVJeEBLLPn) | 2:38 |
+| 59 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
 | 60 | [Me Libertar](https://open.spotify.com/track/23KTvudznf4hiOalPcvm8U) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm) | [Me Libertar](https://open.spotify.com/album/4S9bYoXNeHLFpY1DSu5oxr) | 3:25 |
 
 Snapshot ID: `AAAAAGm7hoOaDqu+oNcpBoW9RkjUMQcq`

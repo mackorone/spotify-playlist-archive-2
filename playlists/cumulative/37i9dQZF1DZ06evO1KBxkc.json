@@ -565,6 +565,32 @@
     },
     {
       "album": {
+        "name": "Dance With Me (feat. elkan) [from GTAVI: The Album]",
+        "url": "https://open.spotify.com/album/1boIq3qTlTNqi31uIqm8ao"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "elkan",
+          "url": "https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148246,
+      "name": "Dance With Me (feat. elkan) [from GTAVI: The Album]",
+      "url": "https://open.spotify.com/track/00LibDaYbw8POv6kHo2R1e"
+    },
+    {
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
       },
@@ -792,7 +818,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"

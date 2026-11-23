@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,611 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,638 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 18 | [1 Nacht Alleen](https://open.spotify.com/track/7tV4oNcFWW85uwKL7JPOTV) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [4us](https://open.spotify.com/album/1d27T3U7K7WixFp0Ja6pLz) | 3:59 |
 | 19 | [De Verzoening](https://open.spotify.com/track/1x9NeDQ4x5rnoO8fznt5TK) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [In Natura](https://open.spotify.com/album/7jAX8P8k12CrGVY796ycDt) | 5:02 |
 | 20 | [Je Veux De L'Amour \- 1990 Remastered Version](https://open.spotify.com/track/1jRIZvUWAojRlMVyxo57VW) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Meisjes](https://open.spotify.com/album/2G5ENoqQU9fn3IHmOLo05e) | 4:35 |
-| 21 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
-| 22 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 |
+| 21 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 |
+| 22 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
 | 23 | [Smoorverliefd](https://open.spotify.com/track/0OFLK8St1n4C9smb4s7CKX) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:17 |
 | 24 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
 | 25 | [Linda](https://open.spotify.com/track/37sOxkeHNES53xCk6mAK8h) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Onderweg](https://open.spotify.com/album/6BXuGfr12xjWvfQoCnW2ej) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 59 | [Mijn Stad](https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Mijn Levenslied](https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme) | 3:11 |
 | 60 | [Pierrot](https://open.spotify.com/track/3vgw77I33tT8m2T0MYbsM2) | [Bonnie St\. Claire](https://open.spotify.com/artist/4241gEqmLtq8iCZybFquzK) | [Favorieten Expres](https://open.spotify.com/album/0tozdNweUVwfbGuQwywE2Q) | 3:14 |
 
-Snapshot ID: `AAAAAD+6c+cZF94+NbasCVbl7hu8OUk2`
+Snapshot ID: `AAAAAJjhhmVolWT80FENXc8undnF9ZDN`

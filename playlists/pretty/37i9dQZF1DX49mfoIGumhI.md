@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,194 likes - 75 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,280 likes - 75 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 30 | [No Me Digan Que Es Muy Tarde](https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Doble Energía](https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU) | 6:52 |
 | 31 | [Me Fallaste](https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Platino: Eddie Santiago](https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s) | 5:03 |
 | 32 | [Te Regalo el Corazon](https://open.spotify.com/track/6aUDFm5EBgpKJnzzIosTla) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Unity](https://open.spotify.com/album/6FYc1CMNHZYfJeN9h0N7xR) | 4:07 |
-| 33 | [Canción](https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 4:51 |
-| 34 | [Seda](https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:11 |
+| 33 | [Seda](https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:11 |
+| 34 | [Canción](https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 4:51 |
 | 35 | [Mi Mundo](https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:44 |
 | 36 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
 | 37 | [A Mi](https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU) | [Cano Estremera](https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ) | [Dueno del Soneo](https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq) | 5:38 |
-| 38 | [Te Vas De Mi](https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 6:38 |
-| 39 | [Aventura](https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:36 |
+| 38 | [Aventura](https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:36 |
+| 39 | [Te Vas De Mi](https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 6:38 |
 | 40 | [Date un Chance](https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:46 |
 | 41 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
 | 42 | [Amame en Camara Lenta](https://open.spotify.com/track/0HVGzXLjVlLLxAmBx6yZFc) | [Cano Estremera](https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ) | [Salvaje! 88](https://open.spotify.com/album/4PiTdf6je5V2m0yP1gxyX1) | 6:29 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 57 | [Sobredosis](https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:09 |
 | 58 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
 | 59 | [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 |
-| 60 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
-| 61 | [Vestida De Blanco](https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2) | [German Carreño Y Su Orquesta](https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY) | [Exitos Bailables](https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo) | 4:42 |
+| 60 | [Vestida De Blanco](https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2) | [German Carreño Y Su Orquesta](https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY) | [Exitos Bailables](https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo) | 4:42 |
+| 61 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 | 62 | [Por Retenerte](https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:47 |
 | 63 | [Si Me Ves Llorar](https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW) | 5:28 |
 | 64 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |

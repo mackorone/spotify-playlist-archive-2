@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year is back. The official playlist for Glastonbury 2027.",
-  "num_followers": 246523,
+  "num_followers": 246761,
   "original_name": "Glastonbury 2027",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-11-18 12:07:40",
       "album": {
+        "name": "White On Blonde",
+        "url": "https://open.spotify.com/album/6BVlA2NLGg3OKYemGJgo2v"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "Say What You Want",
+      "url": "https://open.spotify.com/track/6h6Ccbgvhibl2XQ0SQNR70"
+    },
+    {
+      "added_at": "2026-11-18 12:07:40",
+      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 156398,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
-    },
-    {
-      "added_at": "2026-11-18 12:07:40",
-      "album": {
-        "name": "White On Blonde",
-        "url": "https://open.spotify.com/album/6BVlA2NLGg3OKYemGJgo2v"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "Say What You Want",
-      "url": "https://open.spotify.com/track/6h6Ccbgvhibl2XQ0SQNR70"
     },
     {
       "added_at": "2026-11-18 12:07:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-11-18 12:07:40",
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 352246,
-      "name": "Cirrus",
-      "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
-    },
-    {
-      "added_at": "2026-11-18 12:07:40",
-      "album": {
         "name": "The Womack Sisters",
         "url": "https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 238346,
       "name": "If I Let You",
       "url": "https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM"
+    },
+    {
+      "added_at": "2026-11-18 12:07:40",
+      "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 352246,
+      "name": "Cirrus",
+      "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
     },
     {
       "added_at": "2026-11-18 12:07:40",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-11-18 12:07:40",
       "album": {
-        "name": "FU & UF",
-        "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 159399,
-      "name": "FU & UF",
-      "url": "https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW"
-    },
-    {
-      "added_at": "2026-11-18 12:07:40",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 228266,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
+    },
+    {
+      "added_at": "2026-11-18 12:07:40",
+      "album": {
+        "name": "FU & UF",
+        "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 159399,
+      "name": "FU & UF",
+      "url": "https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW"
     },
     {
       "added_at": "2026-11-18 12:07:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-11-18 12:07:40",
       "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Tennis",
-      "url": "https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR"
-    },
-    {
-      "added_at": "2026-11-18 12:07:40",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+    },
+    {
+      "added_at": "2026-11-18 12:07:40",
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR"
     },
     {
       "added_at": "2026-11-18 12:07:40",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-11-18 12:07:40",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/4Iam3vZMJCMltFkK9mNruw"
-    },
-    {
-      "added_at": "2026-11-18 12:07:40",
-      "album": {
         "name": "3 Feet High and Rising (35th Anniversary)",
         "url": "https://open.spotify.com/album/2VKV04dOyLIEkBz9iaccP7"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2026-11-18 12:07:40",
       "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/4Iam3vZMJCMltFkK9mNruw"
+    },
+    {
+      "added_at": "2026-11-18 12:07:40",
+      "album": {
         "name": "Based on a True Story",
         "url": "https://open.spotify.com/album/2X3zMA6ukFES6FKCcKHwQP"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 437200,
       "name": "Ernie",
       "url": "https://open.spotify.com/track/3vq4rG9kAtCk1QHfUM1fvR"
+    },
+    {
+      "added_at": "2026-11-18 12:07:40",
+      "album": {
+        "name": "Sexistential",
+        "url": "https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 199561,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2U4Yi7LH63EiAf6094S087"
     },
     {
       "added_at": "2026-11-18 12:07:40",
@@ -923,22 +939,6 @@
       "duration_ms": 202545,
       "name": "Only Love (feat. Pa Salieu)",
       "url": "https://open.spotify.com/track/7lmh1ByCWe26Vtkz2w21lC"
-    },
-    {
-      "added_at": "2026-11-18 12:07:40",
-      "album": {
-        "name": "Sexistential",
-        "url": "https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 199561,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/2U4Yi7LH63EiAf6094S087"
     },
     {
       "added_at": "2026-11-18 12:07:40",

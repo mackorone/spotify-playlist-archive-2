@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77366,
+  "num_followers": 77370,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 183085,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "NO SURRENDER (No Retreat)",
         "url": "https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 209828,
       "name": "NO SURRENDER (No Retreat)",
       "url": "https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "High Energy",
-        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 183085,
-      "name": "High Energy",
-      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
       },
@@ -835,26 +815,6 @@
       "duration_ms": 222069,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Lose Your Shit",
-        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
-        }
-      ],
-      "duration_ms": 190094,
-      "name": "Lose Your Shit",
-      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -883,6 +843,62 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Lose Your Shit",
+        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 190094,
+      "name": "Lose Your Shit",
+      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Good Times (feat. ellen lynch)",
         "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 201603,
       "name": "Good Times (feat. ellen lynch)",
       "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Medication",
+        "url": "https://open.spotify.com/album/0yqXYikDslo1kMqOHcQJ9h"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/2xryqZ3f5NMyWVheVwBUj3"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Raving In The Studio (SOTA Remix)",
         "url": "https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH"
       },
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Medication",
-        "url": "https://open.spotify.com/album/0yqXYikDslo1kMqOHcQJ9h"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/2xryqZ3f5NMyWVheVwBUj3"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Holy Moly (VIP)",
         "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
       },
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Feel My Love",
-        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
+        "name": "Come With It",
+        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
       },
       "artists": [
         {
-          "name": "Eskei83",
-          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
         }
       ],
-      "duration_ms": 224827,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
+      "duration_ms": 200228,
+      "name": "Come With It",
+      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
     }
   ],
   "unique_name": "Jump Up!",

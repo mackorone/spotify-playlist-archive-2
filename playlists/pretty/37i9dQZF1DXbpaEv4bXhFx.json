@@ -583,6 +583,22 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
+        "name": "\uc74c\uc545 \ucea0\ud551 \uac08\ub798?",
+        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "\ube57\uc18c\ub9ac - Acoustic",
+      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
         "name": "Without Anyone Knowing",
         "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
-        "name": "\uc74c\uc545 \ucea0\ud551 \uac08\ub798?",
-        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
-      },
-      "artists": [
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
-        }
-      ],
-      "duration_ms": 266999,
-      "name": "\ube57\uc18c\ub9ac - Acoustic",
-      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "Monsoon",
-        "url": "https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 229746,
-      "name": "Monsoon",
-      "url": "https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
         "name": "Try (Journey Epilogue)",
         "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 216026,
       "name": "Try (Journey Epilogue)",
       "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 229746,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "Can We Talk Again",
-        "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 184386,
-      "name": "Can We Talk Again",
-      "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
         "name": "Burn the Memory",
         "url": "https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW"
       },
@@ -827,22 +811,18 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+        "name": "Can We Talk Again",
+        "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
         }
       ],
-      "duration_ms": 164893,
-      "name": "From the Rain (Feat. Ahn Ye Eun)",
-      "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
+      "duration_ms": 184386,
+      "name": "Can We Talk Again",
+      "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -867,6 +847,26 @@
       "duration_ms": 177373,
       "name": "Traces Of Memory (feat. Milena)",
       "url": "https://open.spotify.com/track/03J8HvGINHfQWdKbeCttRP"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "From the Rain (Feat. Ahn Ye Eun)",
+      "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",

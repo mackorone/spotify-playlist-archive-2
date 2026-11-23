@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1450731,
+  "num_followers": 1450744,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
         "name": "Baby I'm-a Want You",
         "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 187000,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
-      },
-      "artists": [
-        {
-          "name": "Randy VanWarmer",
-          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Just When I Needed You Most",
-      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 296462,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+      },
+      "artists": [
+        {
+          "name": "Randy VanWarmer",
+          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Just When I Needed You Most",
+      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 278001,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
         "name": "Desperado (2013 Remaster)",
         "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 213712,
       "name": "Desperado - 2013 Remaster",
       "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 278001,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Sharing The Night Together",
-      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
         "name": "The Long Run (2013 Remaster)",
         "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 295049,
       "name": "I Can't Tell You Why - 2013 Remaster",
       "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Sharing The Night Together",
+      "url": "https://open.spotify.com/track/4M0m4FUdc4wD2guhUHogLF"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Barry Manilow II",
-        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
-    },
-    {
-      "added_at": "2024-05-16 03:08:46",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+        "name": "Barry Manilow II",
+        "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+      "duration_ms": 213333,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -679,6 +663,22 @@
       "duration_ms": 207573,
       "name": "The Things We Do For Love",
       "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
+    },
+    {
+      "added_at": "2024-05-16 03:08:46",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2024-05-16 03:08:46",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-05-16 03:08:46",
       "album": {
-        "name": "Simple Dreams",
-        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Olivia Newton-John",
+        "url": "https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 239399,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+      "duration_ms": 186000,
+      "name": "Hopelessly Devoted To You",
+      "url": "https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b"
     }
   ],
   "unique_name": "70s Love Songs",

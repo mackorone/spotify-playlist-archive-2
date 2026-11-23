@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 146 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 107 likes - 146 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 21 | [Knacks](https://open.spotify.com/track/3ybjum625F3vjuMJZzfQ5T) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:06 |
 | 22 | [GANGSIGNS RMX](https://open.spotify.com/track/4cN8tKCE7AvzuTbTmioUim) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Lelosa](https://open.spotify.com/artist/0RHTQm9f0cO7uay999YTiW), [Yc](https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA), [Yungpalo](https://open.spotify.com/artist/3TOydtHug7dBEddnhGvsJt), [Amo49](https://open.spotify.com/artist/4jttO6E7njGWy1AbSm714O) | [GANGSIGNS RMX](https://open.spotify.com/album/0DAxE9iMBE8hFO4USX7iIA) | 4:02 |
 | 23 | [Party in Billstedt](https://open.spotify.com/track/09MUcej3BQqz4AetYwT3wb) | [Jonas Schulze](https://open.spotify.com/artist/0HoBhjecAH5LB4DrllX0eL), [Flora 040](https://open.spotify.com/artist/7LU7B0LkKHDNijKHC8aczO) | [Party in Billstedt](https://open.spotify.com/album/2MiojjDyzx8gOcJWQ24tqS) | 2:44 |
-| 24 | [Null Acht Fünfzehn](https://open.spotify.com/track/172Qv2y597NyTWgpbk7puc) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:18 |
-| 25 | [KOMM NÄHER](https://open.spotify.com/track/6AyMpyLG4LUHniExd4hRZc) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:18 |
+| 24 | [KOMM NÄHER](https://open.spotify.com/track/6AyMpyLG4LUHniExd4hRZc) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:18 |
+| 25 | [Null Acht Fünfzehn](https://open.spotify.com/track/172Qv2y597NyTWgpbk7puc) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:18 |
 | 26 | [5 Sterne GTA](https://open.spotify.com/track/6ephRAh9PtkgBTvAmTznkS) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:35 |
 | 27 | [Balla Balla](https://open.spotify.com/track/72xyrg5BsT0FDHucoQV8Eh) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Balla Balla](https://open.spotify.com/album/1LbEQDKdxgRZrlHpHqghiG) | 2:25 |
 | 28 | [Scherbenhaus](https://open.spotify.com/track/1ehSSVqtdKXUqFxklpRjRX) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:51 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 66 | [triff mich halben Weg](https://open.spotify.com/track/2BJkO8RkAzyFTVAwB1tjXE) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:36 |
 | 67 | [TONY STARK](https://open.spotify.com/track/3gke8lkcCbMv5D8ab3PMjx) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:04 |
 | 68 | [Pferde Emblem](https://open.spotify.com/track/3RgOhD2UZtQ7qYPzADtzJs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:26 |
-| 69 | [500 Joints](https://open.spotify.com/track/07mqNcvJcPWufsUtowNlTx) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:53 |
-| 70 | [Stadt aus Gold](https://open.spotify.com/track/475jwu5RBpD1F0EcJXB07s) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Stadt aus Gold](https://open.spotify.com/album/6XqupHB3SCyej5CT2ngDGb) | 2:38 |
+| 69 | [Stadt aus Gold](https://open.spotify.com/track/475jwu5RBpD1F0EcJXB07s) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Stadt aus Gold](https://open.spotify.com/album/6XqupHB3SCyej5CT2ngDGb) | 2:38 |
+| 70 | [500 Joints](https://open.spotify.com/track/07mqNcvJcPWufsUtowNlTx) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:53 |
 | 71 | [BACK2BACK](https://open.spotify.com/track/5nFbbEFzQHyduCrWrlb4B0) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:27 |
 | 72 | [Gazo](https://open.spotify.com/track/6OVA3aHCUbRGjSRGBAcFuz) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 1:33 |
 | 73 | [HOMERUN](https://open.spotify.com/track/1EuMOnjaKu5mK9sGmTuMIV) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:46 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 98 | [GRILL ROYAL](https://open.spotify.com/track/7jJR5j9jZd8ELDph3B26gT) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 2:15 |
 | 99 | [WHY](https://open.spotify.com/track/72tfgwu0AurwnMyhpxOK4c) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:20 |
 | 100 | [FRONTPAGE](https://open.spotify.com/track/7fb3D6aVEIU6P5L6J8oUxQ) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [idolinjo](https://open.spotify.com/artist/7slJ8mgbVwvyPEzQMJ5qYO) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:55 |
-| 101 | [Kein Student](https://open.spotify.com/track/1TMz6AxsBdXni4dnPiDn0S) | [Lugatti & 9ine](https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie) | [Bis Hierher](https://open.spotify.com/album/6AuAIsbkZUFcASEPVG744R) | 2:13 |
-| 102 | [fast schon frei](https://open.spotify.com/track/6MYE0gOvIj9PjJHdsCgRBw) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [Lolito](https://open.spotify.com/artist/76LT1zhDz5oUDEwc8RQmBm) | [fast schon frei](https://open.spotify.com/album/4PXceGxLxyso7XLQw2oB3h) | 3:29 |
+| 101 | [fast schon frei](https://open.spotify.com/track/6MYE0gOvIj9PjJHdsCgRBw) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [Lolito](https://open.spotify.com/artist/76LT1zhDz5oUDEwc8RQmBm) | [fast schon frei](https://open.spotify.com/album/4PXceGxLxyso7XLQw2oB3h) | 3:29 |
+| 102 | [Kein Student](https://open.spotify.com/track/1TMz6AxsBdXni4dnPiDn0S) | [Lugatti & 9ine](https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie) | [Bis Hierher](https://open.spotify.com/album/6AuAIsbkZUFcASEPVG744R) | 2:13 |
 | 103 | [HATER](https://open.spotify.com/track/4khKHse9TmZ8fGs5aUyAZg) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 3:10 |
 | 104 | [RIPPED JEANS](https://open.spotify.com/track/1KxLdkhwgYyFX65BjoL6lH) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:22 |
 | 105 | [birds](https://open.spotify.com/track/3aTBITPIwTfsqI8y1dbwOj) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [birds](https://open.spotify.com/album/5c8ZviKZol2R0Ce2h5uO33) | 2:14 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 145 | [prelude german dream](https://open.spotify.com/track/01evqoqXak7CRQfusYyKff) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:28 |
 | 146 | [prelude girls night](https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:14 |
 
-Snapshot ID: `AciTDAAAAAD7BF+Y+dhXtGO5MqlLfKFA`
+Snapshot ID: `AciY6AAAAADdmpGLDt/CCzul+5AN7JA9`

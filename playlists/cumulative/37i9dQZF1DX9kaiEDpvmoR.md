@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-663 songs - 1 day 15 hr 13 min
+664 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Fortfarande vi](https://open.spotify.com/track/4RXAKqPueNdZbqC18wP2lG) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Fortfarande vi](https://open.spotify.com/album/7DPAKW6DID1AIeDkKnKZ4q) | 2:51 | 2026-06-04 | 2026-06-16 |
 | [Fredagskvällsblues](https://open.spotify.com/track/0VGSiDMjJOHLbEaOMba2IW) | [Anastasía](https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Fredagskvällsblues](https://open.spotify.com/album/4nwPui9AD6M1OAJoIf2Ifn) | 4:03 | 2026-03-26 | 2026-06-02 |
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2024-06-27 | 2025-04-04 |
+| [Fria fåglar i ett fritt land \- Version:Slugger](https://open.spotify.com/track/3JxemfbC44OELxV9EJO11f) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Fria fåglar i ett fritt land \(Version:Slugger\)](https://open.spotify.com/album/10axw9EeWCRx8EGcvXzFmP) | 5:32 | 2026-11-19 |  |
 | [Från landet](https://open.spotify.com/track/1CGGrztimeQFtsmEVk9GFE) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [Från landet](https://open.spotify.com/album/2Y5L1zs2PSBAHT0t86EFCY) | 2:59 | 2026-03-05 | 2026-05-08 |
 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 | 2025-09-03 |
 | [Född i Gävle](https://open.spotify.com/track/6jqkhohvJNvxUvfxnY4JfL) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [Född i Gävle](https://open.spotify.com/album/2vC9ENn7GqKUYXaRhj3BxI) | 2:54 | 2026-02-19 | 2026-04-17 |
@@ -434,7 +435,7 @@
 | [Något vi behöver](https://open.spotify.com/track/7xqxpjGvMlMYc5Cf4WCqaU) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Just när du trodde allt var över](https://open.spotify.com/album/6BFhRkDiD2KnD8Iv6N4yC2) | 3:52 | 2026-09-17 |  |
 | [Nånting är off](https://open.spotify.com/track/7aDxaG7G5ZhYtd4ffzq7u4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Nånting är off](https://open.spotify.com/album/7pxlFUyNZZrvJVyQm1xSQK) | 4:31 | 2026-04-16 | 2026-06-04 |
 | [Nöd och lust](https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Nöd och lust](https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP) | 2:51 | 2025-06-05 | 2025-09-26 |
-| [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 | 2026-04-09 |  |
+| [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 | 2026-04-09 | 2026-11-23 |
 | [Okie From Muskogee](https://open.spotify.com/track/4Z9ToMQNS4J2MPIQgmItMU) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Sommarkort](https://open.spotify.com/album/7qWuV2Fbd7Lsg11p49gZvM) | 3:14 | 2026-06-25 | 2026-09-21 |
 | [Older](https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Older \(From the TV series ”Tystnaden”\)](https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF) | 3:34 | 2025-11-06 | 2026-07-03 |
 | [Om igen](https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Om igen](https://open.spotify.com/album/1CVTxlicj7olEclcGV7HUD) | 3:01 | 2025-04-24 | 2025-08-08 |

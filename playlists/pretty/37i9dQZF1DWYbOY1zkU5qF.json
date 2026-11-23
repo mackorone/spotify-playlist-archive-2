@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 266400,
+  "num_followers": 266454,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Hace Tanto Bien (En Vivo)",
-        "url": "https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh"
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T"
       },
       "artists": [
         {
-          "name": "Mo Rivas",
-          "url": "https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz"
-        },
-        {
-          "name": "Carlos Law",
-          "url": "https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD"
+          "name": "Carlo Gless",
+          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
         }
       ],
-      "duration_ms": 188789,
-      "name": "Me Hace Tanto Bien - En Vivo",
-      "url": "https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J"
+      "duration_ms": 134612,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -423,18 +419,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T"
+        "name": "Me Hace Tanto Bien (En Vivo)",
+        "url": "https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh"
       },
       "artists": [
         {
-          "name": "Carlo Gless",
-          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
+          "name": "Mo Rivas",
+          "url": "https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz"
+        },
+        {
+          "name": "Carlos Law",
+          "url": "https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD"
         }
       ],
-      "duration_ms": 134612,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY"
+      "duration_ms": 188789,
+      "name": "Me Hace Tanto Bien - En Vivo",
+      "url": "https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 149292,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "No Bailes Sola (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 189920,
       "name": "No Bailes Sola - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 149292,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -883,8 +883,8 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amigos con derechos",
-        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
+        "name": "Un a\u00f1o",
+        "url": "https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 160237,
-      "name": "Amigos con derechos",
-      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
+      "duration_ms": 149958,
+      "name": "Un a\u00f1o",
+      "url": "https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -963,8 +963,8 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Un a\u00f1o",
-        "url": "https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe"
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
       },
       "artists": [
         {
@@ -972,9 +972,25 @@
           "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 149958,
-      "name": "Un a\u00f1o",
-      "url": "https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq"
+      "duration_ms": 160237,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil"
+      },
+      "artists": [
+        {
+          "name": "Jaime Kohen",
+          "url": "https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l"
+        }
+      ],
+      "duration_ms": 218722,
+      "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 167710,
       "name": "Otro trago",
       "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil"
-      },
-      "artists": [
-        {
-          "name": "Jaime Kohen",
-          "url": "https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l"
-        }
-      ],
-      "duration_ms": 218722,
-      "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "A Donde Vamos A Parar",
-        "url": "https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 263750,
-      "name": "A Donde Vamos A Parar",
-      "url": "https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Ahora Te Puedes Marchar",
         "url": "https://open.spotify.com/album/5p1mQTOb5eZf9bXZIqGhxv"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 223421,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/7x6WmmLi750YvutUqhwrs4"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "A Donde Vamos A Parar",
+        "url": "https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 263750,
+      "name": "A Donde Vamos A Parar",
+      "url": "https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Viral Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
-      },
-      "artists": [
-        {
-          "name": "Reggaeton Ac\u00fastico",
-          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
       },
@@ -1311,22 +1295,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Covers, Demos y Otras Travesuras de Blanco",
-        "url": "https://open.spotify.com/album/4VQapZIWdrrXDMCJw0zZCT"
+        "name": "La Nave del Olvido",
+        "url": "https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 215931,
-      "name": "El Amor Que Me Ten\u00eda - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6mt72Dsl80Q69kREndCnk5"
+      "duration_ms": 175208,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV"
+      },
+      "artists": [
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        }
+      ],
+      "duration_ms": 196292,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
     }
   ],
   "unique_name": "Covers Ac\u00fasticos",

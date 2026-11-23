@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120865,
+      "name": "AHH YEA",
+      "url": "https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI"
+    },
+    {
+      "album": {
         "name": "Trap Ye Season 2",
         "url": "https://open.spotify.com/album/7w2kc9SJxQlMXORfY2mrpM"
       },
@@ -226,7 +244,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"

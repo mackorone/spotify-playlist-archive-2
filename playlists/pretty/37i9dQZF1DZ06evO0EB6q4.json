@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 270599,
+  "num_followers": 270632,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADp9gg3rvUeHyjiaTOvu1u4",
+  "snapshot_id": "awDfAAAAAAA5TA3yzzIn65BoYdvynA5Y",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Tuve Tanto",
-        "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Nunca Tuve Tanto",
-      "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 246000,
       "name": "Los No Tan Tristes",
       "url": "https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Tuve Tanto",
+        "url": "https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Nunca Tuve Tanto",
+      "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pienses Que Me Fui",
-        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "No Pienses Que Me Fui",
-      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -707,22 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
+        "name": "No Pienses Que Me Fui",
+        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 198280,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
+      "duration_ms": 150186,
+      "name": "No Pienses Que Me Fui",
+      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
     },
     {
       "added_at": null,
@@ -747,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pelinegra",
         "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 217739,
       "name": "Pelinegra",
       "url": "https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRAGO #1 LOLOLO",
         "url": "https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8"
       },
@@ -947,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/1sQnY2igNXvn9riKSlWfxA"
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
       },
       "artists": [
         {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        },
-        {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 160703,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5o32j88I290Oi9S6DalgPr"
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
     },
     {
       "added_at": null,
@@ -991,6 +971,26 @@
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/1sQnY2igNXvn9riKSlWfxA"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 160703,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5o32j88I290Oi9S6DalgPr"
     },
     {
       "added_at": null,

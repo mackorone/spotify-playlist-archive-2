@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2490098,
+  "num_followers": 2490061,
   "original_name": "Heavy Workout",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-07-17 04:01:33",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
-    },
-    {
-      "added_at": "2026-07-17 04:01:33",
-      "album": {
         "name": "End of You",
         "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
+    },
+    {
+      "added_at": "2026-07-17 04:01:33",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2026-07-17 04:01:33",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-17 04:01:33",
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 206903,
-      "name": "Jekyll and Hyde",
-      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
-    },
-    {
-      "added_at": "2026-07-17 04:01:33",
-      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 321161,
       "name": "Until the World Goes Cold",
       "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
+    },
+    {
+      "added_at": "2026-07-17 04:01:33",
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
     },
     {
       "added_at": "2026-07-17 04:01:33",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-07-17 04:01:33",
       "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
-      },
-      "artists": [
-        {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
-        }
-      ],
-      "duration_ms": 250793,
-      "name": "Judas",
-      "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
-    },
-    {
-      "added_at": "2026-07-17 04:01:33",
-      "album": {
         "name": "Nightmare Tripping",
         "url": "https://open.spotify.com/album/5PrXYFUyJMPvpGLFg1cqOe"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2026-07-17 04:01:33",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
         }
       ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
+      "duration_ms": 250793,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8"
     },
     {
       "added_at": "2026-07-17 04:01:33",
@@ -1187,6 +1171,22 @@
       "duration_ms": 210706,
       "name": "Asking for It",
       "url": "https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4"
+    },
+    {
+      "added_at": "2026-07-17 04:01:33",
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "added_at": "2026-07-17 04:01:33",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-07-17 04:01:33",
       "album": {
-        "name": "Angel Wings",
-        "url": "https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 232874,
-      "name": "Angel Wings",
-      "url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp"
-    },
-    {
-      "added_at": "2026-07-17 04:01:33",
-      "album": {
         "name": "CARNAL",
         "url": "https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH"
+    },
+    {
+      "added_at": "2026-07-17 04:01:33",
+      "album": {
+        "name": "Angel Wings",
+        "url": "https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 232874,
+      "name": "Angel Wings",
+      "url": "https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp"
     },
     {
       "added_at": "2026-07-17 04:01:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-07-17 04:01:33",
       "album": {
-        "name": "Drag Me",
-        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 186237,
-      "name": "Drag Me",
-      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
-    },
-    {
-      "added_at": "2026-07-17 04:01:33",
-      "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 251505,
       "name": "Blunt Force Blues",
       "url": "https://open.spotify.com/track/2k5xRkoaO5NGKzDY1mmbS3"
+    },
+    {
+      "added_at": "2026-07-17 04:01:33",
+      "album": {
+        "name": "Drag Me",
+        "url": "https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 186237,
+      "name": "Drag Me",
+      "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
     },
     {
       "added_at": "2026-07-17 04:01:33",

@@ -1,6 +1,6 @@
 {
   "description": "A  blend of J-pop to soundtrack your perfect matcha moment.",
-  "num_followers": 32094,
+  "num_followers": 32144,
   "original_name": "Matcha J-Pop",
   "owner": {
     "name": "Spotify",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-08-24 02:06:48",
       "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+    },
+    {
+      "added_at": "2026-08-24 02:06:48",
+      "album": {
         "name": "THANK YOU BLUE",
         "url": "https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql"
       },
@@ -1271,34 +1287,18 @@
     {
       "added_at": "2026-08-24 02:06:48",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "SUDA MASAKI",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-    },
-    {
-      "added_at": "2026-08-24 02:06:48",
-      "album": {
-        "name": "\u30a2\u30f3\u30b5\u30fc\u30d1\u30ec\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/4kNlMuuyicf74Vn0b74Jys"
-      },
-      "artists": [
-        {
-          "name": "sumika",
-          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/6IEqiEgTQn4FwE0seKXFZO"
+      "duration_ms": 223640,
+      "name": "\u307e\u3061\u304c\u3044\u3055\u304c\u3057",
+      "url": "https://open.spotify.com/track/55Ww4Pa1iIQMhh0MLMetjo"
     },
     {
       "added_at": "2026-08-24 02:06:48",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-08-24 02:06:48",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B"
+        "name": "\u30a2\u30f3\u30b5\u30fc\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/4kNlMuuyicf74Vn0b74Jys"
       },
       "artists": [
         {
-          "name": "SUDA MASAKI",
-          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
         }
       ],
-      "duration_ms": 223640,
-      "name": "\u307e\u3061\u304c\u3044\u3055\u304c\u3057",
-      "url": "https://open.spotify.com/track/55Ww4Pa1iIQMhh0MLMetjo"
+      "duration_ms": 250800,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6IEqiEgTQn4FwE0seKXFZO"
     },
     {
       "added_at": "2026-08-24 02:06:48",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-24 02:06:48",
       "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 193012,
-      "name": "Stand by me, Stand by you.",
-      "url": "https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh"
-    },
-    {
-      "added_at": "2026-08-24 02:06:48",
-      "album": {
         "name": "First Message",
         "url": "https://open.spotify.com/album/4kKWJldQVEEeXIBIStjReI"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 279013,
       "name": "\u4e09\u65e5\u6708",
       "url": "https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa"
+    },
+    {
+      "added_at": "2026-08-24 02:06:48",
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 193012,
+      "name": "Stand by me, Stand by you.",
+      "url": "https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh"
     },
     {
       "added_at": "2026-08-24 02:06:48",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-08-24 02:06:48",
       "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 294493,
+      "name": "Plastic Love",
+      "url": "https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq"
+    },
+    {
+      "added_at": "2026-08-24 02:06:48",
+      "album": {
         "name": "1991",
         "url": "https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 305640,
       "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/144pIQC3mpmUkZXMt8fIwb"
-    },
-    {
-      "added_at": "2026-08-24 02:06:48",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 294493,
-      "name": "Plastic Love",
-      "url": "https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq"
     },
     {
       "added_at": "2026-08-24 02:06:48",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-08-24 02:06:48",
       "album": {
+        "name": "SENTIMENTALovers",
+        "url": "https://open.spotify.com/album/12H8S3cARLfYIQ3dSNKIUA"
+      },
+      "artists": [
+        {
+          "name": "Ken Hirai",
+          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
+        }
+      ],
+      "duration_ms": 343240,
+      "name": "\u77b3\u3092\u3068\u3058\u3066",
+      "url": "https://open.spotify.com/track/0JAQpusQK6R7w07s0UgcU3"
+    },
+    {
+      "added_at": "2026-08-24 02:06:48",
+      "album": {
         "name": "THE KIDS",
         "url": "https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2026-08-24 02:06:48",
       "album": {
-        "name": "SENTIMENTALovers",
-        "url": "https://open.spotify.com/album/12H8S3cARLfYIQ3dSNKIUA"
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
       },
       "artists": [
         {
-          "name": "Ken Hirai",
-          "url": "https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc"
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
         }
       ],
-      "duration_ms": 343240,
-      "name": "\u77b3\u3092\u3068\u3058\u3066",
-      "url": "https://open.spotify.com/track/0JAQpusQK6R7w07s0UgcU3"
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2026-08-24 02:06:48",
@@ -1603,22 +1619,6 @@
       "duration_ms": 248444,
       "name": "\u7fa4\u9752",
       "url": "https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA"
-    },
-    {
-      "added_at": "2026-08-24 02:06:48",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2026-08-24 02:06:48",

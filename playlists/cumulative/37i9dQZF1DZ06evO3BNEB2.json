@@ -619,6 +619,28 @@
     },
     {
       "album": {
+        "name": "Catch a Vibe (Or a Bullet)",
+        "url": "https://open.spotify.com/album/3rrKnllNo8TCHVXXZ5DvvI"
+      },
+      "artists": [
+        {
+          "name": "Young Chris",
+          "url": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Fly Talk",
+      "url": "https://open.spotify.com/track/3CVn8sNyOpTg9DUFw6UdOG"
+    },
+    {
+      "album": {
         "name": "Pray for Paris",
         "url": "https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY"
       },
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 222068,
       "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
       "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"

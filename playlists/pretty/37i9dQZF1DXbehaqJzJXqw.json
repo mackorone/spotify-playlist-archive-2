@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 723454,
+  "num_followers": 723549,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
+        "name": "Miss Kitt To You",
+        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Je Cherche Un Homme",
+      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
         "name": "I Could Be Happy",
         "url": "https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 211973,
       "name": "La Pluie Et Le Beau Temps",
       "url": "https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
-        "name": "Miss Kitt To You",
-        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Je Cherche Un Homme",
-      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 217880,
       "name": "Le Temps Qui Passe",
       "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Quelqu'un M'a Dit",
-        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Um Rio",
         "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 254693,
       "name": "\u00c0 quoi \u00e7a sert l'amour",
       "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Quelqu'un M'a Dit",
+        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "No. 8",
-        "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
-      },
-      "artists": [
-        {
-          "name": "Juliette Gr\u00e9co",
-          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "J'ai Deux Amours",
         "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 201013,
       "name": "De Temps en Temps",
       "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "No. 8",
+        "url": "https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM"
+      },
+      "artists": [
+        {
+          "name": "Juliette Gr\u00e9co",
+          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
+        }
+      ],
+      "duration_ms": 149986,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Quelqu'un M'a Dit",
-        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "La noy\u00e9e",
-      "url": "https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Jamais seule",
         "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 187280,
       "name": "Aim\u00e9",
       "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Quelqu'un M'a Dit",
+        "url": "https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "La noy\u00e9e",
+      "url": "https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
-        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
+        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Enzo Enzo",
-        "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
+        "name": "Deux",
+        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
         }
       ],
-      "duration_ms": 208200,
-      "name": "Les yeux ouverts",
-      "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
+      "duration_ms": 247333,
+      "name": "Juste quelqu'un de bien",
+      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -1375,8 +1375,8 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Deux",
-        "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
+        "name": "Enzo Enzo",
+        "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
       },
       "artists": [
         {
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
         }
       ],
-      "duration_ms": 247333,
-      "name": "Juste quelqu'un de bien",
-      "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
+      "duration_ms": 208200,
+      "name": "Les yeux ouverts",
+      "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
     },
     {
       "added_at": "2026-06-30 12:26:56",

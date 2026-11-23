@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 315448,
       "name": "BATTICUORE",
       "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245197,
+      "name": "DORMI",
+      "url": "https://open.spotify.com/track/1tz5O2oSaLOSRp9tOBkqLN"
+    },
+    {
+      "album": {
         "name": "Risveglio",
         "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 328666,
       "name": "Enter Exit",
       "url": "https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc"
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 170226,
       "name": "Stills",
       "url": "https://open.spotify.com/track/5rz9ksywcg1lSiPjGNUxle"

@@ -4,7 +4,7 @@
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 36 min
+76 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bingle Bingle \(빙글빙글\)](https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:00 | 2022-07-10 |  |
 | [Blue](https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:53 | 2022-07-10 |  |
 | [Cafe](https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:39 | 2022-07-10 |  |
-| [Dirty Cash](https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:14 | 2022-08-17 |  |
+| [Dirty Cash](https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:14 | 2022-08-17 | 2026-11-23 |
 | [Ego](https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:25 | 2022-07-11 |  |
 | [EYES, NOSE, LIPS \- Live](https://open.spotify.com/track/6nrgWCby7MpEpbcRJxRRZ9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG10 THE CONCERT 0.TO.10 FINAL IN SEOUL](https://open.spotify.com/album/6ep57xzNzxOuSCIw4iEfIv) | 4:45 | 2022-07-23 | 2022-10-06 |
 | [Fantastic Baby](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:50 | 2022-07-16 |  |
@@ -37,6 +37,7 @@
 | [Forever With U \(Feat\. Park Bom\)](https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [Bigbang 03](https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH) | 3:38 | 2022-07-10 |  |
 | [FXXK IT](https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:51 | 2022-07-10 | 2025-01-27 |
 | [Gara Gara Go!!](https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [KPOP \- JPOP Made In Korea Vol\. 2](https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl) | 3:18 | 2022-07-10 | 2026-02-11 |
+| [GiiiRIP](https://open.spotify.com/track/4i115Ijs5MbfNBYpNsM0Sq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [GiiiRIP](https://open.spotify.com/album/4569jF2yYaWMvXuj3dDvFD) | 2:44 | 2026-11-23 |  |
 | [Hands Up](https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:57 | 2022-07-10 |  |
 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 | 2022-07-10 |  |
 | [Haru Haru \- Acoustic Version](https://open.spotify.com/track/73uroRA4ybShIFywRma50p) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 4:24 | 2026-08-26 | 2026-08-28 |

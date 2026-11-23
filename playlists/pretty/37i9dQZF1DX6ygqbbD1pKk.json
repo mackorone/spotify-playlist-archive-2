@@ -1,6 +1,6 @@
 {
   "description": "Todos tus \u00e9xitos favoritos de Disney. Lilo & Stitch, Moana 2, Encanto y mucho m\u00e1s!",
-  "num_followers": 217119,
+  "num_followers": 217133,
   "original_name": "Disney Hits Latino",
   "owner": {
     "name": "Spotify",
@@ -690,6 +690,10 @@
         {
           "name": "Shakira",
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 196853,

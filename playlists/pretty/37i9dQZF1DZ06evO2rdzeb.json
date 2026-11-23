@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 20844,
+  "num_followers": 20866,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAACWlsXSu4Fc9aXYXrL38wK3",
+  "snapshot_id": "awDfAAAAAADYtXuTDl2d9RyA/OYwUN1R",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 128853,
-      "name": "Jonathan",
-      "url": "https://open.spotify.com/track/2516lVkDpm86amjTlKVIMC"
+      "duration_ms": 157440,
+      "name": "Indiana",
+      "url": "https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Indiana",
-      "url": "https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD"
+      "duration_ms": 128853,
+      "name": "Jonathan",
+      "url": "https://open.spotify.com/track/2516lVkDpm86amjTlKVIMC"
     },
     {
       "added_at": null,

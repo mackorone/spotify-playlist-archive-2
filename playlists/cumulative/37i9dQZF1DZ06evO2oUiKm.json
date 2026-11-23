@@ -50,7 +50,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 220972,
       "name": "A Window",
       "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 244804,
       "name": "Hero",
       "url": "https://open.spotify.com/track/2sgqTwYVgjQT3scjsefjDP"
@@ -1327,6 +1327,32 @@
     },
     {
       "album": {
+        "name": "Forbidden",
+        "url": "https://open.spotify.com/album/7IRsmb8NBHNvFYVW0NZkbV"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/7akYphvbRlVJ7dWKOAeTus"
+    },
+    {
+      "album": {
         "name": "Ocean In The Desert",
         "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
       },
@@ -1490,7 +1516,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 200187,
       "name": "Push and Pull",
       "url": "https://open.spotify.com/track/1R00ByLf1CY6EagkfPylxp"
@@ -1962,7 +1988,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 192873,
       "name": "Together (Soundtrack from Year in Search)",
       "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
@@ -2258,7 +2284,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 41066,
       "name": "Why - Interlude",
       "url": "https://open.spotify.com/track/6ZKb3UNC7IvVCtYzT3vS3q"

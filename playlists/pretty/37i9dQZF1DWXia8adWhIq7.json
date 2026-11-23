@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: BENITO",
-  "num_followers": 113192,
+  "num_followers": 113201,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "A Minha Raz\u00e3o (Reason I Sing)",
-        "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 273552,
-      "name": "A Minha Raz\u00e3o (Reason I Sing)",
-      "url": "https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
         "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 238826,
       "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
       "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "A Minha Raz\u00e3o (Reason I Sing)",
+        "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 273552,
+      "name": "A Minha Raz\u00e3o (Reason I Sing)",
+      "url": "https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -395,22 +395,18 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "O Reino Vem",
-        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 198928,
-      "name": "O Reino Vem",
-      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -435,18 +431,22 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+        "name": "O Reino Vem",
+        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
         }
       ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
+      "duration_ms": 198928,
+      "name": "O Reino Vem",
+      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "\u00c9 Mais Que Uma Honra",
-        "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        }
-      ],
-      "duration_ms": 296058,
-      "name": "\u00c9 Mais Que Uma Honra",
-      "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Teu Amor Me Consome",
         "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "\u00c9 Mais Que Uma Honra",
+        "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        }
+      ],
+      "duration_ms": 296058,
+      "name": "\u00c9 Mais Que Uma Honra",
+      "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
+        "name": "Tens o Meu Sim",
+        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
+      },
+      "artists": [
+        {
+          "name": "Amanda Dutra",
+          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Tens o Meu Sim",
+      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
         "name": "A Melhor Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 230727,
       "name": "A Melhor Hist\u00f3ria",
       "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "Tens o Meu Sim",
-        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
-      },
-      "artists": [
-        {
-          "name": "Amanda Dutra",
-          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Tens o Meu Sim",
-      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
+        "name": "Ousado Amor (Releitura)",
+        "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 224032,
+      "name": "Ousado Amor (Releitura)",
+      "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 138080,
       "name": "Sonhar",
       "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "Ousado Amor (Releitura)",
-        "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 224032,
-      "name": "Ousado Amor (Releitura)",
-      "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -883,8 +883,8 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Te Encontrei",
-        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 184252,
-      "name": "Te Encontrei",
-      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Todo Meu Viver (Ac\u00fastico) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
+        "name": "Te Encontrei",
+        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 184252,
+      "name": "Te Encontrei",
+      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
         "name": "Voltar",
         "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
       },
@@ -979,8 +979,8 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Pra Onde Vou Correr",
-        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
         }
       ],
-      "duration_ms": 215125,
-      "name": "Pra Onde Vou Correr",
-      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Enganoso Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Enganoso Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Ponto de Paz",
         "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 180864,
       "name": "Ponto de Paz",
       "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Enganoso Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Enganoso Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Seu Amor",
-        "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
-      },
-      "artists": [
-        {
-          "name": "Jana Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Seu Amor",
-      "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 155789,
       "name": "Amor Perfeito",
       "url": "https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
+      },
+      "artists": [
+        {
+          "name": "Jana Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Me Leva Al\u00e9m",
         "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
@@ -1267,50 +1251,18 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Um Conselho",
-        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
       "artists": [
         {
-          "name": "Milena Pina",
-          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
         }
       ],
-      "duration_ms": 147810,
-      "name": "Um Conselho",
-      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "At\u00e9 Sermos Um",
-        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 178446,
-      "name": "At\u00e9 Sermos Um",
-      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -1331,6 +1283,54 @@
       "duration_ms": 168461,
       "name": "Deixar para Tr\u00e1s",
       "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Um Conselho",
+        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
+      },
+      "artists": [
+        {
+          "name": "Milena Pina",
+          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+        }
+      ],
+      "duration_ms": 147810,
+      "name": "Um Conselho",
+      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "At\u00e9 Sermos Um",
+        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 178446,
+      "name": "At\u00e9 Sermos Um",
+      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
     },
     {
       "added_at": "2026-10-16 03:01:01",

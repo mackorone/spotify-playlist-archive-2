@@ -4,7 +4,7 @@
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 14 min
+85 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [My Baby \(feat\. Ayra Starr\)](https://open.spotify.com/track/3riCAuMBWoWzNdfToamrue) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 3:10 | 2025-08-13 |  |
 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 | 2025-08-13 | 2026-08-16 |
 | [Need You](https://open.spotify.com/track/6p0u1dLtzN6F2N0pPhP2JC) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 3:17 | 2025-08-13 | 2025-10-19 |
-| [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2025-08-13 |  |
+| [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2025-08-13 | 2026-11-23 |
+| [Ngozi](https://open.spotify.com/track/6KVItYKVDqKlbxT04G9mfK) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench To Triumph](https://open.spotify.com/album/1SbPrtfItpNGsV80UMHJ6U) | 3:41 | 2026-11-23 |  |
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2025-08-13 |  |
 | [On A Low](https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [On A Low](https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs) | 2:16 | 2025-12-07 | 2026-06-14 |
 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/3ES1fBQACydIODlZmQS359) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Chapter X](https://open.spotify.com/album/7u1jkHWcxmUL7lbNDNyMRY) | 3:25 | 2025-08-13 | 2026-03-09 |

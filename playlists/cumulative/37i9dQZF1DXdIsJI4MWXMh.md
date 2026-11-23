@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-195 songs - 12 hr 48 min
+197 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bilú Bilú](https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Bilú Bilú](https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW) | 3:49 | 2023-09-15 |  |
 | [Bonita](https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Bonita](https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7) | 3:05 | 2024-12-06 |  |
 | [Burbujas de Amor](https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl) | [Los Vaqueros Del Sur](https://open.spotify.com/artist/0r8NXIbmbXpE6drioTrX5p) | [El Regreso](https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu) | 4:35 | 2024-06-12 | 2025-11-22 |
+| [Bye Bye Bye](https://open.spotify.com/track/1OsDVNWHqW6cCCPPFAYMLD) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Bye Bye Bye](https://open.spotify.com/album/3HybQiBARxXq9r98LJgr4u) | 2:58 | 2026-11-20 |  |
 | [Caballo de Patas Blancas](https://open.spotify.com/track/5J81nFtP3zPfcY1u8XIbKy) | [Eliseo Guevara](https://open.spotify.com/artist/2elfE5Hl1JQzfrtGNolVEI) | [Le Canto a Mi Pueblo](https://open.spotify.com/album/5BZjYcqsuK3yQITQJY4V47) | 3:28 | 2023-03-03 | 2024-04-19 |
 | [Cantina de Mi Barrio](https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Relatos de Mi Vida](https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g) | 4:24 | 2023-03-03 | 2025-06-03 |
 | [Carretera 3](https://open.spotify.com/track/49l8hG7YAsqY74acHoge2J) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Carretera 3](https://open.spotify.com/album/5ZE9DGRkkY9zFclTXoQW7k) | 5:03 | 2024-10-14 |  |
@@ -44,6 +45,7 @@
 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 | 2023-03-03 | 2024-04-19 |
 | [Con Quien Te Olvido](https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [Hecho y Derecho](https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6) | 3:28 | 2023-03-03 | 2026-02-18 |
 | [Corazón de Piedra](https://open.spotify.com/track/3ZI02Zy37d6aPjezlg57SB) | [Grupo Disparo](https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU) | [Corazón de Piedra](https://open.spotify.com/album/4Yt8mKsNL5Nj56ECUNYIjo) | 3:09 | 2026-09-04 |  |
+| [Cuento de Hadas](https://open.spotify.com/track/2hvbGXOjn30Om5lgAx60Fy) | [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH) | [Cuento de Hadas](https://open.spotify.com/album/3j2guUqN0UrPppKJA0qid9) | 2:59 | 2026-11-20 |  |
 | [Cuidado Que Te Supero](https://open.spotify.com/track/5YpVvlyYpPnLeq5IrREbnx) | [Benja Duarte](https://open.spotify.com/artist/6wKWDl7Gh8rKyDWk7O1P1t) | [Cuidado Que Te Supero](https://open.spotify.com/album/2NAHj2Pxk1nDNPyBIolmd7) | 3:37 | 2026-09-04 |  |
 | [Cómo Dejar de Amarte y Otros](https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 5:16 | 2023-03-03 | 2026-04-02 |
 | [Cómo Quisiera](https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY) | [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH), [Toly Fu](https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH) | [Cómo Quisiera](https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL) | 3:50 | 2025-02-07 | 2026-04-12 |
@@ -104,7 +106,7 @@
 | [La Mesa 20](https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Por una Yegua No Se para la Trilla](https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm) | 3:13 | 2023-03-03 |  |
 | [La Micaela](https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [La Micaela](https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT) | 3:15 | 2025-09-18 | 2026-09-05 |
 | [La Noche Perfecta](https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Noche Perfecta](https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K) | 4:25 | 2023-09-15 |  |
-| [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 | 2023-05-29 |  |
+| [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 | 2023-05-29 | 2026-11-23 |
 | [La Paliza](https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [Pisando Fuerte](https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y) | 3:56 | 2023-03-03 | 2023-09-13 |
 | [La Pareja Ideal](https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos \(Vol\. 3\)](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 4:40 | 2023-03-03 | 2024-04-19 |
 | [La Pololita](https://open.spotify.com/track/4Eyu9MSZ4pb29Y6oLMv01B) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [La Pololita](https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX) | 3:20 | 2023-10-05 |  |
@@ -118,7 +120,7 @@
 | [Las Flores de Tu Florero](https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Éxitos de Antología](https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee) | 2:57 | 2023-03-03 | 2025-12-31 |
 | [Lloviendo Estrellas](https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 4:28 | 2023-03-03 |  |
 | [Lo Que Nunca Fue Tuyo](https://open.spotify.com/track/48bH3xnKLlQmHFZwOlZlrN) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Lucero Salazar](https://open.spotify.com/artist/6wwdjhCsvz48vxftWw6s76) | [Lo Que Nunca Fue Tuyo](https://open.spotify.com/album/57wC5aFqYmDPm5gAitomc0) | 3:05 | 2026-02-19 | 2026-07-31 |
-| [Los Mandados](https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Los Mandados](https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw) | 3:17 | 2026-02-19 |  |
+| [Los Mandados](https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Los Mandados](https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw) | 3:17 | 2026-02-19 | 2026-11-23 |
 | [Los Vampiros](https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Camino al Éxito](https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR) | 3:31 | 2023-03-03 |  |
 | [Lágrimas Frente Al Mar](https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV) | [Los Supercumbieros de Galvarino](https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9) | [Románticos De La Cumbia](https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3) | 4:43 | 2023-03-03 | 2025-08-03 |
 | [Maldita Sea la Primera Vez](https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre Villanos](https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E) | 3:40 | 2023-03-03 |  |

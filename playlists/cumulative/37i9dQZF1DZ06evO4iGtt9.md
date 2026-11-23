@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-133 songs - 7 hr 18 min
+134 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,9 +102,10 @@
 | [No Pressure](https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Pressure](https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8) | 2:57 | 2022-03-12 | 2024-11-16 |
 | [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-07 | 2024-07-18 |
 | [Number One](https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:12 | 2022-01-01 | 2024-03-13 |
-| [ODESHI](https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6) | [ODESHI](https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL) | 3:12 | 2025-02-15 |  |
+| [ODESHI](https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6) | [ODESHI](https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL) | 3:12 | 2025-02-15 | 2026-11-23 |
 | [Ogede](https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Gehn Gehn Album](https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS) | 3:27 | 2022-09-10 |  |
 | [Ogologomma](https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:05 | 2021-12-28 |  |
+| [OKO](https://open.spotify.com/track/4m5Q2lkXd4TUfWAURQogaO) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [OKO](https://open.spotify.com/album/6DkJKZewUESC1CwDgDQo8G) | 3:07 | 2026-11-23 |  |
 | [One Chance \(feat\. Timaya\)](https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:04 | 2021-12-28 | 2022-10-13 |
 | [Only God](https://open.spotify.com/track/2hl9HqcOsnosvepwql12un) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Only God](https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5) | 3:12 | 2026-05-10 |  |
 | [PAY BACK](https://open.spotify.com/track/0FAy1xp1rsxX428vOSuK9X) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:33 | 2024-08-18 | 2024-09-02 |

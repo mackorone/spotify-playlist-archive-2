@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,366 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,380 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 33 | [Esperar En Ti \- En Vivo](https://open.spotify.com/track/0u8VsRafqJ4kXcdl8iDtBi) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Cerca De Ti](https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM) | 4:37 |
 | 34 | [Mi Jesús, Mi Amado](https://open.spotify.com/track/6Th6d1tXLrROECGQHDaL5x) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 7:23 |
 | 35 | [Mi Entorno](https://open.spotify.com/track/5CUuYGpyh3o9CR8izoLofQ) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:04 |
-| 36 | [Con Manos Vacías \- En Vivo](https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Con Manos Vacías](https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO) | 7:06 |
+| 36 | [Princesas Mágicas \- En Vivo](https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Sencillos](https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5) | 4:39 |
 | 37 | [Cerca De Ti \- En Vivo](https://open.spotify.com/track/6waY2sAiBJzHdmXyKYmr1w) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Cerca De Ti](https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM) | 4:38 |
 | 38 | [Sentado En Su Trono](https://open.spotify.com/track/2pr8QSYZjjDvwRMA8qJaVg) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 5:42 |
-| 39 | [Princesas Mágicas \- En Vivo](https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Sencillos](https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5) | 4:39 |
+| 39 | [Con Manos Vacías \- En Vivo](https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Con Manos Vacías](https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO) | 7:06 |
 | 40 | [Suave Voz \- En Vivo](https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j) | 3:38 |
 | 41 | [Dame Este Monte](https://open.spotify.com/track/5iofrmnxmrcYf2Vm9DrKbn) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Daniel Santoy](https://open.spotify.com/artist/6GJvmXXuwbJUu0HodLbkOJ) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 3:39 |
 | 42 | [Tal Como Soy](https://open.spotify.com/track/6pkcy9PJt40IsyNpd7NV0s) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 7:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Ven, Te Necesito \- En Vivo](https://open.spotify.com/track/3osNQddwrMYWQ1bCvsew62) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 6:09 |
 | 50 | [Que Seas Mi Hogar \(feat\. Reyli Barba\)](https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:28 |
 
-Snapshot ID: `av48AAAAAABpCCkWWE+3AuQpF+Vchhll`
+Snapshot ID: `awDfAAAAAADMMYs3jkuk7J0x9LWgw9x/`

@@ -4,7 +4,7 @@
 
 > This is Papa Roach\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 9 min
+55 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,12 +23,13 @@
 | [Cut The Line \(feat\. Beartooth\)](https://open.spotify.com/track/15kMBHLBO0WeQJmnuSWJYN) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Ego Trip \(Deluxe\)](https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc) | 3:18 | 2026-09-11 |  |
 | [Dead Cell](https://open.spotify.com/track/0Kd96idEL2xXYoSbuvCLfa) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:06 | 2026-09-11 |  |
 | [Dying To Believe](https://open.spotify.com/track/1ZjwhGQSDINyRhYHjK1JQq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:01 | 2026-09-11 |  |
-| [Elevate](https://open.spotify.com/track/7eqTIIO0CB21bY0Born2hw) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:10 | 2026-09-11 |  |
+| [Elevate](https://open.spotify.com/track/7eqTIIO0CB21bY0Born2hw) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:10 | 2026-09-11 | 2026-11-23 |
 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 | 2026-09-11 | 2026-11-20 |
 | [Even If It Kills Me](https://open.spotify.com/track/6344SlEvCmROB1SrFxx1FH) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me \(Reimagined\)](https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc) | 3:32 | 2026-11-20 |  |
 | [Face Everything And Rise](https://open.spotify.com/track/5fgbIxnVT8WTL6PLmF7Aqa) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R\. \(Deluxe Edition\)](https://open.spotify.com/album/0iyr32afjbf1cm82P1yi3T) | 3:10 | 2026-09-11 |  |
 | [Falling Apart](https://open.spotify.com/track/2i32TJpVNQwoOZqUataaKI) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R\. \(Deluxe Edition\)](https://open.spotify.com/album/0iyr32afjbf1cm82P1yi3T) | 3:08 | 2026-09-11 |  |
 | [Feel Like Home](https://open.spotify.com/track/3pNrzf8AlfdEyOVFMObhoK) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:07 | 2026-09-11 | 2026-11-21 |
+| [Feel Like Home](https://open.spotify.com/track/7ib0TdXV4q5JmMoQ5tv2a0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/2uLRTVBlig5yU97RZSSEhV) | 3:10 | 2026-11-23 |  |
 | [Forever](https://open.spotify.com/track/7zQ5nqAKKfk0gtBgV70gyq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/2Aa1nPsSmQpQHjc9VdeGCl) | 4:06 | 2026-09-11 |  |
 | [Getting Away With Murder](https://open.spotify.com/track/1x0AirtLjfVquI0A9iBVep) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/25wlsi7SWD8mFKxaEWGYuL) | 3:11 | 2026-09-11 |  |
 | [Give Me Back My Life](https://open.spotify.com/track/4RNA9mpIOnnCX3cLIkMbiu) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Connection](https://open.spotify.com/album/6x5bHblLrGWaQlH6xLB38V) | 3:58 | 2026-09-11 |  |

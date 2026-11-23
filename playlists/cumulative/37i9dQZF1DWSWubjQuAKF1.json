@@ -6538,7 +6538,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 149760,
       "name": "INSOMNIA",
       "url": "https://open.spotify.com/track/0YUG4BzNIDyoTUDdKsWW5O"
@@ -18780,6 +18780,24 @@
       "duration_ms": 198882,
       "name": "Wyjmij mnie",
       "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
+    },
+    {
+      "album": {
+        "name": "Wykrzycz\u0119",
+        "url": "https://open.spotify.com/album/0ds7DrxR0VOswOsQ6v9o5N"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150702,
+      "name": "Wykrzycz\u0119",
+      "url": "https://open.spotify.com/track/4JEp8d6WuX6J79ONaOinI3"
     },
     {
       "album": {

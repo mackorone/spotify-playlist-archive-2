@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298142,
+  "num_followers": 298134,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 191003,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 160468,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/51SEsgwoNiKu8rcZxQTjo4"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 205000,
       "name": "Following the Sun",
       "url": "https://open.spotify.com/track/2sFbdDiEDpyCdP5nUCuGBm"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
-        "name": "Legendary Love",
-        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -255,26 +255,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 144501,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 199477,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 144501,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 144590,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 253350,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 144590,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -467,26 +467,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Don't Remind Me (with Anderson .Paak)",
-        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 218472,
-      "name": "Don't Remind Me (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Rendez-vous avec toi / Rendez-vous in your arms",
         "url": "https://open.spotify.com/album/2mROGvypd4sVFJ4p8OrGAw"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 183733,
       "name": "Island",
       "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "Don't Remind Me (with Anderson .Paak)",
+        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Meet Me In Love",
-        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 242248,
-      "name": "Meet Me In Love",
-      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Departures & Arrivals: Adventures of Captain Curt",
         "url": "https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 221333,
       "name": "The Power",
       "url": "https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "Meet Me In Love",
+        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 242248,
+      "name": "Meet Me In Love",
+      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI"
-      },
-      "artists": [
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        }
-      ],
-      "duration_ms": 169280,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/2nPXfUVFzIlhN4SokXg6O7"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Coco Bingo",
         "url": "https://open.spotify.com/album/4eJ0GR77R09MNXiz4keg0i"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 166076,
       "name": "Singing Along",
       "url": "https://open.spotify.com/track/0Zxp2eLcd5kDCGn5b9hM5y"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/2nPXfUVFzIlhN4SokXg6O7"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -919,6 +919,26 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
+        "name": "User",
+        "url": "https://open.spotify.com/album/2gXSFG4paZYJa1vCTlJiK2"
+      },
+      "artists": [
+        {
+          "name": "PAMELA",
+          "url": "https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja"
+        },
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 162570,
+      "name": "User",
+      "url": "https://open.spotify.com/track/4dWnkPSvla0bf94ltz5yl3"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
         "name": "You Love Me",
         "url": "https://open.spotify.com/album/0svkRLuuzbdyZIs1yVUl4R"
       },
@@ -1051,6 +1071,30 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
+        "name": "Leave and Stay",
+        "url": "https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU"
+      },
+      "artists": [
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        },
+        {
+          "name": "dezabel",
+          "url": "https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ"
+        },
+        {
+          "name": "Ben Botfield",
+          "url": "https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Leave and Stay",
+      "url": "https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
         "name": "Kicking My Feet",
         "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
       },
@@ -1127,26 +1171,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "User",
-        "url": "https://open.spotify.com/album/2gXSFG4paZYJa1vCTlJiK2"
-      },
-      "artists": [
-        {
-          "name": "PAMELA",
-          "url": "https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja"
-        },
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 162570,
-      "name": "User",
-      "url": "https://open.spotify.com/track/4dWnkPSvla0bf94ltz5yl3"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Slow Tonight",
         "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
-        "name": "Leave and Stay",
-        "url": "https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU"
-      },
-      "artists": [
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        },
-        {
-          "name": "dezabel",
-          "url": "https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ"
-        },
-        {
-          "name": "Ben Botfield",
-          "url": "https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Leave and Stay",
-      "url": "https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg"
     },
     {
       "added_at": "2026-11-20 18:32:10",

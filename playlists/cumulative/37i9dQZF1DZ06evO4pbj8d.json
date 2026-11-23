@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/6R1HT6dVZC8FhJJzcVAecR"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96273,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/40vSSsueyIgxyVe8tXWFIU"
+    },
+    {
+      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -1740,7 +1758,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 149500,
       "name": "STRONG ONES",
       "url": "https://open.spotify.com/track/2ZHO25QseXKr2ip1vuXvOg"

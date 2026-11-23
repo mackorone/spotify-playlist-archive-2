@@ -1,15 +1,47 @@
 {
   "description": "Your daily update of the most played tracks right now - Austria.",
-  "num_followers": 112815,
+  "num_followers": 112811,
   "original_name": "Top 50 - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MpUp8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MpaE0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
@@ -41,87 +73,7 @@
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241562,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 199460,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Merry Christmas Everyone",
         "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
@@ -137,7 +89,7 @@
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -153,23 +105,23 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "FL\u00dcGEL",
-        "url": "https://open.spotify.com/album/3LF1E9zmSNaTntoBM1ujiT"
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 172858,
-      "name": "FL\u00dcGEL",
-      "url": "https://open.spotify.com/track/5LkjTiiR368ZNlIZbCe7yV"
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -185,23 +137,7 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -217,23 +153,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Babydoll",
-        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 178822,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
@@ -249,10 +169,10 @@
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
       "artists": [
         {
@@ -262,13 +182,13 @@
       ],
       "duration_ms": 229638,
       "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt"
       },
       "artists": [
         {
@@ -276,28 +196,112 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 206639,
+      "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+      "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "Shotta's.",
-        "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Season 25",
-          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 142613,
-      "name": "Shotta's.",
-      "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
@@ -317,23 +321,167 @@
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "WAS HAST DU MIT MIR GEMACHT",
-        "url": "https://open.spotify.com/album/02ita9FKgdsCvgXRgIhWZF"
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
       },
       "artists": [
         {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 154693,
-      "name": "WAS HAST DU MIT MIR GEMACHT",
-      "url": "https://open.spotify.com/track/7ez3IUR4Zk7GKVzMcFhsxH"
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 152570,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Ready To Fly",
+        "url": "https://open.spotify.com/album/2cI7OSBaPrcOm9ppZipeJ3"
+      },
+      "artists": [
+        {
+          "name": "Melanie Thornton",
+          "url": "https://open.spotify.com/artist/2apYMRrg5FxN4go0pfsCvf"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Wonderful Dream (Holidays Are Coming) - Radio Version",
+      "url": "https://open.spotify.com/track/0SvD6EdetxVtXei2JhkV4B"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "BLACK (feat. Jazeek, Luciano, THIZZY52, reezy)",
         "url": "https://open.spotify.com/album/0znAfPvrcIevD306b2QHkr"
@@ -377,111 +525,7 @@
       "url": "https://open.spotify.com/track/4zd9RlMM0M43UE0ZoRFH6h"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "My Body Isn't Ready",
-        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 217380,
-      "name": "My Body Isn't Ready",
-      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Go Easy (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Go Easy (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Happy Xmas (War Is Over) - Remastered 2010",
-      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -497,203 +541,75 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 121526,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 142200,
-      "name": "Movin' To The Sun",
-      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "Ski Aggu Musik",
-        "url": "https://open.spotify.com/album/0R4eDXE5VmE6T7KirQXSBz"
+        "name": "The Works (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV"
       },
       "artists": [
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Ericson",
-          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 128735,
-      "name": "Verschwommen",
-      "url": "https://open.spotify.com/track/31vk09XYn5aKoz54RQPTMk"
+      "duration_ms": 262306,
+      "name": "Thank God It's Christmas",
+      "url": "https://open.spotify.com/track/2AEjZQblAZwdbcYA1qiexM"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Levi Did It",
-        "url": "https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Mapei",
-          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
-        }
-      ],
-      "duration_ms": 202881,
-      "name": "TRIPPIN",
-      "url": "https://open.spotify.com/track/3p4nKrnEv1LprXB3SjoYtU"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "arm um mich",
-        "url": "https://open.spotify.com/album/7GnsoCfRL0XLIe1HcdzpQr"
-      },
-      "artists": [
-        {
-          "name": "CEDDO",
-          "url": "https://open.spotify.com/artist/42trS2y9sQiZ14tTr2ghvG"
-        }
-      ],
-      "duration_ms": 150153,
-      "name": "arm um mich",
-      "url": "https://open.spotify.com/track/5jRvFqocteQ2pgwdbST4AN"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Throw That Thang",
-        "url": "https://open.spotify.com/album/4TrFNu02UOt6B9tgpxy8OQ"
-      },
-      "artists": [
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        },
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 203276,
-      "name": "Throw That Thang",
-      "url": "https://open.spotify.com/track/2dtnHqzhrZWxpowKi0swwo"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Ready To Fly",
-        "url": "https://open.spotify.com/album/2cI7OSBaPrcOm9ppZipeJ3"
-      },
-      "artists": [
-        {
-          "name": "Melanie Thornton",
-          "url": "https://open.spotify.com/artist/2apYMRrg5FxN4go0pfsCvf"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Wonderful Dream (Holidays Are Coming) - Radio Version",
-      "url": "https://open.spotify.com/track/0SvD6EdetxVtXei2JhkV4B"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "McCartney II (Special Edition)",
-        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
-      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -713,23 +629,167 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "EISBERG",
-        "url": "https://open.spotify.com/album/0OeFuCvYQLMWmKqSa6Z9CO"
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
       },
       "artists": [
         {
-          "name": "HARDWICK",
-          "url": "https://open.spotify.com/artist/5LUWRPPWSSuoscgqvF2j7p"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
       ],
-      "duration_ms": 111000,
-      "name": "EISBERG",
-      "url": "https://open.spotify.com/track/7xNm3nBTEQG7tK5aB2ndDE"
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Christmas EP",
+        "url": "https://open.spotify.com/album/5SoYlyWC6QYTJgZ4FR3OV0"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243057,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/7LoFMtL7hxP9tr5HYyyUrJ"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "WAS HAST DU MIT MIR GEMACHT",
+        "url": "https://open.spotify.com/album/02ita9FKgdsCvgXRgIhWZF"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 154693,
+      "name": "WAS HAST DU MIT MIR GEMACHT",
+      "url": "https://open.spotify.com/track/7ez3IUR4Zk7GKVzMcFhsxH"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Levi Did It",
+        "url": "https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "duration_ms": 202881,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/3p4nKrnEv1LprXB3SjoYtU"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "In der Weihnachtsb\u00e4ckerei",
+        "url": "https://open.spotify.com/album/4x5GjyI5mjuNwVTVRm5rF9"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "In der Weihnachtsb\u00e4ckerei",
+      "url": "https://open.spotify.com/track/5RxYjZmEaCYgYZ5Yht7Xc7"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Ski Aggu Musik",
+        "url": "https://open.spotify.com/album/0R4eDXE5VmE6T7KirQXSBz"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "duration_ms": 128735,
+      "name": "Verschwommen",
+      "url": "https://open.spotify.com/track/31vk09XYn5aKoz54RQPTMk"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "A Pentatonix Christmas Deluxe",
+        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 268937,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -745,23 +805,71 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
       "album": {
-        "name": "7 MANN",
-        "url": "https://open.spotify.com/album/4RULv7kU6if3YjointQNP8"
+        "name": "Darlene Love Feat. Winter Wonderland",
+        "url": "https://open.spotify.com/album/4swIribbYPrL6aUa5PR3bo"
       },
       "artists": [
         {
-          "name": "HARDWICK",
-          "url": "https://open.spotify.com/artist/5LUWRPPWSSuoscgqvF2j7p"
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
         }
       ],
-      "duration_ms": 124647,
-      "name": "7 MANN",
-      "url": "https://open.spotify.com/track/1KGQmd5UoLQ8ami2RyNFJJ"
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/2ggxtMt8Y6kFkoJonQ1gSO"
     },
     {
-      "added_at": "2026-11-21 19:07:25",
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "FL\u00dcGEL",
+        "url": "https://open.spotify.com/album/3LF1E9zmSNaTntoBM1ujiT"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 172858,
+      "name": "FL\u00dcGEL",
+      "url": "https://open.spotify.com/track/5LkjTiiR368ZNlIZbCe7yV"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+    },
+    {
+      "added_at": "2026-11-22 14:18:25",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -783,130 +891,6 @@
       "duration_ms": 225834,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Mama (Remix)",
-        "url": "https://open.spotify.com/album/0oMeZ74j10HLRINkIijBmT"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Mama - Remix",
-      "url": "https://open.spotify.com/track/69PI6qcKE6c90NCjPHHQnp"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 152570,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Verschwommen x Von hier an blind",
-        "url": "https://open.spotify.com/album/01DswBY7B26WeIU2M8D6yz"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Wir sind Helden",
-          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
-        },
-        {
-          "name": "Ericson",
-          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
-        },
-        {
-          "name": "Philemon",
-          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
-        }
-      ],
-      "duration_ms": 115183,
-      "name": "Verschwommen x Von hier an blind",
-      "url": "https://open.spotify.com/track/1xuBGilhARR8eVh0Spww0R"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2026-11-21 19:07:25",
-      "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "My Moon My Man",
-      "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
     }
   ],
   "unique_name": "Top 50 - Austria",

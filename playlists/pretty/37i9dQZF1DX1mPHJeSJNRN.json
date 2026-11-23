@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 24269,
+  "num_followers": 24267,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 226658,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 292706,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 226658,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "A Beautiful Friendship",
-        "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
-      },
-      "artists": [
-        {
-          "name": "Alexis Cole",
-          "url": "https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE"
-        },
-        {
-          "name": "Bucky Pizzarelli",
-          "url": "https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "A Beautiful Friendship",
-      "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Music from the Front Room",
         "url": "https://open.spotify.com/album/6Pz9Wt7PD6YTkw4D4LQSDO"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 231502,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/7zI3nF4mahUbVKjxRjhmEt"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "A Beautiful Friendship",
+        "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
+      },
+      "artists": [
+        {
+          "name": "Alexis Cole",
+          "url": "https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE"
+        },
+        {
+          "name": "Bucky Pizzarelli",
+          "url": "https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq"
+        }
+      ],
+      "duration_ms": 258239,
+      "name": "A Beautiful Friendship",
+      "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Here I'll Stay",
-      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Here I'll Stay",
+      "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Grand Songs",
-        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 228138,
-      "name": "Take a Giant Step",
-      "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Calendar Girl",
         "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 141266,
       "name": "Melancholy March",
       "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Grand Songs",
+        "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 228138,
+      "name": "Take a Giant Step",
+      "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -888,22 +888,6 @@
       "added_at": "2026-02-17 14:09:55",
       "album": {
         "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 477973,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
       "artists": [
@@ -919,6 +903,22 @@
       "duration_ms": 310505,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 477973,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
-      },
-      "artists": [
-        {
-          "name": "Alma Naidu",
-          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Something 'bout the Rain",
-      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Caity Gyorgy Quartet",
         "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 347088,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
+      },
+      "artists": [
+        {
+          "name": "Alma Naidu",
+          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Something 'bout the Rain",
+      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Time for Ballads - The Maene Sessions",
+        "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "Roaring Heights",
+      "url": "https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Cad\u00eancia Verde e Amarela",
         "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 237013,
       "name": "Cad\u00eancia",
       "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "Time for Ballads - The Maene Sessions",
-        "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
-      },
-      "artists": [
-        {
-          "name": "Rob Van Bavel",
-          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Roaring Heights",
-      "url": "https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Ryul",
-          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
-        }
-      ],
-      "duration_ms": 357621,
-      "name": "Needle and Candle",
-      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "We've Just Begun",
         "url": "https://open.spotify.com/album/4bLp5hTNAS8EiwIxeSakwE"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 401235,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/5dJ2bMErk0WLMyyLsVt0wc"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Ryul",
+          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
+        }
+      ],
+      "duration_ms": 357621,
+      "name": "Needle and Candle",
+      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
     },
     {
       "added_at": "2026-02-17 14:09:55",

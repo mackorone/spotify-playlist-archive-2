@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,029 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,033 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 13 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 |
 | 14 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
 | 15 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
-| 16 | [Satu Kali](https://open.spotify.com/track/7hMW54xnFEPdmVy4nBHp9H) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:44 |
-| 17 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 |
+| 16 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 |
+| 17 | [Satu Kali](https://open.spotify.com/track/7hMW54xnFEPdmVy4nBHp9H) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:44 |
 | 18 | [All the Time](https://open.spotify.com/track/60zomg1pGnaSrapCzO6aPG) | [The SIGIT](https://open.spotify.com/artist/4RLzLs2SHeyA0nLLlAJBg4) | [Visible Idea of Perfection](https://open.spotify.com/album/3lIr5Sb74IEw4etgpnOluC) | 3:18 |
 | 19 | [mejikuhibiniu](https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [mejikuhibiniu](https://open.spotify.com/album/1DZHkeHPjLkuclwTVtjIOK) | 3:16 |
 | 20 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 35 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |
 | 36 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 |
 | 37 | [UNDER GOD'S PLAN](https://open.spotify.com/track/04gCHn28qdAxXudjuvLUMh) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Mantra Vutura](https://open.spotify.com/artist/2aOcSZtVGcy3cs45euQqZ6) | [ISYANA](https://open.spotify.com/album/5j8Y7IqRpYBl9PnA4Tl1qI) | 6:51 |
-| 38 | [Hura\-Haru](https://open.spotify.com/track/14uNVm8P3giMT9e5cGln7I) | [Feel Koplo](https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4) | [A Culture A 6](https://open.spotify.com/album/4Q7bvzlWs5CRy6fWCqZSHL) | 4:35 |
-| 39 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
+| 38 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
+| 39 | [Hura\-Haru](https://open.spotify.com/track/14uNVm8P3giMT9e5cGln7I) | [Feel Koplo](https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4) | [A Culture A 6](https://open.spotify.com/album/4Q7bvzlWs5CRy6fWCqZSHL) | 4:35 |
 | 40 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 |
 | 41 | [HEATWAVE](https://open.spotify.com/track/5Z4THUUkogX97uuTAaTbj9) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:55 |
 | 42 | [Spoken](https://open.spotify.com/track/0H5DgLDteF1kBLqQVTKCQ6) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:41 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 44 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
 | 45 | [Surfin' Java](https://open.spotify.com/track/1gZilfYqLdnpOtc33O2OyM) | [The Mentawais](https://open.spotify.com/artist/0hj0i2IkfZpSCUPPFqVMhR) | [Surfin' Java](https://open.spotify.com/album/3uT9x3fRiGdHWWsH59yOvG) | 3:25 |
 | 46 | [Kanebo Kering](https://open.spotify.com/track/7KWNzwt17jrydxTkSB5VZD) | [Kuburan](https://open.spotify.com/artist/7GuqVpODs8wCyUXNDCLhkb) | [JASS FRIEND](https://open.spotify.com/album/2qZpBiwLuXXqtiBoz7Hv5i) | 2:57 |
-| 47 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 |
-| 48 | [Kalem Aya Urang](https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Kalem Aya Urang](https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3) | 2:48 |
+| 47 | [Kalem Aya Urang](https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Kalem Aya Urang](https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3) | 2:48 |
+| 48 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 |
 | 49 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:08 |
 | 50 | [Broken Symphony](https://open.spotify.com/track/5o3rAUNDKlgGtBoEqNLzKq) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Divine](https://open.spotify.com/album/5CWrPEZ7Rta2YA4Lh6tLhI) | 4:22 |
 

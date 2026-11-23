@@ -1,6 +1,6 @@
 {
   "description": "Your favourite Christmas carols, performed and re-imagined by the world's greatest choirs.",
-  "num_followers": 86683,
+  "num_followers": 86759,
   "original_name": "Christmas Choir",
   "owner": {
     "name": "Spotify",
@@ -3010,6 +3010,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 85600,

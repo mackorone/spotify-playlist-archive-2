@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31627,
+  "num_followers": 31645,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADIDbuN7F8vnKzWuntnhTHo",
+  "snapshot_id": "awDfAAAAAABxnlIOQwMkQNgyWmMCLjPs",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": null,
@@ -51,26 +71,6 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "SWEET SPOT",
-      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jiggly Bow Bow (with Sexyy Red)",
         "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 164050,
       "name": "Jiggly Bow Bow (with Sexyy Red)",
       "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "SWEET SPOT",
+      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Strips (Remix) (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 133659,
       "name": "Blue Strips (feat. Sexyy Red) - Remix",
       "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "SkeeYee",
-      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 159291,
+      "name": "Mad at Me",
+      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DIRTY NACHOS",
         "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 186991,
       "name": "DAMN SHORTY - feat. Sexyy Red",
       "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 159291,
-      "name": "Mad at Me",
-      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Hellcats SRTs",
+      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 157523,
       "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
       "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Hellcats SRTs",
-      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Sukihana",
-          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
-        }
-      ],
-      "duration_ms": 175125,
-      "name": "Hood Rats (with Sukihana)",
-      "url": "https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 164002,
       "name": "Sexyy Love Money (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "duration_ms": 175125,
+      "name": "Hood Rats (with Sukihana)",
+      "url": "https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 139632,
+      "name": "Fake Jammin",
+      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SLUT ME OUT (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 139632,
-      "name": "Fake Jammin",
-      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Need Luv 2 (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5aqzVN01Twl0HXWFNvQG3m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
         "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 149245,
       "name": "Somethin' (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Need Luv 2 (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5aqzVN01Twl0HXWFNvQG3m"
     },
     {
       "added_at": null,

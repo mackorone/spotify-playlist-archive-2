@@ -6,7 +6,7 @@
     "name": "julia",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAAOwhrcEG+bWtBfYKNYr65xUW4nafWY",
+  "snapshot_id": "AAAOxkO76HQhy0nbmgnRbxZ7QdUbrOjS",
   "tracks": [
     {
       "added_at": "2026-08-15 08:53:39",
@@ -195,22 +195,6 @@
       "duration_ms": 329696,
       "name": "Livin' it Up on Top",
       "url": "https://open.spotify.com/track/2IZiwBnwtrc0Fd8VIwAPeG"
-    },
-    {
-      "added_at": "2026-05-01 09:44:50",
-      "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "I'll Never Stop Loving You",
-      "url": "https://open.spotify.com/track/53cB5yfTFpMfaw7oBcAi2c"
     },
     {
       "added_at": "2026-05-01 09:44:50",
@@ -16649,22 +16633,6 @@
       "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
-      "added_at": "2026-07-08 00:49:33",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 220583,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/0FnmNoDwLL21lrL6a9kLw7"
-    },
-    {
       "added_at": "2026-07-08 00:51:48",
       "album": {
         "name": "Golden Age",
@@ -26649,22 +26617,6 @@
       "url": "https://open.spotify.com/track/1IOzlMpIx4oLxo88nNbd1u"
     },
     {
-      "added_at": "2026-09-21 23:20:53",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
-    },
-    {
       "added_at": "2026-09-21 23:22:34",
       "album": {
         "name": "Still Over It",
@@ -31747,6 +31699,22 @@
       "duration_ms": 224959,
       "name": "Come Down Soon",
       "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
+    },
+    {
+      "added_at": "2026-11-22 20:56:29",
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "I'll Never Stop Loving You",
+      "url": "https://open.spotify.com/track/53cB5yfTFpMfaw7oBcAi2c"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

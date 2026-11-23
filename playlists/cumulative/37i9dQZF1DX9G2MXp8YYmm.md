@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Hande Mehan
 
-808 songs - 1 day 17 hr 15 min
+809 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Balkon](https://open.spotify.com/track/2cgl9uYYvSbImdRGNxFoek) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Balkon](https://open.spotify.com/album/0oXPr9dnoS2Cjxh8SCIIA9) | 3:10 | 2025-10-16 | 2026-11-18 |
 | [Bana Bir Gülümseme Ismarla](https://open.spotify.com/track/1X8w2fVhbwyRZhSrB6MuLn) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Bana Bir Gülümseme Ismarla](https://open.spotify.com/album/71udzttNWk2BuW5TJabr6M) | 3:18 | 2026-06-12 | 2026-07-17 |
 | [bana ne.](https://open.spotify.com/track/2aEyzvp6ViXIqfSlLi0ym5) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [bana ne.](https://open.spotify.com/album/1erJv0weFEuBlhydLcTlco) | 2:38 | 2025-09-25 | 2025-10-10 |
+| [Bana Sen Lazımsın](https://open.spotify.com/track/79w5nMsjhmdAy7PSvgOTrv) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Bana Sen Lazımsın](https://open.spotify.com/album/2perBbJykm8mplu2gkrWip) | 2:50 | 2026-11-17 |  |
 | [Bana Sorma](https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bana Sorma](https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh) | 4:14 | 2024-06-27 | 2026-01-23 |
 | [Bari](https://open.spotify.com/track/2LBsPaKgbYgNQEqxXOKv4z) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Bari](https://open.spotify.com/album/3PxxHiHse96AihPZuhtgCa) | 2:54 | 2025-09-25 | 2025-12-06 |
 | [bari benim olsa](https://open.spotify.com/track/5i4HJ9uLhHRLBbNI7OijbL) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3) | [ALGI](https://open.spotify.com/album/4TOUzMla8c3LZ5gsi5cgUt) | 2:00 | 2026-05-22 | 2026-06-13 |
@@ -531,7 +532,7 @@
 | [O Kapı Kapandı](https://open.spotify.com/track/6pvgDOs4Ekl7UiF76yXEek) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H) | [O Kapı Kapandı](https://open.spotify.com/album/4eCD2ParWU9MPOsmspFXoy) | 2:52 | 2025-11-06 | 2025-11-14 |
 | [Odalar Soğuk](https://open.spotify.com/track/5Fb3ND9grQeAY9hb9WKE4v) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Odalar Soğuk](https://open.spotify.com/album/3HIGefGhLWPy6XgqLzVj6t) | 2:59 | 2025-12-11 | 2026-01-19 |
 | [Olacak Gibi Değil](https://open.spotify.com/track/69aA1OBOJiyhysEIc0KBw0) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Olacak Gibi Değil](https://open.spotify.com/album/61qpQymIvcAuM8s5zIsguo) | 3:09 | 2026-04-09 |  |
-| [Olan Bana Oldu](https://open.spotify.com/track/2hTXu8vbAi0BGGNfoacG3T) | [Müslüm Gürses](https://open.spotify.com/artist/4cMwyqmHCwJjRZ3frIVHTr), [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Olan Bana Oldu](https://open.spotify.com/album/0UtEPcN0od03RTJlvRlKB2) | 3:23 | 2026-10-20 |  |
+| [Olan Bana Oldu](https://open.spotify.com/track/2hTXu8vbAi0BGGNfoacG3T) | [Müslüm Gürses](https://open.spotify.com/artist/4cMwyqmHCwJjRZ3frIVHTr), [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Olan Bana Oldu](https://open.spotify.com/album/0UtEPcN0od03RTJlvRlKB2) | 3:23 | 2026-10-20 | 2026-11-23 |
 | [Olan Oldu](https://open.spotify.com/track/62X0aS5kJGVuQV6ei4cVk4) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Olan Oldu](https://open.spotify.com/album/3MVJianAjvMi16H5QPvLrB) | 2:49 | 2026-02-26 | 2026-03-06 |
 | [Olay](https://open.spotify.com/track/1DTCBjrbAeW6DOMvJKb2VE) | [Atiye](https://open.spotify.com/artist/56g1u3Bu0S5072aksxyBei) | [Olay](https://open.spotify.com/album/3UryqlIpzKvQcAn8ke4V4B) | 2:38 | 2026-09-22 | 2026-10-07 |
 | [Olmaz Senden](https://open.spotify.com/track/3uhGsSTBXOncVptR9nEOvJ) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Olmaz Senden](https://open.spotify.com/album/63Phykg9euTwthd6h3rAKE) | 2:56 | 2024-12-05 | 2024-12-15 |

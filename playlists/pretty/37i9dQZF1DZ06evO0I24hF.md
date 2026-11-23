@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I24hF.md) - [plain]
 
 > This is Gigi Perez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,926 likes - 20 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,939 likes - 20 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I24hF.md) - [plain]
 | 13 | [Arms \(feat\. Gigi Perez\)](https://open.spotify.com/track/1qfY35bS4mact9ZtKhCYww) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Another Picture](https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp) | 3:49 |
 | 14 | [Please Be Rude](https://open.spotify.com/track/7bLFtDcAmwVD3pw7zTUfmy) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:00 |
 | 15 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 |
-| 16 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
+| 16 | [Karma](https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:58 |
 | 17 | [Sleeping](https://open.spotify.com/track/3x8ZN5mCjRNuHkCgqRAaob) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:52 |
-| 18 | [Karma](https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:58 |
+| 18 | [The Man](https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:47 |
 | 19 | [Sally](https://open.spotify.com/track/04hrNRA9fRCWPNf8jjEUBJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:33 |
 | 20 | [Chemistry](https://open.spotify.com/track/4xhsAoMER10d3dcRFvT8kk) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 4:44 |
 
-Snapshot ID: `av48AAAAAAA+yP9PncU96HrpqA013Ay+`
+Snapshot ID: `awDfAAAAAADG0IZl+ySV/EDBwjFc0JAc`

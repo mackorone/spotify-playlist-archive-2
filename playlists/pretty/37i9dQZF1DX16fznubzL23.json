@@ -1,6 +1,6 @@
 {
   "description": "e don cast",
-  "num_followers": 49282,
+  "num_followers": 49314,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-10-23 00:01:32",
       "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+    },
+    {
+      "added_at": "2026-10-23 00:01:32",
+      "album": {
         "name": "Broken Souls",
         "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 157000,
       "name": "Broken Souls",
       "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
-    },
-    {
-      "added_at": "2026-10-23 00:01:32",
-      "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": "2026-10-23 00:01:32",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-10-23 00:01:32",
       "album": {
-        "name": "Break Me Down",
-        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
-      },
-      "artists": [
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
-    },
-    {
-      "added_at": "2026-10-23 00:01:32",
-      "album": {
         "name": "Freestyle EP",
         "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2026-10-23 00:01:32",
       "album": {
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
+    },
+    {
+      "added_at": "2026-10-23 00:01:32",
+      "album": {
         "name": "Raining (O Dun Mi)",
         "url": "https://open.spotify.com/album/795j20zTKent2xN94khVa9"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 192203,
       "name": "Raining (O Dun Mi)",
       "url": "https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT"
-    },
-    {
-      "added_at": "2026-10-23 00:01:32",
-      "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2026-10-23 00:01:32",
@@ -547,22 +531,6 @@
     {
       "added_at": "2026-10-23 00:01:32",
       "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 140916,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:32",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -575,6 +543,38 @@
       "duration_ms": 136755,
       "name": "10 Kilo",
       "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
+    },
+    {
+      "added_at": "2026-10-23 00:01:32",
+      "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+    },
+    {
+      "added_at": "2026-10-23 00:01:32",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 140916,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
     },
     {
       "added_at": "2026-10-23 00:01:32",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-10-23 00:01:32",
       "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2026-10-23 00:01:32",
+      "album": {
         "name": "365 Days",
         "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 188041,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
-    },
-    {
-      "added_at": "2026-10-23 00:01:32",
-      "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2026-10-23 00:01:32",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-10-23 00:01:32",
       "album": {
+        "name": "understand",
+        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+    },
+    {
+      "added_at": "2026-10-23 00:01:32",
+      "album": {
         "name": "RnBling",
         "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 155526,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/3TCxqPtGcTeyfeVGWHeyCz"
-    },
-    {
-      "added_at": "2026-10-23 00:01:32",
-      "album": {
-        "name": "understand",
-        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
     },
     {
       "added_at": "2026-10-23 00:01:32",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-10-23 00:01:32",
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "added_at": "2026-10-23 00:01:32",
+      "album": {
         "name": "LOL",
         "url": "https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 166442,
       "name": "LOL",
       "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
-    },
-    {
-      "added_at": "2026-10-23 00:01:32",
-      "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2026-10-23 00:01:32",

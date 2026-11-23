@@ -1,12 +1,12 @@
 {
   "description": "FREE SUBMISSIONS - Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music. Just submit via my linktree: https:&#x2F;&#x2F;linktr.ee&#x2F;Anythings.Possible.Music",
-  "num_followers": 6251,
+  "num_followers": 6269,
   "original_name": "All New Music",
   "owner": {
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAA+Pn0vi5rLflYBTEWwsNdIwmS/DMU1",
+  "snapshot_id": "AAA+Qk/4H1m/IYhLPjxfWBcct3cWUaA5",
   "tracks": [
     {
       "added_at": "2026-10-10 05:54:07",
@@ -3747,6 +3747,74 @@
       "duration_ms": 200024,
       "name": "Don't Disappear (Whatever)",
       "url": "https://open.spotify.com/track/3m4IKyKTdblcxTM7qirJAw"
+    },
+    {
+      "added_at": "2026-11-22 09:33:12",
+      "album": {
+        "name": "Santa Look Away",
+        "url": "https://open.spotify.com/album/5gGZ3rnLoGD0GdQofKbHnH"
+      },
+      "artists": [
+        {
+          "name": "DANICO",
+          "url": "https://open.spotify.com/artist/4muyTf4rhYUHUu6jtR3XU8"
+        },
+        {
+          "name": "Tabba",
+          "url": "https://open.spotify.com/artist/71QfjBjd0okDeICcxMhf9C"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "Santa Look Away",
+      "url": "https://open.spotify.com/track/06kGja0MOlivYKzuZocAvD"
+    },
+    {
+      "added_at": "2026-11-22 09:38:48",
+      "album": {
+        "name": "Iperborea Vol.1",
+        "url": "https://open.spotify.com/album/6bB7FULYQlQwci2DZDrxTX"
+      },
+      "artists": [
+        {
+          "name": "Obsoletha",
+          "url": "https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7"
+        }
+      ],
+      "duration_ms": 204803,
+      "name": "Stuck in the Middle",
+      "url": "https://open.spotify.com/track/6PFUJO55SLs03ZoTnbv85C"
+    },
+    {
+      "added_at": "2026-11-22 16:05:36",
+      "album": {
+        "name": "Verus",
+        "url": "https://open.spotify.com/album/6yCCyLtibjser8qw0sdzvb"
+      },
+      "artists": [
+        {
+          "name": "Eden Roze",
+          "url": "https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr"
+        }
+      ],
+      "duration_ms": 192782,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/7FAOdJLKwdLJhe0BtEx9aU"
+    },
+    {
+      "added_at": "2026-11-22 16:05:49",
+      "album": {
+        "name": "The Mahdi",
+        "url": "https://open.spotify.com/album/0lpwaWj6VPgzTQaFPkrcrp"
+      },
+      "artists": [
+        {
+          "name": "ZAYN REX",
+          "url": "https://open.spotify.com/artist/6XYUi1Vy6fTFtpbFPMJ5ud"
+        }
+      ],
+      "duration_ms": 166649,
+      "name": "The Mahdi",
+      "url": "https://open.spotify.com/track/09fGfPrfeHoNB2J3c8GcqC"
     }
   ],
   "unique_name": "All New Music",

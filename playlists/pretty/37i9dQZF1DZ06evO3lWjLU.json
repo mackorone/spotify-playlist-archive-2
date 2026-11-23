@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 341228,
+  "num_followers": 341256,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAADcuxjXT1mAtzGM0FbLYXl/",
+  "snapshot_id": "awDfAAAAAADariMgsbw54/TlnVUgQWr2",
   "tracks": [
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insomnio",
-        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ponme En Tu Boca",
         "url": "https://open.spotify.com/album/6L21tGHxPx7Ms95U4BxBda"
       },
@@ -655,8 +635,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI"
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epa Wei",
+        "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 134867,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR"
+      "duration_ms": 208253,
+      "name": "Epa Wei",
+      "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epa Wei",
-        "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 208253,
-      "name": "Epa Wei",
-      "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
+      "duration_ms": 134867,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR"
     },
     {
       "added_at": null,

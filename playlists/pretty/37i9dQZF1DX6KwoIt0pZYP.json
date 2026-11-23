@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 263219,
+  "num_followers": 263230,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "alone tonight",
-        "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
-      },
-      "artists": [
-        {
-          "name": "starfall",
-          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
-        }
-      ],
-      "duration_ms": 225031,
-      "name": "intentions",
-      "url": "https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "alone tonight",
+        "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "duration_ms": 225031,
+      "name": "intentions",
+      "url": "https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -807,54 +807,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "love you twice",
-        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 172189,
-      "name": "love you twice",
-      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
-        "name": "THRIFTED",
-        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "THRIFTED",
-      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
-        "name": "do you think you could love me?",
-        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 236140,
-      "name": "do you think you could love me?",
-      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
       },
@@ -875,6 +827,54 @@
       "duration_ms": 198640,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "love you twice",
+        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 172189,
+      "name": "love you twice",
+      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "do you think you could love me?",
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 236140,
+      "name": "do you think you could love me?",
+      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -947,38 +947,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "bet",
-        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "bet",
-      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/62dp34XfSWYPUKXrZinum0"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 218430,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/14chlybq8fwH6kZJgwmbBD"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
       },
@@ -991,6 +959,22 @@
       "duration_ms": 172500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "bet",
+        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "bet",
+      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1015,6 +999,22 @@
       "duration_ms": 196222,
       "name": "what can i do?",
       "url": "https://open.spotify.com/track/3ds8Ve7yEkWcwHSnVlmqHV"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/62dp34XfSWYPUKXrZinum0"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 218430,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/14chlybq8fwH6kZJgwmbBD"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "stay with the ocean, i'll find you",
         "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "keepyousafe",
-        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
       },
       "artists": [
         {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
         }
       ],
-      "duration_ms": 261673,
-      "name": "keepyousafe",
-      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
+      "duration_ms": 163333,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1139,6 +1123,22 @@
       "duration_ms": 121795,
       "name": "colors",
       "url": "https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "keepyousafe",
+        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
+      },
+      "artists": [
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
+        }
+      ],
+      "duration_ms": 261673,
+      "name": "keepyousafe",
+      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "my love my love my love",
-        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+        "name": "KOLORCOASTER",
+        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
       },
       "artists": [
         {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 158312,
-      "name": "my love my love my love",
-      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
+      "duration_ms": 166595,
+      "name": "INDIGO (with u)",
+      "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "KOLORCOASTER",
-        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
+        "name": "my love my love my love",
+        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
       },
       "artists": [
         {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 166595,
-      "name": "INDIGO (with u)",
-      "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
+      "duration_ms": 158312,
+      "name": "my love my love my love",
+      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
+        "name": "PAGTATAG!",
+        "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "duration_ms": 223339,
+      "name": "I WANT YOU",
+      "url": "https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "PAGTATAG!",
-        "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
+        "name": "For No Reason",
+        "url": "https://open.spotify.com/album/0YxfTVkwTEk8XiRyC6G2WQ"
       },
       "artists": [
         {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
         }
       ],
-      "duration_ms": 223339,
-      "name": "I WANT YOU",
-      "url": "https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f"
+      "duration_ms": 195133,
+      "name": "For No Reason",
+      "url": "https://open.spotify.com/track/6AFUs8A7itwJ2BF0Q8xXnW"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "For No Reason",
-        "url": "https://open.spotify.com/album/0YxfTVkwTEk8XiRyC6G2WQ"
-      },
-      "artists": [
-        {
-          "name": "YA\u00d8",
-          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "For No Reason",
-      "url": "https://open.spotify.com/track/6AFUs8A7itwJ2BF0Q8xXnW"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "BINIverse",
         "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "to love in the 21st century",
-        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "the alternative",
-      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "Just Say The Words",
         "url": "https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 190594,
       "name": "Just Say The Words",
       "url": "https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "to love in the 21st century",
+        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "the alternative",
+      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 263592,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
         "name": "let me know",
         "url": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 129600,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 263592,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1667,8 +1667,8 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+        "name": "Black Tie",
+        "url": "https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY"
       },
       "artists": [
         {
@@ -1676,9 +1676,9 @@
           "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
         }
       ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+      "duration_ms": 167202,
+      "name": "Black Tie",
+      "url": "https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin"
     },
     {
       "added_at": "2026-10-02 04:02:04",

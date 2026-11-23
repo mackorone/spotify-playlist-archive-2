@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Kybba, Blaiz Fayah & Kalibwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,812 likes - 70 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,806 likes - 70 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

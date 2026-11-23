@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 37952,
+  "num_followers": 37961,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAABHyJR0HaKTeokSL0GP6P7z",
+  "snapshot_id": "awDfAAAAAAAiPzOoj3zekp5SRcfvD+Pg",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracefully Broken / Who The Son Sets Free",
-        "url": "https://open.spotify.com/album/7dQe2pkmZuaAwQSoCfqFGm"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 358601,
-      "name": "Gracefully Broken/Who The Son Sets Free",
-      "url": "https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit.",
         "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 471573,
       "name": "Your Spirit",
       "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracefully Broken / Who The Son Sets Free",
+        "url": "https://open.spotify.com/album/7dQe2pkmZuaAwQSoCfqFGm"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 358601,
+      "name": "Gracefully Broken/Who The Son Sets Free",
+      "url": "https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Happy - Live",
-      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Water (Church Sessions)",
         "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 464809,
       "name": "Holy Water - Church Sessions",
       "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Happy - Live",
+      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tasha Unscripted",
-        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Enrique Holmes",
-          "url": "https://open.spotify.com/artist/3xTWAKdAdeyps7FrNnltly"
-        }
-      ],
-      "duration_ms": 369367,
-      "name": "Happy / Without You",
-      "url": "https://open.spotify.com/track/2BSGCuYb275hRAqK9Sl5Wg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
         "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
@@ -599,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
+        "name": "Tasha Unscripted",
+        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Enrique Holmes",
+          "url": "https://open.spotify.com/artist/3xTWAKdAdeyps7FrNnltly"
         }
       ],
-      "duration_ms": 455480,
-      "name": "You Still Love Me - Live",
-      "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
+      "duration_ms": 369367,
+      "name": "Happy / Without You",
+      "url": "https://open.spotify.com/track/2BSGCuYb275hRAqK9Sl5Wg"
     },
     {
       "added_at": null,
@@ -643,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tasha Unscripted",
-        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
+        "name": "One Place Live (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 229212,
-      "name": "An Unscripted Moment",
-      "url": "https://open.spotify.com/track/1jKu0tODuzxkz6FcCcltFn"
+      "duration_ms": 455480,
+      "name": "You Still Love Me - Live",
+      "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
     },
     {
       "added_at": null,
@@ -679,22 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+        "name": "Tasha Unscripted",
+        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 402844,
-      "name": "Something Has To Break (feat. Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a"
+      "duration_ms": 229212,
+      "name": "An Unscripted Moment",
+      "url": "https://open.spotify.com/track/1jKu0tODuzxkz6FcCcltFn"
     },
     {
       "added_at": null,
@@ -715,6 +695,26 @@
       "duration_ms": 552401,
       "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
       "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 402844,
+      "name": "Something Has To Break (feat. Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a"
     },
     {
       "added_at": null,

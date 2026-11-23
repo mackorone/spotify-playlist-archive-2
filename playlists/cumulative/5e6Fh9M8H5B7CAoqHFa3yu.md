@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,847 songs - 6 day 21 hr 20 min
+2,850 songs - 6 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Berimbau \(Rough Edit\)](https://open.spotify.com/track/062nEG1FnzuWrIUnThmBYr) | [DJ Fleg](https://open.spotify.com/artist/1Z7hBUE3rZfN5yjsEJRjBD) | [Berimbau \(Rough Edit\)](https://open.spotify.com/album/1i8S2umQVyQDGd2GBV7N23) | 2:06 | 2026-02-07 |  |
 | [Berlin Nights](https://open.spotify.com/track/0BPqgw7zdhIrZ09wlmLH3Q) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Berlin Nights](https://open.spotify.com/album/12xsiBP8dARKCNYqlA88f8) | 2:15 | 2024-07-08 |  |
 | [Bermimpi](https://open.spotify.com/track/0jqb9Ob2VNIPDUYzznVMsp) | [Veyn Arcanstin](https://open.spotify.com/artist/5jq2KvNMvKM3T3oOEMlzkl), [Nariya Blanche](https://open.spotify.com/artist/2Nb59R0W7uEStoWIe4mpsp), [Gigih Prayogo](https://open.spotify.com/artist/1Ayg3QEQWS3EfokPaCqccr) | [Bermimpi](https://open.spotify.com/album/7MxXY4vwu1EdoUiQRQ5Qpr) | 5:20 | 2026-04-30 |  |
+| [Better Days](https://open.spotify.com/track/33lJ5jJEq7Uerw0gwnMRZ1) | [XGee](https://open.spotify.com/artist/3O63QS5bGscvAG6LMpmT7T) | [Better Days](https://open.spotify.com/album/2Y54jttYlCeFVOemy7LyEt) | 2:50 | 2026-11-22 |  |
 | [Better Galaxy](https://open.spotify.com/track/5jT5xwr7YWe4dEXi9UItAI) | [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Step Machine](https://open.spotify.com/artist/4sLUxPIQ9OqymZeigsre0v) | [Better Galaxy](https://open.spotify.com/album/1frHm2VlRkHAlLQZALh4q3) | 4:25 | 2025-05-11 |  |
 | [Better Judgement](https://open.spotify.com/track/3UrHhQ4lxAwfhhG3IudMA0) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA) | 2:49 | 2025-12-29 |  |
 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2026-11-04 |  |
@@ -1806,6 +1807,7 @@
 | [Out Of Babylon](https://open.spotify.com/track/6UMyDDMZEkdOvZ42kxaGTd) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [O.L.M.](https://open.spotify.com/artist/5ILLxboYauCyB25YEmfWor) | [Lost Transmissions](https://open.spotify.com/album/1IvD6MDub4gPiIz4VcZByo) | 2:55 | 2024-03-25 |  |
 | [Out Of Dub](https://open.spotify.com/track/1WWcsE0mvASM5w6PqpmVIA) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [O.L.M.](https://open.spotify.com/artist/5ILLxboYauCyB25YEmfWor) | [Lost Transmissions](https://open.spotify.com/album/1IvD6MDub4gPiIz4VcZByo) | 2:53 | 2024-03-25 |  |
 | [Out Of Place On Purpose](https://open.spotify.com/track/3HWz0mjtMOOk3B5xU4PsCQ) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 4:21 | 2026-05-22 |  |
+| [Outra Dimensão](https://open.spotify.com/track/3gkD19XV88tMkcSg4rdPQy) | [Alezy](https://open.spotify.com/artist/3TBtpZozgCYPtqxkhJY6In), [Jenny Branches](https://open.spotify.com/artist/0BqVxNjV21NIf73Udep68x) | [Outra Dimensão](https://open.spotify.com/album/64x8yeEIQgkvRih104zPvx) | 2:53 | 2026-11-22 |  |
 | [Outro](https://open.spotify.com/track/73MZ0fB6QlG9YsSW049QRO) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights](https://open.spotify.com/album/2RiFlkbYY5qGLNkDxFxvb3) | 1:05 | 2026-11-06 |  |
 | [Outspoken](https://open.spotify.com/track/1vxZd808SkI6pdD6olCfBL) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Outspoken](https://open.spotify.com/album/5byWLJwMzOCLjpJOLsonic) | 4:25 | 2024-04-10 |  |
 | [Outta Here](https://open.spotify.com/track/706q4Ru2FMKSmenxDNkK5y) | [Sunjaman](https://open.spotify.com/artist/6XkINhGPJJRqeeR6aUULrJ) | [Outta Here](https://open.spotify.com/album/7JJsSDRjn9bxosordXhVh6) | 4:10 | 2024-03-25 |  |
@@ -2836,6 +2838,7 @@
 | [Шёлковые волосы](https://open.spotify.com/track/2WXaVPdq505D3bGJ3sTmxY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:49 | 2025-11-26 |  |
 | [Я попрошу](https://open.spotify.com/track/1hrGAjCwqcWUk3RnkhxdiY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Я попрошу](https://open.spotify.com/album/0TiR7KrAF5OQxM4IUjnbcO) | 4:09 | 2026-01-15 |  |
 | [Я попрошу](https://open.spotify.com/track/5nFVFo2lDvCpLBtPmpeBsU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:09 | 2025-07-03 |  |
+| [Як сильно люблю…](https://open.spotify.com/track/1MMk8HieUWCzKQv0jXSLIi) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Як сильно люблю…](https://open.spotify.com/album/6wphriPeTxBeWsLTC0dRaT) | 4:08 | 2026-11-22 |  |
 | [בסוף יהיה טוב](https://open.spotify.com/track/4pweKO7kjfKZ49RMXlMRcq) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:20 | 2025-08-23 |  |
 | [שלוש שנים](https://open.spotify.com/track/3MeArNHAOCEo4wLhpg4hnh) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:13 | 2025-08-30 |  |
 | [תמיד אוהב אותי \- Body 3](https://open.spotify.com/track/47tDMmD6e4VJyniEzM3TBg) | [Ori Ahinoam](https://open.spotify.com/artist/70OctIUrjKyvFMHEOo4hTw), [Alon Lifshitz](https://open.spotify.com/artist/3tKq0F7PTmGqj1cpN4cIG2), [Gal Inbar](https://open.spotify.com/artist/7yc1iwjMNqWMIWDZR4F5H8) | [Three Body Solution](https://open.spotify.com/album/7KvAjtGdHHUo1aFEEO9NC5) | 7:30 | 2026-10-12 |  |

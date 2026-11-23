@@ -1,12 +1,12 @@
 {
   "description": "This is Jai'Len Josey. The essential tracks, all in one playlist.",
-  "num_followers": 236,
+  "num_followers": 237,
   "original_name": "This Is Jai'Len Josey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACEEdWWYy+ieV0dzh0ywrBt",
+  "snapshot_id": "awDfAAAAAABKlaXON45AaNqwjW4bL1hM",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 159212,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/5XL0u4OlkzjotTazxDzjNL"
+      "duration_ms": 205942,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/0NkgPNxtAU3aryEc57NnWr"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 205942,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/0NkgPNxtAU3aryEc57NnWr"
+      "duration_ms": 159212,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/5XL0u4OlkzjotTazxDzjNL"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
       "duration_ms": 126146,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/4d6v0CvPR7lnsE5P4djMYj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/6nYuXUkFQTxkTZ1WT9kbz5"
-      },
-      "artists": [
-        {
-          "name": "Josh Waters",
-          "url": "https://open.spotify.com/artist/5jKjSpkbKc8CgNdrB4WEhZ"
-        },
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 309024,
-      "name": "Insane (Jai'Len's Interlude)",
-      "url": "https://open.spotify.com/track/1moNXhbgdlIicUqGFpeCRS"
     }
   ],
   "unique_name": "This Is Jai'Len Josey",

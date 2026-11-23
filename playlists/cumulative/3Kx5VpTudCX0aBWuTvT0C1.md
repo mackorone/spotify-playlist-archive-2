@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-218 songs - 12 hr 41 min
+219 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 | 2026-06-03 |  |
 | [House of Affection](https://open.spotify.com/track/0sHhdvNQBMxDNfC9ZzPWEi) | [Talles Cattarin](https://open.spotify.com/artist/77SAbQybNSZmuluK93v8AO) | [House of Affection](https://open.spotify.com/album/4t1EDjbrbUiGlyVgRZAtDs) | 3:25 | 2025-11-06 | 2025-12-09 |
 | [human race](https://open.spotify.com/track/422XpEXSWpB7AHTePwthGV) | [Travis Guidry](https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp) | [human race](https://open.spotify.com/album/6VEEMhejJyv8naAjOSfY0j) | 3:36 | 2025-11-11 | 2026-03-15 |
+| [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 | 2026-11-22 |  |
 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 | 2026-10-27 |  |
 | [I Wanna Go Back](https://open.spotify.com/track/16T7nFn9uhXdRBVLt6hjU5) | [Noah Robertson](https://open.spotify.com/artist/7nBX9mLCLJLsasBHIkvXxE) | [I Wanna Go Back](https://open.spotify.com/album/2GwiAqlyzPVoi3wj5o0H1Q) | 3:25 | 2026-11-01 |  |
 | [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-15 |  |

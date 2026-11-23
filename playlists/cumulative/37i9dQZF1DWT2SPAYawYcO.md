@@ -4,7 +4,7 @@
 
 > Brand new music from The Kid LAROI, Lana Del Ray, Dua Lipa, Gracie Abrams, Keli Holiday + more
 
-15,551 songs - 35 day 8 hr 44 min
+15,552 songs - 35 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12504,7 +12504,8 @@
 | [Start Over](https://open.spotify.com/track/7dnoDyysjq8Kvu8ZZGrQSx) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR! \(Fully Evolved\)](https://open.spotify.com/album/5PZaqv1kmnGYMvO8lS0Cqs) | 3:11 | 2025-11-20 | 2025-11-28 |
 | [Started Killing Again](https://open.spotify.com/track/2de5WUqeEZ6dVUY9oi91GB) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Muscles](https://open.spotify.com/album/1ADES1nCegFN1KaYjywkDB) | 2:02 | 2026-09-24 | 2026-10-02 |
 | [Starting 5](https://open.spotify.com/track/2exwooXX7ksq9tfGjEFhfQ) | [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w), [Nelson Dialect](https://open.spotify.com/artist/0ciHGUC86265ZD8uPVEs4N), [Mr Slipz](https://open.spotify.com/artist/0f41KWC8A6b93s0n90uNjn), [Renelle 893](https://open.spotify.com/artist/4v5qIH8w67IatxpJRkr2RQ), [NuphZed](https://open.spotify.com/artist/4eAuSa8PUtnnoZjGRSiWCp), [King Kashmere](https://open.spotify.com/artist/3rpW7BnYppUUZnkL5zTfRb) | [Sight Beyond Sight](https://open.spotify.com/album/3oPzOc81tpMARXL5HX0EbN) | 4:43 | 2023-07-27 | 2023-08-04 |
-| [Starting From Zero \(feat\. Michael McDonald\)](https://open.spotify.com/track/171rxWDjFvjPeFjSHF4WS5) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:09 | 2026-11-19 |  |
+| [Starting From Zero \(feat\. Michael McDonald\)](https://open.spotify.com/track/171rxWDjFvjPeFjSHF4WS5) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:09 | 2026-11-19 | 2026-11-23 |
+| [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/1akuT1qSIAoOhpPhUxGpyR) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/5TZmF4xF98fss6CqT3oCSh) | 3:10 | 2026-11-23 |  |
 | [Starts With One](https://open.spotify.com/track/5CR4tqDS8K1eI11txOaEae) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Bootleg Melancholy](https://open.spotify.com/album/2RxlkGUuwfRK1yp7DILHt9) | 2:51 | 2023-10-12 | 2023-10-20 |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-06 | 2024-06-14 |
 | [Starwriter](https://open.spotify.com/track/4aQCIaoiUqPo8D0oPCeURX) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [Starwriter](https://open.spotify.com/album/31VLsGJg1C29YwGTtxB7WJ) | 3:02 | 2024-11-07 | 2024-11-15 |

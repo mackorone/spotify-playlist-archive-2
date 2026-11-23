@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Miss Kaninna, Genesis Owusu, daine, BOY SODA, Tame Impala
 
-810 songs - 1 day 21 hr 24 min
+811 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 | 2025-11-06 | 2026-06-12 |
 | [A Moment Like That](https://open.spotify.com/track/2XCTfIMG5NKBcqlM71liG0) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [A Moment Like That](https://open.spotify.com/album/1cKJa8ObjWixbZFpkSxMqI) | 4:07 | 2026-04-23 | 2026-05-18 |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-20 |  |
+| [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 | 2026-11-19 |  |
 | [A Telephone Rings](https://open.spotify.com/track/4YOHjkwl6Jn6sZSx7eeIn4) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [The Accident](https://open.spotify.com/album/0c0q3cA2sEB4EsNa2m55rw) | 2:46 | 2024-11-28 | 2025-01-26 |
 | [A.A.](https://open.spotify.com/track/0tnvYx9kZElB3wWkpSmDTp) | [Teenager](https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [A.A.](https://open.spotify.com/album/14aC9p7pJbgaJFTfsyiwIf) | 3:31 | 2025-05-29 | 2025-06-06 |
 | [AAAH!](https://open.spotify.com/track/59Fsi1QsrBreviqFlZfeqf) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [AAAH!](https://open.spotify.com/album/6WHzAGpArp1FC3GkJTJINx) | 2:51 | 2026-07-23 | 2026-07-31 |
@@ -266,7 +267,7 @@
 | [GEEKD](https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [GEEKD](https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd) | 2:11 | 2025-09-25 | 2026-05-08 |
 | [Gentleman](https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7) | 3:35 | 2026-03-19 | 2026-03-27 |
 | [Get 'Em Up](https://open.spotify.com/track/3WJXMqyJTVUoZbe73wDjYw) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Get 'Em Up](https://open.spotify.com/album/7kZnK7Or40Hoe7unZcfZMJ) | 2:51 | 2025-06-05 | 2025-06-13 |
-| [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-18 |  |
+| [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-18 | 2026-11-23 |
 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 | 2026-09-17 |  |
 | [Get It Done](https://open.spotify.com/track/6qJ8Il5OThFcrOFj32xR32) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Get It Done](https://open.spotify.com/album/1Pn6IYJQWyRRPFEMKTEw5w) | 3:02 | 2025-07-03 | 2025-07-11 |
 | [Get Knocked Down](https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Get Knocked Down](https://open.spotify.com/album/366i7YVWV8vUqgciOQSyw4) | 3:40 | 2025-05-01 | 2025-05-30 |

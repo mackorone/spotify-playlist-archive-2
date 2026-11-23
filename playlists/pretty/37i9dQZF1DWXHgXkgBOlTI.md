@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,704 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,707 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 2 | [Coconut Groovin'](https://open.spotify.com/track/6rUWK9aZcRp3JP9KZINZZU) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Coconut Groovin'](https://open.spotify.com/album/6s16mndixMYspUkuW8Eg0F) | 5:11 |
 | 3 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
 | 4 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
-| 5 | [朝焼け \- Live at Chuo Kaikan Hall, Tokyo, Feb\. 1982](https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MINT JAMS\(Live\)](https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9) | 4:58 |
+| 5 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 |
 | 6 | [OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [SEYCHELLES](https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g) | 4:12 |
-| 7 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 |
+| 7 | [朝焼け \- Live at Chuo Kaikan Hall, Tokyo, Feb\. 1982](https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MINT JAMS\(Live\)](https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9) | 4:58 |
 | 8 | [SO\-DAYONE !](https://open.spotify.com/track/0LXo4AbvG1JCvpDIkfbdhr) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [SO\-DAYONE !](https://open.spotify.com/album/6ybWvKesl9iyNdjDP7g0tg) | 4:06 |
 | 9 | [SAVAGE](https://open.spotify.com/track/3xSad8IMbiLhSsKK6x9ymw) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [SAVAGE](https://open.spotify.com/album/15XmtpPZ4a3cgLLhEoaqeg) | 3:44 |
 | 10 | [Supersonic \- from "Butterfly" 2026 Take](https://open.spotify.com/track/3D1rtLG5MdPuWQLkzfpK2j) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Supersonic \(from "Butterfly" 2026 Take\)](https://open.spotify.com/album/7E7FU0KadMPcmKZWEMxxQP) | 3:52 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 15 | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Gaku Kano](https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM) | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ) | 3:54 |
 | 16 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
 | 17 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
-| 18 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
+| 18 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 19 | [Sleeping Giant](https://open.spotify.com/track/7EuPou4Xsee5MjH8HScM3r) | [SLAK](https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0) | [SLAK](https://open.spotify.com/album/77SwPn3bUUba2blV2wxT5c) | 5:32 |
 | 20 | [Raw](https://open.spotify.com/track/0M6DNTW1xQoPMoF6VyodiT) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Rawment](https://open.spotify.com/album/29cM0Z0AM9lp3DRCerozSt) | 3:10 |
-| 21 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
+| 21 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
 | 22 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 23 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
 | 24 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 31 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
 | 32 | [Liberty](https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:56 |
 | 33 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 |
-| 34 | [Ephemeral summer](https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:20 |
-| 35 | [Yes! Ramen!! \[Feat\. Sonicwonder\]](https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [OUT THERE \[Feat\. Sonicwonder\]](https://open.spotify.com/album/5Z1XM55fh24JfLyDWWzRRl) | 8:14 |
+| 34 | [Yes! Ramen!! \[Feat\. Sonicwonder\]](https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [OUT THERE \[Feat\. Sonicwonder\]](https://open.spotify.com/album/5Z1XM55fh24JfLyDWWzRRl) | 8:14 |
+| 35 | [Ephemeral summer](https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:20 |
 | 36 | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/album/4T8yFAKBzi7HfUCpaph1sC) | 3:39 |
 | 37 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
 | 38 | [フル・スロットル](https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L) | [Megapteras](https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r) | [フル・スロットル](https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f) | 3:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 46 | [Cross View \- from "UNTITLED" 2026 Take](https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Cross View \(from "UNTITLED" 2026 Take\)](https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U) | 4:46 |
 | 47 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
 | 48 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
-| 49 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
-| 50 | [Love Lights](https://open.spotify.com/track/1Uh6c02Wxkq30F6aXPPWul) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [PYRAMID4](https://open.spotify.com/album/5219vHKf8elS7hRI11Ig9X) | 5:05 |
+| 49 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
+| 50 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 
 Snapshot ID: `AAAAALrfVaWqDZxq+ZKhQAkJpLos2A5+`

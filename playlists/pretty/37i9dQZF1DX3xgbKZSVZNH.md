@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 
 > All your favourite hairbrush anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,836 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,864 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 21 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 22 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
 | 23 | [Home Sweet Home](https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain \(Deluxe Version\)](https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D) | 3:59 |
-| 24 | [Hero](https://open.spotify.com/track/1PAgmT6YqGhd6zT9kN9gIo) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/3DeHyfe2Da8xznvABSfIE5) | 4:24 |
-| 25 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
+| 24 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
+| 25 | [Hero](https://open.spotify.com/track/1PAgmT6YqGhd6zT9kN9gIo) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/3DeHyfe2Da8xznvABSfIE5) | 4:24 |
 | 26 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
 | 27 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [The Best Of Cutting Crew](https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH) | 4:38 |
 | 28 | [The Power of Love](https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [The Power Of Love: The Best Of Jennifer Rush](https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG) | 4:28 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 41 | [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 |
 | 42 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/6CtNdzwFfWUHOSXyJsHvBe) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/7fkZIC2085oLn4sbbj1dme) | 4:23 |
 | 43 | [Always](https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm) | 5:53 |
-| 44 | [Hungry Eyes](https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing](https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg) | 4:08 |
-| 45 | [Against All Odds \(Take A Look At Me Now\)](https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...Hits](https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf) | 3:24 |
-| 46 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/1AAEWUVZpew24mP6nC1IU5) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun Deluxe Edition](https://open.spotify.com/album/1qdpfcCMXTZOichy2EUYwg) | 4:14 |
-| 47 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/5nydh0uIcz9gxSoJY6FtTn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4) | 6:33 |
+| 44 | [Against All Odds \(Take A Look At Me Now\)](https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...Hits](https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf) | 3:24 |
+| 45 | [Hungry Eyes](https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing](https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg) | 4:08 |
+| 46 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/5nydh0uIcz9gxSoJY6FtTn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4) | 6:33 |
+| 47 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/1AAEWUVZpew24mP6nC1IU5) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun Deluxe Edition](https://open.spotify.com/album/1qdpfcCMXTZOichy2EUYwg) | 4:14 |
 | 48 | [Here I Go Again 87 \- 2007 Remastered Version](https://open.spotify.com/track/51tuwnX8OPvQCXoBnjMkfF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987](https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN) | 4:30 |
-| 49 | [All By Myself](https://open.spotify.com/track/2FSaEOwQId0LYu5o49dbrG) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/0351W7FeCQal5XzaR161tW) | 7:15 |
-| 50 | [Show Me Heaven \- From "Days Of Thunder" Soundtrack](https://open.spotify.com/track/0smsQNRjaMKjacESbRb3wZ) | [Maria McKee](https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf) | [Drivetime](https://open.spotify.com/album/3GO384bB5SvHoaqnA5y5NZ) | 3:42 |
+| 49 | [Show Me Heaven \- From "Days Of Thunder" Soundtrack](https://open.spotify.com/track/0smsQNRjaMKjacESbRb3wZ) | [Maria McKee](https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf) | [Drivetime](https://open.spotify.com/album/3GO384bB5SvHoaqnA5y5NZ) | 3:42 |
+| 50 | [All By Myself](https://open.spotify.com/track/2FSaEOwQId0LYu5o49dbrG) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/0351W7FeCQal5XzaR161tW) | 7:15 |
 
 Snapshot ID: `AAAAAEWLjeCcKf2US6P82u/v6zXlwJBO`

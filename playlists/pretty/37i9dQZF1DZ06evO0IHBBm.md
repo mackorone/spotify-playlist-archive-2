@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,400 likes - 45 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,401 likes - 45 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 44 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/2b9sOPTgLige26J50aINp9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Damares \(Ao Vivo\)](https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA) | 5:58 |
 | 45 | [Pai, Preciso de Ti](https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:33 |
 
-Snapshot ID: `av48AAAAAACEt57gz1VcxP6GZ7t8SHHk`
+Snapshot ID: `awDfAAAAAAC7+SXDXBnvWaVvgzaZh4Us`

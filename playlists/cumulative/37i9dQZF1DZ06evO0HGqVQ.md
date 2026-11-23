@@ -4,7 +4,7 @@
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-100 songs - 7 hr 49 min
+101 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ella Era Todo](https://open.spotify.com/track/2omMTVSamX8SotkaYBJIgH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 5:06 | 2024-10-16 |  |
 | [Entregame Tu Amor](https://open.spotify.com/track/0KR2dfNLJJCmObaAc5r1f7) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:17 | 2022-12-16 | 2024-10-15 |
 | [Entrégame Tu Amor](https://open.spotify.com/track/3ZZCy7E48FJLu045mU2BsC) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 5:17 | 2024-10-15 |  |
+| [Llega Navidad](https://open.spotify.com/track/2IxHplhTBvwuorIeFXj7dY) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Llega Navidad](https://open.spotify.com/album/1QRjKWM7QAxvmgmqVWyJ80) | 3:41 | 2026-11-23 |  |
 | [Me Cuesta Tanto](https://open.spotify.com/track/02csRDSUBEhhAEYhCXZigc) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6NtDDdlGtmJZhQ9kNQcm9V) | 4:33 | 2022-12-16 | 2024-10-17 |
 | [Me Cuesta Tanto](https://open.spotify.com/track/0aMszifcdIAK9AYSaev409) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 4:33 | 2024-10-17 |  |
 | [Me Duele Tanto](https://open.spotify.com/track/1zwn8JE6FyQ5FX4p8KutHi) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 5:03 | 2024-10-17 | 2025-12-28 |

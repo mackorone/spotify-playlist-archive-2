@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367043,
+  "num_followers": 367030,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-11-19 23:01:18",
       "album": {
+        "name": "Sometimes I Love You",
+        "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
+      },
+      "artists": [
+        {
+          "name": "Mistasy",
+          "url": "https://open.spotify.com/artist/2k3Vs5yIBGLfWd68q4YVWz"
+        }
+      ],
+      "duration_ms": 177938,
+      "name": "Sometimes I Love You",
+      "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
+    },
+    {
+      "added_at": "2026-11-19 23:01:18",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 144501,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:18",
-      "album": {
-        "name": "Sometimes I Love You",
-        "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
-      },
-      "artists": [
-        {
-          "name": "Mistasy",
-          "url": "https://open.spotify.com/artist/2k3Vs5yIBGLfWd68q4YVWz"
-        }
-      ],
-      "duration_ms": 177938,
-      "name": "Sometimes I Love You",
-      "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
     },
     {
       "added_at": "2026-11-19 23:01:18",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-11-19 23:01:18",
       "album": {
-        "name": "Songs In The Key Of Life - The EP",
-        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 309326,
-      "name": "It's Easier",
-      "url": "https://open.spotify.com/track/4AeQ2QfxTQBX5iO0MEGoHo"
-    },
-    {
-      "added_at": "2026-11-19 23:01:18",
-      "album": {
         "name": "How To Heal",
         "url": "https://open.spotify.com/album/73V1mnQ1qIeyERh5ZOId9B"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 176114,
       "name": "You",
       "url": "https://open.spotify.com/track/7hkYOiAjBNifkavLfxjCo6"
+    },
+    {
+      "added_at": "2026-11-19 23:01:18",
+      "album": {
+        "name": "Songs In The Key Of Life - The EP",
+        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 309326,
+      "name": "It's Easier",
+      "url": "https://open.spotify.com/track/4AeQ2QfxTQBX5iO0MEGoHo"
     },
     {
       "added_at": "2026-11-19 23:01:18",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-11-19 23:01:18",
       "album": {
-        "name": "GROWING UP IS _____",
-        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 233587,
-      "name": "GROWING UP IS _____",
-      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
-    },
-    {
-      "added_at": "2026-11-19 23:01:18",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-11-19 23:01:18",
       "album": {
-        "name": "Only Love, L (More Love Edition)",
-        "url": "https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK"
+        "name": "GROWING UP IS _____",
+        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
       },
       "artists": [
         {
-          "name": "Lena",
-          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 178199,
-      "name": "skinny bitch",
-      "url": "https://open.spotify.com/track/3MryyXwUc25WUTZ15WmQ80"
+      "duration_ms": 233587,
+      "name": "GROWING UP IS _____",
+      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
     },
     {
       "added_at": "2026-11-19 23:01:18",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2026-11-19 23:01:18",
       "album": {
+        "name": "Only Love, L (More Love Edition)",
+        "url": "https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK"
+      },
+      "artists": [
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL"
+        }
+      ],
+      "duration_ms": 178199,
+      "name": "skinny bitch",
+      "url": "https://open.spotify.com/track/3MryyXwUc25WUTZ15WmQ80"
+    },
+    {
+      "added_at": "2026-11-19 23:01:18",
+      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-11-19 23:01:18",
       "album": {
-        "name": "last night's mascara",
-        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 177350,
-      "name": "last night's mascara",
-      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
-    },
-    {
-      "added_at": "2026-11-19 23:01:18",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 170928,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
+    },
+    {
+      "added_at": "2026-11-19 23:01:18",
+      "album": {
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     }
   ],
   "unique_name": "Feelgood Pop",

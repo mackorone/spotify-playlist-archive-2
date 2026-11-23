@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: KIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,864 likes - 102 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,865 likes - 102 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

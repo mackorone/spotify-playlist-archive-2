@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37257,
+  "num_followers": 37259,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAACgivwTQ05UAEkcOY2MYkJV",
+  "snapshot_id": "awDfAAAAAABhLMPvefdclBd7yiT61veE",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRDWFE (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2zNiwxpt15iD9uXomdz8pv"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 156830,
+      "name": "TRDWFE (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4EYS7wMKi6m0eqnWsbmJWD"
     },
     {
       "added_at": null,
@@ -356,9 +376,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 192101,
-      "name": "Love Me 4 Me",
-      "url": "https://open.spotify.com/track/28MOE4pVk5uN3wBDGBacET"
+      "duration_ms": 188399,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS"
     },
     {
       "added_at": null,
@@ -443,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
         "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
       },
@@ -483,6 +487,22 @@
       "duration_ms": 249280,
       "name": "Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix",
       "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,
@@ -523,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 244078,
-      "name": "Alterlife",
-      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold The Girl (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
       },
@@ -551,6 +555,22 @@
       "duration_ms": 153466,
       "name": "Flavour Of The Month",
       "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 244078,
+      "name": "Alterlife",
+      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
     },
     {
       "added_at": null,
@@ -591,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Valentine (What's It Gonna Be)",
         "url": "https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO"
       },
@@ -619,6 +623,22 @@
       "duration_ms": 207355,
       "name": "Valentine (What's It Gonna Be)",
       "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,

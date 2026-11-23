@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Jennifer Lost The War (Live at The Stone Pony)",
+        "url": "https://open.spotify.com/album/3VIwRyFG7Pdps7VW2x2eht"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157458,
+      "name": "Jennifer Lost The War - Live At The Stone Pony",
+      "url": "https://open.spotify.com/track/65guiRunfyItWrZs1mgzTH"
+    },
+    {
+      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
       },
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 152466,
       "name": "Session - 2008 Remaster",
       "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"

@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 527752,
+  "num_followers": 527820,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -723,18 +723,22 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
         }
       ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+      "duration_ms": 201322,
+      "name": "On D Gas",
+      "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -759,22 +763,34 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 201322,
-      "name": "On D Gas",
-      "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -795,22 +811,6 @@
       "duration_ms": 180693,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -867,6 +867,26 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
+        "name": "holanda (Remix)",
+        "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "holanda - Remix",
+      "url": "https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
         "name": "Kamikaze (feat. Victor Mendivil)",
         "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 248362,
       "name": "Kamikaze (feat. Victor Mendivil)",
       "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "holanda (Remix)",
-        "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
-      },
-      "artists": [
-        {
-          "name": "EL DE LA TINTA",
-          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "holanda - Remix",
-      "url": "https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
-        "name": "Que Gacho",
-        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "Que Gacho",
-      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
       },
@@ -983,18 +963,22 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+        "name": "Que Gacho",
+        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 282266,
-      "name": "Cara A La Muerte (En Vivo)",
-      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
+      "duration_ms": 193205,
+      "name": "Que Gacho",
+      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1019,6 +1003,46 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 282266,
+      "name": "Cara A La Muerte (En Vivo)",
+      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 260285,
+      "name": "Malas Rachas - En Vivo",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
         "name": "Changuito Me Apodaron",
         "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
       },
@@ -1031,22 +1055,6 @@
       "duration_ms": 163350,
       "name": "Changuito Me Apodaron",
       "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 200658,
-      "name": "BLANCA ROSITA Y MARIA",
-      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1067,6 +1075,22 @@
       "duration_ms": 195314,
       "name": "Asquerosamente Rico",
       "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 200658,
+      "name": "BLANCA ROSITA Y MARIA",
+      "url": "https://open.spotify.com/track/1wsDxqEDpsvNCatbXHjOje"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1099,30 +1123,6 @@
       "duration_ms": 169496,
       "name": "Arriba la Barbiza",
       "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "Malas Rachas",
-        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 260285,
-      "name": "Malas Rachas - En Vivo",
-      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
-        "name": "LOS MENSAJES DE WHATSAPP",
-        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 199848,
-      "name": "LOS MENSAJES DE WHATSAPP",
-      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1311,22 +1315,38 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
-        "name": "Mood Malandro",
-        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+        "name": "LOS MENSAJES DE WHATSAPP",
+        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 191558,
-      "name": "Mood Malandro",
-      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
+      "duration_ms": 199848,
+      "name": "LOS MENSAJES DE WHATSAPP",
+      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 171676,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1363,26 +1383,6 @@
       "duration_ms": 165482,
       "name": "COMO CAPO",
       "url": "https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "La Formula",
-        "url": "https://open.spotify.com/album/44P5j9NbwEeTTJSCd8xOcd"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 171676,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
         "name": "The Gemeliza",
         "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 156471,
       "name": "Soy Un Joven",
       "url": "https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2026-11-06 21:24:29",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-11-06 21:24:29",
       "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+    },
+    {
+      "added_at": "2026-11-06 21:24:29",
+      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 164565,
       "name": "Hasta Enfrente",
       "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
-    },
-    {
-      "added_at": "2026-11-06 21:24:29",
-      "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
     },
     {
       "added_at": "2026-11-06 21:24:29",

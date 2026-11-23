@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,727 songs - 4 day 4 hr 58 min
+1,729 songs - 4 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [disaster](https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [disaster](https://open.spotify.com/album/76FbLBSd2Zot5goToxcbHN) | 3:40 | 2026-07-13 | 2026-08-10 |
 | [Discúlpame por favor](https://open.spotify.com/track/5cdp1jlB5RDbywqL9Kaiuk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un ciclo sin remedio](https://open.spotify.com/album/7HKcT6JUt4O8fATJE0ic94) | 3:01 | 2025-12-21 | 2026-01-24 |
 | [Distant](https://open.spotify.com/track/2jNJnPtSBf6KT9VXyJkzJY) | [Morning Haze](https://open.spotify.com/artist/49vfSJBSQWYwVfJxLBCrRq) | [First Light](https://open.spotify.com/album/4eY9whcqBr5JxGszasTZXz) | 3:46 | 2025-09-23 | 2025-11-29 |
+| [Do I Deserve Your Love?](https://open.spotify.com/track/4bocWQByC0089IiiyKhugL) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Do I Deserve Your Love?](https://open.spotify.com/album/2m0fTUkZsFoez9qw19UVqh) | 4:16 | 2026-11-22 |  |
 | [Doc Holliday](https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Doc Holliday](https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro) | 4:49 | 2026-04-07 | 2026-05-03 |
 | [DOLCE](https://open.spotify.com/track/594tgNfprD7dVLNV3zxuI4) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [XØ/LØVE II](https://open.spotify.com/album/1PJnS9MVKgPH245DbET7fx) | 2:52 | 2026-03-10 | 2026-04-12 |
 | [Don't Go into Decline](https://open.spotify.com/track/26jxUzCuaOEh3FIV94ENXQ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Don't Go Into Decline](https://open.spotify.com/album/2wk8NzsQBaA23jHCMtcqKo) | 4:20 | 2026-06-15 | 2026-07-19 |
@@ -1122,6 +1123,7 @@
 | [Petali](https://open.spotify.com/track/7edv8TCszqSqjkOxJEd2AC) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Petali](https://open.spotify.com/album/4piBiaskMrcGbkiWvpp0jL) | 6:40 | 2026-11-15 |  |
 | [Phantom Weight](https://open.spotify.com/track/1d9W6uREzwaawiVwsUKfMT) | [Somehow Still](https://open.spotify.com/artist/2Aq4kxpeIpszxCKwgoJwae) | [Phantom Weight](https://open.spotify.com/album/17J9feK1my3d9695vldjVq) | 3:21 | 2025-12-22 | 2026-01-24 |
 | [Photographs](https://open.spotify.com/track/3IKbxWwUD73DWsEnC7JpMt) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Photographs](https://open.spotify.com/album/73mMrzIKfiutjKbQjCFfFi) | 6:06 | 2025-11-24 | 2026-01-05 |
+| [Piccola Mia](https://open.spotify.com/track/4US8zSZBo1hGIjoIwjb8Mg) | [Pako](https://open.spotify.com/artist/0WbqzGPees7cAqgr7HcUYR) | [Piccola Mia](https://open.spotify.com/album/7Eu5MVtDHGnJRD8uTx2tMr) | 3:18 | 2026-11-22 |  |
 | [Pick a Side](https://open.spotify.com/track/6B4NPK1kymjumXhnJisVdP) | [Azmora](https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO) | [Pick a Side](https://open.spotify.com/album/1VBR04V2BOLxpeZLDaDw3f) | 2:52 | 2026-03-02 | 2026-03-25 |
 | [Pick Up The Phone](https://open.spotify.com/track/0qtiw8duA3223Ra48ORunD) | [Hard To Miss](https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR) | [Pick Up The Phone](https://open.spotify.com/album/6p9rLyli7GEmQvEdr20MT9) | 4:25 | 2026-01-28 | 2026-02-28 |
 | [Piece it All Together](https://open.spotify.com/track/57bUSMKc2qXs5YaSAr3v5B) | [sye](https://open.spotify.com/artist/5dEiL3I7NaBoztJwTW57Eu), [hostile](https://open.spotify.com/artist/6L2LCvRvTnMqleBeyQjNWW) | [Piece it All Together](https://open.spotify.com/album/5yKiMqbs4V121dElzcyTEZ) | 3:36 | 2026-06-30 | 2026-08-10 |

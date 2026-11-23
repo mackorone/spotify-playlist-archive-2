@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAB7eVRBVNWN2BT3WYJTiD2J",
+  "snapshot_id": "awDfAAAAAAAB2ERJKF0SZmVe2SG43+aX",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 123041,
-      "name": "SQUEAK",
-      "url": "https://open.spotify.com/track/54AkXQ3AG8tR62EJcF19Er"
+      "duration_ms": 136810,
+      "name": "call me daddy",
+      "url": "https://open.spotify.com/track/3jO8dlm0m0sCyt4OcmrG05"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 136810,
-      "name": "call me daddy",
-      "url": "https://open.spotify.com/track/3jO8dlm0m0sCyt4OcmrG05"
+      "duration_ms": 123041,
+      "name": "SQUEAK",
+      "url": "https://open.spotify.com/track/54AkXQ3AG8tR62EJcF19Er"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deserve Each Other",
-        "url": "https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH"
+        "name": "SEX MACHINA",
+        "url": "https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 167650,
-      "name": "Deserve Each Other",
-      "url": "https://open.spotify.com/track/4sQzliwhbjG17hZMXkg7aL"
+      "duration_ms": 129397,
+      "name": "SEX MACHINA",
+      "url": "https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEX MACHINA",
-        "url": "https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0"
+        "name": "Deserve Each Other",
+        "url": "https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 129397,
-      "name": "SEX MACHINA",
-      "url": "https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU"
+      "duration_ms": 167650,
+      "name": "Deserve Each Other",
+      "url": "https://open.spotify.com/track/4sQzliwhbjG17hZMXkg7aL"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lickity Splickity",
-        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Lickity Splickity",
-      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOYS BOYS BOYS",
         "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 130095,
       "name": "BOYS BOYS BOYS",
       "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lickity Splickity",
+        "url": "https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Lickity Splickity",
+      "url": "https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishin",
-        "url": "https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "Indigowavv",
-          "url": "https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Wishin",
-      "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steve Aoki (feat. bludnymph)",
         "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 150857,
       "name": "Steve Aoki (feat. bludnymph)",
       "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishin",
+        "url": "https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "Indigowavv",
+          "url": "https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Wishin",
+      "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
     }
   ],
   "unique_name": "This Is bludnymph",

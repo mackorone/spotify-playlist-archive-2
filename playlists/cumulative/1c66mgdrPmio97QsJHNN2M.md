@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,306 songs - 7 day 5 hr 41 min
+3,310 songs - 7 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1304,6 +1304,7 @@
 | [I feel like cello](https://open.spotify.com/track/1ia5kO08ORZMJpByEXIATW) | [Vontiger](https://open.spotify.com/artist/0Hm36zzJ7XBUjqlMoQqc64) | [I feel like](https://open.spotify.com/album/6iF61A7MukN95aNO9PTScm) | 2:13 | 2026-06-16 | 2026-07-17 |
 | [I feel like pulse 1](https://open.spotify.com/track/2C1BzBxzN3rhz6E6l3FZ9f) | [Vontiger](https://open.spotify.com/artist/0Hm36zzJ7XBUjqlMoQqc64) | [I feel like](https://open.spotify.com/album/6iF61A7MukN95aNO9PTScm) | 2:36 | 2026-11-14 |  |
 | [I Find My Song](https://open.spotify.com/track/1M0qYTLT54tub1POGPqpxq) | [Lisa Jo](https://open.spotify.com/artist/0dvzAmfBa1sWZUbowP6VPH), [SoundPulse Record Label LLC](https://open.spotify.com/artist/66zjIq3yG58uTzqyiTFHbn) | [I Find My Song](https://open.spotify.com/album/4mX4VMQAJZDFt0j25pU9Fg) | 2:18 | 2026-04-30 | 2026-06-01 |
+| [I Found You](https://open.spotify.com/track/7FAOdJLKwdLJhe0BtEx9aU) | [Eden Roze](https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr) | [Verus](https://open.spotify.com/album/6yCCyLtibjser8qw0sdzvb) | 3:12 | 2026-11-22 |  |
 | [I Got Faith](https://open.spotify.com/track/28zCVZu2dqQD2RzE1G6nNN) | [Uneekint](https://open.spotify.com/artist/73no0Yxs5lkOd6fCl7UgzI) | [I Got Faith](https://open.spotify.com/album/23BYluRGdpi1gxcGD6QHXu) | 2:15 | 2025-11-15 | 2025-12-17 |
 | [I Hear You](https://open.spotify.com/track/5RSD92OJV6LwOmmpna2Qvl) | [Horizon Beyond](https://open.spotify.com/artist/7xYPCMdIWqDBS1gUzAtFad) | [I Hear You](https://open.spotify.com/album/5A0YjCeul2G05IKCIKHR8f) | 3:14 | 2026-10-10 | 2026-11-12 |
 | [I heard you](https://open.spotify.com/track/17SK0mwiWBdAz8srEGJbdM) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [I heard you](https://open.spotify.com/album/4yMoMfwqAYjz3Gg9i7TN1Y) | 4:13 | 2026-04-08 | 2026-05-10 |
@@ -2379,6 +2380,7 @@
 | [Sanctuary Of My Peace](https://open.spotify.com/track/7xvGZGpGjxffiKm0UsBYtv) | [Not Old Memories Only Sound](https://open.spotify.com/artist/5GDg1Ud6FtW8kFUbiErvB2) | [Bitter Sky 2.0](https://open.spotify.com/album/7wfT88HcttuRxtnhn2lcXF) | 4:20 | 2026-03-11 | 2026-04-13 |
 | [Sandcastles](https://open.spotify.com/track/5ZGKWGwU54Q5d5QlcqMsu3) | [Mick Overmere](https://open.spotify.com/artist/6XqFmDwHlTAPK2cn5Z69Jk) | [Sandcastles](https://open.spotify.com/album/5L9cG04SEISJ6jjR4w7jhD) | 2:42 | 2026-08-28 | 2026-09-29 |
 | [Sandy Feet](https://open.spotify.com/track/7bma8yjiFQ8xLd5dSYueIR) | [Olivia Farabaugh](https://open.spotify.com/artist/1tmqcd1USna0bubmfMsNoP) | [Sandy Feet](https://open.spotify.com/album/1s2v9i6kqewNywDwc547e8) | 3:21 | 2026-06-20 | 2026-07-22 |
+| [Santa Look Away](https://open.spotify.com/track/06kGja0MOlivYKzuZocAvD) | [DANICO](https://open.spotify.com/artist/4muyTf4rhYUHUu6jtR3XU8), [Tabba](https://open.spotify.com/artist/71QfjBjd0okDeICcxMhf9C) | [Santa Look Away](https://open.spotify.com/album/5gGZ3rnLoGD0GdQofKbHnH) | 2:34 | 2026-11-22 |  |
 | [Santa, fly tonight](https://open.spotify.com/track/0uMnD5hnZxZEY9MUSrNKq0) | [A MAZE ING](https://open.spotify.com/artist/2fFSfjyrKI972ehst3G6lT) | [Santa, fly tonight](https://open.spotify.com/album/6q38QX2anSoEUNY4KHJfim) | 3:24 | 2025-11-10 | 2025-12-11 |
 | [Saphiro](https://open.spotify.com/track/6721XvDHDrQxaWFoQEimDS) | [Nelida Oyma](https://open.spotify.com/artist/0Lz7pU7JVdR7ZA8K4m264J) | [Saphiro](https://open.spotify.com/album/1dFZJtaYitHtKF5XPWqpmp) | 4:28 | 2026-01-23 | 2026-02-24 |
 | [Sarah](https://open.spotify.com/track/3be1EOoGf3cDFqzCaalEw1) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [Sarah](https://open.spotify.com/album/491mNGa7KCeSIS32ik1Ewp) | 1:42 | 2026-03-02 | 2026-04-03 |
@@ -2624,6 +2626,7 @@
 | [Struck By You](https://open.spotify.com/track/0t9gMLis4GwChM8QDXFqRw) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK) | [Struck By You](https://open.spotify.com/album/6DFALfHV8X96qJUYro9brF) | 3:29 | 2026-08-02 | 2026-09-05 |
 | [Stuck In A Moment](https://open.spotify.com/track/3WUDHQWBSf53lWfKbtCVp0) | [Pink Peaches](https://open.spotify.com/artist/6aYTftFJlm73s2Xjf4qLUF) | [Stuck In A Moment](https://open.spotify.com/album/4TIKdMM7ALHTeSNGZDKXnK) | 3:23 | 2026-01-09 | 2026-02-11 |
 | [Stuck in Amsterdamn \- Remaster](https://open.spotify.com/track/032WydYzKxM1b70cgdefgh) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Near Singleton](https://open.spotify.com/album/4Grag18jkQ6LbnsxCJ9Q4e) | 3:24 | 2026-03-01 | 2026-04-02 |
+| [Stuck in the Middle](https://open.spotify.com/track/6PFUJO55SLs03ZoTnbv85C) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Iperborea Vol.1](https://open.spotify.com/album/6bB7FULYQlQwci2DZDrxTX) | 3:24 | 2026-11-22 |  |
 | [Stuck in The Programmed Death](https://open.spotify.com/track/2G3O85k3Q8iHarWK7QHoyV) | [Michael Paul](https://open.spotify.com/artist/3EEUlpqSvIkd3fATYXbjKe) | [The Rainbow Moon](https://open.spotify.com/album/0zmIxSRYfnPy3tSP0EMRUM) | 2:55 | 2026-08-09 | 2026-09-11 |
 | [Stupid!!](https://open.spotify.com/track/14NNskKv4O1zDHFdvwFBL4) | [Noa Dear](https://open.spotify.com/artist/22pvoqQ30AljyB7Vxi0F0U) | [Stupid!!](https://open.spotify.com/album/2ck5HS36qSJr6JQcjURKQm) | 3:30 | 2026-09-11 | 2026-10-12 |
 | [submerged](https://open.spotify.com/track/4tVKwI5pbW2OctxqIYrHp2) | [3one](https://open.spotify.com/artist/3c3wnuthee73iDayBep9Th) | [submerged](https://open.spotify.com/album/4tIEYgYE2Au5WwScjqabX2) | 3:08 | 2026-01-24 | 2026-02-25 |
@@ -2788,6 +2791,7 @@
 | [The Light We Follow](https://open.spotify.com/track/1TmPPyFVs2eixCIBygAVZD) | [Even the Stones](https://open.spotify.com/artist/61fz1O255Ugkef2PIhI2gB) | [The Light We Follow](https://open.spotify.com/album/2Gu41B1tuwYhXmjeE2pHl4) | 4:50 | 2025-12-07 | 2026-01-15 |
 | [The Lost Boys](https://open.spotify.com/track/12RX9NDm2vFySJWXLywJgl) | [OneNamedPeter](https://open.spotify.com/artist/5EUbQiDdmrCT0DY3JKebv7) | [The Lost Boys](https://open.spotify.com/album/5uhq5DBj9ihpNPF9i0Wuj6) | 3:23 | 2026-06-22 | 2026-07-23 |
 | [The Luge](https://open.spotify.com/track/0LFBLhgHho67qvzexB2NpV) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [The Luge](https://open.spotify.com/album/2Ihewiydstnhs5QvDU6xOc) | 3:48 | 2026-05-01 | 2026-06-02 |
+| [The Mahdi](https://open.spotify.com/track/09fGfPrfeHoNB2J3c8GcqC) | [ZAYN REX](https://open.spotify.com/artist/6XYUi1Vy6fTFtpbFPMJ5ud) | [The Mahdi](https://open.spotify.com/album/0lpwaWj6VPgzTQaFPkrcrp) | 2:46 | 2026-11-22 |  |
 | [The Many Shadows of You](https://open.spotify.com/track/4kqvlUztLqKzoVZXh0p031) | [Simone Cutrì](https://open.spotify.com/artist/2EwXmN8S5xzf3tzMkH0eDZ) | [The Many Shadows of You](https://open.spotify.com/album/3eUxd5YPFFux2pv5F1kfzi) | 2:44 | 2025-10-27 | 2025-11-29 |
 | [The Memory of You](https://open.spotify.com/track/0jtlImtIZzrws95iJ78n2s) | [Deidre Mc Gerty](https://open.spotify.com/artist/2ypOj0yFXd4wEeKh70baH4) | [The Memory of You](https://open.spotify.com/album/1XmDt86DiSE9iD1DygOyvd) | 3:21 | 2026-03-06 | 2026-04-07 |
 | [The Middle](https://open.spotify.com/track/0DZCEds7evvfjdkFU1Lc9d) | [Plain Talk](https://open.spotify.com/artist/5OcMcyxdvlScEtjvozI6vQ) | [Common Ground](https://open.spotify.com/album/6mSg9YkZEfxtMA84EgmbH1) | 2:48 | 2025-10-20 | 2025-11-23 |

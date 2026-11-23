@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 362929,
+  "num_followers": 363067,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -864,21 +864,37 @@
       },
       "artists": [
         {
-          "name": "Zack Knight",
-          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Jasmin Walia",
-          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
         },
         {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Navraj Hans",
+          "url": "https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K"
+        },
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        {
+          "name": "Singhsta",
+          "url": "https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G"
+        },
+        {
+          "name": "Oye Sheraa",
+          "url": "https://open.spotify.com/artist/3gyYSD2w6UlmfrTeIY3Y3i"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
-      "duration_ms": 238530,
-      "name": "Bom Diggy Diggy",
-      "url": "https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt"
+      "duration_ms": 203881,
+      "name": "Chhote Chhote Peg",
+      "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -915,6 +931,30 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 238530,
+      "name": "Bom Diggy Diggy",
+      "url": "https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
         "name": "OK Jaanu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6"
       },
@@ -947,46 +987,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Navraj Hans",
-          "url": "https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K"
-        },
-        {
-          "name": "Anand Raj Anand",
-          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
-        },
-        {
-          "name": "Singhsta",
-          "url": "https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G"
-        },
-        {
-          "name": "Oye Sheraa",
-          "url": "https://open.spotify.com/artist/3gyYSD2w6UlmfrTeIY3Y3i"
-        },
-        {
-          "name": "Sameer Anjaan",
-          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
-        }
-      ],
-      "duration_ms": 203881,
-      "name": "Chhote Chhote Peg",
-      "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Tabaahi (From \"Toxic\")",
         "url": "https://open.spotify.com/album/3DP9Ds4OfCIkacLBsmJYOg"
       },
@@ -1003,6 +1003,46 @@
       "duration_ms": 257604,
       "name": "Tabaahi - From \"Toxic\"",
       "url": "https://open.spotify.com/track/0bRRLtD0Tmfg8ZaP9Qf1Sq"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "duration_ms": 243206,
+      "name": "Yaar Naa Miley",
+      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Genda Phool (feat. Payal Dev)",
+        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Genda Phool (feat. Payal Dev)",
+      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1035,26 +1075,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Genda Phool (feat. Payal Dev)",
-        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Genda Phool (feat. Payal Dev)",
-      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Dangal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/354TJOapvmkc4JCxi9vJHh"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 299325,
       "name": "Dangal",
       "url": "https://open.spotify.com/track/5Ry67OqwCxKbswCxcPHcg9"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "Yaar Naa Miley",
-      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1307,34 +1307,6 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "Welcome To The Jungle (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1W7FuYLH3fv0lncFQ7hmqE"
-      },
-      "artists": [
-        {
-          "name": "KavyaKriti",
-          "url": "https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr"
-        },
-        {
-          "name": "Saket Bairoliya",
-          "url": "https://open.spotify.com/artist/2tyj2W70Qq49Je5LtqlfYK"
-        },
-        {
-          "name": "Anand Raj Anand",
-          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
-        },
-        {
-          "name": "Farhad Samji",
-          "url": "https://open.spotify.com/artist/1vbqWQH2DNjYqkBNMpmeD1"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "O Mere Balam",
-      "url": "https://open.spotify.com/track/3azdP4S8HuYlgB2AgiTTAG"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
         "name": "Hauli Hauli (From \"De De Pyaar De\")",
         "url": "https://open.spotify.com/album/7BaHZuSZetmYHSt6anOMQg"
       },
@@ -1359,6 +1331,34 @@
       "duration_ms": 209393,
       "name": "Hauli Hauli (From \"De De Pyaar De\")",
       "url": "https://open.spotify.com/track/60XrRbNjDMAGUZ2xLkU9W3"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
+        "name": "Welcome To The Jungle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1W7FuYLH3fv0lncFQ7hmqE"
+      },
+      "artists": [
+        {
+          "name": "KavyaKriti",
+          "url": "https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr"
+        },
+        {
+          "name": "Saket Bairoliya",
+          "url": "https://open.spotify.com/artist/2tyj2W70Qq49Je5LtqlfYK"
+        },
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        {
+          "name": "Farhad Samji",
+          "url": "https://open.spotify.com/artist/1vbqWQH2DNjYqkBNMpmeD1"
+        }
+      ],
+      "duration_ms": 169124,
+      "name": "O Mere Balam",
+      "url": "https://open.spotify.com/track/3azdP4S8HuYlgB2AgiTTAG"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
+        "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
+      },
+      "artists": [
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Aai Paapi",
+      "url": "https://open.spotify.com/track/7Bw56mGeOVbBBWBSLg356s"
+    },
+    {
+      "added_at": "2026-11-03 07:27:04",
+      "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 215075,
       "name": "Let's Nacho",
       "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
-    },
-    {
-      "added_at": "2026-11-03 07:27:04",
-      "album": {
-        "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
-      },
-      "artists": [
-        {
-          "name": "Neeraj Shridhar",
-          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "Aai Paapi",
-      "url": "https://open.spotify.com/track/7Bw56mGeOVbBBWBSLg356s"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "They Call Him KING - King Theme (From \"King\")",
-        "url": "https://open.spotify.com/album/2KZaoN2wG6Vm0hSrptLXSJ"
+        "name": "One Name (From \"Rajini The Jailer 2\")",
+        "url": "https://open.spotify.com/album/4ozLDcJr1VbnHuNgUPa8AE"
       },
       "artists": [
         {
@@ -1680,13 +1680,25 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+          "name": "Saatvik G Rao",
+          "url": "https://open.spotify.com/artist/5Fgnpse5iLW3pcocaxZThz"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
         }
       ],
-      "duration_ms": 75093,
-      "name": "They Call Him KING - King Theme (From \"King\")",
-      "url": "https://open.spotify.com/track/7KKXCjrcxlLf69F3p9theL"
+      "duration_ms": 204130,
+      "name": "One Name (From \"Rajini The Jailer 2\")",
+      "url": "https://open.spotify.com/track/7oiSJDOwRvdkYb18oDo436"
     },
     {
       "added_at": "2026-11-03 07:27:04",
@@ -1799,8 +1811,8 @@
     {
       "added_at": "2026-11-03 07:27:04",
       "album": {
-        "name": "One Name (From \"Rajini The Jailer 2\")",
-        "url": "https://open.spotify.com/album/4ozLDcJr1VbnHuNgUPa8AE"
+        "name": "They Call Him KING - King Theme (From \"King\")",
+        "url": "https://open.spotify.com/album/2KZaoN2wG6Vm0hSrptLXSJ"
       },
       "artists": [
         {
@@ -1808,25 +1820,13 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Saatvik G Rao",
-          "url": "https://open.spotify.com/artist/5Fgnpse5iLW3pcocaxZThz"
-        },
-        {
-          "name": "Raqueeb Alam",
-          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
-        },
-        {
-          "name": "J.V. Sudhanshu",
-          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
-        },
-        {
-          "name": "Lakshmi Meghana",
-          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
         }
       ],
-      "duration_ms": 204130,
-      "name": "One Name (From \"Rajini The Jailer 2\")",
-      "url": "https://open.spotify.com/track/7oiSJDOwRvdkYb18oDo436"
+      "duration_ms": 75093,
+      "name": "They Call Him KING - King Theme (From \"King\")",
+      "url": "https://open.spotify.com/track/7KKXCjrcxlLf69F3p9theL"
     },
     {
       "added_at": "2026-11-03 07:27:04",

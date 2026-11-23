@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 258215,
+  "num_followers": 258235,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADc1iS5wWLYLqFIWiqJ2UTY",
+  "snapshot_id": "awDfAAAAAAAhRVhnpzQ8xzDtXrpUuwpb",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 248320,
-      "name": "Last Lap",
-      "url": "https://open.spotify.com/track/1qJGJR5DXftoDjeNjNvIDy"
+      "duration_ms": 159669,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
       "artists": [
         {
@@ -232,9 +232,25 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 159669,
-      "name": "Heart On Ice",
-      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
+      "duration_ms": 248320,
+      "name": "Last Lap",
+      "url": "https://open.spotify.com/track/1qJGJR5DXftoDjeNjNvIDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 111751,
+      "name": "Chip On My Shoulder",
+      "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
     },
     {
       "added_at": null,
@@ -259,22 +275,6 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 111751,
-      "name": "Chip On My Shoulder",
-      "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
     },
     {
       "added_at": null,
@@ -448,17 +448,21 @@
       "added_at": null,
       "album": {
         "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f"
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
       "artists": [
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 166578,
-      "name": "Boyz Don't Cry",
-      "url": "https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM"
+      "duration_ms": 203345,
+      "name": "Turks & Caicos (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
     },
     {
       "added_at": null,
@@ -516,21 +520,17 @@
       "added_at": null,
       "album": {
         "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+        "url": "https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f"
       },
       "artists": [
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 203345,
-      "name": "Turks & Caicos (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
+      "duration_ms": 166578,
+      "name": "Boyz Don't Cry",
+      "url": "https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM"
     },
     {
       "added_at": null,

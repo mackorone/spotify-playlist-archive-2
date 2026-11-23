@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,079 likes - 85 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,091 likes - 85 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 35 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 |
 | 36 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
 | 37 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
-| 38 | [Sparks Down](https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy) | [KiddoCalvin](https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6) | [Sparks Down](https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h) | 2:18 |
-| 39 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 |
+| 38 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 |
+| 39 | [Sparks Down](https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy) | [KiddoCalvin](https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6) | [Sparks Down](https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h) | 2:18 |
 | 40 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 |
 | 41 | [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 |
 | 42 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 44 | [night gaze](https://open.spotify.com/track/0gTqtb5dNhqMpEuz3v2LCf) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [night gaze](https://open.spotify.com/album/4Ux0OruNOUwCWT10UMcn6a) | 2:41 |
 | 45 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 |
 | 46 | [all the stars in the sky](https://open.spotify.com/track/2QJ3SfZuMA5nOi6LrDFJbs) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [all the stars in the sky](https://open.spotify.com/album/4iFeZo1H2srsSgeV5DLOrb) | 2:27 |
-| 47 | [Bar Breeze](https://open.spotify.com/track/4cPDwwClSmyI85odEgVVgm) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Bar Breeze](https://open.spotify.com/album/58Igwkq1QIk5dfnfoqaB5M) | 2:18 |
-| 48 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 |
+| 47 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 |
+| 48 | [Bar Breeze](https://open.spotify.com/track/4cPDwwClSmyI85odEgVVgm) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Bar Breeze](https://open.spotify.com/album/58Igwkq1QIk5dfnfoqaB5M) | 2:18 |
 | 49 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 |
 | 50 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 |
 | 51 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 56 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
 | 57 | [no way but up](https://open.spotify.com/track/4M7gbh6sluTRP6BXnYpzyz) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [no way but up](https://open.spotify.com/album/197jKvvY3xuS1ggGpcEdGW) | 1:46 |
 | 58 | [Don’t Forget Me](https://open.spotify.com/track/3OjultkM3CXtK0JFmCO5Ux) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:49 |
-| 59 | [Humble Thoughts](https://open.spotify.com/track/38QAKMfUQMUVOkVsDJ1tlh) | [Somebody's Son](https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny) | [Humble Thoughts](https://open.spotify.com/album/1rWA1dux14RbyTupsbWiUa) | 1:29 |
-| 60 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 |
+| 59 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 |
+| 60 | [Humble Thoughts](https://open.spotify.com/track/38QAKMfUQMUVOkVsDJ1tlh) | [Somebody's Son](https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny) | [Humble Thoughts](https://open.spotify.com/album/1rWA1dux14RbyTupsbWiUa) | 1:29 |
 | 61 | [Undeniable](https://open.spotify.com/track/4VkuebWvS2LlxmnMjukZ21) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Undeniable](https://open.spotify.com/album/6Yi9YIuFueT15dls1lblx2) | 2:34 |
 | 62 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 |
 | 63 | [looking back](https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [looking back](https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq) | 2:10 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 65 | [Heroes Retreat](https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [Heroes Retreat](https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP) | 2:03 |
 | 66 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 |
 | 67 | [Lax](https://open.spotify.com/track/4I4tqUKsQ2mC89NoB8RLDC) | [Mellow Moose](https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR) | [Lax](https://open.spotify.com/album/1843ngbpbg1YhvSO6sAA4l) | 2:22 |
-| 68 | [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 |
-| 69 | [Sparkle](https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Sparkle](https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP) | 2:30 |
+| 68 | [Sparkle](https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Sparkle](https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP) | 2:30 |
+| 69 | [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 |
 | 70 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 |
 | 71 | [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 |
 | 72 | [L.B.H.U](https://open.spotify.com/track/30VyqwDufoHJrOWBbrnZVq) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Gijri](https://open.spotify.com/album/346x1qpLsub5x6B2MNx2sE) | 3:28 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 79 | [Still Dock](https://open.spotify.com/track/6CvradJS3BYVT3sjrz6y6n) | [Half Memory](https://open.spotify.com/artist/5oDGsGsO36Sruc5NNySUTe) | [Still Dock](https://open.spotify.com/album/0S3NzJXHH92qA9LNui23nG) | 2:02 |
 | 80 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 |
 | 81 | [high above](https://open.spotify.com/track/4iIFJ3anp1aKw6fx0tg8jD) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [high above](https://open.spotify.com/album/0dNK0JXw77i4UaG6HRVidc) | 1:42 |
-| 82 | [fireflies](https://open.spotify.com/track/2ysRTsqiXpcYaE5MMNQIbe) | [idle hrs](https://open.spotify.com/artist/4HrVlP6B7WhPbiw5uJW1Wt) | [fireflies](https://open.spotify.com/album/0ndMlb3FqD1ny6gv4t74ZO) | 2:03 |
+| 82 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 |
 | 83 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 |
-| 84 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 |
+| 84 | [fireflies](https://open.spotify.com/track/2ysRTsqiXpcYaE5MMNQIbe) | [idle hrs](https://open.spotify.com/artist/4HrVlP6B7WhPbiw5uJW1Wt) | [fireflies](https://open.spotify.com/album/0ndMlb3FqD1ny6gv4t74ZO) | 2:03 |
 | 85 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 |
 
 Snapshot ID: `AAAAAAB5i6dfqqNsxoweE660vrDhB7fO`

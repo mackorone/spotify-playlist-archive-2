@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sfera Ebbasta, Dua Lipa, Angelica Bove, Jul e J Balvin, Gracie Abrams e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,323 likes - 95 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,312 likes - 95 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 94145,
+  "num_followers": 94153,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAC8lxyklaeG0uEJkQDMApPO",
+  "snapshot_id": "awDfAAAAAACqLvUVM2iQ9Ih7OSs0amH3",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 122320,
-      "name": "Bob",
-      "url": "https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coaster",
         "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 127853,
       "name": "We Called It America",
       "url": "https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 122320,
+      "name": "Bob",
+      "url": "https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Stickin In My Eye",
-      "url": "https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Entitled",
         "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 122746,
       "name": "Cell Out",
       "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Stickin In My Eye",
+      "url": "https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pump Up The Valuum",
-        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Dinosaurs Will Die",
-      "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 Years Of Fuckin' Up: Soundtrack + Score",
         "url": "https://open.spotify.com/album/5hM0luqn90CkruMS90At60"
       },
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 160706,
-      "name": "The Brews",
-      "url": "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
+      "duration_ms": 178573,
+      "name": "Dinosaurs Will Die",
+      "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
       "duration_ms": 124026,
       "name": "The Longest Line",
       "url": "https://open.spotify.com/track/76ePTtXUWNxPzip6pTt69O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 160706,
+      "name": "The Brews",
+      "url": "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 78271,
-      "name": "The Quass",
-      "url": "https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 78271,
+      "name": "The Quass",
+      "url": "https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -356,9 +356,25 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 80800,
-      "name": "It's My Job To Keep Punk Rock Elite",
-      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
+      "duration_ms": 54600,
+      "name": "Monosyllabic Girl",
+      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Leaving Jesusland",
+      "url": "https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Leaving Jesusland",
-      "url": "https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 54600,
-      "name": "Monosyllabic Girl",
-      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
+      "duration_ms": 80800,
+      "name": "It's My Job To Keep Punk Rock Elite",
+      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
     },
     {
       "added_at": null,
@@ -439,54 +439,6 @@
       "duration_ms": 142440,
       "name": "Liza And Louise",
       "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ribbed",
-        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "The Moron Brothers",
-      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Philthy Phil Philanthropist",
-      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 45960,
-      "name": "Murder The Government",
-      "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
     },
     {
       "added_at": null,
@@ -516,9 +468,41 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 104466,
-      "name": "Green Corn",
-      "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
+      "duration_ms": 146933,
+      "name": "The Moron Brothers",
+      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 45960,
+      "name": "Murder The Government",
+      "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Philthy Phil Philanthropist",
+      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 140333,
       "name": "Bottles To The Ground",
       "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 104466,
+      "name": "Green Corn",
+      "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 166373,
-      "name": "Soul Doubt",
-      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 118000,
       "name": "What's The Matter With Parents Today?",
       "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Soul Doubt",
+      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Ditch Effort",
-        "url": "https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Oxy Moronic",
-      "url": "https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 164226,
-      "name": "We Threw Gasoline.......",
-      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
+      "duration_ms": 236026,
+      "name": "Oxy Moronic",
+      "url": "https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline.......",
+      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coaster",
         "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 153640,
       "name": "First Call",
       "url": "https://open.spotify.com/track/35bdtaqZPi3GayLcpZ5498"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The War on Errorism",
-        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "Mattersville",
-      "url": "https://open.spotify.com/track/2NnnVb5986T5L0qyLdMqmT"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 100935,
       "name": "What Are We Doing This For (feat. Codefendants)",
       "url": "https://open.spotify.com/track/3gqq3eT4HQX7nIxCf2qFTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "Mattersville",
+      "url": "https://open.spotify.com/track/2NnnVb5986T5L0qyLdMqmT"
     },
     {
       "added_at": null,

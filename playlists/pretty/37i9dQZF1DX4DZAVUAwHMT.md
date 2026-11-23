@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,452,370 likes - 81 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452,297 likes - 81 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

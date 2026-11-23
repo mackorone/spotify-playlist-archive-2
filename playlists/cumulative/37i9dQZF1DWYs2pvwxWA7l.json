@@ -2217,6 +2217,28 @@
     },
     {
       "album": {
+        "name": "Bigger (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6hkaerWZMubBWwyTDJP8J3"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169262,
+      "name": "Bigger (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4BDrbdeodpenlrORv4yqnc"
+    },
+    {
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -5397,6 +5419,28 @@
     },
     {
       "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
+    },
+    {
+      "album": {
         "name": "ATOM II",
         "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
       },
@@ -6182,7 +6226,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 161454,
       "name": "Gaddem",
       "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
@@ -11168,7 +11212,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 159183,
       "name": "Muhammad Ali (Can't Relate)",
       "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"

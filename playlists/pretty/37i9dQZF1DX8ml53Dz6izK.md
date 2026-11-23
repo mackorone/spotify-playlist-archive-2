@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,005 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,008 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 13 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 14 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 |
 | 15 | [That's What You Get](https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:40 |
-| 16 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
-| 17 | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:10 |
+| 16 | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:10 |
+| 17 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
 | 18 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
 | 19 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 |
 | 20 | [All I Wanted](https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 3:45 |
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 24 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 |
 | 25 | [crushcrushcrush](https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:09 |
 | 26 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
-| 27 | [I Don't Wanna Be In Love \(Dance Floor Anthem\)](https://open.spotify.com/track/36UVZPoK8a1Oxh13cY8kOp) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/5skjlzXO7wZ6OuS9YKdI50) | 4:04 |
-| 28 | [The Great Escape](https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/47ttGApwQx3iAWz8tFFnNj) | 3:26 |
+| 27 | [The Great Escape](https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/47ttGApwQx3iAWz8tFFnNj) | 3:26 |
+| 28 | [I Don't Wanna Be In Love \(Dance Floor Anthem\)](https://open.spotify.com/track/36UVZPoK8a1Oxh13cY8kOp) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/5skjlzXO7wZ6OuS9YKdI50) | 4:04 |
 | 29 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 30 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
 | 31 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
-| 32 | [But It's Better If You Do](https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:25 |
-| 33 | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD) | 3:46 |
+| 32 | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD) | 3:46 |
+| 33 | [But It's Better If You Do](https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:25 |
 | 34 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 |
 | 35 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 |
 | 36 | [The Diary of Jane \- Single Version](https://open.spotify.com/track/5pvJ59i7JxylN8VB24xdMs) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:20 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 57 | [Hello Fascination](https://open.spotify.com/track/1y8lFR39LJlYEdmxyUsXbA) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Hello Fascination](https://open.spotify.com/album/04mqej2VPYCufws8yIFWEy) | 3:22 |
 | 58 | [Bodybag](https://open.spotify.com/track/4iplm64dNcvu82IbBOqSnX) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [This is a Stick Up…don't Make It a Murder](https://open.spotify.com/album/4Sik3cj1yd7NilzGjI2u0B) | 3:09 |
 | 59 | [Which to Bury; Us or the Hatchet?](https://open.spotify.com/track/6BWLcSdnfewflgO6x1V73p) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:11 |
-| 60 | [Kelsey](https://open.spotify.com/track/5weqqLD5pDadqumvcrRCVA) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 3:37 |
-| 61 | [Girls Do What They Want](https://open.spotify.com/track/3nOjVAn9ohlCATDl1040v6) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 3:12 |
+| 60 | [Girls Do What They Want](https://open.spotify.com/track/3nOjVAn9ohlCATDl1040v6) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 3:12 |
+| 61 | [Kelsey](https://open.spotify.com/track/5weqqLD5pDadqumvcrRCVA) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 3:37 |
 | 62 | [6 Months](https://open.spotify.com/track/5RJyX7ZuBwTQeQgyxGqb7M) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:36 |
 | 63 | [That Boy That Girl](https://open.spotify.com/track/4Nug5ZjYtSaX5CBQ25rlDy) | [Hadouken!](https://open.spotify.com/artist/1369EOxSlL69yV9Yp1nVaR) | [Music for an Accelerated Culture](https://open.spotify.com/album/1MIvX2t0DUAe9NhqdcndIu) | 3:31 |
 | 64 | [Saviour](https://open.spotify.com/track/5dSTEwEBqCutDNXtueASXg) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [The Listening](https://open.spotify.com/album/3sQVIOFsu1lIzug5G2fUbX) | 3:28 |

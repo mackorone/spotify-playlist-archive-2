@@ -1,13 +1,29 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 65923,
+  "num_followers": 65935,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADXtruqlqXXH1c0Re0tqs5g",
+  "snapshot_id": "awDfAAAAAADSiFaiEhxz3q6KL2fEZKxa",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo en su Lugar",
+        "url": "https://open.spotify.com/album/5uuT8gFg6dnyXyxPqbBUAM"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 172584,
+      "name": "Todo en su Lugar",
+      "url": "https://open.spotify.com/track/0aYmvDevxsjX82mUitCa4F"
+    },
     {
       "added_at": null,
       "album": {
@@ -138,11 +154,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Polimnia",
+          "url": "https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP"
         }
       ],
-      "duration_ms": 199213,
-      "name": "Tararea",
-      "url": "https://open.spotify.com/track/1S1HkSJ1ndy7Yvc4YPg0Bs"
+      "duration_ms": 226893,
+      "name": "El Malo de la Pel\u00edcula",
+      "url": "https://open.spotify.com/track/66maa6bpHoJjsmtozGChDf"
     },
     {
       "added_at": null,
@@ -202,15 +222,11 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Polimnia",
-          "url": "https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP"
         }
       ],
-      "duration_ms": 226893,
-      "name": "El Malo de la Pel\u00edcula",
-      "url": "https://open.spotify.com/track/66maa6bpHoJjsmtozGChDf"
+      "duration_ms": 199213,
+      "name": "Tararea",
+      "url": "https://open.spotify.com/track/1S1HkSJ1ndy7Yvc4YPg0Bs"
     },
     {
       "added_at": null,
@@ -403,18 +419,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
+        "name": "Pantone",
+        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
       "artists": [
         {
+          "name": "No Rules Clan",
+          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
+        },
+        {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 365706,
-      "name": "Otra Canci\u00f3n Larga",
-      "url": "https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT"
+      "duration_ms": 265488,
+      "name": "Quien Va",
+      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
     },
     {
       "added_at": null,
@@ -455,26 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantone",
-        "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq"
       },
       "artists": [
         {
-          "name": "No Rules Clan",
-          "url": "https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv"
-        },
-        {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
         }
       ],
-      "duration_ms": 265488,
-      "name": "Quien Va",
-      "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
+      "duration_ms": 365706,
+      "name": "Otra Canci\u00f3n Larga",
+      "url": "https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT"
     },
     {
       "added_at": null,

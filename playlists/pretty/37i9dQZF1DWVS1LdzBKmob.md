@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,463 likes - 140 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,757 likes - 140 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 139 | [Singing Light Forest](https://open.spotify.com/track/5Nq1o6pUM8zzpKI5YhZdGH) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Singing Light Forest](https://open.spotify.com/album/5OnPdlFe8BQocKAxbgjHQ1) | 2:53 |
 | 140 | [Enlightenment](https://open.spotify.com/track/79OFwdUL8Lx097qQYbCjTu) | [Spirit Garden](https://open.spotify.com/artist/21ADT1cKkGhiB070brX819) | [Enlightenment](https://open.spotify.com/album/1WXDF12jqCEHlAO68ugSI7) | 2:56 |
 
-Snapshot ID: `AAAAAArOrrbWn3zc7paL2iyyWmYShdkB`
+Snapshot ID: `AAAAALHZ3yr43eADqVHQepYxFHoS/nja`

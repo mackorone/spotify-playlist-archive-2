@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > Vice City, here I come!!!!!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,101 likes - 93 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,096 likes - 93 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

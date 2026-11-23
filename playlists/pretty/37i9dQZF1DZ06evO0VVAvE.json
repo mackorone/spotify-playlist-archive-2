@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 13429,
+  "num_followers": 13442,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAB+t75czXCO/BlMfDPBrI7U",
+  "snapshot_id": "awDfAAAAAACDC8yT90qPQIbJ4g3Mv3EI",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 235079,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/6cGSeCq91mXwTWy4rRHJEf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shakur (Deluxe)",
         "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
@@ -156,9 +172,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 235079,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/6cGSeCq91mXwTWy4rRHJEf"
+      "duration_ms": 152941,
+      "name": "Bursted",
+      "url": "https://open.spotify.com/track/1jU1S1mbXIcpoqgYLFspny"
     },
     {
       "added_at": null,
@@ -211,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "Bursted",
-      "url": "https://open.spotify.com/track/1jU1S1mbXIcpoqgYLFspny"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lonely Road",
         "url": "https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 157538,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "23",
+      "url": "https://open.spotify.com/track/6Zk5i2UKYzdf2YrjBUMWOt"
     },
     {
       "added_at": null,
@@ -279,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "23",
-      "url": "https://open.spotify.com/track/6Zk5i2UKYzdf2YrjBUMWOt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakur (Deluxe)",
         "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 173871,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 167395,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/0OMYJlEiOkvNbSux3f5IJm"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 167395,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/0OMYJlEiOkvNbSux3f5IJm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fresh Prince Of Lagos",
         "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/03gv6Nvv66Ugkee2TX1b1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUPE",
         "url": "https://open.spotify.com/album/1BynWE5Yx8FyyGeBITcuEh"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 188212,
       "name": "DUPE",
       "url": "https://open.spotify.com/track/0hMqF6NlfWoxLAHe0OkIBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/03gv6Nvv66Ugkee2TX1b1x"
     },
     {
       "added_at": null,

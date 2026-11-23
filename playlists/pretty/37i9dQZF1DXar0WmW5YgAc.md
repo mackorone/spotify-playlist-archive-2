@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 
 > Love songs from the movies
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,953 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,243 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXar0WmW5YgAc.md) - [plain]
 | 41 | [Miss Misery](https://open.spotify.com/track/4JBXUmExK3GS7X4RuUKCyt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Good Will Hunting](https://open.spotify.com/album/7EX07sDFRX9g2RRlXJB3dN) | 3:12 |
 | 42 | [Again](https://open.spotify.com/track/0IaMMHVbpJ0LrRAeigWOXr) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 3:47 |
 | 43 | [How Do I Live \- Songbook Version](https://open.spotify.com/track/5xM53GMJzt0g16Ke9islN4) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [\(Songbook\) A Collection Of Hits](https://open.spotify.com/album/4EXfiuerqSnUhJ7S4CS0Vj) | 4:03 |
-| 44 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 |
+| 44 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 |
 | 45 | [Fake Plastic Trees \- Acoustic Version](https://open.spotify.com/track/29uCXUBVQfMDb8ekQHJns9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Clueless / Original Motion Picture Soundtrack](https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh) | 4:45 |
 | 46 | [A Whole New World \(Aladdin's Theme\)](https://open.spotify.com/track/7fLkHVJAJLENmSvhrEHZxV) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u) | 4:10 |
 | 47 | [Run to You](https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:24 |

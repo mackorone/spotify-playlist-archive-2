@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 435439,
+  "num_followers": 435556,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "I Need You Tonite / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+      },
+      "artists": [
+        {
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+        }
+      ],
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Negroni Love",
         "url": "https://open.spotify.com/album/3OWuVZ3kSiQ4QDjpttxN1s"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 158226,
       "name": "Negroni Love",
       "url": "https://open.spotify.com/track/3zHxKd4WQKOSSqVhibeEFh"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "One for You, One for Me",
-      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "I Need You Tonite / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
-      },
-      "artists": [
-        {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
-        }
-      ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 200782,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "One for You, One for Me",
+      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Magico\u2026 di notte (Pekka Remix)",
+        "url": "https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4"
+      },
+      "artists": [
+        {
+          "name": "Alan Sorrenti",
+          "url": "https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq"
+        },
+        {
+          "name": "Pekka",
+          "url": "https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm"
+        }
+      ],
+      "duration_ms": 183515,
+      "name": "Magico\u2026 di notte - Pekka Remix",
+      "url": "https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Dedicated To The Moon",
         "url": "https://open.spotify.com/album/7yph4dnSdjHs2ke5ZZU2Lu"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 254973,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Magico\u2026 di notte (Pekka Remix)",
-        "url": "https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4"
-      },
-      "artists": [
-        {
-          "name": "Alan Sorrenti",
-          "url": "https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq"
-        },
-        {
-          "name": "Pekka",
-          "url": "https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm"
-        }
-      ],
-      "duration_ms": 183515,
-      "name": "Magico\u2026 di notte - Pekka Remix",
-      "url": "https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Golden Dance Hits",
+        "url": "https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Boys (Summertime Love)",
+      "url": "https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Volpe",
         "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 467869,
       "name": "Volpi Polari",
       "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Golden Dance Hits",
-        "url": "https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E"
-      },
-      "artists": [
-        {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Boys (Summertime Love)",
-      "url": "https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -999,6 +999,38 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Gemma e le altre",
+        "url": "https://open.spotify.com/album/3yUYdXUpJqNJMyWuPuAPki"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "E\u2026allora\u2026cercasi",
+      "url": "https://open.spotify.com/track/1Qp2i10AR8aDIp5WhRS5J6"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -1027,34 +1059,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Gemma e le altre",
-        "url": "https://open.spotify.com/album/3yUYdXUpJqNJMyWuPuAPki"
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
       "artists": [
         {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
         }
       ],
-      "duration_ms": 271653,
-      "name": "E\u2026allora\u2026cercasi",
-      "url": "https://open.spotify.com/track/1Qp2i10AR8aDIp5WhRS5J6"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1079,22 +1095,6 @@
       "duration_ms": 257250,
       "name": "What Do You Live For? (feat. David Blank & Saturnino)",
       "url": "https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Under the Ice - Single",
         "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 432404,
       "name": "Under the Ice - Original 12 Inch Version",
       "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
-      },
-      "artists": [
-        {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
-        }
-      ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
     },
     {
       "added_at": "2026-07-30 22:02:37",

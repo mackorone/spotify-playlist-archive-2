@@ -4,7 +4,7 @@
 
 > This is Macklemore\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 14 min
+50 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Thrift Shop \(feat\. Wanz\)](https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1), [Wanz](https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 3:55 | 2026-09-17 |  |
 | [Victory Lap](https://open.spotify.com/track/4KMj9aLrNc45H9ETYz7IcE) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [The Heist \(Deluxe Edition\)](https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT) | 3:33 | 2026-09-17 |  |
 | [Wednesday Morning](https://open.spotify.com/track/5Kuw0zF0A3nOSgwu8XLBsY) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [Wednesday Morning](https://open.spotify.com/album/49wNLtuTxXQtzmDV4rsmNp) | 3:55 | 2026-09-17 |  |
+| [Where's our love](https://open.spotify.com/track/6AY5CGFIlmUSFGhz3b7rXX) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [Where's our love](https://open.spotify.com/album/6ooTcopS5BYCcQjakxP3O5) | 3:57 | 2026-11-23 |  |
 | [White Walls \(feat\. ScHoolboy Q & Hollis\)](https://open.spotify.com/track/1o1Pny4JcE3LdUBeBedbm6) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1), [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 3:40 | 2026-09-17 |  |
 | [Wing$](https://open.spotify.com/track/2NywFcoD8G4U5SyIh8CWQ3) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:59 | 2026-09-17 |  |
 

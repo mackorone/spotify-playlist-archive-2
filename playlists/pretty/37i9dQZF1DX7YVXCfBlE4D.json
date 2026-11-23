@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 653564,
+  "num_followers": 653654,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -399,38 +399,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Sonora Santanera - Canta Sonia L\u00f3pez",
-        "url": "https://open.spotify.com/album/3uODoLPO61aIjF7a2FaDz3"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Pena Negra",
-      "url": "https://open.spotify.com/track/6OsX9yijLEMulBKVbS0b08"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Las Estrellas De La Matancera",
         "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
@@ -443,6 +411,22 @@
       "duration_ms": 174213,
       "name": "Total",
       "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Sonora Santanera - Canta Sonia L\u00f3pez",
+        "url": "https://open.spotify.com/album/3uODoLPO61aIjF7a2FaDz3"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Pena Negra",
+      "url": "https://open.spotify.com/track/6OsX9yijLEMulBKVbS0b08"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -463,18 +447,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Antolog\u00eda... Emilio Tuero",
-        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
       },
       "artists": [
         {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
         }
       ],
-      "duration_ms": 175480,
-      "name": "Quinto patio",
-      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
+      "duration_ms": 149506,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -491,6 +475,22 @@
       "duration_ms": 186826,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/62tK9VmlCxAhuLDHpChWXi"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Antolog\u00eda... Emilio Tuero",
+        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Quinto patio",
+      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "15 Exitos De Alvaro Carillo Con Sus Mejors",
-        "url": "https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 126413,
-      "name": "Cancionero",
-      "url": "https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 166500,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "15 Exitos De Alvaro Carillo Con Sus Mejors",
+        "url": "https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 126413,
+      "name": "Cancionero",
+      "url": "https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 167346,
-      "name": "Estoy Pensando en Ti",
-      "url": "https://open.spotify.com/track/1X2VZSug0EnkzDqVSin47F"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Los \u00daltimos De Celio Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 165080,
       "name": "Cien Mil Cosas",
       "url": "https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 167346,
+      "name": "Estoy Pensando en Ti",
+      "url": "https://open.spotify.com/track/1X2VZSug0EnkzDqVSin47F"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "La Guapachosa Sonora Santanera",
-        "url": "https://open.spotify.com/album/57zQXzK66UwTjNGz6abdjS"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Amor de Cabaret",
-      "url": "https://open.spotify.com/track/6uZkEJ50i02zAePs6ixIMC"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+        "name": "La Guapachosa Sonora Santanera",
+        "url": "https://open.spotify.com/album/57zQXzK66UwTjNGz6abdjS"
       },
       "artists": [
         {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
+      "duration_ms": 177706,
+      "name": "Amor de Cabaret",
+      "url": "https://open.spotify.com/track/6uZkEJ50i02zAePs6ixIMC"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -903,6 +887,22 @@
       "duration_ms": 186500,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1195,8 +1195,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+        "name": "Nos Hizo Falta Tiempo",
+        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
       },
       "artists": [
         {
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
         }
       ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+      "duration_ms": 166500,
+      "name": "Nos Hizo Falta Tiempo",
+      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Boleros Tr\u00edos, Vol. 1",
-        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edo Siboney",
-          "url": "https://open.spotify.com/artist/0pLYvjogP9YspXH4ZQr14o"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/10QWn4LLuF3ANQWsoLOOT8"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Noche criolla",
         "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
       },
@@ -1279,8 +1263,24 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Nos Hizo Falta Tiempo",
-        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
+        "name": "Boleros Tr\u00edos, Vol. 1",
+        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edo Siboney",
+          "url": "https://open.spotify.com/artist/0pLYvjogP9YspXH4ZQr14o"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Cuando Calienta el Sol",
+      "url": "https://open.spotify.com/track/10QWn4LLuF3ANQWsoLOOT8"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Nos Hizo Falta Tiempo",
-      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1403,18 +1403,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Noche Negra",
-        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 119739,
-      "name": "Noche Negra",
-      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+      "duration_ms": 175356,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1451,22 +1455,34 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Noche Negra",
+        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
         }
       ],
-      "duration_ms": 175356,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
+      "duration_ms": 119739,
+      "name": "Noche Negra",
+      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1487,22 +1503,6 @@
       "duration_ms": 191200,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Boleros Tr\u00edos, Vol. 1",
-        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
-      },
-      "artists": [
-        {
-          "name": "Los 3 Paraguayos",
-          "url": "https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Me Vuelves Loco",
         "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 146250,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Boleros Tr\u00edos, Vol. 1",
+        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
+      },
+      "artists": [
+        {
+          "name": "Los 3 Paraguayos",
+          "url": "https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Esmeralda Olasabal",
-        "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Olasabal",
-          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
-        }
-      ],
-      "duration_ms": 241913,
-      "name": "C\u00f3mo Han Pasado Los A\u00f1os",
-      "url": "https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Caricias Cubanas (1955-1958)",
         "url": "https://open.spotify.com/album/4mXwlEa4p6FTV5XQVVywry"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 174210,
       "name": "Vagar entre sombras (bolero)",
       "url": "https://open.spotify.com/track/6d5CbZ5iQbq0rpw6YwzUyF"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Esmeralda Olasabal",
+        "url": "https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Olasabal",
+          "url": "https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH"
+        }
+      ],
+      "duration_ms": 241913,
+      "name": "C\u00f3mo Han Pasado Los A\u00f1os",
+      "url": "https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "La Sensaci\u00f3n Jarocha",
-        "url": "https://open.spotify.com/album/4InRPZ8OjRn0tRmDVlzxIS"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Babalu",
-      "url": "https://open.spotify.com/track/6M5yd2cfSxd3PRDLw7Pkuk"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Manzanillo (Remastered)",
         "url": "https://open.spotify.com/album/7KAfIqpjfUZb3UiCQM3QiA"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 202307,
       "name": "Manzanillo - Remastered",
       "url": "https://open.spotify.com/track/0GQxBVqTTgrvSyzRhA25nT"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "La Sensaci\u00f3n Jarocha",
+        "url": "https://open.spotify.com/album/4InRPZ8OjRn0tRmDVlzxIS"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Babalu",
+      "url": "https://open.spotify.com/track/6M5yd2cfSxd3PRDLw7Pkuk"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2407,8 +2407,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "15 A\u00f1os De Exitos",
-        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/3qhE0VtmHnMUwqc9Xd4swG"
       },
       "artists": [
         {
@@ -2416,9 +2416,9 @@
           "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 158333,
-      "name": "Rondando Tu Esquina",
-      "url": "https://open.spotify.com/track/3LbhEcaMtthqFUEewkzECR"
+      "duration_ms": 146146,
+      "name": "Se Acab\u00f3 El Juguetito",
+      "url": "https://open.spotify.com/track/7yjoHReqXPW7ONHiW8gePR"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2487,8 +2487,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T"
+        "name": "15 A\u00f1os De Exitos",
+        "url": "https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL"
       },
       "artists": [
         {
@@ -2496,9 +2496,9 @@
           "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Odiame",
-      "url": "https://open.spotify.com/track/4NjjxA6cgx9aWOXAIaPEpA"
+      "duration_ms": 158333,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/3LbhEcaMtthqFUEewkzECR"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2567,6 +2567,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Odiame",
+      "url": "https://open.spotify.com/track/4NjjxA6cgx9aWOXAIaPEpA"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Reminiscencias",
         "url": "https://open.spotify.com/album/0d78QRCyoDBEM71ShrEYsG"
       },
@@ -2583,22 +2599,6 @@
       "duration_ms": 166706,
       "name": "Caribe Soy",
       "url": "https://open.spotify.com/track/5Z2Dgl4nqoeobRrPF1IiE3"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/3qhE0VtmHnMUwqc9Xd4swG"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Se Acab\u00f3 El Juguetito",
-      "url": "https://open.spotify.com/track/7yjoHReqXPW7ONHiW8gePR"
     },
     {
       "added_at": "2024-07-11 00:56:29",

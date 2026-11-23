@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604686,
+  "num_followers": 604706,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "I Only Let You Down Now",
-        "url": "https://open.spotify.com/album/54jVCGB1tNcY9LGIPLWKQD"
-      },
-      "artists": [
-        {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "I Only Let You Down Now",
-      "url": "https://open.spotify.com/track/2paGtGSGmvg24yEf6z4rVX"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Over My Head",
         "url": "https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182956,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "I Only Let You Down Now",
+        "url": "https://open.spotify.com/album/54jVCGB1tNcY9LGIPLWKQD"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "I Only Let You Down Now",
+      "url": "https://open.spotify.com/track/2paGtGSGmvg24yEf6z4rVX"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "There's A Whole World Out There",
-        "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
+        "name": "Live Laugh Toaster Bath",
+        "url": "https://open.spotify.com/album/3boNiIc5Mcyx9nl2WlbWKp"
       },
       "artists": [
         {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
         }
       ],
-      "duration_ms": 250172,
-      "name": "Fatal Flaw",
-      "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
+      "duration_ms": 142769,
+      "name": "Live Laugh Toaster Bath",
+      "url": "https://open.spotify.com/track/2zjP51ExLSOA9bP9fdw6nS"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Live Laugh Toaster Bath",
-        "url": "https://open.spotify.com/album/3boNiIc5Mcyx9nl2WlbWKp"
+        "name": "There's A Whole World Out There",
+        "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
       },
       "artists": [
         {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
         }
       ],
-      "duration_ms": 142769,
-      "name": "Live Laugh Toaster Bath",
-      "url": "https://open.spotify.com/track/2zjP51ExLSOA9bP9fdw6nS"
+      "duration_ms": 250172,
+      "name": "Fatal Flaw",
+      "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 176381,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "77 (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 176381,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/0LxegpHfZguBMHYKM5oVFK"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Burn Me Out",
-        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 191010,
-      "name": "Burn Me Out",
-      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "So Happy",
         "url": "https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 173783,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Burn Me Out",
+        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 191010,
+      "name": "Burn Me Out",
+      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Hard Call",
-        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
-      },
-      "artists": [
-        {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Hard Call",
-      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "BETTER",
         "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 167142,
       "name": "That's So True",
       "url": "https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Hard Call",
+        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Hard Call",
+      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 218583,
+      "name": "Under My Sweater",
+      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 218583,
-      "name": "Under My Sweater",
-      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1191,22 +1207,6 @@
       "duration_ms": 155000,
       "name": "Phoenix Down",
       "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Moments Before The Wind",
-        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "MissingNo.",
-      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "LET'S DO SOMETHING STUPID!",
         "url": "https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 165106,
       "name": "Right Thing, Wrong Time (feat. State Champs)",
       "url": "https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Moments Before The Wind",
+        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "MissingNo.",
+      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "F.O.M.O.",
-        "url": "https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6"
-      },
-      "artists": [
-        {
-          "name": "SUCKERPUNCH!",
-          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
-        }
-      ],
-      "duration_ms": 180563,
-      "name": "F.O.M.O.",
-      "url": "https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Can You Keep A Secret?",
         "url": "https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 179454,
       "name": "Nice to Know Ya",
       "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "F.O.M.O.",
+        "url": "https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "F.O.M.O.",
+      "url": "https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Ray Hawthorne Can't Be Trusted",
-        "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
-      },
-      "artists": [
-        {
-          "name": "Ray Hawthorne",
-          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
-        }
-      ],
-      "duration_ms": 178119,
-      "name": "Bummer",
-      "url": "https://open.spotify.com/track/0loJzrN5qLXFW7m4X8u1tU"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Pain In My Chest",
         "url": "https://open.spotify.com/album/4BgUVBqz07FTh0yMiCGBG4"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Ray Hawthorne Can't Be Trusted",
+        "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
+      },
+      "artists": [
+        {
+          "name": "Ray Hawthorne",
+          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
+        }
+      ],
+      "duration_ms": 178119,
+      "name": "Bummer",
+      "url": "https://open.spotify.com/track/0loJzrN5qLXFW7m4X8u1tU"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "One Zero Zero",
         "url": "https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv"
       },
@@ -1503,38 +1503,6 @@
       "duration_ms": 166800,
       "name": "One Zero Zero",
       "url": "https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "when we were friends",
-        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "when we were friends",
-      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "As It Is",
-        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 213364,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1555,18 +1523,34 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+        "name": "As It Is",
+        "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
       },
       "artists": [
         {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
         }
       ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
+      "duration_ms": 213364,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "when we were friends",
+        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "when we were friends",
+      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1583,6 +1567,22 @@
       "duration_ms": 159786,
       "name": "Cherry Chapstick",
       "url": "https://open.spotify.com/track/7k9z20CcZWLWMFJI72r3vm"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "AT&T",
+        "url": "https://open.spotify.com/album/107Uua7AGroSfWPeLsEO5Z"
+      },
+      "artists": [
+        {
+          "name": "Liquid Mike",
+          "url": "https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "AT&T",
+      "url": "https://open.spotify.com/track/7nlsFEDlKhALHl1NTR2CJe"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "I Feel Like Shit And It's All Your Fault",
         "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 178270,
       "name": "Right Place, Wrong Timing",
       "url": "https://open.spotify.com/track/6CkPEo3j7XXNlNluwrMfYO"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "AT&T",
-        "url": "https://open.spotify.com/album/107Uua7AGroSfWPeLsEO5Z"
-      },
-      "artists": [
-        {
-          "name": "Liquid Mike",
-          "url": "https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "AT&T",
-      "url": "https://open.spotify.com/track/7nlsFEDlKhALHl1NTR2CJe"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Resuscitate",
-        "url": "https://open.spotify.com/album/3dGbExijwdYk5AjKQnH0SW"
-      },
-      "artists": [
-        {
-          "name": "Light Years",
-          "url": "https://open.spotify.com/artist/0WtKAc6wgVpiqQZekFdFgJ"
-        }
-      ],
-      "duration_ms": 186124,
-      "name": "Resuscitate",
-      "url": "https://open.spotify.com/track/72IQ4ulGN7L9e2WA92SXdK"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "All or Nothing",
         "url": "https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk"
       },
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Resuscitate",
+        "url": "https://open.spotify.com/album/3dGbExijwdYk5AjKQnH0SW"
+      },
+      "artists": [
+        {
+          "name": "Light Years",
+          "url": "https://open.spotify.com/artist/0WtKAc6wgVpiqQZekFdFgJ"
+        }
+      ],
+      "duration_ms": 186124,
+      "name": "Resuscitate",
+      "url": "https://open.spotify.com/track/72IQ4ulGN7L9e2WA92SXdK"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Die A Million Times",
         "url": "https://open.spotify.com/album/0HEF2ivJVzvDrbJggVouGp"
       },
@@ -1843,22 +1843,6 @@
       "duration_ms": 197627,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1911,6 +1895,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "You Wanna Fade?",
         "url": "https://open.spotify.com/album/5U51CwRUXkYgYjeIaWUaGb"
       },
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Here in This Crazy",
-        "url": "https://open.spotify.com/album/04NVpBsdEGpCwmhbfvV2l5"
-      },
-      "artists": [
-        {
-          "name": "I Hate Kate",
-          "url": "https://open.spotify.com/artist/35AoyOxoAjV1IlfGOH2MKc"
-        }
-      ],
-      "duration_ms": 221756,
-      "name": "Here in This Crazy",
-      "url": "https://open.spotify.com/track/148KOFeRMqre2RdKYPxnHr"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
         "url": "https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 200265,
       "name": "When I'm Feeling Down",
       "url": "https://open.spotify.com/track/1ZbZdWuSMWDTmC3vc8pc8i"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Here in This Crazy",
+        "url": "https://open.spotify.com/album/04NVpBsdEGpCwmhbfvV2l5"
+      },
+      "artists": [
+        {
+          "name": "I Hate Kate",
+          "url": "https://open.spotify.com/artist/35AoyOxoAjV1IlfGOH2MKc"
+        }
+      ],
+      "duration_ms": 221756,
+      "name": "Here in This Crazy",
+      "url": "https://open.spotify.com/track/148KOFeRMqre2RdKYPxnHr"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -2055,18 +2055,26 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "unravelled",
-        "url": "https://open.spotify.com/album/1o50ucuLEd1HMeWNjJsGRT"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4sVqW1OR0NW1OHc4EAetXp"
       },
       "artists": [
         {
-          "name": "Heather Sommer",
-          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+          "name": "TIDAN",
+          "url": "https://open.spotify.com/artist/5CuQnCo0FsPEeVDd6zxWud"
+        },
+        {
+          "name": "PETEXZEN",
+          "url": "https://open.spotify.com/artist/5hHspHUuwERzBNxlhg27jD"
+        },
+        {
+          "name": "Paige Six",
+          "url": "https://open.spotify.com/artist/4tMlOP36DZsA3fhGUe80j6"
         }
       ],
-      "duration_ms": 138082,
-      "name": "unravelled",
-      "url": "https://open.spotify.com/track/1YLoqDaLd7HRdUZEgbaFQC"
+      "duration_ms": 194719,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0fgezbOHSWFArdy2HEGEbu"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

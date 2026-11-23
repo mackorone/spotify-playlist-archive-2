@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 154782,
       "name": "Aaja Re Piya",
       "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
@@ -5232,6 +5232,28 @@
       "duration_ms": 178222,
       "name": "Patang (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
+    },
+    {
+      "album": {
+        "name": "Payaliyaan",
+        "url": "https://open.spotify.com/album/1TkOEs3apHXVPY5Fk3G6Sg"
+      },
+      "artists": [
+        {
+          "name": "Zodiac Wave",
+          "url": "https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy"
+        },
+        {
+          "name": "Hia",
+          "url": "https://open.spotify.com/artist/1QSqsXWlAEW0jnZzOesZ7y"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228754,
+      "name": "Payaliyaan",
+      "url": "https://open.spotify.com/track/5RjcZhJ9W13YckU17mX2ZO"
     },
     {
       "album": {

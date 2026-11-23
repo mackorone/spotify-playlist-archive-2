@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 526096,
+  "num_followers": 526102,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAD8BZSHmoGF5tcvtFOFrpT+",
+  "snapshot_id": "awDfAAAAAADvYQ5N3AAP45PCJVDCjlQl",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HU HU HU",
+        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 393453,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RawayanaLand",
         "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 267200,
       "name": "Mamita (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HU HU HU",
-        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 393453,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Te Muerdes el Labio",
-        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Diazepam",
-      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 241680,
       "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
       "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Giralunas, Un Homenaje a L.E.Aute",
-        "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 336814,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ciudadana del Mundo Volumen 1",
         "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Giralunas, Un Homenaje a L.E.Aute",
+        "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 336814,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En el 2000",
         "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 245666,
       "name": "Amarte Duele",
       "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Luz de Luna (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
     },
     {
       "added_at": null,
@@ -755,6 +735,26 @@
       "duration_ms": 188400,
       "name": "T\u00fa Me Acostumbraste (feat. Omara Portuondo & Los Macorinos)",
       "url": "https://open.spotify.com/track/1rwrlXpk1XqdzHfCHKnJa1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Luz de Luna (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
     },
     {
       "added_at": null,

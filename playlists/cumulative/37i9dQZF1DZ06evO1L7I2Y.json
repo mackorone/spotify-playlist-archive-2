@@ -181,6 +181,36 @@
     },
     {
       "album": {
+        "name": "B.U.M.B.A",
+        "url": "https://open.spotify.com/album/52TiBFmTsmlH8CZAgK6x61"
+      },
+      "artists": [
+        {
+          "name": "Roman\u00ed",
+          "url": "https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "AMER7CANO",
+          "url": "https://open.spotify.com/artist/1mXCoAbb2K8iyN7y7iaVyq"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165405,
+      "name": "B.U.M.B.A",
+      "url": "https://open.spotify.com/track/6tIJVX9cbzGpRZfA9Mk6e3"
+    },
+    {
+      "album": {
         "name": "Downhill Domination - SECOND EDITION",
         "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
       },

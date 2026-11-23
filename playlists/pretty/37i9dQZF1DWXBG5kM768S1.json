@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81850,
+  "num_followers": 81855,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
         }
       ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Kom ut kom fram",
-        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
       },
       "artists": [
         {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Lilla vackra Anna",
-      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+        "name": "Kom ut kom fram",
+        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
       },
       "artists": [
         {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
         }
       ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+      "duration_ms": 226760,
+      "name": "Lilla vackra Anna",
+      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260779,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Heimlandsong",
         "url": "https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 286675,
       "name": "Heimlandsong",
       "url": "https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 260779,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
     }
   ],
   "unique_name": "Norske viser",

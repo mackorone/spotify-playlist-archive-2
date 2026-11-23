@@ -1,33 +1,13 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41412,
+  "num_followers": 41415,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAAsIkIqQddjCD4uYtyRXpa",
+  "snapshot_id": "awDfAAAAAADv54fysZbjiGj8aqVb10tJ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gifted",
-        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Bad (feat. Rihanna) - Remix",
-      "url": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk"
-    },
     {
       "added_at": null,
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 263773,
       "name": "No Hands (feat. Roscoe Dash & Wale)",
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gifted",
+        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Bad (feat. Rihanna) - Remix",
+      "url": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk"
     },
     {
       "added_at": null,
@@ -270,15 +270,11 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 153935,
-      "name": "City On Fire",
-      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
+      "duration_ms": 175417,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
     },
     {
       "added_at": null,
@@ -354,11 +350,35 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 175417,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
+      "duration_ms": 153935,
+      "name": "City On Fire",
+      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 191617,
+      "name": "Again - Remix",
+      "url": "https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX"
     },
     {
       "added_at": null,
@@ -383,26 +403,6 @@
       "duration_ms": 262400,
       "name": "Respect That You Earn (feat. Ne-Yo & Wale)",
       "url": "https://open.spotify.com/track/0zV8HiTQ2MHlgCkDfq9Ak6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 191617,
-      "name": "Again - Remix",
-      "url": "https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX"
     },
     {
       "added_at": null,
@@ -447,22 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N.W.A",
-        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
+        "name": "GOOD DOPE SELL ITSELF",
+        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 230413,
-      "name": "N.W.A",
-      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+      "duration_ms": 216011,
+      "name": "Bonnet (feat. Summer Walker & Wale)",
+      "url": "https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l"
     },
     {
       "added_at": null,
@@ -487,26 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOOD DOPE SELL ITSELF",
-        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
+        "name": "N.W.A",
+        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
       },
       "artists": [
         {
-          "name": "Belly Gang Kushington",
-          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 216011,
-      "name": "Bonnet (feat. Summer Walker & Wale)",
-      "url": "https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l"
+      "duration_ms": 230413,
+      "name": "N.W.A",
+      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 209182,
-      "name": "FEELINGS ON SILENT (feat. Wale)",
-      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambition",
         "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 269266,
       "name": "That Way (feat. Jeremih & Rick Ross)",
       "url": "https://open.spotify.com/track/7FAXe9lI8vzAJYgYv2xoSC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catch a Vibe (Or a Bullet)",
+        "url": "https://open.spotify.com/album/3rrKnllNo8TCHVXXZ5DvvI"
+      },
+      "artists": [
+        {
+          "name": "Young Chris",
+          "url": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Fly Talk",
+      "url": "https://open.spotify.com/track/3CVn8sNyOpTg9DUFw6UdOG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Attention Deficit (Explicit Version)",
         "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
@@ -1043,30 +1063,6 @@
       "duration_ms": 249271,
       "name": "The Girls on Drugs",
       "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
     }
   ],
   "unique_name": "This Is Wale",

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,506 songs - 3 day 10 hr 5 min
+1,507 songs - 3 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-08-07 | 2021-10-05 |
 | [Just Feels Tight](https://open.spotify.com/track/7wT85929YTgiyb2cQDe2fb) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/0hETamGnqdcM4TuUDqV378) | 3:17 | 2021-09-25 | 2022-02-12 |
 | [Keep Control](https://open.spotify.com/track/2ldf5EYPaRXPqPlX50Sgbx) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Keep Control](https://open.spotify.com/album/5TQ88IYim8ADpDkDWnZWUA) | 3:06 | 2026-08-21 |  |
+| [Keep Me Up](https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Keep Me Up](https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp) | 3:51 | 2026-11-20 |  |
 | [Keep The Love \- Tom Staar Remix](https://open.spotify.com/track/3FnsZSRG13NVRg00B1Tfeh) | [Money Chocolate](https://open.spotify.com/artist/4LBxzTncqBkT87aCP7Dqpk), [Sarah Webb](https://open.spotify.com/artist/16VW8zsBN1gv8D1VjTO0IN), [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Keep The Love \(Tom Staar Remix\)](https://open.spotify.com/album/0gQhkTqf5yzb1bXseIv0qS) | 3:11 | 2020-09-21\* | 2020-11-03 |
 | [Keep Up](https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Keep Up](https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k) | 2:38 | 2026-09-04 |  |
 | [Kill Me Better](https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/0X2wKcQKmWG5Jn9ajbbD4G) | 3:13 | 2020-11-03 | 2021-09-11 |
@@ -710,7 +711,7 @@
 | [Let Me See You Move](https://open.spotify.com/track/4gga7GceDsBajBCUE5eWuu) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a) | [Sunshine of My Life](https://open.spotify.com/album/37I921humbx8nLaiZQvMT0) | 7:25 | 2020-09-21\* | 2020-10-10 |
 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 | 2021-06-26 | 2021-09-18 |
 | [Let You Down](https://open.spotify.com/track/6SrwmS9G3gI3cGNUqv6QzV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 3:30 | 2022-06-24 | 2022-08-06 |
-| [Let's Get Down](https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Let's Get Down](https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R) | 3:15 | 2026-05-08 |  |
+| [Let's Get Down](https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Let's Get Down](https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R) | 3:15 | 2026-05-08 | 2026-11-23 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2024-01-26 | 2025-11-04 |
 | [Let's Go Dancing](https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Let's Go Dancing](https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv) | 3:48 | 2024-11-22 | 2025-01-25 |
 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 | 2020-10-10 | 2021-01-23 |

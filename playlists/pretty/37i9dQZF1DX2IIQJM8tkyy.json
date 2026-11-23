@@ -1,6 +1,6 @@
 {
   "description": "Toutes les chansons des Princesses Disney.",
-  "num_followers": 7870,
+  "num_followers": 7868,
   "original_name": "Princesses Disney",
   "owner": {
     "name": "Spotify",
@@ -822,6 +822,10 @@
         {
           "name": "Kristen Bell",
           "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 216773,
@@ -1018,6 +1022,10 @@
         {
           "name": "Evan Rachel Wood",
           "url": "https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 260906,

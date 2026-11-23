@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 717262,
+  "num_followers": 717284,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACOqGKCfQRarZ/b39BllZQb",
+  "snapshot_id": "awDfAAAAAAAhntkxQqGObchlNWz7wfC7",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 370426,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Danceteria Afterhours",
         "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 230503,
       "name": "Danceteria Afterhours",
       "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 370426,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
       "added_at": null,

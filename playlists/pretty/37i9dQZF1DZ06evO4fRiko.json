@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 997895,
+  "num_followers": 997942,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAuvSlttGKMLk2xIXjSDP3d",
+  "snapshot_id": "awDfAAAAAADY3PBx89p6r9Ncv843eJlX",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 306847,
-      "name": "Angel Numbers / Ten Toes",
-      "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00edderes",
         "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 274946,
       "name": "Algo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/2FqoR7diymD1Eh7cVb3DMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 306847,
+      "name": "Angel Numbers / Ten Toes",
+      "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
     },
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 265813,
       "name": "Next To You (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
       "added_at": null,
@@ -295,30 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
       "added_at": null,
@@ -427,26 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nost\u00e1lgico",
-        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+        "name": "Call Me Crazy, But...",
+        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
         },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 209883,
-      "name": "Nost\u00e1lgico",
-      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+      "duration_ms": 281080,
+      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
+      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
     },
     {
       "added_at": null,
@@ -467,22 +463,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Me Crazy, But...",
-        "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
+        "name": "Nost\u00e1lgico",
+        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
       "artists": [
         {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 281080,
-      "name": "It Won't Stop (feat. Chris Brown) - EP Version",
-      "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
+      "duration_ms": 209883,
+      "name": "Nost\u00e1lgico",
+      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy (Remix)",
-        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Easy - Remix",
-      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freaky Friday (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 216631,
       "name": "Freaky Friday (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy (Remix)",
+        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Easy - Remix",
+      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
     },
     {
       "added_at": null,

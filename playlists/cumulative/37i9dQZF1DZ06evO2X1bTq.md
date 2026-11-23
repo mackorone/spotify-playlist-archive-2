@@ -4,7 +4,7 @@
 
 > This is U2\. The essential tracks, all in one playlist.
 
-136 songs - 9 hr 51 min
+137 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [I'll Go Crazy If I Don't Go Crazy Tonight](https://open.spotify.com/track/6Bxd6SGnWO0bTWCDYh4ZWk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 4:13 | 2022-10-24 | 2022-11-15 |
 | [If God Will Send His Angels](https://open.spotify.com/track/3VefJ4Kkzy8zeOFK8omiOd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:22 | 2022-10-24 | 2022-11-22 |
 | [If The World Is At War We Better Not Be](https://open.spotify.com/track/2yqUTVZAabw5MlVIqJW5qH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Carnaval De Luz](https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0) | 2:33 | 2026-11-15 |  |
-| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-05 |  |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-05 | 2026-11-23 |
 | [In A Little While](https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:40 | 2022-10-24 |  |
 | [In God's Country](https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 2:56 | 2022-10-24 | 2026-03-27 |
 | [In God's Country \- Remastered 2007](https://open.spotify.com/track/1jNWu1c5ilLHUHT0DhLOQB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 2:56 | 2026-03-27 |  |
@@ -78,6 +78,7 @@
 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 | 2022-10-24 |  |
 | [One \- Radio Edit](https://open.spotify.com/track/0PSg9uRVf90eAKnpvqLz3h) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One](https://open.spotify.com/album/08whpOMjGhOtiAr6XqjecV) | 4:03 | 2026-08-26 | 2026-08-27 |
 | [One Life At A Time](https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:03 | 2026-02-21 | 2026-08-27 |
+| [One Life At A Time](https://open.spotify.com/track/6QFxGo36aDkbx8Um6pgF4P) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Carnaval De Luz \(Deluxe Edition\)](https://open.spotify.com/album/2r0RZF6OMU1nxJTeI8rgjg) | 4:03 | 2026-11-23 |  |
 | [One Tree Hill \- Remastered 2007](https://open.spotify.com/track/7JFMf61pdg8H8NEMgxdHYx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:22 | 2026-03-18 | 2026-07-24 |
 | [Ordinary Love \- Extraordinary Mix](https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:47 | 2022-10-24 |  |
 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 | 2022-10-24 | 2026-03-18 |

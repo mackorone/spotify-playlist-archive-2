@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483128,
+  "num_followers": 483108,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Los Ojos Del C\u00f3ndor",
-        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 212980,
-      "name": "Los Ojos Del C\u00f3ndor",
-      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Minds of Our Own",
         "url": "https://open.spotify.com/album/0cBuzW4OjcpzL8oyKuPLvJ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 217666,
       "name": "Friends",
       "url": "https://open.spotify.com/track/035Gwr2QzjbZIteZldAqUg"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Los Ojos Del C\u00f3ndor",
+      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Mystic Braves",
         "url": "https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 243840,
       "name": "Mystic Rabbit",
       "url": "https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Stranger (Mariachi)",
-        "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Stranger - Mariachi",
-      "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "For The Dreams",
         "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 225198,
       "name": "Southerly",
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Stranger (Mariachi)",
+        "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Stranger - Mariachi",
+      "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Officially",
-        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 205144,
-      "name": "Officially",
-      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "I AM NOT SO TALL",
         "url": "https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 203340,
       "name": "Only One I Want",
       "url": "https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
-      },
-      "artists": [
-        {
-          "name": "Offthewally",
-          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
-        }
-      ],
-      "duration_ms": 171884,
-      "name": "Riding the Wind",
-      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "III: Arcade Dynamics",
         "url": "https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf"
       },
@@ -831,34 +815,18 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "A Long Long Time",
-        "url": "https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4"
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
       },
       "artists": [
         {
-          "name": "Stimpies",
-          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+          "name": "Offthewally",
+          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
         }
       ],
-      "duration_ms": 258054,
-      "name": "A Long Long Time",
-      "url": "https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
-        "name": "Thrift Store",
-        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 134408,
-      "name": "Thrift Store",
-      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
+      "duration_ms": 171884,
+      "name": "Riding the Wind",
+      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -879,18 +847,34 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+        "name": "Thrift Store",
+        "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
       },
       "artists": [
         {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
         }
       ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
+      "duration_ms": 134408,
+      "name": "Thrift Store",
+      "url": "https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "A Long Long Time",
+        "url": "https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4"
+      },
+      "artists": [
+        {
+          "name": "Stimpies",
+          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+        }
+      ],
+      "duration_ms": 258054,
+      "name": "A Long Long Time",
+      "url": "https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -911,6 +895,22 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
         "name": "No Chaser",
         "url": "https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Small Fry",
-        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 206260,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "LONG LIVE THE WILDERNESS",
         "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 286209,
       "name": "LONG LIVE THE WILDERNESS",
       "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Small Fry",
+        "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 206260,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Reef Prince / Better",
-        "url": "https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 187527,
-      "name": "Reef Prince",
-      "url": "https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Valley Girl",
         "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 211829,
       "name": "Valley Girl",
       "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Reef Prince / Better",
+        "url": "https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 187527,
+      "name": "Reef Prince",
+      "url": "https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Welcome Back (To The//Glow)",
-        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 285824,
-      "name": "Welcome Back (To The//Glow)",
-      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Welcome Back (To The//Glow)",
+        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 285824,
+      "name": "Welcome Back (To The//Glow)",
+      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Right or Wrong",
-        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Just Give In / Never Going Home",
         "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2026-10-22 13:00:19",

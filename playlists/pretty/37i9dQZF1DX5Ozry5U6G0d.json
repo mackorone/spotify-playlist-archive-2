@@ -1,6 +1,6 @@
 {
   "description": "That summer sound.",
-  "num_followers": 2053960,
+  "num_followers": 2053825,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
         "name": "DNCE",
         "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 205680,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Cheap Thrills (feat. Sean Paul)",
+      "url": "https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 156600,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Cheap Thrills (feat. Sean Paul)",
-      "url": "https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "The Best of Big Mountain",
+        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
+      },
+      "artists": [
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "The Best of Big Mountain",
-        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
-      },
-      "artists": [
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
-        "name": "Another Love (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "Another Love - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
         "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
         "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
+        "name": "Another Love (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "Another Love - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
     },
     {
       "added_at": "2026-07-17 04:15:30",

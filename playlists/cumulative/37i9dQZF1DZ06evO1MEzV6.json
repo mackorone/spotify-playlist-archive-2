@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "No Punctuation",
+        "url": "https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "No Punctuation",
+      "url": "https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ"
+    },
+    {
+      "album": {
         "name": "Pylon",
         "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
       },

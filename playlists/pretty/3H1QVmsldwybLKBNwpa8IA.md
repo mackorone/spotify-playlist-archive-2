@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,016 likes - 162 songs - 8 hr 39 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,143 likes - 162 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

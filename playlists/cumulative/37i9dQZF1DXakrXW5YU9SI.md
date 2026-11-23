@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ❄️☕
 
-1,180 songs - 2 day 18 hr 14 min
+1,181 songs - 2 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [5 milionów influencerek](https://open.spotify.com/track/5iQbpxi3Oquf2ELA6vIFur) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [5 milionów influencerek](https://open.spotify.com/album/2f4NFjKewTTexTmEJbEKiE) | 2:49 | 2024-07-11 | 2024-08-21 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-07-05 | 2024-11-22 |
 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-19 | 2025-12-06 |
+| [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 | 2026-11-21 |  |
 | [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 | 2025-09-26 | 2025-10-30 |
 | [abyss](https://open.spotify.com/track/40LqINLIDhx5qEJQfG7rnN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [abyss](https://open.spotify.com/album/3hZjfIVdPdCym1PRPD57JT) | 2:09 | 2025-03-07 | 2025-04-07 |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-01-24 | 2025-03-01 |
@@ -1071,7 +1072,7 @@
 | [W kwietniu się nie umiera](https://open.spotify.com/track/7uOYx1FNQQao9iwYTRxuOn) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [W kwietniu się nie umiera](https://open.spotify.com/album/5HsOaA8jlC6RgtFAwkJO7b) | 3:06 | 2024-10-14 | 2024-10-18 |
 | [W snach](https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Pytania](https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5) | 3:23 | 2026-03-13 | 2026-04-11 |
 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 | 2025-11-20 | 2026-06-10 |
-| [Wagoniki](https://open.spotify.com/track/218RVrFkpsNNX58I5kPdlQ) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Żeremie](https://open.spotify.com/album/7gOWyyB6lrWqFPOWEJkCGA) | 3:48 | 2026-10-02 |  |
+| [Wagoniki](https://open.spotify.com/track/218RVrFkpsNNX58I5kPdlQ) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Żeremie](https://open.spotify.com/album/7gOWyyB6lrWqFPOWEJkCGA) | 3:48 | 2026-10-02 | 2026-11-23 |
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-12 | 2024-10-20 |
 | [Walczyk](https://open.spotify.com/track/29edwTF4pFcJWpmCDAkJiV) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Chciałbym umrzeć z miłości](https://open.spotify.com/album/7MWO1mWEBvoFtxsIlncWmN) | 3:50 | 2026-03-13 | 2026-03-28 |
 | [Waniliowy](https://open.spotify.com/track/36KwEZctWZKMK6DB1YdM6b) | [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Waniliowy](https://open.spotify.com/album/1L2AKJfjbV6ZY3qXHajqtz) | 2:10 | 2026-02-20 | 2026-03-30 |

@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2401181,
+  "num_followers": 2401202,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Senaryo",
-        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
       },
       "artists": [
         {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
         }
       ],
-      "duration_ms": 201951,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -223,22 +219,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Marilag",
-        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "Marilag",
-      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Kalimutan Ka",
         "url": "https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R"
       },
@@ -255,18 +235,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Ikaw Lang Patutunguhan",
-        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
+        "name": "Senaryo",
+        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
       },
       "artists": [
         {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
         }
       ],
-      "duration_ms": 326896,
-      "name": "Ikaw Lang Patutunguhan",
-      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+      "duration_ms": 201951,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -291,6 +275,42 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Ikaw Lang Patutunguhan",
+        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "duration_ms": 326896,
+      "name": "Ikaw Lang Patutunguhan",
+      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Palaisipan",
+        "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
+      },
+      "artists": [
+        {
+          "name": "Loonie",
+          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
+        },
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 241237,
+      "name": "Palaisipan",
+      "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -323,26 +343,6 @@
       "duration_ms": 318814,
       "name": "Kathang Isip",
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Palaisipan",
-        "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
-      },
-      "artists": [
-        {
-          "name": "Loonie",
-          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
-        },
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 241237,
-      "name": "Palaisipan",
-      "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Nahanap Kita",
-        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
-      },
-      "artists": [
-        {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
-        }
-      ],
-      "duration_ms": 317693,
-      "name": "Nahanap Kita",
-      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Pauwi Nako",
         "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Sagip",
-        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+        "name": "Nahanap Kita",
+        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
       "artists": [
         {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Sagip",
-      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
+      "duration_ms": 317693,
+      "name": "Nahanap Kita",
+      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -571,6 +555,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Sagip",
+        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Sagip",
+      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Love And Soul",
         "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 326000,
       "name": "Sila",
       "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Hirap Kalimutan",
-        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Hirap Kalimutan",
-      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -651,6 +635,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Hirap Kalimutan",
+        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Hirap Kalimutan",
+      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Patlang",
-        "url": "https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 230300,
-      "name": "Patlang",
-      "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Twelve: Fifty One (International Version)",
         "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
@@ -711,22 +695,6 @@
       "duration_ms": 246280,
       "name": "12:51",
       "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Dilaw",
-        "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Dilaw",
-      "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -755,6 +723,38 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Patlang",
+        "url": "https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 230300,
+      "name": "Patlang",
+      "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Dilaw",
+        "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Dilaw",
+      "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever",
+      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -811,24 +827,8 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever",
-      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
     },
     {
       "added_at": "2026-10-02 03:23:34",

@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-666 songs - 1 day 13 hr 15 min
+667 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 | 2023-03-06 | 2023-04-28 |
 | [Nati \(feat\. Olamide\)](https://open.spotify.com/track/1Zq9JpMFVaKzQdgkcltijZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:07 | 2025-10-24 | 2025-12-22 |
 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 | 2023-06-02 | 2023-10-19 |
-| [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2024-07-31 |  |
+| [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2024-07-31 | 2026-11-23 |
 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 | 2022-08-12 | 2022-12-22 |
 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 | 2025-11-14 | 2026-02-12 |
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2021-12-09 | 2022-06-17 |
@@ -545,6 +545,7 @@
 | [Skeletun](https://open.spotify.com/track/6gAU6YgNzWdyBN4j1ec66T) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Skeletun](https://open.spotify.com/album/4hsWTfVWE2jYvYOjeKtjtZ) | 3:12 | 2020-02-26 | 2022-04-21 |
 | [Skido \(with Olamide\)](https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Skido \(with Olamide\)](https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6) | 2:46 | 2025-09-25 | 2026-02-05 |
 | [Skin Tight \(feat\. Efya\)](https://open.spotify.com/track/7vpMQ2vmU6O2qFG7aNKwiL) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Skin Tight \(feat\. Efya\)](https://open.spotify.com/album/1XqbrcIUg26QRjlZerOM10) | 4:08 | 2019-11-05 | 2022-04-20 |
+| [Skoskola](https://open.spotify.com/track/7wT93fcw6XSim76fnj5PBm) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Time and Space](https://open.spotify.com/album/0DHDiiApo6bKBpz1UfZuQH) | 2:27 | 2026-11-20 |  |
 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 | 2026-07-09 |  |
 | [SLICK Remix \(feat\. Don Toliver & Summer Walker\)](https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [SLICK Remix \(feat\. Don Toliver & Summer Walker\)](https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X) | 2:39 | 2026-10-16 |  |
 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 | 2021-09-10 | 2022-11-15 |

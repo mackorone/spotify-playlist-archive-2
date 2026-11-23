@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 127363,
+  "num_followers": 127370,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAQFO3EvJsvqC2joHudIPuJ",
+  "snapshot_id": "awDfAAAAAACTHYNIw7tyJjlShd2iJ8vB",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 113293,
-      "name": "Almost Like Being In Love - Remastered",
-      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 211173,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 113293,
+      "name": "Almost Like Being In Love - Remastered",
+      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        },
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/4sfHDOLuNHbSo8EpEa5oIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 222866,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        },
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 154026,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/4sfHDOLuNHbSo8EpEa5oIg"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgettable Nat King Cole Sings The Great Songs",
-        "url": "https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "Around The World - Remastered",
-      "url": "https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 139226,
       "name": "How I'd Love To Love You",
       "url": "https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unforgettable Nat King Cole Sings The Great Songs",
+        "url": "https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 154026,
+      "name": "Around The World - Remastered",
+      "url": "https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want To Be Hurt Anymore",
-        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "I Don't Want To See Tomorrow - As Heard on \u201cFallout\u201d (Series)",
-      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You, Pretty Baby",
         "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 172040,
       "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
       "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want To Be Hurt Anymore",
+        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "I Don't Want To See Tomorrow - As Heard on \u201cFallout\u201d (Series)",
+      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
     },
     {
       "added_at": null,

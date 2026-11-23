@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Prashob
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,814 likes - 102 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,826 likes - 102 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

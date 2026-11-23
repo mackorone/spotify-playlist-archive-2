@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Wraz\. + Hypho
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,472 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,455 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

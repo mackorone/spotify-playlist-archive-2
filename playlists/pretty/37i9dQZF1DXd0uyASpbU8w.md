@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Usimamane, DJ Tira & Campmasters, Bucie, Tems and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,201 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,255 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

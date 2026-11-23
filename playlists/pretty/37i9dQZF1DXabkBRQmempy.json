@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 538978,
+  "num_followers": 539093,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAALHDjz7MtjmrUnH8ZLQaJ7jM/5N5",
   "tracks": [
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
         "name": "Magos, Espadas Y Rosas",
         "url": "https://open.spotify.com/album/3wNTH6hg5KKjRtLJZHxhB9"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 310813,
       "name": "Clavado en Un Bar",
       "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Luz De Dia",
-      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 349506,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 267226,
       "name": "Kumbala",
       "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "El lado oscuro",
-      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 349506,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
+      "duration_ms": 288053,
+      "name": "El lado oscuro",
+      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
-        "name": "Sin Documentos",
-        "url": "https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Sin documentos",
-      "url": "https://open.spotify.com/track/6eOT73H5zfEwTCe1Y0FDCc"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -535,22 +519,6 @@
       "duration_ms": 261626,
       "name": "La parte de adelante",
       "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "3980",
-        "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Auto Rojo",
-      "url": "https://open.spotify.com/track/5PSCWHpXi8I45NXURHyhBA"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -571,18 +539,34 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
-        "name": "Corazones",
-        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
+        "name": "3980",
+        "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 383573,
-      "name": "Estrechez De Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z"
+      "duration_ms": 306000,
+      "name": "Auto Rojo",
+      "url": "https://open.spotify.com/track/5PSCWHpXi8I45NXURHyhBA"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
+        "name": "Sin Documentos",
+        "url": "https://open.spotify.com/album/1o4bpii08vZJWZUAmn6H1t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/6eOT73H5zfEwTCe1Y0FDCc"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
+        "name": "Corazones",
+        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 383573,
+      "name": "Estrechez De Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
         "name": "Rey Az\u00facar",
         "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 243720,
       "name": "Mal Bicho - Remasterizado 2008",
       "url": "https://open.spotify.com/track/5nofWp3plvxYX1xgHpe4fi"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 268600,
-      "name": "Mi Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
+      "duration_ms": 291493,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -695,6 +679,22 @@
       "duration_ms": 281933,
       "name": "La Pachanga",
       "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "Mi Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
     },
     {
       "added_at": "2024-06-12 20:42:00",

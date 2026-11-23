@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,273 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,267 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 21 | [The Only Difference Between Martyrdom and Suicide Is Press Coverage](https://open.spotify.com/track/4WdopfTdSd0nCLropjhsgH) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 2:54 |
 | 22 | [Girls / Girls / Boys](https://open.spotify.com/track/2wEjPgOCEczmjlvq60LyQi) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:26 |
 | 23 | [Death of a Bachelor](https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:23 |
-| 24 | [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 |
+| 24 | [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 |
 | 25 | [Time to Dance](https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:22 |
 | 26 | [Nicotine](https://open.spotify.com/track/5Q4H1XkVHxQjnrHCUpS61d) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:06 |
 | 27 | [Roaring 20s](https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:06 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 45 | [Tonight, Tonight \- Live In Denver](https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:06 |
 | 46 | [High Hopes \- White Panda Remix](https://open.spotify.com/track/1wR8ATQr0sxSfp6jGJ5Oe6) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [White Panda](https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety) | [High Hopes \(White Panda Remix\)](https://open.spotify.com/album/1b5e5xUCsIua9I2YzhDL8q) | 2:56 |
 
-Snapshot ID: `av48AAAAAAAOEjSKgp5mzcFzGDaylPwC`
+Snapshot ID: `awDfAAAAAADNbMF+3d7R7orhUMwiTE13`

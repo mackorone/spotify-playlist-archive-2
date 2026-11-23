@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Bushes of Love",
+        "url": "https://open.spotify.com/album/1wzADb9xGb7lyAcZ9AQdAg"
+      },
+      "artists": [
+        {
+          "name": "Bad Lip Reading",
+          "url": "https://open.spotify.com/artist/2WImpqiHxgOKw0sXNOGtWl"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284142,
+      "name": "Bushes of Love",
+      "url": "https://open.spotify.com/track/75LOt4i3Xlmpu8bFu4kdUR"
+    },
+    {
+      "album": {
         "name": "Pop Food",
         "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
       },

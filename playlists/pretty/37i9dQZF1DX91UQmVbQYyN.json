@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Thoom ",
-  "num_followers": 630945,
+  "num_followers": 630952,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Olivia Dean - Spotify Live Room",
-        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 183000,
-      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
-      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -331,34 +331,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "Olivia Dean - Spotify Live Room",
+        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+      "duration_ms": 183000,
+      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -375,6 +359,22 @@
       "duration_ms": 250120,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Nothing's About to Happen to Me",
-        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 201640,
       "name": "Cure For Me",
       "url": "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "Stay Flo",
+      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 213355,
       "name": "Underdressed at the Symphony",
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "Stay Flo",
-      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "If Not Winter",
-        "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Breathe onto me",
-      "url": "https://open.spotify.com/track/4Ptz8KrFzU52Eyp1wwpVCn"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
+        "name": "If Not Winter",
+        "url": "https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Breathe onto me",
+      "url": "https://open.spotify.com/track/4Ptz8KrFzU52Eyp1wwpVCn"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
         "name": "All I Ever Asked",
         "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
-        "name": "So Jealous",
-        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Walking with a Ghost",
-      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1159,6 +1143,22 @@
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "So Jealous",
+        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Walking with a Ghost",
+      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 182335,
-      "name": "If I Get To Meet You",
-      "url": "https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 196562,
       "name": "Woo!",
       "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 182335,
+      "name": "If I Get To Meet You",
+      "url": "https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
         "name": "Electra Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 198337,
       "name": "California",
       "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Romanticism",
-        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/2vMFO30YvEX3PQFKO1nVLZ"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Glad He's Gone",
         "url": "https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 196348,
       "name": "Glad He's Gone",
       "url": "https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/2vMFO30YvEX3PQFKO1nVLZ"
     },
     {
       "added_at": "2026-05-01 04:02:29",

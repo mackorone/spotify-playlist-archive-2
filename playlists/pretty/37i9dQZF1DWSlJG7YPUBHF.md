@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 
 > Face\-melters only\. Cover: Eddie Van Halen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,597,142 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,597,273 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 31 | [Cliffs Of Dover \- Instrumental](https://open.spotify.com/track/5qm0KiVKMXW1kq6VrnIhz5) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Ah Via Musicom](https://open.spotify.com/album/4euX7BHHIVZecdn7Ii3eg2) | 4:09 |
 | 32 | [Aqualung](https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung \(Special Edition\)](https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x) | 6:36 |
 | 33 | [Paranoid](https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 2:47 |
-| 34 | [Europa \(Earth's Cry Heaven's Smile\)](https://open.spotify.com/track/5Yp3e8RcjYevBTZYJ7OD7s) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 5:05 |
-| 35 | [Bold as Love](https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 4:11 |
+| 34 | [Bold as Love](https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 4:11 |
+| 35 | [Europa \(Earth's Cry Heaven's Smile\)](https://open.spotify.com/track/5Yp3e8RcjYevBTZYJ7OD7s) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 5:05 |
 | 36 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 |
 | 37 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 |
 | 38 | [For the Love of God](https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Passion And Warfare](https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45) | 6:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 45 | [Flying in a Blue Dream](https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [Flying In A Blue Dream](https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6) | 5:21 |
 | 46 | [Spanish Fly \- 2015 Remaster](https://open.spotify.com/track/3rUHyuFsFizq8gIQO0z2jH) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen II \(Remastered\)](https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI) | 1:01 |
 | 47 | [The Width of a Circle \- 2015 Remaster](https://open.spotify.com/track/2o9VAWKD7yvnyrBRw9tzgH) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 8:12 |
-| 48 | [Baby's On Fire \- Remastered 2004](https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 5:19 |
-| 49 | [Statesboro Blues \- Live At Fillmore East, March 12, 1971 \- First Show](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
+| 48 | [Statesboro Blues \- Live At Fillmore East, March 12, 1971 \- First Show](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
+| 49 | [Baby's On Fire \- Remastered 2004](https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 5:19 |
 | 50 | [The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To The Wind \- Medley](https://open.spotify.com/track/7Gq4o3qwY5kTdwNwyQ4lLu) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Rides Again](https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0) | 7:04 |
 
 Snapshot ID: `AAAAAKgWeBCD/vqdvdD4PBATOYUHgLum`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,428 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,489 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 19 | [Llegó La Navidad](https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:05 |
 | 20 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
 | 21 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 |
-| 22 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
-| 23 | [Rodolfo el Reno](https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Navidad](https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO) | 2:56 |
+| 22 | [Rodolfo el Reno](https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Navidad](https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO) | 2:56 |
+| 23 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
 | 24 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
 | 25 | [Dios nos bendecirá](https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Edición Especial En Español\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 3:15 |
 | 26 | [Regalo de Reyes](https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Regalo de Reyes](https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo) | 2:49 |
 | 27 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 |
-| 28 | [Dónde Está La Nieve En Navidad](https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 2:25 |
-| 29 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 |
+| 28 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 |
+| 29 | [Dónde Está La Nieve En Navidad](https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 2:25 |
 | 30 | [No Te Pongas Triste](https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:54 |
 | 31 | [Cantares de Navidad](https://open.spotify.com/track/6aqXCQOtMuKbpdE5OdIsK9) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Asi Soy...](https://open.spotify.com/album/0kzj1twqOvvdZHc9VElEpR) | 5:04 |
 | 32 | [Arbolito de Navidad](https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 3:54 |

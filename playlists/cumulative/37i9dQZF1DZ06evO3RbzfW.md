@@ -4,7 +4,7 @@
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 8 min
+74 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,13 @@
 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 | 2022-05-30 | 2024-03-02 |
 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Remastered 2023\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 | 2024-03-01 |  |
 | [Das Modell](https://open.spotify.com/track/4kRYq0URcVnmzmuc8j8jd6) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Raritäten \(1994 \- 2012\)](https://open.spotify.com/album/0o0QM3HLgDRQQslL2ott2a) | 4:44 | 2025-10-23 | 2025-11-05 |
-| [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2022-05-30 | 2026-10-26 |
+| [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2022-05-30 |  |
 | [Deutschland \- Live in Mexico City](https://open.spotify.com/track/0KLSp970OT7MSCzHNYUpvh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland \(Live in Mexico City\)](https://open.spotify.com/album/3EuWNP8Maog0Nh372ROMrS) | 5:13 | 2026-10-26 | 2026-11-21 |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-05-30 |  |
 | [Donaukinder](https://open.spotify.com/track/5R5mJezbWNqlVvRip6oEfd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:17 | 2025-10-03 |  |
 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 | 2022-05-30 | 2023-08-20 |
-| [Du hast](https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Remastered 2023\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:55 | 2023-08-19 |  |
+| [Du hast](https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Remastered 2023\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:55 | 2023-08-19 | 2026-11-23 |
+| [Du hast \- Live in Mexico City](https://open.spotify.com/track/3Lp0qrn5QYPEnE0QHWSB4b) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Live in Mexico City](https://open.spotify.com/album/00oYXaxuBAJQjkqhBN7lRj) | 4:59 | 2026-11-23 |  |
 | [Du riechst so gut](https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(Remastered 2020\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:51 | 2022-05-30 |  |
 | [Engel](https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:24 | 2022-05-30 | 2023-08-11 |
 | [Engel](https://open.spotify.com/track/5Zuboc3Cj9Ldnc8HyUnNUK) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Remastered 2023\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 4:24 | 2023-08-10 | 2026-11-08 |
@@ -66,7 +67,7 @@
 | [Spieluhr](https://open.spotify.com/track/0KFwkmCpsFqUs09Bs8iVFP) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 4:46 | 2026-08-26 | 2026-08-28 |
 | [Spring](https://open.spotify.com/track/0Z8q59waoxGjcRZDC3ffhH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 5:24 | 2022-05-30 | 2022-07-25 |
 | [Stirb nicht vor mir \(Don't Die Before I Do\)](https://open.spotify.com/track/0xv6NzfBHZhbZ5MWLzdh3T) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 4:05 | 2024-10-08 |  |
-| [Tattoo](https://open.spotify.com/track/6X5zsgjDlssIkv0sVYZgx1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:11 | 2026-11-21 |  |
+| [Tattoo](https://open.spotify.com/track/6X5zsgjDlssIkv0sVYZgx1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:11 | 2026-11-21 | 2026-11-23 |
 | [Te quiero puta!](https://open.spotify.com/track/0KwqP13BnZMIycfxnqWtK1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:55 | 2022-05-30 |  |
 | [Te quiero puta!](https://open.spotify.com/track/4hLS1e3mrL0gbm8BqX1VvN) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3ujsh5jQMOFqIbP7sWruEt) | 3:55 | 2022-10-11 | 2022-11-15 |
 | [Tier](https://open.spotify.com/track/0S2UfCA5A275xChEi9a6vU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:46 | 2022-05-30 | 2023-06-20 |

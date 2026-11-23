@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 595654,
+  "num_followers": 595665,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Ridin' (Deluxe)",
-        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 233051,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -331,42 +335,34 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+        "name": "Ridin' (Deluxe)",
+        "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
+      "duration_ms": 233051,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
     },
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Hallucinating Love",
-        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
       },
       "artists": [
         {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
         }
       ],
-      "duration_ms": 210994,
-      "name": "Peace Talk",
-      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -387,18 +383,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+      "duration_ms": 210994,
+      "name": "Peace Talk",
+      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Honora",
         "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 428226,
       "name": "Arena",
       "url": "https://open.spotify.com/track/6JvqohTklqGnbmHg7t4e6u"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Empezar Ganando",
-        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        }
-      ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Fuse",
         "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 219240,
       "name": "Run A Red Light",
       "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Escrito en agua",
-        "url": "https://open.spotify.com/album/6TLRkXnt12XuN7eX3uXL36"
-      },
-      "artists": [
-        {
-          "name": "Diles que no me maten",
-          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Kil\u00f3metros dentro de un t\u00fanel",
-      "url": "https://open.spotify.com/track/6XAkbb88Yf7weHqu0ihB1P"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
+        "name": "Escrito en agua",
+        "url": "https://open.spotify.com/album/6TLRkXnt12XuN7eX3uXL36"
       },
       "artists": [
         {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+      "duration_ms": 149000,
+      "name": "Kil\u00f3metros dentro de un t\u00fanel",
+      "url": "https://open.spotify.com/track/6XAkbb88Yf7weHqu0ihB1P"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1091,6 +1075,22 @@
       "duration_ms": 230454,
       "name": "Si un d\u00eda me pierdo",
       "url": "https://open.spotify.com/track/5fTKHXmzXUXCAoiHEZ4hPf"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1rboles Mentirosos",
-          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
-        }
-      ],
-      "duration_ms": 316576,
-      "name": "Renacer",
-      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "A-Game",
         "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
       },
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Santiago",
-        "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Santiago",
-      "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Phosphorescent",
         "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
       },
@@ -1211,18 +1179,34 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+        "name": "Santiago",
+        "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
       },
       "artists": [
         {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+      "duration_ms": 142516,
+      "name": "Santiago",
+      "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+        }
+      ],
+      "duration_ms": 316576,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1239,6 +1223,22 @@
       "duration_ms": 224845,
       "name": "Colores Del Mar",
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Terra",
-        "url": "https://open.spotify.com/album/7g1USrooXeCD9I4DLHAZyW"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Buhotronix",
-          "url": "https://open.spotify.com/artist/3yvoWOVO5YKnz6Id1Xyxe9"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Coronado",
-      "url": "https://open.spotify.com/track/1KmB86Dw1mffqKuErR2pU9"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh"
       },
@@ -1419,18 +1399,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Dolores y compa\u00f1\u00eda",
-        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/7g1USrooXeCD9I4DLHAZyW"
       },
       "artists": [
         {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Buhotronix",
+          "url": "https://open.spotify.com/artist/3yvoWOVO5YKnz6Id1Xyxe9"
         }
       ],
-      "duration_ms": 218024,
-      "name": "Socorro",
-      "url": "https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV"
+      "duration_ms": 281000,
+      "name": "Coronado",
+      "url": "https://open.spotify.com/track/1KmB86Dw1mffqKuErR2pU9"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1451,6 +1435,22 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "duration_ms": 218024,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Tuanaki Atoll",
-        "url": "https://open.spotify.com/album/4Yru3A6vmgeiYwh1FkbudL"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 202636,
-      "name": "Tuanaki Atoll",
-      "url": "https://open.spotify.com/track/2305YqaLuOEJ9Opf8pGB7R"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Dallas",
         "url": "https://open.spotify.com/album/2yd8sDDHD9Rzdefr3ZY8Nh"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 251583,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/4DyV9fhLFynASWndwms2fz"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Tuanaki Atoll",
+        "url": "https://open.spotify.com/album/4Yru3A6vmgeiYwh1FkbudL"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 202636,
+      "name": "Tuanaki Atoll",
+      "url": "https://open.spotify.com/track/2305YqaLuOEJ9Opf8pGB7R"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Home Cooking",
+        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
+      },
+      "artists": [
+        {
+          "name": "DJ Yoda",
+          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "duration_ms": 207201,
+      "name": "Thornton Heath",
+      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Feel The Pain / Fast Car",
         "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
       },
@@ -1739,22 +1759,6 @@
       "duration_ms": 198373,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     }
   ],
   "unique_name": "Soft Office",

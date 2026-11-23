@@ -4,7 +4,7 @@
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 34 min
+73 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Plastic Beach \(feat\. Mick Jones and Paul Simonon\)](https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX), [Paul Simonon](https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:47 | 2025-09-18 |  |
 | [Re\-Hash](https://open.spotify.com/track/0dYN5MqKzCfdpDb1bgvdsm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:40 | 2025-09-18 | 2026-03-01 |
 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 | 2025-09-18 |  |
-| [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2025-09-18 |  |
+| [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2025-09-18 | 2026-11-23 |
+| [Rhinestone Eyes](https://open.spotify.com/track/5lCqi1duvzahzMzW7RfLDI) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach \(Deluxe\)](https://open.spotify.com/album/4T95uimM0PQNgAkcyLTym0) | 3:20 | 2026-11-23 |  |
 | [Rock the House](https://open.spotify.com/track/0UQNHlrHiz19Htk7YTLVe5) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 4:09 | 2025-09-18 |  |
 | [Saturnz Barz \(feat\. Popcaan\)](https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:01 | 2025-09-18 |  |
 | [She's My Collar \(feat\. Kali Uchis\)](https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:29 | 2025-09-18 |  |

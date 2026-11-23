@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 188399,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 192101,
       "name": "Love Me 4 Me",
       "url": "https://open.spotify.com/track/28MOE4pVk5uN3wBDGBacET"
@@ -1012,6 +1012,28 @@
       "duration_ms": 166200,
       "name": "TORNADO",
       "url": "https://open.spotify.com/track/1zDVXeNWlq8Gvf1XgahLQg"
+    },
+    {
+      "album": {
+        "name": "TRDWFE (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2zNiwxpt15iD9uXomdz8pv"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156830,
+      "name": "TRDWFE (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4EYS7wMKi6m0eqnWsbmJWD"
     },
     {
       "album": {

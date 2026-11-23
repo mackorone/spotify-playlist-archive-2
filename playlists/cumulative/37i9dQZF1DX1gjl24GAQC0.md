@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: ENHYPEN\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-902 songs - 2 day 0 hr 33 min
+903 songs - 2 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Get Away](https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES ‘O’ \[ROUND 1 : HALL\]](https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE) | 3:20 | 2022-03-31 | 2022-04-04 |
 | [Ghost Town](https://open.spotify.com/track/11zk9584jNu1WoxWEeMWWj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Ghost Town](https://open.spotify.com/album/04UAzxqWOm1fb63qG1G1Ng) | 3:09 | 2022-02-15 | 2022-07-18 |
 | [GIANT \(Korean Ver.\)](https://open.spotify.com/track/7EnXcPK6xBxQr7hOFRLQIi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 2:53 | 2025-03-28 | 2025-04-15 |
+| [GiiiRIP](https://open.spotify.com/track/4i115Ijs5MbfNBYpNsM0Sq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [GiiiRIP](https://open.spotify.com/album/4569jF2yYaWMvXuj3dDvFD) | 2:44 | 2026-11-20 |  |
 | [GIMME GIMME](https://open.spotify.com/track/4QTDaL72TntzXCeoHrl6Cx) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [Smoke Point](https://open.spotify.com/album/77YEnm5uEUWW3SL8KiO2Jk) | 2:51 | 2025-02-04 | 2025-02-25 |
 | [Give me dat](https://open.spotify.com/track/78NOZVTo3ReedJSCqXIpSL) | [ARGON](https://open.spotify.com/artist/2dKmshZuLaQQfr55dankVK) | [GO FORWARD : Wide Dream](https://open.spotify.com/album/6iHktUGzL43RMOx84i0Hu4) | 3:08 | 2022-03-31 | 2022-04-16 |
 | [Give me more \(feat\. De La Ghetto & Play\-N\-Skillz\)](https://open.spotify.com/track/2aQuh8h6DArZ9bcPigj5nf) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [GIVE ME MORE](https://open.spotify.com/album/6xHcIcLAX9tShQKWICklhj) | 3:54 | 2022-03-30 | 2022-04-20 |
@@ -825,7 +826,7 @@
 | [Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Upside Down \- The 2nd Mini Album](https://open.spotify.com/album/6QCntvulIht3aec99G4Wrd) | 2:40 | 2025-08-26 | 2025-09-10 |
 | [Valkyrie](https://open.spotify.com/track/0oNFVyzwK6TFdFHSsD1dmC) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [LIGHT US](https://open.spotify.com/album/6tSOZb6wWFG8EZdcxXDyli) | 3:27 | 2022-04-04 | 2022-05-10 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2022-03-31 | 2022-04-12 |
-| [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 | 2026-03-24 |  |
+| [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 | 2026-03-24 | 2026-11-23 |
 | [Veil](https://open.spotify.com/track/3s0eqXMoij2RmAz2qiN3Bq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Veil](https://open.spotify.com/album/245a7QKvETcXIn3iilhU3T) | 2:52 | 2025-09-13 | 2025-09-30 |
 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2022-04-04 | 2026-11-20 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz) | 2:55 | 2024-04-18 | 2024-08-27 |

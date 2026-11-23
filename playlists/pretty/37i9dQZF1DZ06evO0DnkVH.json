@@ -1,12 +1,12 @@
 {
   "description": "This is Kate Bush. The essential tracks, all in one playlist.",
-  "num_followers": 210024,
+  "num_followers": 210023,
   "original_name": "This Is Kate Bush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACouJFLvvA3hBlhUJFWJh+y",
+  "snapshot_id": "awDfAAAAAAAlCPBT5izOtmt4WCNgwvUJ",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 61533,
-      "name": "Aerial Tal - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Of The Other Sides",
         "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 128146,
       "name": "Under The Ivy",
       "url": "https://open.spotify.com/track/7iHwqxpR1ZH1fl90n4fjOf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 61533,
+      "name": "Aerial Tal - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 304306,
-      "name": "Somewhere In Between - 2018 Remaster",
-      "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Red Shoes (2018 Remaster)",
         "url": "https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 242386,
       "name": "The Red Shoes - 2018 Remaster",
       "url": "https://open.spotify.com/track/76ubKdQE7qRmHz0iZTmr0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 304306,
+      "name": "Somewhere In Between - 2018 Remaster",
+      "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aerial (2018 Remaster)",
-        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 509200,
-      "name": "Nocturn - 2018 Remaster",
-      "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aerial",
         "url": "https://open.spotify.com/album/7rJhczUZtha1uulvAlYS4j"
       },
@@ -571,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionheart (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "In Search of Peter Pan - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3dbKMKZjmjYaFfW5KdRN8q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sensual World (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Never Be Mine - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1E504bXgCNV66KqvWGGgVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aerial (2018 Remaster)",
         "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
       },
@@ -612,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 85893,
-      "name": "Prelude - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD"
+      "duration_ms": 509200,
+      "name": "Nocturn - 2018 Remaster",
+      "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
     },
     {
       "added_at": null,
@@ -635,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Shoes",
-        "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
       "artists": [
         {
@@ -644,15 +596,15 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 317898,
-      "name": "Moments Of Pleasure - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx"
+      "duration_ms": 224760,
+      "name": "Never Be Mine - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1E504bXgCNV66KqvWGGgVo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Best Of The Other Sides",
-        "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
+        "name": "Lionheart (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
       },
       "artists": [
         {
@@ -660,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 294600,
-      "name": "Experiment IV - Remastered 2025",
-      "url": "https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf"
+      "duration_ms": 227093,
+      "name": "In Search of Peter Pan - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3dbKMKZjmjYaFfW5KdRN8q"
     },
     {
       "added_at": null,
@@ -676,15 +628,15 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 294853,
-      "name": "An Architect's Dream - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0RwmRvaoJKpTMnenlxYMxc"
+      "duration_ms": 85893,
+      "name": "Prelude - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Dreaming",
-        "url": "https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo"
+        "name": "The Red Shoes",
+        "url": "https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i"
       },
       "artists": [
         {
@@ -692,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 323400,
-      "name": "Night Of The Swallow",
-      "url": "https://open.spotify.com/track/0GxUznsPADwZOXwluZTHnj"
+      "duration_ms": 317898,
+      "name": "Moments Of Pleasure - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx"
     },
     {
       "added_at": null,
@@ -715,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Shoes (2018 Remaster)",
-        "url": "https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6"
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo"
       },
       "artists": [
         {
@@ -724,9 +676,41 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 283946,
-      "name": "Rubberband Girl - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0BYdxsa0Ct2GH83cNaEkq1"
+      "duration_ms": 323400,
+      "name": "Night Of The Swallow",
+      "url": "https://open.spotify.com/track/0GxUznsPADwZOXwluZTHnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aerial (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 341306,
+      "name": "Prologue - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of The Other Sides",
+        "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Experiment IV - Remastered 2025",
+      "url": "https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 192200,
       "name": "Oh England My Lionheart - 2018 Remaster",
       "url": "https://open.spotify.com/track/1x8tSDNiQQdGSljjcsOOus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Shoes (2018 Remaster)",
+        "url": "https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Rubberband Girl - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0BYdxsa0Ct2GH83cNaEkq1"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Shoes (2018 Remaster)",
-        "url": "https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 302626,
-      "name": "Why Should I Love You? - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ccnmscF6xvw5XPD6xAdYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 247213,
       "name": "Rocket's Tail - 2018 Remaster",
       "url": "https://open.spotify.com/track/3e28PghAqr6vlfIckqsKcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Shoes (2018 Remaster)",
+        "url": "https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 302626,
+      "name": "Why Should I Love You? - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ccnmscF6xvw5XPD6xAdYz"
     }
   ],
   "unique_name": "This Is Kate Bush",

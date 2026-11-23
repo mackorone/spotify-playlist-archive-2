@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: Alcalá Norte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,210 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,213 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 20 | [DEMONIAS MUÑECAS](https://open.spotify.com/track/1F22SGMpR8KQMijk1ihj4r) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [DEMONIAS MUÑECAS](https://open.spotify.com/album/6hTlEVdpr7QRWBICFZR88z) | 2:48 |
 | 21 | [Me Vas A Matar](https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 3:08 |
 | 22 | [Placer de vivir](https://open.spotify.com/track/148LN4dJOFg4Y6G2Ezqnpu) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Placer de vivir](https://open.spotify.com/album/2GjY9NfZdA8glT6Mzd26C3) | 3:09 |
-| 23 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
+| 23 | [La Sangre del Pobre](https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:18 |
 | 24 | [Haciéndome ilusiones](https://open.spotify.com/track/2iJwU9xQ3zYUCTfTYa2pcB) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Haciéndome ilusiones](https://open.spotify.com/album/4N653iEm1amXAAtPL3QFuc) | 3:26 |
 | 25 | [UNA BIMBO POR MADRID](https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:15 |
 | 26 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 |
 | 27 | [TROYA](https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [TROYA](https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI) | 3:13 |
-| 28 | [La Sangre del Pobre](https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:18 |
+| 28 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
 | 29 | [El Mundo Nadie](https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [El Mundo Nadie](https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN) | 3:13 |
 | 30 | [CONTACTO CONTACTO](https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [CONTACTO CONTACTO](https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9) | 1:57 |
 | 31 | [Sin pena ni gloria](https://open.spotify.com/track/5vPJFif5AA5whBJvhPvHGM) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 3:16 |

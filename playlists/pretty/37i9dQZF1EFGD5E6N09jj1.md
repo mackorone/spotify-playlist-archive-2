@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,022 likes - 229 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,023 likes - 229 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,14 +139,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 129 | [February 2017 \(feat\. Clairo and Yaeji\)](https://open.spotify.com/track/3fTEcn7Jt6Dq3NVVdNvl4w) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 2:33 |
 | 130 | [ILY2](https://open.spotify.com/track/1KPS1MHPrq9uPklJX8Q4XW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:16 |
 | 131 | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/track/3jjUphDBlbPzWD3Ft3tya1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/album/78fh7LFI68DsHBe5Xt8XFE) | 2:58 |
-| 132 | [100 Bad \(feat\. Charli XCX\) \(Charli XCX Remix\)](https://open.spotify.com/track/0WRwozKgLAgpxayE0sUv1E) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 3:02 |
-| 133 | [Altars](https://open.spotify.com/track/37Vbx4pkj4QdmE4fPfAdoD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:56 |
+| 132 | [Altars](https://open.spotify.com/track/37Vbx4pkj4QdmE4fPfAdoD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:56 |
+| 133 | [100 Bad \(feat\. Charli XCX\) \(Charli XCX Remix\)](https://open.spotify.com/track/0WRwozKgLAgpxayE0sUv1E) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 3:02 |
 | 134 | [Mean girls featuring julian casablancas](https://open.spotify.com/track/11J4S7N9cyB1Xvx2ClzTkt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:46 |
 | 135 | [911 \- Charli XCX & A\. G\. Cook Remix](https://open.spotify.com/track/4xx8LCv4tUv7PNk6g7VQmY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 4:13 |
 | 136 | [Twice](https://open.spotify.com/track/3phMvUDFwKvFbKABGrmqMV) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:14 |
 | 137 | [What I Like](https://open.spotify.com/track/6kZkq1Ck3RdrILwG3spzRD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:01 |
-| 138 | [Seeing Things](https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:30 |
-| 139 | [2007](https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:04 |
+| 138 | [2007](https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:04 |
+| 139 | [Seeing Things](https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:30 |
 | 140 | [c2.0](https://open.spotify.com/track/5gNTRfMRPZg1U07j7KSSaG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:40 |
 | 141 | [Open up](https://open.spotify.com/track/732AeYEiilADr0WSHFV9of) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 1:26 |
 | 142 | [Porsche \(feat\. MØ\)](https://open.spotify.com/track/5cAokEuetqzaLMxhtQl4h2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:26 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 228 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 | 229 | [playboy bunny](https://open.spotify.com/track/4pz15cPJROGYmCP5HEydWT) | [xcx99](https://open.spotify.com/artist/1uHE1EMxtLxUDy8AYvKmEK) | [playboy bunny](https://open.spotify.com/album/0ZzzD4O5K8C9uFZjScR3yB) | 1:55 |
 
-Snapshot ID: `AciTIAAAAABTJVt/ypL76hBX71FZqOwm`
+Snapshot ID: `AciY3gAAAADnCaVScQ9U0fDeduiCHd1U`

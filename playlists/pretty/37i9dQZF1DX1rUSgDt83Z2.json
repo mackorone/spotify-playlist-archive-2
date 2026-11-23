@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 82202,
+  "num_followers": 82207,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Nergens Liever",
-        "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        }
-      ],
-      "duration_ms": 195694,
-      "name": "Nergens Liever",
-      "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
         "name": "Ik Zal Er Zijn",
         "url": "https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 196862,
       "name": "Ik Zal Er Zijn",
       "url": "https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
+        "name": "Nergens Liever",
+        "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 195694,
+      "name": "Nergens Liever",
+      "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
+        "name": "Rode Draad",
+        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Rode Draad",
+      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
         "name": "Beste Zangers 2025 (KiKa aflevering)",
         "url": "https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 234101,
       "name": "Zo Stil",
       "url": "https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
-        "name": "Rode Draad",
-        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Rode Draad",
-      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Wegwerpliefde",
-        "url": "https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn"
-      },
-      "artists": [
-        {
-          "name": "Nienke Leone",
-          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "Ik Heb Je Gemist",
-      "url": "https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
         "name": "Half Open",
         "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 149470,
       "name": "Half Open",
       "url": "https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
+        "name": "Wegwerpliefde",
+        "url": "https://open.spotify.com/album/4nF1DWMvzLvI8LIx3UUrdn"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Ik Heb Je Gemist",
+      "url": "https://open.spotify.com/track/3cHSCDCPYczMfKrSOLChKM"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
+        "name": "Teveel Is Niet Genoeg",
+        "url": "https://open.spotify.com/album/7gRDr3BmTd9R0XnlOgjJE7"
+      },
+      "artists": [
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "duration_ms": 199134,
+      "name": "Waar Heb Je Op Gewacht",
+      "url": "https://open.spotify.com/track/0ZPXDZWfZCFECzPS39PZYj"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
         "name": "Ik Voel Me Zo Verdomd Alleen",
         "url": "https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Wat Er Morgen Komt",
-        "url": "https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt"
-      },
-      "artists": [
-        {
-          "name": "Van Dik Hout",
-          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
-        }
-      ],
-      "duration_ms": 166895,
-      "name": "Wat Er Morgen Komt",
-      "url": "https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
         "name": "Zaterdag",
         "url": "https://open.spotify.com/album/6XjibqogPY8nHCfO6LxBwv"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 207133,
       "name": "Ook Maar Een Mens",
       "url": "https://open.spotify.com/track/1ANI5lXz3XUycm6tTOxZ7Q"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
+        "name": "Wat Er Morgen Komt",
+        "url": "https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt"
+      },
+      "artists": [
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "duration_ms": 166895,
+      "name": "Wat Er Morgen Komt",
+      "url": "https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Alleen Maar Jou",
-        "url": "https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0"
-      },
-      "artists": [
-        {
-          "name": "Van Dik Hout",
-          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
-        }
-      ],
-      "duration_ms": 193388,
-      "name": "Alleen Maar Jou",
-      "url": "https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
         "name": "Ik neem jou mee",
         "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
       },
@@ -1071,34 +1071,18 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Meisje",
-        "url": "https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi"
+        "name": "Alleen Maar Jou",
+        "url": "https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0"
       },
       "artists": [
         {
-          "name": "Trijntje Oosterhuis",
-          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
         }
       ],
-      "duration_ms": 203559,
-      "name": "Meisje",
-      "url": "https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
-        "name": "Tijd Genoeg",
-        "url": "https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3"
-      },
-      "artists": [
-        {
-          "name": "Gers Pardoel",
-          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
-        }
-      ],
-      "duration_ms": 160692,
-      "name": "Tijd Genoeg",
-      "url": "https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6"
+      "duration_ms": 193388,
+      "name": "Alleen Maar Jou",
+      "url": "https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -1119,6 +1103,38 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
+        "name": "Tijd Genoeg",
+        "url": "https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3"
+      },
+      "artists": [
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "duration_ms": 160692,
+      "name": "Tijd Genoeg",
+      "url": "https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi"
+      },
+      "artists": [
+        {
+          "name": "Trijntje Oosterhuis",
+          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+        }
+      ],
+      "duration_ms": 203559,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
         "name": "Zuidas Jimmy",
         "url": "https://open.spotify.com/album/2CeH2PT1LLHIbaa7BuTpE2"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Echo Zonder Naam",
-        "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        }
-      ],
-      "duration_ms": 213340,
-      "name": "Echo Zonder Naam",
-      "url": "https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
         "name": "Ga Maar Gauw",
         "url": "https://open.spotify.com/album/2eOt2P8J0vvlS7tR1Mw7CH"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 187586,
       "name": "Ga Maar Gauw",
       "url": "https://open.spotify.com/track/7BqgNKFlthSF7kF0bjqg3N"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
+        "name": "Echo Zonder Naam",
+        "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "duration_ms": 213340,
+      "name": "Echo Zonder Naam",
+      "url": "https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -1211,22 +1227,6 @@
       "duration_ms": 189166,
       "name": "Deze Plek",
       "url": "https://open.spotify.com/track/3JQTAQ2ATjOqNIZHgjCwEJ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
-        "name": "Teveel Is Niet Genoeg",
-        "url": "https://open.spotify.com/album/7gRDr3BmTd9R0XnlOgjJE7"
-      },
-      "artists": [
-        {
-          "name": "Van Dik Hout",
-          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
-        }
-      ],
-      "duration_ms": 199134,
-      "name": "Waar Heb Je Op Gewacht",
-      "url": "https://open.spotify.com/track/0ZPXDZWfZCFECzPS39PZYj"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
+        "name": "Twee Stappen Voor",
+        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Als Je Gaat",
+      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
+    },
+    {
+      "added_at": "2026-11-19 23:01:42",
+      "album": {
         "name": "Dag & Nacht",
         "url": "https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 162400,
       "name": "Dag & Nacht",
       "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
-    },
-    {
-      "added_at": "2026-11-19 23:01:42",
-      "album": {
-        "name": "Twee Stappen Voor",
-        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Als Je Gaat",
-      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
     },
     {
       "added_at": "2026-11-19 23:01:42",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-11-19 23:01:42",
       "album": {
-        "name": "Als je dat maar weet",
-        "url": "https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1"
+        "name": "Onder Mijn Huid",
+        "url": "https://open.spotify.com/album/26sxmbUvqKpa88X0XzoeWR"
       },
       "artists": [
         {
-          "name": "Jaap Reesema",
-          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
         }
       ],
-      "duration_ms": 155899,
-      "name": "Als je dat maar weet",
-      "url": "https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV"
+      "duration_ms": 201750,
+      "name": "Daarboven",
+      "url": "https://open.spotify.com/track/16LnFe5k54hGXBdOA2mwN3"
     }
   ],
   "unique_name": "Helemaal NL",

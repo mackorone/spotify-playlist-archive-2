@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,072 likes - 80 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,148 likes - 80 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 39 | [Pjanoo \- Club Mix](https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:30 |
 | 40 | [Go \(Radio Edit\)](https://open.spotify.com/track/6m97Mu089F0rYcvggzwS2W) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go \(Remixes\)](https://open.spotify.com/album/56kI0i0Zght0OYNwFwJL50) | 3:38 |
 | 41 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
-| 42 | [Destination Calabria \- Extended Mix](https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 6:56 |
-| 43 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
+| 42 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
+| 43 | [Destination Calabria \- Extended Mix](https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 6:56 |
 | 44 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 45 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |
 | 46 | [We Come 1 \- Radio Edit](https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 3:42 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 73 | [Sweet Harmony](https://open.spotify.com/track/5lSOVaPDk7x9Ey6c9DqGZx) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Conscience](https://open.spotify.com/album/1KFxJU4UBv1RWwrrwbn9xY) | 5:01 |
 | 74 | [Put Your Hands Up For Detroit](https://open.spotify.com/track/2T1Xemp92qxuUCAFBWfRrj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/5NaES6denS6wM2M2zV1YkR) | 6:36 |
 | 75 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 |
-| 76 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 |
+| 76 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn) | [The Age Of Love](https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5) | 6:48 |
 | 77 | [Natural Blues](https://open.spotify.com/track/6hmtNel4OKlBpBcTO7ao3o) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 4:13 |
-| 78 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn) | [The Age Of Love](https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5) | 6:48 |
-| 79 | [Situation \- 12" Remix](https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 5:45 |
-| 80 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
+| 78 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 |
+| 79 | [Love Story](https://open.spotify.com/track/6g99OTGhJ4BnXDHerdufGR) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/3P5IxDoyVaExcDP8IcGkK1) | 5:12 |
+| 80 | [Situation \- 12" Remix](https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 5:45 |
 
-Snapshot ID: `Zo/+iQAAAAALMVtPCbTOZj685uX38TEi`
+Snapshot ID: `AAAAACcb+Z0Ux9v9N5SdFGc6Mvb9aAyA`

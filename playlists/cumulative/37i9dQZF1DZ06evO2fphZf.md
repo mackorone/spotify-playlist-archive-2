@@ -4,7 +4,7 @@
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 28 min
+70 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ain't No One](https://open.spotify.com/track/5LgYy64uprlaC3fb8ysnte) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Ain't No One](https://open.spotify.com/album/4JuqNqYxtImRT4zhsFZbF9) | 2:53 | 2024-01-29 | 2024-10-07 |
 | [All Night Long](https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Lil Kev](https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6) | [All Night Long](https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs) | 3:34 | 2024-01-29 |  |
 | [attention](https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:57 | 2024-01-29 |  |
+| [Baby Guai](https://open.spotify.com/track/6ds9sDE75kIBL3fqOwRwWc) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Baby Guai](https://open.spotify.com/album/10vh5PRYnCFfOgX1ZcbakD) | 2:09 | 2026-11-23 |  |
 | [Bad](https://open.spotify.com/track/0LvTcWy1faRiiMWpLAoOkN) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Bad](https://open.spotify.com/album/7ghg4UUVy004mc7lPql9uj) | 3:02 | 2024-01-29 | 2024-12-03 |
 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 | 2024-01-29 |  |
 | [chances](https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:47 | 2024-01-29 |  |
@@ -34,7 +35,7 @@
 | [hair down](https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [hair down](https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5) | 3:30 | 2024-04-14 | 2024-08-01 |
 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 | 2024-08-01 |  |
 | [Hands on Me](https://open.spotify.com/track/77b7Cukvthg7FV7vhOlev1) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Cr Crucial](https://open.spotify.com/artist/2e8j9kR0sPHsN60RtwxBlI) | [Hands on Me](https://open.spotify.com/album/0wP22H6E7VHv5pfWGTIZws) | 3:08 | 2024-01-29 | 2024-10-07 |
-| [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 | 2024-01-29 |  |
+| [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 | 2024-01-29 | 2026-11-23 |
 | [i got it](https://open.spotify.com/track/1FQJSuqXclVv2R0ZuAQDmB) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 3:04 | 2024-01-29 |  |
 | [in my bag](https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 | 2024-01-29 | 2026-04-09 |
 | [in my head](https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:08 | 2024-01-29 |  |

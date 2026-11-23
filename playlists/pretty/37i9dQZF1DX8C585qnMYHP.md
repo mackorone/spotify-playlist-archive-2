@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. B0YG1RL on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,777 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,804 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

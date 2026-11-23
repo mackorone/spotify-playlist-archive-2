@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Heavy\-K
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,745 likes - 80 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,871 likes - 80 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

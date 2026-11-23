@@ -1,6 +1,6 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ucd94\ucc9c\ub418\ub294 \ud799\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!",
-  "num_followers": 135689,
+  "num_followers": 135696,
   "original_name": "\ub108 \ud799 \ub3fc?",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "HELP EVER HURT NEVER",
-        "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Shinunoga E-Wa",
-      "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
-    },
-    {
-      "added_at": "2026-07-24 08:44:45",
-      "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2026-07-24 08:44:45",
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Shinunoga E-Wa",
+      "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
-    },
-    {
-      "added_at": "2026-07-24 08:44:45",
-      "album": {
         "name": "THE BIGGEST",
         "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 94426,
       "name": "Back On My BS",
       "url": "https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga"
+    },
+    {
+      "added_at": "2026-07-24 08:44:45",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -531,8 +531,8 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+        "name": "Family Matters",
+        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+      "duration_ms": 456933,
+      "name": "Family Matters",
+      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -619,8 +619,8 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "Family Matters",
-        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
       },
       "artists": [
         {
@@ -628,29 +628,9 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 456933,
-      "name": "Family Matters",
-      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
-    },
-    {
-      "added_at": "2026-07-24 08:44:45",
-      "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -695,6 +675,26 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "added_at": "2026-07-24 08:44:45",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "added_at": "2026-07-24 08:44:45",

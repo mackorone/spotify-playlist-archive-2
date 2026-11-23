@@ -132,7 +132,7 @@
 | [Would I Lie To You?](https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 4:39 | 2023-04-27 | 2024-04-19 |
 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 | 2023-04-08 |  |
 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 | 2023-04-08 |  |
-| [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 | 2023-04-08 |  |
+| [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 | 2023-04-08 |  |
 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 | 2024-07-12 |  |
 
 \*This playlist was first scraped on 2023-04-09. Prior content cannot be recovered.

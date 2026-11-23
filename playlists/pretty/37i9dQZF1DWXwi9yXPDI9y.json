@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 207804,
+  "num_followers": 207873,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 126293,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 290293,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/6CDQBADsdzJwc3qZ3OPDHH"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Hank Mobley Quintet (Remastered)",
-        "url": "https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 399573,
-      "name": "Fin De L'Affaire - Rudy Van Gelder Edition, 2008 Digital Remaster",
-      "url": "https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Winners",
         "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 216626,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Hank Mobley Quintet (Remastered)",
+        "url": "https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 399573,
+      "name": "Fin De L'Affaire - Rudy Van Gelder Edition, 2008 Digital Remaster",
+      "url": "https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Tommy Flanagan Trio",
-        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan Trio",
-          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "In The Blue Of The Evening",
-      "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Baby Breeze (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 162733,
       "name": "The Touch Of Your Lips",
       "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Tommy Flanagan Trio",
+        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan Trio",
+          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "In The Blue Of The Evening",
+      "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -299,26 +299,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "I Was Doing All Right",
-      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 164866,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "I Was Doing All Right",
+      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+        "name": "Something Cool (1955 Version)",
+        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
         }
       ],
-      "duration_ms": 209012,
-      "name": "I Waited For You",
-      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+      "duration_ms": 258893,
+      "name": "Something Cool - Mono",
+      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Something Cool (1955 Version)",
-        "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
       "artists": [
         {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 258893,
-      "name": "Something Cool - Mono",
-      "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
+      "duration_ms": 209012,
+      "name": "I Waited For You",
+      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Dexter Blows Hot & Cool",
         "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Helen Merrill With Strings",
-        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -559,22 +543,18 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
         }
       ],
-      "duration_ms": 163106,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -607,6 +587,26 @@
       "duration_ms": 250746,
       "name": "Fantastic, That's You",
       "url": "https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 252000,
       "name": "Blame It On My Youth - Remastered 1999",
       "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
         "name": "Steamin' [Rudy Van Gelder edition]",
         "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 467626,
       "name": "Diane",
       "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
-        "name": "Jazz 'N' Samba",
-        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
-      },
-      "artists": [
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -867,6 +851,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
+        "name": "Jazz 'N' Samba",
+        "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 210973,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 265000,
       "name": "When Day Is Done",
       "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -979,22 +979,6 @@
       "duration_ms": 162000,
       "name": "It's Only A Paper Moon",
       "url": "https://open.spotify.com/track/4qKMHZqa4jSBPUCT9NL6kd"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 284933,
-      "name": "My Conception",
-      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -1047,6 +1031,22 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 284933,
+      "name": "My Conception",
+      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Verve Jazz Masters 43: Ben Webster",
-        "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
+        "name": "Social Call",
+        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        },
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
+      "duration_ms": 251680,
+      "name": "Gone With the Wind",
+      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -1407,6 +1411,22 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
+        "name": "Verve Jazz Masters 43: Ben Webster",
+        "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
         "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
         "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 180306,
       "name": "Your Love Has Faded",
       "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
-        "name": "Social Call",
-        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        },
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Gone With the Wind",
-      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
     },
     {
       "added_at": "2026-08-31 08:47:58",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-08-31 08:47:58",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 436573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
-    },
-    {
-      "added_at": "2026-08-31 08:47:58",
-      "album": {
         "name": "Wailing With Lou",
         "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 413080,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
+    },
+    {
+      "added_at": "2026-08-31 08:47:58",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 436573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
     },
     {
       "added_at": "2026-08-31 08:47:58",

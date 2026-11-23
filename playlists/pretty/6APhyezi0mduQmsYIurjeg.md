@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 636 songs - 1 day 14 hr 33 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 639 songs - 1 day 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -644,5 +644,8 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 634 | [Codinome Mulher](https://open.spotify.com/track/6LqCTbmQwISfs9h2eKEdo4) | [banda plano b](https://open.spotify.com/artist/71Ej1tQMWH7QQNbntcQpUY) | [Codinome Mulher](https://open.spotify.com/album/2xf7snMHcLBSiE6LOQJXza) | 3:24 |
 | 635 | [Don't Turn Away](https://open.spotify.com/track/2guSt8H3wo8SEvuOKLF1v9) | [SS.PERSIAN](https://open.spotify.com/artist/0OrIsLM9dCRG7SzGpzlhNJ) | [OCEAN OF MELODIES](https://open.spotify.com/album/3qo5wqHfKMVB09QbogeG0T) | 5:13 |
 | 636 | [La Colpa](https://open.spotify.com/track/6RYdVakZoIM4pNgfnPLbpa) | [Zephiro](https://open.spotify.com/artist/7euzpSgCdCp5RdQQ1hvsyJ) | [Baikonur](https://open.spotify.com/album/2Lk0UEtxvptllO1hnePJSZ) | 4:33 |
+| 637 | [Almost Alright](https://open.spotify.com/track/1e2bfdoVKrSM4VbfhQkucw) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Almost Alright](https://open.spotify.com/album/1DLCkneGG65a5rQHuSZwon) | 1:39 |
+| 638 | [Sa Majesté Moi](https://open.spotify.com/track/2EoeD8rrdHEnA4piNSMyu6) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [Sa Majesté Moi](https://open.spotify.com/album/5DbdhSEY7ZdEqelbOrpvwb) | 3:58 |
+| 639 | [The Salem Shake](https://open.spotify.com/track/4sl29ZGG3WOnDMGs1mZMOS) | [Vordermann](https://open.spotify.com/artist/6q8MQV9ZLqQtv1UN44SgwN) | [/Feeding on Fireworks](https://open.spotify.com/album/5cYMOcakFvoZaLXaT7Dz2E) | 4:34 |
 
-Snapshot ID: `AAADEmEauF26I0EAH6JBzYjxkFfdedqr`
+Snapshot ID: `AAADFXeyd4fPvAwuKz39b7spgGB4/23B`

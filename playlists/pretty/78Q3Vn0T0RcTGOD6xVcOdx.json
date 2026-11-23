@@ -1,12 +1,12 @@
 {
   "description": "Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.",
-  "num_followers": 554,
+  "num_followers": 553,
   "original_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",
   "owner": {
     "name": "Nuvora",
     "url": "https://open.spotify.com/user/11141650175"
   },
-  "snapshot_id": "AAACy/b/j6g9x6XvJwCHlPXsQsRlE4DJ",
+  "snapshot_id": "AAAC0247ij8qGnn7ZY3yolpYz89EpjQa",
   "tracks": [
     {
       "added_at": "2026-10-07 15:07:55",
@@ -1735,6 +1735,138 @@
       "duration_ms": 208091,
       "name": "Repete (Abundantly)",
       "url": "https://open.spotify.com/track/52gCi3CV4nJgg79Hb8szo2"
+    },
+    {
+      "added_at": "2026-11-22 14:27:33",
+      "album": {
+        "name": "Sound Of Many Colors",
+        "url": "https://open.spotify.com/album/6l5IZspkyIGzJ37Enai6xP"
+      },
+      "artists": [
+        {
+          "name": "Biggest Chicago",
+          "url": "https://open.spotify.com/artist/27zWBgBptsOMXBMMkIQ0wn"
+        }
+      ],
+      "duration_ms": 201972,
+      "name": "Do Like This",
+      "url": "https://open.spotify.com/track/3yK33rTtd5CCpoB8e6AG5u"
+    },
+    {
+      "added_at": "2026-11-22 14:28:21",
+      "album": {
+        "name": "Reggae for the World",
+        "url": "https://open.spotify.com/album/1C7EsppvUR508Cm0p9YNoA"
+      },
+      "artists": [
+        {
+          "name": "IRIEVO",
+          "url": "https://open.spotify.com/artist/3Vb7VRu0ORaZBDxWnN9lC6"
+        }
+      ],
+      "duration_ms": 225007,
+      "name": "Reggae for the World",
+      "url": "https://open.spotify.com/track/1lXPq9ayDnRH0QPWS88PR3"
+    },
+    {
+      "added_at": "2026-11-22 14:29:04",
+      "album": {
+        "name": "Respectfully",
+        "url": "https://open.spotify.com/album/4zyNKehGUEyKnhyRqphl69"
+      },
+      "artists": [
+        {
+          "name": "Interstate",
+          "url": "https://open.spotify.com/artist/5kefUcMzTmbD5jjMxaRnh3"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Respectfully",
+      "url": "https://open.spotify.com/track/0i4FuH2dG8E80vPmpr7p8g"
+    },
+    {
+      "added_at": "2026-11-22 14:29:45",
+      "album": {
+        "name": "Shakara",
+        "url": "https://open.spotify.com/album/6bmcPl9p1oJh3W1TqVNEQS"
+      },
+      "artists": [
+        {
+          "name": "Dominix",
+          "url": "https://open.spotify.com/artist/1DO6DyJ4IvA269tJOQkrjd"
+        }
+      ],
+      "duration_ms": 163908,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/0Tcrbvp6jriGw9sRBC0oHC"
+    },
+    {
+      "added_at": "2026-11-22 14:30:33",
+      "album": {
+        "name": "End of July",
+        "url": "https://open.spotify.com/album/7ABnItwF9myouF8TKaBb9X"
+      },
+      "artists": [
+        {
+          "name": "The Great Kid Marc",
+          "url": "https://open.spotify.com/artist/16sYBJPzwoVQoReZwQjHP4"
+        }
+      ],
+      "duration_ms": 101307,
+      "name": "End of July",
+      "url": "https://open.spotify.com/track/71fr2IUA790NFRNdUm1ijp"
+    },
+    {
+      "added_at": "2026-11-22 20:16:44",
+      "album": {
+        "name": "ADINI YOLLARA YAZDIM",
+        "url": "https://open.spotify.com/album/0LtplaKPDEz3iEpGb0Wzsx"
+      },
+      "artists": [
+        {
+          "name": "\u0130stanbul Arabesque Project",
+          "url": "https://open.spotify.com/artist/7A7y6x4Z6DZ8KuXCwfE4xg"
+        }
+      ],
+      "duration_ms": 217812,
+      "name": "ADINI YOLLARA YAZDIM",
+      "url": "https://open.spotify.com/track/7sU0ay5RWulpNoDvZcn21s"
+    },
+    {
+      "added_at": "2026-11-22 20:16:57",
+      "album": {
+        "name": "God Can Never Fail",
+        "url": "https://open.spotify.com/album/1aoMJ2Hg6ZkgCHu1iJ8GEN"
+      },
+      "artists": [
+        {
+          "name": "Godson",
+          "url": "https://open.spotify.com/artist/4PhoGS5tJZcVTaxXagf91B"
+        },
+        {
+          "name": "Emmasings",
+          "url": "https://open.spotify.com/artist/2vrvBX9lthpm3qNQ1OhdvT"
+        }
+      ],
+      "duration_ms": 248659,
+      "name": "God Can Never Fail",
+      "url": "https://open.spotify.com/track/6m1F0Huo4A6CNjwIm0wrqc"
+    },
+    {
+      "added_at": "2026-11-22 20:17:10",
+      "album": {
+        "name": "The Girl I Love",
+        "url": "https://open.spotify.com/album/59ImkOVscYwjNxaUHA9LSX"
+      },
+      "artists": [
+        {
+          "name": "Stanshow",
+          "url": "https://open.spotify.com/artist/43pMkEmyvlWuS1jwqp8I3j"
+        }
+      ],
+      "duration_ms": 254484,
+      "name": "The Girl I Love",
+      "url": "https://open.spotify.com/track/3DPuXRLGViQTSq7xoGFGfu"
     }
   ],
   "unique_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",

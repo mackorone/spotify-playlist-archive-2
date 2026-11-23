@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 76 | [Life Is Strange](https://open.spotify.com/track/4ZTX8P6yC1dv6CY7b0Ql3g) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:16 |
 | 77 | [Superstar](https://open.spotify.com/track/5IDxNMBR3cEXEx8vEidBV6) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:46 |
 | 78 | [Easy](https://open.spotify.com/track/27xk5s3fAAwfvptEshbM3J) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:36 |
-| 79 | [Evergreen](https://open.spotify.com/track/172rZlTV0yE2La5N19clgq) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 4:27 |
-| 80 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 79 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 80 | [Evergreen](https://open.spotify.com/track/172rZlTV0yE2La5N19clgq) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 4:27 |
 | 81 | [No](https://open.spotify.com/track/4HrI0DIPyvRF1cxUUAGQJc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 4:00 |
 | 82 | [intimate moments](https://open.spotify.com/track/5nWjUNo9bEAyXUgu9GbQLP) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:30 |
 | 83 | [Don't Say That](https://open.spotify.com/track/7ncgSRdJ2GFM2EyJhKMSFs) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:30 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 182 | [Buzzcut](https://open.spotify.com/track/7MtoF9z1wMtDqjbS7SJtEQ) | [St\. Augustine](https://open.spotify.com/artist/64Z3eqSabqBVpnGRRaUAfD) | [DEMOS](https://open.spotify.com/album/7zQ8bD7zGpk27yc2tHf6FN) | 3:48 |
 | 183 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AciTDAAAAADw7hYpT7EkgoFsWV5xq/xQ`
+Snapshot ID: `AciY6AAAAADaWjLfF5XrrGG0/YYCIer/`

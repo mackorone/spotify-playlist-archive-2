@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 431032,
       "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
       "url": "https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm"
@@ -947,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/5gIAcnMg6vtm3fsvovACoR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201361,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/0Yp9ukcJrsbeNnKgCpcekF"
+    },
+    {
+      "album": {
         "name": "No Volver\u00e9",
         "url": "https://open.spotify.com/album/3RdpKMTqdrqPJcsh38s3kP"
       },
@@ -962,7 +984,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 201361,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/5K9S01BZU76VRLMtgCTfG0"
@@ -1436,6 +1458,28 @@
       "duration_ms": 147745,
       "name": "Tengo Mal Gusto",
       "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
+    },
+    {
+      "album": {
+        "name": "Ojo De Loca",
+        "url": "https://open.spotify.com/album/0Y9SzR2fVmnGCJXJk2HivQ"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152006,
+      "name": "Todo Por Un Cabron",
+      "url": "https://open.spotify.com/track/0dmhwJLTpDlrm4h3dinymX"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 104262,
+  "num_followers": 104268,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2026-02-16 22:44:16",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -247,18 +263,18 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -275,22 +291,6 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
-    },
-    {
-      "added_at": "2026-02-16 22:44:16",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -567,18 +567,18 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
         }
       ],
-      "duration_ms": 171782,
-      "name": "Austin (Boots Stop Workin')",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+      "duration_ms": 262466,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
       "artists": [
         {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 262466,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+      "duration_ms": 171782,
+      "name": "Austin (Boots Stop Workin')",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "added_at": "2026-02-16 22:44:16",
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
-    },
-    {
-      "added_at": "2026-02-16 22:44:16",
-      "album": {
-        "name": "Delirium (Deluxe)",
-        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 252534,
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2026-02-16 22:44:16",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2026-02-16 22:44:16",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "Stars Dance (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF"
-    },
-    {
-      "added_at": "2026-02-16 22:44:16",
-      "album": {
         "name": "Nick Jonas X2",
         "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 256026,
       "name": "Bills, Bills, Bills",
       "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "added_at": "2026-02-16 22:44:16",
+      "album": {
+        "name": "Stars Dance (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Come & Get It",
+      "url": "https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF"
     },
     {
       "added_at": "2026-02-16 22:44:16",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
         }
       ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     }
   ],
   "unique_name": "Ros\u00e9 on Tap",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Oreozin
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,642 likes - 75 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,608 likes - 75 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 64365,
+  "num_followers": 64375,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAABWoyZNq6wT3rBM8OoMXy8O",
+  "snapshot_id": "awDfAAAAAACRDnTdeZsiqyGTuaQ0GRyG",
   "tracks": [
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 77346,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/1A6KDZo2l03lUbPLgnN0Ls"
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/0GfWvzWhRGaImbsTKPvRQ1"
     },
     {
       "added_at": null,
@@ -216,15 +216,15 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/0GfWvzWhRGaImbsTKPvRQ1"
+      "duration_ms": 77346,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/1A6KDZo2l03lUbPLgnN0Ls"
     },
     {
       "added_at": null,
       "album": {
-        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
-        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
+        "name": "The Birth of Bossa",
+        "url": "https://open.spotify.com/album/2EKLmuoMZ4eN3bIDrUG3Or"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 124682,
-      "name": "Rosa Morena",
-      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
+      "duration_ms": 121906,
+      "name": "Chega de saudade",
+      "url": "https://open.spotify.com/track/380KZqSJVBziAQrvx7rdGW"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Birth of Bossa",
-        "url": "https://open.spotify.com/album/2EKLmuoMZ4eN3bIDrUG3Or"
+        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
+        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 121906,
-      "name": "Chega de saudade",
-      "url": "https://open.spotify.com/track/380KZqSJVBziAQrvx7rdGW"
+      "duration_ms": 124682,
+      "name": "Rosa Morena",
+      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Getz/Gilberto #2",
+        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 129720,
+      "name": "Bim Bom - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto",
         "url": "https://open.spotify.com/album/73ZRKdD3Ds43IjHrhKgucY"
       },
@@ -475,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz/Gilberto #2",
-        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 129720,
-      "name": "Bim Bom - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amoroso",
         "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 387133,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN"
+      "duration_ms": 259200,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
+      "duration_ms": 387133,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 171546,
-      "name": "Coisa Mais Linda",
-      "url": "https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj"
+      "duration_ms": 150857,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/6Ik8XZNTmccrLsDAntx9iO"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 150857,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/6Ik8XZNTmccrLsDAntx9iO"
+      "duration_ms": 171546,
+      "name": "Coisa Mais Linda",
+      "url": "https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getz/Gilberto #2",
         "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
@@ -871,22 +855,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz / Gilberto \u201876",
-        "url": "https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8"
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
       "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 345851,
-      "name": "Aguas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN"
+      "duration_ms": 234933,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de saudade by Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/0qiXOkJRFqDLFppLNobKPG"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 107560,
+      "name": "Saudade F\u00eaz Um Samba",
+      "url": "https://open.spotify.com/track/2HB65gfPOVg8Nh2xD4hpIV"
     },
     {
       "added_at": null,
@@ -907,18 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de saudade by Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/0qiXOkJRFqDLFppLNobKPG"
+        "name": "Getz / Gilberto \u201876",
+        "url": "https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8"
       },
       "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 107560,
-      "name": "Saudade F\u00eaz Um Samba",
-      "url": "https://open.spotify.com/track/2HB65gfPOVg8Nh2xD4hpIV"
+      "duration_ms": 345851,
+      "name": "Aguas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN"
     },
     {
       "added_at": null,

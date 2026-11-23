@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,399 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,426 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 45 | [Ratiyaan](https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Ratiyaan](https://open.spotify.com/album/228bM7MDfeoocgddt5o8bl) | 2:55 |
 | 46 | [O'Meri Laila \- Radio Version](https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 3:11 |
 | 47 | [Leja](https://open.spotify.com/track/2wthG5BIYGo3UXPplvXscX) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem \(Deluxe\)](https://open.spotify.com/album/5k3Z3B3ahxGdxCmCO8kwxX) | 3:18 |
-| 48 | [Naina](https://open.spotify.com/track/3SHopOL3KEJ8PFl3vJdfmF) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Khoobsurat](https://open.spotify.com/album/66PqhjAV83M26X8mJ8nqDO) | 3:45 |
+| 48 | [Timro Pratiksa](https://open.spotify.com/track/5nQA7m7xypeL7dFaGRwJO5) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Timro Pratiksa](https://open.spotify.com/album/1aWGF7IgGYgc9Hmf857WmZ) | 4:01 |
 | 49 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
-| 50 | [Timro Pratiksa](https://open.spotify.com/track/5nQA7m7xypeL7dFaGRwJO5) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Timro Pratiksa](https://open.spotify.com/album/1aWGF7IgGYgc9Hmf857WmZ) | 4:01 |
+| 50 | [Naina](https://open.spotify.com/track/3SHopOL3KEJ8PFl3vJdfmF) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Khoobsurat](https://open.spotify.com/album/66PqhjAV83M26X8mJ8nqDO) | 3:45 |
 | 51 | [Noor E Khuda](https://open.spotify.com/track/55fSZWdcvMPJga3LbiV8jN) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 6:37 |
 | 52 | [Khoobsurat](https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 4:04 |
 | 53 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 71 | [Aao Chalein](https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:05 |
 | 72 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 73 | [Tu Aisa Kaise Hai?](https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Tu Aisa Kaise Hai?](https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T) | 3:34 |
-| 74 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
-| 75 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
+| 74 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
+| 75 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
 
 Snapshot ID: `AAAAAJsKp80ZYWNlmzN2NoyulwNovwE8`

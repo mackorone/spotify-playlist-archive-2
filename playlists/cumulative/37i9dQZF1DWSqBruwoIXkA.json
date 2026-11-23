@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/16dAtPh8XVKMbfiLcgZyiq"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5uvjVYv3FKBNnGkR8mnHws"
+    },
+    {
+      "album": {
         "name": "back to you",
         "url": "https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3"
       },
@@ -1790,6 +1808,24 @@
       "duration_ms": 174945,
       "name": "Birthday Makeup",
       "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
+    },
+    {
+      "album": {
+        "name": "Birthdays & Christmas",
+        "url": "https://open.spotify.com/album/0d6vLlsdQGmxRYXvvTVJLl"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "Birthdays & Christmas",
+      "url": "https://open.spotify.com/track/7jCTE8bnNMJAuPjakp4luQ"
     },
     {
       "album": {
@@ -2930,7 +2966,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 239250,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/5Vo9RNnqrD6mhrnkbN4jZR"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 175747,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
@@ -4722,7 +4758,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 199744,
       "name": "Eastside Girls",
       "url": "https://open.spotify.com/track/0aIoaYbTcStz4yBHHCjgzi"
@@ -5152,6 +5188,24 @@
       "duration_ms": 239000,
       "name": "Everything All The Time",
       "url": "https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M"
+    },
+    {
+      "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/4mMXxB95GryASboT4X11jV"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/004G3nON9ejsOF4Fnb5eX3"
     },
     {
       "album": {
@@ -7448,7 +7502,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 212416,
       "name": "Home Tonight",
       "url": "https://open.spotify.com/track/15JWJHmZIpQMP0ojCUEW27"
@@ -10728,7 +10782,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 212013,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk"
@@ -14554,7 +14608,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 179014,
       "name": "Postcard",
       "url": "https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66"
@@ -16228,7 +16282,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 186368,
       "name": "Space",
       "url": "https://open.spotify.com/track/0oxjPQUPHUZmHbAdTqvqaV"
@@ -17084,7 +17138,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 169320,
       "name": "The Knife In My Back",
       "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
@@ -17178,7 +17232,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 136693,
       "name": "The Motive",
       "url": "https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt"

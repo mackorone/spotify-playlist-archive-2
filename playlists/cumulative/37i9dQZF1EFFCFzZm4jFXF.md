@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 8 hr 6 min
+149 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 | 2024-06-13 |  |
 | [The First Time](https://open.spotify.com/track/2I52iM20qEsd8Mupt25m1D) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Run to You](https://open.spotify.com/album/3EGJG8H67Ud2gvXVXjZkVt) | 3:47 | 2024-06-13 |  |
 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 | 2024-06-13 |  |
+| [This Christmas](https://open.spotify.com/track/4gumDD9L3ilUlJXDowObj8) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [This Christmas](https://open.spotify.com/album/0B02vc8VlQijHxnVmNfRyG) | 3:46 | 2026-11-22 |  |
 | [To Die For](https://open.spotify.com/track/6LMTqDK4uVR8XsCzel1nkH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:50 | 2024-06-13 |  |
 | [too late](https://open.spotify.com/track/4ggEgjXUdpsh80hbJRvP6t) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [too late](https://open.spotify.com/album/0iPembrErla1mAj0jFjvn4) | 3:03 | 2024-06-13 |  |
 | [Trophy](https://open.spotify.com/track/04LD8OquYuxAsYYWsGF1qa) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The Fallout](https://open.spotify.com/album/47SL3rIIK8GLwpBJgJkGJD) | 3:03 | 2026-01-25 |  |

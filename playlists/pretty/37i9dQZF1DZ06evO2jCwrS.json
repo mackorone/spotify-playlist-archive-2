@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACwvQvRydzPt4YWU4GCEXZn",
+  "snapshot_id": "awDfAAAAAAANes5Xi5O2i5t+GABwqqcn",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Way (From SUPERFLY - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "This Way - From SUPERFLY - Original Soundtrack",
+      "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Radio III",
         "url": "https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 291613,
       "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello]",
       "url": "https://open.spotify.com/track/4i8AsLFPCFip6SbEDOFvYq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Way (From SUPERFLY - Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "This Way - From SUPERFLY - Original Soundtrack",
-      "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
     },
     {
       "added_at": null,
@@ -843,18 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+        "name": "Spell My Name",
+        "url": "https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5"
       },
       "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 197613,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/14fCqklNybaEQyF7RRmwHA"
+      "duration_ms": 258125,
+      "name": "Gotta Move On (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H"
     },
     {
       "added_at": null,
@@ -875,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spell My Name",
-        "url": "https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5"
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
       "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 258125,
-      "name": "Gotta Move On (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H"
+      "duration_ms": 197613,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/14fCqklNybaEQyF7RRmwHA"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 221134,
-      "name": "Back of My Mind (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/0NYEdeOOdXN6Nw2AeKecSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Closer (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 168873,
       "name": "Closer (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 221134,
+      "name": "Back of My Mind (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0NYEdeOOdXN6Nw2AeKecSJ"
     }
   ],
   "unique_name": "This Is H.E.R.",

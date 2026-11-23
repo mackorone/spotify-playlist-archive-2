@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 381576,
+  "num_followers": 381575,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAA7+AFZorXoFB81L8P9nGOF",
+  "snapshot_id": "awDfAAAAAADOxqMXNqa/gdNkAwwotf0i",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primer Lugar",
-        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Primer Lugar",
-      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -371,26 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Podemos (Remix)",
-        "url": "https://open.spotify.com/album/0eIaEg1LMlc3ZGVLiTL7ZB"
+        "name": "Primer Lugar",
+        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
       },
       "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 240000,
-      "name": "No Podemos - Remix",
-      "url": "https://open.spotify.com/track/1jZXWu9aglrtzS9IqLbnrd"
+      "duration_ms": 245760,
+      "name": "Primer Lugar",
+      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
     },
     {
       "added_at": null,
@@ -419,6 +395,30 @@
       "duration_ms": 292000,
       "name": "Pensabas",
       "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Podemos (Remix)",
+        "url": "https://open.spotify.com/album/0eIaEg1LMlc3ZGVLiTL7ZB"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "No Podemos - Remix",
+      "url": "https://open.spotify.com/track/1jZXWu9aglrtzS9IqLbnrd"
     },
     {
       "added_at": null,
@@ -563,30 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 211394,
-      "name": "Sin Frenos",
-      "url": "https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 241958,
       "name": "SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",
       "url": "https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 211394,
+      "name": "Sin Frenos",
+      "url": "https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o"
     },
     {
       "added_at": null,
@@ -939,38 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Tu Ritmo",
-      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 130459,
-      "name": "H.I.M.",
-      "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendito Verano",
         "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
       },
@@ -987,6 +955,58 @@
       "duration_ms": 179354,
       "name": "Roulin",
       "url": "https://open.spotify.com/track/4CW60MJtsp5GckOQLcC2NK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Tu Ritmo",
+      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 159482,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 130459,
+      "name": "H.I.M.",
+      "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
     },
     {
       "added_at": null,
@@ -1027,26 +1047,6 @@
       "duration_ms": 244166,
       "name": "Impredecible",
       "url": "https://open.spotify.com/track/6RlMyEKTup093DPweRgiSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nota",
-        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 159482,
-      "name": "Nota",
-      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Droomsindroom, Barto, Riaan Benadé, Kurt Darren, Juan Boucher, Danny Smoke en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,041 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,043 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

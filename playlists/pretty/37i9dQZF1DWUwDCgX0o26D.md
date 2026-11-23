@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 全台最紅西洋歌單！熱門盡在此！Cover:  The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,013 likes - 57 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,018 likes - 57 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

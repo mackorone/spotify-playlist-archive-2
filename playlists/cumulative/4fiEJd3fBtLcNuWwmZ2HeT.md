@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-571 songs - 1 day 9 hr 26 min
+572 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [S.A.D.](https://open.spotify.com/track/4OQmtaiFOKGOgkaw9urJ0B) | [nihosika](https://open.spotify.com/artist/7fUfK1XiSvJAVxIuqhjzL4) | [S.A.D.](https://open.spotify.com/album/2kL33iFtvDOCGOQB8wAUtk) | 3:13 | 2024-07-01 |  |
 | [salt\-wound routine](https://open.spotify.com/track/1rdmppq2igDDsYEqyQ0oAR) | [11vein](https://open.spotify.com/artist/7D0Fbe6pUOLYAyVZBdjSTZ) | [salt\-wound routine](https://open.spotify.com/album/5t8DUyoxLVqa1zc0MZ1Jx9) | 3:58 | 2026-09-11 |  |
 | [Sanjyou](https://open.spotify.com/track/0Nk6nnQSy1NOg04k9U1rDT) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:02 | 2026-01-17 |  |
+| [Schadenfreude](https://open.spotify.com/track/2OregsirjLYVdL7DfT3n5W) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [Mugenhouyou](https://open.spotify.com/album/3Jcm3UheVWkyhnUwnqHW4D) | 2:53 | 2026-11-22 |  |
 | [Scorched Cranberries](https://open.spotify.com/track/7CFsEDBswHlZlC0tv6OJdd) | [Leon Riskin](https://open.spotify.com/artist/3sESZxzkq5C0PEceARiS4v) | [Five Nights at Freddy's: Help Wanted 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/3Kpo1RHEdCHh9Fn8jbQUgA) | 1:37 | 2024-04-22 |  |
 | [Shaded Cream](https://open.spotify.com/track/1fpjGTg8RUJOCsgckomeYm) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Exit Tunes Presents Supernova 8](https://open.spotify.com/album/3xpShqDPXoIalJ0ULfcssW) | 3:54 | 2026-04-07 |  |
 | [Shake It Now.](https://open.spotify.com/track/5PQt3xVYvS9kE2N7r8eHxW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [rendez\-vous](https://open.spotify.com/album/3Oks0VL5KDShvcuNS4LSSJ) | 3:16 | 2023-11-27 |  |
@@ -420,12 +421,12 @@
 | [ギフト](https://open.spotify.com/track/39kz6zKYEDz4UAT3B1U5HN) | [内緒のピアス](https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL) | [ギフト](https://open.spotify.com/album/0BtPWvguBmKExfERM49iIa) | 3:13 | 2026-04-02 |  |
 | [グライド](https://open.spotify.com/track/1i84eCrJbu0EIP5aWToMMa) | [Lily Chou\-Chou](https://open.spotify.com/artist/2eIwiMzHBYVTZ2iTYiuacE) | [呼吸](https://open.spotify.com/album/4IVnHzCk8zgJ1ivesDoTc3) | 3:40 | 2026-06-06 |  |
 | [ゲシュタルト後悔](https://open.spotify.com/track/2V4nd8UC7PrhKpZAWcxHpB) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [ゲシュタルト後悔](https://open.spotify.com/album/7tJhkSSOzBgYiOduOLIx6o) | 3:09 | 2025-09-12 |  |
-| [ゴチャゴチャうるせー！](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 | 2022-09-02 |  |
+| [ゴチャゴチャうるせー！ \(feat\. 亞北ネル\)](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 | 2022-09-02 |  |
 | [ゴー・トゥ・大都会 \(feat\. GUMI\)](https://open.spotify.com/track/12epYxzmLOXyd3bMMM7ELE) | [月裏, ニャントンロン](https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6) | [ゴー・トゥ・大都会](https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV) | 2:50 | 2022-12-12 |  |
 | [シグナル](https://open.spotify.com/track/2vxAPTwp7mIMctVCeqsYMN) | [雨宿り](https://open.spotify.com/artist/59BLjrTwyCqE9R4W1BovYK) | [傘をなくして](https://open.spotify.com/album/5UnX9tVyGbUI7yOgJ5qWBq) | 2:34 | 2025-04-05 |  |
 | [シュガーコート](https://open.spotify.com/track/0zIQRErzk1eNU4Pd1Tnxcg) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [orbit](https://open.spotify.com/album/5pdTN60HCRnXnTP3kDUS8Y) | 3:05 | 2025-01-05 |  |
 | [シロガネ](https://open.spotify.com/track/1r6RyFGvZ2fnTaYyki8M78) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [シロガネ](https://open.spotify.com/album/1bz2zVtFmsvAS2eeAAelBt) | 3:31 | 2024-09-08 |  |
-| [ジターバグ](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 | 2025-12-10 |  |
+| [ジターバグ \(feat\. MEIKO&初音ミク\)](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [MEIKO](https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 | 2025-12-10 |  |
 | [ジャンキーナイトタウンオーケストラ](https://open.spotify.com/track/3ASzfo5SRD3TioeUWJbHse) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [pandemic](https://open.spotify.com/album/6KTTXEM3HpdEv4iAmyKPZJ) | 3:33 | 2022-07-06 |  |
 | [ジンクス \(feat\. Such\)](https://open.spotify.com/track/7kR1OuHrMYjtgb5yAE9dkf) | [RuLu](https://open.spotify.com/artist/0xFS8oBdlugpwYgW8dxoQm), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [RuLu](https://open.spotify.com/album/38J7AksAHQ2EIIlmzuMYza) | 3:53 | 2024-01-22 |  |
 | [スキスキ絶頂症](https://open.spotify.com/track/4ob8EMtGqQYlute1An2U9X) | [koyori](https://open.spotify.com/artist/1dBDN8LP56AoeoYy4KvgdN), [Nameless](https://open.spotify.com/artist/7IrZTf8h2kmZq2p37NDs1m) | [Resonance](https://open.spotify.com/album/7DIkEiWd247bc48fvYUH0P) | 3:36 | 2026-05-19 |  |

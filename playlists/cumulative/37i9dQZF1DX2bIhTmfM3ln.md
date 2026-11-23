@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,090 songs - 2 day 4 hr 23 min
+1,091 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-03 | 2023-06-10 |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-05 | 2023-01-20 |
 | [Fear Love](https://open.spotify.com/track/19oxoR5S1ChfKRMd6qdRgx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fear Love](https://open.spotify.com/album/45pBZzzVyvcLUu3pjh8BVF) | 2:55 | 2023-09-29 | 2023-10-05 |
+| [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 | 2026-11-20 |  |
 | [Feel Am](https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM II](https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86) | 2:37 | 2026-06-25 | 2026-11-13 |
 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 | 2023-09-29 |
 | [Feel Your Body](https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [BUTiFLY](https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3) | 3:33 | 2023-10-13 | 2023-11-14 |
@@ -1013,7 +1014,7 @@
 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-14 | 2023-09-29 |
 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 | 2025-08-25 | 2026-08-21 |
 | [Uwa Ni Lé](https://open.spotify.com/track/0x6ynQ608fmoeQJGpecuh5) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Obilisa](https://open.spotify.com/artist/2CCK2X9XXEiiZ2J9A3t9P6), [Medi Meyz](https://open.spotify.com/artist/4XCcYzu2zRJvBp3QZct3Oj) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:44 | 2023-06-09 | 2023-08-11 |
-| [Uwese \(feat\. Oxlade\)](https://open.spotify.com/track/6LjhNdD7XDi3deb1gGx552) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [THE KOHDEX](https://open.spotify.com/album/298p6WboOSnrcVLbXMRqRl) | 2:41 | 2026-10-09 |  |
+| [Uwese \(feat\. Oxlade\)](https://open.spotify.com/track/6LjhNdD7XDi3deb1gGx552) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [THE KOHDEX](https://open.spotify.com/album/298p6WboOSnrcVLbXMRqRl) | 2:41 | 2026-10-09 | 2026-11-23 |
 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 | 2023-11-13 | 2024-02-03 |
 | [Velvet](https://open.spotify.com/track/46eFAhTemPWwNG0Z8yIsKl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [E\-Mortal Boy](https://open.spotify.com/album/4r6kHpL8Ql8O6FvfvdjVwg) | 2:47 | 2026-11-20 |  |
 | [Venus](https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB) | [Faceless](https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Venus](https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n) | 2:19 | 2024-12-21 | 2025-08-26 |

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 358,
+  "num_followers": 360,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAMUqmDtpQ7dlw2jm/hSWjwcZOwpMeJ",
+  "snapshot_id": "AAAMVdxFMnbigqrdq8eb8HfmW+RNFtU+",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -49363,6 +49363,58 @@
       "duration_ms": 138169,
       "name": "Once in Royal David\u2019s City",
       "url": "https://open.spotify.com/track/6nzBkwV0ykb7ptwnSExKv6"
+    },
+    {
+      "added_at": "2026-11-22 08:41:33",
+      "album": {
+        "name": "\u042f\u043a \u0441\u0438\u043b\u044c\u043d\u043e \u043b\u044e\u0431\u043b\u044e\u2026",
+        "url": "https://open.spotify.com/album/6wphriPeTxBeWsLTC0dRaT"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u043b\u0430\u0434 \u0417\u0430\u0439\u0446\u0435\u0432",
+          "url": "https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h"
+        }
+      ],
+      "duration_ms": 248592,
+      "name": "\u042f\u043a \u0441\u0438\u043b\u044c\u043d\u043e \u043b\u044e\u0431\u043b\u044e\u2026",
+      "url": "https://open.spotify.com/track/1MMk8HieUWCzKQv0jXSLIi"
+    },
+    {
+      "added_at": "2026-11-22 08:41:44",
+      "album": {
+        "name": "Outra Dimens\u00e3o",
+        "url": "https://open.spotify.com/album/64x8yeEIQgkvRih104zPvx"
+      },
+      "artists": [
+        {
+          "name": "Alezy",
+          "url": "https://open.spotify.com/artist/3TBtpZozgCYPtqxkhJY6In"
+        },
+        {
+          "name": "Jenny Branches",
+          "url": "https://open.spotify.com/artist/0BqVxNjV21NIf73Udep68x"
+        }
+      ],
+      "duration_ms": 173205,
+      "name": "Outra Dimens\u00e3o",
+      "url": "https://open.spotify.com/track/3gkD19XV88tMkcSg4rdPQy"
+    },
+    {
+      "added_at": "2026-11-22 08:42:05",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/2Y54jttYlCeFVOemy7LyEt"
+      },
+      "artists": [
+        {
+          "name": "XGee",
+          "url": "https://open.spotify.com/artist/3O63QS5bGscvAG6LMpmT7T"
+        }
+      ],
+      "duration_ms": 170341,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/33lJ5jJEq7Uerw0gwnMRZ1"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

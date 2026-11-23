@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Rolitas que te vienen a revolucionar la semana, Paloma Morphy en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259,223 likes - 82 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,259,250 likes - 82 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

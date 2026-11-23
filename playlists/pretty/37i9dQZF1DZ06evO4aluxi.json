@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 19631,
+  "num_followers": 19634,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAwOonAAjbWBg3uLIsO1DAQ",
+  "snapshot_id": "awDfAAAAAAD2V/ElZO2LBST9s7GPs9iG",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 210493,
-      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
-      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
+      "duration_ms": 185946,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 185946,
-      "name": "This Is My Father's World",
-      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
+      "duration_ms": 210493,
+      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 284501,
-      "name": "Beautiful Lone Companion",
-      "url": "https://open.spotify.com/track/6eaJbHByHVmTPkSPljXo85"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 203506,
       "name": "Arms Of Love",
       "url": "https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 284501,
+      "name": "Beautiful Lone Companion",
+      "url": "https://open.spotify.com/track/6eaJbHByHVmTPkSPljXo85"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 225425,
-      "name": "The Me That Remains",
-      "url": "https://open.spotify.com/track/762zDbtUFKydiJ0ZiBejeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Me That Remains (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1I6V6YY6DDzHca6Rt0vM9c"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 277041,
       "name": "Please Don't Make Me Beg (feat. Jon Foreman)",
       "url": "https://open.spotify.com/track/2PI6subrU1myJuMHxsERqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 225425,
+      "name": "The Me That Remains",
+      "url": "https://open.spotify.com/track/762zDbtUFKydiJ0ZiBejeI"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 267026,
+      "name": "Jesus, Take All Of Me (Just As I Am)",
+      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Me That Remains",
         "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 275373,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 267026,
-      "name": "Jesus, Take All Of Me (Just As I Am)",
-      "url": "https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9"
     },
     {
       "added_at": null,

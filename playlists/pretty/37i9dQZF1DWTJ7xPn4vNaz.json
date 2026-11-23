@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Remembering Dolly Parton",
-  "num_followers": 5885753,
+  "num_followers": 5885793,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 155973,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 285133,
       "name": "More Than a Feeling",
       "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 219926,
-      "name": "Rock with You - Single Version",
-      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+      "duration_ms": 219926,
+      "name": "Rock with You - Single Version",
+      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -411,6 +395,22 @@
       "duration_ms": 516893,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Point Of Know Return (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+        "name": "Point Of Know Return (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+      "duration_ms": 206266,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -563,6 +547,22 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
@@ -627,38 +643,6 @@
       "duration_ms": 371413,
       "name": "\"Heroes\" - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308123,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -679,6 +663,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308123,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "Blondes Have More Fun",
         "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "Abba",
         "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 322548,
-      "name": "Bennie And The Jets - Remastered 2014",
-      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Young Hearts Run Free (US Internet Release)",
         "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
       "artists": [
         {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -867,6 +851,22 @@
       "duration_ms": 423840,
       "name": "Layla",
       "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "52nd Street",
         "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 285009,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -1319,38 +1319,6 @@
       "duration_ms": 201373,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1371,18 +1339,34 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
         }
       ],
-      "duration_ms": 203133,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Staying Alive (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 92866,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "The Age Of Plastic",
         "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Staying Alive (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 92866,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1599,18 +1615,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1643,22 +1659,6 @@
       "duration_ms": 350266,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+      "duration_ms": 269932,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1831,18 +1815,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1859,6 +1843,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Talking Book",
         "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 243493,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 216906,
       "name": "Summer Nights - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Third Album",
-        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 247592,
       "name": "Georgy Porgy",
       "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Third Album",
+        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Not Fragile",
         "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 234866,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2299,38 +2299,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "A Song For You",
         "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
       },
@@ -2363,6 +2331,22 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 179491,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
         "name": "Diamond Dogs (2016 Remaster)",
         "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
       },
@@ -2379,18 +2363,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "In Through the out Door (Remaster)",
-        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
         }
       ],
-      "duration_ms": 353720,
-      "name": "All My Love - Remaster",
-      "url": "https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o"
+      "duration_ms": 179760,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2411,18 +2395,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+        "name": "In Through the out Door (Remaster)",
+        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+      "duration_ms": 353720,
+      "name": "All My Love - Remaster",
+      "url": "https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2439,6 +2423,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 495400,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
     }
   ],
   "unique_name": "All Out 70s",

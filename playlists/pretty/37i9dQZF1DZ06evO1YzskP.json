@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 72325,
+  "num_followers": 72338,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAB2eUN5VmfoaGakOqeN2fkp",
+  "snapshot_id": "awDfAAAAAADTnpgWb6MyET1aVHd2P1Mb",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3lo Un D\u00eda",
         "url": "https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 201600,
       "name": "S\u00f3lo Un D\u00eda",
       "url": "https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
-        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 170469,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/3xmGmwtUM3tpsPArcYYAQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 216800,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/7BnMbXmqb42ZvaFCJeQNhE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 170469,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3xmGmwtUM3tpsPArcYYAQ4"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Segunda Vida",
-        "url": "https://open.spotify.com/album/0e08nIbF8iSHQ2O4odiPME"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 159233,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/51W0QvAH2fWdXz0THSGj6G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sombrero De Lado",
         "url": "https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 209706,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/3ItPf9dxL8PGKiwGtTzzSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Segunda Vida",
+        "url": "https://open.spotify.com/album/0e08nIbF8iSHQ2O4odiPME"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 159233,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/51W0QvAH2fWdXz0THSGj6G"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Apenas Es Martes",
-      "url": "https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
       },
@@ -779,22 +763,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 191680,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
+      "duration_ms": 200573,
+      "name": "Apenas Es Martes",
+      "url": "https://open.spotify.com/track/0CRKpS3BPN98A5XKD8Vprf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey De La Manada",
+        "url": "https://open.spotify.com/album/0AdrpFmVtfs9DFi4xMtrT4"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 149906,
+      "name": "La Belikada",
+      "url": "https://open.spotify.com/track/4FGMTDdUl10uA8SvwH6KI0"
     },
     {
       "added_at": null,
@@ -819,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey De La Manada",
-        "url": "https://open.spotify.com/album/0AdrpFmVtfs9DFi4xMtrT4"
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 149906,
-      "name": "La Belikada",
-      "url": "https://open.spotify.com/track/4FGMTDdUl10uA8SvwH6KI0"
+      "duration_ms": 191680,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 124439,
+  "num_followers": 124448,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAO64jeRuvAbzexhB1Ed/wk",
+  "snapshot_id": "awDfAAAAAABw0pOPs3uTyDmXRp0zo2MR",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+        "name": "Party of Special Things to Do",
+        "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 35226,
-      "name": "Passive Manipulation",
-      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
+      "duration_ms": 170133,
+      "name": "Party of Special Things to Do",
+      "url": "https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party of Special Things to Do",
-        "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 170133,
-      "name": "Party of Special Things to Do",
-      "url": "https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO"
+      "duration_ms": 35226,
+      "name": "Passive Manipulation",
+      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-849 songs - 1 day 14 hr 25 min
+850 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Deep Inst](https://open.spotify.com/track/0v9RBiou0hGEg4ZBRnz1Gy) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Mind Over Metaphors, Pt 2 \- Instrumental](https://open.spotify.com/album/4488Qu3weVUyJboVrOjeht) | 3:11 | 2022-03-24 | 2022-08-23 |
 | [DeFacto](https://open.spotify.com/track/7n9znTQsBA7GhwnTDB9sIl) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [DeFacto](https://open.spotify.com/album/1keVcaCTxWsTpoeef9X9gU) | 3:34 | 2021-12-23 | 2022-07-29 |
 | [DESTINATION](https://open.spotify.com/track/2E79IJYi5YJp7xymZ7huyq) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [BOYS FACES](https://open.spotify.com/album/3yvTFmht3SE99eDsOkaiMB) | 3:11 | 2023-06-22 | 2023-07-28 |
+| [Developer](https://open.spotify.com/track/3FbGqa7DSLy2doQNB4JI2q) | [TAKDANK](https://open.spotify.com/artist/1BXVAVtPHnPsAb2tlH53HI) | [ON YOUR MARK](https://open.spotify.com/album/0YFldgN7kOL2JqxbsQ0M2R) | 3:28 | 2026-11-15 |  |
 | [Dew](https://open.spotify.com/track/5aovQGezzESSF5y1xcnHwh) | [Ryu Ito](https://open.spotify.com/artist/1JAq9vhfDbJg4wbdROpIKo) | [Yawn](https://open.spotify.com/album/589RkT00tiOaviCAiu7eKm) | 2:47 | 2021-12-23 | 2022-07-08 |
 | [Diagonal Log](https://open.spotify.com/track/0ZjrcaFUukpnsHLJ8rqnAR) | [KOYANMUSIC](https://open.spotify.com/artist/19rxuAEQkRaSpW53OyHqzu) | [Diagonal Log](https://open.spotify.com/album/5kpr3gLUKxbpXUBiCF9wZW) | 2:58 | 2022-01-06 | 2022-07-01 |
 | [dialogue](https://open.spotify.com/track/0qKlKYrqonxvIFse1gjR0N) | [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v), [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4) | [dialogue](https://open.spotify.com/album/1HAdeAsJDRBJDhmP5OIIgz) | 3:36 | 2021-12-23 | 2022-07-25 |
@@ -209,7 +210,7 @@
 | [Drown](https://open.spotify.com/track/4DodEZ7QhNJugb1xGMHtQG) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [SMOG](https://open.spotify.com/album/1o4QzZefXX7EhHbv3o9VdB) | 2:03 | 2025-12-12 | 2026-01-24 |
 | [DT pt.3](https://open.spotify.com/track/5mdDR3IiaePEjw9NGXNlGf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [DT pt.3](https://open.spotify.com/album/03ho40YIpVOKM83Cxoc3sM) | 2:53 | 2022-03-31 | 2022-04-09 |
 | [Dusk](https://open.spotify.com/track/51silputvlp8O6npsXfy2l) | [Yami/Hikari](https://open.spotify.com/artist/3eogr78QBYi6n4Ak4IvULV) | [Dusk](https://open.spotify.com/album/0dQTHjNUYL2oA4OyU8FwC0) | 1:55 | 2021-12-23 | 2022-07-09 |
-| [Dusk Moon](https://open.spotify.com/track/4upyiEiuvlffFm1NlnzhiP) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [Dusk Moon](https://open.spotify.com/album/4zsH4GvEqvyi9tLHKJW2pR) | 3:51 | 2021-12-23 |  |
+| [Dusk Moon](https://open.spotify.com/track/4upyiEiuvlffFm1NlnzhiP) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [Dusk Moon](https://open.spotify.com/album/4zsH4GvEqvyi9tLHKJW2pR) | 3:51 | 2021-12-23 | 2026-11-23 |
 | [D’s Swing](https://open.spotify.com/track/6t19DdPFNoNbclHt3stXZ8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D’s Swing](https://open.spotify.com/album/7E2Dz8BSnXj0gAq86v43xX) | 3:38 | 2022-02-15 | 2022-07-26 |
 | [E V O L](https://open.spotify.com/track/4kbSFoEckzthWx8rL4xqHM) | [gerardparman](https://open.spotify.com/artist/4B5nMelhpP2gTR4YwY4FSi) | [No Going To EVOL](https://open.spotify.com/album/1jIeRz6wRKlgTiEPFCyNgF) | 3:34 | 2022-01-06 | 2022-01-08 |
 | [earlier tea](https://open.spotify.com/track/3fhMezBACtE94vd1sy0J50) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [earlier tea](https://open.spotify.com/album/7wHvV6zvZQo1TlVcoGbAQx) | 2:52 | 2022-12-22 | 2023-04-21 |

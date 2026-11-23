@@ -1,6 +1,6 @@
 {
   "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: CL)",
-  "num_followers": 925950,
+  "num_followers": 925932,
   "original_name": "Girl Krush",
   "owner": {
     "name": "Spotify",
@@ -235,8 +235,8 @@
     {
       "added_at": "2026-11-20 09:04:09",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
       "added_at": "2026-11-20 09:04:09",
@@ -315,8 +315,8 @@
     {
       "added_at": "2026-11-20 09:04:09",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
       "added_at": "2026-11-20 09:04:09",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-11-20 09:04:09",
       "album": {
-        "name": "BITE NOW",
-        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 195935,
-      "name": "DDI RO RI",
-      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
-    },
-    {
-      "added_at": "2026-11-20 09:04:09",
-      "album": {
         "name": "AMORTAGE",
         "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
+    },
+    {
+      "added_at": "2026-11-20 09:04:09",
+      "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 195935,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
     },
     {
       "added_at": "2026-11-20 09:04:09",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-11-20 09:04:09",
       "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
-      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
-    },
-    {
-      "added_at": "2026-11-20 09:04:09",
-      "album": {
         "name": "BATTER UP",
         "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "added_at": "2026-11-20 09:04:09",
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
       "added_at": "2026-11-20 09:04:09",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-11-20 09:04:09",
       "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
-    },
-    {
-      "added_at": "2026-11-20 09:04:09",
-      "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 169073,
       "name": "CLIK CLAK",
       "url": "https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr"
+    },
+    {
+      "added_at": "2026-11-20 09:04:09",
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
       "added_at": "2026-11-20 09:04:09",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-11-20 09:04:09",
       "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
-    },
-    {
-      "added_at": "2026-11-20 09:04:09",
-      "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "added_at": "2026-11-20 09:04:09",
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
       "added_at": "2026-11-20 09:04:09",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-11-20 09:04:09",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "added_at": "2026-11-20 09:04:09",
+      "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/1PdN2pC5LYxnapVB8h6C6r"
-    },
-    {
-      "added_at": "2026-11-20 09:04:09",
-      "album": {
-        "name": "Who is she",
-        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Who is she",
-      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
     }
   ],
   "unique_name": "Girl Krush",

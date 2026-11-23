@@ -6,32 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACQ75BBINpDsvDUjaUGS9X9",
+  "snapshot_id": "awDfAAAAAAD2ciRgzkuCB34iXfDM7FzI",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "it's Franky baby!",
-        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 156302,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6xl52ErKTebAhTyH01MiE1"
-    },
     {
       "added_at": null,
       "album": {
@@ -63,6 +39,30 @@
       "duration_ms": 382306,
       "name": "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)",
       "url": "https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "it's Franky baby!",
+        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 156302,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6xl52ErKTebAhTyH01MiE1"
     },
     {
       "added_at": null,
@@ -111,30 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "WATERBOYZ (with JID & J. Cole)",
-      "url": "https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -171,6 +147,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "WATERBOYZ (with JID & J. Cole)",
+      "url": "https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -191,30 +191,6 @@
       "duration_ms": 195200,
       "name": "BOBBY BOUCHER (feat. Benji.)",
       "url": "https://open.spotify.com/track/37zzOqUUXvKxKns9Ri0JUh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Does Like Ugly",
-        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 190663,
-      "name": "Sk8 (with Ciara & EARTHGANG)",
-      "url": "https://open.spotify.com/track/0gTzUSGlZvhrSz72OnBijn"
     },
     {
       "added_at": null,
@@ -279,6 +255,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 190663,
+      "name": "Sk8 (with Ciara & EARTHGANG)",
+      "url": "https://open.spotify.com/track/0gTzUSGlZvhrSz72OnBijn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SuperGood",
         "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
@@ -319,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotic Night",
-        "url": "https://open.spotify.com/album/1JNKtfVGZwigUkReb77vym"
-      },
-      "artists": [
-        {
-          "name": "Alissia",
-          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 217105,
-      "name": "Hypnotic Night",
-      "url": "https://open.spotify.com/track/6nHS2tNiKc7xIDkwFg7ldV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 123413,
       "name": "Wells Fargo (with JID & EARTHGANG feat. Buddy & Guapdad 4000) - Interlude",
       "url": "https://open.spotify.com/track/2gtFMLjQpCTGekMi4oXZxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotic Night",
+        "url": "https://open.spotify.com/album/1JNKtfVGZwigUkReb77vym"
+      },
+      "artists": [
+        {
+          "name": "Alissia",
+          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 217105,
+      "name": "Hypnotic Night",
+      "url": "https://open.spotify.com/track/6nHS2tNiKc7xIDkwFg7ldV"
     },
     {
       "added_at": null,
@@ -411,30 +411,6 @@
       "duration_ms": 184866,
       "name": "Swing",
       "url": "https://open.spotify.com/track/5G5hspjbhZC9s6btkm76rN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here For Now",
-        "url": "https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Big Love (with EARTHGANG & MNDR)",
-      "url": "https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP"
     },
     {
       "added_at": null,
@@ -499,6 +475,30 @@
       "duration_ms": 278083,
       "name": "Meditate (feat. J.I.D.)",
       "url": "https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here For Now",
+        "url": "https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Big Love (with EARTHGANG & MNDR)",
+      "url": "https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP"
     },
     {
       "added_at": null,
@@ -803,6 +803,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bears Like This Too Much",
+        "url": "https://open.spotify.com/album/1QYACZF6ijryY2dHq71erf"
+      },
+      "artists": [
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Jordxn Bryant",
+          "url": "https://open.spotify.com/artist/5HDugisegjcujApqOEN3Ki"
+        },
+        {
+          "name": "Hollywood JB",
+          "url": "https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Willow Tree (feat. J.I.D, JordxnBryant, Hollywood JB & EARTHGANG)",
+      "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
       },
@@ -839,38 +871,6 @@
       "duration_ms": 174682,
       "name": "No Fear No More (Remix)",
       "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bears Like This Too Much",
-        "url": "https://open.spotify.com/album/1QYACZF6ijryY2dHq71erf"
-      },
-      "artists": [
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Jordxn Bryant",
-          "url": "https://open.spotify.com/artist/5HDugisegjcujApqOEN3Ki"
-        },
-        {
-          "name": "Hollywood JB",
-          "url": "https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Willow Tree (feat. J.I.D, JordxnBryant, Hollywood JB & EARTHGANG)",
-      "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
     },
     {
       "added_at": null,

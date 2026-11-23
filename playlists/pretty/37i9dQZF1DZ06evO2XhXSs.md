@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XhXSs.md) - [plain]
 
 > This is Hannah Jadagu\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 21 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 475 likes - 21 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XhXSs.md) - [plain]
 | 20 | [Dreaming](https://open.spotify.com/track/6DSAVooUUNbLeiOAtCQyaV) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 2:55 |
 | 21 | [D.I.A.A.](https://open.spotify.com/track/2br6kFxlzynYGelWXkNLt8) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:32 |
 
-Snapshot ID: `av48AAAAAAANDq8eXaP5burcRDUzI5WI`
+Snapshot ID: `awDfAAAAAAAsU6dGZPN49nkPL3xp+5FZ`

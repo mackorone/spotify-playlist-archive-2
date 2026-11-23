@@ -1893,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Todo en su Lugar",
+        "url": "https://open.spotify.com/album/5uuT8gFg6dnyXyxPqbBUAM"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Todo en su Lugar",
+      "url": "https://open.spotify.com/track/0aYmvDevxsjX82mUitCa4F"
+    },
+    {
+      "album": {
         "name": "Aranjuez",
         "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
       },

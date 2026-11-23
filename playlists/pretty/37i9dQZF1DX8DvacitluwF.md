@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Lloyiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,606 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,608 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 41 | [Closure](https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eric Bellinger](https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf) | 3:03 |
 | 42 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 |
 | 43 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
-| 44 | [Eugene](https://open.spotify.com/track/7qmkXF08ElAFoN7Wrn3FW1) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Eugene / Save The World](https://open.spotify.com/album/6Dusr0zMg57KbTwHFapiQj) | 2:45 |
-| 45 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 |
+| 44 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 |
+| 45 | [Eugene](https://open.spotify.com/track/7qmkXF08ElAFoN7Wrn3FW1) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Eugene / Save The World](https://open.spotify.com/album/6Dusr0zMg57KbTwHFapiQj) | 2:45 |
 | 46 | [Give Me A Reason \(with Bryson Tiller\)](https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:48 |
 | 47 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 |
 | 48 | [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 |
-| 49 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
-| 50 | [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 |
+| 49 | [HARD TO FIND](https://open.spotify.com/track/3CYrrn4wUtrPnHj07sJ3Bk) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [HARD TO FIND](https://open.spotify.com/album/2p4vNYIqggq0BAFhQ478Pf) | 3:33 |
+| 50 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 
 Snapshot ID: `AAAAAKMCo8EJKNChMCMFQATHI2AWIN4p`

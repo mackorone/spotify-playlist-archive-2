@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 452785,
+  "num_followers": 452794,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAABhfKnnzEfPZvkprfPbK6D/",
+  "snapshot_id": "awDfAAAAAABnIpMrCy9ajyz4JalNR3+G",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "Girls Want Girls (with Lil Baby)",
-      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN'T RUSH GREATNESS",
         "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 140720,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/70TGNwQDvF5b6GQWlYPr8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 221979,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 144651,
-      "name": "Low Down",
-      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
+      "duration_ms": 203881,
+      "name": "Close Friends (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
       "artists": [
         {
@@ -356,49 +356,9 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 203881,
-      "name": "Close Friends (Lil Baby & Gunna)",
-      "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 236524,
-      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
-      "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "Emotionally Scarred",
-      "url": "https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm"
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
     },
     {
       "added_at": null,
@@ -423,6 +383,46 @@
       "duration_ms": 194732,
       "name": "Never Recover (Lil Baby & Gunna, Drake)",
       "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "Emotionally Scarred",
+      "url": "https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 236524,
+      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+      "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Free Promo",
-      "url": "https://open.spotify.com/track/47OlqHXSnjsURFZGLdvQwI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Free Promo",
+      "url": "https://open.spotify.com/track/47OlqHXSnjsURFZGLdvQwI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FRESH",
         "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
       },
@@ -535,26 +535,6 @@
       "duration_ms": 160102,
       "name": "Ain\u2019t Goin",
       "url": "https://open.spotify.com/track/3pRSJlJultkLi6vxD4VxE7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sold Out Dates (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 166368,
-      "name": "Sold Out Dates (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sold Out Dates (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 166368,
+      "name": "Sold Out Dates (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
     },
     {
       "added_at": null,
@@ -639,30 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 136366,
-      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -695,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 136366,
+      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FRESH",
         "url": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP"
       },
@@ -707,26 +707,6 @@
       "duration_ms": 154838,
       "name": "Burnt Shit",
       "url": "https://open.spotify.com/track/5w35qRwSFysW6yFP0RRypV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218210,
-      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
-      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
     },
     {
       "added_at": null,
@@ -747,6 +727,26 @@
       "duration_ms": 164753,
       "name": "U Played (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 218210,
+      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
+      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
     },
     {
       "added_at": null,
@@ -774,23 +774,11 @@
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
         }
       ],
-      "duration_ms": 189964,
-      "name": "All My Partnas (feat. Future, Young Thug & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/4bZoNVFloslp1MJSugAXdH"
+      "duration_ms": 193548,
+      "name": "Your Fault",
+      "url": "https://open.spotify.com/track/5xjJQcuK7xhY0gz5lmZX7N"
     },
     {
       "added_at": null,

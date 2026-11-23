@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,072 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,103 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 47 | [Intezaar](https://open.spotify.com/track/6p2o4ep90wpkh0qzUmyFuO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Intezaar](https://open.spotify.com/album/71whGqTrr3pCoiAsZx0SAe) | 4:27 |
 | 48 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 49 | [Fursat](https://open.spotify.com/track/5BsCCxp6jEOyWdsI86PbrU) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Fursat](https://open.spotify.com/album/4hOuhOK9HajId8i4mty9x3) | 2:54 |
-| 50 | [Charmer](https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:55 |
+| 50 | [Lahore](https://open.spotify.com/track/5aw6a4ZzgCe92pV6ODc8vC) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Lahore](https://open.spotify.com/album/6jIvjCJshM306VtQvNep4N) | 3:17 |
 
-Snapshot ID: `AAAAADCeGB3DzGzzniIIdqyBWbx20TT2`
+Snapshot ID: `AAAAAPyCMBbEIrpOtNCJwkPKhDEFlUTG`

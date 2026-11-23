@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 108 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
 | 109 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 |
 | 110 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
-| 111 | [Holy Water](https://open.spotify.com/track/4ImvFvvjV1jLSLMJKzTTE9) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 3:01 |
-| 112 | [Forever 23](https://open.spotify.com/track/6IJUjUK08w7wTeKEqzoVAd) | [Jordan O'Keefe](https://open.spotify.com/artist/5fCQtP3FiwsFOv84fnPV8x) | [Forever 23 / Good God](https://open.spotify.com/album/6J6j6NZc7UuphaX5Lvu1eN) | 3:19 |
+| 111 | [Forever 23](https://open.spotify.com/track/6IJUjUK08w7wTeKEqzoVAd) | [Jordan O'Keefe](https://open.spotify.com/artist/5fCQtP3FiwsFOv84fnPV8x) | [Forever 23 / Good God](https://open.spotify.com/album/6J6j6NZc7UuphaX5Lvu1eN) | 3:19 |
+| 112 | [Holy Water](https://open.spotify.com/track/4ImvFvvjV1jLSLMJKzTTE9) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 3:01 |
 | 113 | [Still Breathing](https://open.spotify.com/track/43HBMf0x5PpU9tXHaEpgSt) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/7qg3xsv9pYNtkTb8k5KEE7) | 3:23 |
 | 114 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 115 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AciTAgAAAAC8N8a3eTtK54wuyauSnlJj`
+Snapshot ID: `AciY3gAAAACX28NFBKveSjk3XQ9M8vf3`

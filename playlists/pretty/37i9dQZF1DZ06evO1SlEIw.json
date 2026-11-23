@@ -1,12 +1,12 @@
 {
   "description": "This is Linked Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 8011,
+  "num_followers": 8013,
   "original_name": "This Is Linked Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAxO0NKtLNpj5mPbT4WUrMB",
+  "snapshot_id": "awDfAAAAAABMBLDK/yiVCCPzLdjloyaV",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shingeki no Kiseki",
-        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 305386,
-      "name": "Souyoku no Hikari",
-      "url": "https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6"
+      "duration_ms": 319253,
+      "name": "\u5f7c\u5973\u306f\u51b7\u305f\u3044\u68fa\u306e\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/3mo7ekUP32oYKKfE1pv7DS"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 319253,
-      "name": "\u5f7c\u5973\u306f\u51b7\u305f\u3044\u68fa\u306e\u4e2d\u3067",
-      "url": "https://open.spotify.com/track/3mo7ekUP32oYKKfE1pv7DS"
+      "duration_ms": 305386,
+      "name": "\u53cc\u7ffc\u306e\u30d2\u30ab\u30ea",
+      "url": "https://open.spotify.com/track/5W8DK4ENZyKOQyeTAnO12O"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shingeki no Kiseki",
-        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
       },
       "artists": [
         {
@@ -373,8 +373,8 @@
         }
       ],
       "duration_ms": 328506,
-      "name": "Saigo no Senka",
-      "url": "https://open.spotify.com/track/22JQgQBLIJoz8Be59B6IG1"
+      "name": "\u6700\u671f\u306e\u6226\u679c",
+      "url": "https://open.spotify.com/track/7vhmR9p3ADtlHV4WyR8Ccp"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 372004,
-      "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
-      "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
+      "duration_ms": 488513,
+      "name": "\u5e0c\u671b\u3078\u5411\u3046\u8b5a\u8a69\u66f2 - Long Version",
+      "url": "https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 488513,
-      "name": "\u5e0c\u671b\u3078\u5411\u3046\u8b5a\u8a69\u66f2 - Long Version",
-      "url": "https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg"
+      "duration_ms": 372004,
+      "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
+      "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
     },
     {
       "added_at": null,

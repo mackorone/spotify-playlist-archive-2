@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 205541,
+  "num_followers": 205539,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADsfce7uH81YRlHNrNo80cc",
+  "snapshot_id": "awDfAAAAAAA/EciH572QcMZAsIY/YDfT",
   "tracks": [
     {
       "added_at": null,
@@ -259,94 +259,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Willie Nelson American Outlaw (Live)",
-        "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
       "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         },
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         },
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        },
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        },
-        {
-          "name": "Dave Matthews",
-          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        },
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        },
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        },
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Micah Nelson",
-          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
-        },
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 134266,
-      "name": "Roll Me Up and Smoke Me When I Die - Live",
-      "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
+      "duration_ms": 198133,
+      "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
     },
     {
       "added_at": null,
@@ -383,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friendship",
         "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
       },
@@ -435,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -471,6 +359,26 @@
       "duration_ms": 243436,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
       "added_at": null,
@@ -611,6 +519,98 @@
       "duration_ms": 230033,
       "name": "California Sober (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Willie Nelson American Outlaw (Live)",
+        "url": "https://open.spotify.com/album/0l6RxEFi0Y02Ddwfzf8Bwd"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        },
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Micah Nelson",
+          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The Little Willies",
+          "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
+        },
+        {
+          "name": "Ray Benson",
+          "url": "https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M"
+        },
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 134266,
+      "name": "Roll Me Up and Smoke Me When I Die - Live",
+      "url": "https://open.spotify.com/track/0wJN1HSPUpno8MXkVcIHdh"
     },
     {
       "added_at": null,
@@ -787,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterday's Wine",
-        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
       "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 229773,
-      "name": "Me and Paul",
-      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+      "duration_ms": 183440,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
     },
     {
       "added_at": null,
@@ -819,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "Yesterday's Wine",
+        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
       },
       "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
+      "duration_ms": 229773,
+      "name": "Me and Paul",
+      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
     },
     {
       "added_at": null,
@@ -895,94 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okie From Muskogee (Live)",
-        "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
+        "name": "Phases And Stages",
+        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Buddy Miller",
-          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
-        },
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        },
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        },
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        },
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        },
-        {
-          "name": "Ben Haggard",
-          "url": "https://open.spotify.com/artist/2RtEucMpDtN3H68hDwFdnc"
-        },
-        {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        },
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        },
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        },
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        },
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        },
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 95746,
-      "name": "Okie From Muskogee - Live",
-      "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
+      "duration_ms": 168933,
+      "name": "Bloody Mary Morning",
+      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
     },
     {
       "added_at": null,
@@ -1007,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phases And Stages",
-        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Bloody Mary Morning",
-      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Winning Hand",
         "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
       },
@@ -1043,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Classic",
         "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
       },
@@ -1059,22 +983,6 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": null,
@@ -1143,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Stay All Night (Stay a Little Longer)",
-      "url": "https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
@@ -1171,6 +1063,22 @@
       "duration_ms": 262663,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Stay All Night (Stay a Little Longer)",
+      "url": "https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu"
     },
     {
       "added_at": null,
@@ -1207,6 +1115,22 @@
       "duration_ms": 241538,
       "name": "From Here to the Moon and Back (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Always Will Be",
+        "url": "https://open.spotify.com/album/4Qw9sHdDJ895wC6tiILJ2U"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "It Always Will Be",
+      "url": "https://open.spotify.com/track/1GD9E5AKfQvEvmwePCQLFd"
     }
   ],
   "unique_name": "This Is Willie Nelson",

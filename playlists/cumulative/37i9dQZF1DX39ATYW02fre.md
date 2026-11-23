@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-308 songs - 21 hr 26 min
+309 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [No Pressure](https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [No Pressure](https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi) | 3:15 | 2025-10-03 | 2026-08-21 |
 | [Nobody Else \- Chill Mix](https://open.spotify.com/track/4zF8RwDSq2WM6LFflAZ8v3) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Nobody Else \(Chill Mix\)](https://open.spotify.com/album/63DcVaScRHM6q04G80hH9X) | 3:28 | 2026-08-20 |  |
 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-09-19 |  |
-| [October](https://open.spotify.com/track/6xTWiIVxAcsgWVnceKkcbQ) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [October](https://open.spotify.com/album/1zPNZIH7hW6qtN6NNXoTnr) | 2:27 | 2026-11-13 |  |
+| [October](https://open.spotify.com/track/6xTWiIVxAcsgWVnceKkcbQ) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [October](https://open.spotify.com/album/1zPNZIH7hW6qtN6NNXoTnr) | 2:27 | 2026-11-13 | 2026-11-23 |
 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 | 2021-01-28 |  |
 | [Of Saints](https://open.spotify.com/track/30bawySpvYI8wq4MUxIGYy) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Seguridad](https://open.spotify.com/album/5Jww8BxBhFWAxo49lvAh3Q) | 6:03 | 2020-07-04 | 2021-11-14 |
 | [Oh My](https://open.spotify.com/track/0uqew5SZsE86I2iJxJZ2qN) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Nattica](https://open.spotify.com/artist/4xW2QOiEHzED1DK4YWtzp3) | [Oh My](https://open.spotify.com/album/6jO4RTMmT0xkaH9azhuEAA) | 5:28 | 2026-01-23 | 2026-10-03 |
@@ -278,6 +278,7 @@
 | [The End](https://open.spotify.com/track/4UTwiKGU3TDnoYvNWMzqhl) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/4vjDYT5nXgLn12luv3mGjZ) | 4:35 | 2021-03-18 | 2021-10-16 |
 | [The Shape Of Memory](https://open.spotify.com/track/2ZpFFr4Sgch7Gd1Z8MCtcB) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Feeling Is Structure](https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps) | 4:38 | 2026-05-29 | 2026-07-04 |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-11-01 | 2025-11-28 |
+| [The Sun](https://open.spotify.com/track/5NQMv0smXYCkzRAY1IbzIN) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [The Sun](https://open.spotify.com/album/78XbGK7E58bZuKdG30UlYQ) | 2:27 | 2026-11-13 |  |
 | [thought for food \(Tom VR Remix\)](https://open.spotify.com/track/0lOmL7L92n6HpmtJJJR6Vm) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo), [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [sketches of transition \(Remixes\)](https://open.spotify.com/album/3cjFb8H4iHnCFVBaAVdgwl) | 8:13 | 2020-06-05\* | 2022-07-29 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2021-03-19 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-01-10 | 2026-08-14 |

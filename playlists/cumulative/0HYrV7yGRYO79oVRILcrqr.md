@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-894 songs - 2 day 7 hr 39 min
+899 songs - 2 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Bonnie and Clyde](https://open.spotify.com/track/1uslmInwTqW0FTahkXRmUH) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Bonnie and Clyde](https://open.spotify.com/album/3YmN4v0QKlwRMqjc4veT4H) | 4:13 | 2026-02-22 |  |
 | [Bottle on the table](https://open.spotify.com/track/6gP8B1kKEaeY2OBUfYbfD8) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:52 | 2026-03-23 | 2026-04-21 |
 | [Boxcar Baby](https://open.spotify.com/track/1Ox8zpsrDRNunN5zKRS2Fb) | [Matty Simpson](https://open.spotify.com/artist/4Nz1zj8jj9nWKqXkPMUiB9) | [Boxcar Baby](https://open.spotify.com/album/6ho0bkSgjLLZotxypyyJsG) | 4:49 | 2026-06-09 | 2026-06-25 |
+| [Brave](https://open.spotify.com/track/2V7fV1kDGzboi2y1cRHZww) | [Sam Brace](https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH), [The Merciless Bronze](https://open.spotify.com/artist/3TWXXqRb1D85MC7HZAtvzK) | [Fever & Bones](https://open.spotify.com/album/1tkgilTKgANUhJuhw1SAhJ) | 3:35 | 2026-11-22 |  |
 | [Breaking the Silence](https://open.spotify.com/track/2e3tbGEZwn3lpQfGydppwZ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 3:32 | 2025-12-04 | 2025-12-17 |
 | [Breathe In](https://open.spotify.com/track/5lmqUdPqVs8zrcrRIgAw8d) | [Eight Feet Fine](https://open.spotify.com/artist/6NCVf4mDJv1vB8FbTPMzrV) | [Breathe In](https://open.spotify.com/album/4MOZuggfZkPg5TkQ5WQk81) | 5:06 | 2025-09-24 | 2025-12-17 |
 | [Bring It on Home](https://open.spotify.com/track/6czLExgN3AQj58kQsSSmNs) | [Seßler/Zeeb](https://open.spotify.com/artist/6Nir6BdRvttKmDRWVSatgX) | [Bring It on Home](https://open.spotify.com/album/2jqjkYhrrlHEF3FdfgreIt) | 3:45 | 2026-10-18 |  |
@@ -551,6 +552,7 @@
 | [On The Ropes](https://open.spotify.com/track/1zKzUfRSp7ZbHuYN1c8L72) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [All In](https://open.spotify.com/album/7syTSnaGThSVnMbHzl8SnS) | 2:59 | 2026-09-08 | 2026-09-20 |
 | [On The Run](https://open.spotify.com/track/4cJBm3gR4bWpiZ53MAlujN) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [On The Run](https://open.spotify.com/album/0VpAI7tHFk5mbDcfxHtfaB) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [On The Southern Side Of The Road](https://open.spotify.com/track/20BJZCg4s6SmJs8ThVthqI) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [On The Southern Side Of The Road](https://open.spotify.com/album/3RQ3spw3yLGclZHbzNiA31) | 3:31 | 2025-10-27 | 2025-11-28 |
+| [Once](https://open.spotify.com/track/7yci02fxobtDrqfsklZUFR) | [Resident Hero](https://open.spotify.com/artist/6ov0ZOdwUGfWOPPP1DhfzY) | [Once](https://open.spotify.com/album/35byqJOnxY9oBNdFTrC1NC) | 3:22 | 2026-11-22 |  |
 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-05-06 | 2026-05-26 |
 | [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 | 2026-02-05 | 2026-03-18 |
 | [One Last Song](https://open.spotify.com/track/1DT7XGTsCepsPtNrDhouUL) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 6:01 | 2026-07-07 | 2026-08-01 |
@@ -813,6 +815,7 @@
 | [Turkey Tales](https://open.spotify.com/track/3LJ2eJKHPna1hooFPhcdpD) | [Abigail Rich](https://open.spotify.com/artist/5vDhUjPO4w8nPPUPQIVs0A) | [Turkey Tales](https://open.spotify.com/album/1BB5adKykgkFxALcqKONgP) | 5:48 | 2026-11-20 |  |
 | [Twerkin' With A Twang](https://open.spotify.com/track/7hNtGfB2RKabvFy5d3pQp0) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 2:54 | 2025-12-04 | 2025-12-17 |
 | [Twisted Heart](https://open.spotify.com/track/6tXyqROApirTypxgRWI0OL) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 2:57 | 2026-04-06 | 2026-04-21 |
+| [TWISTED MIND](https://open.spotify.com/track/17JbMPBdEe8sDh4IXlZljL) | [THE ROCKERS HORIZON](https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY) | [TWISTED MIND](https://open.spotify.com/album/5VTwkDtnAX74tJgRtROeq6) | 4:59 | 2026-11-22 |  |
 | [Two of Us](https://open.spotify.com/track/6APATWEI9jdN8OA3N4PRvP) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [12 from 24](https://open.spotify.com/album/5aydgqRqJlLmmSchdQC66g) | 3:06 | 2026-07-01 |  |
 | [Two Weeks Notice](https://open.spotify.com/track/4ec7rEphhHk3V5rjn64A8G) | [Chaz Mason](https://open.spotify.com/artist/6IGb012Y9A2RHpb4m3v0dt) | [Two Weeks Notice](https://open.spotify.com/album/74pUBAVcmfpgTo7qixuq2R) | 4:08 | 2026-10-01 |  |
 | [Tête à l'envers](https://open.spotify.com/track/62E5607aqyEGn5T2tz4Fqr) | [Namaspamus](https://open.spotify.com/artist/1pc5KcGRGuzw16cryiEEbY) | [Tête à l'envers](https://open.spotify.com/album/6ISo571ltmZ2flJiyAYkcn) | 3:14 | 2025-10-27 | 2025-11-28 |
@@ -840,6 +843,7 @@
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2025-11-03 | 2025-12-17 |
 | [Wasting My Time](https://open.spotify.com/track/09b5kXOEsKtC42qD5AJNcA) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Wasting My Time](https://open.spotify.com/album/0V4qWW8XqxvGrEFttE3Bus) | 2:52 | 2025-11-27 |  |
 | [We Always Lie](https://open.spotify.com/track/79fDWHvwxHnX64TWVuWqej) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Everyday Revolt](https://open.spotify.com/album/0rrZYzBjRlMdbTErbrkqdq) | 3:28 | 2025-12-24 | 2026-04-21 |
+| [We Won't Give Up](https://open.spotify.com/track/70vQpsO2KA4kqb0NjH5bTB) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [We Won't Give Up](https://open.spotify.com/album/4bXOvsrSBqb61C2WQuiCFt) | 3:51 | 2026-11-22 |  |
 | [We're OK](https://open.spotify.com/track/6Jhxaci8qh03EBM56A9lr4) | [The Vandal Elite](https://open.spotify.com/artist/4Pe0o6D1qEFWwtTP6vZN4a) | [...and here I slip.](https://open.spotify.com/album/22KyIH6kuAlLPUKfxuyrA0) | 3:42 | 2026-07-02 |  |
 | [Weather Girl](https://open.spotify.com/track/34ZINOLIRBp9QHgaHzkeim) | [Jesse Matthew Long](https://open.spotify.com/artist/38vER1abYC7JkSKCvqsFRW) | [Weather Girl](https://open.spotify.com/album/2yFaAJl3gkiA7hTB6EHDGx) | 3:14 | 2026-05-31 | 2026-06-18 |
 | [Web of Oblivion](https://open.spotify.com/track/2BCS1WfPZda3Y2aFk2LtYx) | [Secretcult](https://open.spotify.com/artist/5MGpbkSOVye0NSTQf6P37f) | [Web of Oblivion](https://open.spotify.com/album/3H40kVo2FuLbPKLPCG6olT) | 2:47 | 2026-09-07 | 2026-09-20 |
@@ -852,6 +856,7 @@
 | [What If I told you ?](https://open.spotify.com/track/5p9tGySB7Rd3fvDLAEHvhE) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [What If I told you ?](https://open.spotify.com/album/1FPaYkXAZG65aGw9G4AOzJ) | 5:41 | 2026-06-16 | 2026-06-25 |
 | [What You Mean To Me](https://open.spotify.com/track/4li8wXH4ddF3r16UsVVK0e) | [CulturalException](https://open.spotify.com/artist/7jX8waGsSoJDrsZyrmKW09), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [What You Mean To Me](https://open.spotify.com/album/5lvrmaQymbPBCK8eqMA5xz) | 4:11 | 2026-05-27 | 2026-06-18 |
 | [What's the Deal](https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [What's the Deal](https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C) | 2:37 | 2026-05-12 | 2026-05-26 |
+| [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2026-11-22 |  |
 | [Whatever You Want Is What It Means](https://open.spotify.com/track/5SEznBfFMlSXb8NRhJtFnP) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [Whatever You Want Is What It Means](https://open.spotify.com/album/0qOB4U2o7Zw3qMnLQ9I2sr) | 2:58 | 2026-09-15 |  |
 | [When I Get Old](https://open.spotify.com/track/6yFzWY5DuTVibHfhUF4H8C) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [When I Get Old](https://open.spotify.com/album/4gLSznIkD0X8ndqSGe5rZn) | 2:27 | 2026-03-28 | 2026-05-26 |
 | [When i see you again](https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce) | [drew mado](https://open.spotify.com/artist/2wSPHPho5VMaJehm6VIywZ) | [Journey without destination](https://open.spotify.com/album/6sTSgNYjdWf7tSe2LMPlrk) | 3:29 | 2026-03-01 | 2026-05-26 |

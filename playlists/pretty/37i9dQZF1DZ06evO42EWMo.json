@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1211186,
+  "num_followers": 1211215,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAByGInhTacDjgeLqf5VufC6",
+  "snapshot_id": "awDfAAAAAAAplcYNnjICL5pubxTKsw8+",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "You're Wondering Now",
-      "url": "https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 301000,
       "name": "Help Yourself",
       "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "You're Wondering Now",
+      "url": "https://open.spotify.com/track/32hc4EBnQCe9KxrlAELQog"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Close To The Front",
-      "url": "https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -478,19 +462,11 @@
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        },
-        {
-          "name": "Zalon Thompson",
-          "url": "https://open.spotify.com/artist/0zekQep7qKANc50WkNbqvP"
-        },
-        {
-          "name": "Ade Omotayo",
-          "url": "https://open.spotify.com/artist/6vBEH6ztLks6Wa9CbTHrgI"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Hey Little Rich Girl",
-      "url": "https://open.spotify.com/track/6huXEunO4jEFn9Q7WLoMZs"
+      "duration_ms": 176320,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
     },
     {
       "added_at": null,
@@ -507,6 +483,22 @@
       "duration_ms": 268306,
       "name": "Someone To Watch Over Me - Demo",
       "url": "https://open.spotify.com/track/1NwqbR2nzLJ17TSoW1iiQW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Close To The Front",
+      "url": "https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP"
     },
     {
       "added_at": null,
@@ -551,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 234106,
       "name": "Intro / Stronger Than Me",
       "url": "https://open.spotify.com/track/2qPwYT63eEx3JNWdVE6bb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        },
+        {
+          "name": "Zalon Thompson",
+          "url": "https://open.spotify.com/artist/0zekQep7qKANc50WkNbqvP"
+        },
+        {
+          "name": "Ade Omotayo",
+          "url": "https://open.spotify.com/artist/6vBEH6ztLks6Wa9CbTHrgI"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Hey Little Rich Girl",
+      "url": "https://open.spotify.com/track/3Qr31s6VvhQCwegs4pR7wL"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "I've Been Drinkin' - Just Friends / Alternative Version",
-      "url": "https://open.spotify.com/track/36Y00tjSwYowJizmnj9q69"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At The BBC",
         "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
@@ -644,9 +628,25 @@
           "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
         }
       ],
-      "duration_ms": 198080,
-      "name": "Teach Me Tonight - Live On Jools Holland Hootenanny / 2004",
-      "url": "https://open.spotify.com/track/1U0cCrP1EhDFlmB6CTRh5O"
+      "duration_ms": 73693,
+      "name": "Tenderly - Live On Later... With Jools Holland / 2006",
+      "url": "https://open.spotify.com/track/2RtYWELB3znKy86yd9VTfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "I've Been Drinkin' - Just Friends / Alternative Version",
+      "url": "https://open.spotify.com/track/36Y00tjSwYowJizmnj9q69"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "He Can Only Hold Her / Doo Wop (That Thing) - Live At Paradiso, Amsterdam / 2007",
-      "url": "https://open.spotify.com/track/20rqL3frTrgfwQuNMA2nVU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At The BBC",
         "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
@@ -712,25 +696,9 @@
           "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
         }
       ],
-      "duration_ms": 73693,
-      "name": "Tenderly - Live On Later... With Jools Holland / 2006",
-      "url": "https://open.spotify.com/track/2RtYWELB3znKy86yd9VTfI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 253059,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9"
+      "duration_ms": 198080,
+      "name": "Teach Me Tonight - Live On Jools Holland Hootenanny / 2004",
+      "url": "https://open.spotify.com/track/1U0cCrP1EhDFlmB6CTRh5O"
     },
     {
       "added_at": null,
@@ -751,6 +719,22 @@
       "duration_ms": 165440,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/5JSJQNIlsfrfuXhjKTAfDa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 253059,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9"
     },
     {
       "added_at": null,
@@ -799,38 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 410760,
-      "name": "You Sent Me Flying / Cherry",
-      "url": "https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Black (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 163746,
-      "name": "Cherry - Live At Paradiso, Amsterdam / 2007",
-      "url": "https://open.spotify.com/track/2kYc6CwmPIj50O8QNmTqcn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stronger Than Me",
         "url": "https://open.spotify.com/album/17M1mlaV8mmeMt6oSHYxC7"
       },
@@ -847,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 130080,
+      "name": "I Heard Love Is Blind",
+      "url": "https://open.spotify.com/track/6hNQwu4W67RNkPOTiQe3iZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At The BBC",
         "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
@@ -859,6 +827,22 @@
       "duration_ms": 154680,
       "name": "Lullaby Of Birdland - Live From The Stables / 2004",
       "url": "https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "He Can Only Hold Her",
+      "url": "https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B"
     }
   ],
   "unique_name": "This Is Amy Winehouse",

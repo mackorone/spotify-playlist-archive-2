@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIXuk68dNdha1>Glass Animals</a>, <a href=spotify:playlist:37i9dQZF1EIXwVPBRIzypW>Jennifer Lopez</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZdFHPjFQhbv>Shakira</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6ouhsRJ7gExB7LCYjITk4Y"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 217308,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z"
@@ -3338,7 +3338,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
@@ -4616,7 +4616,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 485598,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
@@ -5018,7 +5018,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 226986,
       "name": "Never Be the Same",
       "url": "https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ"
@@ -5108,7 +5108,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -6632,7 +6632,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
@@ -7156,7 +7156,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -7444,7 +7444,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
@@ -7574,7 +7574,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
@@ -7882,7 +7882,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 173991,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
@@ -8010,7 +8010,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 205680,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"

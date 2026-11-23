@@ -1,6 +1,6 @@
 {
   "description": "if you wanna party, come over to my house",
-  "num_followers": 3736699,
+  "num_followers": 3736575,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
-    },
-    {
-      "added_at": "2026-11-20 05:01:04",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 187436,
       "name": "Sweet but Psycho",
       "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2026-11-20 05:01:04",
-      "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1091,38 +1091,18 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
-        "name": "brand new chanel$",
-        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
       "artists": [
         {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 238505,
-      "name": "brand new chanel$",
-      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
-    },
-    {
-      "added_at": "2026-11-20 05:01:04",
-      "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 176568,
-      "name": "Ah\u00ed",
-      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1143,6 +1123,26 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 176568,
+      "name": "Ah\u00ed",
+      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1283,42 +1283,6 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
-        "name": "Thank You (Not So Bad)",
-        "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Thank You (Not So Bad)",
-      "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
-    },
-    {
-      "added_at": "2026-11-20 05:01:04",
-      "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
@@ -1355,18 +1319,38 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
         }
       ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+      "duration_ms": 140000,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1395,6 +1379,22 @@
       "duration_ms": 214000,
       "name": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
       "url": "https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
-    },
-    {
-      "added_at": "2026-11-20 05:01:04",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1623,6 +1623,38 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
+        "name": "Sexy Magic (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Etienne de Cr\u00e9cy ",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Sexy Magic (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
         "name": "Say My Name (Remix)",
         "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
       },
@@ -1659,38 +1691,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2026-11-20 05:01:04",
-      "album": {
-        "name": "Sexy Magic (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Etienne de Cr\u00e9cy ",
-          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Sexy Magic (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
         "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 221900,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-    },
-    {
-      "added_at": "2026-11-20 05:01:04",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1827,6 +1827,26 @@
       "duration_ms": 227628,
       "name": "Party",
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
+        "name": "RHYNO (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "RHYNO (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
       "added_at": "2026-11-20 05:01:04",
@@ -1883,38 +1903,26 @@
     {
       "added_at": "2026-11-20 05:01:04",
       "album": {
-        "name": "RHYNO (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "RHYNO (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
-    },
-    {
-      "added_at": "2026-11-20 05:01:04",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 145520,
-      "name": "Girl Like Me",
-      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
+      "duration_ms": 204173,
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi"
     }
   ],
   "unique_name": "Party Hits",

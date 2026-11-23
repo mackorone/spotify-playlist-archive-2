@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,998 likes - 239 songs - 15 hr 2 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 2,002 likes - 244 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,5 +247,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 237 | [Turkey Tales](https://open.spotify.com/track/3LJ2eJKHPna1hooFPhcdpD) | [Abigail Rich](https://open.spotify.com/artist/5vDhUjPO4w8nPPUPQIVs0A) | [Turkey Tales](https://open.spotify.com/album/1BB5adKykgkFxALcqKONgP) | 5:48 |
 | 238 | [Fire & Ice](https://open.spotify.com/track/3qw4dbF1uRMAgbqzGzGpGL) | [Charlie Pineda](https://open.spotify.com/artist/23JZjioAkdchmnfIQfFzS0) | [Fire & Ice](https://open.spotify.com/album/3iBeSLP4QaWBwU3HDgPyTh) | 3:26 |
 | 239 | [Goldieloxxx \- Broadcast Version](https://open.spotify.com/track/4P2ivSWuLgVRz0XgFp82Os) | [Freetoe Feet](https://open.spotify.com/artist/2IzenTwX1yXuovrgqf4r2g), [Blothar](https://open.spotify.com/artist/4MdgGPZo5PqtnC0pSoHiwZ), [Matt Starr](https://open.spotify.com/artist/2sNjM6oAA0Gpggjh5MPIwN), [Slim Jelly](https://open.spotify.com/artist/1wYscFfhoW0ZaXqMjwUUoL), [Desmond Taylor](https://open.spotify.com/artist/6xzP6wd9tKFXQ11PsVMTMt) | [Goldieloxxx \(Broadcast Version\)](https://open.spotify.com/album/1NrulozpZABhbMRZggEBUx) | 3:25 |
+| 240 | [TWISTED MIND](https://open.spotify.com/track/17JbMPBdEe8sDh4IXlZljL) | [THE ROCKERS HORIZON](https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY) | [TWISTED MIND](https://open.spotify.com/album/5VTwkDtnAX74tJgRtROeq6) | 4:59 |
+| 241 | [Brave](https://open.spotify.com/track/2V7fV1kDGzboi2y1cRHZww) | [Sam Brace](https://open.spotify.com/artist/6aGaZJLvzxVCAcKV1nq0oH), [The Merciless Bronze](https://open.spotify.com/artist/3TWXXqRb1D85MC7HZAtvzK) | [Fever & Bones](https://open.spotify.com/album/1tkgilTKgANUhJuhw1SAhJ) | 3:35 |
+| 242 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 |
+| 243 | [Once](https://open.spotify.com/track/7yci02fxobtDrqfsklZUFR) | [Resident Hero](https://open.spotify.com/artist/6ov0ZOdwUGfWOPPP1DhfzY) | [Once](https://open.spotify.com/album/35byqJOnxY9oBNdFTrC1NC) | 3:22 |
+| 244 | [We Won't Give Up](https://open.spotify.com/track/70vQpsO2KA4kqb0NjH5bTB) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [We Won't Give Up](https://open.spotify.com/album/4bXOvsrSBqb61C2WQuiCFt) | 3:51 |
 
-Snapshot ID: `AAANHB3NiXDHYexaBEcRVSIMB8fuMpa9`
+Snapshot ID: `AAANIb9PGLYlVTHlVGLzzucZ0yvhNi4Q`

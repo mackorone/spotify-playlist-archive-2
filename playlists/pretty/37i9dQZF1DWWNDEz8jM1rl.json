@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 164889,
+  "num_followers": 164919,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Celebrar",
+        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 167176,
+      "name": "Celebrar",
+      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/6x4RUz4MAkT8SkQS2z1kfM"
       },
@@ -551,26 +571,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Celebrar",
-        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        }
-      ],
-      "duration_ms": 167176,
-      "name": "Celebrar",
-      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Conectao",
         "url": "https://open.spotify.com/album/1fo3maaIHMFeNjeR1KrtKF"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Corazon Cerrado",
-        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 194380,
-      "name": "Corazon Cerrado",
-      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Lo M\u00edo Es Tuyo",
         "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
+        "name": "Corazon Cerrado",
+        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
       },
       "artists": [
         {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+      "duration_ms": 194380,
+      "name": "Corazon Cerrado",
+      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -763,54 +747,6 @@
       "duration_ms": 231013,
       "name": "Nueva Temporada",
       "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Buenas Vibras",
-        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Barcel\u00f3",
-          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
-        }
-      ],
-      "duration_ms": 188624,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Para Mi Familia",
-        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 235132,
-      "name": "Para Mi Familia",
-      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "NOVUS",
-        "url": "https://open.spotify.com/album/26Dv1GG4Ar8Ag1TvfmpdiY"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 218138,
-      "name": "Novus",
-      "url": "https://open.spotify.com/track/3UrfZcpiYUiuUZxvf2mkKc"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -839,6 +775,70 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Para Mi Familia",
+        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 235132,
+      "name": "Para Mi Familia",
+      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Buenas Vibras",
+        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "NOVUS",
+        "url": "https://open.spotify.com/album/26Dv1GG4Ar8Ag1TvfmpdiY"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 218138,
+      "name": "Novus",
+      "url": "https://open.spotify.com/track/3UrfZcpiYUiuUZxvf2mkKc"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 142306,
       "name": "Gracia Divina",
       "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Por \u00c9l",
+        "url": "https://open.spotify.com/album/3DsRMA1y064FYY6NiiPZx5"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Por \u00c9l",
+      "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -891,22 +907,6 @@
       "duration_ms": 210000,
       "name": "Perfecto Amor",
       "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Por \u00c9l",
-        "url": "https://open.spotify.com/album/3DsRMA1y064FYY6NiiPZx5"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Por \u00c9l",
-      "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Cubana",
         "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Celebra",
         "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
       },
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "La Verdad EP",
-        "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
+        "name": "Viene Alegr\u00eda",
+        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
       },
       "artists": [
         {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
         }
       ],
-      "duration_ms": 182474,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+      "duration_ms": 165611,
+      "name": "Viene Alegr\u00eda",
+      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1091,6 +1087,26 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "La Verdad EP",
+        "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 182474,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 147672,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Viene Alegr\u00eda",
-        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
-      },
-      "artists": [
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 165611,
-      "name": "Viene Alegr\u00eda",
-      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
-      },
-      "artists": [
-        {
-          "name": "Pedro Morales",
-          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "SE\u00d1ALES",
         "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 135737,
       "name": "TE ENCONTRE",
       "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Morales",
+          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        }
-      ],
-      "duration_ms": 238695,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "TUS PASOS",
         "url": "https://open.spotify.com/album/4OFv2OF8dY1e6jDr0Ivh2p"
       },
@@ -1423,22 +1407,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Malvavisco",
-        "url": "https://open.spotify.com/album/4l1bIMtFmIl3yWLlPgNXVR"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
       },
       "artists": [
         {
-          "name": "Tati",
-          "url": "https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v"
-        },
-        {
-          "name": "Frank Miami",
-          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
         }
       ],
-      "duration_ms": 189148,
-      "name": "Malvavisco",
-      "url": "https://open.spotify.com/track/0Q49ICvuifgC078lmxdeih"
+      "duration_ms": 238695,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1495,6 +1475,50 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Malvavisco",
+        "url": "https://open.spotify.com/album/4l1bIMtFmIl3yWLlPgNXVR"
+      },
+      "artists": [
+        {
+          "name": "Tati",
+          "url": "https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v"
+        },
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+        }
+      ],
+      "duration_ms": 189148,
+      "name": "Malvavisco",
+      "url": "https://open.spotify.com/track/0Q49ICvuifgC078lmxdeih"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "MOSAICO",
+        "url": "https://open.spotify.com/album/6yzQXnVwzW94yNLFDw6VKE"
+      },
+      "artists": [
+        {
+          "name": "CSHALOM",
+          "url": "https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL"
+        },
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        },
+        {
+          "name": "Zoprano",
+          "url": "https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2RA4kDAh8pfMJ46xOYFrmA"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Segunda Vida",
         "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
       },
@@ -1543,30 +1567,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "MOSAICO",
-        "url": "https://open.spotify.com/album/6yzQXnVwzW94yNLFDw6VKE"
-      },
-      "artists": [
-        {
-          "name": "CSHALOM",
-          "url": "https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL"
-        },
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        },
-        {
-          "name": "Zoprano",
-          "url": "https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "QUEMA",
-      "url": "https://open.spotify.com/track/2RA4kDAh8pfMJ46xOYFrmA"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Al Que Tenga O\u00eddos",
         "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 283425,
       "name": "Al Que Tenga O\u00eddos",
       "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "closefriend",
-        "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
-      },
-      "artists": [
-        {
-          "name": "Calejandro",
-          "url": "https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "closefriend",
-      "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1615,6 +1599,22 @@
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "closefriend",
+        "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
+      },
+      "artists": [
+        {
+          "name": "Calejandro",
+          "url": "https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "closefriend",
+      "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Sin Ti No Me Imagino",
-        "url": "https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN"
-      },
-      "artists": [
-        {
-          "name": "Propiedad De Dios",
-          "url": "https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4"
-        }
-      ],
-      "duration_ms": 137547,
-      "name": "Sin Ti No Me Imagino",
-      "url": "https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Bueno & Fiel",
         "url": "https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 303773,
       "name": "Bueno es Dios - Live",
       "url": "https://open.spotify.com/track/3Gce2rJuaDZ70bGWPmiJp2"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Sin Ti No Me Imagino",
+        "url": "https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN"
+      },
+      "artists": [
+        {
+          "name": "Propiedad De Dios",
+          "url": "https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4"
+        }
+      ],
+      "duration_ms": 137547,
+      "name": "Sin Ti No Me Imagino",
+      "url": "https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0"
     },
     {
       "added_at": "2026-08-01 02:46:09",

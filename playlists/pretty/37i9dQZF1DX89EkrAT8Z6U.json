@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1341320,
+  "num_followers": 1341366,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
     },
     {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "sunset dreams",
-        "url": "https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh"
-      },
-      "artists": [
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "sunset dreams",
-      "url": "https://open.spotify.com/track/6zg431pIV64icWpxl46rzk"
-    },
-    {
       "added_at": "2025-02-21 22:48:04",
       "album": {
         "name": "GHOSTKILLA",
@@ -483,6 +467,22 @@
       "duration_ms": 139469,
       "name": "GHOSTKILLA",
       "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "sunset dreams",
+        "url": "https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "duration_ms": 110773,
+      "name": "sunset dreams",
+      "url": "https://open.spotify.com/track/6zg431pIV64icWpxl46rzk"
     },
     {
       "added_at": "2025-02-21 22:48:04",
@@ -803,8 +803,8 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "from up on silent hill",
-        "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
+        "name": "in my restless dreams, i see you",
+        "url": "https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao"
       },
       "artists": [
         {
@@ -812,29 +812,17 @@
           "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
         },
         {
-          "name": "Witchouse 40k",
-          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "from up on silent hill",
-      "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Cyberfreak",
-        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
-      },
-      "artists": [
+          "name": "KAMAARA",
+          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
+        },
         {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
         }
       ],
-      "duration_ms": 118093,
-      "name": "Cyberfreak",
-      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+      "duration_ms": 157407,
+      "name": "ghost in the shell (feat. SXMPRA)",
+      "url": "https://open.spotify.com/track/4g6MtQnxi6GjuZicJerym7"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -851,6 +839,22 @@
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Cyberfreak",
+        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 118093,
+      "name": "Cyberfreak",
+      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2025-02-21 22:48:04",
@@ -887,8 +891,8 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "in my restless dreams, i see you",
-        "url": "https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao"
+        "name": "from up on silent hill",
+        "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
       },
       "artists": [
         {
@@ -896,17 +900,13 @@
           "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
         },
         {
-          "name": "KAMAARA",
-          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+          "name": "Witchouse 40k",
+          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
         }
       ],
-      "duration_ms": 157407,
-      "name": "ghost in the shell (feat. SXMPRA)",
-      "url": "https://open.spotify.com/track/4g6MtQnxi6GjuZicJerym7"
+      "duration_ms": 150193,
+      "name": "from up on silent hill",
+      "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx"
+      },
+      "artists": [
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        },
+        {
+          "name": "January RT",
+          "url": "https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu"
+        }
+      ],
+      "duration_ms": 182176,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "Dalai Lama",
         "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 145172,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/3ZVKdwchXde5oVaXANYjso"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx"
-      },
-      "artists": [
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        },
-        {
-          "name": "January RT",
-          "url": "https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu"
-        }
-      ],
-      "duration_ms": 182176,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "Sukuna Freestyle",
         "url": "https://open.spotify.com/album/2XarFqquxUGflYNEW8DkmQ"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 185823,
       "name": "Sukuna Freestyle",
       "url": "https://open.spotify.com/track/46yDbFxszXw8BIEFWqeHxw"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "S1KE",
-        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "S1KE",
-      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "Devil Lady",
+        "url": "https://open.spotify.com/album/6k28uRJsyPnys2bG1Q704Q"
+      },
+      "artists": [
+        {
+          "name": "REV",
+          "url": "https://open.spotify.com/artist/6LPhim0qQ8EHh55uw06umD"
+        },
+        {
+          "name": "LOAT!",
+          "url": "https://open.spotify.com/artist/6o1ntTG3W1wFDYhqWnNAlx"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Devil Lady",
+      "url": "https://open.spotify.com/track/0jIkTAUqrloJ2ycKU0hBcL"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "Break My Heart Again",
         "url": "https://open.spotify.com/album/4bENQxh42sLJXZVFmtcbTD"
       },
@@ -1315,22 +1335,6 @@
       "duration_ms": 98344,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/3nSEvbi2v1z1QATbznIvTT"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "mr. sunshine",
-        "url": "https://open.spotify.com/album/7rvW3uGdmXRYY14oldA2J9"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "mr. sunshine",
-      "url": "https://open.spotify.com/track/5vGUjhykZds2aqWFvfgnCh"
     },
     {
       "added_at": "2024-09-18 21:12:46",

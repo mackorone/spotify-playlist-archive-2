@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-167 songs - 9 hr 27 min
+168 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Arráncame La Vida](https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Vuelve Por Favor](https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC) | 2:37 | 2024-10-14 |  |
 | [Borracho De Besos](https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [35 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z) | 3:41 | 2026-06-11 | 2026-08-16 |
 | [Cien Por Ciento Sincero](https://open.spotify.com/track/0Vp2IK6mnqGiJGmH2SKIH7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cien Por Ciento Sincero](https://open.spotify.com/album/6HOlmYD1XgnsPTvPUqUYbq) | 3:07 | 2024-07-18 | 2025-09-17 |
-| [Cien Por Ciento Sincero](https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:07 | 2025-11-26 |  |
+| [Cien Por Ciento Sincero](https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:07 | 2025-11-26 | 2026-11-23 |
 | [Compañera Mía](https://open.spotify.com/track/5MY7W7y0XXZEV5DMRDXrPo) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya Se Fue](https://open.spotify.com/album/61O9K0fxUAMCqIziOECeYp) | 3:26 | 2022-08-22 | 2024-07-05 |
 | [Compañera Mía](https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ya Se Fue](https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH) | 3:26 | 2024-11-16 | 2025-11-15 |
 | [Con El Alma En La Mano](https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:40 | 2024-09-15 |  |
@@ -88,6 +88,7 @@
 | [Mi Enemigo El Amor](https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:54 | 2022-06-01 | 2024-09-11 |
 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 | 2022-06-01 |  |
 | [Mi Enemigo el Amor \- En Vivo](https://open.spotify.com/track/2SssFfEcX8XyYjJmMdQXzT) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC) | 6:32 | 2022-06-01 | 2023-01-10 |
+| [Mi Esposa Consentida](https://open.spotify.com/track/7C27k5lANwonEIe2cKN48D) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Esposa Consentida](https://open.spotify.com/album/7tkgA8z4fg8ewU72q6njVM) | 3:21 | 2026-11-23 |  |
 | [Mi Gran Problema](https://open.spotify.com/track/41biWbuI9FIa4Kk3d53q1Z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 3:35 | 2022-11-10 | 2024-09-16 |
 | [Mi Gran Problema](https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:35 | 2024-09-16 |  |
 | [Mi Otro Yo](https://open.spotify.com/track/4gFYzRYDKCxOsaPOcvCnZG) | [Charlie Zaa](https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Otro Yo](https://open.spotify.com/album/4f8sDGxic3BjR3fpgOmWnI) | 3:55 | 2024-09-14 | 2024-10-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring YFN Lucci, Playboi Carti, Gunna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,431 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,474 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

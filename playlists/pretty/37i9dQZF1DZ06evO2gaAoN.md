@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,485 likes - 42 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,497 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 41 | [Thata Ahh \(feat\. Young Stunna, Madumane & Tyla\)](https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [THATA USHAKA](https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL) | 6:13 |
 | 42 | [Ke Shy](https://open.spotify.com/track/46JbnUilMIKcoeXYpZyB53) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Piano Republik](https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO) | 3:19 |
 
-Snapshot ID: `av+NgAAAAAAnsoApjG3KB6r1gU5KYNlt`
+Snapshot ID: `awDfAAAAAAAUfqPYcO2T8KpLqabrlm4K`

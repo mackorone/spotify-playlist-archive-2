@@ -1,6 +1,6 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 448692,
+  "num_followers": 448703,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 184748,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 184748,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
         "name": "Bubalu",
         "url": "https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q"
       },
@@ -743,46 +743,6 @@
       "duration_ms": 228493,
       "name": "Bubalu",
       "url": "https://open.spotify.com/track/7dNwJbsT0sg1le5kVugGJb"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 204488,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
     },
     {
       "added_at": "2026-10-13 20:28:24",
@@ -823,6 +783,46 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
+        "name": "23 Preguntas",
+        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 251221,
+      "name": "23 Preguntas",
+      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 204488,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
       "added_at": "2026-10-13 20:28:24",
@@ -891,22 +907,6 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
       "added_at": "2026-10-13 20:28:24",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2026-10-13 20:28:24",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "DAME",
-      "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -1223,22 +1203,38 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
-        "name": "BB ;(",
-        "url": "https://open.spotify.com/album/2BKV4RKtmzWwWW8BSffI8U"
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
       "artists": [
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         },
         {
-          "name": "Came Beats",
-          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 180363,
-      "name": "BB ;(",
-      "url": "https://open.spotify.com/track/5KZ4EBaAXUEp6dyE6l00Ok"
+      "duration_ms": 231428,
+      "name": "DAME",
+      "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
+        "name": "Dime t\u00fa",
+        "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 210302,
+      "name": "Dime t\u00fa",
+      "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
     },
     {
       "added_at": "2026-10-13 20:28:24",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
-        "name": "Dime t\u00fa",
-        "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
+        "name": "BB ;(",
+        "url": "https://open.spotify.com/album/2BKV4RKtmzWwWW8BSffI8U"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
         }
       ],
-      "duration_ms": 210302,
-      "name": "Dime t\u00fa",
-      "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
+      "duration_ms": 180363,
+      "name": "BB ;(",
+      "url": "https://open.spotify.com/track/5KZ4EBaAXUEp6dyE6l00Ok"
     },
     {
       "added_at": "2026-10-13 20:28:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 206606,
-      "name": "Falsas Promesas",
-      "url": "https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
         "name": "Whiskey y Coco",
         "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 206606,
+      "name": "Falsas Promesas",
+      "url": "https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN"
     },
     {
       "added_at": "2026-10-13 20:28:24",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
+        "name": "Si Te La Encuentras Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 209268,
       "name": "Felices Perdidos",
       "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
-        "name": "Si Te La Encuentras Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
       "added_at": "2026-10-13 20:28:24",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-10-13 20:28:24",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "YIN YAN",
-      "url": "https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs"
-    },
-    {
-      "added_at": "2026-10-13 20:28:24",
-      "album": {
         "name": "Victoria",
         "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 223488,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
+    },
+    {
+      "added_at": "2026-10-13 20:28:24",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "YIN YAN",
+      "url": "https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs"
     },
     {
       "added_at": "2026-10-13 20:28:24",

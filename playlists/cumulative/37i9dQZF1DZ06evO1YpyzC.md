@@ -4,7 +4,7 @@
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-112 songs - 6 hr 2 min
+113 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Like I Love Country Music](https://open.spotify.com/track/5C9jQ8ikTOieveuORd8wlf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:54 | 2023-12-15 |  |
 | [Live Forever](https://open.spotify.com/track/0y2Zvt89QMAZ9gEYvB5hpO) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:06 | 2023-05-04 | 2024-07-24 |
 | [Lose It](https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:00 | 2022-09-08 |  |
+| [Losing Hand](https://open.spotify.com/track/7gH4uknNSbUMg3gQmAs6W9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Losing Hand](https://open.spotify.com/album/1L8sIfJdlmYxWIjs2GjJIv) | 3:37 | 2026-11-23 |  |
 | [Losing You](https://open.spotify.com/track/40HQjXwTG4czvPGTtF3uzt) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:32 | 2022-10-12 | 2024-05-21 |
 | [Lost in the Middle of Nowhere \(feat\. Becky G\)](https://open.spotify.com/track/5KfKPfX5cZvOuHoy9io65A) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:08 | 2023-05-04 | 2024-07-24 |
 | [Lost More Than I Found \(feat\. Lainey Edwards\)](https://open.spotify.com/track/7xo8X5Kx5ufunrsU5X2IYc) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lainey Edwards](https://open.spotify.com/artist/1bwdF1QUOoo6UJmPV3IXxe) | [Closer](https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv) | 3:31 | 2022-09-08 | 2022-09-11 |
@@ -84,7 +85,7 @@
 | [Never Been In Love \(feat\. Kane Brown\)](https://open.spotify.com/track/6z7rUFycJ1zwnaJ5h1idmV) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Been In Love](https://open.spotify.com/album/2InZ67EN10T7DEZIIkiV3I) | 2:51 | 2026-07-19 |  |
 | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe) | 2:41 | 2023-02-25 |  |
 | [Nothin' I'd Change](https://open.spotify.com/track/7mCD59dbej3TRd0I81RNwM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:33 | 2022-09-10 | 2022-10-13 |
-| [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 | 2023-07-15 |  |
+| [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 | 2023-07-15 | 2026-11-23 |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2022-09-08 |  |
 | [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2022-09-08 |  |
 | [One Thing Right](https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J) | 3:01 | 2022-09-08 | 2024-08-09 |

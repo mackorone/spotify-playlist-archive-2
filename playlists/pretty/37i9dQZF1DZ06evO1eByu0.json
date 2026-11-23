@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162032,
+  "num_followers": 162030,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAB0qabmDaesVq1YvAHJWtcn",
+  "snapshot_id": "awDfAAAAAABVNm/btxtbHHYrvV2cW4EL",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250662,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tem Que Haver Mais",
         "url": "https://open.spotify.com/album/6vnoBJ5LAM8CQMNKrqPC96"
       },
@@ -519,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
+        "name": "Acenda a Sua Luz",
+        "url": "https://open.spotify.com/album/4KNkeq0ZhLKLIiCKWrL66f"
       },
       "artists": [
         {
@@ -528,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 250662,
-      "name": "Lugar Seguro",
-      "url": "https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz"
+      "duration_ms": 292432,
+      "name": "Depois da Cruz",
+      "url": "https://open.spotify.com/track/2JNPUQuPvwlur4xz2giXVs"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som de Adoradores",
-        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 308268,
-      "name": "Vento do Esp\u00edrito",
-      "url": "https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros 20 Anos Ao Vivo",
         "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 372720,
       "name": "O Poder do Teu Amor (The Power Of Your Love) - Ao Vivo",
       "url": "https://open.spotify.com/track/63qYnhfLWKoEEBY6pLHkWf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 308268,
+      "name": "Vento do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z"
     },
     {
       "added_at": null,
@@ -607,46 +623,6 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mira Lo Que Ha Hecho Dios",
-        "url": "https://open.spotify.com/album/3qLl1pAfqfJPfcOq3tC9vn"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
-        },
-        {
-          "name": "Emely Williams",
-          "url": "https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H"
-        }
-      ],
-      "duration_ms": 312930,
-      "name": "Mira Lo Que Ha Hecho Dios",
-      "url": "https://open.spotify.com/track/4rYBj8PbdNVRZ9BxvC9YVo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acenda a Sua Luz",
-        "url": "https://open.spotify.com/album/4KNkeq0ZhLKLIiCKWrL66f"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 292432,
-      "name": "Depois da Cruz",
-      "url": "https://open.spotify.com/track/2JNPUQuPvwlur4xz2giXVs"
     },
     {
       "added_at": null,
@@ -687,6 +663,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mira Lo Que Ha Hecho Dios",
+        "url": "https://open.spotify.com/album/3qLl1pAfqfJPfcOq3tC9vn"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Emely Williams",
+          "url": "https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H"
+        }
+      ],
+      "duration_ms": 312930,
+      "name": "Mira Lo Que Ha Hecho Dios",
+      "url": "https://open.spotify.com/track/4rYBj8PbdNVRZ9BxvC9YVo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 341717,
       "name": "Ele Se Move",
       "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250543,
+      "name": "Eu Li na B\u00edblia",
+      "url": "https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo S\u00e9 Quien Soy",
         "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 239294,
       "name": "Yo S\u00e9 Quien Soy",
       "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250543,
-      "name": "Eu Li na B\u00edblia",
-      "url": "https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 160914,
-      "name": "Samuel",
-      "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros e Cia 3",
         "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
       },
@@ -899,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
       "artists": [
         {
@@ -908,9 +892,33 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 153205,
-      "name": "Crian\u00e7a de Jesus",
-      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
+      "duration_ms": 160914,
+      "name": "Samuel",
+      "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia Tim- Tim por Tim- Tim",
+        "url": "https://open.spotify.com/album/7gLii9nd4WFKyj5MIarXka"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "ImaginAline",
+          "url": "https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN"
+        },
+        {
+          "name": "Maria Catherine",
+          "url": "https://open.spotify.com/artist/5oo41WSAfHfZ3nxers5DzL"
+        }
+      ],
+      "duration_ms": 216608,
+      "name": "Casinha de Jesus (feat. Maria Catherine)",
+      "url": "https://open.spotify.com/track/1125p0Bk6yVijF1eV4Q8wo"
     }
   ],
   "unique_name": "This Is Aline Barros",

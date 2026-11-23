@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sienna Spiro",
-  "num_followers": 250279,
+  "num_followers": 250327,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPDTlYo/sjq5Zkf2n6WrMwTjR3+g",
+  "snapshot_id": "AAAAAP5shk3ly9h5W1F8bArkbSqSxQJF",
   "tracks": [
     {
       "added_at": "2026-07-22 20:15:47",
@@ -57,20 +57,36 @@
       "url": "https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1"
     },
     {
-      "added_at": "2026-10-23 04:01:37",
+      "added_at": "2026-11-23 00:03:02",
       "album": {
-        "name": "Waiting for love",
-        "url": "https://open.spotify.com/album/5uXan79uluUOJ3PmTfnuqr"
+        "name": "My Moon My Man",
+        "url": "https://open.spotify.com/album/0ad1DSuEgQce3MSSI5CU9k"
       },
       "artists": [
         {
-          "name": "My Marianne",
-          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Waiting for love",
-      "url": "https://open.spotify.com/track/7Bd9L0NkPH6nJwhnNvq07X"
+      "duration_ms": 202217,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/3VYSKGBdjbGC4owpHULCPe"
+    },
+    {
+      "added_at": "2026-05-23 16:58:14",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
     },
     {
       "added_at": "2026-05-23 16:58:14",
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
     },
     {
-      "added_at": "2026-05-23 16:58:14",
+      "added_at": "2026-10-23 04:01:37",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+        "name": "Waiting for love",
+        "url": "https://open.spotify.com/album/5uXan79uluUOJ3PmTfnuqr"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
         }
       ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
+      "duration_ms": 138000,
+      "name": "Waiting for love",
+      "url": "https://open.spotify.com/track/7Bd9L0NkPH6nJwhnNvq07X"
     },
     {
       "added_at": "2026-09-25 04:00:28",
@@ -671,22 +687,6 @@
       "duration_ms": 188571,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3ToaIx8bwg0qp6VOVaA4PA"
-    },
-    {
-      "added_at": "2026-05-23 16:58:14",
-      "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/78bEsLWRUvjE6rh24Y0hpV"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 201462,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/5t9ZL1dY817WwVDezOSNzl"
     },
     {
       "added_at": "2026-05-23 16:58:14",

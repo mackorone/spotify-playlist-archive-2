@@ -1,6 +1,6 @@
 {
   "description": "Las superestrellas del agua y el jab\u00f3n.",
-  "num_followers": 208993,
+  "num_followers": 209043,
   "original_name": "Cantando en el Ba\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 221226,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "Delirium (Deluxe)",
-        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 252534,
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
         "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
         "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 232533,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
         "name": "H\u00e1blate de M\u00ed",
         "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -731,6 +715,22 @@
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
     },
     {
       "added_at": "2024-06-12 20:45:41",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 247693,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     }
   ],
   "unique_name": "Cantando en el Ba\u00f1o",

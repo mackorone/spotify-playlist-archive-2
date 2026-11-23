@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/0B02vc8VlQijHxnVmNfRyG"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4gumDD9L3ilUlJXDowObj8"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 528 songs - 1 day 6 hr 24 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 529 songs - 1 day 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 12 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 |
 | 13 | [世界を壊している](https://open.spotify.com/track/0k6S71Qc4oKox0YVF2AWXh) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:29 |
 | 14 | [アデュー、サロー](https://open.spotify.com/track/0KeLopzJIbotv8hQ8fdBX3) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [アデュー、サロー](https://open.spotify.com/album/2rf16QleG0chhlywJ9UPsi) | 2:35 |
-| 15 | [ゴチャゴチャうるせー！](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 |
+| 15 | [ゴチャゴチャうるせー！ \(feat\. 亞北ネル\)](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 |
 | 16 | [ロストワンの号哭](https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:34 |
 | 17 | [脱獄](https://open.spotify.com/track/4xABbRQwAr4nFxdRYA6kbE) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:47 |
 | 18 | [好きって言って](https://open.spotify.com/track/3vCLTwRBF4kSgmO6T6OS2I) | [ちいたな](https://open.spotify.com/artist/2Ge3g79AyrNekwSaHTu2GF) | [アリアノート](https://open.spotify.com/album/3cRxEHd2WLiBOQqpAR0jlH) | 3:12 |
@@ -372,7 +372,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 362 | [요단강](https://open.spotify.com/track/5iHc6qrkJAm8LNoQuuSAlL) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [아홉가지기분](https://open.spotify.com/album/5ooEdlSXdzcTXLTHMg6QMO) | 4:47 |
 | 363 | [Nightmare Restaurant](https://open.spotify.com/track/2QjWqcAy7BaBsYBYs9ozZG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Nightmare Restaurant](https://open.spotify.com/album/4Nwqel1zFJwAFRHXVd1nZK) | 3:00 |
 | 364 | [迷彩](https://open.spotify.com/track/4997ipQH5dYt24YqSp4Cb6) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 3:57 |
-| 365 | [ジターバグ](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 |
+| 365 | [ジターバグ \(feat\. MEIKO&初音ミク\)](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [MEIKO](https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 |
 | 366 | [Cantarella](https://open.spotify.com/track/2VD4DrLIkfItv7grWXCXpW) | [KurousaP](https://open.spotify.com/artist/5MXgcxigANkVcaDC670CU1), [Michaon](https://open.spotify.com/artist/2oC9pyZuesjV6X3NFksKgh) | [Meet Your Only World](https://open.spotify.com/album/3zepiSGgf7ErRVhlGqlSi4) | 3:02 |
 | 367 | [Necro no Hanayome](https://open.spotify.com/track/228q0rCvDuHo7Mdb1i5z1O) | [KANON69](https://open.spotify.com/artist/5aKVkaAP4dYG7zQeM4z25h) | [RUNWAY](https://open.spotify.com/album/4fYSc5hRJ9VuCASYHPvmns) | 4:05 |
 | 368 | [Still, Still, Still\. \- IVUDOT version](https://open.spotify.com/track/2AsMepFqeVigg7Fbp6clXx) | [BOKUTACHI WA YONAYONA](https://open.spotify.com/artist/3k53XmqUT3nfyRSNjM6dtL) | [Still, Still, Still\. \(IVUDOT version\)](https://open.spotify.com/album/1B6SNGzBOdQuNBw8AmTZKV) | 2:18 |
@@ -536,5 +536,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 526 | [エル・タンゴ・エゴイスタ \(feat\. 巡音ルカ&KAITO\)](https://open.spotify.com/track/1iuuQSwjFKveKI8mFGIRkA) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [カドワナルカ＝ドロップゾンデ](https://open.spotify.com/album/4oBaHiA1TJxv9fmZ1kjZyI) | 3:15 |
 | 527 | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/track/1kkdsilbjUuuHZMHqUvn5o) | [GGPRM](https://open.spotify.com/artist/6veKk0BLOtQRlTArMf247p), [Yi Xi](https://open.spotify.com/artist/0wMM1e0cn0HAMWeVxkQc9T) | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/album/5hu3eJlZVZL7zhN4YEqgDh) | 1:32 |
 | 528 | [Splitter Girl](https://open.spotify.com/track/0kAQ0bGcee2YyzM4C3a3FV) | [weevildoing](https://open.spotify.com/artist/5zwqiROc7gBVY5Xx2sf2Tn), [SeeU](https://open.spotify.com/artist/1mao2cTeJSvu5ufNV2CtdR) | [Splitter Girl](https://open.spotify.com/album/2uocSKWR7VZhwbZx9BknfH) | 3:10 |
+| 529 | [Schadenfreude](https://open.spotify.com/track/2OregsirjLYVdL7DfT3n5W) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [Mugenhouyou](https://open.spotify.com/album/3Jcm3UheVWkyhnUwnqHW4D) | 2:53 |
 
-Snapshot ID: `AAAKketL2KNcbgVHnty8RgHxFaR/IRYx`
+Snapshot ID: `AAAKlP6IZSmWqzDTCQdQUTlc5w1AqVUL`

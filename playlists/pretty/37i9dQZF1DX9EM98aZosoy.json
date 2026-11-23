@@ -1,6 +1,6 @@
 {
   "description": "All killers, no fillers",
-  "num_followers": 1957028,
+  "num_followers": 1956929,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 269658,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188987,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "The Time Of Our Lives (International Version)",
         "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188987,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -911,22 +931,18 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -955,18 +971,26 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
       "artists": [
         {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -991,30 +1015,6 @@
       "duration_ms": 234026,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "Cold Heart (PNAU Remix)",
-        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Sam Harper",
-          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
-        },
-        {
-          "name": "Bobby Harvey",
-          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
-        }
-      ],
-      "duration_ms": 120578,
-      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 310333,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+        "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Bobby Harvey",
+          "url": "https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc"
+        }
+      ],
+      "duration_ms": 120578,
+      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -1251,22 +1231,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
         },
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
         }
       ],
-      "duration_ms": 187086,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1283,6 +1263,26 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "Discolized",
         "url": "https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 177386,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "Move (feat. Camila Cabello & Malachiii)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
       },
@@ -1667,18 +1647,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
       "artists": [
         {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1703,6 +1687,22 @@
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1827,26 +1827,18 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+        "name": "Sex & Violins",
+        "url": "https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj"
       },
       "artists": [
         {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Rednex",
+          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
         }
       ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+      "duration_ms": 194000,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1875,18 +1867,26 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Sex & Violins",
-        "url": "https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj"
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
       "artists": [
         {
-          "name": "Rednex",
-          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1943,26 +1943,18 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
+        "name": "Tomahawk Technique",
+        "url": "https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 156923,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
+      "duration_ms": 227786,
+      "name": "She Doesn't Mind",
+      "url": "https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8"
     }
   ],
   "unique_name": "Party Hits (2)",

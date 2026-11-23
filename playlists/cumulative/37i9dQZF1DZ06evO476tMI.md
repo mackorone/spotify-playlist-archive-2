@@ -4,7 +4,7 @@
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-91 songs - 6 hr 47 min
+92 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Didn't We Almost Have It All \- 7" Mix](https://open.spotify.com/track/4oFccPSaaOjZ6AYJrUofVE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [WH1TNEY \(Expanded Edition\)](https://open.spotify.com/album/5oZSy2zZib2jGqJ8mQuzrv) | 4:38 | 2026-08-26 | 2026-08-27 |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 3:32 | 2025-03-31 | 2025-04-03 |
 | [Don't Cry For Me](https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Don't Cry For Me](https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb) | 3:19 | 2023-07-28 | 2023-11-11 |
-| [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 3:24 | 2023-07-28 |  |
+| [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/0SCdFGYzEtx1bAoZIdeGQG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [WH1TNEY \(Expanded Edition\)](https://open.spotify.com/album/5oZSy2zZib2jGqJ8mQuzrv) | 3:23 | 2026-11-23 |  |
+| [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 3:24 | 2023-07-28 | 2026-11-23 |
 | [For the Love of You](https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:33 | 2023-07-28 |  |
 | [Greatest Love of All](https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:57 | 2023-07-28 |  |
 | [Heartbreak Hotel \(feat\. Faith Evans & Kelly Price\)](https://open.spotify.com/track/4J9u7UsXH7F6sFI32KnYuP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:41 | 2023-07-28 |  |

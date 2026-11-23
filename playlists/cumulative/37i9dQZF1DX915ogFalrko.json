@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0wh6MXvWPhQhgJ2GHWV6So"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226164,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1L1dde2EbkC2utawLfg9ys"
+    },
+    {
+      "album": {
         "name": "Al\u0113",
         "url": "https://open.spotify.com/album/4BtZO261sAsq1ntXksWh5M"
       },
@@ -1251,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "don't wait",
+        "url": "https://open.spotify.com/album/0XZ78ADNKmKXWGKBLXDqJq"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261525,
+      "name": "don't wait",
+      "url": "https://open.spotify.com/track/7JpTYpqfsBv3EDGsuCzCDk"
+    },
+    {
+      "album": {
         "name": "Dream House",
         "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
       },
@@ -1406,7 +1442,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 159807,
       "name": "END OF THE SKY",
       "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
@@ -3268,7 +3304,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 190466,
       "name": "No Juego",
       "url": "https://open.spotify.com/track/4PKlFsTOV2SOCskSUS86Je"
@@ -4225,6 +4261,36 @@
     },
     {
       "album": {
+        "name": "Where We're At",
+        "url": "https://open.spotify.com/album/3mrWnK7ntMoxbTFYF4jQqc"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240013,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0u4KRGZTttn6qhp3ztSQMc"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
       },
@@ -4330,7 +4396,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 193493,
       "name": "Spooky",
       "url": "https://open.spotify.com/track/776zAlrJGk1SYM8CEbP0SN"

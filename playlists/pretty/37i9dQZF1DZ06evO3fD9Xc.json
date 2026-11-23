@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103840,
+  "num_followers": 103838,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAB2r35pLoPm2aiBCMmznx7j",
+  "snapshot_id": "awDfAAAAAABepbeaDkPcfEOVvGIF4ljZ",
   "tracks": [
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 224656,
-      "name": "Adios Amor",
-      "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 224656,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 226708,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226708,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Salud Mental (Deluxe)",
         "url": "https://open.spotify.com/album/2fwxl4SdfkEKQ2vqog4CLM"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 160000,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/1qpEUr8HPiTfaJTNon7deM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -768,29 +768,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 226618,
-      "name": "El Barco",
-      "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Te Extra\u00f1ar\u00e9",
-        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 295967,
-      "name": "Yo Te Extra\u00f1ar\u00e9",
-      "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
+      "duration_ms": 209702,
+      "name": "Para No Pensar En Ti",
+      "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
     },
     {
       "added_at": null,
@@ -815,86 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intermedio (En Vivo)",
-        "url": "https://open.spotify.com/album/2CwfmIR8GCaAlkXNpbMG8g"
+        "name": "Yo Te Extra\u00f1ar\u00e9",
+        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 248204,
-      "name": "Me dediqu\u00e9 a perderte - En Vivo",
-      "url": "https://open.spotify.com/track/1XGSBhZPKeoiHDCuWhYDdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209702,
-      "name": "Para No Pensar En Ti",
-      "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9 Me Vas A Dar (Cumbia)",
-        "url": "https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU"
-      },
-      "artists": [
-        {
-          "name": "Angela",
-          "url": "https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 207248,
-      "name": "Qu\u00e9 Me Vas A Dar - Cumbia",
-      "url": "https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2"
+      "duration_ms": 295967,
+      "name": "Yo Te Extra\u00f1ar\u00e9",
+      "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
     },
     {
       "added_at": null,
@@ -927,6 +843,90 @@
       "duration_ms": 230812,
       "name": "Sin Culpa (feat. Go Golden Junk)",
       "url": "https://open.spotify.com/track/0rZFo0OtnVrxHAzLH4wtM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intermedio (En Vivo)",
+        "url": "https://open.spotify.com/album/2CwfmIR8GCaAlkXNpbMG8g"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 248204,
+      "name": "Me dediqu\u00e9 a perderte - En Vivo",
+      "url": "https://open.spotify.com/track/1XGSBhZPKeoiHDCuWhYDdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Me Vas A Dar (Cumbia)",
+        "url": "https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU"
+      },
+      "artists": [
+        {
+          "name": "Angela",
+          "url": "https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 207248,
+      "name": "Qu\u00e9 Me Vas A Dar - Cumbia",
+      "url": "https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2"
     }
   ],
   "unique_name": "This Is Carolina Ross",

@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Zo\u00eb M\u00eb",
-  "num_followers": 37545,
+  "num_followers": 37541,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -291,8 +291,8 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/31PPWVoWDehQCDwiJJ2cwc"
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 160279,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4tfe4xSUv04RfK1M6gpdHG"
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/31PPWVoWDehQCDwiJJ2cwc"
       },
       "artists": [
         {
@@ -380,25 +380,9 @@
           "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
-        "name": "I am Sorry",
-        "url": "https://open.spotify.com/album/0TybIckKrjnl9VDd9VIcqy"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 156280,
-      "name": "I am Sorry",
-      "url": "https://open.spotify.com/track/7BT7AP9TTpcGawR3cvCvV3"
+      "duration_ms": 160279,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4tfe4xSUv04RfK1M6gpdHG"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -415,6 +399,22 @@
       "duration_ms": 173864,
       "name": "Rather Be Wrong",
       "url": "https://open.spotify.com/track/0D4X0kEAAutSOL7lnKT09r"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "I am Sorry",
+        "url": "https://open.spotify.com/album/0TybIckKrjnl9VDd9VIcqy"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 156280,
+      "name": "I am Sorry",
+      "url": "https://open.spotify.com/track/7BT7AP9TTpcGawR3cvCvV3"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -499,38 +499,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phane",
-          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "WHERE\u2019S THE FUN?",
         "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
       },
@@ -547,6 +515,22 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
         "name": "Love Me Better",
         "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 133200,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "backbone",
-        "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
       "artists": [
         {
-          "name": "Mik Ivy",
-          "url": "https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 173414,
-      "name": "backbone",
-      "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -803,18 +803,34 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+        "name": "backbone",
+        "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+          "name": "Mik Ivy",
+          "url": "https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA"
         }
       ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+      "duration_ms": 173414,
+      "name": "backbone",
+      "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Down To My Bones",
+        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Down To My Bones",
+      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -831,6 +847,22 @@
       "duration_ms": 163917,
       "name": "Heat",
       "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "WITHDRAWAL SYMPTOMS",
+        "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
+      },
+      "artists": [
+        {
+          "name": "IKAN HYU",
+          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
+      "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -855,18 +887,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Down To My Bones",
-        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
+        "name": "Darling You\u2019re The Worst",
+        "url": "https://open.spotify.com/album/3uKIoyw5PjZhtRSzFW4D53"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 201541,
-      "name": "Down To My Bones",
-      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
+      "duration_ms": 192360,
+      "name": "Darling You\u2019re The Worst",
+      "url": "https://open.spotify.com/track/1oGQ9YBiav74Q9MjjOTwi8"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -887,22 +919,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Hot Girl Summer",
-        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162781,
-      "name": "Hot Girl Summer",
-      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "Je ne reviendrai pas",
         "url": "https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE"
       },
@@ -915,6 +931,22 @@
       "duration_ms": 163933,
       "name": "Je ne reviendrai pas",
       "url": "https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Hot Girl Summer",
+        "url": "https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162781,
+      "name": "Hot Girl Summer",
+      "url": "https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -935,38 +967,6 @@
       "duration_ms": 201875,
       "name": "Just Like I Love You",
       "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
-        "name": "Darling You\u2019re The Worst",
-        "url": "https://open.spotify.com/album/3uKIoyw5PjZhtRSzFW4D53"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Darling You\u2019re The Worst",
-      "url": "https://open.spotify.com/track/1oGQ9YBiav74Q9MjjOTwi8"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
-        "name": "WITHDRAWAL SYMPTOMS",
-        "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
-      },
-      "artists": [
-        {
-          "name": "IKAN HYU",
-          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
-      "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Vergessen",
-        "url": "https://open.spotify.com/album/6dn2tNWfhTNLhql28OKTLZ"
-      },
-      "artists": [
-        {
-          "name": "Seulfa",
-          "url": "https://open.spotify.com/artist/7bbqldmfBkBtAyjjBVs4xA"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Vergessen",
-      "url": "https://open.spotify.com/track/5bABCHSlFAsetJuWHAa8Tt"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "Room Service",
         "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 167026,
       "name": "What\u2019s a Girl Gotta Do?",
       "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Vergessen",
+        "url": "https://open.spotify.com/album/6dn2tNWfhTNLhql28OKTLZ"
+      },
+      "artists": [
+        {
+          "name": "Seulfa",
+          "url": "https://open.spotify.com/artist/7bbqldmfBkBtAyjjBVs4xA"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Vergessen",
+      "url": "https://open.spotify.com/track/5bABCHSlFAsetJuWHAa8Tt"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Shouting with a Whisper",
-        "url": "https://open.spotify.com/album/0wWfFcMUyMDWAQd0pm7rV1"
+        "name": "How Much Can a Heart Break",
+        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
       "artists": [
         {
-          "name": "Lovebugs",
-          "url": "https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89"
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
         }
       ],
-      "duration_ms": 205667,
-      "name": "Shouting with a Whisper",
-      "url": "https://open.spotify.com/track/5s9VItQqugAg3FYacTU61O"
+      "duration_ms": 195055,
+      "name": "How Much Can a Heart Break",
+      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1115,34 +1115,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
+        "name": "Shouting with a Whisper",
+        "url": "https://open.spotify.com/album/0wWfFcMUyMDWAQd0pm7rV1"
       },
       "artists": [
         {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+          "name": "Lovebugs",
+          "url": "https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
-        "name": "How Much Can a Heart Break",
-        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 195055,
-      "name": "How Much Can a Heart Break",
-      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+      "duration_ms": 205667,
+      "name": "Shouting with a Whisper",
+      "url": "https://open.spotify.com/track/5s9VItQqugAg3FYacTU61O"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "The One That Got Away",
-        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 227613,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
+      "duration_ms": 176733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
+        "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
         "name": "Blindsided",
         "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "Prosecco",
         "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 199838,
       "name": "Prosecco",
       "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 210842,
-      "name": "Wednesdays",
-      "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "Valse \u00e0 Demi",
         "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 162835,
       "name": "Valse \u00e0 Demi",
       "url": "https://open.spotify.com/track/5gfb1OANgI7roumlmuYo0x"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 210842,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "White Garden",
         "url": "https://open.spotify.com/album/2Nn3CSwBeHCZT9LE0csAuY"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 229946,
       "name": "Hold Your Head Up",
       "url": "https://open.spotify.com/track/0Ym74H80ZfAUKMtORfY506"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     },
     {
       "added_at": "2026-11-19 23:01:00",

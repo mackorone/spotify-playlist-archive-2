@@ -4,7 +4,7 @@
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-104 songs - 7 hr 29 min
+105 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,10 +18,11 @@
 | [Atemporal](https://open.spotify.com/track/2pb4YtQrf4VbipwHZVGUIS) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Atemporal](https://open.spotify.com/album/79zurdk3n5ieLtyT749rzq) | 3:04 | 2026-09-01 |  |
 | [Até o Mundo Acabar](https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Até o Mundo Acabar](https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm) | 3:24 | 2023-12-30 |  |
 | [Avião](https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Avião](https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P) | 4:01 | 2023-12-30 |  |
-| [Bonjour](https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Bonjour](https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2) | 3:10 | 2025-06-14 |  |
+| [Bonjour](https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Bonjour](https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2) | 3:10 | 2025-06-14 | 2026-11-23 |
 | [Cabeça erguida](https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Nós](https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep) | 3:36 | 2023-12-30 | 2025-08-25 |
 | [Chore Não](https://open.spotify.com/track/5aC2Avnr6X3HVRJcu4R9ar) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/24S4f5Zoxvtp846vd4DzOd) | 2:56 | 2025-04-14 |  |
 | [Chore Não](https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn) | 2:56 | 2023-12-30 | 2025-04-13 |
+| [Copacabana](https://open.spotify.com/track/04gUXiclg2dWKTWI2cUb71) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Copacabana](https://open.spotify.com/album/6ylV7GsWXQUvPRa8rbYfic) | 3:22 | 2026-11-23 |  |
 | [Corda Bamba](https://open.spotify.com/track/4nsjsaov1d0LvyOVPCaXRf) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Corda Bamba](https://open.spotify.com/album/2ubtGX0eu9F0UVLMx7sNE5) | 3:11 | 2023-12-30 |  |
 | [Crazy](https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Crazy](https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS) | 3:09 | 2023-12-30 | 2025-05-18 |
 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 | 2024-03-08 |  |

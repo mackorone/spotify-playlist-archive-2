@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 634382,
+  "num_followers": 634412,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAADkjt8B1q26pxjzzfl1bC7R",
+  "snapshot_id": "awDfAAAAAADy9wXHQymKZ73jVmJPxpIW",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 213191,
-      "name": "ANTHEM PART 3",
-      "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "California (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 209186,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/1bI5cazRwt66vksBjV6RmH"
+      "duration_ms": 213191,
+      "name": "ANTHEM PART 3",
+      "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 161066,
       "name": "Another Girl Another Planet",
       "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/1bI5cazRwt66vksBjV6RmH"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "California (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 201480,
       "name": "Home Is Such a Lonely Place",
       "url": "https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9"
     },
     {
       "added_at": null,

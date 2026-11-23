@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Xpect XHAVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,726 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,735 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

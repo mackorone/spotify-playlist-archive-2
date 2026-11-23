@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 126874,
+  "num_followers": 126900,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAX/g2UYJL+MvKuhIkV38cz",
+  "snapshot_id": "awDfAAAAAACWvWvitSwzztANLM06CK2L",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plaza Nueva",
         "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 207533,
       "name": "Muchachita de Ojos Tristes - Banda Version",
       "url": "https://open.spotify.com/track/1PzeC9bXESHGvPhNMYn0hd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 166786,
-      "name": "Te Amo M\u00e1s",
-      "url": "https://open.spotify.com/track/0mUXqS2tc8wAH8tXGl96fM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Cielo",
         "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 152920,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/3Z9OK3CUYv9t5iQpweJhda"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 166786,
+      "name": "Te Amo M\u00e1s",
+      "url": "https://open.spotify.com/track/0mUXqS2tc8wAH8tXGl96fM"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 244346,
       "name": "Loco",
       "url": "https://open.spotify.com/track/2W5YzZvhA7SOsGAvk8e9Ke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Me Vas A Doler",
-      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
     },
     {
       "added_at": null,
@@ -691,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
-        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/2rmdRwcMsZIZF1PWnErclz"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 245653,
-      "name": "Silueta De Cristal - En Vivo",
-      "url": "https://open.spotify.com/track/1SjQxDn3wDuXejZrAP1PCT"
+      "duration_ms": 213693,
+      "name": "Me Vas A Doler",
+      "url": "https://open.spotify.com/track/3UAbo8L2graah1bqsZzRS3"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
       "duration_ms": 164106,
       "name": "Las Parcelas de Mendoza",
       "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
+        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Pase Y Pase - En Vivo",
+      "url": "https://open.spotify.com/track/6JddtBLhOsODAOVxRQWeFi"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
-        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Pase Y Pase - En Vivo",
-      "url": "https://open.spotify.com/track/6JddtBLhOsODAOVxRQWeFi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
+        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 168626,
-      "name": "Ya No Me Preguntes",
-      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
+      "duration_ms": 245653,
+      "name": "Silueta De Cristal - En Vivo",
+      "url": "https://open.spotify.com/track/1SjQxDn3wDuXejZrAP1PCT"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 218120,
       "name": "Arcoiris",
       "url": "https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/2rmdRwcMsZIZF1PWnErclz"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Ya No Me Preguntes",
+      "url": "https://open.spotify.com/track/0GTwh2lQYuVoV19WgK09eN"
     }
   ],
   "unique_name": "This Is Sergio Vega \"El Shaka\"",

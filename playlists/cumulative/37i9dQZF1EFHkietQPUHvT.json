@@ -2364,10 +2364,28 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 143878,
       "name": "Sweet July",
       "url": "https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry"
+    },
+    {
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/6UvW6NrDz3JvVdpQezAEUC"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144877,
+      "name": "Sweet July",
+      "url": "https://open.spotify.com/track/12AlQ6c6TZCPlN5t3w9dF4"
     },
     {
       "album": {

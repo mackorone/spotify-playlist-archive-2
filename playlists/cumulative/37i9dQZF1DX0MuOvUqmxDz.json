@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate the Holiday Season with your favorite country artists. Cover: Luke Bryan and Ella Langley",
+  "description": "Celebrate the Holiday Season with your favorite country artists. Cover: Dan + Shay",
   "name": "Country Christmas",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 233373,
       "name": "Christmas In Dixie",
       "url": "https://open.spotify.com/track/7hsuoJs173kjUYts4fAWoD"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 244738,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/68KV1GIAhUh5rXcH36DLsK"
@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 201212,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/6qHC7PTkjgIZiFqCCLGPE3"
@@ -2860,6 +2860,24 @@
       "duration_ms": 175169,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/4EerGFQs2IRgYaQtubh4xD"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2hynGJg2KmmD1bHVeMJN1Z"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/1HPO3zdIF4B2A5wV47Txj0"
     },
     {
       "album": {
@@ -4350,7 +4368,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 244933,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/4l7Urm0cDWDrYyFdLxkSy3"
@@ -4609,6 +4627,24 @@
     },
     {
       "album": {
+        "name": "It's Officially Christmas: The Double Album",
+        "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "Pick Out A Christmas Tree",
+      "url": "https://open.spotify.com/track/1Fgb34WPXF76CZfO8DIHbu"
+    },
+    {
+      "album": {
         "name": "Please Come Home For Christmas",
         "url": "https://open.spotify.com/album/2VMY6ng8JtPwoH0hNJMlMY"
       },
@@ -4620,7 +4656,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 171133,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/1ThD4PsOGfnO9a14FcEiTd"
@@ -4779,6 +4815,28 @@
     },
     {
       "album": {
+        "name": "Pretty Paper",
+        "url": "https://open.spotify.com/album/32QtuDgjI7DyC2Qml2XdOS"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "Pretty Paper",
+      "url": "https://open.spotify.com/track/54fafGLl0DJqbYtTSwOkZh"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/3RRx1vT5310djmxktrh0i0"
       },
@@ -4826,7 +4884,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -5380,7 +5438,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/7s85owcMvtlPMBRG5TWeWs"
@@ -5650,7 +5708,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 173467,
       "name": "Snow's Not The Only Thing Falling",
       "url": "https://open.spotify.com/track/2rYzzpWjrJsIJEvHvYgtax"
@@ -6248,6 +6306,24 @@
     {
       "album": {
         "name": "White Christmas",
+        "url": "https://open.spotify.com/album/2DqrIDtsMiWnpQj1nGEoaH"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177173,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6REo9jyRDwtxUitmDINr1T"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
         "url": "https://open.spotify.com/album/6w9aACzIsQ3o1uNRkvXBEx"
       },
       "artists": [
@@ -6348,7 +6424,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 204986,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/5XdtbNJcOIYc2pLMaQdCmQ"
@@ -6366,7 +6442,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 203933,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/5oDbuSqnyUZQlFfLD1kzUh"
@@ -6474,7 +6550,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 135906,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/54INOuusIyGe5cSd1fhSgx"
@@ -6492,7 +6568,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 159826,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/5rIyyxoU1LzraNmFu5FpdR"
@@ -6598,6 +6674,24 @@
       "duration_ms": 198181,
       "name": "Wish List",
       "url": "https://open.spotify.com/track/0Nu5R9UV5e0f9oIgZDURth"
+    },
+    {
+      "album": {
+        "name": "With You Christmas Eve",
+        "url": "https://open.spotify.com/album/7Ftj5arxbUlhjNhhUVeI3w"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259853,
+      "name": "With You Christmas Eve",
+      "url": "https://open.spotify.com/track/1FebnUsbPM98yMwVZNO99p"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19765,
+  "num_followers": 19769,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACg1ujrWYaJhwHE9l4b14LF",
+  "snapshot_id": "awDfAAAAAADe4d1mi5mzgX1/Hg/3geQx",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128586,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIG PURR (Prrdd)",
         "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128586,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt"
     },
     {
       "added_at": null,
@@ -747,42 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BE MORE GRATEFUL",
-        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 143920,
-      "name": "BOOMERANG (with Coi Leray)",
-      "url": "https://open.spotify.com/track/4oqDtRwOFu8Ejw4SB3Toql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
       },
@@ -803,32 +767,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
-        "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
       },
       "artists": [
         {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 190104,
-      "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
-      "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
       "artists": [
         {
@@ -836,9 +792,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
     },
     {
       "added_at": null,
@@ -863,18 +819,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
       },
       "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+      "duration_ms": 143920,
+      "name": "BOOMERANG (with Coi Leray)",
+      "url": "https://open.spotify.com/track/4oqDtRwOFu8Ejw4SB3Toql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
+        "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
+      "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
     },
     {
       "added_at": null,
@@ -904,9 +888,29 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 118280,
-      "name": "Phuck It",
-      "url": "https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV"
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": null,
@@ -955,22 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+      "duration_ms": 118280,
+      "name": "Phuck It",
+      "url": "https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV"
     },
     {
       "added_at": null,
@@ -995,18 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Thieves In Atlanta (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
       },
       "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 168013,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/2U2PWiUPxeKBipJrPlTW3u"
+      "duration_ms": 192048,
+      "name": "Thieves In Atlanta (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
     }
   ],
   "unique_name": "This Is Coi Leray",

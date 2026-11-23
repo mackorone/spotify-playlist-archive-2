@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > ヒップホップの最新トレンドをここでチェック！ Cover: Tete & S TILL I DIE / 水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,011 likes - 134 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,018 likes - 134 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

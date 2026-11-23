@@ -4,7 +4,7 @@
 
 > just trying our best 📸 Liang Lawrence
 
-2,945 songs - 6 day 4 hr 35 min
+2,946 songs - 6 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,7 +853,7 @@
 | [fckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 | 2023-08-11 | 2023-08-26 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-17 | 2024-10-19 |
 | [feel again](https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv) | [Storm Henshaw](https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs) | [feel again](https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4) | 3:25 | 2025-07-11 | 2025-09-20 |
-| [Feel Good](https://open.spotify.com/track/2suh7sTjHZ9gjmso1ZTjF5) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Feel Good](https://open.spotify.com/album/1ERFU3Ua92C81vTtYicsLn) | 2:43 | 2026-08-14 |  |
+| [Feel Good](https://open.spotify.com/track/2suh7sTjHZ9gjmso1ZTjF5) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Feel Good](https://open.spotify.com/album/1ERFU3Ua92C81vTtYicsLn) | 2:43 | 2026-08-14 | 2026-11-23 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-04-04 | 2025-08-01 |
 | [Feel Like](https://open.spotify.com/track/6Ri9UCon5eF07GqlNDk98L) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [Chloe Gendrow](https://open.spotify.com/artist/7oYVCSnh6vWs6ZMzx76hNP) | [Feel Like](https://open.spotify.com/album/2siGxyuvPHBPnZ960ocuWc) | 2:54 | 2019-05-26\* | 2019-08-13 |
 | [FEEL LIKE](https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/5d1GEm62XJWF5Kgo2ewl9z) | 3:08 | 2021-03-06 | 2021-11-20 |
@@ -1461,6 +1461,7 @@
 | [la di da](https://open.spotify.com/track/6doGgaQHLno4lTLbgkWd6b) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mood Swings](https://open.spotify.com/album/3psE2QZTcNFhLGUpY76F4s) | 2:58 | 2022-10-07 | 2022-10-29 |
 | [La La La](https://open.spotify.com/track/6WivhoU5qLcUtbYg2fo9Ay) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [La La La](https://open.spotify.com/album/2L503QgplP6Wj6vln3zl4t) | 2:30 | 2022-05-06 | 2022-06-19 |
 | [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 | 2024-08-02 | 2024-09-12 |
+| [Ladybirds](https://open.spotify.com/track/0pL94IbabpLNr3TTrzXKLy) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Ladybirds](https://open.spotify.com/album/4by9Uss8JOqlY7D7dcVTGt) | 3:02 | 2026-11-22 |  |
 | [Lamb's Wool \(with Poolside\)](https://open.spotify.com/track/2Kv2ihNE3KAztq2GWassEZ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Lamb's Wool \(with Poolside\)](https://open.spotify.com/album/1Txwny427aGDWNZPxd5mvY) | 4:54 | 2021-04-20 | 2021-11-20 |
 | [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 | 2023-01-13 | 2024-10-19 |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-01-14 | 2022-09-24 |

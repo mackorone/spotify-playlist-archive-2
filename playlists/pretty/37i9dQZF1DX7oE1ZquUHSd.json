@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 239592,
+  "num_followers": 239655,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Return Of The Tres",
+      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 218250,
       "name": "Por Mi M\u00e9xico",
       "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Merry Go Round",
-        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Return Of The Tres",
-      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Con el Coco Rapado",
-      "url": "https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Aquamosh",
         "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 262613,
       "name": "Mr. P-Mosh",
       "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Con el Coco Rapado",
+      "url": "https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "Fermin IV Caballero",
-          "url": "https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
-      "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 248000,
       "name": "Tardes",
       "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Fermin IV Caballero",
+          "url": "https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
+      "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el Celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Pantone",
         "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el Celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Lujo Ib\u00e9rico",
         "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 167506,
       "name": "Tengo Un Trato",
       "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "En la brevedad de los dias",
-        "url": "https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay"
-      },
-      "artists": [
-        {
-          "name": "Nach Scratch",
-          "url": "https://open.spotify.com/artist/2HiFszpmRqt7qy3eGBI62V"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Basado en hechos reales",
-      "url": "https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1055,6 +1039,22 @@
       "duration_ms": 305454,
       "name": "R\u00e9plica",
       "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "En la brevedad de los dias",
+        "url": "https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay"
+      },
+      "artists": [
+        {
+          "name": "Nach Scratch",
+          "url": "https://open.spotify.com/artist/2HiFszpmRqt7qy3eGBI62V"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Basado en hechos reales",
+      "url": "https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Expreso Aerophon",
+        "url": "https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr"
+      },
+      "artists": [
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        }
+      ],
+      "duration_ms": 313183,
+      "name": "Mi Familia",
+      "url": "https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
         "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 438706,
       "name": "Por Amor al Odio (Versi\u00f3n Jazz)",
       "url": "https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Expreso Aerophon",
-        "url": "https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr"
-      },
-      "artists": [
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        }
-      ],
-      "duration_ms": 313183,
-      "name": "Mi Familia",
-      "url": "https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
-      "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Lo Necesario",
         "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 193330,
       "name": "Pasame la Yesca",
       "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
+      "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "La Durango",
+        "url": "https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 250259,
+      "name": "La Durango",
+      "url": "https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Una Isla en los Andes",
         "url": "https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 222673,
       "name": "Juicio / Canserbero",
       "url": "https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "La Durango",
-        "url": "https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 250259,
-      "name": "La Durango",
-      "url": "https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
+        "name": "In Tha House",
+        "url": "https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N"
       },
       "artists": [
         {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+          "name": "Cuarto Poder",
+          "url": "https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI"
         }
       ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
+      "duration_ms": 299613,
+      "name": "Arenita Playita (feat. Eska)",
+      "url": "https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "In Tha House",
-        "url": "https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N"
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
       },
       "artists": [
         {
-          "name": "Cuarto Poder",
-          "url": "https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI"
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
         }
       ],
-      "duration_ms": 299613,
-      "name": "Arenita Playita (feat. Eska)",
-      "url": "https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0"
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "El Camino de la Serpiente",
-        "url": "https://open.spotify.com/album/0Dg2f3GApbo99D3aclUNo9"
-      },
-      "artists": [
-        {
-          "name": "Hijos de las Hojas",
-          "url": "https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM"
-        },
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Causa y Efecto",
-      "url": "https://open.spotify.com/track/6dYNhN8zOGK2Q67QddT1NN"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
         "url": "https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL"
       },
@@ -1811,6 +1791,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "El Camino de la Serpiente",
+        "url": "https://open.spotify.com/album/0Dg2f3GApbo99D3aclUNo9"
+      },
+      "artists": [
+        {
+          "name": "Hijos de las Hojas",
+          "url": "https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM"
+        },
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Causa y Efecto",
+      "url": "https://open.spotify.com/track/6dYNhN8zOGK2Q67QddT1NN"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Guerra de Karteles",
         "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
       },
@@ -1851,6 +1851,58 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Abuso de Poder (Remix)",
+        "url": "https://open.spotify.com/album/2HfSjM4orZYW9OshQUIBdY"
+      },
+      "artists": [
+        {
+          "name": "Gabylonia",
+          "url": "https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU"
+        },
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        },
+        {
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        },
+        {
+          "name": "El B",
+          "url": "https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        },
+        {
+          "name": "Silvito \"El Libre\"",
+          "url": "https://open.spotify.com/artist/0d0Ya20EqRvZriFbwRm7Gl"
+        },
+        {
+          "name": "I Nesta",
+          "url": "https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0"
+        },
+        {
+          "name": "Rotwaila",
+          "url": "https://open.spotify.com/artist/1eJOv2PV0ZWbez6OwwA2cd"
+        },
+        {
+          "name": "Quimico",
+          "url": "https://open.spotify.com/artist/1g2AsdCl9c1SqL9g4ELWf4"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 497632,
+      "name": "Abuso de Poder - Remix",
+      "url": "https://open.spotify.com/track/5RHrHZnQLdBr1zYEvTD8pn"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Jorge",
         "url": "https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR"
       },
@@ -1863,22 +1915,6 @@
       "duration_ms": 179417,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "120 Barras: Cap\u00edtulo 1",
-        "url": "https://open.spotify.com/album/6mEw59v4PmmQhtcGbjS4qr"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "120 Barras: Cap\u00edtulo 1",
-      "url": "https://open.spotify.com/track/1WqSDATCV98n00oBn7CqKf"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

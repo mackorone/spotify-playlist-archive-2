@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Suena
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,846 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,842 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 25 | [pink](https://open.spotify.com/track/2Vd5BdcrLQ9VGpoE5Ovmi7) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [pink](https://open.spotify.com/album/1OoPoq8o9oQMBeane1YIRp) | 2:29 |
 | 26 | [ARROGANT](https://open.spotify.com/track/4mcm0nIqYOK3t714LBIzwT) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [ARROGANT](https://open.spotify.com/album/1AYgJbFYuSfWSN3KpAjdjd) | 2:40 |
 | 27 | [Take Me to Ecstasy](https://open.spotify.com/track/0ZRVGU4tml1miY4uwmDevN) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [Take Me to Ecstasy](https://open.spotify.com/album/7lSgVKdX8c07TZVTaffiNb) | 4:13 |
-| 28 | [kontrolle \(interlude\)](https://open.spotify.com/track/5xjTqKeAfaNIwKDtsInoYe) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [kontrolle \(interlude\)](https://open.spotify.com/album/6Y2G8pJCOhpxrI69stPWDA) | 3:30 |
-| 29 | [Rather Be Wrong](https://open.spotify.com/track/0D4X0kEAAutSOL7lnKT09r) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Running Love](https://open.spotify.com/album/73CrWbbOIg8KTZ4qEcKzhc) | 2:53 |
+| 28 | [Rather Be Wrong](https://open.spotify.com/track/0D4X0kEAAutSOL7lnKT09r) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Running Love](https://open.spotify.com/album/73CrWbbOIg8KTZ4qEcKzhc) | 2:53 |
+| 29 | [kontrolle \(interlude\)](https://open.spotify.com/track/5xjTqKeAfaNIwKDtsInoYe) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [kontrolle \(interlude\)](https://open.spotify.com/album/6Y2G8pJCOhpxrI69stPWDA) | 3:30 |
 | 30 | [Primapulsa](https://open.spotify.com/track/06qgb8Cs6lu5V5cMWvOt3j) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:27 |
 | 31 | [schwarz/weiß](https://open.spotify.com/track/57yrZVbGTTiGRrdCGhXFUu) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [schwarz/weiß](https://open.spotify.com/album/6dBtqyqYiwt4xY4HDplKOE) | 3:20 |
-| 32 | [Your Name Is A River](https://open.spotify.com/track/4xJ8cB7yjJaGCJQ76WYDAW) | [Yana](https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA), [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [Your Name Is A River](https://open.spotify.com/album/4JH3GnleRqtYSH8jh6T3us) | 4:09 |
-| 33 | [Berlin](https://open.spotify.com/track/62gOHDyfTIQUExwJeFDQJ4) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Berlin](https://open.spotify.com/album/1txqdO67idfV6AEW23kLRw) | 3:08 |
+| 32 | [Berlin](https://open.spotify.com/track/62gOHDyfTIQUExwJeFDQJ4) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Berlin](https://open.spotify.com/album/1txqdO67idfV6AEW23kLRw) | 3:08 |
+| 33 | [Your Name Is A River](https://open.spotify.com/track/4xJ8cB7yjJaGCJQ76WYDAW) | [Yana](https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA), [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [Your Name Is A River](https://open.spotify.com/album/4JH3GnleRqtYSH8jh6T3us) | 4:09 |
 | 34 | [Hört nicht auf](https://open.spotify.com/track/5zmITfhDUl9D1iFM4eeiQt) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Hört nicht auf](https://open.spotify.com/album/1fY0VJqHGqd7j4AY1Uyv4f) | 2:36 |
 | 35 | [Orange](https://open.spotify.com/track/6J67r21wyslcG1ejmc1yeU) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Orange](https://open.spotify.com/album/3QQlMbTdcNjXPfqhvwlAIk) | 4:01 |
 | 36 | [Vanilla Sky](https://open.spotify.com/track/4rUNpCHYqOyZruCSHaOgvo) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Vanilla Sky](https://open.spotify.com/album/2iQBi7gu7MhYNBORrzK2Cy) | 4:09 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [Fichtenholz](https://open.spotify.com/track/6RK7JQmE5apBvnDp2JuEvz) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Fichtenholz](https://open.spotify.com/album/0mWXFHaN1WYPKquFtol0AF) | 3:36 |
 | 43 | [devil´s in the sideroom](https://open.spotify.com/track/1qKdtUsOjrJy9Ids0ZQgoe) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [devil´s in the sideroom](https://open.spotify.com/album/7xJuAVgieSui8gau66R012) | 3:31 |
 | 44 | [Goodwife](https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Goodwife](https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978) | 4:10 |
-| 45 | [Woman](https://open.spotify.com/track/30WqbMFs4uwwVpaWU11Uq9) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Woman](https://open.spotify.com/album/5Xe5xftckiT63kQitJSGL9) | 3:15 |
-| 46 | [Frau](https://open.spotify.com/track/1a9D3hfHc1RQbbWMqEtQb3) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [Frau](https://open.spotify.com/album/2mVTZAD0SmBOSDRMlgxGwk) | 2:56 |
+| 45 | [Frau](https://open.spotify.com/track/1a9D3hfHc1RQbbWMqEtQb3) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [Frau](https://open.spotify.com/album/2mVTZAD0SmBOSDRMlgxGwk) | 2:56 |
+| 46 | [Woman](https://open.spotify.com/track/30WqbMFs4uwwVpaWU11Uq9) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Woman](https://open.spotify.com/album/5Xe5xftckiT63kQitJSGL9) | 3:15 |
 | 47 | [Twisted Heart](https://open.spotify.com/track/0XBZOhS88pujsPJX1NfDEE) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Twisted Heart](https://open.spotify.com/album/2Wr9U1QGmFWz4oa4MbYAo2) | 3:20 |
 | 48 | [Crickets](https://open.spotify.com/track/1imqari7uRLNriUvnPzdUb) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Crickets](https://open.spotify.com/album/2pkSK72orCWiROaiXtg6tN) | 2:48 |
 | 49 | [jéremi](https://open.spotify.com/track/6k5Ip3ONxkmYCnZT3nimKs) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [jéremi](https://open.spotify.com/album/45uNSACzAdmEY2MnNxW4TC) | 3:48 |

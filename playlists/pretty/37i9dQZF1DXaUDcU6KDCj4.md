@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Devon Gilfillian & Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,340 likes - 174 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,346 likes - 174 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

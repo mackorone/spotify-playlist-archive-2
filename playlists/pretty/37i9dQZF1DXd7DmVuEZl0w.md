@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,948 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,956 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 19 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 |
 | 20 | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp) | [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/album/1w6Mz1FmDpfmgH044e5Mac) | 2:59 |
 | 21 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 |
-| 22 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
-| 23 | [Hanghanni Kaman W Kaman](https://open.spotify.com/track/67BhQrmFsuqdIuYiUK5JIg) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Sahbit Raey](https://open.spotify.com/album/0oXIpAgpGx3rRIyKlV6Wfs) | 3:46 |
+| 22 | [Hanghanni Kaman W Kaman](https://open.spotify.com/track/67BhQrmFsuqdIuYiUK5JIg) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Sahbit Raey](https://open.spotify.com/album/0oXIpAgpGx3rRIyKlV6Wfs) | 3:46 |
+| 23 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 24 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 |
 | 25 | [Amaken El Sahar](https://open.spotify.com/track/1DLOCpotHPoxdSWt8DLYVW) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Amaken El Sahar](https://open.spotify.com/album/12Eo6vMFgZrtnrzsj7LD9z) | 4:11 |
 | 26 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 |
-| 27 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 |
-| 28 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |
+| 27 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |
+| 28 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 |
 | 29 | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/track/65NbzRrl0uqc9B4a14gqqd) | [e& Egypt](https://open.spotify.com/artist/1WSXhu4UrkuG4NP3jB13YP) | [e& Egypt \- اكتر واكتر \- شيرين عبدالوهاب](https://open.spotify.com/album/6TcrDv7jjjQ1YuLV5WFwLg) | 3:13 |
 | 30 | [Etklm Kol Youm Youmin](https://open.spotify.com/track/0DOXgjJRqej7wAH8B2Ar7B) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Etklm Kol Youm Youmin](https://open.spotify.com/album/5NOv6doSj36FT1NhOQkjD3) | 3:20 |
 | 31 | [الفرحه فرحتنا \- من مسلسل ٨٠ باكو](https://open.spotify.com/track/1vwTWLElYkCftcMNnTmfnE) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [الفرحه فرحتنا \(من مسلسل ٨٠ باكو\)](https://open.spotify.com/album/28gTpRFAdkNIVmIVO9AWGb) | 3:53 |

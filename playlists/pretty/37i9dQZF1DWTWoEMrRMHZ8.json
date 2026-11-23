@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Ala\u00edde Costa, Emicida",
-  "num_followers": 352757,
+  "num_followers": 352755,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "Feiti\u00e7o",
+        "url": "https://open.spotify.com/album/3GRJF0oBM0ZPUgdoAyCjtJ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 196201,
+      "name": "Feiti\u00e7o",
+      "url": "https://open.spotify.com/track/29wwUpwmxfcQEg8hWyQIvd"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "Cada L\u00e1grima",
         "url": "https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3"
       },
@@ -283,26 +303,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Feiti\u00e7o",
-        "url": "https://open.spotify.com/album/3GRJF0oBM0ZPUgdoAyCjtJ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 196201,
-      "name": "Feiti\u00e7o",
-      "url": "https://open.spotify.com/track/29wwUpwmxfcQEg8hWyQIvd"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
         "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
       },
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "\u00c9 Segredo",
+        "url": "https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "\u00c9 Segredo",
+      "url": "https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "A Voz, o Viol\u00e3o, a M\u00fasica de Djavan (Edi\u00e7\u00e3o Especial de 50 Anos) [Remasterizada 2026]",
         "url": "https://open.spotify.com/album/3P3wCaOTHQFAHRL0sT5rfw"
       },
@@ -351,6 +367,30 @@
       "duration_ms": 193130,
       "name": "Muito Obrigado - Voz e Viol\u00e3o",
       "url": "https://open.spotify.com/track/19ZqlnVzHadrQjB4DvlVxi"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
+      },
+      "artists": [
+        {
+          "name": "Carol Fazu",
+          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Liminha",
+          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
+        }
+      ],
+      "duration_ms": 277858,
+      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -379,38 +419,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "\u00c9 Segredo",
-        "url": "https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 173100,
-      "name": "\u00c9 Segredo",
-      "url": "https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Pra Ter Fim",
-        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 204177,
-      "name": "Pra Ter Fim",
-      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
       },
@@ -431,26 +439,38 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
-        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
+        "name": "Pra Ter Fim",
+        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
       },
       "artists": [
         {
-          "name": "Carol Fazu",
-          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Liminha",
-          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
         }
       ],
-      "duration_ms": 277858,
-      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
-      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
+      "duration_ms": 204177,
+      "name": "Pra Ter Fim",
+      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Itapuano",
+        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zar Mendes",
+          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 190991,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -543,26 +563,6 @@
       "duration_ms": 217824,
       "name": "Gente Aberta / Imensamente Visceral",
       "url": "https://open.spotify.com/track/125cqbgLq4WeIW65E33qNU"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Itapuano",
-        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9zar Mendes",
-          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 190991,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -683,6 +683,26 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "Odisseu",
+        "url": "https://open.spotify.com/album/39UmJTD7Ej6FHjNWkSeQqf"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Rodrigo Bittencourt",
+          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
+        }
+      ],
+      "duration_ms": 137564,
+      "name": "Odisseu",
+      "url": "https://open.spotify.com/track/3mdem1BGKgYecijYHTUO3n"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "Uirapuru",
         "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 183641,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/6FF73EidnkO6TvgnUsZNHB"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Odisseu",
-        "url": "https://open.spotify.com/album/39UmJTD7Ej6FHjNWkSeQqf"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Rodrigo Bittencourt",
-          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
-        }
-      ],
-      "duration_ms": 137564,
-      "name": "Odisseu",
-      "url": "https://open.spotify.com/track/3mdem1BGKgYecijYHTUO3n"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "N\u00e3o Resisto",
+        "url": "https://open.spotify.com/album/11UAPwO6V0XwUxs0cd5Dhm"
+      },
+      "artists": [
+        {
+          "name": "Mamacita",
+          "url": "https://open.spotify.com/artist/0zd6LHxak21D37nMKpT4k2"
+        },
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 241097,
+      "name": "N\u00e3o Resisto",
+      "url": "https://open.spotify.com/track/2H2GJZLJokgrgvtYKTSMbv"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "Jo\u00e3o",
         "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
       },
@@ -811,22 +831,18 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "N\u00e3o Resisto",
-        "url": "https://open.spotify.com/album/11UAPwO6V0XwUxs0cd5Dhm"
+        "name": "Os Incont\u00e1veis Desdobramentos de um Efeito Borboleta",
+        "url": "https://open.spotify.com/album/5ls38bcgo7nGTJobyRayAO"
       },
       "artists": [
         {
-          "name": "Mamacita",
-          "url": "https://open.spotify.com/artist/0zd6LHxak21D37nMKpT4k2"
-        },
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+          "name": "Escarc\u00e9u",
+          "url": "https://open.spotify.com/artist/3QxbKAKyItPOyMosEJpG0f"
         }
       ],
-      "duration_ms": 241097,
-      "name": "N\u00e3o Resisto",
-      "url": "https://open.spotify.com/track/2H2GJZLJokgrgvtYKTSMbv"
+      "duration_ms": 138875,
+      "name": "PIOR EM TUDO",
+      "url": "https://open.spotify.com/track/6VJSeqMRawJ5OKavnBZCvT"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -847,30 +863,6 @@
       "duration_ms": 170450,
       "name": "Falta de Ar",
       "url": "https://open.spotify.com/track/58myXg6RN7eUBst4LhmZKj"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
-        "url": "https://open.spotify.com/album/4MsrnDkwgg0GCZfp1OjRJh"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9loa",
-          "url": "https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Liu Kid",
-          "url": "https://open.spotify.com/artist/6qEUX0TzUwwswlE8w3MPiW"
-        }
-      ],
-      "duration_ms": 260603,
-      "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
-      "url": "https://open.spotify.com/track/4k80imJJqnVRDxpc1O0Y1a"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -907,30 +899,26 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
-        "url": "https://open.spotify.com/album/2gz25YLpqxjbkZhpcMiquh"
+        "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
+        "url": "https://open.spotify.com/album/4MsrnDkwgg0GCZfp1OjRJh"
       },
       "artists": [
         {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "H\u00e9loa",
+          "url": "https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi"
         },
         {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         },
         {
-          "name": "Maria Beraldo",
-          "url": "https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW"
-        },
-        {
-          "name": "Teco Cardoso",
-          "url": "https://open.spotify.com/artist/2vFu2RmcRZ8Gi0vl1t3BEr"
+          "name": "Liu Kid",
+          "url": "https://open.spotify.com/artist/6qEUX0TzUwwswlE8w3MPiW"
         }
       ],
-      "duration_ms": 191792,
-      "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
-      "url": "https://open.spotify.com/track/5bCXKLqLtAsXuBwnlfRt70"
+      "duration_ms": 260603,
+      "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
+      "url": "https://open.spotify.com/track/4k80imJJqnVRDxpc1O0Y1a"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -971,6 +959,70 @@
       "duration_ms": 273031,
       "name": "A Paz",
       "url": "https://open.spotify.com/track/3ouuEgaeWNHBQQFDjZcG4l"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "MATUMBI (Ao vivo)",
+        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
+      },
+      "artists": [
+        {
+          "name": "Lazzo Matumbi",
+          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "MATUMBI - Ao vivo",
+      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
+        "url": "https://open.spotify.com/album/2gz25YLpqxjbkZhpcMiquh"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        },
+        {
+          "name": "Maria Beraldo",
+          "url": "https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW"
+        },
+        {
+          "name": "Teco Cardoso",
+          "url": "https://open.spotify.com/artist/2vFu2RmcRZ8Gi0vl1t3BEr"
+        }
+      ],
+      "duration_ms": 191792,
+      "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
+      "url": "https://open.spotify.com/track/5bCXKLqLtAsXuBwnlfRt70"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Melodia, Letra E M\u00fasica",
+        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 234262,
+      "name": "Brasil Zerado",
+      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1019,38 +1071,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Os Incont\u00e1veis Desdobramentos de um Efeito Borboleta",
-        "url": "https://open.spotify.com/album/5ls38bcgo7nGTJobyRayAO"
-      },
-      "artists": [
-        {
-          "name": "Escarc\u00e9u",
-          "url": "https://open.spotify.com/artist/3QxbKAKyItPOyMosEJpG0f"
-        }
-      ],
-      "duration_ms": 138875,
-      "name": "PIOR EM TUDO",
-      "url": "https://open.spotify.com/track/6VJSeqMRawJ5OKavnBZCvT"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "MATUMBI (Ao vivo)",
-        "url": "https://open.spotify.com/album/5yIrL1L2legY3ZrqyWjQlg"
-      },
-      "artists": [
-        {
-          "name": "Lazzo Matumbi",
-          "url": "https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "MATUMBI - Ao vivo",
-      "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Inofensiva Flor (Primeiro Ato)",
         "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 179029,
       "name": "N\u00e3o Sento \u00e0 Mesa",
       "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Melodia, Letra E M\u00fasica",
-        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 234262,
-      "name": "Brasil Zerado",
-      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Em Sil\u00eancio o Afeto Cresce",
-        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
-      },
-      "artists": [
-        {
-          "name": "Rafa Castro",
-          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Perdi Meu Rumo Na Sua Boca",
-      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
         "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 139250,
       "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
       "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Em Sil\u00eancio o Afeto Cresce",
+        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
+      },
+      "artists": [
+        {
+          "name": "Rafa Castro",
+          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Perdi Meu Rumo Na Sua Boca",
+      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Salvador",
-        "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
         }
       ],
-      "duration_ms": 151800,
-      "name": "Salvador",
-      "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
+      "duration_ms": 213429,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/4EeabehFz5I7NY7va3jdlI"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1339,6 +1339,38 @@
       "duration_ms": 217666,
       "name": "Relevuras",
       "url": "https://open.spotify.com/track/08qckn16nhCWxNGFOihPFD"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Salvador",
+        "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Salvador",
+      "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "NOVELA",
+        "url": "https://open.spotify.com/album/4jFFc377bqxLx1rrnDfJuh"
+      },
+      "artists": [
+        {
+          "name": "PP",
+          "url": "https://open.spotify.com/artist/69hIKin4Uhp9JkiruaTNeJ"
+        }
+      ],
+      "duration_ms": 150113,
+      "name": "Adeus",
+      "url": "https://open.spotify.com/track/03WHUsleXqD4BPfmMWM7py"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1363,18 +1395,22 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "NOVELA",
-        "url": "https://open.spotify.com/album/4jFFc377bqxLx1rrnDfJuh"
+        "name": "Mais Uma Flor",
+        "url": "https://open.spotify.com/album/15DpNDco72qFNsUaedBIOA"
       },
       "artists": [
         {
-          "name": "PP",
-          "url": "https://open.spotify.com/artist/69hIKin4Uhp9JkiruaTNeJ"
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        },
+        {
+          "name": "Z\u00e9 Manoel",
+          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
         }
       ],
-      "duration_ms": 150113,
-      "name": "Adeus",
-      "url": "https://open.spotify.com/track/03WHUsleXqD4BPfmMWM7py"
+      "duration_ms": 274949,
+      "name": "Mais Uma Flor",
+      "url": "https://open.spotify.com/track/7IbkhLHcUXPB84mCEkrgcB"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1419,6 +1455,26 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "Melodia, Letra E M\u00fasica",
+        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 181152,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/00NkWIcqGqBjcOcgl6IhZ4"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "Fervo Unboxing - Rodrigo Ciampi",
         "url": "https://open.spotify.com/album/5RYuQybfuZ3TwiaFktJlqE"
       },
@@ -1459,42 +1515,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Melodia, Letra E M\u00fasica",
-        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 181152,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/00NkWIcqGqBjcOcgl6IhZ4"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 213429,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/4EeabehFz5I7NY7va3jdlI"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Floreando",
         "url": "https://open.spotify.com/album/4kGYIzsbvCypLbmdp1iJbV"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 145130,
       "name": "L\u00e1 Vem Voc\u00ea",
       "url": "https://open.spotify.com/track/48rkL7YjjRwa66GceSkOHl"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Mais Uma Flor",
-        "url": "https://open.spotify.com/album/15DpNDco72qFNsUaedBIOA"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        },
-        {
-          "name": "Z\u00e9 Manoel",
-          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
-        }
-      ],
-      "duration_ms": 274949,
-      "name": "Mais Uma Flor",
-      "url": "https://open.spotify.com/track/7IbkhLHcUXPB84mCEkrgcB"
     }
   ],
   "unique_name": "Divina MPB",

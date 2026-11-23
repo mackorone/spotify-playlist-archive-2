@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Loud Luxury
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 20,936 likes - 113 songs - 5 hr 48 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 20,935 likes - 113 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-136 songs - 6 hr 53 min
+137 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Stop Me Dead](https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Stop Me Dead](https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF) | 2:31 | 2026-07-11 |  |
 | [Straitjacket](https://open.spotify.com/track/5gu2zPGXuqs4otf3wNtXVb) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Straitjacket](https://open.spotify.com/album/1DZ20T7S0sdkbLgpPPiXlU) | 3:00 | 2024-02-26 |  |
 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 | 2025-04-16 |  |
-| [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 | 2026-07-05 |  |
+| [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 | 2026-07-05 | 2026-11-23 |
+| [Sweet July](https://open.spotify.com/track/12AlQ6c6TZCPlN5t3w9dF4) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Dreamers](https://open.spotify.com/album/6UvW6NrDz3JvVdpQezAEUC) | 2:24 | 2026-11-22 |  |
 | [Taxi](https://open.spotify.com/track/2jkMuY6mQLuPXZwfh58LIk) | [Eiza Murphy](https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9) | [Taxi](https://open.spotify.com/album/6zipOgixmS3YXGHbNDIioT) | 3:01 | 2024-02-26 |  |
 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 | 2024-06-10 |  |
 | [Time Will Make It Better](https://open.spotify.com/track/5noBsSN3xvlS8uR6UfMKT0) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Time Will Make It Better](https://open.spotify.com/album/3KScPmp6OltdnhV3WBEzHS) | 4:00 | 2026-02-08 |  |

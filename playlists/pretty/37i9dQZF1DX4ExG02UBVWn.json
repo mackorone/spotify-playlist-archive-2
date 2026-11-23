@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20978,
+  "num_followers": 20977,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 247098,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Button Up",
         "url": "https://open.spotify.com/album/1D7dJ6DynUboIRFZ7TT20L"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 157440,
       "name": "Button Up",
       "url": "https://open.spotify.com/track/2dMW31LPd4yL1LVvmXcowO"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby"
+      },
+      "artists": [
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 247098,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Price You Pay",
-        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Price You Pay",
-      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "SE17",
         "url": "https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 202058,
       "name": "SE17",
       "url": "https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Price You Pay",
+        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Price You Pay",
+      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Raining Colours",
         "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 192703,
       "name": "Raining Colours",
       "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Oakley",
-          "url": "https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL"
-        }
-      ],
-      "duration_ms": 226761,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "DEMOTAPE/VEGA",
         "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 155811,
       "name": "HEARTACHE & CHEST PAINS",
       "url": "https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Oakley",
+          "url": "https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL"
+        }
+      ],
+      "duration_ms": 226761,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Elevator Music",
-        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
-      },
-      "artists": [
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 138775,
-      "name": "Babybrown",
-      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Motion Sick",
         "url": "https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 161271,
       "name": "CRUSHED VELVET",
       "url": "https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 138775,
+      "name": "Babybrown",
+      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "No Place for Patience, Vol. 3",
-        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "Pingu",
-      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Trouble Sleeping",
         "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 215172,
       "name": "Trouble Sleeping",
       "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "No Place for Patience, Vol. 3",
+        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Pingu",
+      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
-      },
-      "artists": [
-        {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        },
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
-        }
-      ],
-      "duration_ms": 207830,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Don't You Go Falling In Love (feat. Biig Piig & Lord Apex)",
         "url": "https://open.spotify.com/album/2VBu61hXA6zWAVw8uIORsk"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 231773,
       "name": "Don't You Go Falling In Love (feat. Biig Piig & Lord Apex)",
       "url": "https://open.spotify.com/track/3BHU5jiJoVTTR0zzhhCxSH"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
+      },
+      "artists": [
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        },
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+        }
+      ],
+      "duration_ms": 207830,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "duration_ms": 113052,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 352999,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym"
-      },
-      "artists": [
-        {
-          "name": "Tomike",
-          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
-        }
-      ],
-      "duration_ms": 113052,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Extinction",
-        "url": "https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04"
-      },
-      "artists": [
-        {
-          "name": "Sofia Grant",
-          "url": "https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI"
-        }
-      ],
-      "duration_ms": 291349,
-      "name": "Extinction",
-      "url": "https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Constellation A",
         "url": "https://open.spotify.com/album/1VSRmwbSPADRzGsxcLkfi0"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 202784,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4VLXVGAMvfoEBd1hzErJpS"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Extinction",
+        "url": "https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04"
+      },
+      "artists": [
+        {
+          "name": "Sofia Grant",
+          "url": "https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI"
+        }
+      ],
+      "duration_ms": 291349,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r"
     }
   ],
   "unique_name": "the night bus",

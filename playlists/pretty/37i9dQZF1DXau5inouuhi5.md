@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau5inouuhi5.md) - [plain]
 
 > Listen to music and soundtrack from Kingdom Hearts series\. PC\(Steam®\)版『キングダム ハーツ』シリーズ発売記念。シリーズ作品のサウンドトラックを聴いて作品の思い出を振り返ろう。 © Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,628 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,652 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau5inouuhi5.md) - [plain]
 | 82 | [Tension Rising \- Reaper's Revenge\-](https://open.spotify.com/track/0d36B2po4C123W5HX78H0a) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 3:57 |
 | 83 | [Unforgettable \- KINGDOM HEARTS III Version\-](https://open.spotify.com/track/7AohJ10yvoCJsprbHCrPrG) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 3:09 |
 | 84 | [Winnie the Pooh \- KINGDOM HEARTS III Version\-](https://open.spotify.com/track/4cx4iAdlkXY7nCPJx6hJdm) | [Richard M\. Sherman](https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb), [Robert B\. Sherman](https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 5:23 |
-| 85 | [Let It Go \- From "Frozen"](https://open.spotify.com/track/5snmD0y4G0RTLrPyGY9sOW) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 3:44 |
+| 85 | [Let It Go \- From "Frozen"](https://open.spotify.com/track/5snmD0y4G0RTLrPyGY9sOW) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 3:44 |
 | 86 | [Aqua \- Dark Dive\-](https://open.spotify.com/track/1b6xusmY5NOVhZvbH3phDw) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 3:59 |
 | 87 | [Enter the Darkness \- KINGDOM HEARTS III Version\-](https://open.spotify.com/track/6QXP9viX9hloVeCEjNEOZP) | [Takeharu Ishimoto](https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 5:42 |
 | 88 | [Dive into the Heart \-Destati\- \- Third Revival](https://open.spotify.com/track/2j3yOlepSULLJe5hCzEu8q) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \- III, II.8, Unchained χ & Union χ \[Cross\] – \(Original Soundtrack\)](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) | 5:30 |

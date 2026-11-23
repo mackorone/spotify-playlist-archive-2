@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 20th anniversary of Taylor Swift's debut album on 2000s Country!",
-  "num_followers": 1013334,
+  "num_followers": 1013440,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 269586,
-      "name": "Must Be Doin' Somethin' Right",
-      "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Live Like You Were Dying",
         "url": "https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 300333,
       "name": "Live Like You Were Dying",
       "url": "https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 269586,
+      "name": "Must Be Doin' Somethin' Right",
+      "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -511,18 +511,22 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Red Dirt Road",
-        "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 260360,
-      "name": "Red Dirt Road",
-      "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
+      "duration_ms": 298960,
+      "name": "Picture (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -543,22 +547,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Cocky",
-        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
+        "name": "Red Dirt Road",
+        "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 298960,
-      "name": "Picture (feat. Sheryl Crow)",
-      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
+      "duration_ms": 260360,
+      "name": "Red Dirt Road",
+      "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "I Wanna Talk About Me",
+      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
         "name": "Blake Shelton",
         "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
@@ -871,38 +887,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
       "artists": [
         {
           "name": "Kenny Chesney",
           "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
         }
       ],
-      "duration_ms": 290520,
-      "name": "When the Sun Goes Down",
-      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "I Wanna Talk About Me",
-      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -955,22 +951,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Blake Shelton",
         "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 230333,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 290520,
+      "name": "When the Sun Goes Down",
+      "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "It Won't Be Like This For Long",
+      "url": "https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
         "name": "Living Hard",
         "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 242946,
       "name": "Watching Airplanes",
       "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Forever And For Always",
-      "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 219000,
-      "name": "It Won't Be Like This For Long",
-      "url": "https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA"
+      "duration_ms": 283000,
+      "name": "Forever And For Always",
+      "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Blake Shelton's Barn & Grill",
-        "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Some Beach",
-      "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Learn To Live",
         "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 183306,
       "name": "Don't Think I Don't Think About It",
       "url": "https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Blake Shelton's Barn & Grill",
+        "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Some Beach",
+      "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 293600,
-      "name": "You\u2019ll Think Of Me",
-      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Up! (Green Version)",
         "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 269400,
       "name": "I'm Gonna Getcha Good",
       "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 293600,
+      "name": "You\u2019ll Think Of Me",
+      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Tim McGraw And The Dancehall Doctors",
-        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 283560,
-      "name": "Red Ragtop",
-      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Anything Goes",
         "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 170813,
       "name": "Boots On",
       "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Tim McGraw And The Dancehall Doctors",
+        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 283560,
+      "name": "Red Ragtop",
+      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1467,38 +1467,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Three Chord Country and American Rock & Roll",
-        "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
-      },
-      "artists": [
-        {
-          "name": "Keith Anderson",
-          "url": "https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Pickin' Wildflowers",
-      "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
-        "name": "Old Things New",
-        "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
-      },
-      "artists": [
-        {
-          "name": "Joe Nichols",
-          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Gimmie That Girl",
-      "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -1515,6 +1483,22 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
+        "name": "Three Chord Country and American Rock & Roll",
+        "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
+      },
+      "artists": [
+        {
+          "name": "Keith Anderson",
+          "url": "https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Pickin' Wildflowers",
+      "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
         "name": "Keep On Loving You",
         "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 220106,
       "name": "Consider Me Gone",
       "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Old Things New",
+        "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
+      },
+      "artists": [
+        {
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Gimmie That Girl",
+      "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Ain't Nothing 'Bout You",
-      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Greatest Hits Volume III - I'm A Survivor",
         "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 220186,
       "name": "Brand New Girlfriend",
       "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Ain't Nothing 'Bout You",
+      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "My Next Thirty Years",
-      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 210933,
       "name": "Good Morning Beautiful",
       "url": "https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "My Next Thirty Years",
+      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Smoke Rings In The Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 257646,
-      "name": "Smoke Rings In The Dark",
-      "url": "https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Modern Day Drifter",
-        "url": "https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG"
+        "name": "Smoke Rings In The Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
         }
       ],
-      "duration_ms": 281973,
-      "name": "Come A Little Closer",
-      "url": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
+      "duration_ms": 257646,
+      "name": "Smoke Rings In The Dark",
+      "url": "https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1791,6 +1775,22 @@
       "duration_ms": 230280,
       "name": "Who Says You Can't Go Home",
       "url": "https://open.spotify.com/track/5439qJTu5mVH9aeriwp03u"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Modern Day Drifter",
+        "url": "https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 281973,
+      "name": "Come A Little Closer",
+      "url": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Lady Antebellum",
-        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Love Don't Live Here",
-      "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
+      "duration_ms": 236000,
+      "name": "Making Memories Of Us",
+      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1863,34 +1863,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
+        "name": "Lady Antebellum",
+        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Making Memories Of Us",
-      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
-    },
-    {
-      "added_at": "2026-10-24 04:00:14",
-      "album": {
-        "name": "Rascal Flatts",
-        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Prayin' For Daylight",
-      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
+      "duration_ms": 230400,
+      "name": "Love Don't Live Here",
+      "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1907,6 +1891,22 @@
       "duration_ms": 196706,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
+    },
+    {
+      "added_at": "2026-10-24 04:00:14",
+      "album": {
+        "name": "Rascal Flatts",
+        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Prayin' For Daylight",
+      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
+        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
       },
       "artists": [
         {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+      "duration_ms": 201120,
+      "name": "Free And Easy (Down The Road I Go)",
+      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
     },
     {
       "added_at": "2026-10-24 04:00:14",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2026-10-24 04:00:14",
       "album": {
-        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
-        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Free And Easy (Down The Road I Go)",
-      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
     },
     {
       "added_at": "2026-10-24 04:00:14",

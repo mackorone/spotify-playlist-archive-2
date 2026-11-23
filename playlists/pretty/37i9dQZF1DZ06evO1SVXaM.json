@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3605484,
+  "num_followers": 3605753,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAB74URxJ2Misr9WasZ7tZO4",
+  "snapshot_id": "awDfAAAAAAANoqsGH9t6RdcBSE+jVkm7",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 296560,
-      "name": "Whatever Happens",
-      "url": "https://open.spotify.com/track/4fK6bgzyKt4EIv3R1wrUtl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Michael",
         "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 212226,
       "name": "Hold My Hand (with Akon)",
       "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 296560,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/4fK6bgzyKt4EIv3R1wrUtl"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 386373,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 344185,
       "name": "Stranger in Moscow",
       "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 386373,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 335133,
-      "name": "A Place With No Name",
-      "url": "https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 277842,
       "name": "Scream",
       "url": "https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 335133,
+      "name": "A Place With No Name",
+      "url": "https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S"
     },
     {
       "added_at": null,

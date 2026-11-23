@@ -4,7 +4,7 @@
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-139 songs - 8 hr 6 min
+140 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,13 @@
 | [Camino de Guanajuato](https://open.spotify.com/track/2XzgEjNt8dnL53FUh8ozqX) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 3:14 | 2024-01-05 | 2026-09-25 |
 | [Camino de Guanajuato](https://open.spotify.com/track/5vMlfIViEycvmS2lAa8Gpj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm) | 3:14 | 2023-03-10 | 2024-01-06 |
 | [CASTIGO](https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Aguachile](https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp) | 3:02 | 2025-06-03 |  |
-| [China De Los Ojos Negros](https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [China De Los Ojos Negros](https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK) | 2:34 | 2026-04-24 |  |
+| [China De Los Ojos Negros](https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [China De Los Ojos Negros](https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK) | 2:34 | 2026-04-24 | 2026-11-23 |
 | [Cielito Lindo \- Live](https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cielito Lindo \(Live\)](https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B) | 3:26 | 2026-09-06 | 2026-10-03 |
 | [Cielo Rojo](https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:55 | 2024-01-10 |  |
 | [Cielo Rojo](https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:55 | 2023-03-10 | 2024-01-11 |
 | [Como la Flor](https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:56 | 2024-01-05 | 2025-12-22 |
 | [Como la Flor](https://open.spotify.com/track/7bZ50bzuhzhOoNomJPq5xr) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:56 | 2023-03-10 | 2024-01-06 |
+| [Contigo A La Distancia \- Live](https://open.spotify.com/track/36IWQ1xm51dx3ksm7FZ05r) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Los Aguilar Sinfónico Desde El Hollywood Bowl \(Live\)](https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7) | 3:53 | 2026-11-23 |  |
 | [Contigo En La Distancia](https://open.spotify.com/track/1keRDIpM0Kv4wHE5sjuBpy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 | 2024-02-04 | 2024-05-16 |
 | [Corazón De Piedra](https://open.spotify.com/track/10oBqwLXOzXYUWpqhODyN8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Corazón De Piedra](https://open.spotify.com/album/44aY7PghA7MIdWvwvgdfn6) | 2:40 | 2025-05-18 | 2025-06-23 |
 | [Corazón De Piedra](https://open.spotify.com/track/39mVA9QegitCKVdSxTEvij) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 2:40 | 2025-06-23 |  |

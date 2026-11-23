@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 395786,
+  "num_followers": 397278,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAA6q25LzFUxkcFEEBZl9JnD",
+  "snapshot_id": "awDfAAAAAACpD9Y+JjbsFDfjirtkWyzg",
   "tracks": [
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn It All Down",
-        "url": "https://open.spotify.com/album/75CPtRKAed4edoPl3xVAOF"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "Burn It All Down",
-      "url": "https://open.spotify.com/track/4Xf9GooVicwy15aJakqVHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/3U6YzAtW7RSciUyfUw9xxo"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 249306,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/3UEwPrMwvnqXs2nv4yDwTm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn It All Down",
+        "url": "https://open.spotify.com/album/75CPtRKAed4edoPl3xVAOF"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Burn It All Down",
+      "url": "https://open.spotify.com/track/4Xf9GooVicwy15aJakqVHH"
     },
     {
       "added_at": null,

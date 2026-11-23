@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,228 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,311 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 9 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 |
 | 10 | [THAT GIRL!](https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [THAT GIRL!](https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d) | 2:12 |
 | 11 | [MCBH](https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:50 |
-| 12 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 |
-| 13 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 |
-| 14 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 |
+| 12 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 |
+| 13 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 |
+| 14 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 |
 | 15 | [Wa](https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:23 |
 | 16 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
 | 17 | [Bandana](https://open.spotify.com/track/2qWwuCVeMjF9mUT0S5Iqvl) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 49 | [New Religion](https://open.spotify.com/track/0U6EtYtNKv8t3o9cjniLn2) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:33 |
 | 50 | [Uhh Yeahh](https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:24 |
 
-Snapshot ID: `av48AAAAAACEANuasmnQNbYnScLNS2M8`
+Snapshot ID: `awDfAAAAAADpyzdhC1EpUKmwUgs5BYNz`

@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-494 songs - 22 hr 53 min
+495 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Ei runde til](https://open.spotify.com/track/660vI3gYDKGe8p3hEfNvwT) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Ei runde til](https://open.spotify.com/album/5Ik0lJYyGxtPu3OaKkwh4B) | 3:56 | 2021-12-16 | 2022-07-23 |
 | [Ei runde til](https://open.spotify.com/track/0xjKyw8MYQY33BlY9bvqCS) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:56 | 2023-11-02 | 2024-04-19 |
 | [Ei tid \- Akustisk versjon](https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT), [Synne](https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d) | [Ei tid \(Akustisk versjon\)](https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF) | 4:02 | 2021-12-16 | 2024-10-20 |
-| [Ein song som finst](https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ein song som finst](https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L) | 3:30 | 2026-06-04 |  |
+| [Ein song som finst](https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ein song som finst](https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L) | 3:30 | 2026-06-04 | 2026-11-23 |
 | [Elektrisk](https://open.spotify.com/track/0mQOTQHZ64Xojgf7ypkrKh) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Elektrisk](https://open.spotify.com/album/40IR6P8ox7OUd6MK1uciEE) | 2:23 | 2026-01-15 |  |
 | [En birra har aldrig](https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En birra har aldrig](https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r) | 2:27 | 2023-12-08 | 2024-06-17 |
 | [En drikkesang](https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [En drikkesang](https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl) | 2:14 | 2023-04-06 | 2023-06-29 |
@@ -292,6 +292,7 @@
 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/5GPa945q93slwVFDuNgtMs) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/4xAMXHwSNXIej5EYS2xUyO) | 3:06 | 2021-12-16 | 2022-07-28 |
 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 | 2022-10-13 |  |
 | [La dagen vare evig](https://open.spotify.com/track/1NKmAhNvaG6ulJigH0OGmM) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [La dagen vare evig](https://open.spotify.com/album/4PPAKvkRBdeinL78cEwE3N) | 3:16 | 2021-12-16 | 2022-10-16 |
+| [La Dunken Gå](https://open.spotify.com/track/03kcRexSoDn2YIrA28doRk) | [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [La Dunken Gå](https://open.spotify.com/album/07FbVZ878A4lQ1Ofg5Z2bb) | 2:40 | 2026-11-19 |  |
 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 | 2023-06-29 | 2023-11-11 |
 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 | 2024-10-17 |  |
 | [Laurdage E Finast](https://open.spotify.com/track/5XeBSNBsxRo3t0lykbipvA) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Fyrste Reis](https://open.spotify.com/album/5z5ne4Grnz5hCVMkTJK6p7) | 2:53 | 2022-02-03 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,399 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,420 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,29 +34,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 24 | [The World Has Turned And Left Me Here](https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:19 |
 | 25 | [You Might Think \- From "Cars 2"/Soundtrack Version](https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 3:07 |
 | 26 | [El Scorcho](https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 4:03 |
-| 27 | [C.E.O.](https://open.spotify.com/track/54PZb3vuZg0wjTdKElQzHU) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:54 |
-| 28 | [You Gave Your Love To Me Softly](https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 1:58 |
+| 27 | [You Gave Your Love To Me Softly](https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 1:58 |
+| 28 | [C.E.O.](https://open.spotify.com/track/54PZb3vuZg0wjTdKElQzHU) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:54 |
 | 29 | [Africa](https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:58 |
 | 30 | [O Girlfriend](https://open.spotify.com/track/1EYwaLwf6fdS3NIlTbUZ3X) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:49 |
-| 31 | [Don't Make It Weird](https://open.spotify.com/track/3BKT8czKVNprINS9cJoBxy) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:49 |
-| 32 | [Devotion](https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 3:11 |
+| 31 | [Devotion](https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 3:11 |
+| 32 | [Don't Make It Weird](https://open.spotify.com/track/3BKT8czKVNprINS9cJoBxy) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:49 |
 | 33 | [Happy Together](https://open.spotify.com/track/3KxOYNt66Hj42HzO7ao0CV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 2:25 |
 | 34 | [Photograph](https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:19 |
-| 35 | [Shine Again](https://open.spotify.com/track/2dxTgb1knMXCt0AzRnFR0C) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 4:05 |
-| 36 | [Troublemaker](https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 2:44 |
+| 35 | [Troublemaker](https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 2:44 |
+| 36 | [Shine Again](https://open.spotify.com/track/2dxTgb1knMXCt0AzRnFR0C) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 4:05 |
 | 37 | [Keep Fishin'](https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:52 |
-| 38 | [Lost in the Woods \- Weezer Version](https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:05 |
-| 39 | [Up In the Clouds](https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:39 |
-| 40 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 |
+| 38 | [Lost in the Woods \- Weezer Version](https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:05 |
+| 39 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 |
+| 40 | [Up In the Clouds](https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:39 |
 | 41 | [Take on Me](https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:43 |
 | 42 | [Dope Nose](https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:17 |
-| 43 | [I've Had It Up To Here](https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 2:49 |
-| 44 | [Knockdown Dragout](https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:08 |
-| 45 | [A Little Bit of Love](https://open.spotify.com/track/0JW1mKemtn6krfNC2rXhec) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 2:44 |
+| 43 | [Knockdown Dragout](https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:08 |
+| 44 | [A Little Bit of Love](https://open.spotify.com/track/0JW1mKemtn6krfNC2rXhec) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 2:44 |
+| 45 | [I've Had It Up To Here](https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 2:49 |
 | 46 | [\(If You're Wondering If I Want You To\) I Want You To](https://open.spotify.com/track/09aDV0TC2RfWFU5IwZfIdG) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Raditude \(Deluxe\)](https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF) | 3:28 |
 | 47 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 4:04 |
 | 48 | [Burndt Jamb](https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:38 |
 | 49 | [Waiting On You](https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 4:11 |
 | 50 | [Aloo Gobi](https://open.spotify.com/track/6rSJz9u8Y9xixsh5fKu9hV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:03 |
 
-Snapshot ID: `av48AAAAAAAyBSvGhvxv6qt1dcvjZ2+d`
+Snapshot ID: `awDfAAAAAACb2ho3ovNg7HXauWvEsrtL`

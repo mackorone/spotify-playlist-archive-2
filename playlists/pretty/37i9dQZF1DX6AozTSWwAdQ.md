@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,915 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,913 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 28 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
 | 29 | [Lost In The Wild](https://open.spotify.com/track/0M1A9wInEHilyWkh4I8tWo) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [What If Nothing](https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg) | 3:55 |
 | 30 | [Broken & Beautiful](https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Broken & Beautiful](https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj) | 3:38 |
-| 31 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 |
+| 31 | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 |
 | 32 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 |
-| 33 | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 |
+| 33 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 |
 | 34 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 |
 | 35 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 |
 | 36 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 69 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 |
 | 70 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 |
 | 71 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
-| 72 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
-| 73 | [why are you here](https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [why are you here](https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs) | 2:55 |
+| 72 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
+| 73 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
 | 74 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:50 |
-| 75 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
+| 75 | [why are you here](https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [why are you here](https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs) | 2:55 |
 
 Snapshot ID: `AAAAABw1Qhs3gGq3e8HYD6YKgikMcJSU`

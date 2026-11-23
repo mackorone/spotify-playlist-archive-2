@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ENHYPEN\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,825 likes - 134 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,845 likes - 134 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

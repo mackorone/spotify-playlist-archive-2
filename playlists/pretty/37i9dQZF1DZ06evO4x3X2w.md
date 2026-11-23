@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,570 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,620 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dream On](https://open.spotify.com/track/5Ih9gbqyxCzTJ43nuSuKnC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr) | 4:27 |
 | 2 | [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 |
 | 3 | [Crazy](https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:16 |
-| 4 | [Sweet Emotion](https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 |
-| 5 | [I Don't Want To Miss A Thing \- Pop Mix](https://open.spotify.com/track/1xEEN1FMnnrJmdhbCWXCQj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best Of Aerosmith](https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX) | 4:27 |
+| 4 | [I Don't Want To Miss A Thing \- Pop Mix](https://open.spotify.com/track/1xEEN1FMnnrJmdhbCWXCQj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best Of Aerosmith](https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX) | 4:27 |
+| 5 | [Sweet Emotion](https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 |
 | 6 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 | 7 | [Cryin'](https://open.spotify.com/track/4t1fWWJQs5V9YErfsrDslC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:08 |
-| 8 | [Walk This Way](https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:40 |
-| 9 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 |
+| 8 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 |
+| 9 | [Walk This Way](https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:40 |
 | 10 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 |
 | 11 | [Amazing](https://open.spotify.com/track/60a5c4dDARPsksClcom0OD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:55 |
 | 12 | [Hole In My Soul](https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 6:10 |
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 30 | [Falling In Love \(Is Hard On The Knees\)](https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 3:25 |
 | 31 | [Eat The Rich](https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 4:10 |
 | 32 | [Train Kept a Rollin'](https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 5:33 |
-| 33 | [Mama Kin](https://open.spotify.com/track/0Ru1qTLPUcwZ8LR1QktXQ0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr) | 4:29 |
-| 34 | [A Thousand Days](https://open.spotify.com/track/5E5I4rpBQeJehV2EtNqzrQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/5V12ap591SmtretgcunhiO) | 3:57 |
+| 33 | [A Thousand Days](https://open.spotify.com/track/5E5I4rpBQeJehV2EtNqzrQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/5V12ap591SmtretgcunhiO) | 3:57 |
+| 34 | [Mama Kin](https://open.spotify.com/track/0Ru1qTLPUcwZ8LR1QktXQ0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/0ocLl8oBd8kOqNsViTVVAr) | 4:29 |
 | 35 | [Deuces Are Wild](https://open.spotify.com/track/4viUMIPk61pIvWUNDl0u4M) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 3:35 |
 | 36 | [Toys In The Attic](https://open.spotify.com/track/4e4ukCLCov1UYoup2SdRHB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:05 |
-| 37 | [Cryin' \- Live Version](https://open.spotify.com/track/6LIudS7VLqRA0GgzGQTiyt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [A Little South Of Sanity](https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P) | 5:10 |
-| 38 | [Problems](https://open.spotify.com/track/6w6Uga7PRc63IMJAuVDdLj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/5V12ap591SmtretgcunhiO) | 4:22 |
+| 37 | [Problems](https://open.spotify.com/track/6w6Uga7PRc63IMJAuVDdLj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/5V12ap591SmtretgcunhiO) | 4:22 |
+| 38 | [Cryin' \- Live Version](https://open.spotify.com/track/6LIudS7VLqRA0GgzGQTiyt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [A Little South Of Sanity](https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P) | 5:10 |
 | 39 | [The Other Side \- Single Version](https://open.spotify.com/track/2fcRBvP5G8mlJiTPXnfmE2) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 4:04 |
 | 40 | [No More No More](https://open.spotify.com/track/7a9b2uPIeLUynTk6zmqacV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 |
 | 41 | [Water Song/Janie's Got A Gun](https://open.spotify.com/track/5XPDEg7yZT893Ocru6IEph) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 49 | [Sick As A Dog](https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 4:12 |
 | 50 | [Adam's Apple](https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:33 |
 
-Snapshot ID: `av48AAAAAABH+nlUMBRGTVKkCvAhHgEd`
+Snapshot ID: `awDfAAAAAABHVkn7dp055tq7IlO6SIzr`

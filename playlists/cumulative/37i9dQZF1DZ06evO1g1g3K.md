@@ -4,7 +4,7 @@
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 34 min
+72 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Homage](https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [B\-Boys Blues \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ) | 2:53 | 2026-02-26 | 2026-06-22 |
 | [Homesick](https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:44 | 2026-05-11 |  |
 | [I Like It](https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN) | [Terrell Grice](https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [The Terrell One Million Show](https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1) | 4:51 | 2026-02-26 |  |
+| [I Swear We're Friends Theme](https://open.spotify.com/track/4YSzIqIQpDNOL7RhDoLXV4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [I Swear We're Friends Theme](https://open.spotify.com/album/1rHGDK2m1sNoCFtHzmTa5B) | 0:58 | 2026-11-23 |  |
 | [Jump](https://open.spotify.com/track/4x54v9wLiL2mHmKVcyPIcH) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:23 | 2026-02-26 |  |
 | [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 | 2026-02-26 |  |
 | [Leveled](https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 5:53 | 2026-02-26 |  |
@@ -63,7 +64,7 @@
 | [RIVER](https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:09 | 2026-05-03 | 2026-07-15 |
 | [Rollin’](https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:38 | 2026-02-26 |  |
 | [Sam’s Vibe](https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Unblocked](https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5) | 5:15 | 2026-02-26 |  |
-| [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 | 2026-02-26 |  |
+| [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 | 2026-02-26 | 2026-11-23 |
 | [Self Aware](https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [EP 8](https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4) | 3:04 | 2026-02-26 |  |
 | [SHARP!](https://open.spotify.com/track/03uiW6i8PvidJ8zTHrIKKn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:47 | 2026-05-03 | 2026-05-09 |
 | [sleep](https://open.spotify.com/track/1GEvQvw4CY8qski1ziNFCK) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:12 | 2026-05-03 | 2026-05-11 |

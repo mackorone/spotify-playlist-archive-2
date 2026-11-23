@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: BOWKYLION
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,025 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,103 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

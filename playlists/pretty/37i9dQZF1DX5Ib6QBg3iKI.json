@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 145041,
+  "num_followers": 145042,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "This Christmas - Songs From The Motion Picture",
         "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 197560,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -423,8 +423,8 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "The Lighthouse Keeper",
-        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
+        "name": "Night Before Christmas",
+        "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 247493,
-      "name": "The Lighthouse Keeper",
-      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
+      "duration_ms": 216220,
+      "name": "Night Before Christmas",
+      "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -451,22 +451,6 @@
       "duration_ms": 191640,
       "name": "The Christmas Song (Merry Christmas To You) - Remastered 1999",
       "url": "https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Real Love - From the John Lewis Christmas Advert 2014",
-      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -491,6 +475,22 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Real Love - From the John Lewis Christmas Advert 2014",
+      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
         "name": "Loneliest Time Of Year",
         "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
       },
@@ -507,8 +507,8 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Night Before Christmas",
-        "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
+        "name": "The Lighthouse Keeper",
+        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 216220,
-      "name": "Night Before Christmas",
-      "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
+      "duration_ms": 247493,
+      "name": "The Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "This Christmas Day",
-        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "This Christmas Day",
-      "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 172266,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "This Christmas Day",
+        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "This Christmas Day",
+      "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
-        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 181469,
-      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
-      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "Home Alone, Too",
         "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
+        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
+        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 164600,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
+      "duration_ms": 181469,
+      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -735,18 +719,18 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 117000,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+      "duration_ms": 164600,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -763,6 +747,22 @@
       "duration_ms": 250826,
       "name": "A Winter's Tale",
       "url": "https://open.spotify.com/track/0KIxURk1JUhsf0UC7OgTbA"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "For Those Who Can't Be Here",
-        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 183079,
-      "name": "For Those Who Can't Be Here",
-      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "Driving Home For Christmas",
         "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 183556,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "For Those Who Can't Be Here",
+        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 183079,
+      "name": "For Those Who Can't Be Here",
+      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Together In Electric Dreams",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "A Dreamer's Holiday",
         "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 180585,
       "name": "A Dreamer's Holiday",
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "Together In Electric Dreams",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "Last December (Mountain Music version)",
         "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 335555,
       "name": "Last December (Mountain Music version)",
       "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Make It Home",
-        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 179309,
-      "name": "Make It Home",
-      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
+      "duration_ms": 221906,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
+        "name": "Make It Home",
+        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179309,
+      "name": "Make It Home",
+      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
         "name": "Holidays Rule",
         "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 191378,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "christmas day",
         "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 161324,
       "name": "christmas day",
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 191378,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
     },
     {
       "added_at": "2025-12-22 16:18:07",

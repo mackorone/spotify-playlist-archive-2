@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Karen Lizarazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,567 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,568 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 38 | [Por Ella](https://open.spotify.com/track/61BoBnTname2M5evtYyU6k) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Mis Favoritas](https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh) | 4:39 |
 | 39 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 | 40 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 |
-| 41 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
-| 42 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 |
-| 43 | [DÉJALO EN VISTO](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DÉJALO EN VISTO](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 |
+| 41 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 |
+| 42 | [DÉJALO EN VISTO](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DÉJALO EN VISTO](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 |
+| 43 | [Soledad](https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 4:45 |
 | 44 | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8) | 3:59 |
 | 45 | [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 |
 | 46 | [Dime Que Ves](https://open.spotify.com/track/3hL8TU1LlIx53LwH81O3zl) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [LuisRa](https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY) | [De Amor](https://open.spotify.com/album/5AwXkrPz1SIt86WkdWjD9w) | 3:00 |

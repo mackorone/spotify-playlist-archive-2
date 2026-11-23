@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 392265,
+  "num_followers": 392268,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Cold Little Heart (Radio Edit)",
         "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 208653,
       "name": "State Lines",
       "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 223760,
       "name": "I've Got You Under My Skin - Remastered 1998",
       "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 217240,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -1359,18 +1343,34 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Overjoyed",
-      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
+      "duration_ms": 217053,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Donny Hathaway",
+        "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 325946,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Donny Hathaway",
-        "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 325946,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr"
+      "duration_ms": 222586,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Miss Perfumado",
-        "url": "https://open.spotify.com/album/5LE8mIQM8P56GWuJa2xQBP"
-      },
-      "artists": [
-        {
-          "name": "Ces\u00e1ria Evora",
-          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
-        }
-      ],
-      "duration_ms": 294560,
-      "name": "Sodade",
-      "url": "https://open.spotify.com/track/7smlUb2mNCifTct24UeSsA"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Miss Perfumado",
+        "url": "https://open.spotify.com/album/5LE8mIQM8P56GWuJa2xQBP"
+      },
+      "artists": [
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "duration_ms": 294560,
+      "name": "Sodade",
+      "url": "https://open.spotify.com/track/7smlUb2mNCifTct24UeSsA"
     },
     {
       "added_at": "2026-08-20 15:24:38",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-08-20 15:24:38",
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344346,
-      "name": "Really Love",
-      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
-    },
-    {
-      "added_at": "2026-08-20 15:24:38",
-      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 293767,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/5yr8pi3uCjTYOnTqstBBdm"
+    },
+    {
+      "added_at": "2026-08-20 15:24:38",
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
     }
   ],
   "unique_name": "Cena con Amigos",

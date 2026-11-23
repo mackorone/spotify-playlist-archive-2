@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,823 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,847 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 31 | [10% \(feat\. Kali Uchis\)](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 32 | [Just A Stranger \(feat\. Steve Lacy\)](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:57 |
 | 33 | [Love Between...](https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:35 |
-| 34 | [Y si peleamos](https://open.spotify.com/track/1n1YwfUBT9bwvtL1NjHIMY) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Soy un fatalista](https://open.spotify.com/album/5Ggkzq2WtTf1EV1yFWTWmd) | 3:12 |
-| 35 | [No Hay Ley Parte 2 \(with Rauw Alejandro\)](https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:08 |
-| 36 | [Territorial](https://open.spotify.com/track/6PKoUpo9sis5LWkMXSck6f) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:14 |
+| 34 | [No Hay Ley Parte 2 \(with Rauw Alejandro\)](https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:08 |
+| 35 | [Y si peleamos](https://open.spotify.com/track/1n1YwfUBT9bwvtL1NjHIMY) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Soy un fatalista](https://open.spotify.com/album/5Ggkzq2WtTf1EV1yFWTWmd) | 3:12 |
+| 36 | [Lose My Cool,](https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 5:56 |
 | 37 | [Moral Conscience](https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:32 |
 | 38 | [angel](https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:23 |
 | 39 | [Diosa](https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:36 |
-| 40 | [Lose My Cool,](https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 5:56 |
+| 40 | [Territorial](https://open.spotify.com/track/6PKoUpo9sis5LWkMXSck6f) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:14 |
 | 41 | [no eres tu\(soy yo\)](https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:01 |
 | 42 | [Loner](https://open.spotify.com/track/7fHc0DVow5aPLSblrrDFFH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn) | 3:32 |
 | 43 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/0K02o2ZV5UCJbbCw67FtaY) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
-| 44 | [Tyrant \(feat\. Jorja Smith\)](https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:24 |
+| 44 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 |
 | 45 | [la luz\(Fín\)](https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:00 |
-| 46 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 |
+| 46 | [Tyrant \(feat\. Jorja Smith\)](https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:24 |
 | 47 | [Lottery](https://open.spotify.com/track/10JsYPcjhsD9nwTuk51Jtb) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn) | 3:26 |
 | 48 | [Dame Beso // Muévete](https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:35 |
 | 49 | [de nadie](https://open.spotify.com/track/7lm2mLylLoEjPiqGgcnhSY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:59 |
 | 50 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 |
 
-Snapshot ID: `av48AAAAAADvoEswXXGBYdpivdcw0Bio`
+Snapshot ID: `awDfAAAAAAD770IBUEGSsADbPaK0+X1u`

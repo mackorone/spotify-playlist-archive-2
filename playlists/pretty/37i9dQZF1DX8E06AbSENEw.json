@@ -523,22 +523,6 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 298940,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
-    },
-    {
-      "added_at": "2026-11-16 23:00:04",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -587,6 +571,22 @@
       "duration_ms": 267866,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "added_at": "2026-11-16 23:00:04",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -739,22 +739,18 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "The Papercut Chronicles II",
-        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
       "artists": [
         {
-          "name": "Gym Class Heroes",
-          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
         }
       ],
-      "duration_ms": 210960,
-      "name": "Stereo Hearts (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -775,18 +771,22 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+        "name": "The Papercut Chronicles II",
+        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
       "artists": [
         {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+          "name": "Gym Class Heroes",
+          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
         }
       ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+      "duration_ms": 210960,
+      "name": "Stereo Hearts (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211477,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
-    },
-    {
-      "added_at": "2026-11-16 23:00:04",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2026-11-16 23:00:04",
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211477,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -967,22 +967,18 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Hey, Soul Sister",
-      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
-    },
-    {
-      "added_at": "2026-11-16 23:00:04",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 267066,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "added_at": "2026-11-16 23:00:04",
+      "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 239835,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
-    },
-    {
-      "added_at": "2026-11-16 23:00:04",
-      "album": {
         "name": "Hurry up, We're Dreaming",
         "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG"
       },
@@ -1155,18 +1139,38 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+      "duration_ms": 239835,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
+    },
+    {
+      "added_at": "2026-11-16 23:00:04",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -1191,22 +1195,18 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "Queen Of The Clouds",
-        "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Habits (Stay High)",
-      "url": "https://open.spotify.com/track/18AJRdgUoO9EYn11N7xzaT"
-    },
-    {
-      "added_at": "2026-11-16 23:00:04",
-      "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 205920,
       "name": "no tears left to cry",
       "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2026-11-16 23:00:04",
+      "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Habits (Stay High)",
+      "url": "https://open.spotify.com/track/18AJRdgUoO9EYn11N7xzaT"
     },
     {
       "added_at": "2026-11-16 23:00:04",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-11-16 23:00:04",
       "album": {
-        "name": "It Ain't Me (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 220780,
-      "name": "It Ain't Me (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
-    },
-    {
-      "added_at": "2026-11-16 23:00:04",
-      "album": {
         "name": "Pure Heroine",
         "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 214477,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2026-11-16 23:00:04",
+      "album": {
+        "name": "It Ain't Me (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 220780,
+      "name": "It Ain't Me (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
     },
     {
       "added_at": "2026-11-16 23:00:04",

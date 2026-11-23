@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av6U/AAAAACVH/FImp9AJJtDz38tHW/m",
+  "snapshot_id": "awKzwgAAAABvUqfN9wQKXyZZMdY7qIqH",
   "tracks": [
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -25,39 +25,7 @@
       "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "My System",
-        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "My System",
-      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "SMILE! :D plus+",
         "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
@@ -77,7 +45,39 @@
       "url": "https://open.spotify.com/track/6iXAhlrnNaDDtlSTYDknex"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "My System",
+        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
@@ -93,39 +93,7 @@
       "url": "https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "SMILE! :D plus+",
         "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
@@ -149,23 +117,7 @@
       "url": "https://open.spotify.com/track/30yAfOVE1WX1Mx1O42cYyb"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 168932,
-      "name": "Cobra",
-      "url": "https://open.spotify.com/track/3x5sJRwedyGUd8KBMCdT5C"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
@@ -181,10 +133,10 @@
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
       },
       "artists": [
         {
@@ -192,12 +144,44 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Hits Different",
-      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/3x5sJRwedyGUd8KBMCdT5C"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
@@ -213,7 +197,23 @@
       "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/4jCKLCyhHjrzz6be6NDhrd"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "SMILE! :D plus+",
         "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
@@ -253,23 +253,7 @@
       "url": "https://open.spotify.com/track/55ctAyU5xiA9SlvGP5BF3G"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 206164,
-      "name": "Cleveland!",
-      "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
@@ -285,39 +269,7 @@
       "url": "https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/1a9dUxIQ2ehPH3992H9uPe"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 188531,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
@@ -337,7 +289,39 @@
       "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/1a9dUxIQ2ehPH3992H9uPe"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/5ZbztTcvj6QWWbeYsL4GTa"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "SMILE! :D plus+",
         "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
@@ -357,7 +341,23 @@
       "url": "https://open.spotify.com/track/5yWkhdMm2B2z5zroAbUjMD"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "Tina Tuesday Freestyles",
         "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/6cfxALbtuiIRdrfWCEDGvK"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "BFF4L",
         "url": "https://open.spotify.com/album/6B5342B1G89XZDE5SHtifl"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/4X5ehjVxyaUhdt3dYEldDK"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "REVAMPED",
         "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
@@ -409,23 +409,23 @@
       "url": "https://open.spotify.com/track/1AozLLbKi1kIKMUbY3Xk7o"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
-        "name": "Unloveu",
-        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 232527,
-      "name": "Unloveu",
-      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
+      "duration_ms": 206164,
+      "name": "Cleveland!",
+      "url": "https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
@@ -441,7 +441,39 @@
       "url": "https://open.spotify.com/track/2XPcvUXnI7vIkeqLdGeuDU"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
+      "album": {
+        "name": "Unloveu",
+        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 232527,
+      "name": "Unloveu",
+      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
+    },
+    {
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
@@ -461,43 +493,7 @@
       "url": "https://open.spotify.com/track/22WFoPT9VIJlZ0VcJVkCpm"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172001,
-      "name": "nowhere, nobody",
-      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
-      "album": {
-        "name": "SMILE! :D plus+",
-        "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        },
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Cheerleader - Nitepunk Remix",
-      "url": "https://open.spotify.com/track/5FWnK7XmjrzXLUWzs534YT"
-    },
-    {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
@@ -513,20 +509,20 @@
       "url": "https://open.spotify.com/track/0tUOb8dxvSUhOvZ1stJm2v"
     },
     {
-      "added_at": "2026-11-19 06:19:40",
+      "added_at": "2026-11-22 09:20:02",
       "album": {
-        "name": "Retrovision",
-        "url": "https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh"
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
       },
       "artists": [
         {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 187679,
-      "name": "Are You Impressed?",
-      "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
     }
   ],
   "unique_name": "On Repeat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 
 > This is Phoebe Bridgers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,378 likes - 38 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,459 likes - 38 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 21 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 22 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 |
 | 23 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
-| 24 | [On Video](https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Primetime \(Original Soundtrack\)](https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX) | 3:31 |
-| 25 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 |
+| 24 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 |
+| 25 | [On Video](https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Primetime \(Original Soundtrack\)](https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX) | 3:31 |
 | 26 | [Smoke Signals](https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:23 |
 | 27 | [Savior Complex](https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:01 |
 | 28 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 37 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
 | 38 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
 
-Snapshot ID: `av48AAAAAADvbzucJQhgV1k2dWxuQBZq`
+Snapshot ID: `awDfAAAAAACRbsoWDeakTQjNJX2aPSn3`

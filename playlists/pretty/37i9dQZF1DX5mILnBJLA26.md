@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves right now\.  Cover: MDU aka TRP
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,959 likes - 60 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,299,247 likes - 60 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

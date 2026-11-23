@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 > Cozy Christmas piano and a crackling log fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,297 likes - 68 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,787 likes - 68 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

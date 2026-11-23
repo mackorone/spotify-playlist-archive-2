@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11588,
+  "num_followers": 11587,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Gdzie m\u00f3j dom?",
+        "url": "https://open.spotify.com/album/3ex3T8zjsgKoSP9ajrXv2l"
+      },
+      "artists": [
+        {
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Gdzie m\u00f3j dom?",
+      "url": "https://open.spotify.com/track/27b2Zk06wjXGyn3vGsmeJQ"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 163278,
       "name": "kyoto",
       "url": "https://open.spotify.com/track/0opYvODIONdV6edM316xO8"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Gdzie m\u00f3j dom?",
-        "url": "https://open.spotify.com/album/3ex3T8zjsgKoSP9ajrXv2l"
-      },
-      "artists": [
-        {
-          "name": "Young Multi",
-          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Gdzie m\u00f3j dom?",
-      "url": "https://open.spotify.com/track/27b2Zk06wjXGyn3vGsmeJQ"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "LET'S DANCE MIXTAPE",
-        "url": "https://open.spotify.com/album/7bITUtLMeiSWGM6RzZjpu6"
-      },
-      "artists": [
-        {
-          "name": "AG",
-          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
-        },
-        {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
-        }
-      ],
-      "duration_ms": 124833,
-      "name": "STYL POPPIN",
-      "url": "https://open.spotify.com/track/2ifECaZoMt964XTfJpfKOe"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "kiedy by\u0142em ale to house",
         "url": "https://open.spotify.com/album/2mxKYP9uC0exnzfuozaax1"
       },
@@ -1107,6 +1087,50 @@
       "duration_ms": 169000,
       "name": "kiedy by\u0142em ale to house",
       "url": "https://open.spotify.com/track/3fF3RKOiMgMtCpPqdF3xdA"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Wytrych",
+        "url": "https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a"
+      },
+      "artists": [
+        {
+          "name": "W.E.N.A.",
+          "url": "https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF"
+        },
+        {
+          "name": "Amatowsky",
+          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
+        },
+        {
+          "name": "Dj Qmak",
+          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "K-R-\u00d3-L",
+      "url": "https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "LET'S DANCE MIXTAPE",
+        "url": "https://open.spotify.com/album/7bITUtLMeiSWGM6RzZjpu6"
+      },
+      "artists": [
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "duration_ms": 124833,
+      "name": "STYL POPPIN",
+      "url": "https://open.spotify.com/track/2ifECaZoMt964XTfJpfKOe"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1155,30 +1179,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Wytrych",
-        "url": "https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a"
-      },
-      "artists": [
-        {
-          "name": "W.E.N.A.",
-          "url": "https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF"
-        },
-        {
-          "name": "Amatowsky",
-          "url": "https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q"
-        },
-        {
-          "name": "Dj Qmak",
-          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "K-R-\u00d3-L",
-      "url": "https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "To nie pop (intro) / M\u0142ody Ma Plik",
         "url": "https://open.spotify.com/album/3vGjPsCJKSSEbZNv2eTR6K"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 159230,
       "name": "ODRODZENIE",
       "url": "https://open.spotify.com/track/3jnqxfEcLlOBfcqNmOAoWu"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Wszystkim Czym Chcesz",
-        "url": "https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a"
-      },
-      "artists": [
-        {
-          "name": "wane",
-          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
-        }
-      ],
-      "duration_ms": 74629,
-      "name": "Wszystkim Czym Chcesz",
-      "url": "https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1267,6 +1251,22 @@
       "duration_ms": 282188,
       "name": "Szko\u0142a \u017bycia",
       "url": "https://open.spotify.com/track/5UQ4wo1cpnTloANWlQuAnM"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Wszystkim Czym Chcesz",
+        "url": "https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "duration_ms": 74629,
+      "name": "Wszystkim Czym Chcesz",
+      "url": "https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "EP.ITAFIUM",
-        "url": "https://open.spotify.com/album/73pdvD9yvYQW3FZkUraYxA"
-      },
-      "artists": [
-        {
-          "name": "TEDE",
-          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
-        },
-        {
-          "name": "Yottsu",
-          "url": "https://open.spotify.com/artist/0UKoXpexB7XlnjXnm5sCMb"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "64 LAJNY",
-      "url": "https://open.spotify.com/track/2tuvBavU8PevpLSQIgURrF"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Suma wszystkich strach\u00f3w",
         "url": "https://open.spotify.com/album/5r81BUaiPyh1dAiuMbtFsk"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 186909,
       "name": "Suma wszystkich strach\u00f3w",
       "url": "https://open.spotify.com/track/1OWyZAz2gpCSlwOaug8tVh"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "EP.ITAFIUM",
+        "url": "https://open.spotify.com/album/73pdvD9yvYQW3FZkUraYxA"
+      },
+      "artists": [
+        {
+          "name": "TEDE",
+          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
+        },
+        {
+          "name": "Yottsu",
+          "url": "https://open.spotify.com/artist/0UKoXpexB7XlnjXnm5sCMb"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "64 LAJNY",
+      "url": "https://open.spotify.com/track/2tuvBavU8PevpLSQIgURrF"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -4,7 +4,7 @@
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 10 min
+99 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Me Gusta Estar Contigo](https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 2:18 | 2022-06-01 |  |
 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/0QlGXSHMfRUrzzPAC92nFo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 2:42 | 2022-06-01 | 2025-01-12 |
 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 2:42 | 2025-01-13 |  |
-| [Me Vas A Doler](https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:33 | 2022-06-01 |  |
+| [Me Vas A Doler](https://open.spotify.com/track/3UAbo8L2graah1bqsZzRS3) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/2rmdRwcMsZIZF1PWnErclz) | 3:33 | 2026-11-23 |  |
+| [Me Vas A Doler](https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:33 | 2022-06-01 | 2026-11-23 |
 | [Mendigo De Amor](https://open.spotify.com/track/1qaZ0SSplJDtkMONFp6MV5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Sus Primeros Exitos Con Los Hermanos](https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G) | 2:54 | 2025-08-28 | 2026-03-02 |
 | [Mi Buen Amante](https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:03 | 2022-06-01 |  |
 | [Mi Primer Amor](https://open.spotify.com/track/3Z9OK3CUYv9t5iQpweJhda) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:32 | 2023-12-13 |  |
@@ -102,7 +103,8 @@
 | [Tú \- Balada Version](https://open.spotify.com/track/2WLBbZNzqxxga0ZRhUX7w0) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 3:44 | 2022-10-09 | 2022-10-11 |
 | [Un Mar De Penas](https://open.spotify.com/track/6k4dy9siLo45PEbLHvOAVN) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 2:23 | 2025-01-10 | 2025-12-22 |
 | [Voy a Tomarme Unos Tragos \(No Me Queda De Otra\)](https://open.spotify.com/track/0wnb0DBfZ772q835SO8EVT) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Voy a Tomarme Unos Tragos \(No Me Queda De Otra\)](https://open.spotify.com/album/4vopvZXyTKFKZm9eEM0YkV) | 2:26 | 2026-10-05 |  |
-| [Ya No Me Preguntes](https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 2:48 | 2023-11-10 |  |
+| [Ya No Me Preguntes](https://open.spotify.com/track/0GTwh2lQYuVoV19WgK09eN) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/2rmdRwcMsZIZF1PWnErclz) | 2:48 | 2026-11-23 |  |
+| [Ya No Me Preguntes](https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 2:48 | 2023-11-10 | 2026-11-23 |
 | [Zapatos Nuevos](https://open.spotify.com/track/4vSysCCv3X0TEGalKGXPu5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:01 | 2022-06-01 | 2025-01-10 |
 | [Zapatos Nuevos](https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:01 | 2025-02-21 | 2026-04-03 |
 

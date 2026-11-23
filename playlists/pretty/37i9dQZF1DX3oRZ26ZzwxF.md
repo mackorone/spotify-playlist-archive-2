@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : THB
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,763 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,799 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

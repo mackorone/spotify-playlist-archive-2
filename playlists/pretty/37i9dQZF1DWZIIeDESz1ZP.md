@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIIeDESz1ZP.md) - [plain]
 
 > Slow down and enjoy\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 35 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 35 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

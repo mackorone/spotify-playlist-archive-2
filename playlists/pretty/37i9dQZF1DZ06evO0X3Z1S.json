@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88454,
+  "num_followers": 88453,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAb59c/X8n7koasB/TnB2n2",
+  "snapshot_id": "awDfAAAAAACaR9iqmXGH1t+cU0NXU6ur",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 193594,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 193594,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always Be There",
-        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Always Be There",
-      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I See Love (From Hotel Transylvania 3)",
         "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
       },
@@ -623,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
       },
       "artists": [
         {
@@ -632,13 +612,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 194720,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 210921,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hearts Ain't Gonna Lie (Remixes, Pt. 1)",
         "url": "https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i"
       },
@@ -815,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Car (Remixes)",
-        "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV"
       },
       "artists": [
         {
@@ -824,13 +804,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
         }
       ],
-      "duration_ms": 330967,
-      "name": "Fast Car - Club Mix",
-      "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
+      "duration_ms": 210921,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8"
     },
     {
       "added_at": null,
@@ -855,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Away (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/7ht7IVG2XY9izYyaXvIwze"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 192195,
-      "name": "Fly Away - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/1gwOMsYzYeRH6xjAKVzBFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Give Up (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA"
       },
@@ -891,6 +851,26 @@
       "duration_ms": 201600,
       "name": "Don't Give Up - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly Away (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/7ht7IVG2XY9izYyaXvIwze"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Fly Away - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/1gwOMsYzYeRH6xjAKVzBFq"
     },
     {
       "added_at": null,
@@ -1059,6 +1039,26 @@
       "duration_ms": 185453,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Angles",
+      "url": "https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP"
     }
   ],
   "unique_name": "This Is Jonas Blue",

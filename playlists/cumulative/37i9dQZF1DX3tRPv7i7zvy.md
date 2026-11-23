@@ -4,7 +4,7 @@
 
 > We Outsideeeee!
 
-166 songs - 7 hr 57 min
+167 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,9 +75,10 @@
 | [Gabaya](https://open.spotify.com/track/4mSRQspSNU7xkAuCtdhggi) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Gabaya](https://open.spotify.com/album/4LyY5dGgOvL0LzlT6NR4Wy) | 2:02 | 2025-10-24 | 2025-12-19 |
 | [Gangster Love](https://open.spotify.com/track/0ISx9ijLuADv4FGbUWHGjK) | [Baba Tundey](https://open.spotify.com/artist/16hyxoxcvlNxKIkpQaaCnC) | [Gangster Love](https://open.spotify.com/album/3hfUBH0x7VsttpaptRBpOj) | 2:10 | 2026-07-17 | 2026-08-02 |
 | [Gen Z](https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Gen Z](https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l) | 2:25 | 2026-07-31 |  |
+| [GEN Z II](https://open.spotify.com/track/5ZQOeyueEFasHhYxSVTtGY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [GEN Z II](https://open.spotify.com/album/4CGQr0Z1cqAtvLRiKXwL51) | 4:02 | 2026-11-20 |  |
 | [Genie Baby](https://open.spotify.com/track/3uI4pCvoglYfqg0kmlSaOb) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Diamond Baby](https://open.spotify.com/album/0G9kMkpwJPvgSBHmiHTFdh) | 2:28 | 2026-05-01 | 2026-05-15 |
 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 | 2025-10-24 | 2026-05-22 |
-| [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2025-10-24 |  |
+| [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2025-10-24 | 2026-11-23 |
 | [Green Light](https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Green Light](https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn) | 2:48 | 2026-06-25 | 2026-08-20 |
 | [GROOVING \(feat\. Davido and Seun Kuti\)](https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:46 | 2025-10-24 | 2026-05-22 |
 | [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 | 2025-10-24 |  |

@@ -294,6 +294,6 @@
 | [スピードデーモン](https://open.spotify.com/track/3xlLg054H2J7B0vtdbarcA) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [スピードデーモン](https://open.spotify.com/album/7xMrzKBM3yG2XwkmOs7zDx) | 2:26 | 2022-03-07 | 2023-01-17 |
 | [我有包](https://open.spotify.com/track/2wcf35UsbsS53hNpsylC3M) | [爆头王](https://open.spotify.com/artist/1IW7TsuPbqA7SpTGabmEUv) | [我有包](https://open.spotify.com/album/3pXFY9n0USIaGKpn0fxloH) | 2:56 | 2022-02-20 | 2023-01-17 |
 | [津波](https://open.spotify.com/track/6o1mOuSSNwzCDsjJlPTqGC) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Oceans](https://open.spotify.com/album/066RpUMirkDRbBWvcyB3QT) | 2:49 | 2022-10-03 |  |
-| [骸Attack!!](https://open.spotify.com/track/61h5b9EVrcZWg1Fnc1DC88) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [GREATEST SHITS](https://open.spotify.com/album/0irA7x2SBgb2PbCUhK5tMK) | 3:53 | 2022-05-20 |  |
+| [骸Attack!! \(feat\. 初音ミク\)](https://open.spotify.com/track/61h5b9EVrcZWg1Fnc1DC88) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [GREATEST SHITS](https://open.spotify.com/album/0irA7x2SBgb2PbCUhK5tMK) | 3:53 | 2022-05-20 |  |
 
 \*This playlist was first scraped on 2022-12-21. Prior content cannot be recovered.

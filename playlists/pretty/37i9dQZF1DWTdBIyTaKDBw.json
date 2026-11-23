@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 32225,
+  "num_followers": 32258,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "path of the wind",
+      "url": "https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
         "name": "Puddles",
         "url": "https://open.spotify.com/album/3Jlibm8J2dmYwkF3sJtbSw"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 215832,
       "name": "Puddles",
       "url": "https://open.spotify.com/track/16Ur2rs2LmY5rfUhQGt9Ds"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
-      },
-      "artists": [
-        {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "path of the wind",
-      "url": "https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Forest Shrine",
-        "url": "https://open.spotify.com/album/7ouPAfQBNWJI2BX8GZe19d"
-      },
-      "artists": [
-        {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
-        }
-      ],
-      "duration_ms": 190302,
-      "name": "Forest Shrine",
-      "url": "https://open.spotify.com/track/6U84Oadw1LFCLl5NyDOY00"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Shinjuku",
         "url": "https://open.spotify.com/album/4KaWvtsalcd0fMEbval9dO"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 168001,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/7LBO0230RXsB371lZmWKrv"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Forest Shrine",
+        "url": "https://open.spotify.com/album/7ouPAfQBNWJI2BX8GZe19d"
+      },
+      "artists": [
+        {
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
+        }
+      ],
+      "duration_ms": 190302,
+      "name": "Forest Shrine",
+      "url": "https://open.spotify.com/track/6U84Oadw1LFCLl5NyDOY00"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v"
-      },
-      "artists": [
-        {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
-        }
-      ],
-      "duration_ms": 210526,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/5IOnrqVaLAQ0gS8gjNNdDU"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Eternal Youth",
         "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
@@ -339,18 +323,34 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Motorbikes in Sapa",
-        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v"
       },
       "artists": [
         {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
         }
       ],
-      "duration_ms": 172288,
-      "name": "Motorbikes in Sapa",
-      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
+      "duration_ms": 210526,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/5IOnrqVaLAQ0gS8gjNNdDU"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Kick This",
+        "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Sunflower Samurai",
+      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -371,18 +371,18 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Kick This",
-        "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
+        "name": "Motorbikes in Sapa",
+        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
       },
       "artists": [
         {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Sunflower Samurai",
-      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
+      "duration_ms": 172288,
+      "name": "Motorbikes in Sapa",
+      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV"
-      },
-      "artists": [
-        {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
-        }
-      ],
-      "duration_ms": 228857,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Samurai Warrior",
         "url": "https://open.spotify.com/album/6jh2PW4SIaMw8wwHyerB9l"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 125740,
       "name": "Samurai Warrior",
       "url": "https://open.spotify.com/track/1M1rhe1W3uoV6mdfbnJNpx"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV"
+      },
+      "artists": [
+        {
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
+        }
+      ],
+      "duration_ms": 228857,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Mountain Onsen",
-        "url": "https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Mountain Onsen",
-      "url": "https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Around the World",
         "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Waiting To Board",
-        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
+        "name": "Mountain Onsen",
+        "url": "https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n"
       },
       "artists": [
         {
-          "name": "vhskid.",
-          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
         }
       ],
-      "duration_ms": 138333,
-      "name": "Waiting To Board",
-      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
+      "duration_ms": 161123,
+      "name": "Mountain Onsen",
+      "url": "https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Chinese Morning",
+        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
+      },
+      "artists": [
+        {
+          "name": "The Geek x Vrv",
+          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Chinese Morning",
+      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -835,38 +835,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Autumn in Osaka",
-        "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
-      },
-      "artists": [
-        {
-          "name": "Vens Adams",
-          "url": "https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Autumn in Osaka",
-      "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
-        "name": "Chinese Morning",
-        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
-      },
-      "artists": [
-        {
-          "name": "The Geek x Vrv",
-          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Chinese Morning",
-      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Stories From Japan II",
         "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
       },
@@ -887,18 +855,34 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Path Through the Tall Grass",
-        "url": "https://open.spotify.com/album/4YjBk03vufyDCOzAZ3uw7H"
+        "name": "Autumn in Osaka",
+        "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
       },
       "artists": [
         {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+          "name": "Vens Adams",
+          "url": "https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ"
         }
       ],
-      "duration_ms": 207906,
-      "name": "Path Through the Tall Grass",
-      "url": "https://open.spotify.com/track/6NkMnnns8kLKfyC8CaIxMe"
+      "duration_ms": 160800,
+      "name": "Autumn in Osaka",
+      "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Waiting To Board",
+        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
+      },
+      "artists": [
+        {
+          "name": "vhskid.",
+          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Waiting To Board",
+      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -919,6 +903,22 @@
       "duration_ms": 163092,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Path Through the Tall Grass",
+        "url": "https://open.spotify.com/album/4YjBk03vufyDCOzAZ3uw7H"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Path Through the Tall Grass",
+      "url": "https://open.spotify.com/track/6NkMnnns8kLKfyC8CaIxMe"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Mt Fuji",
-        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
-      },
-      "artists": [
-        {
-          "name": "lechiffrebeats",
-          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
-        }
-      ],
-      "duration_ms": 116841,
-      "name": "Mt Fuji",
-      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Flying Petals",
         "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 184600,
       "name": "Inevitability",
       "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Mt Fuji",
+        "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
+      },
+      "artists": [
+        {
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+        }
+      ],
+      "duration_ms": 116841,
+      "name": "Mt Fuji",
+      "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -1039,22 +1039,6 @@
       "duration_ms": 242400,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
-      },
-      "artists": [
-        {
-          "name": "Howle",
-          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+      },
+      "artists": [
+        {
+          "name": "Howle",
+          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
         "name": "Despair",
         "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Sunday Vibes",
-        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
-      },
-      "artists": [
-        {
-          "name": "W\u00fcnsche",
-          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
-        }
-      ],
-      "duration_ms": 133668,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Yamete",
         "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 195829,
       "name": "Yamete",
       "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Sunday Vibes",
+        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
+      },
+      "artists": [
+        {
+          "name": "W\u00fcnsche",
+          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
+        }
+      ],
+      "duration_ms": 133668,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "A Traveler's Tale",
-        "url": "https://open.spotify.com/album/7ztlWkCDduMuSuDkzbj67Z"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "A Traveler's Tale",
-      "url": "https://open.spotify.com/track/2Uy3YqGCfiZ4aIfp9mD5Lx"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Answer Love",
         "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 139095,
       "name": "Anata",
       "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "A Traveler's Tale",
+        "url": "https://open.spotify.com/album/7ztlWkCDduMuSuDkzbj67Z"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "A Traveler's Tale",
+      "url": "https://open.spotify.com/track/2Uy3YqGCfiZ4aIfp9mD5Lx"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "The Equilibrium",
-        "url": "https://open.spotify.com/album/5gnvSc5zztBfd5SDEcVbv9"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Mamoritai",
-      "url": "https://open.spotify.com/track/2MGWnzs81DVvCUi9HC6oWx"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Daichi",
         "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 118035,
       "name": "Daichi",
       "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "The Equilibrium",
+        "url": "https://open.spotify.com/album/5gnvSc5zztBfd5SDEcVbv9"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Mamoritai",
+      "url": "https://open.spotify.com/track/2MGWnzs81DVvCUi9HC6oWx"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Mountain Trail",
-        "url": "https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Mountain Trail",
-      "url": "https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Despair",
         "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 197616,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Mountain Trail",
+        "url": "https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Mountain Trail",
+      "url": "https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Water Lily",
-        "url": "https://open.spotify.com/album/68eNVEgcYZEOKgXa0cHv47"
-      },
-      "artists": [
-        {
-          "name": "Asokah",
-          "url": "https://open.spotify.com/artist/7hx0fxCukHneK8d9gDMcsT"
-        }
-      ],
-      "duration_ms": 81710,
-      "name": "Water Lily",
-      "url": "https://open.spotify.com/track/3MUBdWLyWZhyyzK77ytTZy"
-    },
-    {
-      "added_at": "2026-11-06 08:29:33",
-      "album": {
         "name": "Miso",
         "url": "https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 129082,
       "name": "Miso",
       "url": "https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa"
+    },
+    {
+      "added_at": "2026-11-06 08:29:33",
+      "album": {
+        "name": "Water Lily",
+        "url": "https://open.spotify.com/album/68eNVEgcYZEOKgXa0cHv47"
+      },
+      "artists": [
+        {
+          "name": "Asokah",
+          "url": "https://open.spotify.com/artist/7hx0fxCukHneK8d9gDMcsT"
+        }
+      ],
+      "duration_ms": 81710,
+      "name": "Water Lily",
+      "url": "https://open.spotify.com/track/3MUBdWLyWZhyyzK77ytTZy"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Journey To Osaka",
-        "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
+        "name": "Gaijin II Tale of Rai",
+        "url": "https://open.spotify.com/album/79ynbZwBXsmdFZw8Oa0FMK"
       },
       "artists": [
         {
-          "name": "Aoko",
-          "url": "https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO"
+          "name": "Elijah Nang",
+          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
+        },
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
         }
       ],
-      "duration_ms": 175799,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/06zm8wJOikEhv8O4oLb6RX"
+      "duration_ms": 198518,
+      "name": "A Hero Is Born",
+      "url": "https://open.spotify.com/track/4SJJkTyFoNcXQYfMr9x3or"
     },
     {
       "added_at": "2026-11-06 08:29:33",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2026-11-06 08:29:33",
       "album": {
-        "name": "Gaijin II Tale of Rai",
-        "url": "https://open.spotify.com/album/79ynbZwBXsmdFZw8Oa0FMK"
+        "name": "Journey To Osaka",
+        "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
       },
       "artists": [
         {
-          "name": "Elijah Nang",
-          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
-        },
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+          "name": "Aoko",
+          "url": "https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO"
         }
       ],
-      "duration_ms": 198518,
-      "name": "A Hero Is Born",
-      "url": "https://open.spotify.com/track/4SJJkTyFoNcXQYfMr9x3or"
+      "duration_ms": 175799,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/06zm8wJOikEhv8O4oLb6RX"
     },
     {
       "added_at": "2026-11-06 08:29:33",

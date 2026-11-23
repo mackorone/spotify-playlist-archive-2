@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,175 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,168 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 13 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 6:51 |
 | 14 | [O Nome de Jesus](https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus](https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw) | 5:07 |
 | 15 | [Casinha Favorita](https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 10:58 |
-| 16 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 |
+| 16 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 |
 | 17 | [Eu Sei Que Vem \- Ao Vivo](https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:07 |
-| 18 | [Deus Faz Além \- Ao Vivo](https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Deus Faz Além \(Ao Vivo\)](https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B) | 4:50 |
+| 18 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 |
 | 19 | [Oi, Jesus](https://open.spotify.com/track/24yMODgKNyQDvvCKlbwlxR) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Oi, Jesus](https://open.spotify.com/album/1mQXcTWqbRM5DNgOPN70N4) | 3:53 |
 | 20 | [Canção de Paulo \(Ao Vivo\)](https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 8:43 |
 | 21 | [Toca em Mim de Novo \- Ao Vivo](https://open.spotify.com/track/5jztY2semlZDUkLAmwxq9f) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 49 | [Resultado](https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Resultado](https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH) | 3:20 |
 | 50 | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 |
 
-Snapshot ID: `av+NgAAAAAB1y1D8Rtn2ZfGX+0wAmpSb`
+Snapshot ID: `awDfAAAAAABqB/SXzyVdMq+AAq0XPkmb`

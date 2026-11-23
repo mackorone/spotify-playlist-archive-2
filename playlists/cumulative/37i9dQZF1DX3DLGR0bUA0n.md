@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. La Dinastía de Tuzantla Michoacán en portada.
 
-220 songs - 12 hr 41 min
+221 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 | 2023-10-12 | 2024-06-08 |
 | [Aléjate](https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a) | [Freddy Cárdenas y su Grupo Brebaje](https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm) | [Aléjate](https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ) | 3:45 | 2023-10-12 |  |
 | [Amar De Verdad](https://open.spotify.com/track/2kTW2PeUKkC5N6d57RlOdm) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Amar De Verdad](https://open.spotify.com/album/05C1CBbMRLU8hIIWEiu4W7) | 3:30 | 2026-10-16 |  |
-| [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 | 2023-10-12 |  |
+| [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 | 2023-10-12 | 2026-11-23 |
 | [Amor Limosnero](https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 3:39 | 2023-10-12 | 2026-11-14 |
 | [Amores Con Mi Estilo](https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Amores Con Mi Estilo](https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4) | 3:02 | 2024-06-07 | 2026-10-17 |
 | [Arrancame La Piel](https://open.spotify.com/track/46MkmJsnwA7XtvGihc6kWa) | [La Mar\-K De Tierra Caliente](https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x) | [Siguiendo Tu Corazon](https://open.spotify.com/album/4xm0swDqYdBmcmB9tatjVB) | 3:47 | 2023-10-12 |  |
@@ -221,6 +221,7 @@
 | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/track/2KL6g6m4az5JaqsA4XCWtE) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ) | [Puros Corridos Y No Cochadas \(En Vivo\)](https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3) | 2:59 | 2024-10-18 | 2025-12-10 |
 | [Veinte Mujeres de Negro](https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [18 Kilates](https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h) | 3:10 | 2023-10-12 |  |
 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 | 2023-10-12 |  |
+| [Vida Truncada](https://open.spotify.com/track/6LOmuHgzDfRP16tQySyQLW) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Llegadoras a todo volumen](https://open.spotify.com/album/5OjofLTkHXLLNgNZh6ieuC) | 3:15 | 2026-11-13 |  |
 | [Y Que Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/5t069YuclolDCJXQQSWUZ7) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Para Siempre \(En Vivo\)](https://open.spotify.com/album/4FxKAmh8rRtFhWjqDeBK7M) | 3:38 | 2024-10-04 | 2024-12-21 |
 | [Y Ándale](https://open.spotify.com/track/4f74sBKYIhJl0HI0JsAsj9) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Vuelve Conmigo](https://open.spotify.com/album/6WDmElvEfnT80DuZVqwXkB) | 2:23 | 2026-11-13 |  |
 | [Ya Están Cantando los Gallos](https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [El Arroyito \(Los Creadores del Sacadito\)](https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5) | 2:54 | 2024-11-15 |  |

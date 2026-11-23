@@ -1,12 +1,12 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1449188,
+  "num_followers": 1449300,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtXyjen/hMf8QbbecSxORvn9Omq",
+  "snapshot_id": "AAAAAEhwP6Vwtrs4z6otmJ8IHCp/M9Zz",
   "tracks": [
     {
       "added_at": "2024-02-22 03:52:54",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb"
     },
     {
-      "added_at": "2024-04-24 00:07:55",
-      "album": {
-        "name": "LET THE WORLD BURN",
-        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
-      },
-      "artists": [
-        {
-          "name": "Chris Grey",
-          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
-        }
-      ],
-      "duration_ms": 163290,
-      "name": "LET THE WORLD BURN",
-      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
-    },
-    {
       "added_at": "2024-02-22 03:52:54",
       "album": {
         "name": "Bitch Better Have My Money",
@@ -471,6 +455,22 @@
       "duration_ms": 219305,
       "name": "Bitch Better Have My Money",
       "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "added_at": "2024-04-24 00:07:55",
+      "album": {
+        "name": "LET THE WORLD BURN",
+        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
+      },
+      "artists": [
+        {
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+        }
+      ],
+      "duration_ms": 163290,
+      "name": "LET THE WORLD BURN",
+      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "The Animals",
-        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
       "artists": [
         {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 271280,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+      "duration_ms": 215200,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -619,6 +603,22 @@
       "duration_ms": 230613,
       "name": "I See Red",
       "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "The Animals",
+        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Imagination & the Misfit Kid",
         "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "BADLANDS (Deluxe)",
-        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 199593,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -835,6 +819,22 @@
       "duration_ms": 168000,
       "name": "DARKSIDE",
       "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 199593,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
     },
     {
       "added_at": "2025-10-03 04:00:32",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack / Deluxe Version)",
+        "url": "https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Everybody Wants To Rule The World - From \u201cThe Hunger Games: Catching Fire\u201d Soundtrack",
+      "url": "https://open.spotify.com/track/3S1tTwSKIZgf4QGltFyCxM"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Heathers: The Musical (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 172826,
       "name": "Candy Store",
       "url": "https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack / Deluxe Version)",
-        "url": "https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Everybody Wants To Rule The World - From \u201cThe Hunger Games: Catching Fire\u201d Soundtrack",
-      "url": "https://open.spotify.com/track/3S1tTwSKIZgf4QGltFyCxM"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
-      },
-      "artists": [
-        {
-          "name": "Snow Wife",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "People I Don't Like",
         "url": "https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 142765,
       "name": "People I Don't Like",
       "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As"
+        "name": "Massive Luxury Overdose",
+        "url": "https://open.spotify.com/album/5glF3lGmuuYIHVeEVNUyyq"
       },
       "artists": [
         {
-          "name": "Malia J",
-          "url": "https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ"
+          "name": "Army Of Lovers",
+          "url": "https://open.spotify.com/artist/3JXnjuv4hBqQKOVzJg74Lt"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW"
+      "duration_ms": 214360,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/6fXzdWgyZhDeLmlzC7Mvco"
     }
   ],
   "unique_name": "Villain Mode",

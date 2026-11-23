@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Where's our love",
+        "url": "https://open.spotify.com/album/6ooTcopS5BYCcQjakxP3O5"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Where's our love",
+      "url": "https://open.spotify.com/track/6AY5CGFIlmUSFGhz3b7rXX"
+    },
+    {
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },

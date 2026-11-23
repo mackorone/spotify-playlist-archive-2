@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,063 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,066 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 15 | [Jhumalo](https://open.spotify.com/track/7aO2acUcoC5siemEVoZ4rF) | [Priyanka Meher](https://open.spotify.com/artist/7bOuWljCczaU8w5adKTh6E) | [Jhumalo](https://open.spotify.com/album/1AOsczuf0jSGTLLgvwg8hj) | 3:23 |
 | 16 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 |
 | 17 | [Rupsa Ra Moti](https://open.spotify.com/track/56BIEuaSlJyjgQWdJF1WE4) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Rupsa Ra Moti](https://open.spotify.com/album/22W9JGHcLsPiQmnQJRogXz) | 3:10 |
-| 18 | [Maari Maavadi](https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Aamir Mir](https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6) | [Maari Maavadi](https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v) | 4:51 |
-| 19 | [Purvayi \(feat\. Papon\)](https://open.spotify.com/track/2FBsVowygJJv4lg32ZHk5l) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/4Gi91Mb6apBXFFq0kIqQJ7) | 5:10 |
+| 18 | [Purvayi \(feat\. Papon\)](https://open.spotify.com/track/2FBsVowygJJv4lg32ZHk5l) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/4Gi91Mb6apBXFFq0kIqQJ7) | 5:10 |
+| 19 | [Maari Maavadi](https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Aamir Mir](https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6) | [Maari Maavadi](https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v) | 4:51 |
 | 20 | [Latthay Di Chaadar](https://open.spotify.com/track/0QOJABRwcIx5WfzILs47eJ) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Latthay Di Chaadar \- Single](https://open.spotify.com/album/2gGa9X08pMWC5FNB9ShgG8) | 3:35 |
 | 21 | [Kandisa](https://open.spotify.com/track/2wQqVbWE7FI47lEXPEoocc) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Kandisa](https://open.spotify.com/album/4MBagMMRFRIvXGcg0Ph6rI) | 7:40 |
 | 22 | [Kesariya Balam](https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Desert Sessions](https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU) | 4:11 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 47 | [Peele Amiras \- Sabr](https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Peele Amiras \(Sabr\)](https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg) | 5:15 |
 | 48 | [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 |
 | 49 | [Dwarika Darbaar \(From "Bhoomi 2025"\)](https://open.spotify.com/track/5l9EwrB0WVAJ1T4EErBe0m) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7), [Parth Tarpara](https://open.spotify.com/artist/1dC9LMLRmhqgIxnBXi0Var) | [Dwarika Darbaar \(From "Bhoomi 2025"\)](https://open.spotify.com/album/2LurX1DIo5jyBNjGbBgKhr) | 5:05 |
-| 50 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 |
+| 50 | [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 |
 
 Snapshot ID: `AAAAAHhs/hovj8Jd/A0MmL8F37Eo9cYf`

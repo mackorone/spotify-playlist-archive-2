@@ -4,7 +4,7 @@
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 25 min
+57 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [TELLY BAG](https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TELLY BAG](https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn) | 1:54 | 2025-11-20 |  |
 | [think of drugs](https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [think of drugs](https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF) | 3:05 | 2025-11-20 |  |
 | [TSUNAMI](https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TSUNAMI](https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr) | 2:06 | 2025-11-20 |  |
+| [Unoriginal \- BAYLI & Megra Remix](https://open.spotify.com/track/4o0fOtYOggx1qaxsPrLd0b) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Torn \- Ssstretched](https://open.spotify.com/album/1LVScJagjUaWJ1r0LIhGTA) | 3:18 | 2026-11-23 |  |
 | [ur mine](https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:00 | 2025-11-20 |  |
 
 \*This playlist was first scraped on 2025-11-20. Prior content cannot be recovered.

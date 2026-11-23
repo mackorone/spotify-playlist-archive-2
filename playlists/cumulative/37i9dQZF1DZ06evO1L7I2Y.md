@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 13 min
+75 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Bruta, A Braba, A Forte \- Ao Vivo no Palco Supernova \- Rock in Rio Brasil 2024](https://open.spotify.com/track/4F4ge3uyxZvdO0v2uaWV4M) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [N.I.N.A: Ao Vivo no Palco Supernova \- Rock in Rio Brasil 2024](https://open.spotify.com/album/3Ofs1zckDbskSUyGKrY3BQ) | 3:15 | 2025-06-27 | 2025-07-25 |
 | [Anna](https://open.spotify.com/track/45lXdJeVnr8OJQW31Ixwoh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 1:29 | 2023-12-30 | 2024-04-27 |
 | [Anna](https://open.spotify.com/track/7efyDv6P8gaX3Im5nByK5n) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 1:29 | 2024-04-28 | 2024-12-11 |
+| [B.U.M.B.A](https://open.spotify.com/track/6tIJVX9cbzGpRZfA9Mk6e3) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [AMER7CANO](https://open.spotify.com/artist/1mXCoAbb2K8iyN7y7iaVyq), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [B.U.M.B.A](https://open.spotify.com/album/52TiBFmTsmlH8CZAgK6x61) | 2:45 | 2026-11-23 |  |
 | [Bizarro](https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k) | [NIKITO Labrae](https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg), [BPP Tan](https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Downhill Domination \- SECOND EDITION](https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN) | 4:11 | 2023-12-30 |  |
 | [Clyde e Bonnie](https://open.spotify.com/track/4mntgu8UotzfrrUo1g5mDM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Clyde e Bonnie](https://open.spotify.com/album/7y7hLgMJbRPSL40D7PGD80) | 2:38 | 2026-06-14 | 2026-09-11 |
 | [Clyde e Bonnie](https://open.spotify.com/track/3gxU7BXF5N3we0uzFx3PRN) | [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O pequeno GRANDE HOMEM](https://open.spotify.com/album/6tbW0K3euMUPWkCA25LA1n) | 2:38 | 2026-09-11 |  |

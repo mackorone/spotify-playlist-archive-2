@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 598948,
+  "num_followers": 598939,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
         "name": "Sembrando Flores",
         "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 206061,
       "name": "Las Curanderas",
       "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 156016,
-      "name": "Qu\u00e9date Un Ratito M\u00e1s",
-      "url": "https://open.spotify.com/track/54UWlGEHoE0LYvpPCTNuJy"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 156016,
+      "name": "Qu\u00e9date Un Ratito M\u00e1s",
+      "url": "https://open.spotify.com/track/54UWlGEHoE0LYvpPCTNuJy"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "El Primer Rayo de Sol - EP",
         "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 265720,
       "name": "Siempre Te Busqu\u00e9",
       "url": "https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
+        "name": "una mejor versi\u00f3n de mi",
+        "url": "https://open.spotify.com/album/0fC6D0jLW2AHbLk1zNbIem"
+      },
+      "artists": [
+        {
+          "name": "Sonic Emerson",
+          "url": "https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "una mejor versi\u00f3n de mi",
+      "url": "https://open.spotify.com/track/4xP6k6PutvIfMjjg2W7oVP"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
         "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
         "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "una mejor versi\u00f3n de mi",
-        "url": "https://open.spotify.com/album/0fC6D0jLW2AHbLk1zNbIem"
-      },
-      "artists": [
-        {
-          "name": "Sonic Emerson",
-          "url": "https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8"
-        }
-      ],
-      "duration_ms": 223008,
-      "name": "una mejor versi\u00f3n de mi",
-      "url": "https://open.spotify.com/track/4xP6k6PutvIfMjjg2W7oVP"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "Mejor Ya No Regreses",
         "url": "https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Dolores y compa\u00f1\u00eda",
-        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
-        }
-      ],
-      "duration_ms": 197456,
-      "name": "Dolores",
-      "url": "https://open.spotify.com/track/4BEH5g6OVUG1sDToICk03y"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
         "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 183160,
       "name": "Debut Y Despedida",
       "url": "https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "duration_ms": 197456,
+      "name": "Dolores",
+      "url": "https://open.spotify.com/track/4BEH5g6OVUG1sDToICk03y"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Mujer P\u00e1jaro",
-        "url": "https://open.spotify.com/album/5Lz7BxP7iIjMRuSQdSqqVR"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
-        }
-      ],
-      "duration_ms": 173756,
-      "name": "Mujer P\u00e1jaro",
-      "url": "https://open.spotify.com/track/64zazX8C4uCP4FJnpod2UD"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
         "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 197186,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "Mujer P\u00e1jaro",
+        "url": "https://open.spotify.com/album/5Lz7BxP7iIjMRuSQdSqqVR"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "duration_ms": 173756,
+      "name": "Mujer P\u00e1jaro",
+      "url": "https://open.spotify.com/track/64zazX8C4uCP4FJnpod2UD"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Noche Fr\u00eda",
-        "url": "https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
         "name": "Volar",
         "url": "https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 236096,
       "name": "Volar",
       "url": "https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
+        "name": "Noche Fr\u00eda",
+        "url": "https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 189573,
+      "name": "Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
+        "name": "Las Maderas de Mi Barca",
+        "url": "https://open.spotify.com/album/7GrW1WDSuTQVZoBZB7xFPX"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "duration_ms": 189448,
+      "name": "Las Maderas de Mi Barca",
+      "url": "https://open.spotify.com/track/5DB3zghNQcFgdDRA6Gwo68"
+    },
+    {
+      "added_at": "2026-11-06 06:00:10",
+      "album": {
         "name": "Esperanza",
         "url": "https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 184429,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy"
-    },
-    {
-      "added_at": "2026-11-06 06:00:10",
-      "album": {
-        "name": "Las Maderas de Mi Barca",
-        "url": "https://open.spotify.com/album/7GrW1WDSuTQVZoBZB7xFPX"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
-        }
-      ],
-      "duration_ms": 189448,
-      "name": "Las Maderas de Mi Barca",
-      "url": "https://open.spotify.com/track/5DB3zghNQcFgdDRA6Gwo68"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/36xQ9CL4lcoZ6pK4mA89pJ"
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2"
     },
     {
       "added_at": "2026-11-06 06:00:10",
@@ -1687,22 +1691,18 @@
     {
       "added_at": "2026-11-06 06:00:10",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
       },
       "artists": [
         {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "Elisabeth Roma",
-          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 297664,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2"
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/36xQ9CL4lcoZ6pK4mA89pJ"
     },
     {
       "added_at": "2026-11-06 06:00:10",

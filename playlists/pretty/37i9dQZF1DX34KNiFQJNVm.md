@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem IZA, Dua Lipa,  Di Propósito com Diego & Victor Hugo, Netto Brito com Kamisa 10 e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,320,919 likes - 89 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,320,825 likes - 89 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

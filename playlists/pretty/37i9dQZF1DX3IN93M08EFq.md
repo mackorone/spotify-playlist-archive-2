@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > De bästa indielåtarna \- klassiker som Dansa Fastän, Shoreline och Helgen v\. 48!
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 45 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 45 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 14 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
 | 15 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
 | 16 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
-| 17 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
-| 18 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
+| 17 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 |
+| 18 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
 | 19 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:55 |
 | 20 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |
 | 21 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Palace Station](https://open.spotify.com/track/0pBHmPRQEd5YCraA5JkQLE) | [Melody Club](https://open.spotify.com/artist/7ELjk8iRPbhLku2XB6t6kS) | [Music Machine](https://open.spotify.com/album/0m1sBbOu2MmilyDuPRAmjW) | 3:16 |
 | 45 | [Long Before Rock 'n' Roll](https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Ode To Ochrasy](https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf) | 2:49 |
 
-Snapshot ID: `AAAAAG6PiFn81I7dXWYVGwE8o5BJ4Gvw`
+Snapshot ID: `AAAAAPrQsewEHwSIbmd0cF/Fk2Ic/IKN`

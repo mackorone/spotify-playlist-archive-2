@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,932 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,937 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

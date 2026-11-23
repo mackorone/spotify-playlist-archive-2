@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 90099,
+  "num_followers": 90111,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAD633UZpFWDCwzX3Yk3S5ef",
+  "snapshot_id": "awDfAAAAAABDAFzbe6EIut1LerlKBAbb",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 238013,
-      "name": "A Fond Farewell",
-      "url": "https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi"
+      "duration_ms": 193240,
+      "name": "No Name #3",
+      "url": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 193240,
-      "name": "No Name #3",
-      "url": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
+      "duration_ms": 238013,
+      "name": "A Fond Farewell",
+      "url": "https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Roman Candle",
-      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
+      "duration_ms": 183053,
+      "name": "No Name #1",
+      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 183053,
-      "name": "No Name #1",
-      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+      "duration_ms": 216960,
+      "name": "Roman Candle",
+      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
     },
     {
       "added_at": null,

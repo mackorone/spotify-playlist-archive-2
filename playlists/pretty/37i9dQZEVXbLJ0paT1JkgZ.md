@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,288 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,290 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 19 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 20 | [MILLONETA](https://open.spotify.com/track/2DNN1f2MOdTYWY1GnST9kr) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Raven la R](https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq) | [MILLONETA](https://open.spotify.com/album/24GhQrJxVWIbnRNLCrvdLx) | 2:40 |
 | 21 | [EL QUE AVISA NO TRAICIONA](https://open.spotify.com/track/3ZdMwehVcl9IBQLaywGrFw) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l), [Milan Didier](https://open.spotify.com/artist/3SL0MLkrNx4DRWGcRLiIDc), [Felolaefe](https://open.spotify.com/artist/1d6X8cIaHb05jj6SYoHUjV), [Raven la R](https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq) | [EL QUE AVISA NO TRAICIONA](https://open.spotify.com/album/0VoVdoeOyK27KWgMoeEe5x) | 3:39 |
-| 22 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
+| 22 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
 | 23 | [Salgo Pa' la Calle](https://open.spotify.com/track/4WSCQzsVo8ucr3FwGmUkHw) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Talento de Barrio](https://open.spotify.com/album/6R0fIFcUqDgQMyYdRWZJje) | 4:27 |
 | 24 | [Loba](https://open.spotify.com/track/1Up09hsQEhawoWWP3s010H) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Raven la R](https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq) | [Dark Fantasy](https://open.spotify.com/album/6V9u1059m3xkfzSvIGf565) | 3:49 |
 | 25 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [No Me Suman](https://open.spotify.com/track/23M9h0b9WvF3NC9ZgT0qB4) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [No Me Suman](https://open.spotify.com/album/5ulvNgx5AklRdc42BJljP0) | 2:38 |
 | 50 | [Bastardo \(feat\. Ñengo Flow & Jere Klein\)](https://open.spotify.com/track/6zMHJtXX71pgTf7ZlbXRqm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/3pEtw86iqMmRMHNqBRAC7r) | 4:24 |
 
-Snapshot ID: `MpUp8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MpaE0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

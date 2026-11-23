@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume! November ambassador: <a href=\"spotify:artist:1ESdlHhFi2Ww9jt8qLOyYp\">Elmer</a>\n",
-  "num_followers": 14613,
+  "num_followers": 14612,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEocOWjrtKtZNhKhWusxtmESUH8q",
+  "snapshot_id": "AAAAACu0yS7/R4D2uagrQG3D4BM9eEaI",
   "tracks": [
     {
       "added_at": "2026-11-03 23:00:10",
@@ -203,6 +203,30 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/1uAChZyazVvnAmxXcIo4os"
+      },
+      "artists": [
+        {
+          "name": "JEA",
+          "url": "https://open.spotify.com/artist/7cqkDU4Ht0tY7xITt9TkiA"
+        },
+        {
+          "name": "Maya Shanti",
+          "url": "https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn"
+        },
+        {
+          "name": "Buckstar",
+          "url": "https://open.spotify.com/artist/5NssrjKqHNbdjC0awMBT3a"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/2qL2ornN89hlwyVK74uPnf"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
         "name": "Take It Off For You",
         "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
       },
@@ -231,30 +255,6 @@
       "duration_ms": 205973,
       "name": "Ik doe het weer",
       "url": "https://open.spotify.com/track/5kfer9g13z90S33DUd6DU2"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
-        "name": "Gimme",
-        "url": "https://open.spotify.com/album/1uAChZyazVvnAmxXcIo4os"
-      },
-      "artists": [
-        {
-          "name": "JEA",
-          "url": "https://open.spotify.com/artist/7cqkDU4Ht0tY7xITt9TkiA"
-        },
-        {
-          "name": "Maya Shanti",
-          "url": "https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn"
-        },
-        {
-          "name": "Buckstar",
-          "url": "https://open.spotify.com/artist/5NssrjKqHNbdjC0awMBT3a"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Gimme",
-      "url": "https://open.spotify.com/track/2qL2ornN89hlwyVK74uPnf"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Licht Uit, Hoofd Aan",
-        "url": "https://open.spotify.com/album/4mOnst39MZG0f9cgnDalj1"
-      },
-      "artists": [
-        {
-          "name": "Sanne van Assouw",
-          "url": "https://open.spotify.com/artist/7270ccPqUyTrBEJUo0h1t5"
-        }
-      ],
-      "duration_ms": 193392,
-      "name": "Licht Uit, Hoofd Aan",
-      "url": "https://open.spotify.com/track/0tIhOFH0203lxClqpSoKXR"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/6CK1vs9xJkebDayXu0aCdG"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 173922,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Licht Uit, Hoofd Aan",
+        "url": "https://open.spotify.com/album/4mOnst39MZG0f9cgnDalj1"
+      },
+      "artists": [
+        {
+          "name": "Sanne van Assouw",
+          "url": "https://open.spotify.com/artist/7270ccPqUyTrBEJUo0h1t5"
+        }
+      ],
+      "duration_ms": 193392,
+      "name": "Licht Uit, Hoofd Aan",
+      "url": "https://open.spotify.com/track/0tIhOFH0203lxClqpSoKXR"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "focus",
-        "url": "https://open.spotify.com/album/3Cs1UiyjaRNjaxzfinDXJK"
-      },
-      "artists": [
-        {
-          "name": "Lavils",
-          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
-        }
-      ],
-      "duration_ms": 178389,
-      "name": "focus",
-      "url": "https://open.spotify.com/track/4BY3s0pKkwOikMfg7muN6D"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Niemand Die Op Me Wacht",
         "url": "https://open.spotify.com/album/2zNA75sgT7LGaicy7js3Kh"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/4FZ9vAxFGfXbSBt4m8iZcD"
+        "name": "focus",
+        "url": "https://open.spotify.com/album/3Cs1UiyjaRNjaxzfinDXJK"
       },
       "artists": [
         {
-          "name": "Kovacs",
-          "url": "https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF"
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
         }
       ],
-      "duration_ms": 211806,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/5V390O7x6P7PGwJmPsb1t4"
+      "duration_ms": 178389,
+      "name": "focus",
+      "url": "https://open.spotify.com/track/4BY3s0pKkwOikMfg7muN6D"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -619,6 +603,22 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
+        "name": "Hangxiety",
+        "url": "https://open.spotify.com/album/70LnZLv28TPOiPBGPkRqoc"
+      },
+      "artists": [
+        {
+          "name": "Mikki van Wijk",
+          "url": "https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW"
+        }
+      ],
+      "duration_ms": 139463,
+      "name": "Hangxiety",
+      "url": "https://open.spotify.com/track/0CV2Q62N0y694aWIzfXzfB"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
         "name": "Hyperfixated",
         "url": "https://open.spotify.com/album/3Kg2nW91LYoy1793p3hg3I"
       },
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Hangxiety",
-        "url": "https://open.spotify.com/album/70LnZLv28TPOiPBGPkRqoc"
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/4FZ9vAxFGfXbSBt4m8iZcD"
       },
       "artists": [
         {
-          "name": "Mikki van Wijk",
-          "url": "https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW"
+          "name": "Kovacs",
+          "url": "https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF"
         }
       ],
-      "duration_ms": 139463,
-      "name": "Hangxiety",
-      "url": "https://open.spotify.com/track/0CV2Q62N0y694aWIzfXzfB"
+      "duration_ms": 211806,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5V390O7x6P7PGwJmPsb1t4"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/1nTnQMnV6vcLEY9WDYzqON"
-      },
-      "artists": [
-        {
-          "name": "Joyliana",
-          "url": "https://open.spotify.com/artist/1KbLQNIJpixxUKAf8D3aDn"
-        }
-      ],
-      "duration_ms": 161886,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/76sHFw8LVEKge2WJWycDmb"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Stuurloos",
         "url": "https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 160534,
       "name": "Stuurloos",
       "url": "https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/1nTnQMnV6vcLEY9WDYzqON"
+      },
+      "artists": [
+        {
+          "name": "Joyliana",
+          "url": "https://open.spotify.com/artist/1KbLQNIJpixxUKAf8D3aDn"
+        }
+      ],
+      "duration_ms": 161886,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/76sHFw8LVEKge2WJWycDmb"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Ik Beloof Je Dat Het Beter Wordt",
-        "url": "https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ik Beloof Je Dat Het Beter Wordt",
-      "url": "https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "The Way You Talk Reminds Me Of Home",
         "url": "https://open.spotify.com/album/5KQe7mZwx0gYK48DIfGG8t"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 167653,
       "name": "Overdosis",
       "url": "https://open.spotify.com/track/1sRugaIR5UKUh4aORiz6Dv"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Ik Beloof Je Dat Het Beter Wordt",
+        "url": "https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ik Beloof Je Dat Het Beter Wordt",
+      "url": "https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Before the Soil",
-        "url": "https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Fig Tree",
-      "url": "https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Rooted",
         "url": "https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 173918,
       "name": "Rooted",
       "url": "https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Before the Soil",
+        "url": "https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
+        "name": "Ik dans alleen",
+        "url": "https://open.spotify.com/album/4ZXmPNKXS0TkKcGo0M1Yys"
+      },
+      "artists": [
+        {
+          "name": "Jelle van Dael",
+          "url": "https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI"
+        }
+      ],
+      "duration_ms": 167053,
+      "name": "Ik dans alleen",
+      "url": "https://open.spotify.com/track/1EcQgdFT4TZ0W4Ld2bHfq2"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
         "name": "Blue and Green Fishes",
         "url": "https://open.spotify.com/album/5tYFhbmP1p2hU6o7s3JEnF"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 189053,
       "name": "Zwart",
       "url": "https://open.spotify.com/track/6saVEv8lQrhpswZp9x0Rjv"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
-        "name": "Ik dans alleen",
-        "url": "https://open.spotify.com/album/4ZXmPNKXS0TkKcGo0M1Yys"
-      },
-      "artists": [
-        {
-          "name": "Jelle van Dael",
-          "url": "https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI"
-        }
-      ],
-      "duration_ms": 167053,
-      "name": "Ik dans alleen",
-      "url": "https://open.spotify.com/track/1EcQgdFT4TZ0W4Ld2bHfq2"
     },
     {
       "added_at": "2026-11-03 23:00:10",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-11-03 23:00:10",
       "album": {
-        "name": "Along the Lines of Loving",
-        "url": "https://open.spotify.com/album/30Wvze6lFPQH3uGoqw7yPz"
-      },
-      "artists": [
-        {
-          "name": "Sterre Weldring",
-          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
-        }
-      ],
-      "duration_ms": 188332,
-      "name": "Like This Forever",
-      "url": "https://open.spotify.com/track/6PUUQhQQRc8fvXawkvkzks"
-    },
-    {
-      "added_at": "2026-11-03 23:00:10",
-      "album": {
         "name": "Any Questions?",
         "url": "https://open.spotify.com/album/2z4m3RIR5a94u6UI79OudG"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 210720,
       "name": "Every Little Detail",
       "url": "https://open.spotify.com/track/6fXIVTApGGviadK3JDWTTy"
+    },
+    {
+      "added_at": "2026-11-03 23:00:10",
+      "album": {
+        "name": "Along the Lines of Loving",
+        "url": "https://open.spotify.com/album/30Wvze6lFPQH3uGoqw7yPz"
+      },
+      "artists": [
+        {
+          "name": "Sterre Weldring",
+          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
+        }
+      ],
+      "duration_ms": 188332,
+      "name": "Like This Forever",
+      "url": "https://open.spotify.com/track/6PUUQhQQRc8fvXawkvkzks"
     },
     {
       "added_at": "2026-11-03 23:00:10",

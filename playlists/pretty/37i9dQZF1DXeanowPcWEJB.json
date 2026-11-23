@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 159481,
+  "num_followers": 159485,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 186500,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Juan Gabriel Instrumental",
         "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 221000,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Nos Hizo Falta Tiempo",
+        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Nos Hizo Falta Tiempo",
+      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Nos Hizo Falta Tiempo",
-        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Nos Hizo Falta Tiempo",
-      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 244640,
       "name": "Popurri de Huapangos: La Malague\u00f1a / Serenata Huasteca / El Mil Amores / El Aguacero",
       "url": "https://open.spotify.com/track/3A9XcFJkVeQGYp7ImCJErG"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+      },
+      "artists": [
+        {
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+        }
+      ],
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -659,18 +659,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Guitarra Mexicana, Vol. 1",
-        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
-          "name": "Stefan",
-          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 166467,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J"
+      "duration_ms": 175356,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -723,6 +727,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Guitarra Mexicana, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
+      },
+      "artists": [
+        {
+          "name": "Stefan",
+          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
+        }
+      ],
+      "duration_ms": 166467,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Noche Negra",
         "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 119739,
       "name": "Noche Negra",
       "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        }
-      ],
-      "duration_ms": 175356,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Los Poetas de la Guitarra",
-        "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
-      },
-      "artists": [
-        {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Piensa en Mi",
-      "url": "https://open.spotify.com/track/05sLGr0JXu4Ika7jXcilYJ"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Homenaje a Antonio Bribiesca",
         "url": "https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS"
       },
@@ -911,18 +895,34 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "San Cristobal",
-        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
+        "name": "Los Poetas de la Guitarra",
+        "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB"
         }
       ],
-      "duration_ms": 141398,
-      "name": "San Cristobal",
-      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
+      "duration_ms": 165360,
+      "name": "Piensa en Mi",
+      "url": "https://open.spotify.com/track/05sLGr0JXu4Ika7jXcilYJ"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
+        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
+      },
+      "artists": [
+        {
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera",
+      "url": "https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
-        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
+        "name": "San Cristobal",
+        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
       },
       "artists": [
         {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera",
-      "url": "https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF"
+      "duration_ms": 141398,
+      "name": "San Cristobal",
+      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Homenaje a Antonio Bribiesca",
         "url": "https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 206093,
       "name": "Canci\u00f3n Mixteca - Qu\u00e9 Lejos Estoy",
       "url": "https://open.spotify.com/track/467faSTmWsVJh2CpvZzNYt"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Guitarra Mexicana, Vol. 1",
-        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
-      },
-      "artists": [
-        {
-          "name": "Stefan",
-          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "La Zandunga",
-      "url": "https://open.spotify.com/track/0nU1vk6q6enXEZCCPyYNrM"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "En la Intimidad",
         "url": "https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5"
       },
@@ -1119,18 +1103,34 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Los Poetas de la Guitarra",
-        "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
+        "name": "Luna Lunera",
+        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
       },
       "artists": [
         {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB"
+          "name": "Cortando Troncos",
+          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/4cBQl53QbFzcK9Gk44aoBr"
+      "duration_ms": 124500,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Guitarra Mexicana, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
+      },
+      "artists": [
+        {
+          "name": "Stefan",
+          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "La Zandunga",
+      "url": "https://open.spotify.com/track/0nU1vk6q6enXEZCCPyYNrM"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Luna Lunera",
-        "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
+        "name": "Los Poetas de la Guitarra",
+        "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
       "artists": [
         {
-          "name": "Cortando Troncos",
-          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB"
         }
       ],
-      "duration_ms": 124500,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+      "duration_ms": 150293,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/4cBQl53QbFzcK9Gk44aoBr"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Los Poetas de la Guitarra",
-        "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
-      },
-      "artists": [
-        {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Fue un Placer Conocerte - Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/3QcIXswS4xGCO88rFpsu1z"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Chacra",
         "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 157529,
       "name": "Pasitos",
       "url": "https://open.spotify.com/track/34t7XTMCWWBumlXC2dtzx2"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Los Poetas de la Guitarra",
+        "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
+      },
+      "artists": [
+        {
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Fue un Placer Conocerte - Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/3QcIXswS4xGCO88rFpsu1z"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Chacra",
+        "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Paz",
+          "url": "https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik"
+        }
+      ],
+      "duration_ms": 138953,
+      "name": "Prisa Doble",
+      "url": "https://open.spotify.com/track/1hZkGs8OO9dCNMZP4RmNIC"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 131182,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Chacra",
-        "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Paz",
-          "url": "https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik"
-        }
-      ],
-      "duration_ms": 138953,
-      "name": "Prisa Doble",
-      "url": "https://open.spotify.com/track/1hZkGs8OO9dCNMZP4RmNIC"
     },
     {
       "added_at": "2024-07-11 01:27:02",

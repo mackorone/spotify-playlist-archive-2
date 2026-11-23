@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > a little rap, a little pop, a little country..\. sometimes\. Thekidszn on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,947 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,960 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

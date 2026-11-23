@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,038 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,019 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 12 min
+98 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [QuesoXte](https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 2:31 | 2024-10-30 | 2026-09-06 |
 | [Relojito Adiamantado](https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ) | 2:57 | 2025-03-13 |  |
 | [Relojito Adiamantado](https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/0NBlTXwQlvRDZ9ZV78hOxh) | 2:57 | 2024-01-29 | 2025-03-13 |
+| [San Lunes \- En Vivo](https://open.spotify.com/track/0Yw6um7WOwJItDNTvU9e8Q) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [San Lunes \(En Vivo\)](https://open.spotify.com/album/524CxunjXzjqwMlKDZ3Stn) | 4:12 | 2026-11-23 |  |
 | [Se Me Amanece](https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DOSIS](https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z) | 3:34 | 2026-05-25 |  |
 | [Si Yo Me Activo](https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:30 | 2025-03-15 |  |
 | [Si Yo Me Activo](https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:31 | 2024-01-29 | 2025-03-15 |
@@ -90,7 +91,7 @@
 | [Te Vi](https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Te Vi](https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x) | 2:42 | 2024-09-08 | 2025-09-16 |
 | [Tierno](https://open.spotify.com/track/4q3WSd89URSGHjMEuZRnCY) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Tierno](https://open.spotify.com/album/4nWpgMsz8BblhTRxZSIohi) | 2:18 | 2024-10-28 | 2025-11-02 |
 | [TODO DE AMIRI \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [TODO DE AMIRI \(En Vivo desde Los Ángeles\)](https://open.spotify.com/album/5v6xboDhAiFOGGFijg65WT) | 2:05 | 2025-06-22 | 2026-01-21 |
-| [TODO DE AMIRI \- En Vivo desde Los Ángeles](https://open.spotify.com/track/1zhf80P3wAcWjiGfoYIsfg) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:05 | 2026-11-09 |  |
+| [TODO DE AMIRI \- En Vivo desde Los Ángeles](https://open.spotify.com/track/1zhf80P3wAcWjiGfoYIsfg) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:05 | 2026-11-09 | 2026-11-23 |
 | [TODO PENDEJO](https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [TODO PENDEJO](https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK) | 3:10 | 2026-01-18 | 2026-08-11 |
 | [Tú Eres X](https://open.spotify.com/track/1OChsjdKyi2K486e0dTWKu) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Tú Eres X](https://open.spotify.com/album/4QVOIM5apRmHWV7seReXi2) | 3:17 | 2026-08-23 |  |
 | [Un Niño Buscando Un Sueño](https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Un Niño Buscando Un Sueño](https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD) | 2:43 | 2025-01-20 |  |

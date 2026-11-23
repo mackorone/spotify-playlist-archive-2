@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Israel & New Breed, Unified Sound, Adrienne Bailon\-Houghton, Claudette Bailon, Diana Marie, Travy Joe, Aaron Moses, & Nate Diaz
 
-273 songs - 17 hr 48 min
+274 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,13 +183,14 @@
 | [Navidad](https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA) | [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Navidad](https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw) | 3:48 | 2021-12-24 |  |
 | [Navidad En Mi País](https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 4:10 | 2021-12-24 |  |
 | [Navidad en Miami](https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Navidad en Miami](https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK) | 2:40 | 2022-12-10 |  |
-| [Navidad es Jesús](https://open.spotify.com/track/6Bpreva8hza5SyW0Ob3kbl) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Navidad Es Jesús](https://open.spotify.com/album/523eoKL0T2oGzMg6W0Cvyf) | 5:26 | 2021-12-24 |  |
+| [Navidad es Jesús](https://open.spotify.com/track/6Bpreva8hza5SyW0Ob3kbl) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Navidad Es Jesús](https://open.spotify.com/album/523eoKL0T2oGzMg6W0Cvyf) | 5:26 | 2021-12-24 | 2026-11-23 |
 | [Navidad Es Jesús \- 2020 Remasterizado](https://open.spotify.com/track/4uHZzqsTVrcs1Ob47Q5pr2) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Emmanuel y Linda](https://open.spotify.com/artist/5zLxzk3M5pfViB81P2R1aG) | [Esta Navidad](https://open.spotify.com/album/0THHB0bxRAaw33N6Q7pEEc) | 5:26 | 2021-12-24 | 2024-04-19 |
 | [Navidad Llegó](https://open.spotify.com/track/5GHpwFfnHcj7kC4RaDkQ4u) | [Alejandra Miguez](https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6) | [Navidad Llegó](https://open.spotify.com/album/1kZuuVkiGyFc2LpNbkfzmw) | 3:58 | 2023-12-15 |  |
 | [Navidad Llegó](https://open.spotify.com/track/55N7vaSCbmB2JTp08F9wmA) | [Dauny & Sucely](https://open.spotify.com/artist/0rKMA476BQMLIesPgyakcH), [Dauny](https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7), [Sucely](https://open.spotify.com/artist/4tlNGVNSHusqJ9GA58Rlfe) | [Navidad Llegó](https://open.spotify.com/album/31wvx0Y94BXHUCfufKV4u8) | 3:08 | 2024-12-13 |  |
 | [Navidad Perfecta](https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Nació en Mi Corazón](https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18) | 3:35 | 2021-12-24 |  |
 | [Niño de Belen](https://open.spotify.com/track/0fgLrK4OG0lFI8t6eMxQPe) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Sigo Esperándote](https://open.spotify.com/album/7wpBG568NezLMOogEWRgQs) | 5:28 | 2021-12-24 | 2025-12-07 |
 | [Niño de Belén](https://open.spotify.com/track/6SG8XoBgrR5Q9qEuIxTpbR) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Sigo Esperándote](https://open.spotify.com/album/0236Yhp0TiVIjUcJy7h5eM) | 5:28 | 2021-12-24 | 2024-04-19 |
+| [Niño Dios \- Pequeña Luz](https://open.spotify.com/track/7DAZtQA7lxGiV8njha7vxn) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Siguiendo Su Estrella](https://open.spotify.com/album/4yu0rgaatpWplLVCcRuv9U) | 4:13 | 2026-11-21 |  |
 | [No Hay Navidades Como las de Aquí](https://open.spotify.com/track/6DMXASMDKkJ2AeJbhroH2r) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [No Hay Navidades Como las de Aquí](https://open.spotify.com/album/5W3M9XcDUp4eGLkkEK991d) | 3:06 | 2023-12-15 | 2025-12-07 |
 | [No Me Soltarás](https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Con El Corazón En La Mano](https://open.spotify.com/album/3PB8k8AGcSP5rIAQNuZKYV) | 5:01 | 2021-12-24 | 2024-04-19 |
 | [No Me Soltarás](https://open.spotify.com/track/27gBMppFLRjY0B0xmAYyIY) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo 10 Años](https://open.spotify.com/album/3tk3y6FPUIGhNmaV0m4st6) | 5:01 | 2021-12-24 | 2024-07-30 |

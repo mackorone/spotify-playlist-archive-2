@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 245879,
       "name": "All the Best Cowboys Have Daddy Issues",
       "url": "https://open.spotify.com/track/11oio61wuQD1WZafQwgexO"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "Bonecrusher",
+      "url": "https://open.spotify.com/track/03K0eFZ2dFiyo3RTAVZWp5"
+    },
+    {
+      "album": {
         "name": "Still Searching (Deluxe Version)",
         "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 153693,
       "name": "Bonecrusher",
       "url": "https://open.spotify.com/track/5q3YCJXDJ6UntL4Bn1QDsZ"
@@ -690,7 +708,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Elevator to the Gallows",
       "url": "https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA"
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 192000,
       "name": "I'm Sorry I'm Leaving",
       "url": "https://open.spotify.com/track/72nAyk2uMbRcix2oI2oEM5"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 230119,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/4K6edNM205oiq5j8GDzllr"
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 265760,
       "name": "Mason's Revenge",
       "url": "https://open.spotify.com/track/4J652lKSRWY2luXmJhmDP3"
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 182555,
       "name": "Stretch Your Legs to Coffin Length",
       "url": "https://open.spotify.com/track/1xfwhzpWX6kVh2guToXwk5"

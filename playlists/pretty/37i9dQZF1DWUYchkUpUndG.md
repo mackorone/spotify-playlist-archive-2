@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,516 likes - 97 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,536 likes - 97 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/Dfz\-UTFGVNP/?hl=en">Vic Mensa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,785 likes - 161 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,758 likes - 161 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

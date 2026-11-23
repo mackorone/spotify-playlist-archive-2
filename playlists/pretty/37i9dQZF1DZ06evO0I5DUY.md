@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,245 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,268 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 18 | [El Pata de Palo](https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:16 |
 | 19 | [La Tragedia de Rosita](https://open.spotify.com/track/3Zu8YsXSO8AeOYTAIp7ntv) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Cazador de Asesinos](https://open.spotify.com/album/4irooFudmMNZGIKIAYdQmk) | 3:12 |
 | 20 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 |
-| 21 | [El Caballo Jovero](https://open.spotify.com/track/4HN0lsiN73tJJLd5nIguAx) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 3:10 |
+| 21 | [Pueblito](https://open.spotify.com/track/4TQuO6JOwPW9CRCFwEFILh) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:32 |
 | 22 | [El Muchacho y el Potro](https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:13 |
-| 23 | [Pueblito](https://open.spotify.com/track/4TQuO6JOwPW9CRCFwEFILh) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:32 |
+| 23 | [El Caballo Jovero](https://open.spotify.com/track/4HN0lsiN73tJJLd5nIguAx) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 3:10 |
 | 24 | [Cazador de Asesinos](https://open.spotify.com/track/67FqUlBZL2ljoMOC2eQKFW) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Cazador de Asesinos](https://open.spotify.com/album/4irooFudmMNZGIKIAYdQmk) | 3:02 |
 | 25 | [Tu Vida No Me Importa](https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:23 |
 | 26 | [El Retorno de Chito Cano](https://open.spotify.com/track/3q7NL8PxuVOKxUw2aNQs88) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:08 |
-| 27 | [Eran Cuatro de a Caballo](https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 3:05 |
-| 28 | [El Regio Traficante](https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:21 |
+| 27 | [El Regio Traficante](https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:21 |
+| 28 | [Eran Cuatro de a Caballo](https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 3:05 |
 | 29 | [El Hijo Del Palenque](https://open.spotify.com/track/7rwYjq4vIxIXKYwRX4Hl1l) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo Del Palenque](https://open.spotify.com/album/2nVMx0p4RXPuCRKiOelIOX) | 3:09 |
 | 30 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 |
 | 31 | [Cosas del Ayer](https://open.spotify.com/track/19mX627iFZeXidj0akB9aT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:52 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 34 | [Eleazar del Fierro](https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:10 |
 | 35 | [Desprecio](https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
 | 36 | [Rezando Por Ella](https://open.spotify.com/track/235g5dKnBjF45Bhpou8qiO) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo del Palenque](https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY) | 2:37 |
-| 37 | [Mi Primer Amor](https://open.spotify.com/track/0Sn0HKpcwfjPxv29GKg1FJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:36 |
-| 38 | [Por Ser Tan Pobre](https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Mis Recuerdos Adios Amigo Del Alma](https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx) | 2:20 |
+| 37 | [Por Ser Tan Pobre](https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Mis Recuerdos Adios Amigo Del Alma](https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx) | 2:20 |
+| 38 | [Mi Primer Amor](https://open.spotify.com/track/0Sn0HKpcwfjPxv29GKg1FJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:36 |
 | 39 | [Lucio Pena](https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:57 |
 | 40 | [Cruz Negra](https://open.spotify.com/track/1iEweQPoM1pgXHMWTk0iBM) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo del Palenque](https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY) | 3:04 |
 | 41 | [El Chubasco](https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [Un Noble Engaño](https://open.spotify.com/track/6xmQN57KeoivWxIah2OLPg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Noble Engaño](https://open.spotify.com/album/6vPSI7T4CRvX00PpyqLmKO) | 3:03 |
 | 50 | [Cielo Azul Cielo Nublado](https://open.spotify.com/track/2TSnh3icR23mUQC3wIOorU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Auténticos](https://open.spotify.com/album/5thl5PvQuIr1UIF1q8HEwo) | 1:59 |
 
-Snapshot ID: `av+NgAAAAADx7cz3eyJoJJd7Cyv1Iol+`
+Snapshot ID: `awDfAAAAAAD/X1dJu4g4/WQ4ograhS07`

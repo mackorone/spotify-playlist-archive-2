@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-266 songs - 14 hr 18 min
+267 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Jim Casy’s Confusion](https://open.spotify.com/track/3PJD3zhY8JESbShPzuDsA2) | [Rebelhot dj](https://open.spotify.com/artist/5mhhM923n0XZv1SJ4TSdw6) | [Rose of Sharon](https://open.spotify.com/album/7LI56W2Afv9O0wmYUXyBup) | 3:17 | 2023-04-24 |  |
 | [JRASBY](https://open.spotify.com/track/4JfO9ZoMvuaWDtQEZHMi9G) | [Pryeur](https://open.spotify.com/artist/1fN6shtwQwczw6U30IeJtR) | [JRASBY](https://open.spotify.com/album/6dzKi15mHELPOcn7zvOx8y) | 3:19 | 2024-06-26 |  |
 | [Kaboom](https://open.spotify.com/track/3O9i1IF2xEiy4jJLFqLidh) | [Julia](https://open.spotify.com/artist/08AIsYUXZ2PuUKVdwoAcf0) | [Kaboom](https://open.spotify.com/album/5fypJDJjWrzYveSDsziQhE) | 2:51 | 2023-04-24 |  |
+| [Kasanga](https://open.spotify.com/track/2reqGl9zaMY3Jc312uWr6A) | [YTP](https://open.spotify.com/artist/4FkXK5mCRdCOAfBWiKeX5H) | [Kasanga](https://open.spotify.com/album/4ZTd3uypHaieCb802NvQcn) | 2:15 | 2026-11-22 |  |
 | [Kicking](https://open.spotify.com/track/3gG7pJbs0WMXpEWJikfV8T) | [FiverKent](https://open.spotify.com/artist/16hg5N2pmoxIVo5x71X6NT) | [Kicking](https://open.spotify.com/album/39QrOfe7UY5sKTGsyJJr2M) | 2:48 | 2023-04-28 |  |
 | [Knockout](https://open.spotify.com/track/7bufsDt1GfSzQ13yxFHW2I) | [Z3US](https://open.spotify.com/artist/02iWivfcOM1cvsVQEroVDk), [Mantiq](https://open.spotify.com/artist/7ft9T9XIU8sEkyHyuFUgYR) | [Knockout](https://open.spotify.com/album/1y40jX8LWMxFAx2nYdFN4F) | 2:42 | 2024-05-01 |  |
 | [KO](https://open.spotify.com/track/3Wrnx3uiXD5CNiJiD3xt3f) | [Shelter Colony](https://open.spotify.com/artist/3QfanSoHT32A3OS9e0LNfx), [Oni](https://open.spotify.com/artist/0TnpPSMxNMeb1HvWnDpjcO) | [Moonglade](https://open.spotify.com/album/7c9WSc8hsCh5rvzvyENEjC) | 3:02 | 2023-03-13 |  |

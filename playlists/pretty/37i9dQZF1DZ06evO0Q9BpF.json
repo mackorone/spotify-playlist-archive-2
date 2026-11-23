@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 52029,
+  "num_followers": 52031,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADCZkqdhN9QN1lXUp1gvuuH",
+  "snapshot_id": "awDfAAAAAABrv61S6SiY6rheCggtPy3b",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 564281,
+      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 605448,
       "name": "Obra de Tu Amor (Alfarero) [En Vivo]",
       "url": "https://open.spotify.com/track/2c6GI6IJj4y8of8a6HeKiE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
-      },
-      "artists": [
-        {
-          "name": "MISSION MUSICA",
-          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 564281,
-      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
     },
     {
       "added_at": null,
@@ -655,6 +655,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/2vx7at7h5SV4Oqz8cLNQUm"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 433080,
+      "name": "Baut\u00edzame (feat. Fernandinho)",
+      "url": "https://open.spotify.com/track/2XvUUgMxDna4uC9tRko6Eu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Nunca Me Avergonzar\u00e9",
+      "url": "https://open.spotify.com/track/786Dkp6Y8JgvBv4Qu7BUTu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
       },
@@ -679,46 +719,6 @@
       "duration_ms": 245760,
       "name": "Si T\u00fa Est\u00e1s Conmigo - En Vivo",
       "url": "https://open.spotify.com/track/5RJ22zADrNKHYZjFB4718o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/3ByUMtraiSJ9t2xD2pcRpn"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Nunca Me Avergonzar\u00e9",
-      "url": "https://open.spotify.com/track/786Dkp6Y8JgvBv4Qu7BUTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/2vx7at7h5SV4Oqz8cLNQUm"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 433080,
-      "name": "Baut\u00edzame (feat. Fernandinho)",
-      "url": "https://open.spotify.com/track/2XvUUgMxDna4uC9tRko6Eu"
     },
     {
       "added_at": null,
@@ -918,11 +918,19 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 388853,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/6np3uZnAFzDKTLmenvVCgh"
+      "duration_ms": 389946,
+      "name": "La Nube De Tu Gloria (feat. Grupo Barak)",
+      "url": "https://open.spotify.com/track/1NseCbBak84iCLgbcqEPWS"
     },
     {
       "added_at": null,
@@ -1002,19 +1010,11 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 389946,
-      "name": "La Nube De Tu Gloria (feat. Grupo Barak)",
-      "url": "https://open.spotify.com/track/1NseCbBak84iCLgbcqEPWS"
+      "duration_ms": 388853,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/6np3uZnAFzDKTLmenvVCgh"
     },
     {
       "added_at": null,
@@ -1026,19 +1026,11 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 349187,
-      "name": "Encuentro Glorioso",
-      "url": "https://open.spotify.com/track/1J8nUS0I6OiW54SG4syUzO"
+      "duration_ms": 342227,
+      "name": "Hacedor De Milagros",
+      "url": "https://open.spotify.com/track/0k1AFOLkRs0x5agrSPbCY0"
     },
     {
       "added_at": null,
@@ -1082,11 +1074,19 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 342227,
-      "name": "Hacedor De Milagros",
-      "url": "https://open.spotify.com/track/0k1AFOLkRs0x5agrSPbCY0"
+      "duration_ms": 349187,
+      "name": "Encuentro Glorioso",
+      "url": "https://open.spotify.com/track/1J8nUS0I6OiW54SG4syUzO"
     }
   ],
   "unique_name": "This Is Generaci\u00f3n 12",

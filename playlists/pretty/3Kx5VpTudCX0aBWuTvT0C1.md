@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,317 likes - 114 songs - 6 hr 50 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,316 likes - 115 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 112 | [Sexy Freak'aLicious](https://open.spotify.com/track/5AdkvB7z14eMGTTj2b49My) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Sexy Freak'aLicious](https://open.spotify.com/album/4OFIAf8r7kkF2MvFkexxDq) | 3:07 |
 | 113 | [Eye To Eye](https://open.spotify.com/track/7r152bhgOM1CvlEzoQQVeI) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Eye To Eye](https://open.spotify.com/album/7nYGeThehF01LYvmj53Ec7) | 3:12 |
 | 114 | [To Love And Be Loved](https://open.spotify.com/track/5KJgyTaeYJ29Jj5To4gGLJ) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Loving Well and Badly](https://open.spotify.com/album/4kT4HzepPBPjrbVm7vIFDU) | 4:53 |
+| 115 | [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 |
 
-Snapshot ID: `AAAC5rHtlhtNhcK5QPJbMaf62LQh08S7`
+Snapshot ID: `AAAC51mUNOibtu8gvKpWBM8dHAMLQLlH`

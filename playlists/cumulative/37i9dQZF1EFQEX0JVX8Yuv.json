@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Detour (Rare N' Deluxe)",
+        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160303,
+      "name": "Rare N' Deluxe",
+      "url": "https://open.spotify.com/track/6xK6JHpASzcEF9zzLx1pI0"
+    },
+    {
+      "album": {
         "name": "Reason Why (feat. Kim Petras & BC Kingdom)",
         "url": "https://open.spotify.com/album/5elJWlKT79phbaxMD20WWm"
       },

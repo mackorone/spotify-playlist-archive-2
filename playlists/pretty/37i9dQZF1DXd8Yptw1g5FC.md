@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > PERMA ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,309 likes - 133 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,300 likes - 133 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

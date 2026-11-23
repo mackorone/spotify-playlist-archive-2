@@ -6,7 +6,7 @@
     "name": "Arcana",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAACKQcqEqbZ+SNAYPgGnjta1bJ/qWvx",
+  "snapshot_id": "AAACK8BmwjHJBz1y3or4CEL+5TKYCKmV",
   "tracks": [
     {
       "added_at": "2026-10-12 04:18:08",
@@ -5493,22 +5493,6 @@
       "url": "https://open.spotify.com/track/0ESvycLD9csoJpgNEYBLR8"
     },
     {
-      "added_at": "2025-04-04 19:04:13",
-      "album": {
-        "name": "Fading Away",
-        "url": "https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16"
-      },
-      "artists": [
-        {
-          "name": "Verplex",
-          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
-        }
-      ],
-      "duration_ms": 86700,
-      "name": "Fursuit Friday",
-      "url": "https://open.spotify.com/track/1X1EVr6b5g2YUv0uiOEi71"
-    },
-    {
       "added_at": "2025-04-08 07:49:48",
       "album": {
         "name": "Baby You're a Haunted House",
@@ -10375,6 +10359,22 @@
       "duration_ms": 1940050,
       "name": "FNAF the musical (feat. Markiplier and Nathan Sharp)",
       "url": "https://open.spotify.com/episode/0P8Rgvw7Dm3dflPVsb9A1l"
+    },
+    {
+      "added_at": "2026-11-23 00:27:33",
+      "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE"
+      },
+      "artists": [
+        {
+          "name": "MilkyyMelodies",
+          "url": "https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO"
+        }
+      ],
+      "duration_ms": 171687,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ"
     }
   ],
   "unique_name": "My favourite furry songs",

@@ -4,7 +4,7 @@
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-107 songs - 6 hr 11 min
+108 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Don't! \- Greatest Hits Version](https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Don't!](https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3) | 3:58 | 2024-03-09 |  |
 | [Down The Middle](https://open.spotify.com/track/4Qso9aF5ZPpMOP9FKoBTEU) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:15 | 2026-08-22 | 2026-08-23 |
 | [Endless Love](https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:19 | 2024-03-09 |  |
-| [Faded Blue Jeans \(feat\. Josh Homme\)](https://open.spotify.com/track/1uSIRVLHBseKIF2pu3y3Io) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Josh Homme](https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:31 | 2026-09-27 |  |
+| [Faded Blue Jeans \(feat\. Josh Homme\)](https://open.spotify.com/track/1uSIRVLHBseKIF2pu3y3Io) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Josh Homme](https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:31 | 2026-09-27 | 2026-11-23 |
 | [Faded Blue Jeans \(feat\. Josh Homme\)](https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Josh Homme](https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB) | [Faded Blue Jeans](https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2) | 2:31 | 2026-07-12 | 2026-09-27 |
 | [Forever And Ever, Amen](https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Twenty Twenty](https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb) | 3:20 | 2024-03-09 |  |
 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 | 2024-03-09 |  |
@@ -86,6 +86,7 @@
 | [That Don't Impress Me Much \- Edit](https://open.spotify.com/track/1wneerMXqozDjikFAKSUlw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:38 | 2025-11-21 |  |
 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:59 | 2024-03-09 |  |
 | [That's The Money](https://open.spotify.com/track/0fQywf9DypbCkHGXuiWCEu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:56 | 2026-08-23 | 2026-09-21 |
+| [The Places I’ll Go](https://open.spotify.com/track/4spLDomQFQYfumwKO2Ca6H) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain \- The Places I'll Go](https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6) | 4:50 | 2026-11-23 |  |
 | [The Woman In Me \(Needs The Man In You\)](https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:49 | 2024-03-09 |  |
 | [Trippin on Good Luck](https://open.spotify.com/track/4EQDo1JXbdButH3DuZzMIL) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain \- The Places I'll Go](https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6) | 2:30 | 2026-10-19 |  |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2Z5EUCXngeoYD7wmJBcJv1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:29 | 2024-11-10 |  |

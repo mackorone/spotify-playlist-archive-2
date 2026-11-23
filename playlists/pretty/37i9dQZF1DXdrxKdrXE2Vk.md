@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: LO Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,477 likes - 74 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,497 likes - 74 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 73 | [Prepare Him Room \- Live](https://open.spotify.com/track/15iQbtvwthmOWk9joFkoPc) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prepare Him Room \(Live\)](https://open.spotify.com/album/5gLHqBvauyUQrHUklvpcnj) | 3:58 |
 | 74 | [Greatly To Be Praised \- Live](https://open.spotify.com/track/4nxbshOlmnBPG94wjMHsaU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Greatly To Be Praised \(Live\)](https://open.spotify.com/album/2OSFDqMbtiqHrSVXbWbQHM) | 8:58 |
 
-Snapshot ID: `AAAAAOwLENBUWgL+6Q4r9qa1vyH0VCeC`
+Snapshot ID: `AAAAACZxmHBlyjVN6SHRVj52MDB4qrZJ`

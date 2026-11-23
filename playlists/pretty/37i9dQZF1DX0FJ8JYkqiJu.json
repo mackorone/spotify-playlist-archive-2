@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 416102,
+  "num_followers": 416108,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -127,30 +127,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Think Of Me",
-        "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
+        "name": "Dance In The Sunlight",
+        "url": "https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
         }
       ],
-      "duration_ms": 170041,
-      "name": "Think Of Me",
-      "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
+      "duration_ms": 167000,
+      "name": "Dance In The Sunlight",
+      "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -175,22 +167,30 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Dance In The Sunlight",
-        "url": "https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78"
+        "name": "Think Of Me",
+        "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Bandit",
-          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Dance In The Sunlight",
-      "url": "https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F"
+      "duration_ms": 170041,
+      "name": "Think Of Me",
+      "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Love\u2019s A Game",
+        "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 206585,
+      "name": "Love\u2019s A Game",
+      "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Random Access Memories (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Love\u2019s A Game",
-        "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Love\u2019s A Game",
-      "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 173644,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "DO 4 LOVE (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 224281,
       "name": "DO 4 LOVE - Black Coffee Remix",
       "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
-      },
-      "artists": [
-        {
-          "name": "goodlife",
-          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 167009,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
+      },
+      "artists": [
+        {
+          "name": "goodlife",
+          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 167009,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Into Dust (Still Falling)",
+        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 333779,
+      "name": "Into Dust (Still Falling)",
+      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/11aWEu6KUAzcjZND5KYbcN"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 189750,
       "name": "Together",
       "url": "https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Into Dust (Still Falling)",
-        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 333779,
-      "name": "Into Dust (Still Falling)",
-      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/5NUzHrq6GfY8gbix8VIu0h"
-      },
-      "artists": [
-        {
-          "name": "Alyz\u00e9e",
-          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
-        },
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        }
-      ],
-      "duration_ms": 206777,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/5bx1aS5zltF4dNAgKidK4Z"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Grapevine",
         "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
       },
@@ -1067,6 +1047,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/5NUzHrq6GfY8gbix8VIu0h"
+      },
+      "artists": [
+        {
+          "name": "Alyz\u00e9e",
+          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
+        },
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        }
+      ],
+      "duration_ms": 206777,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/5bx1aS5zltF4dNAgKidK4Z"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -1083,62 +1083,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "Ahmed Spins",
+          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
         }
       ],
-      "duration_ms": 184000,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 222701,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Euro",
-        "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 168717,
-      "name": "Euro",
-      "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
+      "duration_ms": 264614,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1163,22 +1123,62 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Ahmed Spins",
-          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         }
       ],
-      "duration_ms": 264614,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
+      "duration_ms": 222701,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Euro",
+        "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 168717,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "some kind of peace",
         "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "What a Wonderful World (Krister Remix)",
         "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "added_at": "2026-06-02 14:00:24",

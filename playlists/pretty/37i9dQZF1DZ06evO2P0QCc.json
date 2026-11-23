@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 127508,
+  "num_followers": 127520,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAABwamjJxaCWEJyhdn2TRexw",
+  "snapshot_id": "awDfAAAAAAAbK2WL4W62HSh1KCOHJF1e",
   "tracks": [
     {
       "added_at": null,
@@ -607,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta, Vol.1",
-        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
+        "name": "Sonando desde el Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         }
       ],
-      "duration_ms": 208826,
-      "name": "Nunca Digas Que No",
-      "url": "https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v"
+      "duration_ms": 226466,
+      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
     },
     {
       "added_at": null,
@@ -639,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonando desde el Auditorio Nacional",
-        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
+        "name": "Ska a La Carta, Vol.1",
+        "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
+      "duration_ms": 208826,
+      "name": "Nunca Digas Que No",
+      "url": "https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v"
     },
     {
       "added_at": null,
@@ -746,11 +746,15 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/3QSTHfiY4StrlFtEoCvQK6"
         }
       ],
-      "duration_ms": 242800,
-      "name": "La Tregua",
-      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
+      "duration_ms": 224000,
+      "name": "El Amargado",
+      "url": "https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH"
     },
     {
       "added_at": null,
@@ -791,42 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Amar O Morir",
-      "url": "https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/3QSTHfiY4StrlFtEoCvQK6"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "El Amargado",
-      "url": "https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska a La Carta, Vol.1",
         "url": "https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 173773,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/0vDqVNO9oc8F2lKB1IzJn0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "La Tregua",
+      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Amar O Morir",
+      "url": "https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A"
     },
     {
       "added_at": null,

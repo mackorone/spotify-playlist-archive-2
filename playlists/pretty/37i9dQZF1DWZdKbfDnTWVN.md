@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/6w4t3pnu0u5aDfnkDzN4vA?si=21ca3d6a3b2d4ee9"> Calvo Mistari</a> and <a href="https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6?si=60a217ce15f949e3"> Naiboi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,146 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,174 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

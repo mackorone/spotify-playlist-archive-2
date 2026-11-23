@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 2020s! Cover: KAROL G",
-  "num_followers": 21271,
+  "num_followers": 21277,
   "original_name": "Los 20s",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "SAN BLAS",
-        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 240964,
-      "name": "ori\u00f3N",
-      "url": "https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE"
-    },
-    {
-      "added_at": "2026-10-02 20:28:18",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2026-10-02 20:28:18",
+      "album": {
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 240964,
+      "name": "ori\u00f3N",
+      "url": "https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -343,26 +343,22 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "La Plena (W Sound 05)",
-        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
       "artists": [
         {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 150001,
-      "name": "La Plena - W Sound 05",
-      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -403,22 +399,26 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
-    },
-    {
-      "added_at": "2026-10-02 20:28:18",
-      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
+    },
+    {
+      "added_at": "2026-10-02 20:28:18",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
-    },
-    {
-      "added_at": "2026-10-02 20:28:18",
-      "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"
+    },
+    {
+      "added_at": "2026-10-02 20:28:18",
+      "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2026-10-02 20:28:18",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6b2HYgqcK9mvktt4GxAu72"
+    },
+    {
+      "added_at": "2026-10-02 20:28:18",
+      "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
+    },
+    {
+      "added_at": "2026-10-02 20:28:18",
+      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -1327,38 +1343,22 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
-    },
-    {
-      "added_at": "2026-10-02 20:28:18",
-      "album": {
-        "name": "Se Te Nota (with Guaynaa)",
-        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 155825,
-      "name": "Se Te Nota (with Guaynaa)",
-      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+        "name": "Se Te Nota (with Guaynaa)",
+        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
         },
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
+      "duration_ms": 155825,
+      "name": "Se Te Nota (with Guaynaa)",
+      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Plan A",
-      "url": "https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz"
-    },
-    {
-      "added_at": "2026-10-02 20:28:18",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 209765,
       "name": "Favorito",
       "url": "https://open.spotify.com/track/0jT8Nl0shPS8115is0wD2Q"
+    },
+    {
+      "added_at": "2026-10-02 20:28:18",
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz"
     },
     {
       "added_at": "2026-10-02 20:28:18",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-10-02 20:28:18",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
-    },
-    {
-      "added_at": "2026-10-02 20:28:18",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 217546,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2026-10-02 20:28:18",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
     },
     {
       "added_at": "2026-10-02 20:28:18",

@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 6435,
+  "num_followers": 6531,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,22 @@
     {
       "added_at": "2026-10-05 21:55:54",
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 231773,
-      "name": "Me Dediqu\u00e9 a Perderte",
-      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
     },
     {
       "added_at": "2026-10-05 21:55:54",
@@ -199,22 +203,34 @@
     {
       "added_at": "2026-10-05 21:55:54",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+      "duration_ms": 231773,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
+    },
+    {
+      "added_at": "2026-10-05 21:55:54",
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2026-10-05 21:55:54",
@@ -235,22 +251,6 @@
       "duration_ms": 232533,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2026-10-05 21:55:54",
-      "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2026-10-05 21:55:54",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-05 21:55:54",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2026-10-05 21:55:54",
-      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
+    },
+    {
+      "added_at": "2026-10-05 21:55:54",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2026-10-05 21:55:54",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-10-05 21:55:54",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2026-10-05 21:55:54",
-      "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 247893,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+    },
+    {
+      "added_at": "2026-10-05 21:55:54",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2026-10-05 21:55:54",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-10-05 21:55:54",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
+    },
+    {
+      "added_at": "2026-10-05 21:55:54",
+      "album": {
         "name": "\u00bfD\u00f3nde Nos Quedamos?",
         "url": "https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 237335,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau"
-    },
-    {
-      "added_at": "2026-10-05 21:55:54",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
     },
     {
       "added_at": "2026-10-05 21:55:54",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-10-05 21:55:54",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
+    },
+    {
+      "added_at": "2026-10-05 21:55:54",
+      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 296026,
       "name": "Cara de Ni\u00f1o",
       "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
-    },
-    {
-      "added_at": "2026-10-05 21:55:54",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
     },
     {
       "added_at": "2026-10-05 21:55:54",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-10-05 21:55:54",
       "album": {
-        "name": "Pafuera Telara\u00f1as",
-        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
-      },
-      "artists": [
-        {
-          "name": "Bebe",
-          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
-    },
-    {
-      "added_at": "2026-10-05 21:55:54",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 281933,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt"
+    },
+    {
+      "added_at": "2026-10-05 21:55:54",
+      "album": {
+        "name": "Pafuera Telara\u00f1as",
+        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
+      },
+      "artists": [
+        {
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Ritmo!",

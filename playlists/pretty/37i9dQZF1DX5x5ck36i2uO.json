@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 11360,
+  "num_followers": 11368,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
-        "name": "\u6d6e\u4e16\u64ca",
-        "url": "https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J"
-      },
-      "artists": [
-        {
-          "name": "YELLOW\u9ec3\u5ba3",
-          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "\u7f8a\u76ae\u5148\u751f",
-      "url": "https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
       },
@@ -451,26 +435,18 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
-        "name": "Net,Trap,Launcher,Capture",
-        "url": "https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn"
+        "name": "\u6d6e\u4e16\u64ca",
+        "url": "https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J"
       },
       "artists": [
         {
-          "name": "unofficialboyy",
-          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
-        },
-        {
-          "name": "RYUHAIF",
-          "url": "https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR"
-        },
-        {
-          "name": "gamma",
-          "url": "https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3"
+          "name": "YELLOW\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
         }
       ],
-      "duration_ms": 230322,
-      "name": "bother 2021",
-      "url": "https://open.spotify.com/track/3rF1DVw8yyoNiwhx6qyM5g"
+      "duration_ms": 212706,
+      "name": "\u7f8a\u76ae\u5148\u751f",
+      "url": "https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x"
     },
     {
       "added_at": "2026-06-26 09:20:00",
@@ -495,6 +471,30 @@
       "duration_ms": 239259,
       "name": "VISTA (feat. gaeko, THAMA)",
       "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
+        "name": "Net,Trap,Launcher,Capture",
+        "url": "https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn"
+      },
+      "artists": [
+        {
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        },
+        {
+          "name": "RYUHAIF",
+          "url": "https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR"
+        },
+        {
+          "name": "gamma",
+          "url": "https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "bother 2021",
+      "url": "https://open.spotify.com/track/3rF1DVw8yyoNiwhx6qyM5g"
     },
     {
       "added_at": "2026-06-26 09:20:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 272293,
       "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/5dhIalMumQFewgozEupkPi"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-06-26 09:20:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-06-26 09:20:00",
       "album": {
-        "name": "INSTANT (feat. SUMIN)",
-        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 178860,
-      "name": "INSTANT (feat. SUMIN)",
-      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
-    },
-    {
-      "added_at": "2026-06-26 09:20:00",
-      "album": {
         "name": "MY MAN",
         "url": "https://open.spotify.com/album/5m4tzRlNB4CCP2ZPf8YgBC"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 170312,
       "name": "MY MAN",
       "url": "https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe"
+    },
+    {
+      "added_at": "2026-06-26 09:20:00",
+      "album": {
+        "name": "INSTANT (feat. SUMIN)",
+        "url": "https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 178860,
+      "name": "INSTANT (feat. SUMIN)",
+      "url": "https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN"
     },
     {
       "added_at": "2026-06-26 09:20:00",

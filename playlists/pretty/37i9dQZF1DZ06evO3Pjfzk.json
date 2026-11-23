@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 119381,
+  "num_followers": 119437,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADNTUdi/pW5QDfT7aGVBAuZ",
+  "snapshot_id": "awDfAAAAAABQd4hsbD7KReXJWo1NtLQI",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 277659,
-      "name": "wait in the truck",
-      "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 237493,
       "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 277659,
+      "name": "wait in the truck",
+      "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Younger You (featuring Lainey Wilson) [From the \"Hannah Montana 20th Anniversary Special\"]",
-        "url": "https://open.spotify.com/album/3vClILXGeaZyBu4IqdpDAG"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "Younger You (featuring Lainey Wilson) - From the \"Hannah Montana 20th Anniversary Special\"",
-      "url": "https://open.spotify.com/track/3Gk6bI1kJDkEftel3suQSa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light of a Clear Blue Morning",
         "url": "https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Younger You (featuring Lainey Wilson) [From the \"Hannah Montana 20th Anniversary Special\"]",
+        "url": "https://open.spotify.com/album/3vClILXGeaZyBu4IqdpDAG"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Younger You (featuring Lainey Wilson) - From the \"Hannah Montana 20th Anniversary Special\"",
+      "url": "https://open.spotify.com/track/3Gk6bI1kJDkEftel3suQSa"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Woman (Lainey Wilson Version)",
         "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 212175,
       "name": "Wild Woman - Lainey Wilson Version",
       "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Straight Up Sideways",
-      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lainey Wilson - EP",
         "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 174891,
       "name": "Microphone",
       "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 169440,
-      "name": "Pipe",
-      "url": "https://open.spotify.com/track/6KQmv05z5qkd6D6f75Mqxd"
+      "duration_ms": 177727,
+      "name": "Breakin' Your Heart",
+      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
     }
   ],
   "unique_name": "This Is Lainey Wilson",

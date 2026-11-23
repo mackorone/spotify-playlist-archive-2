@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 
 > The definitive tracks from a pioneering era of British Broadcasting
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,844 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,848 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 | 6 | [House of the Rising Sun](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Singles Plus](https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz) | 4:29 |
 | 7 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
 | 8 | [Wouldn't It Be Nice](https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:33 |
-| 9 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 |
+| 9 | [Somebody to Love](https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:54 |
 | 10 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 11 | [Hey Joe](https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:30 |
-| 12 | [Somebody to Love](https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:54 |
+| 12 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 |
 | 13 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 14 | [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 |
 | 15 | [The Letter](https://open.spotify.com/track/6RJK553YhstRzyKA4mug09) | [The Box Tops](https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr) | [The Letter/Neon Rainbow](https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs) | 1:52 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 | 23 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
 | 24 | [I Feel Free](https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 2:51 |
 | 25 | [Mr\. Tambourine Man](https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 2:29 |
-| 26 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
-| 27 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
+| 26 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
+| 27 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
 | 28 | [Elenore](https://open.spotify.com/track/4DWFSrNnZXow1aB96gByho) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [The Turtles Present The Battle of the Bands](https://open.spotify.com/album/155OAoTAYR4Uu0LpSMvy5W) | 2:31 |
 | 29 | [Georgy Girl](https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Seekers](https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4) | 2:20 |
 | 30 | [Tell It Like It Is](https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is \- The Par Lo Years](https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g) | 2:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Dua Lipa, Warhaus, Zoë Livay,  Jul & J Balvin, Adèle Castillon, Zwangere Guy & Sef and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,049 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,052 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

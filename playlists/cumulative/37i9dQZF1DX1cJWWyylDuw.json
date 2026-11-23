@@ -3275,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Graceless",
+        "url": "https://open.spotify.com/album/1wuUydn2HW0pnmQnTFNJtL"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167470,
+      "name": "Cursed Since Birth",
+      "url": "https://open.spotify.com/track/12ZqLRhJ73zanzXjf8ae6e"
+    },
+    {
+      "album": {
         "name": "Cut Off The Head",
         "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
@@ -13166,7 +13184,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 159191,
       "name": "Teufel",
       "url": "https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF"

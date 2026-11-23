@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169474,
+  "num_followers": 169472,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADT2JNyGKk6tHdrFpbVOImU",
+  "snapshot_id": "awDfAAAAAAD8MdEz+ZWlE7jS3oLRjBX0",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST SELECTION \"blanc\"",
-        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 329786,
-      "name": "\u831c\u3055\u3059",
-      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 267213,
       "name": "I beg you",
       "url": "https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 329786,
+      "name": "\u831c\u3055\u3059",
+      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u671d\u304c\u6765\u308b",
-        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 294930,
-      "name": "\u671d\u304c\u6765\u308b",
-      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 338173,
       "name": "\u516d\u7b49\u661f\u306e\u591c",
       "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 294930,
+      "name": "\u671d\u304c\u6765\u308b",
+      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 328493,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 328493,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u9065\u304b",
         "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
       },
@@ -475,26 +475,6 @@
       "duration_ms": 191047,
       "name": "\u9065\u304b",
       "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
-      },
-      "artists": [
-        {
-          "name": "HOYO-MiX",
-          "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg"
-        },
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 150842,
-      "name": "The Road Not Taken - Genshin Impact Animated Short \"The Road Not Taken\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB"
     },
     {
       "added_at": null,
@@ -527,6 +507,26 @@
       "duration_ms": 175022,
       "name": "SCOPE",
       "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
+      },
+      "artists": [
+        {
+          "name": "HOYO-MiX",
+          "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 150842,
+      "name": "The Road Not Taken - Genshin Impact Animated Short \"The Road Not Taken\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "escalate",
-        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "escalate",
-      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
         "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 335973,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 235202,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 215490,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 235202,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
     },
     {
       "added_at": null,

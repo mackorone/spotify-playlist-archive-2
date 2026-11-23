@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,486 likes - 106 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,488 likes - 106 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [donleave\(agian\)](https://open.spotify.com/track/4wrRnDtqQSPkUFYLpdyBoM) | [Mostafa Nist](https://open.spotify.com/artist/396XNL8Cau7V25v7YRHdAq) | [donleave\(agian\)](https://open.spotify.com/album/6WVIXXWjhopQLWDlokY27S) | 2:33 |
+| 1 | [donleave\(again\)](https://open.spotify.com/track/4wrRnDtqQSPkUFYLpdyBoM) | [Mostafa Nist](https://open.spotify.com/artist/396XNL8Cau7V25v7YRHdAq) | [donleave\(again\)](https://open.spotify.com/album/6WVIXXWjhopQLWDlokY27S) | 2:33 |
 | 2 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
 | 3 | [La fin du monde](https://open.spotify.com/track/6mWaPThaMStSYeh9Yp9RmR) | [17sport](https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT) | [La fin du monde](https://open.spotify.com/album/4pajF2yHY5567kh2Kbt0pj) | 3:25 |
 | 4 | [Belemen](https://open.spotify.com/track/7bMpolsgVswAxMDEg6GvBW) | [goldenstar](https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM) | [Chamber Music](https://open.spotify.com/album/5LXcNMsEicFBIHMGRRDCkD) | 4:36 |

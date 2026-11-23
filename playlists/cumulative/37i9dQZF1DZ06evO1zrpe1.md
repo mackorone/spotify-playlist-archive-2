@@ -4,7 +4,7 @@
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 48 min
+72 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Leña de Pirul \- En Vivo](https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 3:34 | 2024-08-08 |  |
 | [Lo Que No Me Gusta](https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 4:14 | 2024-08-08 |  |
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 | 2024-08-08 |  |
+| [Mi Enemigo El Amor](https://open.spotify.com/track/7JAHUU4lxuLjAdPzoByBdw) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mi Enemigo El Amor](https://open.spotify.com/album/1TiI7P3TbT6BQ5epT7NWpb) | 4:09 | 2026-11-23 |  |
 | [Modo Guerra](https://open.spotify.com/track/6WkJOzemLNw4Z1TYVMA0IY) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Modo Guerra](https://open.spotify.com/album/5Q9KfTIpVazBhKB9Tc9mxB) | 2:50 | 2026-09-12 |  |
 | [Mujeres de Alto Mando](https://open.spotify.com/track/0r5tlrcPYP9gmU5PBjhtfE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mujeres de Alto Mando](https://open.spotify.com/album/0c5BPUZCmU98mkIuLTeJgT) | 2:48 | 2025-12-14 | 2026-06-04 |
 | [Mujeres de Alto Mando](https://open.spotify.com/track/6oJozP9toHyPCTbQZqIWJg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mujeres de Alto Mando](https://open.spotify.com/album/70gu3eMDc8pJy22GwJl1Ul) | 2:48 | 2026-06-04 |  |
@@ -60,7 +61,7 @@
 | [Pinocho](https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:20 | 2024-08-08 |  |
 | [Por Qué No Me Esperaste?](https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Por Qué No Me Esperaste?](https://open.spotify.com/album/1hWml9piZCciySPV41eXkR) | 3:20 | 2024-08-08 |  |
 | [Por Última Vez](https://open.spotify.com/track/28M3W9I1VJqTBcibL65p29) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:35 | 2024-11-20 | 2025-01-27 |
-| [Qué Me Vas A Dar Si Vuelvo](https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Vivo Desde Tijuana](https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8) | 3:50 | 2025-01-06 |  |
+| [Qué Me Vas A Dar Si Vuelvo](https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Vivo Desde Tijuana](https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8) | 3:50 | 2025-01-06 | 2026-11-23 |
 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Qué Tanto Es Tantito?](https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F) | 3:41 | 2024-10-28 | 2025-08-26 |
 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:41 | 2024-08-08 |  |
 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 | 2024-08-08 |  |

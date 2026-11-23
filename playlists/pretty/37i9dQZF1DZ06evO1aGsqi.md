@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 
 > This is Ludwig Göransson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,722 likes - 32 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,723 likes - 32 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 | 17 | [Ithaca](https://open.spotify.com/track/7uXHip6O0uQHqHrewyUctI) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:41 |
 | 18 | [Groves](https://open.spotify.com/track/1hAiPMWwuIqPDPu6UzFXMe) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 3:03 |
 | 19 | [Ice Cold \(Final Round\) \(with Vince Staples & Ludwig Göransson\)](https://open.spotify.com/track/701RVIizxCUMCO92CfcPby) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 2:05 |
-| 20 | [Smokestack Twins](https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:28 |
+| 20 | [Truths \(From "Everything, Everything" Score\)](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
 | 21 | [When I’m Home](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:26 |
 | 22 | [A Lowly Shoe Salesman](https://open.spotify.com/track/7nYZlOq4JtGeF9fs8Zs66j) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 3:34 |
-| 23 | [Truths \(From "Everything, Everything" Score\)](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
+| 23 | [Smokestack Twins](https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:28 |
 | 24 | [Lord Knows / Fighting Stronger](https://open.spotify.com/track/767T5vqvDToZ8LtqT8iZx9) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [CREED: Original Motion Picture Soundtrack](https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA) | 4:54 |
 | 25 | [WINDMILLS](https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 5:16 |
 | 26 | [Caught in the Shadow](https://open.spotify.com/track/1fu14M9rg8sDOlbJ7OAFaI) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Creed \(Original Motion Picture Score\)](https://open.spotify.com/album/03vOJD9TKf7hjwrakeYb8n) | 1:20 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aGsqi.md) - [plain]
 | 31 | [FREEPORT](https://open.spotify.com/track/0ASvZIiB2Ml32DlUhfaOhx) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:38 |
 | 32 | [MEETING NEIL](https://open.spotify.com/track/4GZnjZKMYhG1CCBfjI3nN4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 2:15 |
 
-Snapshot ID: `av+NgAAAAADih+zo41ONQSmibeNTddyx`
+Snapshot ID: `awDfAAAAAAAyr+uHmlC+H1v5JmvGZaKJ`

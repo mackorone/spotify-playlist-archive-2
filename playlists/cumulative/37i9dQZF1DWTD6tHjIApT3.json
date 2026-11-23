@@ -34707,6 +34707,24 @@
     },
     {
       "album": {
+        "name": "Start of Something New (Lilas Version)",
+        "url": "https://open.spotify.com/album/6r3mDthp0p2tGb8hK3jX1m"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101532,
+      "name": "Start of Something New - Lilas Version",
+      "url": "https://open.spotify.com/track/7bFLr8QfQuSG1wVIt0QHVO"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
       },
@@ -69316,7 +69334,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"

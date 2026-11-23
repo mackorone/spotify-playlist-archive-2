@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-719 songs - 2 day 1 hr 4 min
+720 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Just The Kinda Feeling](https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 3:34 | 2023-10-27 | 2024-04-13 |
 | [Just the Kinda Feeling](https://open.spotify.com/track/2tHBUiReIreeqlCldkBXUI) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Growth](https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI) | 3:34 | 2023-02-03 | 2023-10-12 |
 | [Just Us 2](https://open.spotify.com/track/77PphOhe88ESixnOdJBfby) | [Vivra Verra](https://open.spotify.com/artist/6pfji9v6mcjF8tFmzsDx9z) | [Just Us 2](https://open.spotify.com/album/2Vxp30fUJJKOKTdmaaKYzY) | 7:04 | 2021-05-07 | 2022-06-03 |
+| [Keep Me Up](https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Keep Me Up](https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp) | 3:51 | 2026-11-20 |  |
 | [Kenshō](https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Kenshō](https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn) | 3:40 | 2021-05-07 | 2023-05-15 |
 | [Kiss from God \- mint Singles](https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3YP0uoO3xoPEVCPX7b3CbV) | 3:48 | 2021-05-07 | 2022-07-20 |
 | [Kochi](https://open.spotify.com/track/3qda6E8ABSxAXfyxQtdtwF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Kochi EP](https://open.spotify.com/album/0g8ukB0hRj9nW6bfJUUdfd) | 4:49 | 2021-05-07 | 2022-09-20 |
@@ -505,7 +506,7 @@
 | [Ready For More](https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD), [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a) | [Ready For More](https://open.spotify.com/album/1aD03TBrJrER1RFJQsO1Pm) | 4:07 | 2021-12-10 | 2024-04-13 |
 | [Real Talk](https://open.spotify.com/track/5f0vwo5khI5V5cCUj5W6nu) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3) | [Real Talk](https://open.spotify.com/album/1tMIVsxkC62u0U9M8T3YK4) | 3:24 | 2025-06-13 | 2025-07-22 |
 | [ReAnimation](https://open.spotify.com/track/43ofk81krK92e5sM12mfPC) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [ReAnimation EP](https://open.spotify.com/album/7s33cENsj5k8o0VHzID87K) | 4:20 | 2025-09-26 | 2026-02-05 |
-| [Reborn](https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Reborn](https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w) | 3:20 | 2025-12-12 |  |
+| [Reborn](https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Reborn](https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w) | 3:20 | 2025-12-12 | 2026-11-23 |
 | [Reclaim Me \(feat\. Nimmo\) \- Maya Jane Coles Remix \[Edit\]](https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby) | [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Reclaim Me \(feat\. Nimmo\) \[Maya Jane Coles Remix\]](https://open.spotify.com/album/2a6PATwWoogkNkzaWI05vU) | 3:23 | 2021-05-07 | 2022-05-21 |
 | [Red Sky](https://open.spotify.com/track/6db3K1345xcIVsYaofJauI) | [DoubleV](https://open.spotify.com/artist/6Ess5QdnNvdRhAMhGNq1uS) | [Red Sky](https://open.spotify.com/album/6Le1yadSvu8kwHwS15Pfxh) | 3:29 | 2021-05-07 | 2022-04-13 |
 | [Remember](https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Yourney](https://open.spotify.com/album/3P2oam7JHSOjZMH6IVf04U) | 3:29 | 2023-06-02 | 2023-08-22 |

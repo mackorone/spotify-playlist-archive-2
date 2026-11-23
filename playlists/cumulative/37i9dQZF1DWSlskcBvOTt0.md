@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,218 songs - 4 day 1 hr 48 min
+1,219 songs - 4 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -946,6 +946,7 @@
 | [Shake The Room](https://open.spotify.com/track/7J3KeQBMlNJ7o2zPS11loX) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Shake The Room](https://open.spotify.com/album/1fywxMOhIh99vp5BzEcdsc) | 3:10 | 2026-11-20 |  |
 | [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 | 2024-01-05 | 2024-05-11 |
 | [Shaman](https://open.spotify.com/track/0CCTuZS9cObjmWjfwYOaPM) | [Azedia](https://open.spotify.com/artist/19YDv4gY8HMpdJgABGIVJn) | [Shaman](https://open.spotify.com/album/1O1d80c9ux5acX2CIPDtrs) | 5:41 | 2021-08-20 | 2022-07-28 |
+| [Shawang](https://open.spotify.com/track/43XlZxYh17GWdA5JoqHzEf) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Shawang](https://open.spotify.com/album/1mPWolzevQqrqirwqqlbkA) | 2:52 | 2026-11-20 |  |
 | [Shimova](https://open.spotify.com/track/7uVSGwfkpnOJP3SLkg8Rxc) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Shimova](https://open.spotify.com/album/3n3f1lT9mBJIxdp3iejIBx) | 6:36 | 2025-08-01 | 2025-08-30 |
 | [Shine A Light \- Edit](https://open.spotify.com/track/7yPLswWaozPXqZCcz0Dcp9) | [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Shine A Light](https://open.spotify.com/album/7CpdsRPLqRo2GZ5NKFVpG3) | 4:15 | 2026-05-15 |  |
 | [Shoda](https://open.spotify.com/track/0prNbCHO4fO9RCmbUMmmLh) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shoda](https://open.spotify.com/album/0S0W8HKfy6dHCmArthtZ0Z) | 2:47 | 2025-10-10 | 2026-01-25 |
@@ -1115,7 +1116,7 @@
 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-05-17 | 2024-07-06 |
 | [Tu Ta Le](https://open.spotify.com/track/0n6ZENBExJur3dt3soebKB) | [merchant](https://open.spotify.com/artist/0UEupuqVP2mpTTyf6wcOBY), [Hoax \(BE\)](https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Tu Ta Le](https://open.spotify.com/album/0ZfQd5a9kJIUQNOHSV0JOM) | 4:20 | 2025-02-28 | 2025-05-02 |
 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 | 2023-04-21 | 2023-07-08 |
-| [Turned A Key](https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Luca Saporito](https://open.spotify.com/artist/5j0QAbips8lkIhtCwUYkBh) | [Turned A Key](https://open.spotify.com/album/24ZQse3rQUV1g1p9Qt1Vg9) | 3:19 | 2026-09-18 |  |
+| [Turned A Key](https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Luca Saporito](https://open.spotify.com/artist/5j0QAbips8lkIhtCwUYkBh) | [Turned A Key](https://open.spotify.com/album/24ZQse3rQUV1g1p9Qt1Vg9) | 3:19 | 2026-09-18 | 2026-11-23 |
 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 | 2023-04-21 | 2024-04-19 |
 | [U Ain't Lyin'](https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [U Ain't Lyin'](https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI) | 3:35 | 2026-01-30 |  |
 | [Ultima Ratio](https://open.spotify.com/track/4dmiklzCRnTM237iBtbEi5) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Ultima Ratio](https://open.spotify.com/album/5zajsdXm81cFLL7qExclll) | 4:37 | 2023-10-27 | 2023-12-24 |

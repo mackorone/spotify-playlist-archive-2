@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "B.O.B.",
+        "url": "https://open.spotify.com/album/6GyAj12htrIhQNoFeAUGuN"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123983,
+      "name": "B.O.B.",
+      "url": "https://open.spotify.com/track/4eu2C1zMf5wjOlbhBtua5n"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/1wMbquo7FsD0fg42XhiOZV"
       },
@@ -2306,6 +2328,28 @@
       "duration_ms": 151600,
       "name": "Break A Sweat",
       "url": "https://open.spotify.com/track/1vSwVMQDyx6c1GGrdCE2Ve"
+    },
+    {
+      "album": {
+        "name": "Here, Forever",
+        "url": "https://open.spotify.com/album/2Ulg9K7ts7BP2nApQQrJf6"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184897,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/65f7oyUrmKCKtb9cErD0Bp"
     },
     {
       "album": {
@@ -9676,7 +9720,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 188115,
       "name": "Lola",
       "url": "https://open.spotify.com/track/3ctfB7Ia2EONVLQOpMCkRt"
@@ -17888,7 +17932,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 224438,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO"

@@ -1,6 +1,6 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Romeo Santos & Prince Royce",
-  "num_followers": 1785946,
+  "num_followers": 1785921,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2026-11-20 05:01:19",
       "album": {
-        "name": "Ya No Queda Nada",
-        "url": "https://open.spotify.com/album/7dTbYW1mLWMgnBM7QBdizE"
-      },
-      "artists": [
-        {
-          "name": "J Salez",
-          "url": "https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU"
-        },
-        {
-          "name": "DerekVinci",
-          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "Ya No Queda Nada",
-      "url": "https://open.spotify.com/track/3GuJ8gUo2a81wxCVHyUL0w"
-    },
-    {
-      "added_at": "2026-11-20 05:01:19",
-      "album": {
         "name": "Espacio en Tu Coraz\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 179271,
       "name": "Espacio en Tu Coraz\u00f3n - Remix",
       "url": "https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG"
+    },
+    {
+      "added_at": "2026-11-20 05:01:19",
+      "album": {
+        "name": "Ya No Queda Nada",
+        "url": "https://open.spotify.com/album/7dTbYW1mLWMgnBM7QBdizE"
+      },
+      "artists": [
+        {
+          "name": "J Salez",
+          "url": "https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "Ya No Queda Nada",
+      "url": "https://open.spotify.com/track/3GuJ8gUo2a81wxCVHyUL0w"
     },
     {
       "added_at": "2026-11-20 05:01:19",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-11-20 05:01:19",
       "album": {
+        "name": "Amigos (con Maria Becerra) [Bachata]",
+        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 202702,
+      "name": "Amigos (con Maria Becerra) - Bachata",
+      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
+    },
+    {
+      "added_at": "2026-11-20 05:01:19",
+      "album": {
         "name": "Escasez de Besos",
         "url": "https://open.spotify.com/album/7hu8S7ZNiakxzrN3K1sljS"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 170170,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/0qkXMXSaDVQfQ7qiP9DDGU"
-    },
-    {
-      "added_at": "2026-11-20 05:01:19",
-      "album": {
-        "name": "Amigos (con Maria Becerra) [Bachata]",
-        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 202702,
-      "name": "Amigos (con Maria Becerra) - Bachata",
-      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
     },
     {
       "added_at": "2026-11-20 05:01:19",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-11-20 05:01:19",
       "album": {
-        "name": "Tu Loca",
-        "url": "https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190928,
-      "name": "Tu Loca",
-      "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
-    },
-    {
-      "added_at": "2026-11-20 05:01:19",
-      "album": {
         "name": "1ra. Cita",
         "url": "https://open.spotify.com/album/0YlPvYXJhtn2a74qgG5zQ3"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 234000,
       "name": "1ra. Cita",
       "url": "https://open.spotify.com/track/6BOUinUGu3mTwcRgrh22Ia"
+    },
+    {
+      "added_at": "2026-11-20 05:01:19",
+      "album": {
+        "name": "Tu Loca",
+        "url": "https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 190928,
+      "name": "Tu Loca",
+      "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
     },
     {
       "added_at": "2026-11-20 05:01:19",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-11-20 05:01:19",
       "album": {
+        "name": "Ruta 66",
+        "url": "https://open.spotify.com/album/7myyJNpaXyechOOyTuQoPA"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 221338,
+      "name": "Ruta 66",
+      "url": "https://open.spotify.com/track/3uMZGqWOjFQTPhgls6ZVSj"
+    },
+    {
+      "added_at": "2026-11-20 05:01:19",
+      "album": {
         "name": "Natti Natasha en Amargue",
         "url": "https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 199227,
       "name": "Ya No Comparto",
       "url": "https://open.spotify.com/track/0099ZFXDXNi4DuRhoOiEaV"
-    },
-    {
-      "added_at": "2026-11-20 05:01:19",
-      "album": {
-        "name": "Ruta 66",
-        "url": "https://open.spotify.com/album/7myyJNpaXyechOOyTuQoPA"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 221338,
-      "name": "Ruta 66",
-      "url": "https://open.spotify.com/track/3uMZGqWOjFQTPhgls6ZVSj"
     },
     {
       "added_at": "2026-11-20 05:01:19",

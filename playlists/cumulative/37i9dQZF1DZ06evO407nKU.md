@@ -4,12 +4,13 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-171 songs - 9 hr 29 min
+172 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Medio Olvido](https://open.spotify.com/track/6e8dz9X9b7KYUHm7DLvvLa) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Una Explicación](https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a) | 2:18 | 2025-12-15 | 2025-12-31 |
 | [Alineando Cabrones](https://open.spotify.com/track/36gJuzmW2UZfkY4iCGXijc) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 5:04 | 2022-07-22 | 2022-07-24 |
+| [Amantes Inocentes](https://open.spotify.com/track/7I0kufNEOnNhjqOUU4OMkH) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Amantes Inocentes](https://open.spotify.com/album/2uAZAzICNsYCWQh9YQiHs4) | 4:17 | 2026-11-23 |  |
 | [Amar Sin Pensarlo \- En Vivo](https://open.spotify.com/track/0KgLontgLrWfnnF6k61GUS) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:58 | 2022-06-01 |  |
 | [Amor A Medias](https://open.spotify.com/track/2oAK0mmzAFEBXPxU2873cr) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Amor A Medias](https://open.spotify.com/album/1hdDY4c4lxlapJMrMRdvkf) | 2:28 | 2026-09-28 |  |
 | [Amor Distante](https://open.spotify.com/track/4O9jkAZbeMxYQMORIcjbtC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:23 | 2022-06-01 | 2022-10-13 |
@@ -82,7 +83,7 @@
 | [Lo Sé](https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:05 | 2022-06-01 | 2022-12-06 |
 | [Loco \- En Vivo](https://open.spotify.com/track/63tTq2d0OfQEK1qG6ezsa1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Loco](https://open.spotify.com/album/37YX0ULmEe4GnAwL0z9Ose) | 2:47 | 2025-09-04 | 2025-09-10 |
 | [Los Compadres](https://open.spotify.com/track/1YvHZhfE5wj4kpGdu5fUdA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Buenas Obras](https://open.spotify.com/album/6gDP1ynRcVtBCkhgle34Oy) | 3:34 | 2022-06-05 | 2022-07-07 |
-| [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 |  |
+| [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 | 2026-11-23 |
 | [Mayonesa](https://open.spotify.com/track/4ufTPmPBN7jWN92U7IIH9Y) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Mayonesa](https://open.spotify.com/album/1pjnTDvXAikn1T3L7FJSFg) | 3:08 | 2025-01-12 | 2025-02-12 |
 | [Me Equivoqué](https://open.spotify.com/track/4CQBDMKxrXyBHn0rK2Y1IN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Equivoqué](https://open.spotify.com/album/7iFGsdLVmXjCiPeVdDTYX7) | 3:34 | 2023-05-02 | 2023-11-11 |
 | [Me Gusta Tal Cual](https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:12 | 2023-07-18 | 2024-05-11 |

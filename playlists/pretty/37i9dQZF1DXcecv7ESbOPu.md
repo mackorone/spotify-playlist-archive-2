@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Zara Larsson, Simon Superti och Jireel med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,128 likes - 78 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,119 likes - 78 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

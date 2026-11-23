@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 155 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 155 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 52 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 |
 | 53 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 |
 | 54 | [Ghost town...](https://open.spotify.com/track/6yPOtWOsflPZWc4z6Agnxx) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Dream inside a dream…](https://open.spotify.com/album/11H0ggNORjbmX0LhZ9iK2d) | 2:44 |
-| 55 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 |
-| 56 | [Hot Sauce](https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Kapuchon](https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt), [GLZ](https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr) | [Hot Sauce](https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX) | 2:17 |
+| 55 | [Hot Sauce](https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Kapuchon](https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt), [GLZ](https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr) | [Hot Sauce](https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX) | 2:17 |
+| 56 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 |
 | 57 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
 | 58 | [Escape](https://open.spotify.com/track/5UA23VfYZt4RZkF6g3nZAp) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN), [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [Escape](https://open.spotify.com/album/3cfs0TtaFisZ9d1mytwQvB) | 2:55 |
 | 59 | [WAKE UP](https://open.spotify.com/track/0lPFLQVyNQlhd9Pw7PdQFr) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:04 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 113 | [Funeral](https://open.spotify.com/track/5OnpQJvF3btoiNmupKRTR0) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:26 |
 | 114 | [No Mercy](https://open.spotify.com/track/3WKaMWuVBDfb0fBXdpsZfY) | [Leblanc](https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb) | [No Mercy](https://open.spotify.com/album/2O5VnN5s1stWeAqnIGsDxV) | 2:56 |
 | 115 | [When I'm Alone](https://open.spotify.com/track/7iuTXQqbKwfaMaTBSDV7JE) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/7nedt7ZF8elRrALiVF59hv) | 2:28 |
-| 116 | [Not Now Kids](https://open.spotify.com/track/5QJbZk6ieUNlOiKXv4nHx5) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:04 |
-| 117 | [Body On \- Boys' Version](https://open.spotify.com/track/0dqMB39X4ef3h1TcuRk9fn) | [dearALICE](https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU) | [Body On \(Boys' Version\)](https://open.spotify.com/album/0OCtODbqho9EH8hBculKgN) | 3:16 |
+| 116 | [Body On \- Boys' Version](https://open.spotify.com/track/0dqMB39X4ef3h1TcuRk9fn) | [dearALICE](https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU) | [Body On \(Boys' Version\)](https://open.spotify.com/album/0OCtODbqho9EH8hBculKgN) | 3:16 |
+| 117 | [Not Now Kids](https://open.spotify.com/track/5QJbZk6ieUNlOiKXv4nHx5) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:04 |
 | 118 | [Up for Love \(with Camidoh\)](https://open.spotify.com/track/31y8tN8uY5KVp8Z6rUwoJg) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Up for Love \(with Camidoh\)](https://open.spotify.com/album/00G8A8CXRkg9PPTIHmrsIn) | 2:38 |
 | 119 | [Perfect People](https://open.spotify.com/track/6jN3D2VW4f7DQVNGLbmgsu) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Robin Grubert](https://open.spotify.com/artist/2iv63DstBtfPKPOq7vL7cS) | [Perfect People](https://open.spotify.com/album/5HLbNPO9y18zYws3ve0Bfr) | 3:29 |
 | 120 | [Start of Something](https://open.spotify.com/track/00Kg79l6oqxYjnJXCuzt48) | [Rachael O'Connor](https://open.spotify.com/artist/33b9NGd3gHIZbBfOwBMAHO) | [Start of Something](https://open.spotify.com/album/0QWwQEnegx6V4PuE98fvPX) | 2:47 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 154 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 | 155 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AciTIAAAAAD1fRYLZ/rV64cEJZtL6JwD`
+Snapshot ID: `AciY3gAAAAAMdVXCFAK9HwWUQkafrQ/y`

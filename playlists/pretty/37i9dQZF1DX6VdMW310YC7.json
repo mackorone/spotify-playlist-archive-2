@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4011894,
+  "num_followers": 4011925,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "life gets hard",
-        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
       },
       "artists": [
         {
-          "name": "iilliaa",
-          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         }
       ],
-      "duration_ms": 125917,
-      "name": "life gets hard",
-      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
+      "duration_ms": 316097,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
+        "name": "life gets hard",
+        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
         }
       ],
-      "duration_ms": 316097,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
+      "duration_ms": 125917,
+      "name": "life gets hard",
+      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -751,6 +751,26 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Everything Started Changing (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "See My Soul",
         "url": "https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ"
       },
@@ -775,22 +795,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "ABOUT YOU",
-        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "ABOUT YOU",
-      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/0pqpfxmoT9HhcZMmMPraRE"
       },
@@ -807,22 +811,18 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4"
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 252574,
-      "name": "Everything Started Changing (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO"
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Spirit Bird",
-        "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 248571,
-      "name": "Spirit Bird",
-      "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1103,38 +1099,38 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+        "name": "Spirit Bird",
+        "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
         }
       ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
+      "duration_ms": 248571,
+      "name": "Spirit Bird",
+      "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
     },
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "NAKED",
-        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+        "name": "22",
+        "url": "https://open.spotify.com/album/25v8BAk8pokWmaNJUDOPCD"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
         }
       ],
-      "duration_ms": 185714,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
+      "duration_ms": 265250,
+      "name": "drops of oil",
+      "url": "https://open.spotify.com/track/7xgZIzO9ErlxhnL2KQ8qhp"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/25v8BAk8pokWmaNJUDOPCD"
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
       },
       "artists": [
         {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 265250,
-      "name": "drops of oil",
-      "url": "https://open.spotify.com/track/7xgZIzO9ErlxhnL2KQ8qhp"
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "Hiding / Shallow Water",
         "url": "https://open.spotify.com/album/5MnHelNE4WCTWIMFV6x2jD"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 243925,
       "name": "Fading Out",
       "url": "https://open.spotify.com/track/0na4GriccSSdSu8QquLDYd"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 251303,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
       },
       "artists": [
         {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
         }
       ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "AMi Vol. 1",
         "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 250533,
       "name": "Outline",
       "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "This Is Our Life",
         "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 268560,
       "name": "This Is Our Life",
       "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3L9lCGNvkCwtcSDPs0u00i"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "duration_ms": 226595,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/3sUeymnLUYDxqUcCQa1yxt"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "Higher Note",
         "url": "https://open.spotify.com/album/0Jlm4EJqBKBUtm9sNtTwFe"
       },
@@ -1755,6 +1775,26 @@
       "duration_ms": 251100,
       "name": "With You",
       "url": "https://open.spotify.com/track/23NsaeC0oKF5ki7gDXIMmb"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Just Noise Pt. II",
+        "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
+      },
+      "artists": [
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        },
+        {
+          "name": "Ae:ther",
+          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
+        }
+      ],
+      "duration_ms": 266189,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1823,46 +1863,6 @@
       "duration_ms": 265161,
       "name": "Love Pains",
       "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Just Noise Pt. II",
-        "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
-      },
-      "artists": [
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        },
-        {
-          "name": "Ae:ther",
-          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
-        }
-      ],
-      "duration_ms": 266189,
-      "name": "Pangea",
-      "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3L9lCGNvkCwtcSDPs0u00i"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Waterm\u00e4t",
-          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
-        }
-      ],
-      "duration_ms": 226595,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/3sUeymnLUYDxqUcCQa1yxt"
     },
     {
       "added_at": "2026-11-13 05:01:01",

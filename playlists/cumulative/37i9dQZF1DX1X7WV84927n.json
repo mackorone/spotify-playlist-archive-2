@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 208175,
       "name": "Beautiful World (feat. PINKNOISE)",
       "url": "https://open.spotify.com/track/4Cw3HE3nSOATw3GL7mzCsC"
@@ -8918,7 +8918,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 129355,
       "name": "DROP IN",
       "url": "https://open.spotify.com/track/7bymGHODTygJRIgociKouh"
@@ -13476,7 +13476,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 201996,
       "name": "Half Past Dead (Unbury Me)",
       "url": "https://open.spotify.com/track/74Tt7azCRWhutQoHHELeVz"
@@ -14580,7 +14580,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 220173,
       "name": "HITS LIKE HOME",
       "url": "https://open.spotify.com/track/3MP2SIAGU40iIBOD0I6jVG"
@@ -14876,6 +14876,24 @@
       "duration_ms": 196243,
       "name": "HOSTAGE",
       "url": "https://open.spotify.com/track/1VHZgaqB64B497QL7RyrUQ"
+    },
+    {
+      "album": {
+        "name": "Hostages",
+        "url": "https://open.spotify.com/album/2VbmEu4XB2YAgZNto1i73o"
+      },
+      "artists": [
+        {
+          "name": "Dead Eyes",
+          "url": "https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211689,
+      "name": "Hostages",
+      "url": "https://open.spotify.com/track/0tlFZooWMWwRl5YScvQgDR"
     },
     {
       "album": {
@@ -32595,6 +32613,24 @@
     },
     {
       "album": {
+        "name": "Crown In The Grave",
+        "url": "https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282360,
+      "name": "The Terror",
+      "url": "https://open.spotify.com/track/2AhaxVHsIEJXXrAtHpLsty"
+    },
+    {
+      "album": {
         "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0"
       },
@@ -32810,6 +32846,24 @@
       "duration_ms": 283106,
       "name": "These Days",
       "url": "https://open.spotify.com/track/0EKmEp5d7X2tjiVbArQdg3"
+    },
+    {
+      "album": {
+        "name": "Volume V",
+        "url": "https://open.spotify.com/album/3zORhuGv9MMKoUhNnJtnyk"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426080,
+      "name": "They Walk the Night",
+      "url": "https://open.spotify.com/track/4uLWJY19BYEBGhJGmvUUVb"
     },
     {
       "album": {
@@ -36326,6 +36380,24 @@
       "duration_ms": 158935,
       "name": "what's the point",
       "url": "https://open.spotify.com/track/1ZHhKFsn99oGBWTEAe0DLf"
+    },
+    {
+      "album": {
+        "name": "Wheel",
+        "url": "https://open.spotify.com/album/1C6Aj4KUtw0DjICsm4bVpr"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "Wheel",
+      "url": "https://open.spotify.com/track/27acAqEh3ELyZzJSh0RWd3"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Captain Margaret, Mercury Teardrop, JUST LIZZY and more",
+  "description": "With Captain Margaret, JUST LIZZY, David Von Beahm and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 314210,
       "name": "All The Lovers",
       "url": "https://open.spotify.com/track/4WXNi3vDKyiOiuwz7JvkDf"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -1610,6 +1610,24 @@
       "duration_ms": 223466,
       "name": "asteria",
       "url": "https://open.spotify.com/track/0xdQsMtI0J1ZHTONX9W8va"
+    },
+    {
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/4pAVEZU61WaiKJl9TCXKBQ"
+      },
+      "artists": [
+        {
+          "name": "David Brock",
+          "url": "https://open.spotify.com/artist/10viV9IqG9STMrYI3Zxrn3"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232744,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/626buYgXKNlVA0yBsI45j6"
     },
     {
       "album": {
@@ -2448,6 +2466,24 @@
       "duration_ms": 244626,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/3wmN8ABDSwM3PlZLwPmeT9"
+    },
+    {
+      "album": {
+        "name": "Bitter Endings",
+        "url": "https://open.spotify.com/album/6KLtwBuxGZRrdiStxjCj9L"
+      },
+      "artists": [
+        {
+          "name": "Dario Emu",
+          "url": "https://open.spotify.com/artist/1KC2UY4aDCuKRKNYrxQ0mt"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211891,
+      "name": "Bitter Endings",
+      "url": "https://open.spotify.com/track/4zOb15TZ30tNCiw6u9lRQM"
     },
     {
       "album": {
@@ -5690,7 +5726,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 225750,
       "name": "Dark Times",
       "url": "https://open.spotify.com/track/4zU2FlBaKfCTWsXXSi2hUe"
@@ -11802,7 +11838,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 244127,
       "name": "Independence Day",
       "url": "https://open.spotify.com/track/2zI3unOcxC2YBnPpgRlljm"
@@ -13278,7 +13314,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -13880,7 +13916,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 123376,
       "name": "Little Green Dots",
       "url": "https://open.spotify.com/track/50ers5l5Zlk6mOZone9KVv"
@@ -14444,6 +14480,32 @@
       "duration_ms": 307078,
       "name": "Man With The X-Ray Eyes",
       "url": "https://open.spotify.com/track/2wofyBPVUPUk0jvpZag9FG"
+    },
+    {
+      "album": {
+        "name": "King Flux",
+        "url": "https://open.spotify.com/album/3NYwEVYwUOZkuh1Xx0oEFq"
+      },
+      "artists": [
+        {
+          "name": "King Flux",
+          "url": "https://open.spotify.com/artist/3kvUsb1sb0fMtFhyrSY0pu"
+        },
+        {
+          "name": "Richie Stotts",
+          "url": "https://open.spotify.com/artist/2laIEMK5eYXYWnKxU4iMPd"
+        },
+        {
+          "name": "Albert Bouchard",
+          "url": "https://open.spotify.com/artist/5ElpY2NuZ3Oq6Zp07qHJYV"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307078,
+      "name": "Man With The X-Ray Eyes",
+      "url": "https://open.spotify.com/track/7AYFqTdMlnx0t8NRlg4nEo"
     },
     {
       "album": {
@@ -16798,7 +16860,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 154008,
       "name": "Onyx Melange Stranded On The Coast",
       "url": "https://open.spotify.com/track/7dkXudKfSok9rSmaKemLZA"
@@ -17698,7 +17760,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 253978,
       "name": "pridefool",
       "url": "https://open.spotify.com/track/1fHnQvB8Hhz5hC7dzBqecu"
@@ -18142,7 +18204,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -18308,7 +18370,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 308189,
       "name": "Requiem for My Memories",
       "url": "https://open.spotify.com/track/3yFsLOkdfCpXRzMWH2NLsZ"
@@ -18456,7 +18518,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 321921,
       "name": "Rites Private",
       "url": "https://open.spotify.com/track/7BnQxmKerr56Q2qSmWVukz"
@@ -19408,7 +19470,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 236666,
       "name": "Sense of Purpose",
       "url": "https://open.spotify.com/track/5DeHhd62EYuKKKmkvqfR2z"
@@ -20418,7 +20480,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -21394,6 +21456,24 @@
       "duration_ms": 222309,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/1ZzWvgURb4Z7YhgnHJfW1K"
+    },
+    {
+      "album": {
+        "name": "Still Tastes Like Blood",
+        "url": "https://open.spotify.com/album/72iwshSwwHEVplmpQNOgIU"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198344,
+      "name": "Still Tastes Like Blood",
+      "url": "https://open.spotify.com/track/0gNLGYUvSgeFITkhy6rb1j"
     },
     {
       "album": {
@@ -22594,7 +22674,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 218076,
       "name": "The Axe",
       "url": "https://open.spotify.com/track/1hNe73GiOT09efx1usYZcp"
@@ -22682,7 +22762,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 202127,
       "name": "The Black Hole Chronicles",
       "url": "https://open.spotify.com/track/2VR3dcqabJAr1QMsg0jIp5"
@@ -24240,7 +24320,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 299000,
       "name": "Through Open Eyes - Black Nail Cabaret Remix",
       "url": "https://open.spotify.com/track/1XsRnSw2VQqTcmd5XgXeo0"
@@ -24446,6 +24526,24 @@
       "duration_ms": 135724,
       "name": "TIME 2 DIE",
       "url": "https://open.spotify.com/track/6a5BA53BYbraUQAV65jn4v"
+    },
+    {
+      "album": {
+        "name": "TMT",
+        "url": "https://open.spotify.com/album/4IcVQ3N0Tw7BGg4p9FCRKq"
+      },
+      "artists": [
+        {
+          "name": "[ISH]",
+          "url": "https://open.spotify.com/artist/6oVNLkk7gDJJAqvdlamUz0"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "TMT",
+      "url": "https://open.spotify.com/track/7Ei9ef2Ey6X3cf3t7oddke"
     },
     {
       "album": {
@@ -25026,7 +25124,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -25470,7 +25568,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 185510,
       "name": "Vampire Desire",
       "url": "https://open.spotify.com/track/7G4G4Dmpok1ptnbXRGSMKq"
@@ -26020,7 +26118,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 231000,
       "name": "Walking out of the cave",
       "url": "https://open.spotify.com/track/6Hud5jnMcqPbtqIGPJwLqC"
@@ -26750,7 +26848,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -26848,7 +26946,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -27198,7 +27296,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"
@@ -27472,7 +27570,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 230400,
       "name": "You Think I Care",
       "url": "https://open.spotify.com/track/1cIu80Ia1EBGAFT5QalKap"

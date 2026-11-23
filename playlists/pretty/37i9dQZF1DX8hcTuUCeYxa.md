@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Warhaus
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,097 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,092 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 15 | [Attitude](https://open.spotify.com/track/3CFth9g2SUk7IpLYIazXTz) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Attitude](https://open.spotify.com/album/7g4PN2FFQHUcUmoNhLG3Z4) | 2:44 |
 | 16 | [Little Hopeful Song](https://open.spotify.com/track/74GY7I1yGschuGUk1GLneO) | [Leon Blane](https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu) | [Little Hopeful Song](https://open.spotify.com/album/6qaOhIJERQxSuXNBUsPG4y) | 2:48 |
 | 17 | [Hound](https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hound](https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il) | 4:41 |
-| 18 | [donleave\(agian\)](https://open.spotify.com/track/4wrRnDtqQSPkUFYLpdyBoM) | [Mostafa Nist](https://open.spotify.com/artist/396XNL8Cau7V25v7YRHdAq) | [donleave\(agian\)](https://open.spotify.com/album/6WVIXXWjhopQLWDlokY27S) | 2:33 |
+| 18 | [donleave\(again\)](https://open.spotify.com/track/4wrRnDtqQSPkUFYLpdyBoM) | [Mostafa Nist](https://open.spotify.com/artist/396XNL8Cau7V25v7YRHdAq) | [donleave\(again\)](https://open.spotify.com/album/6WVIXXWjhopQLWDlokY27S) | 2:33 |
 | 19 | [boyfriends](https://open.spotify.com/track/3Rql7fsNvv4susYQtvNYXW) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [boyfriends](https://open.spotify.com/album/5TMJVe6xJud5XUlOWNNA5y) | 3:10 |
 | 20 | [If I Hurt Myself](https://open.spotify.com/track/0rK36qiyRaswqvJFYkkgxq) | [Lancer](https://open.spotify.com/artist/5vRmD7KJ6YTo3tMKaywbbb) | [If I Hurt Myself](https://open.spotify.com/album/2b76JshvqyfDApcQbi0qmz) | 3:05 |
 | 21 | [Something New](https://open.spotify.com/track/49azZ8KcbexQXVYyM57WJJ) | [the Po](https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG) | [Something New](https://open.spotify.com/album/1HXY4poVfztGjxB56CCFkb) | 2:49 |

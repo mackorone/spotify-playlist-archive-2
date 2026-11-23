@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: Adekunle Gold & Blaqbonez
 
-721 songs - 1 day 10 hr 0 min
+722 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,7 +649,7 @@
 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-05-23 | 2025-08-29 |
 | [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 | 2025-03-07 | 2025-07-05 |
 | [TEA](https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [TEA](https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj) | 3:12 | 2026-08-07 |  |
-| [Tease Me](https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [B4SAVEME](https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt) | 2:00 | 2026-08-07 |  |
+| [Tease Me](https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [B4SAVEME](https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt) | 2:00 | 2026-08-07 | 2026-11-23 |
 | [Tenner](https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Tenner](https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ) | 2:36 | 2025-07-18 | 2025-08-22 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 | 2023-05-27 |
 | [THAT GIRL!](https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [THAT GIRL!](https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d) | 2:12 | 2026-08-07 |  |
@@ -683,6 +683,7 @@
 | [Up As Fxck](https://open.spotify.com/track/0ax6l6vI9gXDmMk3ysOdbW) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Up As Fxck](https://open.spotify.com/album/34OV514iVRRUgnqCigsXS9) | 2:26 | 2024-09-16 | 2024-11-08 |
 | [Update](https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/2HX58CDc9At5raER932yCf) | 3:27 | 2025-02-21 | 2025-08-09 |
 | [Vanilla Bottega](https://open.spotify.com/track/7pb3dKlebKOzVzT7fy9fJ7) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Vanilla Bottega](https://open.spotify.com/album/32p2Amv0Oerle8TTOtL7Em) | 3:07 | 2022-06-09 | 2023-02-04 |
+| [Velvet](https://open.spotify.com/track/46eFAhTemPWwNG0Z8yIsKl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [E\-Mortal Boy](https://open.spotify.com/album/4r6kHpL8Ql8O6FvfvdjVwg) | 2:47 | 2026-11-20 |  |
 | [Venus](https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB) | [Faceless](https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Venus](https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n) | 2:19 | 2025-01-29 |  |
 | [Vex For U \(feat\. Fireboy DML & Ayo Maff\)](https://open.spotify.com/track/6wN5G9LhuljafQRHzb4K6s) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Vex For U \(feat\. Fireboy DML & Ayo Maff\)](https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB) | 3:05 | 2024-11-08 | 2025-07-05 |
 | [Visa](https://open.spotify.com/track/7o79e7ADyL2qdPUHMsosBi) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Visa](https://open.spotify.com/album/2byeWRyYcdZg6bQEYLacKo) | 2:27 | 2024-07-05 | 2024-07-19 |

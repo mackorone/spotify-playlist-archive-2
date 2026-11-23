@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > The songs soundtracking the best years
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,706 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,769 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 8 | [Lagos to Kampala](https://open.spotify.com/track/5eUKFq7L2qX6YRjJ2YfBDI) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto University](https://open.spotify.com/album/45rFRMLtbRbX96BNxYvdSa) | 3:34 |
 | 9 | [Sensima](https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Sensima](https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI) | 3:07 |
 | 10 | [Pain Killer](https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:30 |
-| 11 | [Do Like That](https://open.spotify.com/track/0z0qRN3HNUCOG9y1R7umuD) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Do like That](https://open.spotify.com/album/6eQAVozNuLJiJHvcaJDfGW) | 3:33 |
+| 11 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
 | 12 | [Said](https://open.spotify.com/track/0AWnrLw8H8wE6edp5Z2ibI) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Said](https://open.spotify.com/album/36pdRov9L2FbIGtJaqEeNt) | 3:38 |
 | 13 | [Energy](https://open.spotify.com/track/10FJRxGgHlM7cHQwbFNdX4) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Energy](https://open.spotify.com/album/55lvpnoqp8aNqtoesV22vB) | 3:17 |
-| 14 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
+| 14 | [Do Like That](https://open.spotify.com/track/0z0qRN3HNUCOG9y1R7umuD) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Do like That](https://open.spotify.com/album/6eQAVozNuLJiJHvcaJDfGW) | 3:33 |
 | 15 | [Daddy Yo](https://open.spotify.com/track/2hKLu5akQZ9BbrCQVXM2cZ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 2:40 |
 | 16 | [Jealous](https://open.spotify.com/track/0RqiNQYAB75utUwQF82MdY) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 3:36 |
 | 17 | [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 28 | [Motigbana](https://open.spotify.com/track/6AYPyB4mgQIGeU0Xab4ONQ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Motigbana](https://open.spotify.com/album/7yXxe2Zkyf2E3sMDEVaDK6) | 3:57 |
 | 29 | [Problem](https://open.spotify.com/track/1x9iAQOjMEHWZX7UeqiyWV) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [SPOTLIGHT](https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9) | 3:05 |
 | 30 | [Chemistry](https://open.spotify.com/track/2oMerdOdPAEpv67uVjtTUJ) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Chemistry](https://open.spotify.com/album/7fIrtqz9L6ilRL6vXuKR0D) | 3:48 |
-| 31 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |
-| 32 | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 |
+| 31 | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 |
+| 32 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |
 | 33 | [Science Student](https://open.spotify.com/track/3nlHlYHEvLxkwCiiqbjCKI) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Science Student](https://open.spotify.com/album/79XGlgrg9qYDI4Rm7O3Hn8) | 3:23 |
 | 34 | [Ello Baby](https://open.spotify.com/track/5zN3hyqfKLYMZ0VGnBvahT) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Young John](https://open.spotify.com/artist/0qfFZU0MyOgRZyZL39YVGF) | [Ello Baby](https://open.spotify.com/album/4ReAUEHOS4yJSnTjiYQdyf) | 2:46 |
 | 35 | [MAD](https://open.spotify.com/track/6mGUY6CaFbnK9a6YxV5lpJ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [MAD](https://open.spotify.com/album/0zlsKxFVoZdXOJKtfx6Qwa) | 3:58 |

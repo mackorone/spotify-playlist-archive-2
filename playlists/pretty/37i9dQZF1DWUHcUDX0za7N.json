@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Zaylevelten",
-  "num_followers": 87574,
+  "num_followers": 87589,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,22 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "Ore Agbako",
-        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
       },
       "artists": [
         {
-          "name": "Double Gee2x",
-          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 155400,
-      "name": "Ore Agbako",
-      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
+      "duration_ms": 162912,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -251,22 +255,18 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
+        "name": "Ore Agbako",
+        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
       },
       "artists": [
         {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Double Gee2x",
+          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
         }
       ],
-      "duration_ms": 162912,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
+      "duration_ms": 155400,
+      "name": "Ore Agbako",
+      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "Sound of Freedom",
-        "url": "https://open.spotify.com/album/22W4OvvrJEhCpa8yYkVrwZ"
-      },
-      "artists": [
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 148741,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/03SVC1mmVkDlUHr82tvygI"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 137684,
       "name": "OZEBA",
       "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
+        "name": "Sound of Freedom",
+        "url": "https://open.spotify.com/album/22W4OvvrJEhCpa8yYkVrwZ"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 148741,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/03SVC1mmVkDlUHr82tvygI"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -535,22 +535,22 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "Different Wave",
-        "url": "https://open.spotify.com/album/0qfIlhKvGdveRpIpS5mKsb"
+        "name": "DRTY",
+        "url": "https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 195963,
-      "name": "Different Wave",
-      "url": "https://open.spotify.com/track/09rEMK856dCFKa4Jg3XEkE"
+      "duration_ms": 200816,
+      "name": "DRTY",
+      "url": "https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -567,6 +567,26 @@
       "duration_ms": 139424,
       "name": "Lakute",
       "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
+        "name": "Different Wave",
+        "url": "https://open.spotify.com/album/0qfIlhKvGdveRpIpS5mKsb"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 195963,
+      "name": "Different Wave",
+      "url": "https://open.spotify.com/track/09rEMK856dCFKa4Jg3XEkE"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -591,26 +611,6 @@
       "duration_ms": 137142,
       "name": "GLACIER GIRL",
       "url": "https://open.spotify.com/track/7DjCte93Dk2YIVMixhUqHO"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
-        "name": "DRTY",
-        "url": "https://open.spotify.com/album/1aao8FuXkxeH7xLcGlSmx8"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "DRTY",
-      "url": "https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
         "name": "BB Lifestyle",
         "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
       },
@@ -699,22 +719,18 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
+        "name": "ROCKSTAR/RANGE ROVER",
+        "url": "https://open.spotify.com/album/1MLN8g8GoaLGy3jWXMypcc"
       },
       "artists": [
         {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
         }
       ],
-      "duration_ms": 144065,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
+      "duration_ms": 130000,
+      "name": "ROCKSTAR/RANGE ROVER",
+      "url": "https://open.spotify.com/track/3TETMQQq4YICpp0pKzwrFa"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
         "name": "Promise Land",
         "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 211862,
       "name": "By Now",
       "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -795,22 +811,6 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 102400,
-      "name": "TYPO",
-      "url": "https://open.spotify.com/track/4BkRYui4PKN8GY7ieFEP5F"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "TYPO",
+      "url": "https://open.spotify.com/track/4BkRYui4PKN8GY7ieFEP5F"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
         "name": "2:02PM IN LONDON (FREESTYLE)",
         "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
       },
@@ -839,6 +855,22 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
+        "name": "Gbewa",
+        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Gbewa",
+      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -863,38 +895,6 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "Gbewa",
-        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Gbewa",
-      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
-        "name": "WayWard",
-        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 217777,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
         "name": "NOMADINHO: 4TH PRIME",
         "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 144044,
       "name": "I LOVE THIS (feat. Igwe Aka)",
       "url": "https://open.spotify.com/track/6sS4CHgGx63QMYmxdxd06n"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
+        "name": "WayWard",
+        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -947,22 +963,6 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "A Street Kid's Diary (Disk 2)",
-        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 167527,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
@@ -979,6 +979,46 @@
       "duration_ms": 147692,
       "name": "Wuse Tu",
       "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 167527,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
+        "name": "WINDOW II",
+        "url": "https://open.spotify.com/album/1RHRDyu428st4zevEeD2tM"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "OctobersRich",
+          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 116923,
+      "name": "WINDOW II",
+      "url": "https://open.spotify.com/track/58ifIpt51DsJgzDxYk1857"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -1039,26 +1079,22 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
-        "name": "WINDOW II",
-        "url": "https://open.spotify.com/album/1RHRDyu428st4zevEeD2tM"
+        "name": "Uzo Ano",
+        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
       },
       "artists": [
         {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
-          "name": "OctobersRich",
-          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
         }
       ],
-      "duration_ms": 116923,
-      "name": "WINDOW II",
-      "url": "https://open.spotify.com/track/58ifIpt51DsJgzDxYk1857"
+      "duration_ms": 218181,
+      "name": "Uzo Ano",
+      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -1079,26 +1115,6 @@
       "duration_ms": 180000,
       "name": "Giveaway",
       "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
-        "name": "Uzo Ano",
-        "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Uzo Ano",
-      "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -1147,22 +1163,6 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
-        "name": "ROCKSTAR/RANGE ROVER",
-        "url": "https://open.spotify.com/album/1MLN8g8GoaLGy3jWXMypcc"
-      },
-      "artists": [
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "ROCKSTAR/RANGE ROVER",
-      "url": "https://open.spotify.com/track/3TETMQQq4YICpp0pKzwrFa"
     },
     {
       "added_at": "2026-11-20 11:13:34",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-11-20 11:13:34",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+    },
+    {
+      "added_at": "2026-11-20 11:13:34",
+      "album": {
         "name": "Splendid (with ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 170000,
       "name": "Splendid (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
-    },
-    {
-      "added_at": "2026-11-20 11:13:34",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     }
   ],
   "unique_name": "Naija Bars ",

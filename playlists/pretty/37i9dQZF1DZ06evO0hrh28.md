@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,089 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,088 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 16 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 |
 | 17 | [GTA.mp3](https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:31 |
 | 18 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
-| 19 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
-| 20 | [Genio Atrapado](https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Genio Atrapado](https://open.spotify.com/album/7edxAWf9U5vtuc6Ny6wAYw) | 2:41 |
+| 19 | [Genio Atrapado](https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Genio Atrapado](https://open.spotify.com/album/7edxAWf9U5vtuc6Ny6wAYw) | 2:41 |
+| 20 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
 | 21 | [Uno los Dos](https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:35 |
 | 22 | [Jagger.mp3](https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:35 |
 | 23 | [intoxicao](https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 49 | [Cumbia Playera](https://open.spotify.com/track/7JWUbHhM6oeCJ31L949K5x) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:42 |
 | 50 | [Maldita Noche \- Tour En Vivo](https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Maldita Noche \(Tour En Vivo\)](https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH) | 3:30 |
 
-Snapshot ID: `av48AAAAAACpIj0vbrDG0RrQZ9WXaQQ3`
+Snapshot ID: `awDfAAAAAAAwarYrEflnnIwwlB4Hi6RJ`

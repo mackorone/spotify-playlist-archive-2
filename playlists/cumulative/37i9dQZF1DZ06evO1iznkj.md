@@ -4,12 +4,12 @@
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-128 songs - 6 hr 9 min
+129 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-04-29 | 2024-10-01 |
-| [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 | 2023-11-10 |  |
+| [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 | 2023-11-10 | 2026-11-23 |
 | [25k jacket \(feat\. Lil Baby\)](https://open.spotify.com/track/6tsVFchreYTt2OPXSOoFCX) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:00 | 2023-11-10 | 2025-12-21 |
 | [5 Star \- feat\. Gunna](https://open.spotify.com/track/00H3q5D7iXFIms4VYbsMP0) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [5 Star \(feat\. Gunna\)](https://open.spotify.com/album/3aKFzOw4GGmEMJ5LbBSa8n) | 3:28 | 2025-04-03 | 2025-05-22 |
 | [again](https://open.spotify.com/track/7FwgafuJFYX2M5CrEVfN4M) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:00 | 2025-08-29 |  |
@@ -35,6 +35,7 @@
 | [Chanel \(Go Get It\) \[feat\. Gunna & Lil Baby\]](https://open.spotify.com/track/0kCBorRrKZkSztd9m0QI3r) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:21 | 2025-03-10 | 2025-03-11 |
 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 | 2025-03-09 |  |
 | [collage](https://open.spotify.com/track/41TXadM22OIJY04xSW9iuv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:27 | 2024-05-12 | 2025-03-26 |
+| [COUNT UP \(from GTAVI: The Album\)](https://open.spotify.com/track/2S6rUArYztXWqZrdEFnAGU) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [COUNT UP \(from GTAVI: The Album\)](https://open.spotify.com/album/0xjLEx17uTXmubtcLtbF9n) | 3:01 | 2026-11-23 |  |
 | [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 | 2025-08-25 |  |
 | [DO BETTER](https://open.spotify.com/track/03o9Cj2S5T56GeV9SeZNt0) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:32 | 2026-01-15 | 2026-06-13 |
 | [DOLLAZ ON MY HEAD \(feat\. Young Thug\)](https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 3:17 | 2023-11-10 |  |

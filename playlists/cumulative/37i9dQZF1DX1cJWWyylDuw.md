@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Rev3rent
 
-838 songs - 2 day 5 hr 6 min
+839 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 | 2022-04-29 | 2025-05-10 |
 | [Cursed](https://open.spotify.com/track/35AnnRbyLg8Kpx90pV4XWI) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Cursed](https://open.spotify.com/album/26qjo1q0NJ4y6lPnK9LGpI) | 4:09 | 2022-04-29 | 2022-07-27 |
 | [Cursed \- Isolation Mix](https://open.spotify.com/track/2H6ipymZ6rpUQs5GiEQi5p) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Cursed \(Isolation Mix\)](https://open.spotify.com/album/39FiwWensu2cYSQFQUO8t5) | 5:24 | 2021-12-17 | 2022-07-25 |
+| [Cursed Since Birth](https://open.spotify.com/track/12ZqLRhJ73zanzXjf8ae6e) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Graceless](https://open.spotify.com/album/1wuUydn2HW0pnmQnTFNJtL) | 2:47 | 2026-11-20 |  |
 | [Cut off the Head](https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Cut Off The Head](https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv) | 3:30 | 2023-01-20 | 2026-07-18 |
 | [D.N.R.](https://open.spotify.com/track/3vckmBdhTb0QdZQ1vZXgVr) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa), [Ricky Hoover](https://open.spotify.com/artist/3at4A0WjozNDWJQZEXZuhi) | [D.N.R.](https://open.spotify.com/album/3Jb26tZv6zc3zRwyWi4dKG) | 3:32 | 2022-07-08 | 2024-04-19 |
 | [D.N.R.](https://open.spotify.com/track/4i7VEzLgepdg2J5FTsnqUH) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa), [Ricky Hoover](https://open.spotify.com/artist/6BiPtQhhJgcAFyTpQIQm2I) | [D.N.R.](https://open.spotify.com/album/15lkO5OuZ4U90LUnAfYUxW) | 3:32 | 2021-12-17 | 2024-12-15 |
@@ -699,7 +700,7 @@
 | [Talk](https://open.spotify.com/track/41Xb3pnU2AiIcWKwdsDOIt) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Talk](https://open.spotify.com/album/5qmU7eJyoveXFgvE4xyy27) | 3:04 | 2025-03-14 |  |
 | [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 | 2021-12-31 | 2024-06-26 |
 | [Temporal Punishment](https://open.spotify.com/track/0BrMX9UdxQq20WLia3ttmF) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Temporal Punishment](https://open.spotify.com/album/6DmmmNr1IbT1k21NAdM3Ay) | 3:40 | 2021-12-17 | 2022-07-29 |
-| [Teufel](https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF) | [I Am Mook](https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C) | [Eradication Protocol](https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp) | 2:39 | 2026-07-17 |  |
+| [Teufel](https://open.spotify.com/track/6uv8g96iFQbMavH6akBMoF) | [I Am Mook](https://open.spotify.com/artist/7x45BsPZ55whpyDuFTwm6C) | [Eradication Protocol](https://open.spotify.com/album/5w1pK88N0mSVghqZNDCYOp) | 2:39 | 2026-07-17 | 2026-11-23 |
 | [The Abyss](https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [JT Cavey](https://open.spotify.com/artist/61VGyKqHM3JViWq8oZE33N) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:34 | 2023-03-24 | 2026-01-15 |
 | [The Amygdala Chorus](https://open.spotify.com/track/5tmJCrDqstthNnM4MtWDk9) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [The Amygdala Chorus](https://open.spotify.com/album/5qOPQK5fz14mnJUlTA0Vwe) | 3:50 | 2021-12-17 | 2024-06-26 |
 | [The Anguished Throne](https://open.spotify.com/track/2pQmZWhfn6aeHzE8OaJCJl) | [Worm Shepherd](https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73) | [The Anguished Throne](https://open.spotify.com/album/066lbqrEiKN7xEf3bSidD8) | 5:40 | 2024-10-18 |  |

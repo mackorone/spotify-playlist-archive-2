@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,573 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,611 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 29 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 |
 | 30 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
 | 31 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
-| 32 | [Try Everything](https://open.spotify.com/track/3yAgydlCvZLYQ94C5mLCxe) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopie \(Bande Originale du Film\)](https://open.spotify.com/album/4t77H88qHARx7bdQDoDnFD) | 3:16 |
+| 32 | [Try Everything](https://open.spotify.com/track/3yAgydlCvZLYQ94C5mLCxe) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Zootopie \(Bande Originale du Film\)](https://open.spotify.com/album/4t77H88qHARx7bdQDoDnFD) | 3:16 |
 | 33 | [SPA](https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [SPA](https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd) | 3:03 |
 | 34 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 |
 | 35 | [DJ](https://open.spotify.com/track/0ZFNx84bKLoCb2jx8FN2Az) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [DJ](https://open.spotify.com/album/5TvxAsfOCZqJwcbeZ5HnOu) | 3:09 |

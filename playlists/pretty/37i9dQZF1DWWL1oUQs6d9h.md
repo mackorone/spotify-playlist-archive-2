@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 🐹 김햄찌 POV: 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,025 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,034 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 46 | [Separated](https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:23 |
 | 47 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
 | 48 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
-| 49 | [Know You Naked](https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Know You Naked](https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe) | 3:25 |
-| 50 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 |
+| 49 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 |
+| 50 | [Know You Naked](https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Know You Naked](https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe) | 3:25 |
 
 Snapshot ID: `AAAAAIACAu6XQORh5ztEaU7R+H/Fu2Dx`

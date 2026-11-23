@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364,794 likes - 133 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,364,940 likes - 133 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 41 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 |
 | 42 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 |
 | 43 | [Final Ascent](https://open.spotify.com/track/7nERpoaVj6tizE9dKnbpgp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 7:25 |
-| 44 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:06 |
+| 44 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:06 |
 | 45 | [Tara's Theme \(From "Gone with the Wind" 1939\)](https://open.spotify.com/track/2snz7Wi9ImuxwqHlcBNFrB) | [Max Steiner](https://open.spotify.com/artist/3llWEEOW2xNfiKsXXWjrwl), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Cinema Serenade II \- "The Golden Age"](https://open.spotify.com/album/2IZ2iUEtTifqUkwx5oCeFy) | 3:32 |
 | 46 | [The Fly \- From "The Fly"](https://open.spotify.com/track/7Bb9jNYQf7deYkduUtIq3C) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Orchestre Philharmonique de Radio France](https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd), [Ludwig Wicki](https://open.spotify.com/artist/2MclOoZqoxERDUziTaStUc) | [Shore: The Fly \(From "The Fly"\)](https://open.spotify.com/album/4rJ2hRr0hytssrCzQo5Edj) | 1:53 |
 | 47 | [One Battle After Another](https://open.spotify.com/track/6EHDDNtnruYmF5Ft9OMacZ) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [One Battle After Another \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CHjGTx0GVPEVb52RxM1IO) | 3:09 |

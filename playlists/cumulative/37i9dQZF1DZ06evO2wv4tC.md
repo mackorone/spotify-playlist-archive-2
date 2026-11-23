@@ -4,7 +4,7 @@
 
 > This is DESTIN CONRAD\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 22 min
+52 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2026-11-04 |  |
 | [OUTTA CONTROL](https://open.spotify.com/track/6pZmOVPbimu4qiEXCnleAT) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 3:25 | 2026-11-04 |  |
 | [PARTY WIT U](https://open.spotify.com/track/0JuVJPstXUiXNFbBw7jwqq) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:26 | 2026-11-04 |  |
-| [ROADRUNNER](https://open.spotify.com/track/6csDYX8C5fdpp5Bilp2Ffk) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 1:14 | 2026-11-04 |  |
+| [ROADRUNNER](https://open.spotify.com/track/6csDYX8C5fdpp5Bilp2Ffk) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 1:14 | 2026-11-04 | 2026-11-23 |
 | [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 | 2026-11-04 |  |
+| [SKIN OUT](https://open.spotify.com/track/6J239Ojm9MmCJQL6WchlAT) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:15 | 2026-11-23 |  |
 | [STARLET \(+ Destin Conrad + Ambré\)](https://open.spotify.com/track/6lFLaBipCz894UP3rhj5T2) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [LK99+ DELUXE](https://open.spotify.com/album/0i1UCnrf20ijJm8IEUsr66) | 3:33 | 2026-11-04 |  |
 | [The Closer I Get To You \(with Destin Conrad, Moses Sumney\)](https://open.spotify.com/track/5DU13OfCGd3jM4aTY6cONd) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Synonym](https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ) | 3:40 | 2026-11-04 |  |
 | [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 | 2026-11-04 |  |

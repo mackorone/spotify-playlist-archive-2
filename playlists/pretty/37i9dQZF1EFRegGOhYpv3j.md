@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 76 | [mandela effect](https://open.spotify.com/track/6mvZMZaPix0TNCRYObsLI0) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX) | 2:52 |
 | 77 | [Lose You Too](https://open.spotify.com/track/3GIyiJDNjbXESMWxrgARDg) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Act II: COUNTRYSTAR](https://open.spotify.com/album/7cuMWFxEYkP7NLm7sRR62W) | 3:30 |
 | 78 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 |
-| 79 | [Off The Ground](https://open.spotify.com/track/0jMDxeokB86Gp3SHMZQUVO) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP) | 3:08 |
-| 80 | [Mama’s Kitchen Table](https://open.spotify.com/track/2OBVa4LxkAtrMPV8LUeEkg) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Faded Polaroids](https://open.spotify.com/album/4m06yfaG7MOFcwPtZ6hMYT) | 2:17 |
+| 79 | [Mama’s Kitchen Table](https://open.spotify.com/track/2OBVa4LxkAtrMPV8LUeEkg) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Faded Polaroids](https://open.spotify.com/album/4m06yfaG7MOFcwPtZ6hMYT) | 2:17 |
+| 80 | [Off The Ground](https://open.spotify.com/track/0jMDxeokB86Gp3SHMZQUVO) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP) | 3:08 |
 | 81 | [Come Here Cowboy](https://open.spotify.com/track/2hBzDI176FXjOyCiNuvifG) | [Bunnie Xo](https://open.spotify.com/artist/56Dw1CLlqjQuQkBLm25hHP) | [Come Here Cowboy](https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA) | 2:04 |
 | 82 | [See Her Around](https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:36 |
 | 83 | [Maybe Don’t?](https://open.spotify.com/track/5h9IjiO5qNtQgXrZUYWxqU) | [Clarke Burns](https://open.spotify.com/artist/6YSwAuCYqkMo7cCTd3wkVh) | [Maybe Don’t?](https://open.spotify.com/album/413h2NXjHd1Dq1OVjqkr7p) | 2:58 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 86 | [Shut Up & Ride](https://open.spotify.com/track/1SDGjWhZlW3hcv6XY5bwxd) | [Heartland Cast](https://open.spotify.com/artist/4Y45fGW9ShnqqJiKltapow), [Heart Sisters](https://open.spotify.com/artist/2nC9b7wRpXYykitNPnWSdI) | [Heartland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0Tt6NOXCCk16UP4Yqj0GiL) | 3:02 |
 | 87 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
 
-Snapshot ID: `AciTDAAAAAAi31tgCWgiM07xBg9GP9x9`
+Snapshot ID: `AciY6AAAAABxSzMTZG2JcINoibjAf0EL`

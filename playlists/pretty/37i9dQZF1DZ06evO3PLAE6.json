@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 12047,
+  "num_followers": 12049,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAD1s6OBIz9YTpT/SbQPEUyI",
+  "snapshot_id": "awDfAAAAAAD/C8mxVKunhP6KMdpi5xLE",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "Barricades And Brickwalls",
-      "url": "https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 240320,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "Barricades And Brickwalls",
+      "url": "https://open.spotify.com/track/0LxWErAb5oxhdSO8wTJE1u"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 235600,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 257021,
-      "name": "Ain't No Little Girl",
-      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 175053,
       "name": "Sleeping Cold",
       "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 257021,
+      "name": "Ain't No Little Girl",
+      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Sweetest Waste Of Time",
-      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wreck & Ruin",
         "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 155693,
       "name": "The Quiet Life",
       "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Sweetest Waste Of Time",
+      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
-        "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
-      },
-      "artists": [
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 142688,
-      "name": "When We\u2019re Both Old & Mad",
-      "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 175832,
       "name": "Whispering Voice",
       "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
+        "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 142688,
+      "name": "When We\u2019re Both Old & Mad",
+      "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
     },
     {
       "added_at": null,
@@ -767,38 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "A Love Like Springsteen",
-      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 105293,
-      "name": "Georgia Brown",
-      "url": "https://open.spotify.com/track/3Jwm0yvkmn8IoRVXIOsc3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
       },
@@ -815,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
       "artists": [
         {
@@ -824,9 +792,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 205920,
-      "name": "Arlo",
-      "url": "https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq"
+      "duration_ms": 105293,
+      "name": "Georgia Brown",
+      "url": "https://open.spotify.com/track/3Jwm0yvkmn8IoRVXIOsc3p"
     }
   ],
   "unique_name": "This Is Kasey Chambers",

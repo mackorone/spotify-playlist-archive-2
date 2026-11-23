@@ -543,6 +543,36 @@
     },
     {
       "album": {
+        "name": "Broken Angel (This is Lonely Club) [Remixes]",
+        "url": "https://open.spotify.com/album/2IAV00opECoUunWJRCxjXY"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lonely Club",
+          "url": "https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Broken Angel (This is Lonely Club)",
+      "url": "https://open.spotify.com/track/0NXKFZ8JLsEv4IifG5QzPN"
+    },
+    {
+      "album": {
         "name": "Quantum Beats",
         "url": "https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu"
       },
@@ -3268,7 +3298,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 257545,
       "name": "Wherever You Go (feat. John Martin) - Alan Walker Extended Remix",
       "url": "https://open.spotify.com/track/4zpXgqzxtBCABFfwzCXqHX"

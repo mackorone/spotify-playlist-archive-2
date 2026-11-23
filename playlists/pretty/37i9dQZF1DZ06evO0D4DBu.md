@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,576 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,576 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 46 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:53 |
 | 47 | [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 3:19 |
 | 48 | [The Man Who Has Everything](https://open.spotify.com/track/7zw8liUMFv18r0FIoOXFwP) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/6uVmpm7xTaSmTraOa2ydUo) | 3:38 |
-| 49 | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q) | 3:51 |
+| 49 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
 | 50 | [Star Side Intro](https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:43 |
 
-Snapshot ID: `av48AAAAAACoTo8JwrxCzzQYX1YFuXmf`
+Snapshot ID: `awDfAAAAAAA/PpctjZzIVHPkhvHEz3kL`

@@ -4,7 +4,7 @@
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 11 min
+66 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [The Change](https://open.spotify.com/track/03cH7hozNkNX8qWi8xbkUA) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:42 | 2025-03-08 |  |
 | [The End Of The Dream](https://open.spotify.com/track/39UzUACTcDknfjc7umPcuM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:49 | 2025-03-08 |  |
 | [The Game Is Over](https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:22 | 2025-03-08 |  |
-| [The Last Song I'm Wasting on You](https://open.spotify.com/track/0BeBYa53MXh2aQmzc64BHd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:07 | 2025-03-08 |  |
+| [The Last Song I'm Wasting on You](https://open.spotify.com/track/0BeBYa53MXh2aQmzc64BHd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:07 | 2025-03-08 | 2026-11-23 |
+| [The Last Song I'm Wasting On You \- Remastered 2026](https://open.spotify.com/track/0s2OT471HQP5qASpIiAicB) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door \(Deluxe Edition\)](https://open.spotify.com/album/7e6bE6fK6VLwgFpGlEhJmH) | 4:07 | 2026-11-23 |  |
 | [The Reckoning \- Live in Amsterdam](https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [The Reckoning \(feat\. Amy Lee\) \[Live in Amsterdam\]](https://open.spotify.com/album/6jALyqQddf992tgYntZITS) | 5:22 | 2025-03-08 | 2025-03-22 |
 | [Thoughtless \- Live From Le Zénith,France/2004](https://open.spotify.com/track/3FJQNtWFNNUlF2pi3razfk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:37 | 2025-03-08 |  |
 | [Together Again](https://open.spotify.com/track/4J0TPFdHcy2z4u3myLlGXe) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:18 | 2025-03-08 |  |

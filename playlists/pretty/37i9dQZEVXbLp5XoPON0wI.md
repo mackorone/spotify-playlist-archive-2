@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,976 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,025 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 36 | [Be Her](https://open.spotify.com/track/13HD3tYTiz8oSRxWzXEq7g) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:37 |
 | 37 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2ggxtMt8Y6kFkoJonQ1gSO) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Darlene Love Feat\. Winter Wonderland](https://open.spotify.com/album/4swIribbYPrL6aUa5PR3bo) | 2:46 |
 | 38 | [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 |
-| 39 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 |
+| 39 | [The Christmas Song \(Merry Christmas To You\) \- Remastered 1999](https://open.spotify.com/track/1fzIMn5fBCUIQuSYqc7VCw) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Christmas Hits](https://open.spotify.com/album/0XJZ6V6mCjennH5mOjbk8T) | 3:12 |
 | 40 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 |
 | 41 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 42 | [Party With The Boys](https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Party With The Boys](https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf) | 2:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 47 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
 | 48 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 49 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
-| 50 | [My Moon My Man](https://open.spotify.com/track/0iR7FMydKheTmJmFiAQpUt) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/68EWS0SedJwY0UUuNlQzjs) | 3:48 |
+| 50 | [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 |
 
-Snapshot ID: `MpUp8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MpaE0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

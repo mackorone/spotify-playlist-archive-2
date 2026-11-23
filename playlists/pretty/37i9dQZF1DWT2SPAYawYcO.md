@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The Kid LAROI, Lana Del Ray, Dua Lipa, Gracie Abrams, Keli Holiday + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,657 likes - 89 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,673 likes - 89 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 13 | [Leave With Me](https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Leave With Me \(Featured in Always Lalisa\)](https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn) | 3:04 |
 | 14 | [Rhythm is Dope](https://open.spotify.com/track/6JOHiWwki5KUij99CCcqZ4) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Active Scenes Vol Two](https://open.spotify.com/album/5OakN4e6V3QhyWeQM37zd9) | 3:21 |
 | 15 | [Hound](https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hound](https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il) | 4:41 |
-| 16 | [Starting From Zero \(feat\. Michael McDonald\)](https://open.spotify.com/track/171rxWDjFvjPeFjSHF4WS5) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:09 |
+| 16 | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/1akuT1qSIAoOhpPhUxGpyR) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/5TZmF4xF98fss6CqT3oCSh) | 3:10 |
 | 17 | [Hell Nah](https://open.spotify.com/track/1sXTN7bM5vhe4u0noDS0ib) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Hell Nah](https://open.spotify.com/album/2G6yaIv1IteUQCgQk4gZPC) | 4:32 |
 | 18 | [I'm a Song \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0v9ZnTzTMTkl4hkJT8yVGE) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm a Song](https://open.spotify.com/album/1FvFf5xivch1Q13ouzmC8o) | 4:35 |
 | 19 | [Lost \(In All The Lights\)](https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Lost \(In All The Lights\)](https://open.spotify.com/album/354PlL7RC6QKmolEblejz6) | 3:16 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 88 | [Down Low](https://open.spotify.com/track/2s06Tjym6Ul7XwVngiPCDj) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [That Gurl Bella](https://open.spotify.com/artist/1qMG4xNqbtKrqRQzFa5Mfj) | [Down Low](https://open.spotify.com/album/0VZTscp9f8CL76ziNJtuxv) | 2:56 |
 | 89 | [POV](https://open.spotify.com/track/5JOX8zkO1qqV9adai0ucql) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [LA Slim](https://open.spotify.com/artist/4ls7xj26Yz314SPjohihgS) | [POV](https://open.spotify.com/album/1bcWxCZtltBIAHHCB7jidJ) | 1:58 |
 
-Snapshot ID: `AAAAANwuqyL/IbjEpP4xLhPZ5KSfkGfr`
+Snapshot ID: `AAAAANs/bZPJ2u6gYV+hU+dBhEUHlJ8M`

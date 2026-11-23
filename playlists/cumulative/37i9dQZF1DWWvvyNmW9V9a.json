@@ -32579,6 +32579,24 @@
     },
     {
       "album": {
+        "name": "My Moon My Man",
+        "url": "https://open.spotify.com/album/0ad1DSuEgQce3MSSI5CU9k"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202217,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/3VYSKGBdjbGC4owpHULCPe"
+    },
+    {
+      "album": {
         "name": "My Regards",
         "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
       },

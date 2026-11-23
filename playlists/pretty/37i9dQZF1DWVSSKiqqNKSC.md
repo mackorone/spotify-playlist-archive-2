@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,376 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,417 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
-| 2 | [Represent](https://open.spotify.com/track/1ZYq2RVDEht5fuLUomK03I) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m) | 3:46 |
-| 3 | [La Vida Es Un Carnaval](https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA) | 4:35 |
+| 2 | [La Vida Es Un Carnaval](https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA) | 4:35 |
+| 3 | [Represent](https://open.spotify.com/track/1ZYq2RVDEht5fuLUomK03I) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m) | 3:46 |
 | 4 | [Tu Me Recordarás](https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 6:32 |
 | 5 | [El Tumbaito](https://open.spotify.com/track/3DpXydtjHUD4ay2F1s2jHM) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [El Tumbaito](https://open.spotify.com/album/3xdjPl25CHYG2akdIYeG3q) | 4:12 |
 | 6 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
-| 7 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
-| 8 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
+| 7 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
+| 8 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
 | 9 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
 | 10 | [GuaChiNeo – Con La Punta del Pie \- Reparto / Repaton Edit](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [GUACHINEO](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
 | 11 | [Luna Negra](https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:44 |

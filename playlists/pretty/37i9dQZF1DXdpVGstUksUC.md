@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,895 likes - 100 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,915 likes - 100 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 37 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
 | 38 | [To the Center](https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [To the Center](https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ) | 6:31 |
 | 39 | [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 |
-| 40 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 |
-| 41 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 |
+| 40 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 |
+| 41 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 |
 | 42 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 |
 | 43 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
 | 44 | [The Fox](https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 2:38 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 50 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
 | 51 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
 | 52 | [Starting Line](https://open.spotify.com/track/6NqNIMTOgP9NIQxgEwO1wm) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Starting Line](https://open.spotify.com/album/1uq1Sxd58SjEnDaUne2QnS) | 3:51 |
-| 53 | [Drowning on Empty](https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg) | [Geezer](https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er) | [Groovy](https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1) | 4:17 |
-| 54 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
+| 53 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
+| 54 | [Drowning on Empty](https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg) | [Geezer](https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er) | [Groovy](https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1) | 4:17 |
 | 55 | [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 |
 | 56 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
 | 57 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 68 | [All My Friends Move Like The Night](https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR) | [Devil Electric](https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA) | [All My Friends Move Like The Night](https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK) | 2:53 |
 | 69 | [Heavy Feather](https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb) | [Acrimony](https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37) | [Tumuli Schroomaroom](https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz) | 9:59 |
 | 70 | [Death's Door](https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 7:15 |
-| 71 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 |
-| 72 | [Run Run Run Run Run](https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw) | [Ghost Pipe](https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0) | [Run Run Run Run Run](https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ) | 5:29 |
+| 71 | [Run Run Run Run Run](https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw) | [Ghost Pipe](https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0) | [Run Run Run Run Run](https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ) | 5:29 |
+| 72 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 |
 | 73 | [Arise](https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao) | [Hippie Death Cult](https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl) | [Arise](https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d) | 6:02 |
 | 74 | [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 |
 | 75 | [Sugar](https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sugar](https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2) | 4:53 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 82 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
 | 83 | [Dopesmoker \- 2022 Remastered Version](https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 1:03:29 |
 | 84 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
-| 85 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
+| 85 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
 | 86 | [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 |
-| 87 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
+| 87 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
 | 88 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
 | 89 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
 | 90 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXDaYK299f9T>Cigarettes After Sex</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIVAnL1vgdDkU>The 1975</a>, <a href=spotify:playlist:37i9dQZF1EIXaxtFcfbvNU>TV Girl</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 197027,
       "name": "Angeli",
       "url": "https://open.spotify.com/track/6a2WBo4YCOL0hSD0i1ruxM"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 206379,
       "name": "Blu Celeste",
       "url": "https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO"
@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 203076,
       "name": "Come mi guardi",
       "url": "https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM"
@@ -4116,7 +4116,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 169515,
       "name": "Computer Crash",
       "url": "https://open.spotify.com/track/0dRbdGC4pyli95gQrIqAmJ"
@@ -4298,7 +4298,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 156501,
       "name": "Cose che non ho",
       "url": "https://open.spotify.com/track/21kQljwZIBJ3n2Wx5IEbH3"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 135724,
       "name": "CUORE RINCHIUSO",
       "url": "https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d"
@@ -4776,7 +4776,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 89624,
       "name": "Dead and Cold",
       "url": "https://open.spotify.com/track/4iNkLQVM0zpIBCdNUiXX3Q"
@@ -4900,7 +4900,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
@@ -5012,7 +5012,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 161454,
       "name": "Dentro la mia testa",
       "url": "https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX"
@@ -7656,7 +7656,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 167761,
       "name": "Guerra Persa",
       "url": "https://open.spotify.com/track/5K2iD1Ch3a1FHMR3U1foFi"
@@ -8430,7 +8430,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 322586,
       "name": "How Could You Leave Us",
       "url": "https://open.spotify.com/track/10bt2wAkFgCWRCEOyAyWT9"
@@ -9490,7 +9490,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 199386,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
@@ -12416,7 +12416,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -12532,7 +12532,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
@@ -13454,7 +13454,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "MISTAKE",
       "url": "https://open.spotify.com/track/0rc9XLNs7KZXu2ASA3LbL8"
@@ -13552,7 +13552,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 192611,
       "name": "Momenti No",
       "url": "https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu"
@@ -14348,7 +14348,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
@@ -14456,7 +14456,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 228454,
       "name": "Non lo Sai",
       "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
@@ -15140,7 +15140,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
@@ -15278,7 +15278,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 244062,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH"
@@ -17222,7 +17222,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 163381,
       "name": "SE NON PROVO DOLORE",
       "url": "https://open.spotify.com/track/7kycm3mVY7yaNOtgiAK6lr"
@@ -17392,7 +17392,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -18530,7 +18530,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 138869,
       "name": "Stare Senza (feat. Fashion Forty)",
       "url": "https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt"
@@ -19708,7 +19708,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -20356,7 +20356,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 172198,
       "name": "TI DIREI",
       "url": "https://open.spotify.com/track/5RlANDmPsPHSkYHFzchhIt"
@@ -20556,6 +20556,24 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "album": {
+        "name": "Northside Melodies",
+        "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "Trattarti Meglio",
+      "url": "https://open.spotify.com/track/3Riyk4RsMzmZw1RJNLYdby"
     },
     {
       "album": {
@@ -21156,7 +21174,7 @@
       ],
       "date_added": "2026-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 196991,
       "name": "UOMO CATTIVO (feat. Nabi)",
       "url": "https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY"
@@ -22550,7 +22568,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"

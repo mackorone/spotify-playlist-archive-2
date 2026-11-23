@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 554 likes - 104 songs - 5 hr 41 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 553 likes - 112 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,13 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 102 | [..Grab a Cub...r](https://open.spotify.com/track/0HzhsUyGPszH8U38VVue34) | [Young Ink](https://open.spotify.com/artist/5d9ejTJfd9ddNIPRb5gdeN) | [Young Ink Street Vibes E.P](https://open.spotify.com/album/0vpeV7Eg5Saf6taokpLhhT) | 2:14 |
 | 103 | [On This Sunny Day \- Acoustic Version](https://open.spotify.com/track/6dOth3Yidrkt6bpCLPWrrk) | [Nicholas Koontz](https://open.spotify.com/artist/0L24SOGFqmKdnI4ty6VAEq) | [On This Sunny Day \(Acoustic Version\)](https://open.spotify.com/album/5hZmy6Oq59DqwVOHAcH9gH) | 3:57 |
 | 104 | [Repete \(Abundantly\)](https://open.spotify.com/track/52gCi3CV4nJgg79Hb8szo2) | [Eayo](https://open.spotify.com/artist/7xeNH4nOfhPG2tIDvJD1vZ) | [Repete \(Abundantly\)](https://open.spotify.com/album/6XQy6PhNnv430gvAxs0AVp) | 3:28 |
+| 105 | [Do Like This](https://open.spotify.com/track/3yK33rTtd5CCpoB8e6AG5u) | [Biggest Chicago](https://open.spotify.com/artist/27zWBgBptsOMXBMMkIQ0wn) | [Sound Of Many Colors](https://open.spotify.com/album/6l5IZspkyIGzJ37Enai6xP) | 3:21 |
+| 106 | [Reggae for the World](https://open.spotify.com/track/1lXPq9ayDnRH0QPWS88PR3) | [IRIEVO](https://open.spotify.com/artist/3Vb7VRu0ORaZBDxWnN9lC6) | [Reggae for the World](https://open.spotify.com/album/1C7EsppvUR508Cm0p9YNoA) | 3:45 |
+| 107 | [Respectfully](https://open.spotify.com/track/0i4FuH2dG8E80vPmpr7p8g) | [Interstate](https://open.spotify.com/artist/5kefUcMzTmbD5jjMxaRnh3) | [Respectfully](https://open.spotify.com/album/4zyNKehGUEyKnhyRqphl69) | 2:32 |
+| 108 | [Shakara](https://open.spotify.com/track/0Tcrbvp6jriGw9sRBC0oHC) | [Dominix](https://open.spotify.com/artist/1DO6DyJ4IvA269tJOQkrjd) | [Shakara](https://open.spotify.com/album/6bmcPl9p1oJh3W1TqVNEQS) | 2:43 |
+| 109 | [End of July](https://open.spotify.com/track/71fr2IUA790NFRNdUm1ijp) | [The Great Kid Marc](https://open.spotify.com/artist/16sYBJPzwoVQoReZwQjHP4) | [End of July](https://open.spotify.com/album/7ABnItwF9myouF8TKaBb9X) | 1:41 |
+| 110 | [ADINI YOLLARA YAZDIM](https://open.spotify.com/track/7sU0ay5RWulpNoDvZcn21s) | [İstanbul Arabesque Project](https://open.spotify.com/artist/7A7y6x4Z6DZ8KuXCwfE4xg) | [ADINI YOLLARA YAZDIM](https://open.spotify.com/album/0LtplaKPDEz3iEpGb0Wzsx) | 3:37 |
+| 111 | [God Can Never Fail](https://open.spotify.com/track/6m1F0Huo4A6CNjwIm0wrqc) | [Godson](https://open.spotify.com/artist/4PhoGS5tJZcVTaxXagf91B), [Emmasings](https://open.spotify.com/artist/2vrvBX9lthpm3qNQ1OhdvT) | [God Can Never Fail](https://open.spotify.com/album/1aoMJ2Hg6ZkgCHu1iJ8GEN) | 4:08 |
+| 112 | [The Girl I Love](https://open.spotify.com/track/3DPuXRLGViQTSq7xoGFGfu) | [Stanshow](https://open.spotify.com/artist/43pMkEmyvlWuS1jwqp8I3j) | [The Girl I Love](https://open.spotify.com/album/59ImkOVscYwjNxaUHA9LSX) | 4:14 |
 
-Snapshot ID: `AAACy/b/j6g9x6XvJwCHlPXsQsRlE4DJ`
+Snapshot ID: `AAAC0247ij8qGnn7ZY3yolpYz89EpjQa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,348 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,349 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 17 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 |
 | 18 | [LA DESPEDIDA \- Live \- Spotify Singles](https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Spotify Singles](https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5) | 3:28 |
 | 19 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
-| 20 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
-| 21 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
+| 20 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
+| 21 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
 | 22 | [Hush – Spotify Singles](https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:36 |
 | 23 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 |
 | 24 | [Imitadora \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:34 |

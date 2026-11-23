@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,933,155 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,933,099 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 11 | [bad vibes forever \(feat\. PnB Rock & Trippie Redd\)](https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:30 |
 | 12 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 |
 | 13 | [NUMB](https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 3:06 |
-| 14 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 |
-| 15 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
+| 14 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
+| 15 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 |
 | 16 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
 | 17 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
 | 18 | [let's pretend we're numb](https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [let's pretend we're numb](https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V) | 1:20 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 22 | [Riot](https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Riot](https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42) | 1:18 |
 | 23 | [Scared of the Dark \(feat\. XXXTENTACION\)](https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:53 |
 | 24 | [Ex Bitch](https://open.spotify.com/track/40KuvsFD0zpUFuCcmt5Xm0) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:01 |
-| 25 | [Teeth \(Interlude\)](https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Teeth \(Interlude\)](https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu) | 2:22 |
-| 26 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |
+| 25 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |
+| 26 | [Teeth \(Interlude\)](https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Teeth \(Interlude\)](https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu) | 2:22 |
 | 27 | [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 |
 | 28 | [Triumph](https://open.spotify.com/track/3arQDLbkZnujJVfhoyEDlM) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:46 |
 | 29 | [Arms Around You \(feat\. Maluma & Swae Lee\)](https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Arms Around You \(feat\. Maluma & Swae Lee\)](https://open.spotify.com/album/3FtwiRgtcCLAiKHDvoj7bO) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [Don't Cry \(feat\. XXXTENTACION\)](https://open.spotify.com/track/5BQrp63SHCVf4bzCzJePne) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 4:09 |
 | 50 | [Take A Step Back](https://open.spotify.com/track/5o8aC5bXYVmXjKz1aCBnN2) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/4DkkDn10C4ZXjJAkDkCryx) | 3:30 |
 
-Snapshot ID: `av48AAAAAABDzc5uxsGzxj0PJuoQEhUG`
+Snapshot ID: `awDfAAAAAABz6zXZIoCtXnTeFklF821C`

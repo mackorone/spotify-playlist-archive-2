@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 733396,
+  "num_followers": 733415,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAD9FfC6zYzJw6VNa2ZOQDKb",
+  "snapshot_id": "awDfAAAAAAAtpmQv0ze7vAcfDQsS05Wl",
   "tracks": [
     {
       "added_at": null,
@@ -639,94 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Willie Nelson American Outlaw (Live)",
-        "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
+        "name": "Hurts 2B Human",
+        "url": "https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        },
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        },
-        {
-          "name": "Dave Matthews",
-          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        },
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        },
-        {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        },
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Micah Nelson",
-          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
-        },
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 134266,
-      "name": "Roll Me Up and Smoke Me When I Die - Live",
-      "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
+      "duration_ms": 188120,
+      "name": "Love Me Anyway (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/4Kmp7D3Gg95xv5dzg2mPMq"
     },
     {
       "added_at": null,
@@ -767,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts 2B Human",
-        "url": "https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "Love Me Anyway (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/4Kmp7D3Gg95xv5dzg2mPMq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Wants This Season 2: The Soundtrack",
         "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
@@ -799,6 +707,26 @@
       "duration_ms": 207746,
       "name": "Heart Letting Go",
       "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessings and Miracles",
+        "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 226853,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
     },
     {
       "added_at": null,
@@ -839,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessings and Miracles",
-        "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
+        "name": "I'm a Song",
+        "url": "https://open.spotify.com/album/1FvFf5xivch1Q13ouzmC8o"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 226853,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
+      "duration_ms": 275759,
+      "name": "I'm a Song (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0v9ZnTzTMTkl4hkJT8yVGE"
     },
     {
       "added_at": null,
@@ -939,18 +867,94 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Willie Nelson American Outlaw (Live)",
+        "url": "https://open.spotify.com/album/0l6RxEFi0Y02Ddwfzf8Bwd"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        },
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Micah Nelson",
+          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The Little Willies",
+          "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
+        },
+        {
+          "name": "Ray Benson",
+          "url": "https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M"
+        },
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Arkansas",
-      "url": "https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z"
+      "duration_ms": 134266,
+      "name": "Roll Me Up and Smoke Me When I Die - Live",
+      "url": "https://open.spotify.com/track/0wJN1HSPUpno8MXkVcIHdh"
     }
   ],
   "unique_name": "This Is Chris Stapleton",

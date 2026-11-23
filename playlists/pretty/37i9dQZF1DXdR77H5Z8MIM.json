@@ -1,6 +1,6 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: KARD",
-  "num_followers": 378946,
+  "num_followers": 378920,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
@@ -599,8 +599,8 @@
     {
       "added_at": "2026-11-19 04:40:48",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
       "added_at": "2026-11-19 04:40:48",
@@ -679,8 +679,8 @@
     {
       "added_at": "2026-11-19 04:40:48",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
       "added_at": "2026-11-19 04:40:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-11-19 04:40:48",
       "album": {
-        "name": "FOCUS - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 177052,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
-    },
-    {
-      "added_at": "2026-11-19 04:40:48",
-      "album": {
         "name": "Messy (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
       },
@@ -963,26 +947,6 @@
       "duration_ms": 179055,
       "name": "Messy (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
-    },
-    {
-      "added_at": "2026-11-19 04:40:48",
-      "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "added_at": "2026-11-19 04:40:48",
@@ -1019,8 +983,8 @@
     {
       "added_at": "2026-11-19 04:40:48",
       "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
       },
       "artists": [
         {
@@ -1028,9 +992,29 @@
           "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 178900,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+      "duration_ms": 177052,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+    },
+    {
+      "added_at": "2026-11-19 04:40:48",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "added_at": "2026-11-19 04:40:48",
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2026-11-19 04:40:48",
       "album": {
-        "name": "Smart (Remixes)",
-        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 166384,
-      "name": "Smart",
-      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
-    },
-    {
-      "added_at": "2026-11-19 04:40:48",
-      "album": {
         "name": "SQUARE TWO",
         "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
       },
@@ -1099,18 +1067,34 @@
     {
       "added_at": "2026-11-19 04:40:48",
       "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 200306,
-      "name": "Love Shot",
-      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "added_at": "2026-11-19 04:40:48",
+      "album": {
+        "name": "Smart (Remixes)",
+        "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
     },
     {
       "added_at": "2026-11-19 04:40:48",
@@ -1127,6 +1111,22 @@
       "duration_ms": 171427,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
+    },
+    {
+      "added_at": "2026-11-19 04:40:48",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Love Shot",
+      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
     },
     {
       "added_at": "2026-11-19 04:40:48",

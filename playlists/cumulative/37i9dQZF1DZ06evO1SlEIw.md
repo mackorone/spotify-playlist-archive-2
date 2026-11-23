@@ -4,7 +4,7 @@
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 49 min
+62 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Saigo no Kyojin](https://open.spotify.com/track/0xrFv2ZCGupIkrwx4qgbXg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 3:57 | 2026-11-14 |  |
 | [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 | 2023-11-10 | 2026-11-14 |
 | [Saigo no Senka](https://open.spotify.com/track/6s1vr66o45wiygolreLIfz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg) | 5:24 | 2024-08-22 | 2024-09-06 |
-| [Saigo no Senka](https://open.spotify.com/track/22JQgQBLIJoz8Be59B6IG1) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:28 | 2026-11-17 |  |
+| [Saigo no Senka](https://open.spotify.com/track/22JQgQBLIJoz8Be59B6IG1) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:28 | 2026-11-17 | 2026-11-23 |
 | [Seishun wa Hanabi no Yoni](https://open.spotify.com/track/5Sr2I7jUSeH6lynNAqoLEu) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Seishun wa Hanabi no Youni](https://open.spotify.com/album/76tpMWNeqUtVOLIh8K5IZH) | 1:33 | 2026-11-15 |  |
 | [Seishun wa Hanabi no Youni](https://open.spotify.com/track/7rNCnPglDEZn7pboEo24gC) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Seishun wa Hanabi no Youni](https://open.spotify.com/album/6LyBed3rgD3tqdWnPUyacK) | 1:33 | 2022-12-23 | 2026-11-15 |
 | [Shinzo wo Sasageyo !](https://open.spotify.com/track/3PLevnzVw3p1PnE1NrRQn4) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh) | 5:41 | 2026-11-17 |  |
@@ -45,12 +45,13 @@
 | [Shokei to Shikabane no Michi \- TV Size](https://open.spotify.com/track/0q8WLWTRdN7XcNCoZIxCu9) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shoukei to Shikabane no Michi \(TV Size\)](https://open.spotify.com/album/0B5nGSu5QfWrlgdwzEw3uG) | 1:30 | 2026-10-16 | 2026-11-13 |
 | [Shoukei to Shikabane no Michi](https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 4:36 | 2022-12-23 | 2026-10-16 |
 | [Shoukei to Shikabane no Michi](https://open.spotify.com/track/2BU84sWZp3DAkeiJUN25aD) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 4:38 | 2026-11-13 |  |
-| [Souyoku no Hikari](https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:05 | 2024-06-28 |  |
+| [Souyoku no Hikari](https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:05 | 2024-06-28 | 2026-11-23 |
 | [Tasogare no Rakuen](https://open.spotify.com/track/0796AlQNQdc2pxYOITNRRI) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Rakuen e no Shingeki](https://open.spotify.com/album/6BbKferT8KWdpKvm8WxvGl) | 3:56 | 2026-11-17 |  |
 | [Tasogare no Rakuen](https://open.spotify.com/track/75S5vWZUfeTs1Bf6P6yXei) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Rakuen Eno Shingeki](https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D) | 3:56 | 2022-12-23 | 2026-11-17 |
 | [Theme of the Linked Horizon](https://open.spotify.com/track/0Qit1wQs5mvD86LqnsBlGg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 8:57 | 2022-12-27 | 2026-09-09 |
 | [ルクセンダルク紀行](https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 11:27 | 2022-12-23 |  |
 | [二千年..\. 若しくは..\. 二万年後の君へ・・・](https://open.spotify.com/track/5X2RtKParNDbpl4MOZ2LEC) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [二千年..\. 若しくは..\. 二万年後の君へ・・・](https://open.spotify.com/album/1Z9uHV98W0xRAnnnwX0yTR) | 4:44 | 2023-11-10 | 2023-12-14 |
+| [双翼のヒカリ](https://open.spotify.com/track/5W8DK4ENZyKOQyeTAnO12O) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:05 | 2026-11-23 |  |
 | [君は僕の希望 \- Vocalized Version](https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:10 | 2022-12-23 |  |
 | [巫女の祈り \- Strings Quartet Version](https://open.spotify.com/track/4efVZMDuSOBKJRmyxUCFYd) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 3:29 | 2024-01-23 | 2024-02-01 |
 | [希望へ向う譚詩曲 \- Long Version](https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 8:08 | 2022-12-23 |  |
@@ -58,6 +59,7 @@
 | [彼女は冷たい棺の中で](https://open.spotify.com/track/3mo7ekUP32oYKKfE1pv7DS) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:19 | 2026-11-10 |  |
 | [愛の放浪者 \- Vocalized Version](https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:41 | 2022-12-23 |  |
 | [戦いの鐘 \- Long Version](https://open.spotify.com/track/6EByiOlFcxdA5zj8Gcu0wU) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:38 | 2023-01-31 | 2026-06-29 |
+| [最期の戦果](https://open.spotify.com/track/7vhmR9p3ADtlHV4WyR8Ccp) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:28 | 2026-11-23 |  |
 | [来訪者 \- Long Version](https://open.spotify.com/track/4tKj8h6sJQ4fK4HtT9Qu2Y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 4:30 | 2022-12-23 |  |
 | [紅蓮の座標](https://open.spotify.com/track/7FiCAJ6ewTg9YWRX92guIc) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:06 | 2023-12-13 |  |
 | [純愛\(ハートマーク\) 十字砲火 \- Long Version](https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:26 | 2022-12-24 | 2026-11-15 |

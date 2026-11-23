@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,028 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,157 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 24 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Besos y Copas Desde Hollywood \(En Vivo\)](https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE) | 3:37 |
 | 25 | [Se Las Voy a Dar a Otro](https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Se las Voy a Dar a Otro](https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum) | 3:35 |
 | 26 | [Chuper Amigos](https://open.spotify.com/track/6h8oQHda1vXeex187OLud3) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 4:05 |
-| 27 | [Taquito De Ojo](https://open.spotify.com/track/0sVjpJLaiJfDeqnMNwIu0v) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:27 |
-| 28 | [Sufriendo a Solas \- En Vivo](https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra Desde Monterrey \(En Vivo\)](https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN) | 3:20 |
+| 27 | [Sufriendo a Solas \- En Vivo](https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra Desde Monterrey \(En Vivo\)](https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN) | 3:20 |
+| 28 | [Taquito De Ojo](https://open.spotify.com/track/0sVjpJLaiJfDeqnMNwIu0v) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:27 |
 | 29 | [La Cara Bonita](https://open.spotify.com/track/738eSXmmWKzUztBlemx7DQ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 2:16 |
 | 30 | [Tu Camisa Puesta](https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:12 |
 | 31 | [La Mentada Contestada](https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida \(Deluxe\)](https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [A Escondidas](https://open.spotify.com/track/0njJNTZXtOq2sl7purYD6e) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:25 |
 | 50 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
 
-Snapshot ID: `av48AAAAAAA0Wot16VVyVW9AyJCBgK4v`
+Snapshot ID: `awDfAAAAAAAMTcfqrm8Zcy6rAAvjdyVY`

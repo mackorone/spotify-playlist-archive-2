@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 
 > This is Cleo Sol\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,110 likes - 38 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,134 likes - 38 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 | 26 | [Imagine](https://open.spotify.com/track/5xR9FOtRm2rjCQg3X8DYEc) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 4:24 |
 | 27 | [Reason](https://open.spotify.com/track/4QpPk76nOhX3Xe4DebeZYS) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:00 |
 | 28 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
-| 29 | [Spirit](https://open.spotify.com/track/2vvrIcVEnafeo0EeqoUdsz) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:16 |
-| 30 | [Rose in the Dark](https://open.spotify.com/track/1x6MXwyxf4R0V0Cdy4MnYl) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:46 |
+| 29 | [Rose in the Dark](https://open.spotify.com/track/1x6MXwyxf4R0V0Cdy4MnYl) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:46 |
+| 30 | [Spirit](https://open.spotify.com/track/2vvrIcVEnafeo0EeqoUdsz) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:16 |
 | 31 | [Gold](https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:39 |
 | 32 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 |
 | 33 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 | 37 | [Try and You Try](https://open.spotify.com/track/1rL0CJe38sZ9fQCe6n4xUq) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Try and You Try](https://open.spotify.com/album/6j2kbJ5izF0jN0z5fVOWKY) | 4:58 |
 | 38 | [Miss Romantic](https://open.spotify.com/track/71pFw48rIGZRAMbtWbA2XJ) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:21 |
 
-Snapshot ID: `av48AAAAAABA6ehf6ncGSfBX99X3axiM`
+Snapshot ID: `awDfAAAAAADlDHxh6rjMwdxrF71A0rXS`

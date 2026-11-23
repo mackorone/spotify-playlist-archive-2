@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 40169,
+  "num_followers": 40170,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADyG5ZZd333bnauFyycxYVf",
+  "snapshot_id": "awDfAAAAAAByZAeBXd5HTchITMV8wt/O",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+        "name": "Good Love (feat. Usher)",
+        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
       },
       "artists": [
         {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 194693,
-      "name": "Fu*k Dat Ni**a",
-      "url": "https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt"
+      "duration_ms": 232787,
+      "name": "Good Love (feat. Usher)",
+      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
     },
     {
       "added_at": null,
@@ -391,22 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Love (feat. Usher)",
-        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
         },
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 232787,
-      "name": "Good Love (feat. Usher)",
-      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
+      "duration_ms": 194693,
+      "name": "Fu*k Dat Ni**a",
+      "url": "https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 106153,
+      "name": "Work For It",
+      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PERIOD",
         "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 106153,
-      "name": "Work For It",
-      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
+      "duration_ms": 114766,
+      "name": "Panties An Bra",
+      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 133846,
       "name": "Pi\u00f1ata",
       "url": "https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 114766,
-      "name": "Panties An Bra",
-      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 115987,
+      "name": "That's My Bitch",
+      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 165517,
       "name": "Flashy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 115987,
-      "name": "That's My Bitch",
-      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
     },
     {
       "added_at": null,

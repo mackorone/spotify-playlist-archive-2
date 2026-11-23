@@ -921,24 +921,6 @@
     },
     {
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        }
-      ],
-      "date_added": "2024-08-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186200,
-      "name": "Epilogue - From \"Frozen\"/Score",
-      "url": "https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9"
-    },
-    {
-      "album": {
         "name": "Frozen (Original Score)",
         "url": "https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0"
       },
@@ -954,6 +936,28 @@
       "duration_ms": 186200,
       "name": "Epilogue - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/3awivj0Q2xo4YNZeUaFUpB"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Epilogue - From \"Frozen\"/Score",
+      "url": "https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9"
     },
     {
       "album": {

@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 263693,
       "name": "Blacktop",
       "url": "https://open.spotify.com/track/7qcfqmg6Zf1uwdlVR2ocpP"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 267626,
       "name": "Different Today",
       "url": "https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 145666,
       "name": "Honeybear",
       "url": "https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 145666,
       "name": "Honeybear",
       "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
@@ -744,10 +744,28 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 124466,
       "name": "Isis - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/2f97EMDsF42qDVDuAyGDHX"
+    },
+    {
+      "album": {
+        "name": "Hidden in Pieces: Live",
+        "url": "https://open.spotify.com/album/33RxgeDivyHENGrw5RvHV3"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124466,
+      "name": "Isis - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/3L976b7PUGSs8ptYUmEaF3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Julien Baker
 
-11,127 songs - 27 day 0 hr 17 min
+11,128 songs - 27 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5562,6 +5562,7 @@
 | [LAUREN](https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [LAUREN](https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB) | 2:53 | 2023-12-08 | 2024-01-27 |
 | [Lava](https://open.spotify.com/track/5BoDFGTXZ8j5muc6Sb2jMz) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lava](https://open.spotify.com/album/3crucKpfRuUTGoQK8OunJ1) | 2:37 | 2019-05-26\* | 2019-06-15 |
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-04-17 | 2021-05-29 |
+| [Lavender Buds](https://open.spotify.com/track/3755f0ihUO09qh3dg7AH5A) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Lavender Buds b/w Nettle Leaves](https://open.spotify.com/album/5iTPrPucPUw4QwEM8rCV5M) | 3:28 | 2026-11-20 |  |
 | [Lawmaker](https://open.spotify.com/track/4sNvEt5NK3ES51CWFnVdfJ) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Lawmaker](https://open.spotify.com/album/0RbEPUPtPkKMXGuAXCs2Hl) | 5:49 | 2021-06-05 | 2021-07-17 |
 | [Lawn](https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq) | 3:37 | 2022-01-14 | 2022-02-26 |
 | [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-05-02 | 2025-06-14 |

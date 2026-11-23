@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 18226,
+  "num_followers": 18229,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAABWHw8X4O7Dreb6gCdd8GqN",
+  "snapshot_id": "awDfAAAAAAAz4ShvWCxWOlpvpX9nqHPI",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Let's Go Get Stoned",
-      "url": "https://open.spotify.com/track/6q4nKjfQh3HMJfN9E9KAmc"
+      "duration_ms": 227000,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
+      "duration_ms": 270000,
+      "name": "Let's Go Get Stoned",
+      "url": "https://open.spotify.com/track/6q4nKjfQh3HMJfN9E9KAmc"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 132746,
-      "name": "Looking the World Over",
-      "url": "https://open.spotify.com/track/3quA3vwMpCEFWdfFZg5yRu"
+      "duration_ms": 208213,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 208213,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
+      "duration_ms": 132746,
+      "name": "Looking the World Over",
+      "url": "https://open.spotify.com/track/3quA3vwMpCEFWdfFZg5yRu"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 105400,
-      "name": "I Smell A Rat",
-      "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hangover Blues",
         "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
       },
@@ -623,22 +607,6 @@
       "duration_ms": 568560,
       "name": "Mixed Up Feeling",
       "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -668,9 +636,25 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 181066,
-      "name": "Walking Blues",
-      "url": "https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ"
+      "duration_ms": 105400,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -687,22 +671,6 @@
       "duration_ms": 357600,
       "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
       "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Oh Happy Day",
-      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
     },
     {
       "added_at": null,
@@ -732,9 +700,41 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Just Like A Dog, Barking Up The Wrong Tree",
-      "url": "https://open.spotify.com/track/5kprualteHZKW9pEwrA03O"
+      "duration_ms": 181066,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Cool Cat",
+        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 152393,
+      "name": "Rock-A-Bye Baby",
+      "url": "https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Cool Cat",
-        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 152393,
-      "name": "Rock-A-Bye Baby",
-      "url": "https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8"
+      "duration_ms": 169333,
+      "name": "Just Like A Dog, Barking Up The Wrong Tree",
+      "url": "https://open.spotify.com/track/5kprualteHZKW9pEwrA03O"
     },
     {
       "added_at": null,

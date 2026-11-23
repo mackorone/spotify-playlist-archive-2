@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!!!!](https://open.spotify.com/track/5fZ40SBA9ylaf7lSpbjrug) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [!!!!](https://open.spotify.com/album/7B2VhmnMb6ks1ZqcqqzHGf) | 5:52 | 2022-03-02 |  |
-| [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 | 2022-03-11 |  |
+| [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 | 2022-03-11 | 2026-11-23 |
 | [804](https://open.spotify.com/track/6jLaIaYXWkneF8qp99t3z4) | [Mayo.](https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX) | [804](https://open.spotify.com/album/6ZzVFa0F3KuUHVqf8bse0h) | 1:29 | 2023-07-18 | 2024-12-15 |
 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 | 2022-03-02 | 2024-12-25 |
 | [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2022-03-02 | 2023-02-02 |
@@ -38,7 +38,7 @@
 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 | 2022-03-02 | 2025-12-01 |
 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 | 2022-03-02 | 2024-01-28 |
 | [Doku](https://open.spotify.com/track/7LJqyke8utk9ddmFchx3Z6) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/2I4bTaKKypXoIOCxxH5RND) | 2:52 | 2023-07-18 | 2024-04-19 |
-| [don't hold me back](https://open.spotify.com/track/287o8HY3OhxKnJhMwKFLR3) | [Mello Jupiter](https://open.spotify.com/artist/5uM9zhLZdIzlTPjZ71Myt3) | [don't hold me back](https://open.spotify.com/album/4pcGT4DzNuS9060W3ePJ44) | 3:10 | 2022-03-02 | 2022-07-29 |
+| [don't hold me back](https://open.spotify.com/track/287o8HY3OhxKnJhMwKFLR3) | [Mello Uun](https://open.spotify.com/artist/2vP94juYt0jUsKiBMNygFM) | [don't hold me back](https://open.spotify.com/album/4pcGT4DzNuS9060W3ePJ44) | 3:10 | 2022-03-02 |  |
 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 | 2022-03-02 | 2026-08-25 |
 | [Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5) | [009 Sound System](https://open.spotify.com/artist/0BjppA384A5QT9kRKCJOyb) | [009 Sound System](https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3) | 4:37 | 2022-04-01 |  |
 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 | 2022-03-02 |  |

@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-711 songs - 2 day 0 hr 9 min
+712 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Tamuno](https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Tamuno](https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs) | 4:16 | 2025-10-10 | 2025-10-31 |
 | [Taste and See](https://open.spotify.com/track/0NEpOOQ22Hg9hoVcKv9cYX) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Taste and See](https://open.spotify.com/album/0LVhZzkYq5mQKW5WNTlxYV) | 3:05 | 2025-10-31 | 2026-02-06 |
 | [Telling Everyone](https://open.spotify.com/track/3KpOMEy33l2fOr8ybnUjnb) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Now That I'm Found](https://open.spotify.com/album/312T2mtANBk8C4iUEq1rfw) | 2:52 | 2025-10-24 | 2026-02-27 |
+| [TENKI \- Remix](https://open.spotify.com/track/1WMk0lkidxPEoKGTzUhFaM) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj), [Drizilik](https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P), [Shadow Boxxer](https://open.spotify.com/artist/1V6ZXpsxkb3B5pyilT9kJn), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm) | [TENKI \(Remix\)](https://open.spotify.com/album/3CyoT7afZvbi9wMkRN2wuw) | 4:47 | 2026-11-20 |  |
 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 | 2025-05-30 | 2025-06-27 |
 | [Testify II](https://open.spotify.com/track/4kJfQkTErpEtSN2eXIKyWK) | [PYEFA](https://open.spotify.com/artist/5Wl6nDhxskbjh0ZNV4JUsK), [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu) | [Testify II](https://open.spotify.com/album/3aoqSkWPh88jQhmfymXiXB) | 2:46 | 2025-01-03 | 2025-02-21 |
 | [Testimony \- Choral Version](https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Testimony \(Choral Version\)](https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR) | 3:53 | 2025-05-23 | 2025-08-29 |
@@ -630,7 +631,7 @@
 | [Those Who Belong \(Spontaneous Worship\)](https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Those Who Belong \(Spontaneous Worship\)](https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW) | 17:03 | 2026-10-30 | 2026-11-18 |
 | [Thousand Billion Hallelujahs](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 3:00 | 2025-08-29 | 2025-10-17 |
 | [Time And Time Again](https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Time And Time Again](https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK) | 3:39 | 2026-11-06 |  |
-| [Tinotenda](https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Tinotenda](https://open.spotify.com/album/20woI0LvjJaZPMq2EX1I8P) | 3:10 | 2026-10-09 |  |
+| [Tinotenda](https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Tinotenda](https://open.spotify.com/album/20woI0LvjJaZPMq2EX1I8P) | 3:10 | 2026-10-09 | 2026-11-23 |
 | [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 | 2025-12-26 | 2026-05-30 |
 | [Titilailai II](https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Johnson Jkeyz](https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [Titilailai II](https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9) | 3:19 | 2026-06-19 | 2026-11-04 |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-09-27 | 2025-11-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 327520,
+  "num_followers": 327513,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACBkFN94Nh8qbgcXDcm65Ms",
+  "snapshot_id": "awDfAAAAAACfKwDIfTFum00JRX6Ug3Tl",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Prod.MTS",
+          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
+        }
+      ],
+      "duration_ms": 176275,
+      "name": "Grama Verde",
+      "url": "https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 234252,
+      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
+      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viz\u00e3o de Cria 2",
         "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
       },
@@ -491,46 +531,6 @@
       "duration_ms": 306141,
       "name": "Viz\u00e3o de Cria 2",
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 234252,
-      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
-      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Prod.MTS",
-          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
-        }
-      ],
-      "duration_ms": 176275,
-      "name": "Grama Verde",
-      "url": "https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/0gwX24ETyA2GnM0eSYL806"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/11njCTxuLoTHXoScUxOsLC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 135384,
       "name": "A Meu Favor",
       "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/0gwX24ETyA2GnM0eSYL806"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/11njCTxuLoTHXoScUxOsLC"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "Livre & Triste",
+      "url": "https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 214235,
       "name": "Me Sinto Aben\u00e7oado",
       "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Livre & Triste",
-      "url": "https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F"
     },
     {
       "added_at": null,
@@ -1031,30 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 189692,
-      "name": "ELENCO FABULOSO",
-      "url": "https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Direto da Selva Deluxe",
         "url": "https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 256618,
       "name": "N\u00e3o Temos Medo - Remix",
       "url": "https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 189692,
+      "name": "ELENCO FABULOSO",
+      "url": "https://open.spotify.com/track/3v8CavKjRVaVCyFyiNz6T3"
     },
     {
       "added_at": null,

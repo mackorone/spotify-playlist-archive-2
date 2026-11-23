@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 205708,
+  "num_followers": 205716,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAKwd535eplJIW+c9o8VEom",
+  "snapshot_id": "awDfAAAAAAAW1u506D4l9b0ft+cmYRO9",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 302893,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/1auuYcOrua5hrsGCS7idun"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 260213,
       "name": "Road to Nowhere - 2005 Remaster",
       "url": "https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 302893,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/1auuYcOrua5hrsGCS7idun"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 221320,
-      "name": "Life During Wartime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/7CqleiaEqHVazV19P532X9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 219200,
       "name": "And She Was",
       "url": "https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 221320,
+      "name": "Life During Wartime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/7CqleiaEqHVazV19P532X9"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Heaven - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5IpKduzyTWSCebGXkfJ2Mm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 343426,
       "name": "Girlfriend Is Better - 2005 Remaster",
       "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Heaven - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5IpKduzyTWSCebGXkfJ2Mm"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 169160,
-      "name": "Uh-Oh, Love Comes to Town",
-      "url": "https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n"
+      "duration_ms": 313000,
+      "name": "Swamp - 2005 Remaster",
+      "url": "https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
       "artists": [
         {
@@ -372,25 +372,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 313000,
-      "name": "Swamp - 2005 Remaster",
-      "url": "https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6iOPhFscLxdpzGug0qxpcZ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 333000,
-      "name": "(Nothing But) Flowers",
-      "url": "https://open.spotify.com/track/3tLolIaNbQSoIv6Usvhboh"
+      "duration_ms": 169160,
+      "name": "Uh-Oh, Love Comes to Town",
+      "url": "https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n"
     },
     {
       "added_at": null,
@@ -411,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Houses in Motion - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -443,6 +411,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6iOPhFscLxdpzGug0qxpcZ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 333000,
+      "name": "(Nothing But) Flowers",
+      "url": "https://open.spotify.com/track/3tLolIaNbQSoIv6Usvhboh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Houses in Motion - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
         "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 178732,
       "name": "Love Goes to a Building on Fire - 2024 Remaster",
       "url": "https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 354213,
+      "name": "Making Flippy Floppy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 354213,
-      "name": "Making Flippy Floppy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking Heads '77",
         "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 189266,
       "name": "New Feeling",
       "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Found a Job - Live",
-      "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
     },
     {
       "added_at": null,
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
       "artists": [
         {
@@ -564,9 +548,25 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 330706,
-      "name": "The Big Country",
-      "url": "https://open.spotify.com/track/1YoRuPU8F05eVcSjiAEq7r"
+      "duration_ms": 195373,
+      "name": "Found a Job - Live",
+      "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seen and Not Seen - 2005 Remaster",
+      "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 204520,
-      "name": "Seen and Not Seen - 2005 Remaster",
-      "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
+      "duration_ms": 330706,
+      "name": "The Big Country",
+      "url": "https://open.spotify.com/track/1YoRuPU8F05eVcSjiAEq7r"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 234960,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4tqipsSOnLHM8UbH6kzvXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 271813,
       "name": "Love for Sale - 2005 Remaster",
       "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4tqipsSOnLHM8UbH6kzvXO"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+        "name": "The Name of This Band Is Talking Heads (Expanded 2004 Remaster)",
+        "url": "https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Artists Only",
-      "url": "https://open.spotify.com/track/0TESnUvaEm6IXp38352XZG"
+      "duration_ms": 305000,
+      "name": "A Clean Break (Let's Work) - Live at WCOZ, Massachusetts; 2004 Remaster",
+      "url": "https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH"
     }
   ],
   "unique_name": "This Is Talking Heads",

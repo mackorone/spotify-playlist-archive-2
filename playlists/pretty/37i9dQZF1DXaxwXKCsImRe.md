@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:3z2daXDBOR0uFDF3TB788X">Justen de Wildt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,333 likes - 24 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,337 likes - 24 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

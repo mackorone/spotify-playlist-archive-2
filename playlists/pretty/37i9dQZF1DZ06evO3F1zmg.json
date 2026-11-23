@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAC+uWsjZzfYWcgk4pq/bxCW",
+  "snapshot_id": "awDfAAAAAACvo9xh6RenRUOxPbqLWxZc",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "details",
+        "url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 149313,
+      "name": "details",
+      "url": "https://open.spotify.com/track/3vrfkA7oTCRxfeNf1cCqda"
+    },
     {
       "added_at": null,
       "album": {
@@ -443,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 134760,
+      "name": "BO$$ CHICK",
+      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "They Got Amnesia",
         "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
       },
@@ -467,42 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE SINGLE LIFE",
-        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 134760,
-      "name": "BO$$ CHICK",
-      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talkin' Bout (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/2bjv3pxHHeerVrMDG4Iqyd"
-      },
-      "artists": [
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126225,
-      "name": "Talkin' Bout (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0NS0ycRjNrnONGvqoou1ot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
@@ -523,6 +519,26 @@
       "duration_ms": 224119,
       "name": "B*tch From Da Souf (Remix) (feat. Trina)",
       "url": "https://open.spotify.com/track/39GH3B0XsTd4SsqT7DJijs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talkin' Bout (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/2bjv3pxHHeerVrMDG4Iqyd"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126225,
+      "name": "Talkin' Bout (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0NS0ycRjNrnONGvqoou1ot"
     },
     {
       "added_at": null,
@@ -627,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All She Wanna Do",
-        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 195715,
-      "name": "All She Wanna Do (with Saweetie)",
-      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
         "url": "https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res"
       },
@@ -667,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Is It The Way",
         "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
       },
@@ -679,6 +695,22 @@
       "duration_ms": 152973,
       "name": "Is It The Way",
       "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
       "added_at": null,
@@ -707,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Best",
-        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "My Best",
-      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -739,6 +755,22 @@
       "duration_ms": 152241,
       "name": "Baby Boo",
       "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Bitch Freestyle",
+        "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 129379,
+      "name": "Pretty Bitch Freestyle",
+      "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
     },
     {
       "added_at": null,
@@ -763,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Bitch Freestyle",
-        "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
+        "name": "details",
+        "url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY"
       },
       "artists": [
         {
@@ -772,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 129379,
-      "name": "Pretty Bitch Freestyle",
-      "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
+      "duration_ms": 122490,
+      "name": "in ya face",
+      "url": "https://open.spotify.com/track/0tXyZq5VUJTrmCnb83vicd"
     },
     {
       "added_at": null,
@@ -819,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Tip Toes (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -843,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "Tip Toes (feat. Quavo)",
-      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Maintenance",
         "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
       },
@@ -875,6 +907,22 @@
       "duration_ms": 49242,
       "name": "High Maintenance",
       "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": null,
@@ -899,22 +947,6 @@
       "duration_ms": 169944,
       "name": "Addiction - feat. Lil Wayne & Saweetie",
       "url": "https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richtivities",
-        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 176401,
-      "name": "Richtivities",
-      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": null,
@@ -987,38 +1019,6 @@
       "duration_ms": 201248,
       "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
       "url": "https://open.spotify.com/track/19fuLoVyOa6Ok2xWbMpXxH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HELLA PRESSURE",
-        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162708,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake It Fast (WSWF Original Vol.3)",
-        "url": "https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Shake It Fast (Prod. THE HUB)",
-      "url": "https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI"
     }
   ],
   "unique_name": "This Is Saweetie",

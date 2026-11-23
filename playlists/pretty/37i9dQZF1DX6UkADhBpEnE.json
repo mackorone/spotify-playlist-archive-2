@@ -1,6 +1,6 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 148182,
+  "num_followers": 148180,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
@@ -339,86 +339,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
-        "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 176594,
-      "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
-      "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "Blood In Your Eyes (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
       },
@@ -439,18 +359,82 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 176594,
+      "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -471,6 +455,22 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
         "name": "\u898b\u77e5\u3089\u306c\u7cf8",
         "url": "https://open.spotify.com/album/4VC9eBVetDJVqwfdGxGb35"
       },
@@ -959,6 +975,26 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
         "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
       },
@@ -1039,22 +1075,18 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "3D (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+        "name": "No Punctuation",
+        "url": "https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+      "duration_ms": 197373,
+      "name": "No Punctuation",
+      "url": "https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1071,6 +1103,26 @@
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1115,22 +1167,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 143797,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
@@ -1155,6 +1191,22 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
@@ -1171,22 +1223,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "\u6669\u9910\u6b4c - Bansanka",
-        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "\u6669\u9910\u6b4c - Bansanka",
-      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "\u30aa\u30ec\u30f3\u30b8",
         "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
       },
@@ -1199,6 +1235,22 @@
       "duration_ms": 235206,
       "name": "\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "\u6669\u9910\u6b4c - Bansanka",
+        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "\u6669\u9910\u6b4c - Bansanka",
+      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1443,30 +1495,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "Same Blue",
         "url": "https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF"
       },
@@ -1495,6 +1523,30 @@
       "duration_ms": 183850,
       "name": "\u3055\u306a\u304c\u3089\u30ed\u30f3\u30ea\u30fc",
       "url": "https://open.spotify.com/track/4fksLHcbww26MwMJ2FdLqr"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1563,22 +1615,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "THE CORE - \u6838",
-        "url": "https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "HYPNOTIZE",
-      "url": "https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "\u82b1",
         "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
       },
@@ -1591,6 +1627,22 @@
       "duration_ms": 246699,
       "name": "\u82b1",
       "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1611,66 +1663,18 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "\u9b3c\u4e8b",
-        "url": "https://open.spotify.com/album/7IxbIYQOOQKgoQZzpFTArJ"
+        "name": "I\u2019m Good (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa"
       },
       "artists": [
         {
-          "name": "\u4e2d\u5cf6\u5065\u4eba",
-          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 180097,
-      "name": "\u9b3c\u4e8b",
-      "url": "https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "Destiny Journeys",
-        "url": "https://open.spotify.com/album/44KgY0Lw4LwXwK0xpU7TZD"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 238271,
-      "name": "Destiny Journeys",
-      "url": "https://open.spotify.com/track/0KW4FOvRBxXSsRBOwHWL42"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "\u71c8",
-        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
-      },
-      "artists": [
-        {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "\u71c8",
-      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "familie",
-        "url": "https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 222714,
-      "name": "familie",
-      "url": "https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l"
+      "duration_ms": 179666,
+      "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
     }
   ],
   "unique_name": "\u5143\u6c17Booster",

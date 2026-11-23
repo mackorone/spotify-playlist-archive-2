@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Llega Navidad",
+        "url": "https://open.spotify.com/album/1QRjKWM7QAxvmgmqVWyJ80"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221900,
+      "name": "Llega Navidad",
+      "url": "https://open.spotify.com/track/2IxHplhTBvwuorIeFXj7dY"
+    },
+    {
+      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/6NtDDdlGtmJZhQ9kNQcm9V"
       },

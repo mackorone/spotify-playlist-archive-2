@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 210226,
       "name": "Ein song som finst",
       "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
@@ -5678,6 +5678,24 @@
       "duration_ms": 196308,
       "name": "La dagen vare evig",
       "url": "https://open.spotify.com/track/1NKmAhNvaG6ulJigH0OGmM"
+    },
+    {
+      "album": {
+        "name": "La Dunken G\u00e5",
+        "url": "https://open.spotify.com/album/07FbVZ878A4lQ1Ofg5Z2bb"
+      },
+      "artists": [
+        {
+          "name": "BEIST",
+          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160336,
+      "name": "La Dunken G\u00e5",
+      "url": "https://open.spotify.com/track/03kcRexSoDn2YIrA28doRk"
     },
     {
       "album": {

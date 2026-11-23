@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11731,
+  "num_followers": 11733,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADZaxZYcGWJjPq3MRZmSbHJ",
+  "snapshot_id": "awDfAAAAAABbyNG8MTTvNevugIHspEtB",
   "tracks": [
     {
       "added_at": null,
@@ -115,62 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Nori Brandyfoot",
-      "url": "https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Julie Fowlis",
-          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
-        }
-      ],
-      "duration_ms": 93913,
-      "name": "Blood of my Blood - For My Love That's Lost (feat. Julie Fowlis)",
-      "url": "https://open.spotify.com/track/237cC7Nrcs6DiT7MACH5Xh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Raya Yarbrough",
-          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "Dance of the Druids (feat. Raya Yarbrough)",
-      "url": "https://open.spotify.com/track/39IOkz6LpC1qc5Wnt0T07r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
       },
@@ -196,9 +140,49 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 223533,
-      "name": "Galadriel",
-      "url": "https://open.spotify.com/track/4aLoiQsOE0oMx0pAFLOrow"
+      "duration_ms": 169697,
+      "name": "Nori Brandyfoot",
+      "url": "https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "Dance of the Druids (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/39IOkz6LpC1qc5Wnt0T07r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Julie Fowlis",
+          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
+        }
+      ],
+      "duration_ms": 93913,
+      "name": "Blood of my Blood - For My Love That's Lost (feat. Julie Fowlis)",
+      "url": "https://open.spotify.com/track/237cC7Nrcs6DiT7MACH5Xh"
     },
     {
       "added_at": null,
@@ -219,6 +203,22 @@
       "duration_ms": 219266,
       "name": "Memories of Mother (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Galadriel",
+      "url": "https://open.spotify.com/track/4aLoiQsOE0oMx0pAFLOrow"
     },
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Megan Richards",
+          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
+        }
+      ],
+      "duration_ms": 128556,
+      "name": "This Wandering Day",
+      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Walking Dead (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
@@ -415,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Megan Richards",
-          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
-        }
-      ],
-      "duration_ms": 128556,
-      "name": "This Wandering Day",
-      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
       },
@@ -447,6 +447,26 @@
       "duration_ms": 105760,
       "name": "Comin' Thro' The Rye",
       "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Benjamin Walker",
+          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
+        }
+      ],
+      "duration_ms": 198872,
+      "name": "Golden Leaves (feat. Benjamin Walker)",
+      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
     },
     {
       "added_at": null,
@@ -508,19 +528,19 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Benjamin Walker",
-          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
         }
       ],
-      "duration_ms": 198872,
-      "name": "Golden Leaves (feat. Benjamin Walker)",
-      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
+      "duration_ms": 190186,
+      "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
       },
       "artists": [
         {
@@ -528,13 +548,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+          "name": "Katrine Stenbekk",
+          "url": "https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo"
         }
       ],
-      "duration_ms": 213163,
-      "name": "Holding On (From \"God of War Ragnar\u00f6k\" Soundtrack) (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
+      "duration_ms": 258353,
+      "name": "The Most Devoted (feat. Katrine Stenbekk)",
+      "url": "https://open.spotify.com/track/0H24OtQtfcckFyebnCzsiq"
     },
     {
       "added_at": null,
@@ -571,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
@@ -580,13 +600,29 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
-      "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
+      "duration_ms": 213163,
+      "name": "Holding On (From \"God of War Ragnar\u00f6k\" Soundtrack) (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 274481,
+      "name": "The Sun Yet Shines",
+      "url": "https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy"
     },
     {
       "added_at": null,
@@ -611,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Katrine Stenbekk",
-          "url": "https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo"
         }
       ],
-      "duration_ms": 258353,
-      "name": "The Most Devoted (feat. Katrine Stenbekk)",
-      "url": "https://open.spotify.com/track/0H24OtQtfcckFyebnCzsiq"
+      "duration_ms": 177066,
+      "name": "The New Fraser's Ridge",
+      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
     },
     {
       "added_at": null,
@@ -647,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 274481,
-      "name": "The Sun Yet Shines",
-      "url": "https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -670,31 +686,11 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 369640,
-      "name": "Ashes (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "The New Fraser's Ridge",
-      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
+      "duration_ms": 223866,
+      "name": "Lullaby of the Giants (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
     },
     {
       "added_at": null,
@@ -715,38 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Brianna and Roger Theme",
-      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Lullaby of the Giants (From \"God of War\" Soundtrack)",
-      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -759,6 +723,46 @@
       "duration_ms": 465093,
       "name": "As Long as We Both Shall Live",
       "url": "https://open.spotify.com/track/0NbIAlLKDucvQNtH5Jutny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Morfydd Clark",
+          "url": "https://open.spotify.com/artist/6wGdc0ZZOfgDpoXiWhk4Os"
+        }
+      ],
+      "duration_ms": 265897,
+      "name": "Echoes of Ancient Music (feat. Morfydd Clark)",
+      "url": "https://open.spotify.com/track/0vWWYksi4jQzMxPxL8Fetq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 369640,
+      "name": "Ashes (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
     },
     {
       "added_at": null,
@@ -784,7 +788,7 @@
       "added_at": null,
       "album": {
         "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+        "url": "https://open.spotify.com/album/07aDYYURSMys73g1b0u6pU"
       },
       "artists": [
         {
@@ -792,15 +796,15 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
+      "duration_ms": 270440,
+      "name": "White Roses of Scotland",
+      "url": "https://open.spotify.com/track/0CFfmGkOH4qxEVTUVMNxZq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
       },
       "artists": [
         {
@@ -808,9 +812,25 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Witch of the Woods (From \"God of War\" Soundtrack)",
-      "url": "https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He"
+      "duration_ms": 153416,
+      "name": "Thrain",
+      "url": "https://open.spotify.com/track/55kqcP6bC5cvxdqGkDjo61"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Brianna and Roger Theme",
+      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
     },
     {
       "added_at": null,
@@ -835,6 +855,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Witch of the Woods (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Jens Kidman",
+          "url": "https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh"
+        },
+        {
+          "name": "Morgan Sorne",
+          "url": "https://open.spotify.com/artist/2OyHgTrHx5XKFb1oTRpDa3"
+        }
+      ],
+      "duration_ms": 218509,
+      "name": "Nazgnag\u00f4l (feat. Jens Kidman and Morgan Sorne)",
+      "url": "https://open.spotify.com/track/5tOQjPDTLC6F1Kjy3rM75t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
@@ -855,54 +915,6 @@
       "duration_ms": 95262,
       "name": "An Fh\u00ecdeag Airgid (feat. Gillebride MacMillan)",
       "url": "https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 153416,
-      "name": "Thrain",
-      "url": "https://open.spotify.com/track/55kqcP6bC5cvxdqGkDjo61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Mothra's Song",
-      "url": "https://open.spotify.com/track/07MzNaR5Rrxm4IqpeOHAxM"
     }
   ],
   "unique_name": "This Is Bear McCreary",

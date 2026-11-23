@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 26068,
+  "num_followers": 26091,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAABsYOiiFXGdBHQy/RWJRUeu",
+  "snapshot_id": "awDfAAAAAAC0QVvuPwa0zaFYBUfyn0HF",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 228047,
+      "name": "YES IT IS",
+      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "everything is a lot.",
         "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 229112,
       "name": "Watching Us (with Leon Thomas)",
       "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 228047,
-      "name": "YES IT IS",
-      "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
     },
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 144270,
-      "name": "Pressure (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YEARNALISM",
         "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 218122,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/10AL4TaEo02p5ddxmOP0cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 235888,
-      "name": "HEEL",
-      "url": "https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "13 Months of Sunshine",
         "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 208147,
       "name": "New Flower! (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 235888,
+      "name": "HEEL",
+      "url": "https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 172844,
-      "name": "PRIZE",
-      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 207572,
       "name": "Sunken Place",
       "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 172844,
+      "name": "PRIZE",
+      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victorious 2.0 (More Music from the TV Show \"Victorious\")",
         "url": "https://open.spotify.com/album/0YeCXqc0HDgouocYZAw66P"
       },
@@ -859,42 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 183589,
-      "name": "Love Jones (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 234809,
-      "name": "PLW",
-      "url": "https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 171814,
       "name": "PARTY FAVORS (feat. Big Sean)",
       "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 234809,
+      "name": "PLW",
+      "url": "https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z"
     },
     {
       "added_at": null,

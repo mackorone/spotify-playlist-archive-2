@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "20th Century Paddy - The Songs of Shane MacGowan",
+        "url": "https://open.spotify.com/album/4GKYuJJCj2MGPMSoGPqfIv"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272127,
+      "name": "A Rainy Night in Soho",
+      "url": "https://open.spotify.com/track/3132dOd47FDAAsVWglpl8M"
+    },
+    {
+      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 240226,
       "name": "Prove It All Night",
       "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423,422 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423,532 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 23 | [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 |
 | 24 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
 | 25 | [Human Nature](https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:05 |
-| 26 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 |
-| 27 | [Sweet Baby](https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Clarke/Duke Project](https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI) | 3:47 |
+| 26 | [Sweet Baby](https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Clarke/Duke Project](https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI) | 3:47 |
+| 27 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 |
 | 28 | [I'll Never Fall in Love Again](https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [I'll Never Fall in Love Again](https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW) | 2:54 |
 | 29 | [Mornin'](https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 4:18 |
 | 30 | [Easy](https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 4:20 |
-| 31 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 5:02 |
-| 32 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
+| 31 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
+| 32 | [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 5:02 |
 | 33 | [Son Of A Preacher Man](https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Silver Collection](https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf) | 2:26 |
-| 34 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
-| 35 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
+| 34 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
+| 35 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
 | 36 | [BRKN](https://open.spotify.com/track/07gFabF2ePsmBM0Q3CYitT) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Beyond Me](https://open.spotify.com/album/05tbey8KoO4jyoqB362gl6) | 3:53 |
 | 37 | [Your Love Is King \- Remastered](https://open.spotify.com/track/5EwNOL1CWnM74ptsVvW9OV) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:41 |
 | 38 | [On Broadway](https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 5:16 |

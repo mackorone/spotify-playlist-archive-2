@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-145 songs - 7 hr 46 min
+146 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 | 2023-01-03 |  |
 | [Assim Você Mata o Papai \- Ao Vivo](https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E) | 1:59 | 2023-01-03 |  |
 | [Atrasadinha \- Live](https://open.spotify.com/track/1aPl8QT8gtcPmOwpMH2Fyj) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Atrasadinha \(Ao Vivo\)](https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3) | 2:52 | 2023-01-03 |  |
+| [Atrasadinha / Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/0EgIW2XLPtcKbJsyPZUy1p) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Live Mixturadin EP 2](https://open.spotify.com/album/1fa5ysL6FHeBtWkc111jGv) | 5:46 | 2026-06-22 |  |
 | [Baby Me Atende](https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Baby Me Atende](https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V) | 3:45 | 2023-01-03 |  |
 | [Batom de Cereja \- Ao Vivo](https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 2:20 | 2023-01-03 |  |
 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 | 2023-01-03 |  |
@@ -83,7 +84,7 @@
 | [Mal Acostumado](https://open.spotify.com/track/4o2PBBped448WOwkMAFRHy) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Tô Achando Que É Amor, Ep\. 4](https://open.spotify.com/album/09N2lAZ7IAtNumMMj5EZHg) | 3:18 | 2023-11-17 | 2024-05-12 |
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2023-01-03 |  |
 | [Manda Áudio](https://open.spotify.com/track/0in6Rc29qdyOkhKyYw4A84) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Manda Áudio](https://open.spotify.com/album/13Yr9s9OwQb0FqeBo1tlKa) | 2:42 | 2023-01-03 | 2024-04-19 |
-| [Mande um Sinal / Ele e Ela \- Live](https://open.spotify.com/track/2Jysre3rcptlze7rb19rWo) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote Sunset 2 \(Live\)](https://open.spotify.com/album/52Kq5NyUMyYcez0KkadgLd) | 5:04 | 2026-06-22 |  |
+| [Mande um Sinal / Ele e Ela \- Live](https://open.spotify.com/track/2Jysre3rcptlze7rb19rWo) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote Sunset 2 \(Live\)](https://open.spotify.com/album/52Kq5NyUMyYcez0KkadgLd) | 5:04 | 2026-06-22 | 2026-11-23 |
 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Eu e Você Sempre](https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF) | 3:28 | 2023-11-17 |  |
 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Cartão Postal](https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK) | 3:29 | 2023-01-03 | 2024-04-19 |
 | [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 | 2023-11-17 |  |

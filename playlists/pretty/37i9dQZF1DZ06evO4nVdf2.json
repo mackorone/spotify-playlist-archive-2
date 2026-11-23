@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 66740,
+  "num_followers": 66744,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAABEfKiiLouFaO+AC0xnn4lb",
+  "snapshot_id": "awDfAAAAAAAs2D7ytnNGuPGaN0TZim7c",
   "tracks": [
     {
       "added_at": null,
@@ -275,46 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La M\u00e1quina Persona",
-        "url": "https://open.spotify.com/album/5PykOSttRwCyzb5cQIltEG"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Si Esto Es",
-      "url": "https://open.spotify.com/track/6dx1z7NlPgTx4CHvmKxzNc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Adolescente",
-        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 245062,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/51QA40kISsnSTsjwO2mspY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -335,6 +295,46 @@
       "duration_ms": 319026,
       "name": "TQM",
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Adolescente",
+        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 245062,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/51QA40kISsnSTsjwO2mspY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La M\u00e1quina Persona",
+        "url": "https://open.spotify.com/album/5PykOSttRwCyzb5cQIltEG"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Si Esto Es",
+      "url": "https://open.spotify.com/track/6dx1z7NlPgTx4CHvmKxzNc"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Te Muerdes el Labio",
-        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Hist\u00e9ricos",
-      "url": "https://open.spotify.com/track/0b7VF2YIpjMOtcTh2NAPX7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voy a Volver",
         "url": "https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 235786,
       "name": "Voy a Volver",
       "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Hist\u00e9ricos",
+      "url": "https://open.spotify.com/track/0b7VF2YIpjMOtcTh2NAPX7"
     },
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/0LwdDCvjlEtHMmVrWxGNg5"
+        "name": "No todo lo puedes dar",
+        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
       },
       "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/231t7nLhK2tRrTVcsXk5O4"
+      "duration_ms": 275160,
+      "name": "Sin Ti No Puede Estar Tan Mal",
+      "url": "https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy"
     },
     {
       "added_at": null,
@@ -551,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No todo lo puedes dar",
-        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/0LwdDCvjlEtHMmVrWxGNg5"
       },
       "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 275160,
-      "name": "Sin Ti No Puede Estar Tan Mal",
-      "url": "https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy"
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/231t7nLhK2tRrTVcsXk5O4"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop Pesado",
         "url": "https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 166053,
       "name": "atemporal",
       "url": "https://open.spotify.com/track/6ZHc1D27Ik9AdRX2gZZLPN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00d3MADA",
-        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Corazonada",
-      "url": "https://open.spotify.com/track/1pKR8tOrJXI4IYBLFCGfs7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Adolescente",
         "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 49081,
       "name": "Sophia",
       "url": "https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00d3MADA",
+        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Corazonada",
+      "url": "https://open.spotify.com/track/1pKR8tOrJXI4IYBLFCGfs7"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "No vuelvo m\u00e1s",
+      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N.I.T.",
         "url": "https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "No vuelvo m\u00e1s",
-      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "La tina",
+      "url": "https://open.spotify.com/track/6m4Td7QOqE7mZqNYwD4ruF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/6cNhorO2Vmcbt2zyXosHYZ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/1J7DXtecVHR34Rc4Zkv71d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "La tina",
-      "url": "https://open.spotify.com/track/6m4Td7QOqE7mZqNYwD4ruF"
     },
     {
       "added_at": null,

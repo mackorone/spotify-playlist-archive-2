@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With STACY, Kaelis Virel, Die Mannequin and more",
+  "description": "With Die Mannequin, Kaelis Virel, STACY and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 159285,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 248376,
       "name": "Below Average",
       "url": "https://open.spotify.com/track/3wtRTHG1jcec4PCWhuuhdd"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 484147,
       "name": "Crimson Dust Scars Specter",
       "url": "https://open.spotify.com/track/7nuDnILBLh9ZSJOaIbcLhn"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 253846,
       "name": "Divine",
       "url": "https://open.spotify.com/track/50S1t4twWPp2FgUAhZZkRc"
@@ -4574,7 +4574,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/1zX3GyOLGPLO0ZBnvtGn3L"
@@ -4736,7 +4736,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 195146,
       "name": "Fuck You 2",
       "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
@@ -5636,7 +5636,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 244371,
       "name": "Heartbreakin' woman",
       "url": "https://open.spotify.com/track/6z7teyNlfVhzaGwr5zSaHx"
@@ -5690,7 +5690,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 243488,
       "name": "Heavy Love",
       "url": "https://open.spotify.com/track/5rL8ztXSqLsKpOdh8VqOt3"
@@ -6652,7 +6652,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 212684,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/38Ld7ahoYOPIyaK5pZRJTF"
@@ -6832,7 +6832,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -6898,6 +6898,24 @@
       "duration_ms": 237720,
       "name": "Imperfection",
       "url": "https://open.spotify.com/track/3RVbu42FIdF875KHAkPyPn"
+    },
+    {
+      "album": {
+        "name": "State of the City - EP",
+        "url": "https://open.spotify.com/album/1cVqP69fkMa2WH6sqIV5yM"
+      },
+      "artists": [
+        {
+          "name": "State of the City",
+          "url": "https://open.spotify.com/artist/0KqcA1CxK5192BNhLgXxGC"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210782,
+      "name": "Impulse",
+      "url": "https://open.spotify.com/track/2pDVTERiP8ouWnVLCfULSn"
     },
     {
       "album": {
@@ -7504,7 +7522,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -7558,7 +7576,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -8192,7 +8210,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 276617,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/7nitGpFPPNULZbGBniIv1v"
@@ -8210,7 +8228,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 155225,
       "name": "Love is Art",
       "url": "https://open.spotify.com/track/7btiHIJnBI10uE4BHfKpTO"
@@ -9050,7 +9068,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -9486,7 +9504,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 190872,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/2Mk8rgnsTdKlVGU9kk0D6P"
@@ -11384,7 +11402,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 141124,
       "name": "Salutatorian",
       "url": "https://open.spotify.com/track/0sR75ZFcpHgSubNgATHTwT"
@@ -11698,7 +11716,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 215614,
       "name": "She - Demo Version 2013",
       "url": "https://open.spotify.com/track/41u1k5OKvTHhzz8iR2fm6g"
@@ -11828,7 +11846,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 166891,
       "name": "Short Piece",
       "url": "https://open.spotify.com/track/373esSRWQHKlQk08h75kzI"
@@ -11846,7 +11864,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 234442,
       "name": "Shot to the Heart",
       "url": "https://open.spotify.com/track/4uoSBgdA5GDqpN6LN8SoPF"
@@ -11994,7 +12012,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 188750,
       "name": "Snake Oil",
       "url": "https://open.spotify.com/track/6guKD661VTP8RApMXF9gPm"
@@ -12012,7 +12030,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 226485,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/7yF65HyAC42afo15yHfUGV"
@@ -12138,7 +12156,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -13022,6 +13040,36 @@
       "duration_ms": 223654,
       "name": "The Black Hole In The Sky",
       "url": "https://open.spotify.com/track/1k6zaXUEyCFyNjqVVjrEWQ"
+    },
+    {
+      "album": {
+        "name": "The Chain",
+        "url": "https://open.spotify.com/album/35DUmrsNphzLvGzkdrFXaY"
+      },
+      "artists": [
+        {
+          "name": "Candice Night",
+          "url": "https://open.spotify.com/artist/4ZM0E70MLZ38Bj1g300V18"
+        },
+        {
+          "name": "Doug Aldrich",
+          "url": "https://open.spotify.com/artist/4NyeE2YpdGL4xTMThr6qnZ"
+        },
+        {
+          "name": "Corey Parks",
+          "url": "https://open.spotify.com/artist/3aqLFtzcDAQ6dIAo88TkXv"
+        },
+        {
+          "name": "Fred Aching Rios",
+          "url": "https://open.spotify.com/artist/1B6DVkUSqIdBNsFOAO1wmX"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278333,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/2kztmj4KdHw2EqEsKI2Pmd"
     },
     {
       "album": {
@@ -14236,7 +14284,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 253136,
       "name": "We Should Never Be Alone",
       "url": "https://open.spotify.com/track/4brZGwllzw61JLPFM7hnbt"
@@ -14690,6 +14738,24 @@
       "duration_ms": 162586,
       "name": "Wizard Lovin'",
       "url": "https://open.spotify.com/track/2SsteFS86gk43Mczhgt7YD"
+    },
+    {
+      "album": {
+        "name": "Charm City",
+        "url": "https://open.spotify.com/album/7pHCjujBanl7VlBLPltbPC"
+      },
+      "artists": [
+        {
+          "name": "Bad Seed Rising",
+          "url": "https://open.spotify.com/artist/1SQPpVksSrbif6zjT30Obe"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Wolves at the Door",
+      "url": "https://open.spotify.com/track/6a727qR2qmlyHgw7wLE3sV"
     },
     {
       "album": {

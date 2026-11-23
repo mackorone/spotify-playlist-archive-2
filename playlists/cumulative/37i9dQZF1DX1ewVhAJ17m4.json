@@ -9915,6 +9915,32 @@
     },
     {
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4sVqW1OR0NW1OHc4EAetXp"
+      },
+      "artists": [
+        {
+          "name": "TIDAN",
+          "url": "https://open.spotify.com/artist/5CuQnCo0FsPEeVDd6zxWud"
+        },
+        {
+          "name": "PETEXZEN",
+          "url": "https://open.spotify.com/artist/5hHspHUuwERzBNxlhg27jD"
+        },
+        {
+          "name": "Paige Six",
+          "url": "https://open.spotify.com/artist/4tMlOP36DZsA3fhGUe80j6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194719,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0fgezbOHSWFArdy2HEGEbu"
+    },
+    {
+      "album": {
         "name": "Stepper",
         "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
@@ -11450,7 +11476,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 138082,
       "name": "unravelled",
       "url": "https://open.spotify.com/track/1YLoqDaLd7HRdUZEgbaFQC"

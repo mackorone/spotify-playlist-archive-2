@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 103581,
+  "num_followers": 103656,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,30 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Roy",
+        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros Anjjan",
+          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+        },
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 246100,
+      "name": "Chittiyaan Kalaiyaan",
+      "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Race 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Q5RHgCR1iKzaZzJurDKEK"
       },
@@ -735,26 +759,26 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Roy",
-        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
       },
       "artists": [
         {
-          "name": "Meet Bros Anjjan",
-          "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
         },
         {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         },
         {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
         }
       ],
-      "duration_ms": 246100,
-      "name": "Chittiyaan Kalaiyaan",
-      "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
+      "duration_ms": 210267,
+      "name": "Main Aur Tu",
+      "url": "https://open.spotify.com/track/5icrEfubHCXlHEue9YUT3q"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -807,30 +831,6 @@
       "duration_ms": 302935,
       "name": "Ghungroo (From \"War\")",
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Dhurandhar The Revenge",
-        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
-        }
-      ],
-      "duration_ms": 210267,
-      "name": "Main Aur Tu",
-      "url": "https://open.spotify.com/track/5icrEfubHCXlHEue9YUT3q"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -911,6 +911,34 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
+        "name": "Band Baaja Baaraat",
+        "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 267624,
+      "name": "Ainvayi Ainvayi",
+      "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
         "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
       },
@@ -943,34 +971,6 @@
       "duration_ms": 258472,
       "name": "Besharam Rang (From \"Pathaan\")",
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
-        "name": "Band Baaja Baaraat",
-        "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Salim Merchant",
-          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 267624,
-      "name": "Ainvayi Ainvayi",
-      "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1511,30 +1511,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Psycho Saiyaan (From \"Saaho\")",
-        "url": "https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE"
-      },
-      "artists": [
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Dhvani Bhanushali",
-          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 166461,
-      "name": "Psycho Saiyaan (From \"Saaho\")",
-      "url": "https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Badrinath Ki Dulhania",
         "url": "https://open.spotify.com/album/26ska1StQhwbWADLTg2hky"
       },
@@ -1563,6 +1539,30 @@
       "duration_ms": 199264,
       "name": "Tamma Tamma Again",
       "url": "https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Psycho Saiyaan (From \"Saaho\")",
+        "url": "https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 166461,
+      "name": "Psycho Saiyaan (From \"Saaho\")",
+      "url": "https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95"
     },
     {
       "added_at": "2026-10-23 09:38:03",
@@ -1855,30 +1855,6 @@
     {
       "added_at": "2026-10-23 09:38:03",
       "album": {
-        "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
-        "url": "https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba"
-      },
-      "artists": [
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Vishal",
-          "url": "https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw"
-        },
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        }
-      ],
-      "duration_ms": 201655,
-      "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
-      "url": "https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk"
-    },
-    {
-      "added_at": "2026-10-23 09:38:03",
-      "album": {
         "name": "Naach Meri Rani (Feat. Nora Fatehi)",
         "url": "https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo"
       },
@@ -1899,6 +1875,30 @@
       "duration_ms": 212692,
       "name": "Naach Meri Rani (Feat. Nora Fatehi)",
       "url": "https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV"
+    },
+    {
+      "added_at": "2026-10-23 09:38:03",
+      "album": {
+        "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
+        "url": "https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Vishal",
+          "url": "https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        }
+      ],
+      "duration_ms": 201655,
+      "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
+      "url": "https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk"
     },
     {
       "added_at": "2026-10-23 09:38:03",

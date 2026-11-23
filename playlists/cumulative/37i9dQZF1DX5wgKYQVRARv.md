@@ -4,7 +4,7 @@
 
 > New and recent favorites of Progressive Metal\. Cover: TesseracT
 
-897 songs - 3 day 5 hr 10 min
+898 songs - 3 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Noir](https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Noir](https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u) | 4:52 | 2026-02-06 |  |
 | [Noonday Devil](https://open.spotify.com/track/6N4SnZzS4YYtslJ86FgxwE) | [The Great Discord](https://open.spotify.com/artist/3KWOkq7nrD0UybEUMj4Ryt) | [Noonday Devil](https://open.spotify.com/album/4kwiB6JzcCoYH6JRsOoTE2) | 3:20 | 2021-12-17 | 2022-07-27 |
 | [Not Surprised](https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Not Surprised](https://open.spotify.com/album/58hd4WgRE1LSPV0ELXHtc9) | 5:08 | 2024-03-29 | 2024-05-18 |
+| [Nothing Ever Happens](https://open.spotify.com/track/0oqV3Ud53BOTMltEM9Nuda) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [The Will To Power](https://open.spotify.com/album/5bAGxP0lBqlMUprJggKYWd) | 3:34 | 2026-11-20 |  |
 | [Nothing Gold](https://open.spotify.com/track/1WGC4W2dBxxxvH97h9qCP1) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Embrace the Infinity](https://open.spotify.com/album/7HL5kk9mZEYfijS8K5YzEK) | 4:16 | 2023-04-07 | 2025-11-15 |
 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 | 2025-09-27 |
 | [Nowhere](https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me) | 5:02 | 2022-10-28 | 2024-04-19 |
@@ -785,7 +786,7 @@
 | [The Tempest](https://open.spotify.com/track/7jmuosDBwcmcfB6Jbi7zIX) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [The Tempest](https://open.spotify.com/album/695AyssBtISEpsMTh0Ue5f) | 4:48 | 2021-12-17 | 2022-07-29 |
 | [The Tower of Cosmic Nihility](https://open.spotify.com/track/4dgbo8OaQhFaKxebtlh3WA) | [IOTUNN](https://open.spotify.com/artist/3yJvUOZq6oH130RTa68hQz) | [The Tower of Cosmic Nihility](https://open.spotify.com/album/5BpW1er5S8lrzZGHYRhFOv) | 7:30 | 2021-12-17 | 2022-07-29 |
 | [The Trauma](https://open.spotify.com/track/1DoOPRw8kP5EZDHVz8BWpN) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [Waving at the Sky](https://open.spotify.com/album/0cIqjMVGszUlgY8Aq7v98L) | 5:17 | 2026-02-06 |  |
-| [The Unsacred](https://open.spotify.com/track/6LnYFs4ADCxHIFyzKDUAYe) | [Unsolicited](https://open.spotify.com/artist/43hhY2PI6aRfX5VYPiYOxO) | [The Unsacred](https://open.spotify.com/album/0zumltyvXFArvzbJPGEhX1) | 3:56 | 2026-10-19 |  |
+| [The Unsacred](https://open.spotify.com/track/6LnYFs4ADCxHIFyzKDUAYe) | [Unsolicited](https://open.spotify.com/artist/43hhY2PI6aRfX5VYPiYOxO) | [The Unsacred](https://open.spotify.com/album/0zumltyvXFArvzbJPGEhX1) | 3:56 | 2026-10-19 | 2026-11-23 |
 | [The Violent Sound](https://open.spotify.com/track/1zjsWaTZzxv8MVA4I594s7) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ) | [The Violent Sound](https://open.spotify.com/album/330mPAFxX8ON57T9KfzvMn) | 4:55 | 2022-07-13 | 2022-07-25 |
 | [The Violent Sound](https://open.spotify.com/track/4M4qmW8VwCgmmgj17xq62v) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ) | [The Violent Sound](https://open.spotify.com/album/6cF98YylF72OIcuAXAaOPA) | 4:55 | 2022-10-28 | 2024-04-19 |
 | [The Wandering Flame](https://open.spotify.com/track/7jL0GNxRXIzvsVAVwqBNPi) | [Johari](https://open.spotify.com/artist/7Bu90tRyNrQvmkf0Xqggfe), [Yurei](https://open.spotify.com/artist/40GCujzKJynKnRJoM4w6zn) | [The Wandering Flame](https://open.spotify.com/album/0yqeMORDS2bf2OncaYQQc7) | 4:58 | 2021-12-17 | 2022-07-20 |

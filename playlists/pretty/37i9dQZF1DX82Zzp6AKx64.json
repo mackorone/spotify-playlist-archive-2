@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1245049,
+  "num_followers": 1245095,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "What's Love Got to Do with It - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "What's Love Got to Do with It - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "The Lizard",
-        "url": "https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ"
-      },
-      "artists": [
-        {
-          "name": "Saigon Kick",
-          "url": "https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Love Is on the Way",
-      "url": "https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Alias",
         "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 234196,
       "name": "More Than Words Can Say",
       "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "The Lizard",
+        "url": "https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ"
+      },
+      "artists": [
+        {
+          "name": "Saigon Kick",
+          "url": "https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d"
+        }
+      ],
+      "duration_ms": 264173,
+      "name": "Love Is on the Way",
+      "url": "https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Sheriff",
-        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
-      },
-      "artists": [
-        {
-          "name": "Sheriff",
-          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
       },
@@ -847,18 +831,34 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Damn Yankees",
-        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+        "name": "Sheriff",
+        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
       },
       "artists": [
         {
-          "name": "Damn Yankees",
-          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+          "name": "Sheriff",
+          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
         }
       ],
-      "duration_ms": 339560,
-      "name": "Come Again",
-      "url": "https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r"
+      "duration_ms": 238040,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "If You Needed Somebody",
+      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
+        "name": "Damn Yankees",
+        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "Damn Yankees",
+          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
         }
       ],
-      "duration_ms": 261000,
-      "name": "If You Needed Somebody",
-      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
+      "duration_ms": 339560,
+      "name": "Come Again",
+      "url": "https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Don't Tread",
-        "url": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
-      },
-      "artists": [
-        {
-          "name": "Damn Yankees",
-          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
-        }
-      ],
-      "duration_ms": 279846,
-      "name": "Where You Goin' Now",
-      "url": "https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Firehouse (2024 Remaster)",
         "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 238939,
       "name": "Turn the Lights Back On",
       "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Don't Tread",
+        "url": "https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8"
+      },
+      "artists": [
+        {
+          "name": "Damn Yankees",
+          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+        }
+      ],
+      "duration_ms": 279846,
+      "name": "Where You Goin' Now",
+      "url": "https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Dirty Rotten Filthy Stinking Rich",
-        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
-      },
-      "artists": [
-        {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Sometimes She Cries",
-      "url": "https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Wings Of Tomorrow",
         "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 246733,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Dirty Rotten Filthy Stinking Rich",
+        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Sometimes She Cries",
+      "url": "https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Vixen",
-        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
-      },
-      "artists": [
-        {
-          "name": "Vixen",
-          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Edge Of A Broken Heart",
-      "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Boogie Nights / Music From The Original Motion Picture",
         "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 300066,
       "name": "Sister Christian",
       "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Vixen",
+        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Edge Of A Broken Heart",
+      "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
     },
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Black Rain (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Here for You",
-      "url": "https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Bad English",
         "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 212933,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Black Rain (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 277400,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2"
     },
     {
       "added_at": "2024-06-26 02:22:53",

@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Grace Enger
 
-1,190 songs - 2 day 16 hr 18 min
+1,192 songs - 2 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Bad Timing](https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Bad Timing](https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo) | 3:28 | 2024-03-15 | 2024-04-19 |
 | [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 | 2025-08-22 | 2025-11-26 |
 | [Basements & Bedrooms](https://open.spotify.com/track/0s5Dg7GfUY3QQrJdxLjIZP) | [Addie Costain](https://open.spotify.com/artist/5o4LFa41I9pZYhNaKsfj4p) | [Basements & Bedrooms](https://open.spotify.com/album/690BEvLpxV1u4gILyG9QHK) | 3:38 | 2026-02-20 | 2026-06-05 |
-| [bathroom stalls](https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [bathroom stalls](https://open.spotify.com/album/4muZo3emWSPEYxEV0QHrXt) | 3:21 | 2026-08-07 |  |
+| [bathroom stalls](https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [bathroom stalls](https://open.spotify.com/album/4muZo3emWSPEYxEV0QHrXt) | 3:21 | 2026-08-07 | 2026-11-23 |
 | [batman](https://open.spotify.com/track/5LvQwR4I2HHqIhuxCuitDY) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [batman](https://open.spotify.com/album/5vxI5NjlQ9kTLrqxsl4GAd) | 3:25 | 2026-04-17 | 2026-08-28 |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 | 2022-09-10 |
 | [Be My Home](https://open.spotify.com/track/6BsOKKIkRN2O22fvyoFklh) | [Katherine Li](https://open.spotify.com/artist/38rAJOuFC1fBHislB0Lm8c) | [Be My Home](https://open.spotify.com/album/0Wp9ZgwTj6VvYO9eCx6bMh) | 5:49 | 2026-10-09 | 2026-10-23 |
@@ -610,6 +610,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 | 2023-03-31 | 2023-08-19 |
 | [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 | 2025-02-07 | 2025-03-01 |
 | [Kinda Like The Heartbreak](https://open.spotify.com/track/6GnaYqtSjiwt6tR6T0Uew5) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/2vcYcWEB5lXdzwBPheO000) | 2:49 | 2023-03-10 | 2023-08-19 |
+| [King Street](https://open.spotify.com/track/2Oxy6BOQ67zYz2LXqnAjfx) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [King Street](https://open.spotify.com/album/2eibZ6DViTSTSnyYPwDfiu) | 3:46 | 2026-11-22 |  |
 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 | 2024-08-09 | 2024-12-10 |
 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 | 2025-04-11 | 2025-07-19 |
 | [Ladybirds](https://open.spotify.com/track/0pL94IbabpLNr3TTrzXKLy) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Ladybirds](https://open.spotify.com/album/4by9Uss8JOqlY7D7dcVTGt) | 3:02 | 2026-11-13 |  |
@@ -686,6 +687,7 @@
 | [Lows & Highs](https://open.spotify.com/track/10s2OqqwGxHcSXKX8vmJUD) | [Mads Paige](https://open.spotify.com/artist/6P0cx3UK8CnP3No3YgEld3) | [Lows & Highs](https://open.spotify.com/album/7k6ffTtKIlWAJYxYhC54p4) | 4:13 | 2022-12-23 | 2023-04-09 |
 | [luckiest girl alive](https://open.spotify.com/track/03I8QTPwaCgRgCbOYC1wQ3) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [luckiest girl alive](https://open.spotify.com/album/5VYf1y5PC7GpqfjAXmnYQu) | 3:33 | 2026-09-04 |  |
 | [Lucky Me](https://open.spotify.com/track/7JmAPZJMAf7VBq8rrCwduu) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Lucky Me](https://open.spotify.com/album/60ohkB52oyMIZNKtPNAp2S) | 2:22 | 2026-11-20 |  |
+| [Lucky Stars](https://open.spotify.com/track/2DOcDfVs1KuMapsTEwW4R9) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Lucky Stars / Actress](https://open.spotify.com/album/5M2N3MKnskuepHKFaZWxEl) | 3:07 | 2026-11-22 |  |
 | [Machine Learning](https://open.spotify.com/track/3rpqdjRLuBGDfGHyAMD55v) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Machine Learning](https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX) | 2:35 | 2022-11-04 | 2022-12-03 |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 | 2022-11-09 |
 | [Mad Hoes](https://open.spotify.com/track/0xI2ngnUf6iG5LgotBmmEd) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:44 | 2022-09-09 | 2022-12-24 |
@@ -918,7 +920,7 @@
 | [Sherry Wine](https://open.spotify.com/track/37BMnmcnLT63VCbAdCL307) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [Sherry Wine](https://open.spotify.com/album/3VAZyVBmMCL77esrLijBkL) | 3:25 | 2026-09-25 | 2026-10-23 |
 | [Shipwrecked](https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Shipwrecked](https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh) | 3:12 | 2026-10-23 |  |
 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 | 2024-10-19 |
-| [SIDES OF MY PEN](https://open.spotify.com/track/3MKfTmgTZbA9i2hL57mzTU) | [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [SIDES OF MY PEN](https://open.spotify.com/album/12IL9L3DtwEbkJ7q3JYts0) | 2:45 | 2026-07-10 |  |
+| [SIDES OF MY PEN](https://open.spotify.com/track/3MKfTmgTZbA9i2hL57mzTU) | [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [SIDES OF MY PEN](https://open.spotify.com/album/12IL9L3DtwEbkJ7q3JYts0) | 2:45 | 2026-07-10 | 2026-11-23 |
 | [Silence](https://open.spotify.com/track/3wzrK49eHKXufPDkNzRAoH) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Pray For Me](https://open.spotify.com/album/79UgvdWK1Cz8SN5BdgKFL4) | 2:57 | 2023-07-07 | 2023-12-14 |
 | [Silence](https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Silence](https://open.spotify.com/album/0QTeJJR2WXrNd07TUbbhql) | 2:57 | 2023-06-23 | 2023-11-11 |
 | [Silence](https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Silence](https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1) | 2:06 | 2025-09-26 | 2026-02-17 |

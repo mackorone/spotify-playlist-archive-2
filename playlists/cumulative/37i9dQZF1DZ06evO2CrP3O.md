@@ -4,7 +4,7 @@
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 43 min
+79 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 | 2025-03-08 | 2025-05-07 |
 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 | 2026-04-19 |  |
 | [Call Me \- Theme From "American Gigolo" / Remastered 2001](https://open.spotify.com/track/6wzbWsPbfIR0nBjSqdbV7m) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 8:06 | 2025-03-08 |  |
+| [Come Back Home](https://open.spotify.com/track/3hDIyRkk42heKhWGHtnxXI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Come Back Home](https://open.spotify.com/album/0AkkMJxxOA8xN02QfhIriD) | 3:44 | 2026-11-23 |  |
 | [Contact In Red Square \- Remastered](https://open.spotify.com/track/3CsLJ6hYYgtoUKSSgvvga4) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:02 | 2025-03-08 | 2026-08-27 |
 | [Denis](https://open.spotify.com/track/2r9wqqaPMXq6goFO396cfq) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 2:19 | 2025-12-28 | 2026-06-17 |
 | [Denis \- Remastered 2001](https://open.spotify.com/track/3RIpoyYHjSTJtwoi5yHW1E) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:19 | 2025-03-08 |  |
@@ -82,7 +83,7 @@
 | [The Tide Is High \- Live](https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live](https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt) | 4:04 | 2025-03-08 | 2026-03-19 |
 | [Too Much](https://open.spotify.com/track/03oGhqpLGW9N2ius8TIpen) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:08 | 2026-05-11 |  |
 | [Union City Blue \- Single Version](https://open.spotify.com/track/3a3JGuTQNYM3YawGpck7Ql) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:22 | 2025-03-08 |  |
-| [Walk Like Me \- Remastered 2001](https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:44 | 2026-02-25 |  |
+| [Walk Like Me \- Remastered 2001](https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:44 | 2026-02-25 | 2026-11-23 |
 | [Warm\-Up](https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live in San Francisco 1977, Vol\. 1 \(HQ Remastered\)](https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F) | 0:39 | 2025-03-08 | 2026-03-24 |
 | [What I Heard](https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Panic of Girls](https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t) | 3:17 | 2025-03-08 |  |
 | [X Offender \- Remastered 2001](https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:14 | 2025-03-08 |  |

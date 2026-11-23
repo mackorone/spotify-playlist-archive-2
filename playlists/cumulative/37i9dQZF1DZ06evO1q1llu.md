@@ -4,7 +4,7 @@
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 2 min
+112 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,11 @@
 | [A COLD PLAY](https://open.spotify.com/track/55Tys2QDQ6nxf2efuR1RLD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 2:58 | 2026-02-12 |  |
 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-10 | 2026-02-11 |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-23 | 2026-01-19 |
+| [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 | 2026-11-23 |  |
 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-08 |  |
 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 | 2024-01-20 |  |
 | [ALWAYS DO](https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:31 | 2023-12-18 |  |
-| [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-13 |  |
+| [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-13 | 2026-11-23 |
 | [BABY I'M BACK](https://open.spotify.com/track/1KZfsdxhCqX3SJnRjRPJiD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:51 | 2026-05-11 |  |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-08-11 | 2026-05-11 |
 | [BABY I'M BACK \- Remix](https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [BABY I'M BACK \(Remix\)](https://open.spotify.com/album/4TCXp0ZTbzKsmRIAmRPofE) | 3:50 | 2024-09-29 | 2024-10-27 |

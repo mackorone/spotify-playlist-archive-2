@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Destroy Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,234 likes - 239 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,147 likes - 239 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6muSuAUvee7pzSmVu1Wgys">uv killin em</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 43 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 43 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 16 | [Fuck You Too](https://open.spotify.com/track/27h3yBSFjfgWE3W3DKOknf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 3:26 |
 | 17 | [Issues](https://open.spotify.com/track/0fdGancqr2bZGUOT42CNj5) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Issues](https://open.spotify.com/album/3x1N5mOC36Sy0KyBRFDWtk) | 2:46 |
 | 18 | [Life Goes On](https://open.spotify.com/track/1mXtEf59XtQ8mQtHL3Had6) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Life Goes On](https://open.spotify.com/album/63a9YKa0yTquyvq3O1Ce5W) | 2:46 |
-| 19 | [THROW UP](https://open.spotify.com/track/3baUe3C6XeMeE0GcHOn0xR) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 3:07 |
-| 20 | [Hate It or Love It](https://open.spotify.com/track/21NpJLOBIwpTAsELENNN2V) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM](https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ) | 2:45 |
+| 19 | [Hate It or Love It](https://open.spotify.com/track/21NpJLOBIwpTAsELENNN2V) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM](https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ) | 2:45 |
+| 20 | [THROW UP](https://open.spotify.com/track/3baUe3C6XeMeE0GcHOn0xR) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 3:07 |
 | 21 | [Site Flipping](https://open.spotify.com/track/7q09p7MYHpq9Bbg80wnW6r) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 2:50 |
 | 22 | [Hate The Real](https://open.spotify.com/track/5ftWjOByjaSeEXbiiAUU5U) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Hate The Real](https://open.spotify.com/album/1siHdZPVsaanNBgk0E6Efe) | 3:38 |
 | 23 | [Sprung](https://open.spotify.com/track/5QryAaFK2iXUBX4KhC6QaZ) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 2:14 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 42 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 | 43 | [Running Out of Words](https://open.spotify.com/track/4JrgIIauZIucAVBJwz184N) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [Mistakes, etc.](https://open.spotify.com/album/2nvkVRDJnlsy7kIvtoO7w5) | 2:37 |
 
-Snapshot ID: `AciTAgAAAABuY8vQ+fBmXHwo1ecoTP9/`
+Snapshot ID: `AciY3gAAAAB0PWpWZiKe4BUyWm7GfO47`

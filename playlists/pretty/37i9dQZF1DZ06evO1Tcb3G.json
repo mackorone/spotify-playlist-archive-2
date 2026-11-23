@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 537932,
+  "num_followers": 537982,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAByDueLAutQf6iOXBuTh2FX",
+  "snapshot_id": "awDfAAAAAADgwlZCFHozr7S7xMjtTETT",
   "tracks": [
     {
       "added_at": null,
@@ -216,7 +216,7 @@
       "added_at": null,
       "album": {
         "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
       "artists": [
         {
@@ -226,13 +226,13 @@
       ],
       "duration_ms": 229760,
       "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/6sqUnjIySqur2BocQgFQKP"
+      "url": "https://open.spotify.com/track/5PaMVKwU9grvLwb6oORlnm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 218627,
-      "name": "Ditmas",
-      "url": "https://open.spotify.com/track/0cIQEeA1OD5XzUjuplVfiT"
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
+      "duration_ms": 218627,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/0cIQEeA1OD5XzUjuplVfiT"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 173400,
       "name": "Timshel",
       "url": "https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 236883,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/2DT29yY6D5Ko07qMohmuGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 271025,
       "name": "Friend of the Devil",
       "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 236883,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2DT29yY6D5Ko07qMohmuGe"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 190034,
-      "name": "Just Smoke",
-      "url": "https://open.spotify.com/track/2zQsaJTFKkFInvAvTaurHY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live from Shepherd's Bush Empire",
         "url": "https://open.spotify.com/album/0KztyTPAryAod5xwE4hIfH"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 244466,
       "name": "Hold on to What You Believe (Live from Shepherd's Bush Empire, 2010)",
       "url": "https://open.spotify.com/track/1CW58In68DanWsAtiNuu0T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 190034,
+      "name": "Just Smoke",
+      "url": "https://open.spotify.com/track/2zQsaJTFKkFInvAvTaurHY"
     },
     {
       "added_at": null,

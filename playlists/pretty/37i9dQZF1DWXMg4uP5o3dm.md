@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,507 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,539 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 36 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 |
 | 37 | [Voices In My Head \(they said\)](https://open.spotify.com/track/3f9nTQqunLHoHQjE4jtdsk) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Voices In My Head \(they said\)](https://open.spotify.com/album/2vVIIR716RsKc3oQGYBeAS) | 2:39 |
 | 38 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
-| 39 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
-| 40 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 |
+| 39 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 |
+| 40 | [Therapy](https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Level Days](https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY) | 3:06 |
 | 41 | [¿ \(feat\. Halsey\)](https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Music to listen to\~dance to\~blaze to\~pray to\~feed to\~sleep to\~talk to\~grind to\~trip to\~breathe to\~help to\~hurt to\~scroll to\~roll to\~love to\~hate to\~learn Too\~plot to\~play to\~be to\~feel to\~breed to\~sweat to\~dream to\~hide to\~live to\~die to\~GO TO](https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft) | 5:13 |
 | 42 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 |
 | 43 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 57 | [ASHAMED](https://open.spotify.com/track/2olEwF2igUG4f2eooVChni) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 3:01 |
 | 58 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
 | 59 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
-| 60 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
-| 61 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
+| 60 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
+| 61 | [WICKED](https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WICKED](https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA) | 3:30 |
 | 62 | [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 |
 | 63 | [BODY BAG](https://open.spotify.com/track/63f24av3B364sOS3oXoGL0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BODY BAG](https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt) | 3:06 |
 | 64 | [BE QUIET AND DRIVE \(FAR AWAY\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [BE QUIET AND DRIVE \(FAR AWAY\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 95 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
 | 96 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
 | 97 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
-| 98 | [i’ve left my body](https://open.spotify.com/track/7f7GRJ5KnqQyjlI9SxLCnm) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS), [Nextime](https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj) | [The Indomitable Human Spirit](https://open.spotify.com/album/0b2X0hMvpZJRKItQIqdDcd) | 2:12 |
-| 99 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 |
+| 98 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 |
+| 99 | [i’ve left my body](https://open.spotify.com/track/7f7GRJ5KnqQyjlI9SxLCnm) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS), [Nextime](https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj) | [The Indomitable Human Spirit](https://open.spotify.com/album/0b2X0hMvpZJRKItQIqdDcd) | 2:12 |
 | 100 | [Can't Get You Out of My Head](https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Can't Get You Out of My Head](https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV) | 3:10 |
 
 Snapshot ID: `AAAAAEBmMFdxCkElGipgRunjHPqZbeFO`

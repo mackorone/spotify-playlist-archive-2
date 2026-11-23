@@ -9463,6 +9463,24 @@
     },
     {
       "album": {
+        "name": "The Hill EP",
+        "url": "https://open.spotify.com/album/2ooqkCmwkXtJuEhuS9Vu9N"
+      },
+      "artists": [
+        {
+          "name": "Philipp Kolbe",
+          "url": "https://open.spotify.com/artist/5Eu0T4QNsTeFHNjU2X64DA"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218736,
+      "name": "The Hill",
+      "url": "https://open.spotify.com/track/1DVVADPGqObtNObAs0awIt"
+    },
+    {
+      "album": {
         "name": "Return 2 Dust EP",
         "url": "https://open.spotify.com/album/4SRSEbxJhsZMapYEpEwjpR"
       },

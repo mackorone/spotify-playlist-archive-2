@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,268 likes - 67 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,312 likes - 67 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 26 | [The Mandalorian \- Orchestral Version](https://open.spotify.com/track/4mgVPwEtvXLPhmxCPFNKSi) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 7 \(Original Score\)](https://open.spotify.com/album/4PMsqnolvUGyj1ZRxE1aki) | 2:20 |
 | 27 | [Mr\. Moustafa](https://open.spotify.com/track/1uNhvxpkPrNHUNfeclo6xD) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Grand Budapest Hotel \(Original Soundtrack\)](https://open.spotify.com/album/6IV7472Hni7A1ENilCManS) | 3:03 |
 | 28 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
-| 29 | [Vuelie \- From "Frozen"/Score](https://open.spotify.com/track/0qnj9ufJJM6Xk4xuoyvHZp) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Frode Fjellheim](https://open.spotify.com/artist/6dN5CHba8uE3KUZtgzDjGa), [Cantus](https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 1:35 |
+| 29 | [Vuelie \- From "Frozen"/Score](https://open.spotify.com/track/0qnj9ufJJM6Xk4xuoyvHZp) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Frode Fjellheim](https://open.spotify.com/artist/6dN5CHba8uE3KUZtgzDjGa), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Cantus](https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 1:35 |
 | 30 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 |
 | 31 | [June's Theme](https://open.spotify.com/track/1YWciNl9oINxKCtMue0h0b) | [Ben Harlan](https://open.spotify.com/artist/0BRIlyj3o0fI17juH0fcUt) | [Goodbye June \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/7rHo57cTI9eMxUhZyvl863) | 2:33 |
 | 32 | [Obituary](https://open.spotify.com/track/6nn4ebgT72Cf8I5Dv4c9Wh) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Obituary \(From The Original Soundtrack Of The French Dispatch\)](https://open.spotify.com/album/3Q5AAcJoNHOpNPpn2k4txr) | 3:30 |

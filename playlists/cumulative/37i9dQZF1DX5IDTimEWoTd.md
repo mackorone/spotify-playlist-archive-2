@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-328 songs - 19 hr 1 min
+329 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [La Vie En Rose](https://open.spotify.com/track/2BAsBkA10fTRZhF5iMs0Dh) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/5Q4ygTh5Iv6FpNxcKE6uU5) | 2:37 | 2022-07-28 | 2023-02-15 |
 | [La Vie En Rose](https://open.spotify.com/track/3PV8uIQnxD4Qiimn3x6PVr) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/3J0bVl3H4NtLL64ghrER4r) | 2:37 | 2023-03-03 | 2024-04-19 |
 | [La Vie En Rose](https://open.spotify.com/track/7hfEuxdObtxEdcOpQsXE49) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/3kwT6qcR3gV0D2oaa6t2xN) | 2:37 | 2021-02-26 | 2022-07-29 |
+| [Ladybirds](https://open.spotify.com/track/0pL94IbabpLNr3TTrzXKLy) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Ladybirds](https://open.spotify.com/album/4by9Uss8JOqlY7D7dcVTGt) | 3:02 | 2026-11-22 |  |
 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 | 2024-01-26 | 2024-07-27 |
 | [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2019-07-29\* | 2021-07-31 |
 | [Leave Your Life](https://open.spotify.com/track/0YbI9lWxUBsCJLb6EBydkr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:43 | 2021-10-30 | 2022-07-29 |
@@ -223,7 +224,7 @@
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2023-04-07 | 2023-05-24 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-05-14 | 2024-04-19 |
 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 | 2019-07-29\* | 2022-04-21 |
-| [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2020-04-23 |  |
+| [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2020-04-23 | 2026-11-23 |
 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 | 2023-04-28 | 2023-05-15 |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-18 | 2022-11-20 |
 | [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 | 2022-12-05 | 2023-10-04 |

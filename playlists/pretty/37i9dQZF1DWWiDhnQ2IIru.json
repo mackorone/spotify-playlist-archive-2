@@ -1,6 +1,6 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3425004,
+  "num_followers": 3425155,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Wild Cherry",
         "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Piano Man",
+        "url": "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 339290,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Piano Man",
-        "url": "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 339290,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+      "duration_ms": 213924,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -651,6 +651,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -703,22 +719,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Stranger",
-        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 213924,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
         }
       ],
-      "duration_ms": 274040,
-      "name": "Moondance - 2013 Remaster",
-      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -767,18 +767,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
       },
       "artists": [
         {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+      "duration_ms": 274040,
+      "name": "Moondance - 2013 Remaster",
+      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
@@ -893,20 +877,20 @@
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/27q0Qxr6PUv7PP6LaHtyDT"
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
       },
       "artists": [
         {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 259825,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/5qRJD1yaLJ5s0J3JpbgnwA"
+      "duration_ms": 226213,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -923,6 +907,22 @@
       "duration_ms": 363286,
       "name": "New York State of Mind",
       "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/27q0Qxr6PUv7PP6LaHtyDT"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 259825,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/5qRJD1yaLJ5s0J3JpbgnwA"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Dreamboat Annie",
-        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 328360,
-      "name": "Magic Man",
-      "url": "https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 289186,
       "name": "Thunder Road",
       "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 328360,
+      "name": "Magic Man",
+      "url": "https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/7uPmQttafLiJyju14JREY4"
     },
     {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "It Ain't Easy",
@@ -1371,6 +1355,22 @@
       "duration_ms": 198933,
       "name": "Mama Told Me (Not To Come) - Single Version",
       "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
-      "added_at": "2022-07-05 19:09:15",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Almost Cut My Hair",
-      "url": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL"
-    },
-    {
       "added_at": "2021-02-10 18:00:33",
       "album": {
         "name": "Best Of Blondie",
@@ -1467,6 +1451,22 @@
       "duration_ms": 216400,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/1gKmnrz6SzJlGMNRKBLx1V"
+    },
+    {
+      "added_at": "2022-07-05 19:09:15",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Almost Cut My Hair",
+      "url": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL"
     },
     {
       "added_at": "2021-02-10 18:00:33",

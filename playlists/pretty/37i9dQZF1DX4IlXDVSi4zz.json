@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1036099,
+  "num_followers": 1036190,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,26 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "added_at": "2026-11-13 05:00:34",
+      "album": {
         "name": "It Feels So Good",
         "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
-    },
-    {
-      "added_at": "2026-11-13 05:00:34",
-      "album": {
-        "name": "No Bad Vibes",
-        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes",
-      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
     },
     {
       "added_at": "2026-11-13 05:00:34",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
-        "name": "Beso (Fruta Fresca)",
-        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 197694,
-      "name": "Beso (Fruta Fresca)",
-      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
-    },
-    {
-      "added_at": "2026-11-13 05:00:34",
-      "album": {
         "name": "Say What",
         "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
       },
@@ -507,26 +487,22 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+        "name": "Beso (Fruta Fresca)",
+        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
       },
       "artists": [
         {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+      "duration_ms": 197694,
+      "name": "Beso (Fruta Fresca)",
+      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
     },
     {
       "added_at": "2026-11-13 05:00:34",
@@ -551,6 +527,30 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2026-11-13 05:00:34",
+      "album": {
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
     },
     {
       "added_at": "2026-11-13 05:00:34",
@@ -863,6 +863,34 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
+        "name": "BbY WOW - John Summit Remix",
+        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "BbY WOW - John Summit Remix",
+      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
+    },
+    {
+      "added_at": "2026-11-13 05:00:34",
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
@@ -903,34 +931,6 @@
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
-    },
-    {
-      "added_at": "2026-11-13 05:00:34",
-      "album": {
-        "name": "BbY WOW - John Summit Remix",
-        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "BbY WOW - John Summit Remix",
-      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
     },
     {
       "added_at": "2026-11-13 05:00:34",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb"
-      },
-      "artists": [
-        {
-          "name": "Alaia & Gallo",
-          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK"
-    },
-    {
-      "added_at": "2026-11-13 05:00:34",
-      "album": {
         "name": "Ease My Mind",
         "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 191704,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
+    },
+    {
+      "added_at": "2026-11-13 05:00:34",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb"
+      },
+      "artists": [
+        {
+          "name": "Alaia & Gallo",
+          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK"
     },
     {
       "added_at": "2026-11-13 05:00:34",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
+        "name": "Let's Go (Magalenha)",
+        "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 163019,
+      "name": "Let's Go (Magalenha)",
+      "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
+    },
+    {
+      "added_at": "2026-11-13 05:00:34",
+      "album": {
         "name": "Stephanie (HNTR Remix)",
         "url": "https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD"
       },
@@ -1595,26 +1615,6 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn"
-    },
-    {
-      "added_at": "2026-11-13 05:00:34",
-      "album": {
-        "name": "Let's Go (Magalenha)",
-        "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 163019,
-      "name": "Let's Go (Magalenha)",
-      "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
     },
     {
       "added_at": "2026-11-13 05:00:34",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 186116,
+      "name": "FVCK",
+      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
+    },
+    {
+      "added_at": "2026-11-13 05:00:34",
+      "album": {
         "name": "Are You Still You?",
         "url": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 154161,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/0vytvc2AOFioLvqjXgDzBT"
-    },
-    {
-      "added_at": "2026-11-13 05:00:34",
-      "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 186116,
-      "name": "FVCK",
-      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
     },
     {
       "added_at": "2026-11-13 05:00:34",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
+      "added_at": "2026-11-13 05:00:34",
+      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -1959,22 +1975,6 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2026-11-13 05:00:34",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
-        "name": "DRAMA club: Noche",
-        "url": "https://open.spotify.com/album/2BEBLiYOpSvpMvyDtSVsqS"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 205518,
-      "name": "DRAMA club: Noche",
-      "url": "https://open.spotify.com/track/2LsOc55BssENnGvNIfGdVm"
-    },
-    {
-      "added_at": "2026-11-13 05:00:34",
-      "album": {
         "name": "Dame M\u00e1s (Gasolina)",
         "url": "https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf"
       },
@@ -2075,26 +2059,42 @@
     {
       "added_at": "2026-11-13 05:00:34",
       "album": {
-        "name": "Radio Nacional",
-        "url": "https://open.spotify.com/album/2quDxCML4J1cT7i4ZiMh6A"
+        "name": "DRAMA club: Noche",
+        "url": "https://open.spotify.com/album/2BEBLiYOpSvpMvyDtSVsqS"
       },
       "artists": [
         {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        },
-        {
-          "name": "DJ GTi",
-          "url": "https://open.spotify.com/artist/6mPCyDhyxqefBQbhKcm9Ms"
-        },
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 298782,
-      "name": "Radio Nacional",
-      "url": "https://open.spotify.com/track/1Nxbt8pCIRKraImjjHd34M"
+      "duration_ms": 205518,
+      "name": "DRAMA club: Noche",
+      "url": "https://open.spotify.com/track/2LsOc55BssENnGvNIfGdVm"
+    },
+    {
+      "added_at": "2026-11-13 05:00:34",
+      "album": {
+        "name": "Tambora",
+        "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
+      },
+      "artists": [
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "duration_ms": 150660,
+      "name": "Tambora",
+      "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
     },
     {
       "added_at": "2026-11-13 05:00:34",

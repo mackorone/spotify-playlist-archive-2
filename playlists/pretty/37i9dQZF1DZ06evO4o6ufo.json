@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 102906,
+  "num_followers": 102917,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAB9rVa4Qf5nhuPUW60V195A",
+  "snapshot_id": "awDfAAAAAAD6aIKs5Q+rOhZYlBHJi7HQ",
   "tracks": [
     {
       "added_at": null,
@@ -923,30 +923,6 @@
       "duration_ms": 149986,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Tostada CH",
-        "url": "https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 243562,
-      "name": "La Tostada CH",
-      "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

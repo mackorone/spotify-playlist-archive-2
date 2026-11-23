@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits! Cover: Armin van Buuren & Douwe Bob
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,491 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,486 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

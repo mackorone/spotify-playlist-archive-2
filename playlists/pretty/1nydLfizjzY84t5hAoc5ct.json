@@ -6,8 +6,24 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AACGcRAG/MWG/i70IPSjXTtcF3fmYxEq",
+  "snapshot_id": "AACGmXy8Vzr/h0uOb4f5qNu3MGZqfanZ",
   "tracks": [
+    {
+      "added_at": "2026-11-22 12:14:31",
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/3rMVX6wsymZokGK7hEYFmR"
+      },
+      "artists": [
+        {
+          "name": "Aleena",
+          "url": "https://open.spotify.com/artist/6Lpy085hL98QbE90V4PxGD"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "False Alarm",
+      "url": "https://open.spotify.com/track/6fvCgeCPZCATg3q0SNKo7j"
+    },
     {
       "added_at": "2026-11-16 00:03:22",
       "album": {
@@ -55,6 +71,38 @@
       "duration_ms": 109433,
       "name": "A Reckless Expenditure",
       "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
+    },
+    {
+      "added_at": "2026-11-22 12:14:26",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3Cw0S9WqeDOX0SuU4GG4P1"
+      },
+      "artists": [
+        {
+          "name": "Aleena",
+          "url": "https://open.spotify.com/artist/6Lpy085hL98QbE90V4PxGD"
+        }
+      ],
+      "duration_ms": 203231,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/7e1y3e5gxp9xjzr0xZEbIx"
+    },
+    {
+      "added_at": "2026-11-22 15:20:37",
+      "album": {
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
       "added_at": "2026-11-16 00:03:35",
@@ -153,22 +201,6 @@
       "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     },
     {
-      "added_at": "2026-11-16 00:03:45",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
-    },
-    {
       "added_at": "2026-10-16 07:26:46",
       "album": {
         "name": "Numb",
@@ -217,20 +249,20 @@
       "url": "https://open.spotify.com/track/2SpNJV1rbQztJku2KHNzTh"
     },
     {
-      "added_at": "2026-11-16 00:06:41",
+      "added_at": "2026-11-22 15:20:49",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/3CnRrUMAcJwsLtfQXKfeRB"
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
       },
       "artists": [
         {
-          "name": "Copper Lungs",
-          "url": "https://open.spotify.com/artist/5r4B239LFvL1VXafw50g6R"
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
         }
       ],
-      "duration_ms": 183765,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2xJYUflb5if11imaAomJH4"
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
       "added_at": "2026-11-16 00:06:44",
@@ -247,22 +279,6 @@
       "duration_ms": 235346,
       "name": "Cowboy Blues",
       "url": "https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS"
-    },
-    {
-      "added_at": "2026-11-16 00:06:49",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
     },
     {
       "added_at": "2026-11-16 00:06:54",
@@ -329,6 +345,22 @@
       "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
     },
     {
+      "added_at": "2026-11-22 15:21:04",
+      "album": {
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
+    },
+    {
       "added_at": "2026-11-16 00:07:08",
       "album": {
         "name": "Faultline",
@@ -343,22 +375,6 @@
       "duration_ms": 230800,
       "name": "Struck To The Heart",
       "url": "https://open.spotify.com/track/4SQXY6ZjFDlmZmnKSskrKn"
-    },
-    {
-      "added_at": "2026-11-16 00:07:14",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
     },
     {
       "added_at": "2026-11-16 00:07:20",
@@ -441,22 +457,6 @@
       "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
-      "added_at": "2026-11-16 00:07:40",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
-    },
-    {
       "added_at": "2026-11-16 00:07:45",
       "album": {
         "name": "Numb",
@@ -519,6 +519,22 @@
       "duration_ms": 319146,
       "name": "Portals",
       "url": "https://open.spotify.com/track/1rSVfPIynSjWD5ocg7yRwI"
+    },
+    {
+      "added_at": "2026-11-22 15:21:33",
+      "album": {
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
       "added_at": "2026-11-16 00:07:59",
@@ -633,22 +649,6 @@
       "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
-      "added_at": "2026-11-16 00:11:31",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
-    },
-    {
       "added_at": "2026-11-16 00:11:35",
       "album": {
         "name": "A Reckless Expenditure",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58"
     },
     {
-      "added_at": "2026-11-16 00:11:52",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
-    },
-    {
       "added_at": "2026-11-16 00:11:56",
       "album": {
         "name": "The Smoker",
@@ -791,6 +775,22 @@
       "duration_ms": 344000,
       "name": "Day After Day",
       "url": "https://open.spotify.com/track/3xtFNPUmFR9XuKZvKZ5uXI"
+    },
+    {
+      "added_at": "2026-11-22 15:20:43",
+      "album": {
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
       "added_at": "2026-11-16 00:12:15",
@@ -889,20 +889,20 @@
       "url": "https://open.spotify.com/track/2xJYUflb5if11imaAomJH4"
     },
     {
-      "added_at": "2026-11-16 00:12:41",
+      "added_at": "2026-11-22 15:21:22",
       "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
       },
       "artists": [
         {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
         }
       ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
       "added_at": "2026-11-16 00:12:48",
@@ -967,22 +967,6 @@
       "duration_ms": 109433,
       "name": "A Reckless Expenditure",
       "url": "https://open.spotify.com/track/0RQVNCtnxSiXiFXMQLwJtX"
-    },
-    {
-      "added_at": "2026-11-16 00:13:07",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
     },
     {
       "added_at": "2026-11-16 00:13:11",
@@ -1063,6 +1047,22 @@
       "duration_ms": 176997,
       "name": "The Smoker",
       "url": "https://open.spotify.com/track/0ePN9EE9gZuGvN6D5nKGCK"
+    },
+    {
+      "added_at": "2026-11-22 15:21:08",
+      "album": {
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
       "added_at": "2026-11-16 00:13:32",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/3lnjiEMyKpAPtOEZR6Heyb"
     },
     {
+      "added_at": "2026-11-22 15:21:16",
+      "album": {
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
+    },
+    {
       "added_at": "2026-11-16 00:16:06",
       "album": {
         "name": "Ready",
@@ -1443,6 +1459,22 @@
       "duration_ms": 169263,
       "name": "Smiley",
       "url": "https://open.spotify.com/track/7wo6hHtTiRgV7slNAucvU2"
+    },
+    {
+      "added_at": "2026-11-22 15:17:36",
+      "album": {
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
       "added_at": "2026-11-16 00:28:18",
@@ -1621,22 +1653,6 @@
       "url": "https://open.spotify.com/track/6jhf0Wr4YPPq5V7L4x2PNk"
     },
     {
-      "added_at": "2026-11-16 00:36:13",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
-    },
-    {
       "added_at": "2026-11-16 00:36:18",
       "album": {
         "name": "I Lied, I'm Sorry",
@@ -1701,6 +1717,22 @@
       "url": "https://open.spotify.com/track/2SpNJV1rbQztJku2KHNzTh"
     },
     {
+      "added_at": "2026-11-22 15:20:57",
+      "album": {
+        "name": "Skinny Boyfriend",
+        "url": "https://open.spotify.com/album/3m79X8mHBs1zTxN7SuHx8J"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Skinny Boyfriend",
+      "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
+    },
+    {
       "added_at": "2026-11-16 00:36:36",
       "album": {
         "name": "Afterglow",
@@ -1731,22 +1763,6 @@
       "duration_ms": 235346,
       "name": "Cowboy Blues",
       "url": "https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS"
-    },
-    {
-      "added_at": "2026-11-16 00:36:45",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
     },
     {
       "added_at": "2026-11-16 00:36:51",
@@ -1973,22 +1989,6 @@
       "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
     },
     {
-      "added_at": "2026-11-16 00:37:58",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
-    },
-    {
       "added_at": "2026-11-16 00:38:03",
       "album": {
         "name": "Numb",
@@ -2069,39 +2069,7 @@
       "url": "https://open.spotify.com/track/4NPH669Pu5Kj2JqXtV0JTY"
     },
     {
-      "added_at": "2026-11-16 00:38:26",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
-    },
-    {
       "added_at": "2026-11-16 00:38:32",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
-      },
-      "artists": [
-        {
-          "name": "Ellijai",
-          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
-    },
-    {
-      "added_at": "2026-11-16 00:38:36",
       "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
@@ -2133,20 +2101,20 @@
       "url": "https://open.spotify.com/track/4eAilAqbTxA9St4IwpWYfC"
     },
     {
-      "added_at": "2026-11-16 00:38:47",
+      "added_at": "2026-11-16 00:39:03",
       "album": {
-        "name": "Princess on the Run",
-        "url": "https://open.spotify.com/album/5lBZZDm9Z45SI6YdWe1zlm"
+        "name": "Critical Analysis",
+        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
       },
       "artists": [
         {
-          "name": "KATERINA.",
-          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+          "name": "LECKI LECKI",
+          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
         }
       ],
-      "duration_ms": 140413,
-      "name": "Princess on the Run",
-      "url": "https://open.spotify.com/track/4eAilAqbTxA9St4IwpWYfC"
+      "duration_ms": 239105,
+      "name": "Critical Analysis",
+      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
     },
     {
       "added_at": "2026-11-16 00:38:52",
@@ -2179,22 +2147,6 @@
       "duration_ms": 209706,
       "name": "Skinny Boyfriend",
       "url": "https://open.spotify.com/track/4HsS1ZDH6mXj2DeSqbqZq0"
-    },
-    {
-      "added_at": "2026-11-16 00:39:03",
-      "album": {
-        "name": "Critical Analysis",
-        "url": "https://open.spotify.com/album/3EWXE8YnopD7OGwWQQPZzF"
-      },
-      "artists": [
-        {
-          "name": "LECKI LECKI",
-          "url": "https://open.spotify.com/artist/68G5m61q5sMimRnEHrcEGF"
-        }
-      ],
-      "duration_ms": 239105,
-      "name": "Critical Analysis",
-      "url": "https://open.spotify.com/track/4boYzmLVSF6gvD5UWRxt9T"
     },
     {
       "added_at": "2026-11-16 00:39:08",

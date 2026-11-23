@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Lucero, Majo Aguilar \ud83d\udcf8",
-  "num_followers": 368355,
+  "num_followers": 368379,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,22 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Fuertes Declaraciones",
-        "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
+        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 151455,
-      "name": "Fuertes Declaraciones",
-      "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
+      "duration_ms": 274696,
+      "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -227,22 +231,18 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
-        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
+        "name": "Fuertes Declaraciones",
+        "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 274696,
-      "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
+      "duration_ms": 151455,
+      "name": "Fuertes Declaraciones",
+      "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "La De Rogar",
-        "url": "https://open.spotify.com/album/04tJv2qM3ieLbvxtaMgiLP"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 180865,
-      "name": "La De Rogar",
-      "url": "https://open.spotify.com/track/4vJWRawk1I1cDzAs3cbbLb"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "La De Rogar",
+        "url": "https://open.spotify.com/album/04tJv2qM3ieLbvxtaMgiLP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 180865,
+      "name": "La De Rogar",
+      "url": "https://open.spotify.com/track/4vJWRawk1I1cDzAs3cbbLb"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
+        "name": "MIL RAZONES",
+        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 176597,
+      "name": "MIL RAZONES",
+      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
         "name": "Por Un Mal Amor",
         "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 193998,
       "name": "Por Un Mal Amor",
       "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
-        "name": "MIL RAZONES",
-        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 176597,
-      "name": "MIL RAZONES",
-      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Esclavo y Amo (Live)",
-        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 198675,
-      "name": "Esclavo y Amo - Live",
-      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+        "name": "Esclavo y Amo (Live)",
+        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+      "duration_ms": 198675,
+      "name": "Esclavo y Amo - Live",
+      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -907,6 +891,22 @@
       "duration_ms": 196377,
       "name": "No Me Amenaces - En Vivo",
       "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Ahora Si Quieres Querer",
-        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
-      },
-      "artists": [
-        {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
-        }
-      ],
-      "duration_ms": 173391,
-      "name": "Ahora Si Quieres Querer",
-      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
         "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 168238,
       "name": "Angelito Sin Alas",
       "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "Ahora Si Quieres Querer",
+        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
+      },
+      "artists": [
+        {
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+        }
+      ],
+      "duration_ms": 173391,
+      "name": "Ahora Si Quieres Querer",
+      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
-      },
-      "artists": [
-        {
-          "name": "Eddy Y Samu",
-          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
-        }
-      ],
-      "duration_ms": 169287,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Esa Perra Ya Me Mordi\u00f3",
         "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 210592,
       "name": "Esa Perra Ya Me Mordi\u00f3",
       "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
+      },
+      "artists": [
+        {
+          "name": "Eddy Y Samu",
+          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
+        }
+      ],
+      "duration_ms": 169287,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Playa Sola",
-        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
-      },
-      "artists": [
-        {
-          "name": "Jessi Valente",
-          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
-        }
-      ],
-      "duration_ms": 164460,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "El Burrito De Belen",
         "url": "https://open.spotify.com/album/58ruAwNFVCWkRzh8sUNTjj"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 156204,
       "name": "El Burrito De Belen",
       "url": "https://open.spotify.com/track/1icj5c99iU09KeEjyLjuHs"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "Playa Sola",
+        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
+      },
+      "artists": [
+        {
+          "name": "Jessi Valente",
+          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
+        }
+      ],
+      "duration_ms": 164460,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
     },
     {
       "added_at": "2026-11-20 21:42:08",

@@ -4,7 +4,7 @@
 
 > mostly furry
 
-605 songs - 1 day 6 hr 23 min
+606 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Constelación](https://open.spotify.com/track/3DX3fg9gd8KYBuYKPKQj4i) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:52 | 2026-08-05 |  |
 | [Constelación \- Instrumental](https://open.spotify.com/track/7iQER3ObpKlXo8WyH8ZX5W) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:52 | 2026-08-05 |  |
 | [Corey Coyote](https://open.spotify.com/track/4SZrVZzVhjuBFVMsjPZXZ5) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:56 | 2025-04-24 |  |
+| [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 | 2026-11-23 |  |
 | [Could You Ever](https://open.spotify.com/track/4lXZhvmoVm5a2Xf5IIvqsG) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:01 | 2026-10-20 |  |
 | [Crimson Galaxies](https://open.spotify.com/track/4IUxeDN8MlRYe9sC2SiItA) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Crimson Galaxies](https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c) | 3:22 | 2026-09-08 |  |
 | [Cruel Truth](https://open.spotify.com/track/1PVGtOCWV76Kqw8uIbArGp) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:57 | 2024-12-24 |  |
@@ -181,7 +182,7 @@
 | [Furry Youtubers](https://open.spotify.com/track/3TYatJKUjXVBcxPZoZTGu5) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:11 | 2025-04-22 |  |
 | [FurryFoofi](https://open.spotify.com/track/1JXPZp5QIMsXHDTi9MLfh3) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:12 | 2024-08-17 |  |
 | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/track/2fHZAXOHW6MloDdXRqNhrS) | [The Chalkeaters](https://open.spotify.com/artist/7x7YgBS9WW3rfvfagAlohI), [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/album/6rmH0AwGNsUm5juguz28ZQ) | 3:31 | 2024-01-20 |  |
-| [Fursuit Friday](https://open.spotify.com/track/1X1EVr6b5g2YUv0uiOEi71) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:26 | 2025-04-04 |  |
+| [Fursuit Friday](https://open.spotify.com/track/1X1EVr6b5g2YUv0uiOEi71) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:26 | 2025-04-04 | 2026-11-23 |
 | [Fusion Core](https://open.spotify.com/track/3xBwzNRocE0ISbdh8wTpyx) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:33 | 2025-03-28 |  |
 | [Future VIP](https://open.spotify.com/track/4j7E6M7p8Fipmbwurvbd82) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Future VIP](https://open.spotify.com/album/13oYDWaPBL8LL7sykJcgC3) | 1:28 | 2025-04-26 |  |
 | [Galaxy](https://open.spotify.com/track/7H1riDF2BhjeUP0Gvfvt1L) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Galaxy](https://open.spotify.com/album/5mOYMAiHKtV9HOP2K9JMv9) | 3:43 | 2024-05-15 |  |

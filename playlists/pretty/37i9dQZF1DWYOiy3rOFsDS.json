@@ -583,6 +583,26 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/0BFOhLg9wWd1ogr8yiyYqV"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 222659,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/7xMV0nQrYNqjendktWU3tb"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Solo La Noche",
         "url": "https://open.spotify.com/album/3JZRclTqpAQaqsX1NWhSw8"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 198010,
       "name": "Ah\u00ed Voy a Estar",
       "url": "https://open.spotify.com/track/4NAEu17iNCwqn4uGbNiUrN"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "B\u00e9same Mucho",
-        "url": "https://open.spotify.com/album/0BFOhLg9wWd1ogr8yiyYqV"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 222659,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/7xMV0nQrYNqjendktWU3tb"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Hola Perdido",
-        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "Hola Perdido",
-      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "El palacio de las flores",
         "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 259146,
       "name": "Contigo aprend\u00ed",
       "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Hola Perdido",
+        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "Hola Perdido",
+      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -991,38 +991,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "El Vac\u00edo - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Coraz\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
-      },
-      "artists": [
-        {
-          "name": "Gala Montes",
-          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
-        }
-      ],
-      "duration_ms": 161480,
-      "name": "Coraz\u00f3n de Oro",
-      "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "El Vac\u00edo - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "La Barca",
         "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
       },
@@ -1063,6 +1047,38 @@
       "duration_ms": 192123,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Coraz\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
+      },
+      "artists": [
+        {
+          "name": "Gala Montes",
+          "url": "https://open.spotify.com/artist/0qcbuRzAu4q1oHX66qFlPJ"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Coraz\u00f3n de Oro",
+      "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+        "name": "Mil Vidas",
+        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
       "artists": [
         {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+      "duration_ms": 136667,
+      "name": "Mil Vidas",
+      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Mil Vidas",
-        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 136667,
-      "name": "Mil Vidas",
-      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 201401,
-      "name": "La Voz",
-      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Se Me Esta Yendo La Vida",
         "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 182717,
       "name": "Se Me Esta Yendo La Vida",
       "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 201401,
+      "name": "La Voz",
+      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "SER AMIGOS (olvida)",
         "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 247790,
       "name": "SER AMIGOS (olvida)",
       "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "M\u00e9xico no es nada sin ti",
-        "url": "https://open.spotify.com/album/5QGumVuYhqDMZeXjOMfeEX"
-      },
-      "artists": [
-        {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
-        }
-      ],
-      "duration_ms": 207313,
-      "name": "M\u00e9xico no es nada sin ti",
-      "url": "https://open.spotify.com/track/4cJr9Kk0Sig1ZvPVfewLR6"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "M\u00e9xico no es nada sin ti",
+        "url": "https://open.spotify.com/album/5QGumVuYhqDMZeXjOMfeEX"
+      },
+      "artists": [
+        {
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+        }
+      ],
+      "duration_ms": 207313,
+      "name": "M\u00e9xico no es nada sin ti",
+      "url": "https://open.spotify.com/track/4cJr9Kk0Sig1ZvPVfewLR6"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Cuando Yo Fui Tu Clavel",
-        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
+        "name": "Lo esencial de Or\u00edgenes: El Bolero",
+        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
       },
       "artists": [
         {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
         }
       ],
-      "duration_ms": 112500,
-      "name": "Cuando Yo Fui Tu Clavel",
-      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
+      "duration_ms": 174066,
+      "name": "No me reproches",
+      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1707,18 +1707,38 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Lo esencial de Or\u00edgenes: El Bolero",
-        "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
         }
       ],
-      "duration_ms": 174066,
-      "name": "No me reproches",
-      "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Mirando desde afuera",
+        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Agley",
+          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "Mirando desde afuera",
+      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1751,26 +1771,6 @@
       "duration_ms": 192000,
       "name": "Cenicero",
       "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Mirando desde afuera",
-        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
-      },
-      "artists": [
-        {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        },
-        {
-          "name": "Agley",
-          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "Mirando desde afuera",
-      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
     },
     {
       "added_at": "2026-10-02 06:00:21",

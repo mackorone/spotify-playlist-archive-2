@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Majo Aguilar",
-  "num_followers": 881793,
+  "num_followers": 881803,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
-        "name": "ACOMODO",
-        "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 186221,
-      "name": "ME VALE V",
-      "url": "https://open.spotify.com/track/7HuGsvzf9aYQXmXS3a0Fd3"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
         "name": "Ay Weyy",
         "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 158669,
       "name": "Taco El Flaco",
       "url": "https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
+        "name": "ACOMODO",
+        "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 186221,
+      "name": "ME VALE V",
+      "url": "https://open.spotify.com/track/7HuGsvzf9aYQXmXS3a0Fd3"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -535,22 +535,18 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
-        "name": "Dr. Doctor",
-        "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
       },
       "artists": [
         {
-          "name": "Emi Blue",
-          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Dr. Doctor",
-      "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -567,6 +563,26 @@
       "duration_ms": 160979,
       "name": "La Magia de Conectar",
       "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
+        "name": "Dr. Doctor",
+        "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
+      },
+      "artists": [
+        {
+          "name": "Emi Blue",
+          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Dr. Doctor",
+      "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -635,22 +651,6 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
-        "name": "FRANCIA",
-        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 206817,
-      "name": "FRANCIA",
-      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
         "name": "OSAD\u00cdA",
         "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
-        "name": "Ll\u00e9vala a La Luna",
-        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 164214,
-      "name": "Ll\u00e9vala a La Luna",
-      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
         "name": "Departamento",
         "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 284533,
       "name": "Departamento",
       "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
+        "name": "Ll\u00e9vala a La Luna",
+        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 164214,
+      "name": "Ll\u00e9vala a La Luna",
+      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -775,6 +775,26 @@
       "duration_ms": 194923,
       "name": "Yo Era Poes\u00eda",
       "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
+        "name": "Chulalai",
+        "url": "https://open.spotify.com/album/1HliYPbEeC03oqZAEbLlDk"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 213313,
+      "name": "Chulalai",
+      "url": "https://open.spotify.com/track/30RQ0dBEbRWaIxb8Sfq9pa"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -831,26 +851,6 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
-        "name": "Chulalai",
-        "url": "https://open.spotify.com/album/1HliYPbEeC03oqZAEbLlDk"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 213313,
-      "name": "Chulalai",
-      "url": "https://open.spotify.com/track/30RQ0dBEbRWaIxb8Sfq9pa"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
         "name": "Nadie Te Extra\u00f1a",
         "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8"
       },
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
-        "name": "Modo Dif\u00edcil",
-        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 201461,
-      "name": "Modo Dif\u00edcil",
-      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 194180,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
+        "name": "Modo Dif\u00edcil",
+        "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Modo Dif\u00edcil",
+      "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
     },
     {
       "added_at": "2026-11-20 06:00:29",

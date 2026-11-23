@@ -3189,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/7BrYtUyB81rT2SdaDvVngf"
+      },
+      "artists": [
+        {
+          "name": "uast\u00e9",
+          "url": "https://open.spotify.com/artist/0OweHeYvHClQA06RdwNLUu"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134857,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/2C2nTkFc4WNi1rIsWX4pTW"
+    },
+    {
+      "album": {
         "name": "Body Lover",
         "url": "https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx"
       },
@@ -3920,7 +3938,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 245084,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/4y0wgwic6vFqUBN6Y1mkDR"
@@ -4022,6 +4040,28 @@
       "duration_ms": 155364,
       "name": "Call it Home",
       "url": "https://open.spotify.com/track/3ZHSDjF5THq5xTq13zWf6F"
+    },
+    {
+      "album": {
+        "name": "Call It Moving On",
+        "url": "https://open.spotify.com/album/35EhO7I1Bdyfx0V4OIVqLh"
+      },
+      "artists": [
+        {
+          "name": "Solayne",
+          "url": "https://open.spotify.com/artist/1OSYviDPXQTukysazHRPdh"
+        },
+        {
+          "name": "CPSHW",
+          "url": "https://open.spotify.com/artist/2aTEbchjoUFrlErJ9t09mP"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "Call It Moving On",
+      "url": "https://open.spotify.com/track/2nGotDsAqe2KZdHPZ9KR12"
     },
     {
       "album": {
@@ -5694,7 +5734,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 162794,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/5jqIGLNYSWTvKg3RIKnZ0f"
@@ -15220,7 +15260,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 183214,
       "name": "Jackie Brown",
       "url": "https://open.spotify.com/track/4DKgm4jkaJkNwytKJV9PEm"
@@ -16266,7 +16306,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 157741,
       "name": "Learning",
       "url": "https://open.spotify.com/track/1uktpCsSoFCq1mZNUEMl23"
@@ -18498,7 +18538,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 154870,
       "name": "Love On My Sleeve",
       "url": "https://open.spotify.com/track/5B0byvca3MZ6WZSFeK3RdE"
@@ -25945,6 +25985,28 @@
     },
     {
       "album": {
+        "name": "Seven Suns",
+        "url": "https://open.spotify.com/album/3VwQ30ngmvYkceSR1UOlL8"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Cole Morehead",
+          "url": "https://open.spotify.com/artist/6gHxIZilVw6JePsq6gqHyZ"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128709,
+      "name": "Seven Suns",
+      "url": "https://open.spotify.com/track/3ATQ8ktfFpPYUOPeubllfM"
+    },
+    {
+      "album": {
         "name": "Sexual Healing",
         "url": "https://open.spotify.com/album/4ulLlEhk6401ke3RZ9ZhmH"
       },
@@ -31773,6 +31835,24 @@
     },
     {
       "album": {
+        "name": "Vincent (Starry Starry Night)",
+        "url": "https://open.spotify.com/album/3C4LcFjmRB5cdnPe3cEaZe"
+      },
+      "artists": [
+        {
+          "name": "Kalkovich",
+          "url": "https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Vincent (Starry Starry Night)",
+      "url": "https://open.spotify.com/track/7nF1duSAYAov3QisKfGBP4"
+    },
+    {
+      "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/3AYdlrrBvgLcdg60bxWaZl"
       },
@@ -33636,6 +33716,28 @@
       "duration_ms": 193750,
       "name": "Why Do You Love Me",
       "url": "https://open.spotify.com/track/1mLjB8tOLEpPmEkoidt6uk"
+    },
+    {
+      "album": {
+        "name": "Why You",
+        "url": "https://open.spotify.com/album/0V6RBvHwkxuyYIy7d5k7LD"
+      },
+      "artists": [
+        {
+          "name": "Feather",
+          "url": "https://open.spotify.com/artist/2Du67wvPTzzJ2LcmiHEOHK"
+        },
+        {
+          "name": "BNHM",
+          "url": "https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128086,
+      "name": "Why You",
+      "url": "https://open.spotify.com/track/611I2A7dXxBEFJKzgn3jxL"
     },
     {
       "album": {

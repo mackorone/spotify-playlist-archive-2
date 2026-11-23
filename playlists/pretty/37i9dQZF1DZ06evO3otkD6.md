@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,128 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,151 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 27 | [Ni Freud Ni Tu Mama](https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:24 |
 | 28 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
 | 29 | [En La Obscuridad](https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:27 |
-| 30 | [Si Nos Dejan](https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Si Nos Dejan](https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe) | 2:29 |
-| 31 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 |
+| 30 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 |
+| 31 | [Si Nos Dejan](https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Si Nos Dejan](https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe) | 2:29 |
 | 32 | [Cursi De +](https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:22 |
 | 33 | [Por Ella](https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Por Ella \(FIFA World Cup 2026™\)](https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj) | 3:01 |
 | 34 | [Te Voy a Esperar \(feat\. Belinda\)](https://open.spotify.com/track/1Px4jqDnQFulhG7Dl3nK0C) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Te Voy a Esperar \(feat\. Belinda\)](https://open.spotify.com/album/7FNuyd1Gm4pPEr9XVkhvF5) | 3:35 |
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 47 | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 |
 | 48 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
 | 49 | [Amigas Cheetahs](https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 4:06 |
+| 50 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 |
 
-Snapshot ID: `av48AAAAAAD/BuDRAkPdcRUm/TfFRzui`
+Snapshot ID: `awDfAAAAAACWAptag3p6hmmDL8PM5sdy`

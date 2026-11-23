@@ -1,6 +1,6 @@
 {
   "description": "Diese Beats machen garantiert gute Laune!",
-  "num_followers": 1334420,
+  "num_followers": 1334387,
   "original_name": "Happy Dance",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2026-10-23 07:40:23",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 151741,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
-    },
-    {
-      "added_at": "2026-10-23 07:40:23",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
+    },
+    {
+      "added_at": "2026-10-23 07:40:23",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 151741,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
     },
     {
       "added_at": "2026-10-23 07:40:23",
@@ -511,6 +511,30 @@
     {
       "added_at": "2026-10-23 07:40:23",
       "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2026-10-23 07:40:23",
+      "album": {
         "name": "AWGAZI",
         "url": "https://open.spotify.com/album/17KKeHngp4vbAYAMRRgVSW"
       },
@@ -531,6 +555,26 @@
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
+    },
+    {
+      "added_at": "2026-10-23 07:40:23",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2026-10-23 07:40:23",
@@ -567,22 +611,18 @@
     {
       "added_at": "2026-10-23 07:40:23",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+        "name": "Palm Of Your Hands",
+        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+      "duration_ms": 205063,
+      "name": "Palm Of Your Hands",
+      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
     },
     {
       "added_at": "2026-10-23 07:40:23",
@@ -607,42 +647,18 @@
     {
       "added_at": "2026-10-23 07:40:23",
       "album": {
-        "name": "Palm Of Your Hands",
-        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
         }
       ],
-      "duration_ms": 205063,
-      "name": "Palm Of Your Hands",
-      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
-    },
-    {
-      "added_at": "2026-10-23 07:40:23",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+      "duration_ms": 165831,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
     },
     {
       "added_at": "2026-10-23 07:40:23",
@@ -659,22 +675,6 @@
       "duration_ms": 198425,
       "name": "I Only Smoke When I Drink",
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
-    },
-    {
-      "added_at": "2026-10-23 07:40:23",
-      "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "What If?",
-      "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
     },
     {
       "added_at": "2026-10-23 07:40:23",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-23 07:40:23",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
-    },
-    {
-      "added_at": "2026-10-23 07:40:23",
-      "album": {
         "name": "The Ringmaster",
         "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
+    },
+    {
+      "added_at": "2026-10-23 07:40:23",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
     },
     {
       "added_at": "2026-10-23 07:40:23",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-10-23 07:40:23",
       "album": {
-        "name": "Alors On Danse (feat. Stromae)",
-        "url": "https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Alors On Danse (feat. Stromae)",
-      "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
-    },
-    {
-      "added_at": "2026-10-23 07:40:23",
-      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 125178,
       "name": "Makeba - Ian Asher Remix",
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+    },
+    {
+      "added_at": "2026-10-23 07:40:23",
+      "album": {
+        "name": "Alors On Danse (feat. Stromae)",
+        "url": "https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Alors On Danse (feat. Stromae)",
+      "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
     },
     {
       "added_at": "2026-10-23 07:40:23",

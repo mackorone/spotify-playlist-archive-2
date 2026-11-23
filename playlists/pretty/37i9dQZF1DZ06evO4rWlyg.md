@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,646 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,693 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 2 | [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 |
 | 3 | [Army Of Me](https://open.spotify.com/track/4UFQBhIOgANiBG44USIgsf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 3:54 |
 | 4 | [Venus As A Boy](https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:42 |
-| 5 | [Play Dead \- Tim Simenon 7" Remix](https://open.spotify.com/track/732341mjCR7zodzYa5IEQf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Play Dead](https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R) | 4:00 |
-| 6 | [All Is Full Of Love](https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Family Tree](https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV) | 4:46 |
-| 7 | [Unravel](https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:21 |
+| 5 | [Unravel](https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:21 |
+| 6 | [Play Dead \- Tim Simenon 7" Remix](https://open.spotify.com/track/732341mjCR7zodzYa5IEQf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Play Dead](https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R) | 4:00 |
+| 7 | [All Is Full Of Love](https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Family Tree](https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV) | 4:46 |
 | 8 | [Come To Me](https://open.spotify.com/track/17tCBb8odaNBZivCojHhvw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:55 |
 | 9 | [It's Oh So Quiet](https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 3:40 |
 | 10 | [Jóga](https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Jóga](https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG) | 5:05 |
@@ -27,22 +27,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 17 | [Possibly Maybe](https://open.spotify.com/track/104n46NrvCQ2qXoBWY35ch) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:06 |
 | 18 | [Hidden Place](https://open.spotify.com/track/1Y4aFRwAwE5Ghm24vaYrnR) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:29 |
 | 19 | [Oral](https://open.spotify.com/track/2zBiGZhXWueCpKqIeKAssH) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/5il7Pa6zWJ8hfrem9lfajr) | 3:42 |
-| 20 | [I Remember You](https://open.spotify.com/track/13UgnCvGXgcnzRmkSD5VAU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m) | 4:13 |
+| 20 | [Crying](https://open.spotify.com/track/1R2UhZCSxL1N4kcwa929Fu) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:50 |
 | 21 | [Isobel](https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:47 |
 | 22 | [Frosti](https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 1:41 |
-| 23 | [Crying](https://open.spotify.com/track/1R2UhZCSxL1N4kcwa929Fu) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 4:50 |
-| 24 | [Pluto](https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:19 |
+| 23 | [I Remember You](https://open.spotify.com/track/13UgnCvGXgcnzRmkSD5VAU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m) | 4:13 |
+| 24 | [There's More To Life Than This \- Live At The Milk Bar Toilets](https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 3:21 |
 | 25 | [Enjoy](https://open.spotify.com/track/4N4qSX4RpU7U5TW6PMg84a) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 3:57 |
 | 26 | [It's Not Up To You](https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:08 |
-| 27 | [There's More To Life Than This \- Live At The Milk Bar Toilets](https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 3:21 |
-| 28 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:06 |
-| 29 | [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 |
+| 27 | [Pluto](https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:19 |
+| 28 | [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 |
+| 29 | [Surrender](https://open.spotify.com/track/6HvnX712Cvf3UMGgbQx5D4) | [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Surrender](https://open.spotify.com/album/6hzx9KNhXkTTcJxnSTeqtY) | 5:21 |
 | 30 | [Undo](https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:38 |
-| 31 | [Scary](https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Bachelorette](https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb) | 2:37 |
-| 32 | [All Neon Like](https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 5:53 |
-| 33 | [Surrender](https://open.spotify.com/track/6HvnX712Cvf3UMGgbQx5D4) | [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Surrender](https://open.spotify.com/album/6hzx9KNhXkTTcJxnSTeqtY) | 5:21 |
+| 31 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:06 |
+| 32 | [Scary](https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Bachelorette](https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb) | 2:37 |
+| 33 | [I’ve Seen It All](https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 5:29 |
 | 34 | [Cocoon](https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 4:28 |
-| 35 | [I’ve Seen It All](https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 5:29 |
+| 35 | [All Neon Like](https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 5:53 |
 | 36 | [Crystalline](https://open.spotify.com/track/3PfdVg6wGFvUYdGrrUJNQ0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:08 |
 | 37 | [History Of Touches](https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 3:00 |
 | 38 | [Oceania](https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 49 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
 | 50 | [Declare Independence](https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x) | 4:13 |
 
-Snapshot ID: `av48AAAAAAA+L/dIYX8YLEVf71CLtBNQ`
+Snapshot ID: `awDfAAAAAADx1Bzu7LcBCcuT+7b11kEq`

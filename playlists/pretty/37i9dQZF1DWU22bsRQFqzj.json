@@ -1,6 +1,6 @@
 {
   "description": "Sei nella tua running era e stai preparando a tua prossima mezza maratona \ud83c\udfc3\ud83c\udffb",
-  "num_followers": 139877,
+  "num_followers": 139887,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2026-11-05 16:19:32",
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "added_at": "2026-11-05 16:19:32",
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2026-11-05 16:19:32",
-      "album": {
-        "name": "No Bad Vibes",
-        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes",
-      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
     },
     {
       "added_at": "2026-11-05 16:19:32",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-11-05 16:19:32",
       "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+    },
+    {
+      "added_at": "2026-11-05 16:19:32",
+      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ"
-    },
-    {
-      "added_at": "2026-11-05 16:19:32",
-      "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2026-11-05 16:19:32",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-11-05 16:19:32",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2026-11-05 16:19:32",
-      "album": {
         "name": "WannaCry",
         "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 219367,
       "name": "WannaCry",
       "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
+    },
+    {
+      "added_at": "2026-11-05 16:19:32",
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2026-11-05 16:19:32",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-11-05 16:19:32",
       "album": {
-        "name": "Deep In Your Love",
-        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Deep In Your Love",
-      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
-    },
-    {
-      "added_at": "2026-11-05 16:19:32",
-      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 144000,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
+    },
+    {
+      "added_at": "2026-11-05 16:19:32",
+      "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
       "added_at": "2026-11-05 16:19:32",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-11-05 16:19:32",
       "album": {
-        "name": "Drums (Feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Drums (Feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
-    },
-    {
-      "added_at": "2026-11-05 16:19:32",
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 176590,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
+    },
+    {
+      "added_at": "2026-11-05 16:19:32",
+      "album": {
+        "name": "Drums (Feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Drums (Feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
     },
     {
       "added_at": "2026-11-05 16:19:32",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2026-11-05 16:19:32",
       "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2026-11-05 16:19:32",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 166425,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
+    },
+    {
+      "added_at": "2026-11-05 16:19:32",
+      "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
       "added_at": "2026-11-05 16:19:32",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-11-05 16:19:32",
       "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
+    {
+      "added_at": "2026-11-05 16:19:32",
+      "album": {
         "name": "Murder On The Dancefloor (David Guetta Remix)",
         "url": "https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
-    },
-    {
-      "added_at": "2026-11-05 16:19:32",
-      "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2026-11-05 16:19:32",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-11-05 16:19:32",
       "album": {
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 283705,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/47EMbBZPg4OBe6m1fijQzj"
+    },
+    {
+      "added_at": "2026-11-05 16:19:32",
+      "album": {
         "name": "pAPi wiTH tOKisCha",
         "url": "https://open.spotify.com/album/2RcRUBfoS0jugdKTTHAF48"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 162206,
       "name": "pAPi wiTH tOKisCha",
       "url": "https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG"
-    },
-    {
-      "added_at": "2026-11-05 16:19:32",
-      "album": {
-        "name": "Settle (Special Edition)",
-        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 283705,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/47EMbBZPg4OBe6m1fijQzj"
     },
     {
       "added_at": "2026-11-05 16:19:32",

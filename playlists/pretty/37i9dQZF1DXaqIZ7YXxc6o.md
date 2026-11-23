@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Confidence Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,956 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,961 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

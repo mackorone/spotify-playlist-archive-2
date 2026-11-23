@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 318569,
+  "num_followers": 318568,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "kinda smacks",
         "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 136601,
       "name": "kinda smacks",
       "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Streetwise",
-        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "She Reaches Out To She Reaches Out To She",
         "url": "https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 263432,
       "name": "House Of Self-Undoing",
       "url": "https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "I Just Needed You To Know",
-        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "I Just Needed You To Know",
-      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Cherry Picking",
         "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
       "artists": [
         {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 165317,
-      "name": "T.M.I",
-      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -711,6 +695,22 @@
       "duration_ms": 206470,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Always Get This Way",
-        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 174258,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "February",
         "url": "https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 232665,
       "name": "February",
       "url": "https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "THE BLOB",
-        "url": "https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 142467,
-      "name": "THE BLOB",
-      "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Lose You",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 175386,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "THE BLOB",
+        "url": "https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 142467,
+      "name": "THE BLOB",
+      "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Self Doubt",
         "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 174226,
       "name": "Self Doubt",
       "url": "https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
-      },
-      "artists": [
-        {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
-        }
-      ],
-      "duration_ms": 165510,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Welcome to My House",
         "url": "https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 207008,
       "name": "Welcome to My House",
       "url": "https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
     },
     {
       "added_at": "2024-07-05 22:18:14",

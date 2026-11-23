@@ -1,13 +1,29 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 32635,
+  "num_followers": 32644,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACyTk6sg6/7GFlhSkevg5TQ",
+  "snapshot_id": "awDfAAAAAAAdPc2Kq3wHFlmLSzzM+2Lx",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Llega Navidad",
+        "url": "https://open.spotify.com/album/1QRjKWM7QAxvmgmqVWyJ80"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 221900,
+      "name": "Llega Navidad",
+      "url": "https://open.spotify.com/track/2IxHplhTBvwuorIeFXj7dY"
+    },
     {
       "added_at": null,
       "album": {
@@ -155,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
       "artists": [
         {
@@ -164,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 303546,
-      "name": "Ven Y Dime",
-      "url": "https://open.spotify.com/track/67SvCf7lfwSkVyAPlvZ1AS"
+      "duration_ms": 205493,
+      "name": "Despues de Ti",
+      "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
     },
     {
       "added_at": null,
@@ -187,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
       },
       "artists": [
         {
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 205493,
-      "name": "Despues de Ti",
-      "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
+      "duration_ms": 303546,
+      "name": "Ven Y Dime",
+      "url": "https://open.spotify.com/track/67SvCf7lfwSkVyAPlvZ1AS"
     },
     {
       "added_at": null,

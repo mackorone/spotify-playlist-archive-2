@@ -4,7 +4,7 @@
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-119 songs - 6 hr 29 min
+120 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 | 2026-10-11 |  |
 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 | 2023-03-10 | 2025-02-21 |
 | [Amor Ilegal](https://open.spotify.com/track/3ceovJ34rV8rdAW31Cpavk) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 2:49 | 2023-03-10 |  |
-| [Así Es La Vida](https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:06 | 2023-03-10 |  |
+| [Así Es La Vida](https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:06 | 2023-03-10 | 2026-11-23 |
 | [Así Fue](https://open.spotify.com/track/5RhdxZfyZyVRWJtqVjeLHc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Fue](https://open.spotify.com/album/1KEaQvBKkUoZVD3OY3RpEt) | 6:47 | 2026-03-01 |  |
 | [Así Son Las Cosas](https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Son Las Cosas](https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv) | 2:51 | 2025-10-12 | 2026-07-27 |
 | [Aunque No Quiera](https://open.spotify.com/track/2NdaU2ctTbjX20p16kEUuE) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:33 | 2024-03-24 | 2024-09-07 |
@@ -48,6 +48,7 @@
 | [Déjame Vivir](https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Déjame Vivir](https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK) | 3:29 | 2024-05-18 | 2026-09-06 |
 | [El Beso](https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Beso](https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi) | 2:35 | 2025-02-08 | 2025-07-30 |
 | [El Beso](https://open.spotify.com/track/3SzujGUyomnzKxn6rJDnks) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Beso](https://open.spotify.com/album/3XxHWOtpyZaT0wdMJJgW7D) | 2:35 | 2025-01-12 | 2025-02-08 |
+| [El Ojo Alegre](https://open.spotify.com/track/0igFqoWKIvKwsObqBtRTGI) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Ojo Alegre](https://open.spotify.com/album/2rXsAGS5pq2iflrCwDu3XL) | 2:42 | 2026-11-23 |  |
 | [El Son De La Negra \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6pP8G7qP1KkAnzbCbVnsYs) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:51 | 2023-03-10 | 2023-11-11 |
 | [El Sonido De Tu Voz](https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Sonido De Tu Voz](https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ) | 2:50 | 2026-02-11 | 2026-06-22 |
 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 | 2023-03-10 | 2025-03-30 |

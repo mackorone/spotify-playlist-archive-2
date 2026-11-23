@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,305 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,323 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vaders & Moeders](https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 3:26 |
 | 2 | [Pijnstiller](https://open.spotify.com/track/11wW1i3hmPCBO49XNgxcHx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/4o6Q9UNplVun5nsP2FRRvt) | 2:51 |
-| 3 | [Alleen](https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:10 |
+| 3 | [Wie Anders](https://open.spotify.com/track/6Ls19nMcXyvxP3sw4N4mWh) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:45 |
 | 4 | [Halverwege](https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Halverwege](https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt) | 2:50 |
 | 5 | [Lichtje Branden](https://open.spotify.com/track/16VFlUdJfBnF2UoMgTJIDI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:52 |
 | 6 | [Niemand](https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Niemand](https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ) | 3:49 |
-| 7 | [Wie Anders](https://open.spotify.com/track/6Ls19nMcXyvxP3sw4N4mWh) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:45 |
+| 7 | [Alleen](https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:10 |
 | 8 | [Als Het Avond Is](https://open.spotify.com/track/1MWpdDDf3Yk0w6o4oviMFY) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:25 |
 | 9 | [Goud](https://open.spotify.com/track/5SaapweQAEx7X1R47ItZ75) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 3:22 |
 | 10 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 49 | [Voor Het Leven Voor Elkaar \- Uit Liefde Voor Muziek](https://open.spotify.com/track/6iYzHNhKoXZFND7NlbbkE3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:53 |
 | 50 | [Elke Keer \- uit Liefde Voor Muziek](https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:11 |
 
-Snapshot ID: `av48AAAAAAA4IPohgEaJjoJg8CDLbyh3`
+Snapshot ID: `awDfAAAAAACMTvR/sce0pfAXFE06GLzy`

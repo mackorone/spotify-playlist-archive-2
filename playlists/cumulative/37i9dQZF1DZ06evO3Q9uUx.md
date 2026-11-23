@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-164 songs - 7 hr 44 min
+165 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [VIBES ON ME \(feat\. Kodak Black\)](https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:04 | 2022-10-28 | 2023-07-09 |
 | [Waiting On Me \(feat\. Swizz Beatz, YG, BIA & Giggs\)](https://open.spotify.com/track/22SS2T6TwIEI3FefmB9IRA) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Waiting On Me \(feat\. Swizz Beatz, YG, BIA & Giggs\)](https://open.spotify.com/album/61Lg0x5PtyijXiDxu9s8uJ) | 3:36 | 2022-10-28 | 2023-06-18 |
 | [WATCH ME \- feat\. BIA](https://open.spotify.com/track/3IWZeuKAIICpfEj7bkSB6p) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WATCH ME](https://open.spotify.com/album/5N8qYjbTwlroORqdMLSUJK) | 3:09 | 2026-09-20 |  |
-| [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 | 2025-05-07 |  |
+| [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 | 2025-05-07 | 2026-11-23 |
+| [WE ON GO \- HONORABLE Version](https://open.spotify.com/track/0brs1wJlXA87KIv4vXQOIB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [WE ON GO \(HONORABLE Version\)](https://open.spotify.com/album/6EZ578zedbTHsYcDVxsqxd) | 2:45 | 2026-11-23 |  |
 | [WE ON GO II \(feat\. Denzel Curry\)](https://open.spotify.com/track/3LtqBgvHGsaSjYw9NmLkky) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [WE ON GO II \(feat\. Denzel Curry\)](https://open.spotify.com/album/6rSg4kAa27P4cnk6bmZuyi) | 3:15 | 2026-03-03 | 2026-07-08 |
 | [WE ON GO II \(feat\. Denzel Curry\)](https://open.spotify.com/track/4M0jSlN1MOaVRbA3Shr0FV) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 3:15 | 2025-10-12 |  |
 | [WE ON GO III \(feat\. TiaCorine\)](https://open.spotify.com/track/2MA1ZlnRvY1qkLbjHrL4U1) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/0kle10LGeUeFCCEVyRZrrm) | 2:45 | 2026-10-26 |  |

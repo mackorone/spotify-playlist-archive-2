@@ -2483,24 +2483,6 @@
     },
     {
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        }
-      ],
-      "date_added": "2021-11-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 85600,
-      "name": "Heimr \u00c0rnadalr - From \"Frozen\"/Score",
-      "url": "https://open.spotify.com/track/0BVJL3uKlVSjTF6dclucdt"
-    },
-    {
-      "album": {
         "name": "Frozen (Original Score)",
         "url": "https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0"
       },
@@ -2534,6 +2516,28 @@
       "duration_ms": 85600,
       "name": "Heimr \u00c0rnadalr - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/7BEdo0a51cp975F7RNy6Qo"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85600,
+      "name": "Heimr \u00c0rnadalr - From \"Frozen\"/Score",
+      "url": "https://open.spotify.com/track/0BVJL3uKlVSjTF6dclucdt"
     },
     {
       "album": {

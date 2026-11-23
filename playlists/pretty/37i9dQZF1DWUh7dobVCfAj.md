@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 
 > Sing\-along favorites\. Cover: Billy Joel
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,446 likes - 70 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,458 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUh7dobVCfAj.md) - [plain]
 | 58 | [Ob\-La\-Di, Ob\-La\-Da \- 2018 Mix](https://open.spotify.com/track/02FJNRUlB28e1F0R9uP2s1) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles](https://open.spotify.com/album/1WMVvswNzB9i2UMh9svso5) | 3:08 |
 | 59 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:31 |
 | 60 | [Build Me Up Buttercup](https://open.spotify.com/track/5idEVWkC6NT5D8Wemi9XIQ) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Never Forget The '60s!](https://open.spotify.com/album/5ipYiRXmgoh0Hk3QDdyRof) | 3:00 |
-| 61 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
+| 61 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
 | 62 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 |
 | 63 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 |
 | 64 | [Mustang Sally](https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe) | [The Commitments](https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX) | [The Commitments \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0) | 4:01 |

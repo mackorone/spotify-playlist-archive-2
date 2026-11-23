@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 146189,
+  "num_followers": 146222,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,26 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
+        "name": "Two Pianos Today",
+        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Aldrich and his 2 pianos",
+          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
+        },
+        {
+          "name": "London Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
         "name": "Music From Hollywood",
         "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
       },
@@ -219,22 +239,6 @@
       "duration_ms": 351559,
       "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
       "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
-        "name": "Games That Lovers Play",
-        "url": "https://open.spotify.com/album/2H5ZaikJttXkNHJEgA5n8i"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Games That Lovers Play",
-      "url": "https://open.spotify.com/track/1DIhGrVGZamMWrsV0U3maT"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -275,22 +279,18 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Two Pianos Today",
-        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
+        "name": "Games That Lovers Play",
+        "url": "https://open.spotify.com/album/2H5ZaikJttXkNHJEgA5n8i"
       },
       "artists": [
         {
-          "name": "Ronnie Aldrich and his 2 pianos",
-          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
-        },
-        {
-          "name": "London Festival Orchestra",
-          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
         }
       ],
-      "duration_ms": 188880,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
+      "duration_ms": 151973,
+      "name": "Games That Lovers Play",
+      "url": "https://open.spotify.com/track/1DIhGrVGZamMWrsV0U3maT"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -311,18 +311,18 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
+        "name": "The Piano Legend (Remastered)",
+        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
       },
       "artists": [
         {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "Russ Conway",
+          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
         }
       ],
-      "duration_ms": 162533,
-      "name": "Fascination",
-      "url": "https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF"
+      "duration_ms": 203973,
+      "name": "Theme from Picnic - Remastered",
+      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -343,34 +343,18 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "The Piano Legend (Remastered)",
-        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
       },
       "artists": [
         {
-          "name": "Russ Conway",
-          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 203973,
-      "name": "Theme from Picnic - Remastered",
-      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Moonglow and Theme from Picnic",
-      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
+      "duration_ms": 162533,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -407,6 +391,22 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Moonglow and Theme from Picnic",
+      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
         "name": "Film Festival",
         "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Fools Rush In (Where Angels Fear to Tread)",
-      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 194880,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Fools Rush In (Where Angels Fear to Tread)",
+      "url": "https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B"
     },
     {
       "added_at": "2026-07-03 07:47:02",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-07-03 07:47:02",
       "album": {
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Marylin",
+      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
+    },
+    {
+      "added_at": "2026-07-03 07:47:02",
+      "album": {
         "name": "Charade",
         "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 144666,
       "name": "The Green Leaves Of Summer",
       "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
-    },
-    {
-      "added_at": "2026-07-03 07:47:02",
-      "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Marylin",
-      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
     },
     {
       "added_at": "2026-07-03 07:47:02",

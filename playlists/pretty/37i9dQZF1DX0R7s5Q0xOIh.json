@@ -1,6 +1,6 @@
 {
   "description": "A playlist oficial do Carona Podpah, Original Spotify com o <a href=\"spotify:show:1GLSDdk9CDEwziGNIlnb8a\">Podpah</a>",
-  "num_followers": 8202,
+  "num_followers": 8203,
   "original_name": "Carona Podpah com m\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -6342,6 +6342,10 @@
         {
           "name": "Phil Collins",
           "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 96533,

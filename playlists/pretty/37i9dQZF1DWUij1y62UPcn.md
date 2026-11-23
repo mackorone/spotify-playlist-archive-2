@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 
 > Aidez vos enfants à commencer la journée du bon pied avec ces chansons positives
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,127 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,138 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 | 47 | [Mama Africa \(feat\. Angélique Kidjo et Youssou Ndour\)](https://open.spotify.com/track/27N8TFqYeZhdrgFITRJncP) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Forever United](https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ) | 2:49 |
 | 48 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
 | 49 | [Coup de Blues / Soleil](https://open.spotify.com/track/6qAMKqy7v0RXczoVQ6taIb) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Un Été Quand Même](https://open.spotify.com/album/6OC0NteZhSjVzZC3KaXH0l) | 4:06 |
-| 50 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 |
+| 50 | [Try Everything \- From "Zootropolis"](https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Try Everything \(From "Zootropolis"\)](https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo) | 3:16 |
 | 51 | [Le blues du rose](https://open.spotify.com/track/05NNQ7vqmqTZj34jUAyZDF) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Le Soldat Rose 2](https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br) | 3:17 |
 | 52 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 53 | [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 |

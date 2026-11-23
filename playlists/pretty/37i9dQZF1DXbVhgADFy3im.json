@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1381937,
+  "num_followers": 1382350,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -199,18 +199,18 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -243,18 +243,18 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -307,6 +307,30 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
+        "name": "Veezha Veera (From \"O.M: Operation Mole\")",
+        "url": "https://open.spotify.com/album/7hb3ZpMxjygpt1PQDXsqZK"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Tippu",
+          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
+        },
+        {
+          "name": "Arun Srinivasan",
+          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
+        }
+      ],
+      "duration_ms": 236081,
+      "name": "Veezha Veera (From \"O.M: Operation Mole\")",
+      "url": "https://open.spotify.com/track/2ch1SJBrQ4Q4j6kGDJfbPz"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
         "name": "Khat",
         "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
       },
@@ -319,38 +343,6 @@
       "duration_ms": 296222,
       "name": "Khat",
       "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
-        "name": "Radhimaa (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/7hgwwDIBJe548XPBJ0zIuq"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Nargis Teji",
-          "url": "https://open.spotify.com/artist/6rgek99Mjy548jM7aQpBnd"
-        },
-        {
-          "name": "Asma Teji",
-          "url": "https://open.spotify.com/artist/4nTgmp4xA89rC3gKhHwrWg"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        },
-        {
-          "name": "Sai Smriti",
-          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
-        }
-      ],
-      "duration_ms": 259852,
-      "name": "Radhimaa - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/6jJHYbJReFfR2ieGzRP5bq"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -419,6 +411,38 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
+        "name": "Radhimaa (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/7hgwwDIBJe548XPBJ0zIuq"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Nargis Teji",
+          "url": "https://open.spotify.com/artist/6rgek99Mjy548jM7aQpBnd"
+        },
+        {
+          "name": "Asma Teji",
+          "url": "https://open.spotify.com/artist/4nTgmp4xA89rC3gKhHwrWg"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "duration_ms": 259852,
+      "name": "Radhimaa - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/6jJHYbJReFfR2ieGzRP5bq"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
         "name": "Sahiba",
         "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
       },
@@ -431,30 +455,6 @@
       "duration_ms": 190098,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
-        "name": "Veezha Veera (From \"O.M: Operation Mole\")",
-        "url": "https://open.spotify.com/album/7hb3ZpMxjygpt1PQDXsqZK"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Tippu",
-          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
-        },
-        {
-          "name": "Arun Srinivasan",
-          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
-        }
-      ],
-      "duration_ms": 236081,
-      "name": "Veezha Veera (From \"O.M: Operation Mole\")",
-      "url": "https://open.spotify.com/track/2ch1SJBrQ4Q4j6kGDJfbPz"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -783,30 +783,6 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
-        "name": "Udi Udi",
-        "url": "https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE"
-      },
-      "artists": [
-        {
-          "name": "Aneesh",
-          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
-        },
-        {
-          "name": "Sarkar",
-          "url": "https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh"
-        },
-        {
-          "name": "Hruday",
-          "url": "https://open.spotify.com/artist/5LAR3fyRELNNXHIfnptaXF"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Udi Udi",
-      "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
         "name": "Jab We Met",
         "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
+        "name": "Udi Udi",
+        "url": "https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE"
+      },
+      "artists": [
+        {
+          "name": "Aneesh",
+          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
+        },
+        {
+          "name": "Sarkar",
+          "url": "https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh"
+        },
+        {
+          "name": "Hruday",
+          "url": "https://open.spotify.com/artist/5LAR3fyRELNNXHIfnptaXF"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Udi Udi",
+      "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
         "name": "Best of Romance: Atif Aslam",
         "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 279826,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
+        "name": "Haseen",
+        "url": "https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        },
+        {
+          "name": "Rippy Grewal",
+          "url": "https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Haseen",
+      "url": "https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
         "name": "Saiyaara (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
       },
@@ -1071,30 +1095,6 @@
       "duration_ms": 370875,
       "name": "Saiyaara (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
-        "name": "Haseen",
-        "url": "https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx"
-      },
-      "artists": [
-        {
-          "name": "Talwiinder",
-          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
-        },
-        {
-          "name": "NDS",
-          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
-        },
-        {
-          "name": "Rippy Grewal",
-          "url": "https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Haseen",
-      "url": "https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -1155,50 +1155,6 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
-        "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
-        "url": "https://open.spotify.com/album/4lrQs1uVuyf79sjjuLmU4p"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Singer Prabha",
-          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
-        },
-        {
-          "name": "Jangi Reddy",
-          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
-      "url": "https://open.spotify.com/track/0HE9a9ndSFMCELuobaW5yK"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
-        "name": "Mann Mera (Original Version)",
-        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
-      },
-      "artists": [
-        {
-          "name": "Gajendra Verma",
-          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mann Mera - Original Version",
-      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
       },
@@ -1235,6 +1191,50 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
+        "name": "Mann Mera (Original Version)",
+        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mann Mera - Original Version",
+      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
+        "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/4lrQs1uVuyf79sjjuLmU4p"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Singer Prabha",
+          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
+        },
+        {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/0HE9a9ndSFMCELuobaW5yK"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
         "name": "Russian Bandana",
         "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
       },
@@ -1267,34 +1267,6 @@
       "duration_ms": 180248,
       "name": "Thodi Si Daaru",
       "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
-        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Super Subu",
-          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
-        },
-        {
-          "name": "M.S Krsna",
-          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "One Sun One Moon",
-      "url": "https://open.spotify.com/track/5JWHSTAUiaCSeWwWlaVnyg"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -1347,6 +1319,34 @@
       "duration_ms": 281800,
       "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
       "url": "https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "One Sun One Moon",
+      "url": "https://open.spotify.com/track/5JWHSTAUiaCSeWwWlaVnyg"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -1439,6 +1439,34 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
+        "name": "Yeh Prem Mol Liya Title Track (From \"Yeh Prem Mol Liya\")",
+        "url": "https://open.spotify.com/album/1A3Vd1lbo2P9nAU6DVJHxV"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 306818,
+      "name": "Yeh Prem Mol Liya Title Track - From \"Yeh Prem Mol Liya\"",
+      "url": "https://open.spotify.com/track/3JvD4HC5eiJXG7xK15ARw5"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
         "name": "Ek Villain",
         "url": "https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF"
       },
@@ -1483,22 +1511,6 @@
     {
       "added_at": "2026-11-15 17:42:55",
       "album": {
-        "name": "Naam Chale",
-        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
-      },
-      "artists": [
-        {
-          "name": "Vikram Sarkar",
-          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
-        }
-      ],
-      "duration_ms": 149375,
-      "name": "Naam Chale",
-      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
         "name": "YRF Top 10 - Falling in Love",
         "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
       },
@@ -1511,6 +1523,22 @@
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
+    },
+    {
+      "added_at": "2026-11-15 17:42:55",
+      "album": {
+        "name": "Naam Chale",
+        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
+      },
+      "artists": [
+        {
+          "name": "Vikram Sarkar",
+          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
+        }
+      ],
+      "duration_ms": 149375,
+      "name": "Naam Chale",
+      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
     },
     {
       "added_at": "2026-11-15 17:42:55",
@@ -1531,34 +1559,6 @@
       "duration_ms": 70400,
       "name": "Paro",
       "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
-    },
-    {
-      "added_at": "2026-11-15 17:42:55",
-      "album": {
-        "name": "Yeh Prem Mol Liya Title Track (From \"Yeh Prem Mol Liya\")",
-        "url": "https://open.spotify.com/album/1A3Vd1lbo2P9nAU6DVJHxV"
-      },
-      "artists": [
-        {
-          "name": "Himesh Reshammiya",
-          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 306818,
-      "name": "Yeh Prem Mol Liya Title Track - From \"Yeh Prem Mol Liya\"",
-      "url": "https://open.spotify.com/track/3JvD4HC5eiJXG7xK15ARw5"
     },
     {
       "added_at": "2026-11-15 17:42:55",

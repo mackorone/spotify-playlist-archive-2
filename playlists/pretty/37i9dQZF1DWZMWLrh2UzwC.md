@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Hafiz Suip, Dua Lipa, Gracie Abrams, Jess Lee, Zynakal, dia, BIGBANG, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,507 likes - 117 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,505 likes - 117 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

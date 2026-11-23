@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: おとなりにぎんが計画
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,032 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,039 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 29 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 |
 | 30 | [波浪](https://open.spotify.com/track/3AupQXUcZQkx4T1tOKzBjf) | [minako](https://open.spotify.com/artist/67h5gBAkNfeClxLjrXfoRG) | [波浪](https://open.spotify.com/album/3BQbgeIQd6iNNpUH5SczXJ) | 3:40 |
 | 31 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
-| 32 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
+| 32 | [透明だった世界](https://open.spotify.com/track/1UPHVPKiQ8tb66UHgYSSpa) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [透明だった世界](https://open.spotify.com/album/3F9eCmmAJiNtRRptvUfalt) | 3:32 |
 | 33 | [DARMA GRAND PRIX](https://open.spotify.com/track/3ObSLLg2RNv3vhL2fIB5EK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [DARMA GRAND PRIX](https://open.spotify.com/album/0lfdhZeXQ140S9DmUss843) | 4:19 |
-| 34 | [透明だった世界](https://open.spotify.com/track/1UPHVPKiQ8tb66UHgYSSpa) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [透明だった世界](https://open.spotify.com/album/3F9eCmmAJiNtRRptvUfalt) | 3:32 |
+| 34 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 35 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 36 | [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 |
 | 37 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 |
@@ -55,32 +55,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 45 | [キライのちスキ！](https://open.spotify.com/track/6c6tWAr4vul7O7i0MaAnlT) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [キライのちスキ！](https://open.spotify.com/album/5AzdFKB1GHLGdX8pLaC2CL) | 3:14 |
 | 46 | [コンテンポラリーダンス](https://open.spotify.com/track/0abmIa1nBnueKntVaUbGbk) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [コンテンポラリーダンス](https://open.spotify.com/album/6GTYf6MfNubPMziBRCLfAf) | 3:57 |
 | 47 | [PEAK TIME](https://open.spotify.com/track/6AnigJs8uZ41ANllM0vfRS) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4uHcA8aXhHoBTCrkSGctjv) | 3:46 |
-| 48 | [命短し対する乙女よ](https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [命短し対する乙女よ](https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC) | 3:48 |
-| 49 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |
+| 48 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |
+| 49 | [命短し対する乙女よ](https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [命短し対する乙女よ](https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC) | 3:48 |
 | 50 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 |
 | 51 | [芽吹くとき](https://open.spotify.com/track/5B5sSaCM7BjL729CNMWNw5) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [芽吹くとき](https://open.spotify.com/album/3FO16Ay7UtFOnJeH33CJ2d) | 3:39 |
 | 52 | [ホレタハレタ](https://open.spotify.com/track/0PHMmilCr5oGP9OrkNzTn5) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [キラーパス](https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW) | 4:24 |
 | 53 | [有心論](https://open.spotify.com/track/0p07bRejRNjkMkjwEKqYJy) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [有心論](https://open.spotify.com/album/1ipf6VYiymoeUxWPULNwtV) | 4:08 |
 | 54 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
-| 55 | [呼びすて](https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [呼びすて](https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE) | 3:14 |
-| 56 | [アルビレオ](https://open.spotify.com/track/0vmpS70PWUYuJPPosYa5rD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [アルビレオ](https://open.spotify.com/album/2p1h2hbCyLKHCPMOwmG3Wc) | 3:27 |
+| 55 | [アルビレオ](https://open.spotify.com/track/0vmpS70PWUYuJPPosYa5rD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [アルビレオ](https://open.spotify.com/album/2p1h2hbCyLKHCPMOwmG3Wc) | 3:27 |
+| 56 | [呼びすて](https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [呼びすて](https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE) | 3:14 |
 | 57 | [高ぶるブルー](https://open.spotify.com/track/6h4Z4yVMkOwudz8V7KAfDe) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [高ぶるブルー](https://open.spotify.com/album/1wt2mvFgIHQheMkv83YAwm) | 2:42 |
 | 58 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
 | 59 | [たりない](https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [たりない](https://open.spotify.com/album/3lLEAOFcIpzCTZn2ZaGaJk) | 3:27 |
-| 60 | [希望法](https://open.spotify.com/track/5DzWLPj0m3dEGD8bsKOU57) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [OK集](https://open.spotify.com/album/3fzX4zbJ8I5gLMzb4aQq11) | 3:42 |
-| 61 | [無礼な！](https://open.spotify.com/track/3jon0WlH0JjYRm6gEq6cY4) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [無礼な！](https://open.spotify.com/album/4xafNHau4Vni9TMBfsXnPk) | 2:46 |
-| 62 | [風に乗る](https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt) | 3:36 |
-| 63 | [Revival](https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Revival](https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt) | 3:32 |
+| 60 | [無礼な！](https://open.spotify.com/track/3jon0WlH0JjYRm6gEq6cY4) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [無礼な！](https://open.spotify.com/album/4xafNHau4Vni9TMBfsXnPk) | 2:46 |
+| 61 | [Revival](https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Revival](https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt) | 3:32 |
+| 62 | [希望法](https://open.spotify.com/track/5DzWLPj0m3dEGD8bsKOU57) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [OK集](https://open.spotify.com/album/3fzX4zbJ8I5gLMzb4aQq11) | 3:42 |
+| 63 | [風に乗る](https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt) | 3:36 |
 | 64 | [トリックスター](https://open.spotify.com/track/3IB0BJE9hybJMOxufysBpu) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [トリックスター](https://open.spotify.com/album/2mpJQNIjm5czakxjOb5cIZ) | 2:27 |
-| 65 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
-| 66 | [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 |
-| 67 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 |
-| 68 | [東京ゴッドストリートボーイズ](https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl) | 3:50 |
-| 69 | [Christmas Eve](https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Made of Glass](https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV) | 4:12 |
+| 65 | [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 |
+| 66 | [東京ゴッドストリートボーイズ](https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl) | 3:50 |
+| 67 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
+| 68 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 |
+| 69 | [Shoot Shoot Shoot](https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ) | [METALVERSE](https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp) | [Shoot Shoot Shoot](https://open.spotify.com/album/3rsVT07lHEG8SyQkdj62ea) | 2:46 |
 | 70 | [揺れてスカート](https://open.spotify.com/track/6jgu52TvyHqGGmUGWaWBwq) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [揺れてスカート](https://open.spotify.com/album/6qlQUirtdVzFuMyoTLBPJW) | 3:08 |
-| 71 | [Smoke and Blue](https://open.spotify.com/track/4YLPV9560KGL7nuSyH9pBx) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [Smoke and Blue](https://open.spotify.com/album/0YkyaEy8KNXKoOGZBOc4tH) | 4:02 |
-| 72 | [Shoot Shoot Shoot](https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ) | [METALVERSE](https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp) | [Shoot Shoot Shoot](https://open.spotify.com/album/3rsVT07lHEG8SyQkdj62ea) | 2:46 |
-| 73 | [睡る君](https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [睡る君](https://open.spotify.com/album/2z9WuGKhNHOqhi1SH0dnZD) | 4:08 |
+| 71 | [睡る君](https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [睡る君](https://open.spotify.com/album/2z9WuGKhNHOqhi1SH0dnZD) | 4:08 |
+| 72 | [Christmas Eve](https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Made of Glass](https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV) | 4:12 |
+| 73 | [Smoke and Blue](https://open.spotify.com/track/4YLPV9560KGL7nuSyH9pBx) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [Smoke and Blue](https://open.spotify.com/album/0YkyaEy8KNXKoOGZBOc4tH) | 4:02 |
 | 74 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
 | 75 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
 

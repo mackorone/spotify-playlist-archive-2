@@ -5656,7 +5656,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 171816,
       "name": "J'aime le stress",
       "url": "https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4"
@@ -12352,6 +12352,24 @@
       "duration_ms": 196297,
       "name": "Tourterelle",
       "url": "https://open.spotify.com/track/58v5rZGche1dBOT4149hAC"
+    },
+    {
+      "album": {
+        "name": "Les fant\u00f4mes",
+        "url": "https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb"
+      },
+      "artists": [
+        {
+          "name": "Chenier",
+          "url": "https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187969,
+      "name": "Tous les miroirs",
+      "url": "https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr"
     },
     {
       "album": {

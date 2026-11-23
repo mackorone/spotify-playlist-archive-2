@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 473799,
+  "num_followers": 473785,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAACaZEemDlE2jTxn9Ev3dRd0",
+  "snapshot_id": "awDfAAAAAACPkAglmf9TIYnyne4Hk1hO",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 191506,
-      "name": "Blame It on Your Love (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
+      "duration_ms": 185594,
+      "name": "Water Me",
+      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
       "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 185594,
-      "name": "Water Me",
-      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
+      "duration_ms": 191506,
+      "name": "Blame It on Your Love (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187544,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 164213,
       "name": "IRL (FEAT. SZA)",
       "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187544,
-      "name": "Birthday Girl",
-      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MY FACE HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "STILL CANT FUH (FEAT. DOJA CAT)",
-      "url": "https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juice (Breakbot Mix)",
         "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 172453,
       "name": "Juice - Breakbot Mix",
       "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MY FACE HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "STILL CANT FUH (FEAT. DOJA CAT)",
+      "url": "https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK"
     },
     {
       "added_at": null,

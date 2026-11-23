@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,119 likes - 72 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,133 likes - 72 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 32 | [El Latido de mi Corazón](https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:01 |
 | 33 | [¿Y Si Hacemos Un Muñeco?](https://open.spotify.com/track/3vAkxLPdOML7BEl0tUaB5z) | [Romina Marroquín Payró](https://open.spotify.com/artist/5f0gcyyPRCUTePOs4YRT5Y), [Sara Paula Gómez Arias](https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT), [Andrea Rebeca Gómez Arias](https://open.spotify.com/artist/2lIwN9VYopnWydLL1Gz4z0) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:26 |
 | 34 | [En lo profundo/Peso](https://open.spotify.com/track/4mEIqavz99DpHXxi3wK46I) | [Sugey Torres](https://open.spotify.com/artist/1ND1UzX6EmIrVxfsRowxIc) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:22 |
-| 35 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
+| 35 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
 | 36 | [Yo soy tu amigo fiel](https://open.spotify.com/track/1pWbMRdexwG9VEGMxq1zL2) | [Ricardo Murguía](https://open.spotify.com/artist/04dHIXSdxCyjJhgMp7gm4X) | [Canta y Cuenta: Toy Story](https://open.spotify.com/album/1XdGbS5wra2anoG0lOOVnS) | 2:03 |
 | 37 | [Parte de él](https://open.spotify.com/track/7DEIeEbkqRxINlC1S9a9dx) | [Yatzil Aguirre](https://open.spotify.com/artist/4VY7dLY79eX2M52UWV7583) | [La Sirenita \(Banda Sonora Original en Español/Edición Deluxe\)](https://open.spotify.com/album/4JMFuXaUW3P9P3l324vCoG) | 3:34 |
 | 38 | [Esta Noche Es Para Amar](https://open.spotify.com/track/0ykKpOKpgH2ygZ607JR4A9) | [Renato Lopez](https://open.spotify.com/artist/0DOyEPSejosWJnhMzt9gj8), [Raúl Carballeda](https://open.spotify.com/artist/6GJcuvrFIs0ZZ9zz0l9L6e), [Francisco Colmenero](https://open.spotify.com/artist/7CUbYXaUdYaKhpzeGWwoBb), [Claudia Pizá](https://open.spotify.com/artist/6siLUAe0KmIQIAoBuihe5x), [Marianne](https://open.spotify.com/artist/7I2n3NkCzng7CmaiKSj2yp) | [El Rey Leon \(Edición Especial\)](https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD) | 2:57 |

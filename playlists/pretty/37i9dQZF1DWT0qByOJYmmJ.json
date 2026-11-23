@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n. Pehuenche, Renee Mooi en portada. ",
-  "num_followers": 625882,
+  "num_followers": 625870,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
+        "name": "Cupido (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3tYs8S99Xsefox2C08Jb3d"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        },
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 196890,
+      "name": "Cupido - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 221480,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "Cupido (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3tYs8S99Xsefox2C08Jb3d"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        },
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 196890,
-      "name": "Cupido - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk"
     },
     {
       "added_at": "2026-11-06 06:00:06",

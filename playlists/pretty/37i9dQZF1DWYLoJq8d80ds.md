@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Santhyago Rios
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,488 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,521 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

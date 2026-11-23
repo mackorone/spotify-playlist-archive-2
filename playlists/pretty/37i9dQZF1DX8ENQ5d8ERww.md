@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Playlist Takeover by Bligg!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,843 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,844 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 10 | [Relaxtra \(feat\. Stress & Lexx\)](https://open.spotify.com/track/6PUJbyUdWVGXX7RgPkus1y) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Lexx](https://open.spotify.com/artist/7GH9fHYSqIt0jZSGHPxwU0) | [Normal \(Deluxe Edition\)](https://open.spotify.com/album/08IevNCyhVvlIxarANOlju) | 3:42 |
 | 11 | [Wohärä Geisch?](https://open.spotify.com/track/3lAZoNthKsGuIQF6oTuGvh) | [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH), [Endo Anaconda](https://open.spotify.com/artist/0oMN8U82MCpknh5w8eVFNQ), [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [Item](https://open.spotify.com/album/1Amn8s0K5XHm1W45epCLWV) | 5:46 |
 | 12 | [Liechterlösche](https://open.spotify.com/track/5V3eoRuLFGji7PPj5x96Sc) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/0TrJBMa0h8tBFsSAa4uj9v) | 3:30 |
-| 13 | [So andersch](https://open.spotify.com/track/27anAv26kc5Wea1JUO8USD) | [Möchtegang](https://open.spotify.com/artist/6r6G2kcHgJ3kvjQgMElhfI), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS), [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr), [Fratelli\-B](https://open.spotify.com/artist/1N4ibK49V5vDhlErN0Akj0), [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS) | [Mittwuch Nami](https://open.spotify.com/album/4No2YOxPtetkFsu1kLsAKO) | 4:25 |
-| 14 | [Figg Mitt](https://open.spotify.com/track/5VQvslDviJALtttbwnBX38) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach Nüt](https://open.spotify.com/album/6b4j22HaunO5TjsIrSGpng) | 4:13 |
+| 13 | [Figg Mitt](https://open.spotify.com/track/5VQvslDviJALtttbwnBX38) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach Nüt](https://open.spotify.com/album/6b4j22HaunO5TjsIrSGpng) | 4:13 |
+| 14 | [So andersch](https://open.spotify.com/track/27anAv26kc5Wea1JUO8USD) | [Möchtegang](https://open.spotify.com/artist/6r6G2kcHgJ3kvjQgMElhfI), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS), [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr), [Fratelli\-B](https://open.spotify.com/artist/1N4ibK49V5vDhlErN0Akj0), [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS) | [Mittwuch Nami](https://open.spotify.com/album/4No2YOxPtetkFsu1kLsAKO) | 4:25 |
 | 15 | [Alles scho mal ghört \(feat\. Emel\)](https://open.spotify.com/track/7aPKPEl45O138MeAqC38c0) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [EMEL](https://open.spotify.com/artist/19aI5CNRhoBG9ZvPBPU3Q2) | [Normal \(Deluxe Edition\)](https://open.spotify.com/album/08IevNCyhVvlIxarANOlju) | 4:14 |
 | 16 | [Aus](https://open.spotify.com/track/4cTrxrkes5tORn4sWmKIB8) | [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Item](https://open.spotify.com/album/1Amn8s0K5XHm1W45epCLWV) | 3:39 |
 | 17 | [Laisse toi aller](https://open.spotify.com/track/3ETw4A4TaobwdtHgKcciFd) | [Sens Unik](https://open.spotify.com/artist/4NJQiZfOszzd9O6z2gR8hS) | [Chromatic](https://open.spotify.com/album/68MQixtX0z4rMf0QqKYIzB) | 4:46 |

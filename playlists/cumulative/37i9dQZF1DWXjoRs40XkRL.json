@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 310320,
       "name": "Jaa Kaga",
       "url": "https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f"
@@ -3832,7 +3832,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 230400,
       "name": "Kahe Sataye",
       "url": "https://open.spotify.com/track/5lZWQY94QWVaxjtam5dRqc"
@@ -4476,6 +4476,32 @@
       "duration_ms": 230142,
       "name": "Lat Ulajhi",
       "url": "https://open.spotify.com/track/77477vF5I3QnC4lgpwYKS2"
+    },
+    {
+      "album": {
+        "name": "Laut Ke Aa",
+        "url": "https://open.spotify.com/album/3zDgV1A4QsQrlxqnCbzr0p"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Mannan Shaah",
+          "url": "https://open.spotify.com/artist/7N2dclX5B3iviso9v9TlUT"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354835,
+      "name": "Laut Ke Aa",
+      "url": "https://open.spotify.com/track/4y4gu9mGeoJLrdWCMACOOO"
     },
     {
       "album": {
@@ -8400,7 +8426,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 207749,
       "name": "Sajan More Ghar Aayo",
       "url": "https://open.spotify.com/track/2f74281V9IbfcWrqdYrI91"

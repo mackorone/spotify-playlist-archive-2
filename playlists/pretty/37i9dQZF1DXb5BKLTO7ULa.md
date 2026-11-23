@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Zoë Livay, Kevin, Justen de Wildt, Dua Lipa, Kybba, Within Temptation & S10 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,950 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,924 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

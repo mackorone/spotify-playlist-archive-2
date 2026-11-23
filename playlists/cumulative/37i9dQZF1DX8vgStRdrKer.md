@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-906 songs - 3 day 8 hr 28 min
+907 songs - 3 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Belongs To You](https://open.spotify.com/track/4QI6Qba9iqc3XaqI5OSWrS) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Belongs To You](https://open.spotify.com/album/31g16Qly95t9uSQdt5MSOI) | 2:25 | 2025-07-04 | 2025-07-29 |
 | [Benefit](https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Benefit](https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8) | 6:59 | 2025-10-17 |  |
 | [Big God](https://open.spotify.com/track/6r6F2FtQdGroX2sZPsTRYm) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Kingdom Energy](https://open.spotify.com/album/2TCVFuEs0Clh6XdKfEKMAX) | 3:09 | 2026-09-25 | 2026-10-20 |
+| [Big God \- Live](https://open.spotify.com/track/6uKOZlVxeuXbXiUEXEkvaq) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y) | [Big God \(Live\)](https://open.spotify.com/album/7KEM5f29U0quNQOgtqgma2) | 10:02 | 2026-11-13 |  |
 | [Bigger](https://open.spotify.com/track/1kV7EtGG52g3BsqzkLHZVy) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Bigger](https://open.spotify.com/album/2At2AXk7Zt0AdAElt4GTM1) | 2:12 | 2025-05-30 | 2025-06-27 |
 | [Biggest Name \(Man of Galilee\)](https://open.spotify.com/track/4lTqi2OvWg6kJtcmLxPy6A) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Biggest Name \(Man of Galilee\)](https://open.spotify.com/album/1LZZycH5z1vzlyuyYYlFq4) | 3:31 | 2026-02-20 | 2026-09-05 |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 | 2025-06-06 |
@@ -400,7 +401,7 @@
 | [Ikhandlela](https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Ikhandlela](https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp) | 5:22 | 2025-08-15 | 2025-11-17 |
 | [Imela](https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb) | [TFC Gold](https://open.spotify.com/artist/0tUXkhXZq28ovlMTUHTyg1), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Imela](https://open.spotify.com/album/5O5ASDteTamA9ceHyDExRY) | 3:22 | 2025-05-30 | 2025-06-20 |
 | [Imole](https://open.spotify.com/track/6HsbS2KoENKjS5NatyXldL) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Speed Dial](https://open.spotify.com/album/1FJkEcLOuChsThdTRJ0Fo1) | 2:23 | 2025-07-25 | 2026-06-11 |
-| [Imole Aye](https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Imole Aye](https://open.spotify.com/album/0Iy4b1NOhRiNWSDCURSQCV) | 8:39 | 2025-09-12 |  |
+| [Imole Aye](https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Imole Aye](https://open.spotify.com/album/0Iy4b1NOhRiNWSDCURSQCV) | 8:39 | 2025-09-12 | 2026-11-23 |
 | [Impossibility Shatterer](https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Ada Ehi](https://open.spotify.com/artist/7ywbh2HXZmWVBFdmnNwYHh) | [Yeshua \(The Summary Of My Life\)](https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS) | 3:24 | 2026-03-27 | 2026-05-22 |
 | [IMPRESS](https://open.spotify.com/track/49po3OfHx8xHkUjWw5Bh3B) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [IMPRESS](https://open.spotify.com/album/0O3deyALXkZUf6jt0mkK6x) | 3:21 | 2025-06-20 | 2025-11-21 |
 | [In Alignment](https://open.spotify.com/track/36dTH9M4YGFmRNStZCSUsY) | [Juwon Efanga](https://open.spotify.com/artist/6V4LrQ6h3RYv8nE76BXOQ6) | [In Alignment](https://open.spotify.com/album/1XdrE7pclRd04A4m7XNd0K) | 7:07 | 2026-08-07 | 2026-11-05 |

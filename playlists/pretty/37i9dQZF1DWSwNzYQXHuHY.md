@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,019 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,017 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 15 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNGHANBIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
 | 16 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 17 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
-| 18 | [May I Love You?](https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67) | [UMJI](https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:18 |
-| 19 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 18 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
+| 19 | [May I Love You?](https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67) | [UMJI](https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:18 |
 | 20 | [monodrama \(feat\. KURO\)](https://open.spotify.com/track/7Fyj1PrZfWjbm1qlVu5aM9) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [monodrama \(feat\. KURO\)](https://open.spotify.com/album/6m0ImyuGH2zCmlpJy7PpZB) | 2:53 |
 | 21 | [Special Day](https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS) | 3:18 |
 | 22 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 25 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
 | 26 | [45.7cm \(feat.OOHYO\)](https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [WOOHYO](https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9) | [Pit a Pat](https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4) | 3:32 |
 | 27 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
-| 28 | [juicy](https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:20 |
-| 29 | [Wanna Love You](https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Wanna Love You](https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf) | 3:40 |
+| 28 | [Wanna Love You](https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Wanna Love You](https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf) | 3:40 |
+| 29 | [juicy](https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:20 |
 | 30 | [HICCUP](https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:15 |
 | 31 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
 | 32 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 42 | [You're Mine, You're My Man](https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG) | [LEE JI MIN](https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA) | [You're Mine, You're My Man](https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW) | 2:33 |
 | 43 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [Meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
 | 44 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
-| 45 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |
-| 46 | [It’s secret](https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [It’s secret](https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW) | 3:08 |
-| 47 | [Fall In Love](https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Fall In Love](https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90) | 3:22 |
-| 48 | [Raindrop](https://open.spotify.com/track/249anPnRxbDIAERScEBEkK) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Raindrop](https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct) | 2:50 |
-| 49 | [Would You Hold My Hand?](https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Would You Hold My Hand?](https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd) | 2:46 |
+| 45 | [It’s secret](https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [It’s secret](https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW) | 3:08 |
+| 46 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |
+| 47 | [Would You Hold My Hand?](https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Would You Hold My Hand?](https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd) | 2:46 |
+| 48 | [Fall In Love](https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Fall In Love](https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90) | 3:22 |
+| 49 | [Raindrop](https://open.spotify.com/track/249anPnRxbDIAERScEBEkK) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Raindrop](https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct) | 2:50 |
 | 50 | [Reaching](https://open.spotify.com/track/3YigBhekrP5JPrU9Ahpr2a) | [MINHYUK \(MONSTA X\)](https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V) | [Reaching](https://open.spotify.com/album/7bnEpJb2YFnRwWZ5fwmgOl) | 3:19 |
 
 Snapshot ID: `AAAAAFuK/OM0hsKLR44C8GqZf5Wxh/o8`

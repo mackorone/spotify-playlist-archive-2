@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Guddhist Gunatita, Baby Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,782 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,157 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

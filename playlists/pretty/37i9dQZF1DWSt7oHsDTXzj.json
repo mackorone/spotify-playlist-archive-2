@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist, ft Phoebe Bridgers",
-  "num_followers": 271467,
+  "num_followers": 271569,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 365141,
-      "name": "Day After Tomorrow",
-      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
-    },
-    {
-      "added_at": "2026-11-09 20:56:21",
-      "album": {
         "name": "The Parting Glass",
         "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 251000,
       "name": "The Parting Glass",
       "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
+    },
+    {
+      "added_at": "2026-11-09 20:56:21",
+      "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
     },
     {
       "added_at": "2026-11-09 20:56:21",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2026-11-09 20:56:21",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+        "name": "This Warm December, A Brushfire Holiday Vol. 2",
+        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+      "duration_ms": 227173,
+      "name": "Christmas Must Be Tonight",
+      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
     },
     {
       "added_at": "2026-11-09 20:56:21",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+    },
+    {
+      "added_at": "2026-11-09 20:56:21",
+      "album": {
         "name": "Dance Again",
         "url": "https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 221555,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY"
-    },
-    {
-      "added_at": "2026-11-09 20:56:21",
-      "album": {
-        "name": "This Warm December, A Brushfire Holiday Vol. 2",
-        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Christmas Must Be Tonight",
-      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
     },
     {
       "added_at": "2026-11-09 20:56:21",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
-        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
-    },
-    {
-      "added_at": "2026-11-09 20:56:21",
-      "album": {
         "name": "White Winter Hymnal",
         "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
       },
@@ -959,22 +943,6 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/1j2CmnmtAdGBjuvnFj6UiM"
-    },
-    {
-      "added_at": "2026-11-09 20:56:21",
-      "album": {
         "name": "A Dreamer's Holiday",
         "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
       },
@@ -987,6 +955,22 @@
       "duration_ms": 180585,
       "name": "A Dreamer's Holiday",
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2026-11-09 20:56:21",
+      "album": {
+        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
     },
     {
       "added_at": "2026-11-09 20:56:21",
@@ -1011,22 +995,6 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2026-11-09 20:56:21",
-      "album": {
         "name": "Merry Xmas Everybody",
         "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 218706,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
+    },
+    {
+      "added_at": "2026-11-09 20:56:21",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1j2CmnmtAdGBjuvnFj6UiM"
+    },
+    {
+      "added_at": "2026-11-09 20:56:21",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
       "added_at": "2026-11-09 20:56:21",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
+        "name": "The Little Drummer Boy",
+        "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 176583,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
+    },
+    {
+      "added_at": "2026-11-09 20:56:21",
+      "album": {
         "name": "Lullabies To Violaine - Volume 2",
         "url": "https://open.spotify.com/album/6yrVgxDtLcJT6fiLHz4rLh"
       },
@@ -1167,26 +1187,6 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
-        "name": "The Little Drummer Boy",
-        "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 176583,
-      "name": "The Little Drummer Boy",
-      "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
-    },
-    {
-      "added_at": "2026-11-09 20:56:21",
-      "album": {
         "name": "A Christmas Album",
         "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 139600,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+    },
+    {
+      "added_at": "2026-11-09 20:56:21",
+      "album": {
+        "name": "Another Sappy Xmas Love Song",
+        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 144654,
+      "name": "Another Sappy Xmas Love Song",
+      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
     },
     {
       "added_at": "2026-11-09 20:56:21",
@@ -1219,42 +1235,6 @@
     {
       "added_at": "2026-11-09 20:56:21",
       "album": {
-        "name": "Not So Merry Christmas",
-        "url": "https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Not So Merry Christmas",
-      "url": "https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT"
-    },
-    {
-      "added_at": "2026-11-09 20:56:21",
-      "album": {
-        "name": "snowpool",
-        "url": "https://open.spotify.com/album/3SfMVVm5Aro0KDirWJqcXs"
-      },
-      "artists": [
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "snowpool",
-      "url": "https://open.spotify.com/track/5A8MtqsQlrBSowEtquAhOu"
-    },
-    {
-      "added_at": "2026-11-09 20:56:21",
-      "album": {
         "name": "ugly xmas sweater party",
         "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
       },
@@ -1267,6 +1247,22 @@
       "duration_ms": 208000,
       "name": "ugly xmas sweater party",
       "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
+    },
+    {
+      "added_at": "2026-11-09 20:56:21",
+      "album": {
+        "name": "Not So Merry Christmas",
+        "url": "https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Not So Merry Christmas",
+      "url": "https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT"
     }
   ],
   "unique_name": "Indie Christmas",

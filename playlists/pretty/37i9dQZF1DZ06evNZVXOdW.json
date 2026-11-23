@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9787,
+  "num_followers": 9788,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAD06UpKUG99yQdRklZmJY52",
+  "snapshot_id": "awDfAAAAAAB4HkMnsn4MjcIe965pDWc2",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love In Exile",
-        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
       "artists": [
         {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
-        },
-        {
-          "name": "Shahzad Ismaily",
-          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 486598,
-      "name": "Sajni",
-      "url": "https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5"
+      "duration_ms": 119500,
+      "name": "Beyond the Smoke Screen",
+      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
     },
     {
       "added_at": null,
@@ -311,22 +307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tails Noir (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
       "artists": [
         {
-          "name": "Danshin",
-          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 119500,
-      "name": "Beyond the Smoke Screen",
-      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
+      "duration_ms": 486598,
+      "name": "Sajni",
+      "url": "https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5"
     },
     {
       "added_at": null,
@@ -372,13 +372,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+          "name": "Chocolate Genius Incorporated",
+          "url": "https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB"
         }
       ],
-      "duration_ms": 406831,
-      "name": "Saaqi (feat. Vijay Iyer)",
-      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
+      "duration_ms": 256846,
+      "name": "Zameen (feat. Chocolate Genius Incorporated)",
+      "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
     },
     {
       "added_at": null,
@@ -444,13 +444,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Chocolate Genius Incorporated",
-          "url": "https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB"
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 256846,
-      "name": "Zameen (feat. Chocolate Genius Incorporated)",
-      "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
+      "duration_ms": 406831,
+      "name": "Saaqi (feat. Vijay Iyer)",
+      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
     },
     {
       "added_at": null,
@@ -748,25 +748,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 166285,
-      "name": "There Go the Clouds",
-      "url": "https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 1064071,
-      "name": "Island No. 3",
-      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
+      "duration_ms": 56597,
+      "name": "Seawall",
+      "url": "https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 197474,
       "name": "Glass Face",
       "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 1064071,
+      "name": "Island No. 3",
+      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 56597,
-      "name": "Seawall",
-      "url": "https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4"
+      "duration_ms": 166285,
+      "name": "There Go the Clouds",
+      "url": "https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
       "duration_ms": 635805,
       "name": "Dil Jalaney Ki Baat",
       "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 911913,
-      "name": "Ovid's Metamorphoses",
-      "url": "https://open.spotify.com/track/16EpeiRPTdWLvuKZdpi6mi"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

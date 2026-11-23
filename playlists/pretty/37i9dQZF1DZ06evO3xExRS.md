@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,571 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,580 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 35 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 |
 | 36 | [Te necesito](https://open.spotify.com/track/57HCT9SJ58ZK3JpeQMrdvn) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 4:06 |
 | 37 | [Me quiero enamorar](https://open.spotify.com/track/5GCIcA9uuEoKRewpivrKEh) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Todo esto es muy extraño \(American edition\)](https://open.spotify.com/album/21qKh1Xap2JPTZ1EJUxbl1) | 2:39 |
-| 38 | [Por que no ser amigos \(feat\. Dani Martín\)](https://open.spotify.com/track/49bjeL6wU0pqGUUXMJpDQP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Todo esto es muy extraño](https://open.spotify.com/album/0Gmyt4UXxwIgselvhsT3n5) | 3:18 |
+| 38 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 |
 | 39 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 |
-| 40 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 |
+| 40 | [Por que no ser amigos \(feat\. Dani Martín\)](https://open.spotify.com/track/49bjeL6wU0pqGUUXMJpDQP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Todo esto es muy extraño](https://open.spotify.com/album/0Gmyt4UXxwIgselvhsT3n5) | 3:18 |
 | 41 | [Qué soy yo para ti](https://open.spotify.com/track/4XGZ9gEAk4FXIGC1d7RrOS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Todo esto es muy extraño \(American edition\)](https://open.spotify.com/album/21qKh1Xap2JPTZ1EJUxbl1) | 5:36 |
 | 42 | [Un minuto nada más](https://open.spotify.com/track/1LgZrAA0k8ZLvfk3K7BnNl) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Historia Del Bikini](https://open.spotify.com/album/3NDwXI7yrQMZvjoQdJ5lsv) | 4:26 |
 | 43 | [Mi Primer Día Sin Ti \(En Vivo\)](https://open.spotify.com/track/7MTuVOR52Y3B06fmLdNTmP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 49 | [Por qué me toca a mí](https://open.spotify.com/track/3Q0Ch4Zvbf8B9gis7vpKoZ) | [Hermanos Martínez](https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Por qué me toca a mí](https://open.spotify.com/album/2FdPsJc5BIRl1xmGXQNule) | 3:34 |
 | 50 | [Lo Noto \(with Hombres G\) \- En Directo](https://open.spotify.com/track/7uxzk9549WrBgOpBmHAEju) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Mi Teatro \(En Directo\)](https://open.spotify.com/album/7vH5NPvG5BHV387GBNQSJ1) | 4:16 |
 
-Snapshot ID: `av48AAAAAACVdelG8IEja23djD0ROdG6`
+Snapshot ID: `awDfAAAAAAA6yYvVmCtjV/78fnHAtoZe`

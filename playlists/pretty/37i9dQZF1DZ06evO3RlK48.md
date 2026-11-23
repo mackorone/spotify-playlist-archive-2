@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,875 likes - 36 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,880 likes - 36 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 35 | [GAY \- MUNA Remix](https://open.spotify.com/track/6LCLR74dsJsjSEWeajW5sO) | [Meg Stalter](https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [GAY \(MUNA Remix\)](https://open.spotify.com/album/2OOI5aONzBGkcGusEIQKE3) | 2:59 |
 | 36 | [Everything](https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:06 |
 
-Snapshot ID: `av48AAAAAABiIuZAPWPQDE5Sq8evS3mu`
+Snapshot ID: `awDfAAAAAAD5awaoF1DA75POBIoksuo2`

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1160132,
+  "num_followers": 1160304,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAAMF0qHlf9RIOR8Itt+ftti",
+  "snapshot_id": "awDfAAAAAAD3mE+iQtt6Ct08CheCS4MW",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Supiste Que Te Esper\u00e9",
-        "url": "https://open.spotify.com/album/3eRaUY81phIdt6XwTtLwZW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 190774,
-      "name": "Nunca Supiste Que Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/2qmIl86Sn9Zy7f8Xrz7UML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/7b01UUiyCasivZJP3Suj4C"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Supiste Que Te Esper\u00e9",
+        "url": "https://open.spotify.com/album/3eRaUY81phIdt6XwTtLwZW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 190774,
+      "name": "Nunca Supiste Que Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/2qmIl86Sn9Zy7f8Xrz7UML"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 152135,
-      "name": "Se Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 226345,
       "name": "Dile A Tu Orgullo - En Vivo",
       "url": "https://open.spotify.com/track/5QxL7Nv8J5gPqD6H0bKmAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 152135,
+      "name": "Se Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 192550,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
     },
     {
       "added_at": null,
@@ -895,42 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 197781,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ctrl + Z (En Vivo)",
-        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 161480,
-      "name": "Ctrl + Z - En Vivo",
-      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+      "duration_ms": 192550,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
     },
     {
       "added_at": null,
@@ -951,6 +931,26 @@
       "duration_ms": 275683,
       "name": "Te Equivocaste (En Vivo)",
       "url": "https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Ctrl + Z - En Vivo",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
     }
   ],
   "unique_name": "This Is Grupo Firme",

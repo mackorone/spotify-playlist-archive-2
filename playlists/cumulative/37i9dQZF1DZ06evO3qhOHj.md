@@ -4,7 +4,7 @@
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-92 songs - 6 hr 16 min
+93 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Colorado Bulldog](https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:13 | 2023-12-13 |  |
 | [Courageous](https://open.spotify.com/track/4JXo0SKUN32dkDH2l1RFVs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9) | 4:34 | 2025-02-11 | 2025-02-13 |
 | [Courageous](https://open.spotify.com/track/6WOlMP5sOuLAxTytEfl0OJ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC) | 4:34 | 2024-07-15 | 2024-09-09 |
-| [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \- 2021 Remastered](https://open.spotify.com/track/6YsOshSb3F3b07X9lIw5Et) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:56 | 2023-12-13 |  |
+| [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \- 2021 Remastered](https://open.spotify.com/track/6YsOshSb3F3b07X9lIw5Et) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:56 | 2023-12-13 | 2026-11-23 |
 | [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \- Live at Budokan, Tokyo, Japan, July 26, 2023](https://open.spotify.com/track/5b69Dou2PB5TLk8leY2M3O) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \[Live at Budokan, Tokyo, Japan, July 26, 2023\]](https://open.spotify.com/album/1ZitKkUxoKyB661QlbchzF) | 3:58 | 2024-07-29 | 2024-08-24 |
+| [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \- Live at Irvine Meadows Amphitheatre, Irvine, USA, June 18, 1991](https://open.spotify.com/track/6uXnrKSXOAbWgS7jA3lRgJ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \[Live at Irvine Meadows Amphitheatre, Irvine, USA, June 18, 1991\]](https://open.spotify.com/album/1ck0FQS3puRvpYIcy9BDNe) | 3:33 | 2026-11-23 |  |
 | [Damn I'm In Love Again](https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 2:55 | 2024-08-14 |  |
 | [Damn I'm in Love Again](https://open.spotify.com/track/4wGPXraznAXLV1a0eUGLA3) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/53l9k2aVCPJRzquRWwoexE) | 2:55 | 2023-12-13 | 2024-07-15 |
 | [Dancin' Right into the Flame](https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:03 | 2023-12-13 |  |

@@ -4,7 +4,7 @@
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 11 min
+107 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Chasing Yesterdays \(Solo Piano Version\)](https://open.spotify.com/track/54tdmfHwxKVLWWBtVPe6fv) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Chasing Yesterdays \(Solo Piano Version\)](https://open.spotify.com/album/0KuCc3pqz5k30648280FaN) | 3:38 | 2025-03-09 | 2025-04-06 |
 | [Closer to Forever](https://open.spotify.com/track/4UeoeAmi2lBfdl6IOtPByN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Closer to Forever](https://open.spotify.com/album/2YVw8wXxiirBRcPx3tog28) | 3:45 | 2025-09-28 | 2025-10-27 |
 | [Closer to Forever](https://open.spotify.com/track/5rcFpNVeoaVBlPVqgLRsQY) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Paper Hearts](https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR) | 3:45 | 2025-10-27 | 2026-07-12 |
-| [Coffee Dreams \(Reprise\)](https://open.spotify.com/track/51TJmg8gPrj4OmqWx1FpbS) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 3:12 | 2026-10-20 |  |
+| [Coffee Dreams \(Reprise\)](https://open.spotify.com/track/51TJmg8gPrj4OmqWx1FpbS) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 3:12 | 2026-10-20 | 2026-11-23 |
 | [Coffee Song](https://open.spotify.com/track/49Uq9mhpvn5a6mG5CWTkqh) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:51 | 2026-10-11 |  |
 | [Colours \- Solo Piano Version](https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:08 | 2024-10-02 | 2025-02-09 |
 | [Coming Home](https://open.spotify.com/track/4gBREULjdyg3EQlxGpJ9C9) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:33 | 2024-10-02 | 2025-02-22 |
@@ -112,6 +112,7 @@
 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 | 2024-10-02 |  |
 | [Waterfalls](https://open.spotify.com/track/2mRzR5As98D4UWLIH3v5Rl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:05 | 2024-10-02 |  |
 | [When the Bells Ring](https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:18 | 2024-10-02 |  |
+| [Where the Sunrise Finds Me](https://open.spotify.com/track/3iwKG7KbM0FioEKECKzIul) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:55 | 2026-11-23 |  |
 | [Where Worlds Collide](https://open.spotify.com/track/04F2CVACUouSEWkaApQnmf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:02 | 2024-10-02 |  |
 | [Wishing](https://open.spotify.com/track/2DCB7vBKleDUerpJErGyr2) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 2:08 | 2024-10-02 |  |
 

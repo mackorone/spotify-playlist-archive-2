@@ -2917,6 +2917,24 @@
     },
     {
       "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/2Q4Qfg1RqBjjcTWFDSv0P7"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146386,
+      "name": "Bully",
+      "url": "https://open.spotify.com/track/1MkuUagmzdRVZj6dPdoKJW"
+    },
+    {
+      "album": {
         "name": "Bunda",
         "url": "https://open.spotify.com/album/21eSLFBAixgBLOOdP1hVJO"
       },
@@ -4182,7 +4200,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
@@ -9926,7 +9944,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
@@ -10322,6 +10340,28 @@
       "duration_ms": 168791,
       "name": "Mon B\u00e9b\u00e9 (with King Promise)",
       "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
+    },
+    {
+      "album": {
+        "name": "Money In A Wheelbarrow",
+        "url": "https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151909,
+      "name": "Money In A Wheelbarrow",
+      "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
     },
     {
       "album": {
@@ -13633,6 +13673,28 @@
     },
     {
       "album": {
+        "name": "Lavida Boy",
+        "url": "https://open.spotify.com/album/0dNVbO6bgRlqs1d6jDZ7wy"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/4ppNFofJCDaq7rpRDmyAiW"
+    },
+    {
+      "album": {
         "name": "Santorini Greece",
         "url": "https://open.spotify.com/album/2C3fvdn3jCcvqa31CnH5Gz"
       },
@@ -16900,7 +16962,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 139047,
       "name": "US",
       "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"

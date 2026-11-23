@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 488662,
+  "num_followers": 488661,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAABCNvzPKpH2HIEAknaIvPU4",
+  "snapshot_id": "awDfAAAAAADq9OoghmtHtiDDzGPO4poS",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Hard Luck Woman",
-      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 257280,
       "name": "War Machine - 2022 Remastered",
       "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock And Roll Over (2026 Remaster)",
+        "url": "https://open.spotify.com/album/48O0VOhpk7h4vH7Qg4OjJJ"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Hard Luck Woman - 2026 Remaster",
+      "url": "https://open.spotify.com/track/42zp17fHak07BbO2OuE9Cm"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Calling Dr. Love",
-      "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psycho Circus",
         "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 281373,
       "name": "We Are One",
       "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Calling Dr. Love",
+      "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Speed / Hard Luck Woman",
-        "url": "https://open.spotify.com/album/3H4aImRAbw3JXfzvXWdRny"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Mr. Speed - Eddie Kramer 2026 Mix",
-      "url": "https://open.spotify.com/track/3XHLc3Visn57QAi1wUR7xG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creatures Of The Night",
-        "url": "https://open.spotify.com/album/5fMNBSecex43kyvmPIkxqW"
+        "name": "Mr. Speed / Hard Luck Woman",
+        "url": "https://open.spotify.com/album/3H4aImRAbw3JXfzvXWdRny"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 243866,
-      "name": "Creatures Of The Night - 2022 Remastered",
-      "url": "https://open.spotify.com/track/0pd7tyhNtTKOySAvbDDbVV"
+      "duration_ms": 198933,
+      "name": "Mr. Speed - Eddie Kramer 2026 Mix",
+      "url": "https://open.spotify.com/track/3XHLc3Visn57QAi1wUR7xG"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 226773,
       "name": "Shock Me",
       "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/5fMNBSecex43kyvmPIkxqW"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Creatures Of The Night - 2022 Remastered",
+      "url": "https://open.spotify.com/track/0pd7tyhNtTKOySAvbDDbVV"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss (Remastered 1997)",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Nothin' To Lose - Remastered 1997",
-      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 282226,
       "name": "Magic Touch",
       "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss (Remastered 1997)",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Nothin' To Lose - Remastered 1997",
+      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Do You Love Me",
-      "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 185333,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Do You Love Me",
+      "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll All Nite (MOONLGHT Remix)",
-        "url": "https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn"
+        "name": "Rock And Roll Over (50th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/3VTPu8P2jlMLwCMY0wWIVr"
       },
       "artists": [
         {
           "name": "KISS",
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        },
-        {
-          "name": "MOONLGHT",
-          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
         }
       ],
-      "duration_ms": 135918,
-      "name": "Rock And Roll All Nite - MOONLGHT Remix",
-      "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
+      "duration_ms": 210373,
+      "name": "Take Me - Extended Outtake",
+      "url": "https://open.spotify.com/track/4JJDC41d84QByLRxNOLCFQ"
     }
   ],
   "unique_name": "This Is KISS",

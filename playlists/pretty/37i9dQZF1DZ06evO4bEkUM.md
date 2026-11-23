@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,340 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,449 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 10 | [\(One of Those\) Crazy Girls](https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:32 |
 | 11 | [Pressure](https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:05 |
 | 12 | [crushcrushcrush](https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:09 |
-| 13 | [I Caught Myself](https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [I Caught Myself](https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k) | 3:55 |
-| 14 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
+| 13 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
+| 14 | [I Caught Myself](https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [I Caught Myself](https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k) | 3:55 |
 | 15 | [Emergency](https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 4:00 |
 | 16 | [Monster \- Transformers Soundtrack Version](https://open.spotify.com/track/04BSvYghzdxjSJNpee36er) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Monster](https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C) | 3:20 |
-| 17 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
-| 18 | [Playing God](https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:02 |
+| 17 | [Playing God](https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:02 |
+| 18 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
 | 19 | [Conspiracy](https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:42 |
 | 20 | [Crave](https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:55 |
 | 21 | [When It Rains](https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 49 | [In the Mourning](https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:05 |
 | 50 | [Sanity \(demo\)](https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:30 |
 
-Snapshot ID: `av48AAAAAAB7NkL99Z9sS8x/5JVrv4Eh`
+Snapshot ID: `awDfAAAAAAAd6ybpI7RwMoEMC7tedT+c`

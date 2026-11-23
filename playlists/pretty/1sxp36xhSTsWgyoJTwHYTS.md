@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 268 songs - 14 hr 25 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 269 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,5 +276,6 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 266 | [La nuit pour adresse](https://open.spotify.com/track/4gvFL12l3nmL4ynUJ82yyZ) | [Olive](https://open.spotify.com/artist/6vAVYxk3IayFetuFPhSuVw) | [OLIIVE](https://open.spotify.com/album/3fGq1NUKCuNW4sBcWJvceC) | 3:41 |
 | 267 | [LA MER](https://open.spotify.com/track/49Ka6WAH2WAoJ3MXanfSwf) | [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [CT \#1](https://open.spotify.com/album/75tgk8xFzraJLyxbjVM7I5) | 2:27 |
 | 268 | [BIMMA](https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j) | [AME](https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV) | [BIMMA](https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v) | 2:57 |
+| 269 | [Kasanga](https://open.spotify.com/track/2reqGl9zaMY3Jc312uWr6A) | [YTP](https://open.spotify.com/artist/4FkXK5mCRdCOAfBWiKeX5H) | [Kasanga](https://open.spotify.com/album/4ZTd3uypHaieCb802NvQcn) | 2:15 |
 
-Snapshot ID: `AAABNh0dkZ4xJ0pHsPzBMzsnrFfR4ku7`
+Snapshot ID: `AAABN9UaVor8pdZtUUkqShDZ9S6IUMZ8`

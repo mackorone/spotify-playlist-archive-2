@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Evelina Ross
 
-1,050 songs - 2 day 3 hr 17 min
+1,051 songs - 2 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,7 @@
 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2026-04-02 | 2026-05-16 |
 | [in the woods](https://open.spotify.com/track/03lBsuElyuMhHK3Za6D8OC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [in the woods](https://open.spotify.com/album/3ITa8cc3RszOtg0VwgxBpK) | 2:26 | 2025-04-24 | 2025-08-14 |
 | [innym razem](https://open.spotify.com/track/3MUb0NoCMcg8yr2DUp9krH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [innym razem](https://open.spotify.com/album/0ZLWFl8nkIPGRiddnxROMU) | 2:48 | 2025-11-11 | 2025-12-19 |
-| [INSOMNIA](https://open.spotify.com/track/0YUG4BzNIDyoTUDdKsWW5O) | [asthma](https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [INSOMNIA](https://open.spotify.com/album/3dqGwoSyU7efxHTtR4yspm) | 2:29 | 2026-11-12 |  |
+| [INSOMNIA](https://open.spotify.com/track/0YUG4BzNIDyoTUDdKsWW5O) | [asthma](https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [INSOMNIA](https://open.spotify.com/album/3dqGwoSyU7efxHTtR4yspm) | 2:29 | 2026-11-12 | 2026-11-23 |
 | [Into You \- Spotify Singles](https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Into You \(Spotify Singles\)](https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM) | 4:06 | 2026-02-27 | 2026-03-13 |
 | [IPhone 6s](https://open.spotify.com/track/1NT8bf6kXaGfwp0iz4A48d) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [IPhone 6s](https://open.spotify.com/album/5OR6o7nR3fT2peyT2uamY2) | 3:22 | 2025-05-01 | 2025-07-04 |
 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-19 | 2025-07-11 |
@@ -989,6 +989,7 @@
 | [Wszystko się ułoży](https://open.spotify.com/track/59aqzh41cy5Cg6aSWPjXuJ) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wszystko się ułoży](https://open.spotify.com/album/3zxROJJfzFpOJEwVM1v0j5) | 2:04 | 2025-02-27 | 2025-04-04 |
 | [Wybacz](https://open.spotify.com/track/0uhhM7tSYivThVeEbDRm7N) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [Wybacz](https://open.spotify.com/album/57RgCyvk7mbVRwQ5ghiqAJ) | 2:40 | 2024-06-28 | 2024-08-02 |
 | [Wyjmij mnie](https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Wyjmij mnie](https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj) | 3:18 | 2025-09-23 | 2026-02-20 |
+| [Wykrzyczę](https://open.spotify.com/track/4JEp8d6WuX6J79ONaOinI3) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Wykrzyczę](https://open.spotify.com/album/0ds7DrxR0VOswOsQ6v9o5N) | 2:30 | 2026-11-19 |  |
 | [wylosujesz go!](https://open.spotify.com/track/7znQEgOxAQm6h19t5gw79o) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [wylosujesz go!](https://open.spotify.com/album/4P6WGTlXK1WxwhvIiSijwb) | 2:08 | 2025-08-07 | 2025-09-23 |
 | [wzrok, w którym plącze się miłość](https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [wzrok, w którym plącze się miłość](https://open.spotify.com/album/5a0sMyHqLSbHVEV6WnbL9c) | 2:17 | 2026-05-21 | 2026-07-31 |
 | [własnym](https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [własnym](https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ) | 2:33 | 2024-09-27 | 2025-01-24 |

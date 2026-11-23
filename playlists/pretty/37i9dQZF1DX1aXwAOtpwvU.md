@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:3KL9m4NwBRDjBEcybcgfyh">wane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,116 likes - 131 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,111 likes - 131 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

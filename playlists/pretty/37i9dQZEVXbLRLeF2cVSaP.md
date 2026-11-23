@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,120 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,125 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 | 50 | [Ханнамонтана](https://open.spotify.com/track/2GqzE0IXc3rq37AOdcrrvx) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:10 |
 
-Snapshot ID: `MpUp8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MpaE0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

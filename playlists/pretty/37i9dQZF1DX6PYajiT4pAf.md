@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Myke Towers & Rauw Alejandro, Dua Lipa, Kristina & Quevedo, Estopa y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,470 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,488 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,390 likes - 278 songs - 17 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,392 likes - 278 songs - 17 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 127 | [Be Cool](https://open.spotify.com/track/6ditxrULYjp6FIMRkUtzlE) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/6ORyb3qifB83laYG9nBEvR) | 4:12 |
 | 128 | [Alchemy](https://open.spotify.com/track/6ISD5HRFGMfdpwtYfv9Wbe) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:40 |
 | 129 | [God Must Be a Boogie Man](https://open.spotify.com/track/5sYbuUuy5bzb4FZjE7DzcT) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/6xgCRTWpAnisscgnOXR57V) | 4:36 |
-| 130 | [Love](https://open.spotify.com/track/0bF58EGynl31vglBoTCJz6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 5:38 |
-| 131 | [If](https://open.spotify.com/track/1Yd2N6mFlIGdXAxu2kkVPo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 5:32 |
+| 130 | [If](https://open.spotify.com/track/1Yd2N6mFlIGdXAxu2kkVPo) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 5:32 |
+| 131 | [Love](https://open.spotify.com/track/0bF58EGynl31vglBoTCJz6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 5:38 |
 | 132 | [The Ways of the Wind](https://open.spotify.com/track/6ftLDMtJi6FuV0OadnBome) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [The Bliss Album...?](https://open.spotify.com/album/69rTTwmGtmD0kChPaxN5Zq) | 4:31 |
 | 133 | [Don Juan's Reckless Daughter](https://open.spotify.com/track/2nalDGMTbm8fDZql0cAXCT) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/2FQpN1cvLOFKabqeiPURRq) | 6:37 |
 | 134 | [Otis and Marlena](https://open.spotify.com/track/0E9c6bYjlLZbDQNTWNXHvt) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:52 |
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 169 | [Introduction \- Live at the Santa Barbara County Bowl, September 9, 1979](https://open.spotify.com/track/5bqgAgayUyhrB5OQPnC9P9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shadows and Light \(Live\)](https://open.spotify.com/album/3zVRsmLuV1qVQBcHvD6aDT) | 1:55 |
 | 170 | [Lucky Girl](https://open.spotify.com/track/206LaBt2SaRhtF8QEG7Ql9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 3:59 |
 | 171 | [Solid Love](https://open.spotify.com/track/0x5oQIxpWcBFVTcWL4Ulxk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 3:05 |
-| 172 | [No Apologies \- 2025 Remaster](https://open.spotify.com/track/1ojqhRKyjXv6SKNCzf6xIZ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni's Jazz](https://open.spotify.com/album/6lhaz5gTp1D1WQieSYmJqH) | 4:20 |
-| 173 | [Eastern Rain](https://open.spotify.com/track/0ByksfVpE3YeltkOWkr8Pz) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [What We Did On Our Holidays](https://open.spotify.com/album/39BUQxMN2WPLvdivLIyrk5) | 3:34 |
+| 172 | [Eastern Rain](https://open.spotify.com/track/0ByksfVpE3YeltkOWkr8Pz) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [What We Did On Our Holidays](https://open.spotify.com/album/39BUQxMN2WPLvdivLIyrk5) | 3:34 |
+| 173 | [No Apologies \- 2025 Remaster](https://open.spotify.com/track/1ojqhRKyjXv6SKNCzf6xIZ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni's Jazz](https://open.spotify.com/album/6lhaz5gTp1D1WQieSYmJqH) | 4:20 |
 | 174 | [The Tenth World](https://open.spotify.com/track/5gCBrGMeLvH7SK3B214HXk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 6:45 |
 | 175 | [Fiction](https://open.spotify.com/track/5YZYUfDVJbwlGz8tIFMDdd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:10 |
 | 176 | [Shiny Toys](https://open.spotify.com/track/1T0VhB8dbtqrQthghKbeFR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 3:27 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 277 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 278 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AciTKgAAAABMQUwLivTDkxIsvaBuINiS`
+Snapshot ID: `AciYygAAAADE0tbffGMzVi4HIQDElV8h`

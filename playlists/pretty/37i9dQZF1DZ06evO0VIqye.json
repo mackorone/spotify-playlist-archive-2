@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62685,
+  "num_followers": 62681,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAAiGKk+QXGzbIYfon6845Li",
+  "snapshot_id": "awDfAAAAAADOnRXUhVluPS5jggCz6DyK",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
-      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is All Around",
         "url": "https://open.spotify.com/album/4gupToLDb6Q3wV8QUsxeeM"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 143640,
       "name": "Love Is All Around",
       "url": "https://open.spotify.com/track/6XnxqKeKxH9yl5VnDfKnjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
+      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
     },
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "Light of Day",
+      "url": "https://open.spotify.com/track/5n07f4xhDJbLPfeJUiJmsT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream Into It",
         "url": "https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 216865,
       "name": "Wildside - feat. Joan Jett",
       "url": "https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "Light of Day",
-      "url": "https://open.spotify.com/track/5n07f4xhDJbLPfeJUiJmsT"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Activity Grrrl",
-      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
+      "duration_ms": 239600,
+      "name": "Little Liar",
+      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
       "duration_ms": 182800,
       "name": "I Love Playin' With Fire",
       "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Little Liar",
-      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
     },
     {
       "added_at": null,
@@ -699,54 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Fun, Fun, Fun",
-      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Androgynous",
-      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Ashes in the Wind",
-      "url": "https://open.spotify.com/track/17adw1K3iXSfJ5P4j51W7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
       },
@@ -767,6 +703,54 @@
       "duration_ms": 170506,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Activity Grrrl",
+      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 216173,
       "name": "Coney Island Whitefish",
       "url": "https://open.spotify.com/track/0s0oLRYtGnZkJEQ59NjRsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Ashes in the Wind",
+      "url": "https://open.spotify.com/track/17adw1K3iXSfJ5P4j51W7F"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

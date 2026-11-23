@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3313,
+  "num_followers": 3314,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADEBGbIlvFeq0DnhIJrOJ6g",
+  "snapshot_id": "awDfAAAAAADyWV/q73d3sba3HWjN/ZbC",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Single In September",
-        "url": "https://open.spotify.com/album/6N04UZxm95ds9VHro2wI4x"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 195037,
-      "name": "Single In September",
-      "url": "https://open.spotify.com/track/2OigxU9wBGUMndN0PTQQB5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Questions",
         "url": "https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 179226,
       "name": "20 Questions",
       "url": "https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Single In September",
+        "url": "https://open.spotify.com/album/6N04UZxm95ds9VHro2wI4x"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 195037,
+      "name": "Single In September",
+      "url": "https://open.spotify.com/track/2OigxU9wBGUMndN0PTQQB5"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 169000,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF"
+      "duration_ms": 210200,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA"
+      "duration_ms": 169000,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF"
     },
     {
       "added_at": null,

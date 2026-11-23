@@ -1329,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "The Road To Escondido: Enhanced Edition",
+        "url": "https://open.spotify.com/album/6W5snG4IHomkQFnwwzqTV0"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "I Got To Find My Baby - Bonus Track",
+      "url": "https://open.spotify.com/track/2wnErnWzZHwEDqIcqMF3m0"
+    },
+    {
+      "album": {
         "name": "461 Ocean Boulevard",
         "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
       },
@@ -2340,7 +2362,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 283280,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
@@ -2942,7 +2964,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 271760,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw"
@@ -2960,7 +2982,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"

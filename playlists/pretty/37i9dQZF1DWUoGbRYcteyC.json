@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1848625,
+  "num_followers": 1848566,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-11-19 16:20:41",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
+    },
+    {
+      "added_at": "2026-11-19 16:20:41",
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2026-11-19 16:20:41",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
     },
     {
       "added_at": "2026-11-19 16:20:41",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-11-19 16:20:41",
       "album": {
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+    },
+    {
+      "added_at": "2026-11-19 16:20:41",
+      "album": {
         "name": "A Veces A Besos (Remix)",
         "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
       },
@@ -367,22 +387,18 @@
     {
       "added_at": "2026-11-19 16:20:41",
       "album": {
-        "name": "Lejos de la Ciudad (con Camilo)",
-        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 187358,
-      "name": "Lejos de la Ciudad - con Camilo",
-      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-11-19 16:20:41",
@@ -399,22 +415,6 @@
       "duration_ms": 159776,
       "name": "Wapa",
       "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
-    },
-    {
-      "added_at": "2026-11-19 16:20:41",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-11-19 16:20:41",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-11-19 16:20:41",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
-    },
-    {
-      "added_at": "2026-11-19 16:20:41",
-      "album": {
         "name": "LA FORMULA",
         "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 158769,
       "name": "EN TU MIRADAaaaa",
       "url": "https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF"
+    },
+    {
+      "added_at": "2026-11-19 16:20:41",
+      "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
     },
     {
       "added_at": "2026-11-19 16:20:41",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-11-19 16:20:41",
       "album": {
-        "name": "que seas t\u00fa -- & amor herido . . .",
-        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "que seas t\u00fa --",
-      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
-    },
-    {
-      "added_at": "2026-11-19 16:20:41",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 125482,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
+    },
+    {
+      "added_at": "2026-11-19 16:20:41",
+      "album": {
+        "name": "que seas t\u00fa -- & amor herido . . .",
+        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "que seas t\u00fa --",
+      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
     },
     {
       "added_at": "2026-11-19 16:20:41",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-11-19 16:20:41",
       "album": {
-        "name": "En Esta Boca",
-        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 170742,
-      "name": "En Esta Boca",
-      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
-    },
-    {
-      "added_at": "2026-11-19 16:20:41",
-      "album": {
         "name": "saman\u00e1",
         "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 195970,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+    },
+    {
+      "added_at": "2026-11-19 16:20:41",
+      "album": {
+        "name": "En Esta Boca",
+        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 170742,
+      "name": "En Esta Boca",
+      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
     },
     {
       "added_at": "2026-11-19 16:20:41",

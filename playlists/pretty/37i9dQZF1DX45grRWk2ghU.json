@@ -1,6 +1,6 @@
 {
   "description": "Every Lollapalooza a new main pop girl rises ",
-  "num_followers": 882516,
+  "num_followers": 882624,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 237894,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
-    },
-    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Pink Friday (Complete Edition)",
@@ -395,6 +379,22 @@
       "duration_ms": 200013,
       "name": "Super Bass",
       "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
     },
     {
       "added_at": "2026-10-23 18:27:20",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "The New Classic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 199938,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 211920,
       "name": "Tia Tamera (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "The New Classic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
-      },
-      "artists": [
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 199938,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
     },
     {
       "added_at": "2026-10-23 18:27:20",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Lip Gloss (Main Version)",
         "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 219773,
       "name": "Lip Gloss",
       "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "S&M Remix",
-        "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 257293,
-      "name": "S&M Remix",
-      "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "I LUV IT (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "S&M Remix",
+        "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 257293,
+      "name": "S&M Remix",
+      "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
     },
     {
       "added_at": "2024-08-03 15:31:45",

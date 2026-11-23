@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,458 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,465 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 45 | [Niemand](https://open.spotify.com/track/1sbFk65JFwzBGGTMJln6dV) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 3:49 |
 | 46 | [POPULAIR](https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [POPULAIR](https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj) | 3:12 |
 | 47 | [Oceaan](https://open.spotify.com/track/6CqLX2aOY05KCXb78XUsdF) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Het Is Al Laat Toch](https://open.spotify.com/album/3tcqgzMjPtrAj1K8kJTl5s) | 2:44 |
-| 48 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 48 | [Iris](https://open.spotify.com/track/3zslQ5Mhpez7nivcOs3dXn) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4kBJTOKS4XeN7FQVG6PoOK) | 4:49 |
 | 49 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
 | 50 | [Alles Is Even Goed](https://open.spotify.com/track/0B5p9XLxlDpQf9SQQ41TGd) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:41 |
 
-Snapshot ID: `MpUp8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MpaE0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 94228,
+  "num_followers": 94311,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACEANuasmnQNbYnScLNS2M8",
+  "snapshot_id": "awDfAAAAAADpyzdhC1EpUKmwUgs5BYNz",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jogodo",
-        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188861,
-      "name": "Jogodo",
-      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 157714,
       "name": "Lonely At The Top",
       "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogodo",
+        "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188861,
+      "name": "Jogodo",
+      "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop 🇮🇹 VEROSIMILE in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,787 likes - 101 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,785 likes - 101 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

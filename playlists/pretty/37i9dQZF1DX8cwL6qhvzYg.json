@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
-  "num_followers": 461433,
+  "num_followers": 461475,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -655,6 +655,26 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Acarey Ya Lleg\u00f3",
         "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
       },
@@ -695,22 +715,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -727,22 +731,18 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Cuando No Estas Conmigo",
-        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 201367,
-      "name": "Cuando No Estas Conmigo",
-      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Fuera De Control",
+        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Cumbia Del Sol",
+      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Fuera De Control",
-        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Cumbia Del Sol",
-      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Como un Dulce Poema, Vol. 3",
-        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
-      },
-      "artists": [
-        {
-          "name": "Rossy War y Su Banda Kaliente",
-          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Nunca Pense Llorar",
-      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Limonadas Verdes",
         "url": "https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 181666,
       "name": "Limonadas Verdes",
       "url": "https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Como un Dulce Poema, Vol. 3",
+        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+      },
+      "artists": [
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Nunca Pense Llorar",
+      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1227,22 +1227,6 @@
       "duration_ms": 235240,
       "name": "Cari\u00f1ito Sin MI",
       "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Adicto a Tu Piel (Rebajada)",
-        "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
-      },
-      "artists": [
-        {
-          "name": "Yulios Kumbia",
-          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Adicto a Tu Piel (Rebajada)",
-      "url": "https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Adicto a Tu Piel (Rebajada)",
+        "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
+      },
+      "artists": [
+        {
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Adicto a Tu Piel (Rebajada)",
+      "url": "https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Cumbia de Marisol",
         "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "En Contacto (En Vivo)",
         "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 172117,
       "name": "Carola - En Vivo",
       "url": "https://open.spotify.com/track/1V7MdIoW9wse9McgedyK0o"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 709545,
-      "name": "Medley Apache - En Vivo",
-      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Ya No Hay Beatles (2026 Remasterizada)",
         "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 168917,
       "name": "Ya No Hay Beatles - 2026 Remasterizada",
       "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 709545,
+      "name": "Medley Apache - En Vivo",
+      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "No Es Mi Problema",
-        "url": "https://open.spotify.com/album/1APC27NV7wTlG7nJyA2elk"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Bravo de Marcelo Vega",
-          "url": "https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU"
-        }
-      ],
-      "duration_ms": 220554,
-      "name": "No Es Mi Problema",
-      "url": "https://open.spotify.com/track/1em6HV9MjRs1Zc14BQxfBK"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "La Ni\u00f1a Del Telefono",
         "url": "https://open.spotify.com/album/4kQU0krh0xtWW2Ox2MWsBF"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 231804,
       "name": "La Ni\u00f1a Del Telefono",
       "url": "https://open.spotify.com/track/4n1jsARd9OG4o0H2BJdoMU"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "No Es Mi Problema",
+        "url": "https://open.spotify.com/album/1APC27NV7wTlG7nJyA2elk"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Bravo de Marcelo Vega",
+          "url": "https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU"
+        }
+      ],
+      "duration_ms": 220554,
+      "name": "No Es Mi Problema",
+      "url": "https://open.spotify.com/track/1em6HV9MjRs1Zc14BQxfBK"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Desde Estacion Corral Hasta Los Hornos Sonora",
         "url": "https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
       },
@@ -1643,30 +1643,6 @@
       "duration_ms": 151928,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "\u00d1EROSTARS",
-        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Gabriel C",
-          "url": "https://open.spotify.com/artist/5MXG4Q2qBDsT8AGcTX0nAj"
-        }
-      ],
-      "duration_ms": 198843,
-      "name": "Coronada",
-      "url": "https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1703,6 +1679,30 @@
       "duration_ms": 165887,
       "name": "Un Cari\u00f1o Como Tu - En Vivo",
       "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Gabriel C",
+          "url": "https://open.spotify.com/artist/5MXG4Q2qBDsT8AGcTX0nAj"
+        }
+      ],
+      "duration_ms": 198843,
+      "name": "Coronada",
+      "url": "https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Tarjeta de Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/25oQJ8sgrHVw4PWSiZfz6G"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Ca\u00f1onera",
-          "url": "https://open.spotify.com/artist/6RIn3Qij1ciRIgOzvayySD"
-        }
-      ],
-      "duration_ms": 203415,
-      "name": "Te Espero en el Cielo",
-      "url": "https://open.spotify.com/track/7bfwPC7Yng1uKEZcoBguCV"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/3PatPHb6rdyOlPx6NVtnhO"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Tarjeta de Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/25oQJ8sgrHVw4PWSiZfz6G"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Ca\u00f1onera",
+          "url": "https://open.spotify.com/artist/6RIn3Qij1ciRIgOzvayySD"
+        }
+      ],
+      "duration_ms": 203415,
+      "name": "Te Espero en el Cielo",
+      "url": "https://open.spotify.com/track/7bfwPC7Yng1uKEZcoBguCV"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1851,54 +1851,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "El Zapatazo Tribal (Remix)",
-        "url": "https://open.spotify.com/album/5ZBEwO4cOHLjawYDniasMh"
-      },
-      "artists": [
-        {
-          "name": "DISTINTO NORTE",
-          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
-        }
-      ],
-      "duration_ms": 197462,
-      "name": "El Zapatazo Tribal (Remix)",
-      "url": "https://open.spotify.com/track/6SuFWv4mDu8FZWtcq87evB"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "YO SOY TU MAESTRO Passion Vallenata (Parranda Mu)",
-        "url": "https://open.spotify.com/album/5WVGKs68348R4dbI2AxS4Z"
-      },
-      "artists": [
-        {
-          "name": "APV Passion Vallenata",
-          "url": "https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X"
-        }
-      ],
-      "duration_ms": 286603,
-      "name": "YO SOY TU MAESTRO Passion Vallenata (Parranda Mu)",
-      "url": "https://open.spotify.com/track/6LaEYh9N6bbp0QBZgaWETP"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "Cabo E",
-      "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Me Voy al Amanecer",
         "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
@@ -1919,6 +1871,38 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "El Zapatazo Tribal (Remix)",
+        "url": "https://open.spotify.com/album/5ZBEwO4cOHLjawYDniasMh"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        }
+      ],
+      "duration_ms": 197462,
+      "name": "El Zapatazo Tribal (Remix)",
+      "url": "https://open.spotify.com/track/6SuFWv4mDu8FZWtcq87evB"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "Cabo E",
+      "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Vampiresa",
         "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 298353,
       "name": "Vampiresa",
       "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "YO SOY TU MAESTRO Passion Vallenata (Parranda Mu)",
+        "url": "https://open.spotify.com/album/5WVGKs68348R4dbI2AxS4Z"
+      },
+      "artists": [
+        {
+          "name": "APV Passion Vallenata",
+          "url": "https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X"
+        }
+      ],
+      "duration_ms": 286603,
+      "name": "YO SOY TU MAESTRO Passion Vallenata (Parranda Mu)",
+      "url": "https://open.spotify.com/track/6LaEYh9N6bbp0QBZgaWETP"
     },
     {
       "added_at": "2026-11-13 18:45:23",

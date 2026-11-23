@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2804003,
+  "num_followers": 2804001,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAC3j0r9D7T6C3iLrRJCpTWk",
+  "snapshot_id": "awDfAAAAAADNt0dIKdvXINdxxnOBvk0Y",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hollywood's Bleeding",
-      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 209038,
       "name": "Losers (Feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hollywood's Bleeding",
+      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
     },
     {
       "added_at": null,
@@ -751,42 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "August 26",
-        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 213746,
-      "name": "Fuck",
-      "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 165175,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jackie Chan",
         "url": "https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt"
       },
@@ -815,6 +779,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 165175,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "August 26",
+        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 213746,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F-1 Trillion: Long Bed",
         "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
       },
@@ -827,38 +827,6 @@
       "duration_ms": 202638,
       "name": "Hey Mercedes",
       "url": "https://open.spotify.com/track/1uukncdtRehiZS3SMHOxYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "August 26",
-        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 301506,
-      "name": "Hollywood Dreams / Come Down",
-      "url": "https://open.spotify.com/track/2AWeWGtArpcK4ZTpPnXGfR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 204952,
-      "name": "Too Cool To Die",
-      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
     },
     {
       "added_at": null,
@@ -887,6 +855,38 @@
       "duration_ms": 214254,
       "name": "Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",
       "url": "https://open.spotify.com/track/7rdUtXasA973gmrr2Xxh3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 204952,
+      "name": "Too Cool To Die",
+      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "August 26",
+        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 301506,
+      "name": "Hollywood Dreams / Come Down",
+      "url": "https://open.spotify.com/track/2AWeWGtArpcK4ZTpPnXGfR"
     },
     {
       "added_at": null,

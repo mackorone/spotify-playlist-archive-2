@@ -4,7 +4,7 @@
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 1 min
+96 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 | 2023-08-08 |  |
 | [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 | 2024-08-09 |  |
 | [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 | 2023-08-08 | 2024-08-09 |
+| [Correteando El Sueño](https://open.spotify.com/track/3p35HhV0nqCaIsZKRC7uqB) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Correteando El Sueño](https://open.spotify.com/album/5GxNxe1N2Adw3t40WKb9sv) | 2:50 | 2026-11-23 |  |
 | [Corrido De Feliciano](https://open.spotify.com/track/7upt6IQmVLTZQ1nCMlhieZ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:13 | 2024-04-15 | 2025-12-11 |
 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 | 2023-08-08 |  |
 | [Cuidando El Territorio](https://open.spotify.com/track/0RR9X1AxLrdldzwwIVrHYf) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/4wVfnheoToJD1kYyjpjcGZ) | 3:06 | 2024-09-06 |  |
@@ -31,7 +32,7 @@
 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 | 2023-08-08 |  |
 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 | 2023-08-08 |  |
 | [Deja De Joder](https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 2:36 | 2023-08-08 |  |
-| [Desde Antes De Nacer](https://open.spotify.com/track/0qAmzoy2fliiGSpiZSxN6h) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mi Hubiera Favorito](https://open.spotify.com/album/09COGha3peqybGi1bThwsj) | 2:56 | 2026-09-13 |  |
+| [Desde Antes De Nacer](https://open.spotify.com/track/0qAmzoy2fliiGSpiZSxN6h) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mi Hubiera Favorito](https://open.spotify.com/album/09COGha3peqybGi1bThwsj) | 2:56 | 2026-09-13 | 2026-11-23 |
 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 | 2023-08-08 | 2024-06-23 |
 | [Días Buenos, Días Malos](https://open.spotify.com/track/6lZGi8KCx0JGfo6jf0sUnv) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:15 | 2023-10-10 | 2023-12-30 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/3XUfJVTcGDt846jDjnBs3W) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Las Culebras](https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte) | 2:32 | 2024-06-15 | 2025-04-04 |

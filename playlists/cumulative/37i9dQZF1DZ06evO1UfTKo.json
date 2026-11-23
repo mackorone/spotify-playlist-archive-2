@@ -834,7 +834,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 221026,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs"
@@ -1288,6 +1288,24 @@
       "duration_ms": 183800,
       "name": "Si No Me Falla El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0SGdWCUiPeb2Q9sqBoJzGc"
+    },
+    {
+      "album": {
+        "name": "Siempre Para Arriba",
+        "url": "https://open.spotify.com/album/2AYsMgvFIUXHULXjTOFfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "Siempre Para Arriba",
+      "url": "https://open.spotify.com/track/6aOxAL1cgF3ar7Z7ZBFcl5"
     },
     {
       "album": {

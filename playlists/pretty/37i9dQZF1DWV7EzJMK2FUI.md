@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,359,170 likes - 229 songs - 12 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,359,619 likes - 229 songs - 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

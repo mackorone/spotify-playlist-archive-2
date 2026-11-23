@@ -4,7 +4,7 @@
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-149 songs - 7 hr 20 min
+150 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alicia \(with Lil Baby\)](https://open.spotify.com/track/6LU2Kbm1QiNx3LgFNwQEbH) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Alicia \(with Lil Baby\)](https://open.spotify.com/album/1miVPmKXGnxetl1HF4MXvU) | 3:33 | 2026-05-28 | 2026-06-23 |
 | [All In](https://open.spotify.com/track/0zlru783fmr588D5RY9ERU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:36 | 2024-07-02 | 2024-07-03 |
 | [All My Life](https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:10 | 2024-04-16 | 2024-10-03 |
-| [All My Partnas \(feat\. Future, Young Thug & Rylo Rodriguez\)](https://open.spotify.com/track/4bZoNVFloslp1MJSugAXdH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 3:09 | 2026-11-12 |  |
+| [All My Partnas \(feat\. Future, Young Thug & Rylo Rodriguez\)](https://open.spotify.com/track/4bZoNVFloslp1MJSugAXdH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 3:09 | 2026-11-12 | 2026-11-23 |
 | [All Of A Sudden](https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:49 | 2024-05-10 | 2024-07-24 |
 | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL) | 3:39 | 2025-11-03 | 2026-01-19 |
 | [ALL TEN \(feat\. Lil Baby\)](https://open.spotify.com/track/5jol33TYJ3H5v5zRD9fOtv) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [ALL TEN \(feat\. Lil Baby\)](https://open.spotify.com/album/5KWhVrUd9CvZMuGya680x4) | 3:16 | 2024-08-06 | 2024-09-22 |
@@ -157,5 +157,6 @@
 | [Who I Want](https://open.spotify.com/track/3vJKLsUYcC7mARUTOMUPaJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:53 | 2024-07-23 | 2024-07-24 |
 | [Woah](https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:03 | 2024-01-12 |  |
 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 | 2024-01-12 |  |
+| [Your Fault](https://open.spotify.com/track/5xjJQcuK7xhY0gz5lmZX7N) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 3:13 | 2026-11-23 |  |
 
 \*This playlist was first scraped on 2024-01-13. Prior content cannot be recovered.

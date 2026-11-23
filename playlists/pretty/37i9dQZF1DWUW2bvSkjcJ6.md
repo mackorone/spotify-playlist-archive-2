@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Dua Lipa, Sido, Helene Fischer, Zartmann, reezy & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,644 likes - 84 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,610 likes - 84 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

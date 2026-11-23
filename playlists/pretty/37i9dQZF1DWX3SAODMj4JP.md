@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,725 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,734 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 45 | [Filho \- Acústico](https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Leidy Murilho Acústico](https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu) | 3:47 |
 | 46 | [Pra Viver \- Acústico](https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa) | [Praviver Worship](https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4) | [Pra Viver Project](https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS) | 3:15 |
 | 47 | [Sobre Viver](https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Do Meu Interior](https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I) | 2:39 |
-| 48 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
-| 49 | [Mão No Arado](https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Mão No Arado](https://open.spotify.com/album/6RLHnVKEmEwjG2r5KRCIPx) | 3:30 |
-| 50 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
+| 48 | [Mão No Arado](https://open.spotify.com/track/5ugXpVjpBle03j9zWdl42w) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Mão No Arado](https://open.spotify.com/album/6RLHnVKEmEwjG2r5KRCIPx) | 3:30 |
+| 49 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
+| 50 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 |
 | 51 | [Eu Te Amo, Senhor](https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY) | [Léo Moreno](https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP) | [Eu Te Amo, Senhor](https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU) | 5:26 |
 | 52 | [Oração](https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Oração](https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W) | 4:37 |
 | 53 | [Lugar Secreto](https://open.spotify.com/track/4WD09loD2U3y8ILMFdCLyj) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Robert Lucas](https://open.spotify.com/artist/4drjGi7LoMx8QTi4Vl6RUp) | [Lugar Secreto • BRAVE Pocket](https://open.spotify.com/album/417dfJjXHo9tjYf9Ox6IOV) | 3:38 |

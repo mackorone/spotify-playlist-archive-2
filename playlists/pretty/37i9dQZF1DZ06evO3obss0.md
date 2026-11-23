@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,403 likes - 42 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,484 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 26 | [Genesis, pt\. ii](https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 3:28 |
 | 27 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
 | 28 | [Perfect Day \- featuring RAYE](https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [To Love Somebody](https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1) | 4:01 |
-| 29 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
-| 30 | [Grandma Calls The Boy Bad News \- From F1® The Movie](https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Grandma Calls The Boy Bad News \(From F1® The Movie\)](https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI) | 3:26 |
+| 29 | [Grandma Calls The Boy Bad News \- From F1® The Movie](https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Grandma Calls The Boy Bad News \(From F1® The Movie\)](https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI) | 3:26 |
+| 30 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
 | 31 | [Ferrari Horses](https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Blue Print – Us Vs\. Them](https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX) | 3:45 |
 | 32 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
 | 33 | [Genesis.](https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 7:00 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 41 | [Change Your Mind](https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:00 |
 | 42 | [The Thrill Is Gone Requiem\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/6e1u6VSqa1f4zITKX4aTmt) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 2:23 |
 
-Snapshot ID: `av48AAAAAADJpjW59ISIltoArj9lqHgp`
+Snapshot ID: `awDfAAAAAACrHJUTjJvczQX44TDXqnSu`

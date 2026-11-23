@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 80's! Cover: Andr\u00e9 Hazes",
-  "num_followers": 77611,
+  "num_followers": 77638,
   "original_name": "80's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD+6c+cZF94+NbasCVbl7hu8OUk2",
+  "snapshot_id": "AAAAAJjhhmVolWT80FENXc8undnF9ZDN",
   "tracks": [
     {
       "added_at": "2022-10-11 07:08:55",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
-        "name": "Nu En Dan - 30 Jaar Herman Van Veen",
-        "url": "https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5"
-      },
-      "artists": [
-        {
-          "name": "Herman van Veen",
-          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Toveren",
-      "url": "https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
         "name": "Monsterhits",
         "url": "https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 246840,
       "name": "Een Kopje Koffie",
       "url": "https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
+        "name": "Nu En Dan - 30 Jaar Herman Van Veen",
+        "url": "https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Toveren",
+      "url": "https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5"
     },
     {
       "added_at": "2022-10-11 07:08:55",

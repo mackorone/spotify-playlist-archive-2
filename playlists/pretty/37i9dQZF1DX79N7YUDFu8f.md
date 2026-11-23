@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,808 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,802 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAATPMsTCJR4xUq/Q8meObZL",
+  "snapshot_id": "awDfAAAAAACW1UKajIndR2F63xqRpAx+",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turning My Money Over (Quadruple Album)",
-        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
+        "name": "RUN IT BACK",
+        "url": "https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy"
       },
       "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 172165,
-      "name": "Sucka Ducking",
-      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
+      "duration_ms": 137860,
+      "name": "RUN IT BACK",
+      "url": "https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUN IT BACK",
-        "url": "https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy"
+        "name": "Turning My Money Over (Quadruple Album)",
+        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
       },
       "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 137860,
-      "name": "RUN IT BACK",
-      "url": "https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk"
+      "duration_ms": 172165,
+      "name": "Sucka Ducking",
+      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Connected And Respected",
         "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
       },
@@ -659,22 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forgotten Island (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/35c85zu97RJsuQm9iefPoG"
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
       "artists": [
         {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 118640,
-      "name": "Double Up",
-      "url": "https://open.spotify.com/track/6x73uFEIQkOpG1g5mMmBxu"
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forgotten Island (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/35c85zu97RJsuQm9iefPoG"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118640,
+      "name": "Double Up",
+      "url": "https://open.spotify.com/track/6x73uFEIQkOpG1g5mMmBxu"
     },
     {
       "added_at": null,
@@ -771,62 +771,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Respectfully",
-        "url": "https://open.spotify.com/album/5hVS87XMV1UBHMdPQtLPOn"
+        "name": "DUMBLR (feat. E-40 & Kreayshawn)",
+        "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
       },
       "artists": [
-        {
-          "name": "Grand Nationxl",
-          "url": "https://open.spotify.com/artist/4fMApbC6SARLscJza8qtxn"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Mani Draper",
-          "url": "https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k"
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
         },
         {
-          "name": "Kevin Allen",
-          "url": "https://open.spotify.com/artist/31d700d8caRWNRcYWrqV1B"
-        },
-        {
-          "name": "Brookfield Duece",
-          "url": "https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv"
-        },
-        {
-          "name": "Passwurdz",
-          "url": "https://open.spotify.com/artist/5wTcjhNkm9cEGjzRad9ZUV"
+          "name": "Kreayshawn",
+          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
         }
       ],
-      "duration_ms": 165957,
-      "name": "Respectfully",
-      "url": "https://open.spotify.com/track/5LaFUm8RJq7ULiVd0JdKV8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 169566,
-      "name": "WHO ELSE YOU KNOW!?",
-      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
+      "duration_ms": 164549,
+      "name": "DUMBLR (feat. E-40 & Kreayshawn)",
+      "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
     },
     {
       "added_at": null,
@@ -851,26 +815,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUMBLR (feat. E-40 & Kreayshawn)",
-        "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
       "artists": [
         {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        },
+        {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Kreayshawn",
-          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
         }
       ],
-      "duration_ms": 164549,
-      "name": "DUMBLR (feat. E-40 & Kreayshawn)",
-      "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
+      "duration_ms": 169566,
+      "name": "WHO ELSE YOU KNOW!?",
+      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
     },
     {
       "added_at": null,
@@ -935,6 +899,42 @@
       "duration_ms": 217710,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Respectfully",
+        "url": "https://open.spotify.com/album/5hVS87XMV1UBHMdPQtLPOn"
+      },
+      "artists": [
+        {
+          "name": "Grand Nationxl",
+          "url": "https://open.spotify.com/artist/4fMApbC6SARLscJza8qtxn"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mani Draper",
+          "url": "https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k"
+        },
+        {
+          "name": "Kevin Allen",
+          "url": "https://open.spotify.com/artist/31d700d8caRWNRcYWrqV1B"
+        },
+        {
+          "name": "Brookfield Duece",
+          "url": "https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv"
+        },
+        {
+          "name": "Passwurdz",
+          "url": "https://open.spotify.com/artist/5wTcjhNkm9cEGjzRad9ZUV"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Respectfully",
+      "url": "https://open.spotify.com/track/5LaFUm8RJq7ULiVd0JdKV8"
     },
     {
       "added_at": null,

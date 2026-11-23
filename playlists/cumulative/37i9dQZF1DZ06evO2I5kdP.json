@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 146000,
       "name": "A Secret",
       "url": "https://open.spotify.com/track/1W36R0sUe6XOjOnpmMDRsc"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 110360,
       "name": "Arp",
       "url": "https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 213053,
       "name": "Brain Fog",
       "url": "https://open.spotify.com/track/4LIkDeZ5VvHtoYbTtfnYHu"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 239596,
       "name": "Kimona I",
       "url": "https://open.spotify.com/track/5h3xuINapHUkdGtMNJjMjX"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 237586,
       "name": "Marmara Beach",
       "url": "https://open.spotify.com/track/3ptKik0XOmH44o1XMYL4gl"
@@ -1497,6 +1497,32 @@
     },
     {
       "album": {
+        "name": "Reflections Vol. 3: Water Poems",
+        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544000,
+      "name": "Scorpio Purple Skies",
+      "url": "https://open.spotify.com/track/7H933tZwo3zm54joUy4UO8"
+    },
+    {
+      "album": {
         "name": "No. 3",
         "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
       },
@@ -1986,7 +2012,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 283586,
       "name": "Vhs",
       "url": "https://open.spotify.com/track/7GI3EonVrUfvUJ5fQ3sWB5"
@@ -2004,7 +2030,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 118280,
       "name": "Vostok",
       "url": "https://open.spotify.com/track/3iaMERxETB328X4iiCYMJj"

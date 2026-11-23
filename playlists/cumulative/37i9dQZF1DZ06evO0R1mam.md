@@ -4,7 +4,7 @@
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-94 songs - 8 hr 2 min
+95 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Everything Will Be Alright \- Live](https://open.spotify.com/track/0MdFa9NYbDijPriUTqjcwN) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:30 | 2026-04-26 |  |
 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 | 2023-03-04 | 2024-11-13 |
 | [Get Up \- Live](https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 6:19 | 2023-03-09 | 2024-07-08 |
-| [Gimmie My Stuff Back \- Reprise](https://open.spotify.com/track/4vBPlpKw18uhvx8rIMJW13) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [V20 First Semester](https://open.spotify.com/album/0mFQHLHAn4JISTyPlYvIG4) | 1:40 | 2026-11-15 |  |
+| [Gimmie My Stuff Back \- Reprise](https://open.spotify.com/track/4vBPlpKw18uhvx8rIMJW13) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [V20 First Semester](https://open.spotify.com/album/0mFQHLHAn4JISTyPlYvIG4) | 1:40 | 2026-11-15 | 2026-11-23 |
 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 | 2024-08-26 |  |
 | [Glory To God Forever / There Is Nothing Like / Way Maker \- Live](https://open.spotify.com/track/4uCaoBzTg4t2F1FqjGrdlO) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Sharon Ann](https://open.spotify.com/artist/7qJwHqf7S1UzhV0BuzU9yf) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 5:06 | 2024-05-15 |  |
 | [Good](https://open.spotify.com/track/6VQ74D15NKcHaVYVp8nizw) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:04 | 2023-03-04 | 2025-03-01 |
@@ -83,6 +83,7 @@
 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 | 2023-03-04 |  |
 | [Stayed On You \- Live](https://open.spotify.com/track/66H0Pa8ikurp1rrNGF1fCt) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 3:54 | 2024-06-13 | 2024-07-23 |
 | [Stayed On You \- Live In LA](https://open.spotify.com/track/4o0NZqA1ZTWZv11LUuzCXN) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:48 | 2025-08-18 | 2026-01-24 |
+| [Still Have Joy \- Intro](https://open.spotify.com/track/3L0gTQNddVbAVvjEDI10aQ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [V20 First Semester](https://open.spotify.com/album/0mFQHLHAn4JISTyPlYvIG4) | 2:30 | 2026-11-23 |  |
 | [Still Have Joy \- Live](https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:07 | 2023-03-04 | 2026-11-20 |
 | [Take Over](https://open.spotify.com/track/2fY0CRWw4uzISL291dQymx) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 6:18 | 2023-03-04 | 2024-08-26 |
 | [Taste 'N' See](https://open.spotify.com/track/62NfErhx30BxdqNQaJEePf) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Life](https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P) | 4:03 | 2024-01-31 | 2024-02-15 |

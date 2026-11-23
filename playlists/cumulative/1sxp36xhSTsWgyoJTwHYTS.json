@@ -2199,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Kasanga",
+        "url": "https://open.spotify.com/album/4ZTd3uypHaieCb802NvQcn"
+      },
+      "artists": [
+        {
+          "name": "YTP",
+          "url": "https://open.spotify.com/artist/4FkXK5mCRdCOAfBWiKeX5H"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "Kasanga",
+      "url": "https://open.spotify.com/track/2reqGl9zaMY3Jc312uWr6A"
+    },
+    {
+      "album": {
         "name": "Kicking",
         "url": "https://open.spotify.com/album/39QrOfe7UY5sKTGsyJJr2M"
       },

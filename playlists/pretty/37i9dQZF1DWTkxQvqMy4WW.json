@@ -1,6 +1,6 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3400452,
+  "num_followers": 3400378,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -195,18 +195,18 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 293293,
-      "name": "Tennessee Whiskey",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 224853,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+      "duration_ms": 182982,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -731,22 +747,6 @@
       "duration_ms": 189986,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 182982,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 227426,
       "name": "Die A Happy Man",
       "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Old No. 7",
         "url": "https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 199392,
       "name": "Just Like Johnny",
       "url": "https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Hard 2 Love",
-        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Hard To Love",
-      "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Pain Killer",
         "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 193320,
       "name": "Girl Crush",
       "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "Hard 2 Love",
+        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "She Won't Be Lonely Long",
-        "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "She Won't Be Lonely Long",
-      "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 182666,
       "name": "Singles You Up",
       "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "She Won't Be Lonely Long",
+        "url": "https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "She Won't Be Lonely Long",
+      "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Hunter Hayes (Encore)",
         "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Red River Blue (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
+        "name": "Summer Forever",
+        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 210720,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
+      "duration_ms": 234306,
+      "name": "Do I Make You Wanna",
+      "url": "https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I"
     }
   ],
   "unique_name": "Chillin' on a Dirt Road",

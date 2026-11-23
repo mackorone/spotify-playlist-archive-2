@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 425239,
+  "num_followers": 425234,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Ahyre",
-        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
-      },
-      "artists": [
-        {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        }
-      ],
-      "duration_ms": 269196,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "los d\u00edas en la sala",
         "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 163411,
       "name": "siempre te voy a querer",
       "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Ahyre",
+        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        }
+      ],
+      "duration_ms": 269196,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Bailar Contigo",
         "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 220720,
       "name": "Bailar Contigo",
       "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "M\u00e9ritos Y Merecimientos",
-        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
-      },
-      "artists": [
-        {
-          "name": "Fernando Cabrera",
-          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "M\u00e9ritos Y Merecimientos",
-      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "M\u00e9ritos Y Merecimientos",
+        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
+      },
+      "artists": [
+        {
+          "name": "Fernando Cabrera",
+          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "M\u00e9ritos Y Merecimientos",
+      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Algo Es Mejor",
-        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Besos en la Espalda",
         "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 210266,
       "name": "Tardes de Melancol\u00eda",
       "url": "https://open.spotify.com/track/51mmo3YuNgD3SvK7G5HHcv"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Algo Es Mejor",
+        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "Decir que s\u00ed",
+        "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 138065,
+      "name": "Dije que s\u00ed",
+      "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Vos",
         "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
       },
@@ -1291,6 +1307,26 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Berrinche",
         "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
       },
@@ -1327,38 +1363,18 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Decir que s\u00ed",
-        "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
       },
       "artists": [
         {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 138065,
-      "name": "Dije que s\u00ed",
-      "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "El Verdadero",
-        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
-        }
-      ],
-      "duration_ms": 163682,
-      "name": "Antiguo y moderno",
-      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
+      "duration_ms": 200573,
+      "name": "Tan temperamental",
+      "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1379,22 +1395,6 @@
       "duration_ms": 181500,
       "name": "No me Arrepiento de este Amor",
       "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "Artificio",
-        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Tan temperamental",
-      "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Mi manera de querer",
         "url": "https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 66666,
       "name": "Lo que elegiste.",
       "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-10-13 18:55:37",

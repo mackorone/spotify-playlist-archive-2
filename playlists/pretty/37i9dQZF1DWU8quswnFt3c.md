@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Miss Monique from Ukraine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,472 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,429 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 11 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
 | 12 | [I Did Something Bad](https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:58 |
 | 13 | [Chemical Light](https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [Greetings From Bleak St.](https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1) | 3:46 |
-| 14 | [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 |
+| 14 | [Ice In My OJ](https://open.spotify.com/track/21cbaIB8ks3dag4cqiG4zz) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 2:11 |
 | 15 | [Vidlik](https://open.spotify.com/track/1Q73nKAPXcMfwXp51af9VU) | [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [Vidlik](https://open.spotify.com/album/0Z2DrHMA3KnytxPnmYf3eW) | 4:39 |
-| 16 | [Ice In My OJ](https://open.spotify.com/track/21cbaIB8ks3dag4cqiG4zz) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 2:11 |
+| 16 | [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 |
 | 17 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 |
 | 18 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
 | 19 | [If I Let You](https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:58 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [Every Aching Minute](https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartsong](https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G) | 4:51 |
 | 40 | [RUDE](https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [RUDE](https://open.spotify.com/album/6XfoImzNgOYzcLVp7ybzCz) | 2:44 |
 | 41 | [Smoke](https://open.spotify.com/track/5IGQIUoXm7ZsMXUkHRIsMg) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 4:37 |
-| 42 | [Aayi Teri Baat Mein](https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Aayi Teri Baat Mein](https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN) | 3:04 |
-| 43 | [Aray ko Salikaka](https://open.spotify.com/track/0InYOQQHeBIIMySjQJbxCv) | [Usay Panan](https://open.spotify.com/artist/5m9BR9opWunqBhvL7j3Bg9) | [Aray ko Salikaka](https://open.spotify.com/album/40B63bA8qzo6lrmQ29rEjg) | 3:01 |
+| 42 | [Aray ko Salikaka](https://open.spotify.com/track/0InYOQQHeBIIMySjQJbxCv) | [Usay Panan](https://open.spotify.com/artist/5m9BR9opWunqBhvL7j3Bg9) | [Aray ko Salikaka](https://open.spotify.com/album/40B63bA8qzo6lrmQ29rEjg) | 3:01 |
+| 43 | [Aayi Teri Baat Mein](https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Aayi Teri Baat Mein](https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN) | 3:04 |
 | 44 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
 | 45 | [Dust U Off](https://open.spotify.com/track/1MjkvZOLEgJqSShFr1Ixui) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [BULLSEYE](https://open.spotify.com/album/6cBdLtktEMZP9m3e0jKytE) | 3:59 |
-| 46 | [aftertears](https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [aftertears](https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz) | 6:27 |
-| 47 | [Pretoria](https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Pretoria](https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO) | 3:27 |
+| 46 | [Pretoria](https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Pretoria](https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO) | 3:27 |
+| 47 | [aftertears](https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [aftertears](https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz) | 6:27 |
 | 48 | [SKIN AFROPATY](https://open.spotify.com/track/4ThjZY42ya58WehhodPAdx) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:52 |
-| 49 | [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 |
-| 50 | [winters gonna come](https://open.spotify.com/track/3OoJRP74QttUB17tTe5gwm) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [winters gonna come](https://open.spotify.com/album/6qr5fMgyonax6366SQHTfy) | 4:12 |
+| 49 | [winters gonna come](https://open.spotify.com/track/3OoJRP74QttUB17tTe5gwm) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [winters gonna come](https://open.spotify.com/album/6qr5fMgyonax6366SQHTfy) | 4:12 |
+| 50 | [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 |
 
 Snapshot ID: `AAAAAGhuV7w2plu6cMu3tcGzuUIjTFG8`

@@ -190,6 +190,10 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2025-05-21",
@@ -1890,6 +1894,10 @@
         {
           "name": "Panic! At The Disco",
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2025-05-21",
@@ -2128,6 +2136,10 @@
         {
           "name": "Demi Lovato",
           "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2025-05-21",
@@ -2157,24 +2169,6 @@
     },
     {
       "album": {
-        "name": "Die Eisk\u00f6nigin 2 (Deutscher Original Film-Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CP1NmBBc7h88ypESIJdqD"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "date_added": "2026-08-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182906,
-      "name": "Lost in the Woods - Weezer Version",
-      "url": "https://open.spotify.com/track/65kSCCFGF57JuPKAxyMlKT"
-    },
-    {
-      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -2190,6 +2184,28 @@
       "duration_ms": 185231,
       "name": "Lost in the Woods - Weezer Version",
       "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
+    },
+    {
+      "album": {
+        "name": "Die Eisk\u00f6nigin 2 (Deutscher Original Film-Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CP1NmBBc7h88ypESIJdqD"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Lost in the Woods - Weezer Version",
+      "url": "https://open.spotify.com/track/65kSCCFGF57JuPKAxyMlKT"
     },
     {
       "album": {

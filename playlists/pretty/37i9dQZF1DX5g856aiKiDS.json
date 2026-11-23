@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 520253,
+  "num_followers": 520268,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -147,26 +147,6 @@
     {
       "added_at": "2026-11-13 05:23:57",
       "album": {
-        "name": "Nerdy Love",
-        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Nerdy Love",
-      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
-    },
-    {
-      "added_at": "2026-11-13 05:23:57",
-      "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "added_at": "2026-11-13 05:23:57",
+      "album": {
+        "name": "Nerdy Love",
+        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Nerdy Love",
+      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
     },
     {
       "added_at": "2026-11-13 05:23:57",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-11-13 05:23:57",
       "album": {
+        "name": "Godspeed!",
+        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 287879,
+      "name": "Godspeed!",
+      "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
+    },
+    {
+      "added_at": "2026-11-13 05:23:57",
+      "album": {
         "name": "Can I Love?",
         "url": "https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY"
-    },
-    {
-      "added_at": "2026-11-13 05:23:57",
-      "album": {
-        "name": "Godspeed!",
-        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 287879,
-      "name": "Godspeed!",
-      "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
     },
     {
       "added_at": "2026-11-13 05:23:57",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-11-13 05:23:57",
       "album": {
-        "name": "DUMMY",
-        "url": "https://open.spotify.com/album/7oTq9LczfvZycObUkQXxFN"
-      },
-      "artists": [
-        {
-          "name": "donny daydream",
-          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
-        }
-      ],
-      "duration_ms": 195842,
-      "name": "DUMMY",
-      "url": "https://open.spotify.com/track/7HrWXshLomWHVYD1tC21S1"
-    },
-    {
-      "added_at": "2026-11-13 05:23:57",
-      "album": {
         "name": "ZZZ",
         "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 202342,
       "name": "\uba4b\uc9c0\uac8c \uc778\uc0ac\ud558\ub294 \ubc95 (Hello Tutorial) (Feat. \uc2ac\uae30 (SEULGI) of Red Velvet)",
       "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
+    },
+    {
+      "added_at": "2026-11-13 05:23:57",
+      "album": {
+        "name": "DUMMY",
+        "url": "https://open.spotify.com/album/7oTq9LczfvZycObUkQXxFN"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "duration_ms": 195842,
+      "name": "DUMMY",
+      "url": "https://open.spotify.com/track/7HrWXshLomWHVYD1tC21S1"
     },
     {
       "added_at": "2026-11-13 05:23:57",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-11-13 05:23:57",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2026-11-13 05:23:57",
-      "album": {
         "name": "doodle",
         "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 187480,
       "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
       "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
+    },
+    {
+      "added_at": "2026-11-13 05:23:57",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2026-11-13 05:23:57",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-11-13 05:23:57",
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+    },
+    {
+      "added_at": "2026-11-13 05:23:57",
+      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 257631,
       "name": "It's You (Feat. ZICO)",
       "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
-    },
-    {
-      "added_at": "2026-11-13 05:23:57",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2026-11-13 05:23:57",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-11-13 05:23:57",
       "album": {
+        "name": "Loving you came easy",
+        "url": "https://open.spotify.com/album/2Bsv2RBvYrUT4rKpfIqd3B"
+      },
+      "artists": [
+        {
+          "name": "9duck",
+          "url": "https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "Loving you came easy",
+      "url": "https://open.spotify.com/track/1qVTJQBU7Kq5HjFH9pVcyl"
+    },
+    {
+      "added_at": "2026-11-13 05:23:57",
+      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 194360,
       "name": "Hola",
       "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
-    },
-    {
-      "added_at": "2026-11-13 05:23:57",
-      "album": {
-        "name": "Loving you came easy",
-        "url": "https://open.spotify.com/album/2Bsv2RBvYrUT4rKpfIqd3B"
-      },
-      "artists": [
-        {
-          "name": "9duck",
-          "url": "https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "Loving you came easy",
-      "url": "https://open.spotify.com/track/1qVTJQBU7Kq5HjFH9pVcyl"
     }
   ],
   "unique_name": "Dalkom Cafe",

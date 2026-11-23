@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: سميرة سعيد
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,939 likes - 93 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,952 likes - 93 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

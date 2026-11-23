@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Olga Luc\u00eda Vives en portada \u2728",
-  "num_followers": 96807,
+  "num_followers": 96809,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,38 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
+        "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Soy Luna",
+          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        },
+        {
+          "name": "Ruggero Pasquarelli",
+          "url": "https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL"
+        },
+        {
+          "name": "Michael Ronda",
+          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Jet",
+      "url": "https://open.spotify.com/track/48k8Aqk90ytRKbhaRCPcc5"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
         "name": "pAL_veranito.mp3",
         "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
       },
@@ -451,34 +483,18 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
-        "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
       },
       "artists": [
         {
-          "name": "Elenco de Soy Luna",
-          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Karol Sevilla",
-          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
-        },
-        {
-          "name": "Ruggero Pasquarelli",
-          "url": "https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL"
-        },
-        {
-          "name": "Michael Ronda",
-          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Jet",
-      "url": "https://open.spotify.com/track/48k8Aqk90ytRKbhaRCPcc5"
+      "duration_ms": 184654,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
     },
     {
       "added_at": "2026-11-20 06:00:15",
@@ -499,22 +515,6 @@
       "duration_ms": 201053,
       "name": "Lejos de la Ciudad (Con Los \u00c1ngeles Azules)",
       "url": "https://open.spotify.com/track/1OV1ubx1Ri4B2sYIPMumJ3"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 184654,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
     },
     {
       "added_at": "2026-11-20 06:00:15",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
-        "name": "La Espina",
-        "url": "https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 206662,
-      "name": "La Espina",
-      "url": "https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
         "name": "La Limonada",
         "url": "https://open.spotify.com/album/0ymOLrgHZ46f2REItckz7E"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
+        "name": "La Espina",
+        "url": "https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 206662,
+      "name": "La Espina",
+      "url": "https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 172765,
       "name": "Luna",
       "url": "https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
-        "name": "ObsesionHada",
-        "url": "https://open.spotify.com/album/46PO600f8MWEJE6FiU0WH0"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "ObsesionHada",
-      "url": "https://open.spotify.com/track/5mwWrANiKqgLNf3fabdLz7"
     },
     {
       "added_at": "2026-11-20 06:00:15",
@@ -679,6 +663,26 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 157979,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0flBtapIUqgzI4huY8BE5J"
       },
@@ -699,22 +703,18 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg"
+        "name": "ObsesionHada",
+        "url": "https://open.spotify.com/album/46PO600f8MWEJE6FiU0WH0"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
         }
       ],
-      "duration_ms": 157979,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og"
+      "duration_ms": 151016,
+      "name": "ObsesionHada",
+      "url": "https://open.spotify.com/track/5mwWrANiKqgLNf3fabdLz7"
     },
     {
       "added_at": "2026-11-20 06:00:15",
@@ -935,6 +935,74 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
+        "name": "Estas Ganas",
+        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 166998,
+      "name": "Estas Ganas",
+      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
+        "name": "Mil A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 252060,
+      "name": "Mil A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
         "name": "Intensamente",
         "url": "https://open.spotify.com/album/1AJwSW7Y6OpY1reCFqI6Dt"
       },
@@ -959,54 +1027,6 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
-        "name": "Estas Ganas",
-        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 166998,
-      "name": "Estas Ganas",
-      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
-        "name": "Mil A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 252060,
-      "name": "Mil A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
         "name": "Caer y Levantarse",
         "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 270925,
       "name": "Caer y Levantarse",
       "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
-        "name": "SUPERIOR",
-        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
     },
     {
       "added_at": "2026-11-20 06:00:15",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
+        "name": "qu\u00e9 ves en m\u00ed? / interesante",
+        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "qu\u00e9 ves en m\u00ed?",
+      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
         "name": "Desenamorando",
         "url": "https://open.spotify.com/album/1s66zIDfFrXy7vZ4R4CDm4"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 173112,
       "name": "HAGAMOS QUE PASE",
       "url": "https://open.spotify.com/track/34CbFmtuNcm7e3xZRUKLbw"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
-        "name": "qu\u00e9 ves en m\u00ed? / interesante",
-        "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        },
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "qu\u00e9 ves en m\u00ed?",
-      "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
     },
     {
       "added_at": "2026-11-20 06:00:15",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-11-20 06:00:15",
       "album": {
-        "name": "Otra Vez (Vol. 1)",
-        "url": "https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo"
-      },
-      "artists": [
-        {
-          "name": "CD9",
-          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
-        }
-      ],
-      "duration_ms": 172104,
-      "name": "Paisajes",
-      "url": "https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9"
-    },
-    {
-      "added_at": "2026-11-20 06:00:15",
-      "album": {
         "name": "Las Cosas Que Solo Se Hacen En La Noche",
         "url": "https://open.spotify.com/album/0bThS1beZOzlV7HrfrmL4C"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 181036,
       "name": "Tulum Sin Ti",
       "url": "https://open.spotify.com/track/4RuYga5Aoo1veuznTsrnxW"
+    },
+    {
+      "added_at": "2026-11-20 06:00:15",
+      "album": {
+        "name": "Otra Vez (Vol. 1)",
+        "url": "https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo"
+      },
+      "artists": [
+        {
+          "name": "CD9",
+          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
+        }
+      ],
+      "duration_ms": 172104,
+      "name": "Paisajes",
+      "url": "https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9"
     },
     {
       "added_at": "2026-11-20 06:00:15",

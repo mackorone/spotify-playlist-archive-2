@@ -1,6 +1,6 @@
 {
   "description": "The songs we've been partying to this decade. Cover: Jack Harlow",
-  "num_followers": 70331,
+  "num_followers": 70337,
   "original_name": "Party Hits 2020s",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-05-27 04:08:00",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2025-05-27 04:08:00",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
-    },
-    {
-      "added_at": "2025-05-27 04:08:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "added_at": "2025-05-27 04:08:00",
@@ -671,6 +671,38 @@
     {
       "added_at": "2025-05-27 04:08:00",
       "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2025-05-27 04:08:00",
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
@@ -727,38 +759,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2025-05-27 04:08:00",
-      "album": {
-        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
-        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Nightcrawlers",
-          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
-        },
-        {
-          "name": "Mufasa & Hypeman",
-          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
-        },
-        {
-          "name": "Mufasa",
-          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
-        },
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
-        }
-      ],
-      "duration_ms": 169153,
-      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
-      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
       "added_at": "2025-05-27 04:08:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-05-27 04:08:00",
       "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2025-05-27 04:08:00",
-      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2025-05-27 04:08:00",
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
       "added_at": "2025-05-27 04:08:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-05-27 04:08:00",
       "album": {
+        "name": "MONTERO (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137875,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
+    },
+    {
+      "added_at": "2025-05-27 04:08:00",
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2025-05-27 04:08:00",
-      "album": {
-        "name": "MONTERO (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137875,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
     },
     {
       "added_at": "2025-05-27 04:08:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2025-05-27 04:08:00",
       "album": {
+        "name": "Rover (feat. DTG)",
+        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "Rover (feat. DTG)",
+      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
+    },
+    {
+      "added_at": "2025-05-27 04:08:00",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2025-05-27 04:08:00",
-      "album": {
-        "name": "Rover (feat. DTG)",
-        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "DTG",
-          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "Rover (feat. DTG)",
-      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
     },
     {
       "added_at": "2025-05-27 04:08:00",

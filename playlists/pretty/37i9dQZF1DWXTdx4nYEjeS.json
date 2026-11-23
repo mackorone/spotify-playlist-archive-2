@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 862752,
+  "num_followers": 862805,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,18 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "Cama Incendiada",
-        "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
+        "name": "Miranda Es Imposible!",
+        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 272576,
-      "name": "Mi Verdad (feat. Shakira)",
-      "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -179,18 +175,22 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "Miranda Es Imposible!",
-        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
+        "name": "Cama Incendiada",
+        "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Tu Misterioso Alguien",
-      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+      "duration_ms": 272576,
+      "name": "Mi Verdad (feat. Shakira)",
+      "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
-    },
-    {
-      "added_at": "2026-11-20 16:54:54",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 265691,
       "name": "Casi q' me pierdo",
       "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2026-11-20 16:54:54",
+      "album": {
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 249306,
+      "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2026-11-20 16:54:54",
+      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 248600,
       "name": "Esta Saliendo El Sol",
       "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
-    },
-    {
-      "added_at": "2026-11-20 16:54:54",
-      "album": {
-        "name": "Sistema Nervioso Central",
-        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 242932,
-      "name": "Un Dia Perfecto",
-      "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -883,38 +887,18 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+        "name": "Sistema Nervioso Central",
+        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 249306,
-      "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2026-11-20 16:54:54",
-      "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+      "duration_ms": 242932,
+      "name": "Un Dia Perfecto",
+      "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -931,6 +915,22 @@
       "duration_ms": 279920,
       "name": "Bastar\u00e1",
       "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
+    },
+    {
+      "added_at": "2026-11-20 16:54:54",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Todo se transforma",
+      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+    },
+    {
+      "added_at": "2026-11-20 16:54:54",
+      "album": {
         "name": "Garc\u00eda 87/93",
         "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 255266,
       "name": "Hablando a Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
-    },
-    {
-      "added_at": "2026-11-20 16:54:54",
-      "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Todo se transforma",
-      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Un Misil En Mi Placard - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
-    },
-    {
-      "added_at": "2026-11-20 16:54:54",
-      "album": {
         "name": "La Declaraci\u00f3n",
         "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 277573,
       "name": "La Declaraci\u00f3n",
       "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
+    },
+    {
+      "added_at": "2026-11-20 16:54:54",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Un Misil En Mi Placard - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "El Impulso",
-        "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Para No Verme M\u00e1s",
-      "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
-    },
-    {
-      "added_at": "2026-11-20 16:54:54",
-      "album": {
         "name": "Sue\u00f1o Dorado",
         "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 231426,
       "name": "Sin Principio Ni Final",
       "url": "https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2"
+    },
+    {
+      "added_at": "2026-11-20 16:54:54",
+      "album": {
+        "name": "El Impulso",
+        "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Para No Verme M\u00e1s",
+      "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "Diez a\u00f1os de Soledad",
-        "url": "https://open.spotify.com/album/3PAYI7EzSG51CpX9S80qxV"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Brindis",
-      "url": "https://open.spotify.com/track/0s7VQGJmw6OEEaKbcA5es6"
-    },
-    {
-      "added_at": "2026-11-20 16:54:54",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 221080,
       "name": "Oncemil",
       "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
+    },
+    {
+      "added_at": "2026-11-20 16:54:54",
+      "album": {
+        "name": "Diez a\u00f1os de Soledad",
+        "url": "https://open.spotify.com/album/3PAYI7EzSG51CpX9S80qxV"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Brindis",
+      "url": "https://open.spotify.com/track/0s7VQGJmw6OEEaKbcA5es6"
     },
     {
       "added_at": "2026-11-20 16:54:54",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
-    },
-    {
-      "added_at": "2026-11-20 16:54:54",
-      "album": {
         "name": "Algo mejor",
         "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
@@ -1483,18 +1467,34 @@
     {
       "added_at": "2026-11-20 16:54:54",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 282426,
-      "name": "En EL Limbo",
-      "url": "https://open.spotify.com/track/0NoFZ4BKeZw0qLDEC90hMc"
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "added_at": "2026-11-20 16:54:54",
+      "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Seguir Viviendo Sin Tu Amor - Acustico",
+      "url": "https://open.spotify.com/track/5HnzCCUCScRKGrWAAqiqtL"
     }
   ],
   "unique_name": "Mates y M\u00fasica",

@@ -4,7 +4,7 @@
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 57 min
+55 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Dance Alone \- Juliana Remix](https://open.spotify.com/track/18rNeeNv0TiIkgpVTWKgct) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dance Alone \(Juliana Remix\)](https://open.spotify.com/album/2h7QzIf6eLBLxQ96l4CQgC) | 3:15 | 2026-03-20 |  |
 | [De Nada Me Arrepiento](https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:59 | 2026-03-20 |  |
 | [Desde La Orilla](https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:58 | 2026-03-20 |  |
-| [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 | 2026-03-20 |  |
+| [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 | 2026-03-20 | 2026-11-23 |
+| [El AchanTAdo \- Remix](https://open.spotify.com/track/5YKsiTtkYljrMq72j12vad) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [El AchanTAdo \(Remix\)](https://open.spotify.com/album/2vs4QJKYrE8ZxHUDpxPY5i) | 3:48 | 2026-11-23 |  |
 | [Electricidad \(2:21am\)](https://open.spotify.com/track/5ErcJsujfGgRXsTTz7FGRm) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:57 | 2026-03-20 |  |
 | [Enséñame](https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Enséñame](https://open.spotify.com/album/34KSApIN48IpEUePEJYV97) | 3:37 | 2026-03-20 |  |
 | [Flores de Primavera](https://open.spotify.com/track/0ls534NwNdl4cNuJDP4Esw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:53 | 2026-03-20 |  |

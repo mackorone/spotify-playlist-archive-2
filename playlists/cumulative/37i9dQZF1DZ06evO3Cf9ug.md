@@ -4,17 +4,18 @@
 
 > This is Tems\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 5 min
+56 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-23 |  |
 | [Avoid Things](https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:44 | 2025-08-13 |  |
 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-23 |  |
 | [Bunce Road Blues \(with Future & Tems\)](https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:10 | 2026-02-11 |  |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2025-08-13 |  |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2025-08-13 |  |
 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 | 2025-08-13 |  |
-| [Decided](https://open.spotify.com/track/0imwtLGiD7fCyWq7SpslPl) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Decided](https://open.spotify.com/album/3Ws47GZEN8ZZbfrVSSZev4) | 3:00 | 2025-08-13 |  |
+| [Decided](https://open.spotify.com/track/0imwtLGiD7fCyWq7SpslPl) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Decided](https://open.spotify.com/album/3Ws47GZEN8ZZbfrVSSZev4) | 3:00 | 2025-08-13 | 2026-11-23 |
 | [ESSENCE](https://open.spotify.com/track/3Pf5zVXlpgUOs0pT1IiYjb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [SWAG LIVE FROM COACHELLA \(Weekend I\)](https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8) | 4:12 | 2026-06-28 |  |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:09 | 2025-08-13 |  |
 | [Falling](https://open.spotify.com/track/14AZvDYPvlYIGYAFC3GU0F) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [T.A.P \(Talk About Poe\)](https://open.spotify.com/album/3DlhJ97XCthypfMPdgb3Mx) | 3:12 | 2025-11-16 |  |

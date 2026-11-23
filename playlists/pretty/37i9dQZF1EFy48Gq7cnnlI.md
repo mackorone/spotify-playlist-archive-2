@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028 likes - 124 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 70 | [The Pause](https://open.spotify.com/track/18YzQn4Tgib169dXJ6gZlC) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Madness](https://open.spotify.com/album/2ploE2Xfb4u43TnK7OAos3) | 3:57 |
 | 71 | [Already Gone](https://open.spotify.com/track/7e6K0ZWjHjFJxk2k7aeu2v) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:10 |
 | 72 | [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
-| 73 | [Don't Believe the Things They Tell You \(They Lie\)](https://open.spotify.com/track/3UKobrVucp8j0sP8Anxqs1) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:05 |
-| 74 | [Again](https://open.spotify.com/track/68ulg7Mh1FwJaJcl4FfxPe) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Again](https://open.spotify.com/album/73YflqaV6PPvwv2QwDjUMh) | 3:26 |
+| 73 | [Again](https://open.spotify.com/track/68ulg7Mh1FwJaJcl4FfxPe) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Again](https://open.spotify.com/album/73YflqaV6PPvwv2QwDjUMh) | 3:26 |
+| 74 | [Don't Believe the Things They Tell You \(They Lie\)](https://open.spotify.com/track/3UKobrVucp8j0sP8Anxqs1) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:05 |
 | 75 | [I Know I'm Not the Only One](https://open.spotify.com/track/0kTzTXAzvfx4ojKw8aLgT6) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:00 |
 | 76 | [Drunk](https://open.spotify.com/track/5p8Wu0gEKeWit3FYgrDPWw) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Drunk](https://open.spotify.com/album/426tbd5DUDnIZKLeOmVELI) | 3:04 |
 | 77 | [Piece by Piece](https://open.spotify.com/track/2qRkZwDiXkZ3pn9J986wGB) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 2:59 |
@@ -122,15 +122,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 112 | [Palace](https://open.spotify.com/track/6e3MJw1cAjb1mN2yAVmKZ3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Beautiful \(Platinum Edition\)](https://open.spotify.com/album/3XT3rHDWteNpQNhnARN7Ap) | 3:14 |
 | 113 | [One Thing](https://open.spotify.com/track/1LyS6bH3nN1wtfoNZoe4O9) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 2:52 |
 | 114 | [When I Said Goodbye](https://open.spotify.com/track/3h6DlHWUWWEzzdvdG1XgKo) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 2:38 |
-| 115 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
-| 116 | [Don't Look Back](https://open.spotify.com/track/21cXxyZA06qG6FrO7dsk3l) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 4:06 |
-| 117 | [Patchwork Heart](https://open.spotify.com/track/3iIX6xq7tORLwX9UPsMepy) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:55 |
-| 118 | [Out](https://open.spotify.com/track/2oMjFP0gWKheDUe7adHSR1) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Sun In California](https://open.spotify.com/album/1SVssRyjboGsW7zXVwARk2) | 3:13 |
-| 119 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
-| 120 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
-| 121 | [Safe](https://open.spotify.com/track/6ccK3PiZhFrhwGMlZn5jjR) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Cycle Breaker](https://open.spotify.com/album/4qen7S5V6CK9YQcKqAgT38) | 3:13 |
-| 122 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
-| 123 | [Vintage](https://open.spotify.com/track/1VD5r2AI7Im5lulgjjIbSP) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Late But Blooming](https://open.spotify.com/album/4W0t8ASDbL0OEYVtz3kAFf) | 3:35 |
-| 124 | [Father's Daughter](https://open.spotify.com/track/6GrNQpUeL0lwTaU02sQS60) | [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [Sixteen](https://open.spotify.com/album/5Tag3rGJu9CySbiFFuC0zB) | 5:17 |
+| 115 | [Ordinary](https://open.spotify.com/track/2OcBsn7gWcl9FWxy4bXJm4) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Ordinary](https://open.spotify.com/album/2wA5Her9qmvPSYVaksIqmw) | 3:16 |
+| 116 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
+| 117 | [Don't Look Back](https://open.spotify.com/track/21cXxyZA06qG6FrO7dsk3l) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 4:06 |
+| 118 | [Patchwork Heart](https://open.spotify.com/track/3iIX6xq7tORLwX9UPsMepy) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:55 |
+| 119 | [Out](https://open.spotify.com/track/2oMjFP0gWKheDUe7adHSR1) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Sun In California](https://open.spotify.com/album/1SVssRyjboGsW7zXVwARk2) | 3:13 |
+| 120 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
+| 121 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
+| 122 | [Safe](https://open.spotify.com/track/6ccK3PiZhFrhwGMlZn5jjR) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Cycle Breaker](https://open.spotify.com/album/4qen7S5V6CK9YQcKqAgT38) | 3:13 |
+| 123 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
+| 124 | [Vintage](https://open.spotify.com/track/1VD5r2AI7Im5lulgjjIbSP) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Late But Blooming](https://open.spotify.com/album/4W0t8ASDbL0OEYVtz3kAFf) | 3:35 |
+| 125 | [Father's Daughter](https://open.spotify.com/track/6GrNQpUeL0lwTaU02sQS60) | [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [Sixteen](https://open.spotify.com/album/5Tag3rGJu9CySbiFFuC0zB) | 5:17 |
 
-Snapshot ID: `AciTDAAAAABSGCiP/r+YtH8FPrD9M73q`
+Snapshot ID: `AciY6AAAAACa0sJdal62u0JqsRMmBNax`

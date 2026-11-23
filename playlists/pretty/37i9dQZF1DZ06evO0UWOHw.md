@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,084 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,098 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 25 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 26 | [Pier 46](https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:38 |
 | 27 | [Rosemary](https://open.spotify.com/track/3Q2Atn6PkuqabXv84POFat) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/4jUuCf2gGleS92BOOglQZS) | 3:08 |
-| 28 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 |
-| 29 | [Jolene](https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:55 |
+| 28 | [Jolene](https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:55 |
+| 29 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 |
 | 30 | [Sunday School](https://open.spotify.com/track/0wpQP0UhO1KkvAIB0jYlT5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:03 |
 | 31 | [Pray](https://open.spotify.com/track/5GNDZaBc7yHUp7003hPPDw) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dark Times](https://open.spotify.com/album/6bCbQPwKbD0NRVlN22s7Kt) | 2:46 |
 | 32 | [Tanko \(feat\. Terry G\)](https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Tanko \(feat\. Terry G\)](https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [Chop & Slide](https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:48 |
 | 50 | [Amen](https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:54 |
 
-Snapshot ID: `av48AAAAAADm4rPsfKcc5P9ppCf4lcX6`
+Snapshot ID: `awDfAAAAAABuz8SpA+dzpG4LXwr56f5P`

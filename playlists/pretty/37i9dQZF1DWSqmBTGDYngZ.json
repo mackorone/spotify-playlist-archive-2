@@ -1,6 +1,6 @@
 {
   "description": "Splash and sing-along.",
-  "num_followers": 7568581,
+  "num_followers": 7568533,
   "original_name": "Songs to Sing in the Shower",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAADCyaNaFiDMQiKIEVQVCiBRw2Ln",
   "tracks": [
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -75,6 +59,22 @@
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "How to Save a Life",
-      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "How to Save a Life",
+      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211477,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Wheatus",
         "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
       },
@@ -967,18 +951,34 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+      "duration_ms": 211477,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
@@ -1015,74 +1031,6 @@
       "duration_ms": 189960,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292875,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245490,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241688,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1119,6 +1067,42 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245490,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241688,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 230760,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
       "artists": [
         {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1291,6 +1275,22 @@
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1379,22 +1359,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
       "artists": [
         {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1419,6 +1399,26 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -1439,18 +1439,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "Hands All Over (Revised International Standard version)",
+        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 188987,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+      "duration_ms": 201493,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1471,22 +1475,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Hands All Over (Revised International Standard version)",
-        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
+      "duration_ms": 188987,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1751,6 +1751,22 @@
       "duration_ms": 222091,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1783,22 +1799,6 @@
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Sweet Talker (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
@@ -1879,18 +1863,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Delirium (Deluxe)",
-        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 252534,
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1907,6 +1891,22 @@
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1959,22 +1959,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "It Ain't Me (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 220780,
-      "name": "It Ain't Me (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
+      "duration_ms": 269595,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1995,18 +1991,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Beautiful Trauma",
-        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+        "name": "It Ain't Me (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 269595,
-      "name": "What About Us",
-      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
+      "duration_ms": 220780,
+      "name": "It Ain't Me (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2043,8 +2043,8 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
       "artists": [
         {
@@ -2052,9 +2052,9 @@
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -2127,8 +2111,24 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
@@ -2136,9 +2136,9 @@
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2247,38 +2247,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -2295,18 +2263,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+      "duration_ms": 180055,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2327,6 +2295,38 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "A Little Bit of Mambo",
         "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2423,6 +2423,38 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 163275,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
@@ -2443,22 +2475,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl"
       },
@@ -2471,22 +2487,6 @@
       "duration_ms": 220440,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 163275,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Daniel Powter",
         "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "I Knew You Were Trouble.",
+      "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Red",
-        "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "I Knew You Were Trouble.",
-      "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 225146,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2703,22 +2703,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -2731,6 +2715,22 @@
       "duration_ms": 280586,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2751,6 +2751,22 @@
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2783,22 +2799,6 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2979,6 +2979,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -2995,22 +3011,6 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "S&M",
-      "url": "https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -3135,6 +3119,22 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -3207,6 +3207,30 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 230413,
+      "name": "Despacito - Remix",
+      "url": "https://open.spotify.com/track/1vnnXMrBeEWiRg3YCMCjQq"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Eastside (with Halsey & Khalid)",
         "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
       },
@@ -3243,30 +3267,6 @@
       "duration_ms": 218439,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "VIDA",
-        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 230413,
-      "name": "Despacito - Remix",
-      "url": "https://open.spotify.com/track/1vnnXMrBeEWiRg3YCMCjQq"
     },
     {
       "added_at": "2026-08-04 19:52:50",

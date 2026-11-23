@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1270,
+  "num_followers": 1271,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGNIjHX22YHtg+YE9P/sQrHKZ11aG0",
+  "snapshot_id": "AAAGQZP0P63LFFAXMDb7LmsWKSym3HCF",
   "tracks": [
     {
       "added_at": "2026-11-22 05:47:14",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/3pOA5EAQyDjn38bAIAxg6U"
     },
     {
+      "added_at": "2026-11-22 05:56:48",
+      "album": {
+        "name": "Picture Day",
+        "url": "https://open.spotify.com/album/0PfPzhKKQxQnfPXPuWURyz"
+      },
+      "artists": [
+        {
+          "name": "The Fencesitters",
+          "url": "https://open.spotify.com/artist/0gI9RERWedVfOj0IDIce9G"
+        }
+      ],
+      "duration_ms": 280230,
+      "name": "Picture Day",
+      "url": "https://open.spotify.com/track/5yfcSmeUqKwDbEoCdQI4tU"
+    },
+    {
       "added_at": "2026-11-22 02:46:38",
       "album": {
         "name": "abaddon",
@@ -39,6 +55,22 @@
       "duration_ms": 251076,
       "name": "abaddon",
       "url": "https://open.spotify.com/track/6J84RJG0wHi2QVfX2fVYLf"
+    },
+    {
+      "added_at": "2026-11-22 02:45:07",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/12aq1kbJgTQ6L483bCHCDo"
+      },
+      "artists": [
+        {
+          "name": "Betu",
+          "url": "https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7"
+        }
+      ],
+      "duration_ms": 221472,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5NbwYv2jL0lZOGK7L5hIaZ"
     },
     {
       "added_at": "2026-11-22 05:49:21",
@@ -61,38 +93,6 @@
       "url": "https://open.spotify.com/track/4lJOh4n5tGlfEr2sxxNpU8"
     },
     {
-      "added_at": "2026-11-22 02:46:16",
-      "album": {
-        "name": "MAKE A MOVE",
-        "url": "https://open.spotify.com/album/4dYA1ANlQ1fxPGQVO5iyeN"
-      },
-      "artists": [
-        {
-          "name": "HYPERPUP",
-          "url": "https://open.spotify.com/artist/2KYbArEPLKH4MpXX2eDjk2"
-        }
-      ],
-      "duration_ms": 210193,
-      "name": "MAKE A MOVE",
-      "url": "https://open.spotify.com/track/7fjhXJVhHxJd0c68s3BEIG"
-    },
-    {
-      "added_at": "2026-11-22 02:45:07",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/12aq1kbJgTQ6L483bCHCDo"
-      },
-      "artists": [
-        {
-          "name": "Betu",
-          "url": "https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7"
-        }
-      ],
-      "duration_ms": 221472,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/5NbwYv2jL0lZOGK7L5hIaZ"
-    },
-    {
       "added_at": "2026-11-22 02:44:45",
       "album": {
         "name": "Mom, my speaker broke",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/2K8bIRskdsV1NIhSUDoBFB"
     },
     {
+      "added_at": "2026-11-22 05:52:44",
+      "album": {
+        "name": "BREADWINNER",
+        "url": "https://open.spotify.com/album/2T82sEdSYvEJsrMr79fO5o"
+      },
+      "artists": [
+        {
+          "name": "GreenyPika",
+          "url": "https://open.spotify.com/artist/0jaY21Zd3ouygWqNdIpr8N"
+        }
+      ],
+      "duration_ms": 148990,
+      "name": "BREADWINNER",
+      "url": "https://open.spotify.com/track/3Zk2caXD5FO18jHtsYk1aF"
+    },
+    {
       "added_at": "2026-11-22 05:51:33",
       "album": {
         "name": "\u7d14\u5ea6",
@@ -123,6 +139,42 @@
       "duration_ms": 83666,
       "name": "\u7d14\u5ea6",
       "url": "https://open.spotify.com/track/0FCMvHcZeX0nKPLty5AeOt"
+    },
+    {
+      "added_at": "2026-11-22 05:54:18",
+      "album": {
+        "name": "Una vez",
+        "url": "https://open.spotify.com/album/020jcMMeN16iTuKfSxcxXI"
+      },
+      "artists": [
+        {
+          "name": "Kiosrel",
+          "url": "https://open.spotify.com/artist/1tla3JdQBlNg58GAAF59K0"
+        }
+      ],
+      "duration_ms": 219201,
+      "name": "Una vez",
+      "url": "https://open.spotify.com/track/55loc7yppHwbF3LXl2eHm0"
+    },
+    {
+      "added_at": "2026-11-22 05:53:43",
+      "album": {
+        "name": "Paint (grasstheater Remix)",
+        "url": "https://open.spotify.com/album/0q0QvSaqjFBmWtd8KKYSt9"
+      },
+      "artists": [
+        {
+          "name": "grasstheater",
+          "url": "https://open.spotify.com/artist/22ViAPF2vTxhC4wqEPQ9Xz"
+        },
+        {
+          "name": "Charloux",
+          "url": "https://open.spotify.com/artist/0Oxzki1eP9iAWyB43BPCgb"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Paint - grasstheater Remix",
+      "url": "https://open.spotify.com/track/1r5Bd4VPGZV1aW2xcKb9VF"
     },
     {
       "added_at": "2026-11-21 05:12:48",

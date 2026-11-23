@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 【ROOTSステージ楽曲を公開！】ABEMA「RAPSTAR 2026」公式プレイリスト。番組内で活躍しているアーティストの楽曲を毎週更新。 マイライブラリに保存して毎週チェックしよう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,459 likes - 113 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,077 likes - 113 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

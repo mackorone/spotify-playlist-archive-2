@@ -1,6 +1,6 @@
 {
   "description": "Love songs from the movies",
-  "num_followers": 656953,
+  "num_followers": 657243,
   "original_name": "Soundtrack Love Songs",
   "owner": {
     "name": "Spotify",
@@ -742,6 +742,10 @@
         {
           "name": "Phil Collins",
           "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 256733,

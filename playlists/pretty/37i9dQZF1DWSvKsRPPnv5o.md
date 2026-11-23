@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Mark Lux
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,219 likes - 101 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,187 likes - 101 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

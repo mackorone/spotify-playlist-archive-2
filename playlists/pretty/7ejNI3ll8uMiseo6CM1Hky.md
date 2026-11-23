@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,979 likes - 191 songs - 10 hr 43 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,985 likes - 192 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,5 +199,6 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 189 | [Dirty Bird](https://open.spotify.com/track/7IRzBo9UvnQ4wnexEXGFR0) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Brandon Rogers](https://open.spotify.com/artist/71C5XIIrFr89qg3GmOUUQf), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Helluva Boss: Season Three, Part 1 \(Episodes 1\-3\)](https://open.spotify.com/album/3jWn7EGc5KAaLeVz9sAaIM) | 1:49 |
 | 190 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 |
 | 191 | [Ringleader](https://open.spotify.com/track/3s0gi0dDs9Y7ceuyVmgodB) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN) | [Helluva Boss: Season Three, Part 1 \(Original Soundtrack\)](https://open.spotify.com/album/5C07gFgdGSmtRTFBu3Ntrd) | 4:01 |
+| 192 | [Bushes of Love](https://open.spotify.com/track/75LOt4i3Xlmpu8bFu4kdUR) | [Bad Lip Reading](https://open.spotify.com/artist/2WImpqiHxgOKw0sXNOGtWl) | [Bushes of Love](https://open.spotify.com/album/1wzADb9xGb7lyAcZ9AQdAg) | 4:44 |
 
-Snapshot ID: `AAACGVVSnTq+tDLhKAgR2x47rh6+H90Q`
+Snapshot ID: `AAACGswgI9yrT2OMdBRm4Hdh8Zw/1rKW`

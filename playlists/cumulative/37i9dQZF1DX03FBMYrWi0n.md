@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Loïc Lafrance
 
-748 songs - 1 day 18 hr 24 min
+749 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Introspection](https://open.spotify.com/track/54i7ow5JI0alL46ZmApyTF) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [À La Ô Terre](https://open.spotify.com/album/58KvfyZ8bJqsWroUSb1KTR) | 4:40 | 2025-01-17 | 2025-02-04 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-22 | 2025-03-08 |
 | [J'ai besoin de vivre](https://open.spotify.com/track/7AiIpmotHzRvcwRQwfivRG) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS), [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'allée des melons](https://open.spotify.com/album/4XO9f1PjgzgFVUZg1TkldK) | 3:37 | 2025-09-25 | 2025-10-11 |
-| [J'aime le stress](https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4) | [Nectar Palace](https://open.spotify.com/artist/1GGCnb9R0avEHY31G16cyT) | [J'aime le stress](https://open.spotify.com/album/24MTLnddjPEEeb2BLV7hvJ) | 2:51 | 2026-10-16 |  |
+| [J'aime le stress](https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4) | [Nectar Palace](https://open.spotify.com/artist/1GGCnb9R0avEHY31G16cyT) | [J'aime le stress](https://open.spotify.com/album/24MTLnddjPEEeb2BLV7hvJ) | 2:51 | 2026-10-16 | 2026-11-23 |
 | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY) | 2:31 | 2023-04-21 | 2023-06-28 |
 | [J'attends](https://open.spotify.com/track/70KxTHYSQc4ozAsBomOCOS) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [À la prochaine](https://open.spotify.com/album/5ZSMPqzw9Gfai6qsFrALjo) | 3:09 | 2025-10-24 | 2026-01-15 |
 | [J'en sais rien](https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [J'en sais rien](https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA) | 3:34 | 2026-09-18 |  |
@@ -679,6 +679,7 @@
 | [top of the morning](https://open.spotify.com/track/18lPoK9dIKtRRPYh8z2oyW) | [Classical X](https://open.spotify.com/artist/3lhNTFStFPddPJQ4aPhqH3) | [top of the morning](https://open.spotify.com/album/5NNZmpQyaalMxY1WT30Rhu) | 2:14 | 2026-11-06 |  |
 | [Toujours mieux](https://open.spotify.com/track/4LAdc3GvmKO0JaEh58FmQ0) | [Tom Leger](https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK) | [Toujours mieux](https://open.spotify.com/album/6ZHZUzD5Eiz1uA0d3h41Xf) | 2:25 | 2025-10-31 | 2026-01-24 |
 | [Tourterelle](https://open.spotify.com/track/58v5rZGche1dBOT4149hAC) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Tourterelle](https://open.spotify.com/album/74lT0WgjpACroYBDLoxYt3) | 3:16 | 2026-11-20 |  |
+| [Tous les miroirs](https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr) | [Chenier](https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx) | [Les fantômes](https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb) | 3:07 | 2026-11-20 |  |
 | [Tout ce que je voudrais être, c'est tout ce que je ne suis pas](https://open.spotify.com/track/5iISNJSdGntEhsDBXAtisg) | [Balcon sans princesse](https://open.spotify.com/artist/5Astt7a0MyMm7eRaZCgDON) | [Tout ce que je voudrais être, c'est tout ce que je ne suis pas](https://open.spotify.com/album/38DtPEirXjM5bhREZDmK22) | 3:56 | 2026-07-24 | 2026-09-26 |
 | [Tout rattraper](https://open.spotify.com/track/217AEOMcFUNPX3Dr6DNzVe) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Tout rattraper](https://open.spotify.com/album/17ZeFve5oXk01lDyuRiv99) | 3:53 | 2025-10-31 | 2025-11-15 |
 | [Tout recommence](https://open.spotify.com/track/6k4AAQgHGx1Lt7jcz0nsKM) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Contempler l'abîme](https://open.spotify.com/album/5Uk8LG9rHpZFTR7sI4RUqp) | 2:54 | 2025-11-14 | 2026-07-18 |

@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 139986,
       "name": "Amor A La Ligera",
       "url": "https://open.spotify.com/track/6lWhsgbZr8P2zKkucWWqGH"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 177306,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
@@ -1095,24 +1095,6 @@
     },
     {
       "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "date_added": "2023-05-10",
-      "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
-      "duration_ms": 174173,
-      "name": "Gorrion Errante",
-      "url": "https://open.spotify.com/track/6GaRuhFZAT492Bmmsf6Mwb"
-    },
-    {
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -1128,6 +1110,24 @@
       "duration_ms": 174133,
       "name": "Gorri\u00f3n Errante",
       "url": "https://open.spotify.com/track/315gGtlPXz4RJX7kZa2FPa"
+    },
+    {
+      "album": {
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "Gorri\u00f3n Errante - Con Banda",
+      "url": "https://open.spotify.com/track/6GaRuhFZAT492Bmmsf6Mwb"
     },
     {
       "album": {
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 195506,
       "name": "Me Llega, Me Llega - En Vivo",
       "url": "https://open.spotify.com/track/63MbvcB6E9xMw7ljwfyEej"

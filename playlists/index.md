@@ -2693,7 +2693,7 @@
 - [Gameday](/playlists/pretty/37i9dQZF1DXdxTsNp0Bzwq.md)
 - [Gaming Belicón](/playlists/pretty/37i9dQZF1DWTiKrF1Gb3Cp.md)
 - [Gaming Lounge](/playlists/pretty/37i9dQZF1DX9QWEVCu9UDA.md)
-- [Gaming Music 2026](/playlists/pretty/2BvXXHZ3Hx4pS5OacZMVKc.md)
+- [Gaming Music](/playlists/pretty/2BvXXHZ3Hx4pS5OacZMVKc.md)
 - [Gaming Romance](/playlists/pretty/37i9dQZF1DWXw3BQSIUjqm.md)
 - [Gaming Time!](/playlists/pretty/37i9dQZF1DWSfv493aPhol.md)
 - [Gamma Wave Focus](/playlists/pretty/37i9dQZF1DX6UtIGMQFGmU.md)

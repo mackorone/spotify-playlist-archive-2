@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,766 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,760 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 38 | [Sustenta a Botada \- Speed](https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Dj Garay Beats](https://open.spotify.com/artist/1lwdU9Q6yv7LyXqGER8D5G) | [Sustenta a Botada](https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde) | 2:24 |
 | 39 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 |
 | 40 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
-| 41 | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf) | [LC DE VV](https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p) | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv) | 1:42 |
-| 42 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
-| 43 | [Me Deixei Levar \- Speed](https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh) | [7Seven](https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1) | [Me Deixei Levar](https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc) | 1:36 |
+| 41 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
+| 42 | [Me Deixei Levar \- Speed](https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh) | [7Seven](https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1) | [Me Deixei Levar](https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc) | 1:36 |
+| 43 | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf) | [LC DE VV](https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p) | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv) | 1:42 |
 | 44 | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk) | [TIKTOK HITS](https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK), [LC DAS CASINHAS](https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C) | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ) | 2:46 |
 | 45 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU) | 2:33 |
 | 46 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 |

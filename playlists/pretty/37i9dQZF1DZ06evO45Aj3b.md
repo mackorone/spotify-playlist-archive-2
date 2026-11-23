@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,796 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,819 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 34 | [Falling Asleep](https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:48 |
 | 35 | [Maroon](https://open.spotify.com/track/6lJxjmUZ0EcZoxyKNhOOGa) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 3:29 |
 | 36 | [Wurli](https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:30 |
-| 37 | [Quite the Opposite](https://open.spotify.com/track/52001S5hssoZCucIE15ALw) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:20 |
-| 38 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 |
+| 37 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 |
+| 38 | [Quite the Opposite](https://open.spotify.com/track/52001S5hssoZCucIE15ALw) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:20 |
 | 39 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 2:23 |
 | 40 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
-| 41 | [Aftermath \- Edit](https://open.spotify.com/track/7b3StKb6can7Y037c9HN4z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:42 |
-| 42 | [Rollerblades](https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rollerblades](https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw) | 2:14 |
+| 41 | [Rollerblades](https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rollerblades](https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw) | 2:14 |
+| 42 | [Aftermath \- Edit](https://open.spotify.com/track/7b3StKb6can7Y037c9HN4z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:42 |
 | 43 | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 |
 | 44 | [hi grace](https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:41 |
-| 45 | [Smile](https://open.spotify.com/track/3xW2fq4U0x1tD6hSbOTWGn) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:27 |
-| 46 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
+| 45 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
+| 46 | [Smile](https://open.spotify.com/track/3xW2fq4U0x1tD6hSbOTWGn) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:27 |
 | 47 | [CAMERAS](https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:48 |
 | 48 | [1.23.23](https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:01 |
-| 49 | [One Glass](https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:29 |
-| 50 | [Geezer](https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:49 |
+| 49 | [Geezer](https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:49 |
+| 50 | [One Glass](https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:29 |
 
-Snapshot ID: `av48AAAAAABkg+fh5CfmqfOQ3oUlXvLP`
+Snapshot ID: `awDfAAAAAADgEpKAO7oPnRtSx+0JvW6E`

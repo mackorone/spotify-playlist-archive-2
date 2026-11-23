@@ -855,22 +855,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 131563,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "Chest Pain (I Love)",
         "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 200826,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 131563,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2026-08-28 04:03:37",

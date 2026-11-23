@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAP/h6xpTNaL8iNLiI0KIij",
+  "snapshot_id": "awDfAAAAAABH/xsw/cGIfglemFVfmRyC",
   "tracks": [
     {
       "added_at": null,
@@ -80,9 +80,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 521986,
-      "name": "Collecting eyes",
-      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
+      "duration_ms": 275942,
+      "name": "Heart of a waterfall",
+      "url": "https://open.spotify.com/track/0k6R4xKzwobcmNbTZbwZmK"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 275942,
-      "name": "Heart of a waterfall",
-      "url": "https://open.spotify.com/track/0k6R4xKzwobcmNbTZbwZmK"
+      "duration_ms": 521986,
+      "name": "Collecting eyes",
+      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 272100,
-      "name": "Loph",
-      "url": "https://open.spotify.com/track/0amgnDpCcLGBIlEvewxQnz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddag",
         "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 160000,
       "name": "Jeg Kan S\u00e5 Godt Li Blomster",
       "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 272100,
+      "name": "Loph",
+      "url": "https://open.spotify.com/track/0amgnDpCcLGBIlEvewxQnz"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 311077,
       "name": "Silver Age",
       "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 101775,
-      "name": "Me of Ocean",
-      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
+      "duration_ms": 108845,
+      "name": "My River",
+      "url": "https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 108845,
-      "name": "My River",
-      "url": "https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4"
+      "duration_ms": 101775,
+      "name": "Me of Ocean",
+      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 270004,
-      "name": "Geor Lu",
-      "url": "https://open.spotify.com/track/1nYNVpBxfslusoIZHJyvXR"
+      "duration_ms": 295789,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
     }
   ],
   "unique_name": "This Is Sofie Birch",

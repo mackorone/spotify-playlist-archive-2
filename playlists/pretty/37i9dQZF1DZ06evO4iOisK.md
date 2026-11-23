@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,648 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,646 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 16 | [LIAR](https://open.spotify.com/track/5Pt3oFMcTVxcekKE9wAbx7) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:13 |
 | 17 | [青](https://open.spotify.com/track/7zxCQ8TQZHJudxqVb5nRx1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [青](https://open.spotify.com/album/5KVyj8t42dWLIioJvasjRo) | 3:15 |
 | 18 | [Little Summer](https://open.spotify.com/track/3VCel9SsPYeZMQvvz0pNQS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 4:00 |
-| 19 | [Chase the Shine](https://open.spotify.com/track/30EfnWyFnPO7UOXa9x4HYp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Chase the Shine](https://open.spotify.com/album/13dG83G4Lgqw5fgLiCdJ2D) | 3:00 |
+| 19 | [JUST ONE LIFE](https://open.spotify.com/track/2vCumCEw0EKMj88IZ659cP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:58 |
 | 20 | [My Friend](https://open.spotify.com/track/6W4qYHGBNIeKJPwFq3neX1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:51 |
-| 21 | [JUST ONE LIFE](https://open.spotify.com/track/2vCumCEw0EKMj88IZ659cP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:58 |
+| 21 | [Chase the Shine](https://open.spotify.com/track/30EfnWyFnPO7UOXa9x4HYp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Chase the Shine](https://open.spotify.com/album/13dG83G4Lgqw5fgLiCdJ2D) | 3:00 |
 | 22 | [0 GAME](https://open.spotify.com/track/0zqjHT5SlLl8ZVzVHhZPCR) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 4:03 |
 | 23 | [雨上がりに咲く花](https://open.spotify.com/track/2riW4PnBZZgy4lNvq5UV76) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:43 |
 | 24 | [BEAUTIFUL DAYS](https://open.spotify.com/track/22wg1cgcSSy8J9goZFXaNg) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 4:16 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 40 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 |
 | 41 | [Rock'n Roll](https://open.spotify.com/track/69Si1WbsxM3PrHjcf3xL8d) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 3:33 |
 | 42 | [Get over it](https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:36 |
-| 43 | [Winding Road](https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 4:40 |
+| 43 | [君がいた夏](https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:00 |
 | 44 | [Stand by me](https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:52 |
-| 45 | [君がいた夏](https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:00 |
+| 45 | [Winding Road](https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 4:40 |
 | 46 | [FEEL SO GOOD](https://open.spotify.com/track/56J7CY5CjFe0LE2CF3noA4) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RE\-BIRTH](https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m) | 2:49 |
 | 47 | [STAR](https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Naked](https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9) | 3:49 |
 | 48 | [GLORY](https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:47 |
 | 49 | [OVERLOAD](https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:05 |
 | 50 | [ROCKIN' OUT](https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 |
 
-Snapshot ID: `av48AAAAAACNupZxwMSDQRhewE3sjsgE`
+Snapshot ID: `awDfAAAAAAD7k/cf39FFtV/l9iKIcYOM`

@@ -12,6 +12,10 @@
         {
           "name": "Evan Rachel Wood",
           "url": "https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -30,6 +34,10 @@
         {
           "name": "Evan Rachel Wood",
           "url": "https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -48,6 +56,10 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -88,6 +100,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -140,6 +156,10 @@
         {
           "name": "Katie Lopez",
           "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -158,6 +178,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -176,6 +200,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -194,6 +222,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -212,6 +244,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -220,28 +256,6 @@
       "duration_ms": 196279,
       "name": "Fire and Ice",
       "url": "https://open.spotify.com/track/4fcZbjP3FrEfciejqDFtM0"
-    },
-    {
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
-      },
-      "artists": [
-        {
-          "name": "Maia Wilson",
-          "url": "https://open.spotify.com/artist/5FghcZFWriEQFftyizgKEU"
-        },
-        {
-          "name": "Cast - Frozen",
-          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
-        }
-      ],
-      "date_added": "2023-11-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182106,
-      "name": "Fixer Upper - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/3JOfOrmLwNGMyEKyXqVW4w"
     },
     {
       "album": {
@@ -272,20 +286,24 @@
       },
       "artists": [
         {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+          "name": "Maia Wilson",
+          "url": "https://open.spotify.com/artist/5FghcZFWriEQFftyizgKEU"
         },
         {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+          "name": "Cast - Frozen",
+          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 149640,
-      "name": "For the First Time in Forever (Reprise) - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/2fKpTXKdpvi5BqH7leAUEU"
+      "duration_ms": 182106,
+      "name": "Fixer Upper - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3JOfOrmLwNGMyEKyXqVW4w"
     },
     {
       "album": {
@@ -322,14 +340,18 @@
         {
           "name": "Idina Menzel",
           "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 225080,
-      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/1SCw7GSw06Fpk5vQilILui"
+      "duration_ms": 149640,
+      "name": "For the First Time in Forever (Reprise) - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2fKpTXKdpvi5BqH7leAUEU"
     },
     {
       "album": {
@@ -360,16 +382,24 @@
       },
       "artists": [
         {
-          "name": "Cast - Frozen",
-          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 105293,
-      "name": "Frozen Heart - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/0pLvr6YsKHnu8HmHKfrKOa"
+      "duration_ms": 225080,
+      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1SCw7GSw06Fpk5vQilILui"
     },
     {
       "album": {
@@ -391,6 +421,28 @@
     },
     {
       "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Cast - Frozen",
+          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105293,
+      "name": "Frozen Heart - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0pLvr6YsKHnu8HmHKfrKOa"
+    },
+    {
+      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -402,6 +454,10 @@
         {
           "name": "Kristen Bell",
           "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -420,6 +476,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -438,6 +498,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -482,6 +546,10 @@
         {
           "name": "Kristen Bell",
           "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -560,6 +628,10 @@
         {
           "name": "Patti Murin",
           "url": "https://open.spotify.com/artist/4wWuKGRcPwVaItabLxnObP"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -582,6 +654,10 @@
         {
           "name": "Cast of Frozen 2",
           "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -618,6 +694,10 @@
         {
           "name": "Josh Gad",
           "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -676,6 +756,10 @@
         {
           "name": "AURORA",
           "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -694,6 +778,10 @@
         {
           "name": "Panic! At The Disco",
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -712,6 +800,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -741,24 +833,6 @@
     },
     {
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "date_added": "2023-11-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224386,
-      "name": "Let It Go - From \"Frozen / Single Version",
-      "url": "https://open.spotify.com/track/0bTnB8YDYijhQbSWwpQYDU"
-    },
-    {
-      "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
       },
@@ -774,6 +848,28 @@
       "duration_ms": 224386,
       "name": "Let It Go - From \"Frozen / Single Version",
       "url": "https://open.spotify.com/track/1A2PVHd6kWaMlaJVkMfXmz"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "Let It Go - From \"Frozen / Single Version",
+      "url": "https://open.spotify.com/track/0bTnB8YDYijhQbSWwpQYDU"
     },
     {
       "album": {
@@ -802,6 +898,10 @@
         {
           "name": "Idina Menzel",
           "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -820,6 +920,10 @@
         {
           "name": "Jonathan Groff",
           "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -838,6 +942,10 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -882,6 +990,10 @@
         {
           "name": "Santino Fontana",
           "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -966,6 +1078,10 @@
         {
           "name": "Cantus",
           "url": "https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -984,6 +1100,10 @@
         {
           "name": "Jonathan Groff",
           "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1020,6 +1140,10 @@
         {
           "name": "Jonathan Groff",
           "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1038,6 +1162,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1056,6 +1184,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1074,6 +1206,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1096,6 +1232,10 @@
         {
           "name": "Evan Rachel Wood",
           "url": "https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1114,6 +1254,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1148,6 +1292,10 @@
         {
           "name": "Cast of Frozen 2",
           "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1166,6 +1314,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1184,6 +1336,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1202,6 +1358,10 @@
         {
           "name": "Kristen Bell",
           "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1220,6 +1380,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1238,6 +1402,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1274,6 +1442,10 @@
         {
           "name": "Josh Gad",
           "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1340,6 +1512,10 @@
         {
           "name": "Josh Gad",
           "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",
@@ -1358,6 +1534,10 @@
         {
           "name": "Christophe Beck",
           "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2023-11-22",

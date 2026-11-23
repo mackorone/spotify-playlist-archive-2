@@ -1,6 +1,6 @@
 {
   "description": "Les tubes pop pour toute la famille",
-  "num_followers": 2386,
+  "num_followers": 2393,
   "original_name": "Bim bam pop",
   "owner": {
     "name": "Spotify",
@@ -374,6 +374,10 @@
         {
           "name": "AURORA",
           "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 194848,
@@ -650,6 +654,10 @@
         {
           "name": "Cast of Frozen 2",
           "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 209964,
@@ -742,6 +750,10 @@
         {
           "name": "Shakira",
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 196853,

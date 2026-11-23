@@ -4,7 +4,7 @@
 
 > This is RÜFÜS DU SOL\. The essential tracks, all in one playlist.
 
-43 songs - 3 hr 24 min
+44 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [In the Moment \- Adriatique Remix](https://open.spotify.com/track/3JGvqlIZr8pvabWHmZwPsU) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:10 | 2026-06-15 |  |
 | [Inhale](https://open.spotify.com/track/124hDFQWCBm3PI3RRXU2fH) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 1:48 | 2026-06-28 |  |
 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2026-06-15 |  |
+| [Innerbloom XI](https://open.spotify.com/track/2fwVnifj9tP17FAtT3Lsq3) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Innerbloom XI](https://open.spotify.com/album/5mTgGkQwkLPTrBk4m2BL5O) | 9:03 | 2026-11-23 |  |
 | [Lately](https://open.spotify.com/track/09eWLCCXXypdgrlfLAMy3n) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:09 | 2026-06-15 |  |
 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 | 2026-06-15 |  |
 | [Like An Animal](https://open.spotify.com/track/6dw1sbdCwW5sbsbcpq6QED) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 4:01 | 2026-06-15 |  |

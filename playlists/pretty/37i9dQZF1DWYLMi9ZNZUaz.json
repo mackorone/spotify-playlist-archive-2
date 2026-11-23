@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 125406,
+  "num_followers": 125430,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
     {
       "added_at": "2026-11-19 17:00:22",
       "album": {
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2026-11-19 17:00:22",
+      "album": {
         "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
         "url": "https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 230036,
       "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
       "url": "https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S"
-    },
-    {
-      "added_at": "2026-11-19 17:00:22",
-      "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
     },
     {
       "added_at": "2026-11-19 17:00:22",
@@ -747,8 +747,8 @@
     {
       "added_at": "2026-11-19 17:00:22",
       "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+        "name": "TR\u00c1CSTAR",
+        "url": "https://open.spotify.com/album/6fJZeGzS6omKzAKIQDC9MC"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
         }
       ],
-      "duration_ms": 190343,
-      "name": "L\u1ed1i S\u1ed1ng",
-      "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"
+      "duration_ms": 234500,
+      "name": "Tr\u00ed Tr\u00e1",
+      "url": "https://open.spotify.com/track/2CjaE3LZMTi38jK9whOcUK"
     },
     {
       "added_at": "2026-11-19 17:00:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-11-19 17:00:22",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
-      },
-      "artists": [
-        {
-          "name": "Khoi Vu",
-          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
-        }
-      ],
-      "duration_ms": 138973,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
-    },
-    {
-      "added_at": "2026-11-19 17:00:22",
-      "album": {
         "name": "ADAMN",
         "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 223500,
       "name": "ADAMN",
       "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
+    },
+    {
+      "added_at": "2026-11-19 17:00:22",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
+      },
+      "artists": [
+        {
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+        }
+      ],
+      "duration_ms": 138973,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
     },
     {
       "added_at": "2026-11-19 17:00:22",
@@ -931,6 +931,26 @@
     {
       "added_at": "2026-11-19 17:00:22",
       "album": {
+        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
+      },
+      "artists": [
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 220289,
+      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
+    },
+    {
+      "added_at": "2026-11-19 17:00:22",
+      "album": {
         "name": "MEDICINE",
         "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
-    },
-    {
-      "added_at": "2026-11-19 17:00:22",
-      "album": {
-        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
-        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
-      },
-      "artists": [
-        {
-          "name": "OgeNus",
-          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 220289,
-      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
-      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
     },
     {
       "added_at": "2026-11-19 17:00:22",

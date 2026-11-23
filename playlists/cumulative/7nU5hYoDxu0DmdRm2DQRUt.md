@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-567 songs - 2 day 7 hr 8 min
+568 songs - 2 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [The End Of Back To Back](https://open.spotify.com/track/5WUbIs5yLjehUmGN13Mh3o) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [My Brutal Life 2](https://open.spotify.com/album/5oUDkF0YFHje0MzJnHuf0H) | 4:08 | 2025-06-24 | 2026-06-19 |
 | [The Future \- Ben Kaczor Remix](https://open.spotify.com/track/1WmR7YggdTftXbvKCJOm2y) | [Verlake](https://open.spotify.com/artist/6HxiQlt2tzKjyTGT2G5eC0), [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL) | [Echoing](https://open.spotify.com/album/1Fb67pJQScY2478oFjGsja) | 6:56 | 2025-06-03 | 2026-03-17 |
 | [The Garden's Humble](https://open.spotify.com/track/65sW35ZXIOMmAmC5ui8UK2) | [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Daniel Dor](https://open.spotify.com/artist/1MKHZ2XG5GkCmLK7VMGjIZ) | [The Garden Suite](https://open.spotify.com/album/0UccFpMfqmge5fNISVNHdH) | 2:34 | 2025-01-02 | 2025-11-11 |
+| [The Hill](https://open.spotify.com/track/1DVVADPGqObtNObAs0awIt) | [Philipp Kolbe](https://open.spotify.com/artist/5Eu0T4QNsTeFHNjU2X64DA) | [The Hill EP](https://open.spotify.com/album/2ooqkCmwkXtJuEhuS9Vu9N) | 3:38 | 2026-11-22 |  |
 | [The Lights](https://open.spotify.com/track/7KbaDxrJ7rSmjzvaolmjm0) | [Dust\-e\-1](https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu) | [Return 2 Dust EP](https://open.spotify.com/album/4SRSEbxJhsZMapYEpEwjpR) | 7:15 | 2026-05-22 |  |
 | [The Motion \- Club Edit](https://open.spotify.com/track/6EAJ5suw0LkPGMv8nZlr8a) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [Mutado Pintado](https://open.spotify.com/artist/0SFzGc8fvOuNpikX5mMP4t) | [The Motion \(Club Edit\) / Help \(DJ Version\)](https://open.spotify.com/album/6q0gysa6ZQ0Dt2nUjXAg3f) | 7:04 | 2025-01-02 | 2025-11-11 |
 | [The Palace](https://open.spotify.com/track/51SJAeAhdNkPk5hSHYeDGV) | [Wassermann](https://open.spotify.com/artist/0i2Q9WRxWu788ndngfKT26) | [The Palace](https://open.spotify.com/album/0Ll9tEVck6An0OI0vOJuUe) | 5:09 | 2025-08-21 | 2026-06-19 |

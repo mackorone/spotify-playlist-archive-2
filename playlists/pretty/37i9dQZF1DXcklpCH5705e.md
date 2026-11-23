@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Tyson Yoshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,531 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,632 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

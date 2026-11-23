@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 9074,
+  "num_followers": 9075,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAACxnOu1X636ijyY4iM9/8+P",
+  "snapshot_id": "awDfAAAAAACKXUDw+4SYcSwUOC/pIV6C",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 227971,
-      "name": "Opo (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 303847,
       "name": "Possibility",
       "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 227971,
+      "name": "Opo (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 191425,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face 2 Face 10.0",
         "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
@@ -671,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
       },
       "artists": [
         {
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 191425,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUKU GOOGLE AM",
-        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "KUKU GOOGLE AM",
-      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worry Me",
         "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
       },
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "U No Holy Pass",
-      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oya Come Make We Go",
         "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 259773,
       "name": "Oya Come Make We Go",
       "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 210840,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ"
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 234527,
-      "name": "Hate What You Do To Me",
-      "url": "https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8"
+      "duration_ms": 253126,
+      "name": "Dance Floor",
+      "url": "https://open.spotify.com/track/0viLDN2HnFEMJXgUnIaoWp"
     },
     {
       "added_at": null,
@@ -963,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 253126,
-      "name": "Dance Floor",
-      "url": "https://open.spotify.com/track/0viLDN2HnFEMJXgUnIaoWp"
+      "duration_ms": 234527,
+      "name": "Hate What You Do To Me",
+      "url": "https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8"
     }
   ],
   "unique_name": "This Is 2Baba",

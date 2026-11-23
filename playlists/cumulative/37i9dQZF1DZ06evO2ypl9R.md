@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-98 songs - 8 hr 53 min
+99 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Inspiration](https://open.spotify.com/track/2OKbU1ofzSDBOtt22p136u) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 3:19 | 2025-07-11 | 2026-04-09 |
 | [Intro \(Solemait\)](https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 2:49 | 2025-06-28 | 2026-03-17 |
 | [Joyous \- Yoruba Soul Instrumental Remix](https://open.spotify.com/track/5tDwtcf571yb7LAVVih9Jv) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:00 | 2025-06-28 | 2025-09-20 |
-| [Jus' Anuda Groove](https://open.spotify.com/track/2PpyimrDmV1niU5Eyo2E7M) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [What Pho](https://open.spotify.com/album/6N2F4tAdJvEpi5FtjLWfFI) | 2:10 | 2026-11-20 |  |
+| [Jus Anuda Groove \- Mixed](https://open.spotify.com/track/1ftQClf6GGSbJQFRQIngls) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [DJ\-Kicks: Dam Swindle](https://open.spotify.com/album/7oF01FA14u4pTaWzqEk0UI) | 1:48 | 2026-11-23 |  |
+| [Jus' Anuda Groove](https://open.spotify.com/track/2PpyimrDmV1niU5Eyo2E7M) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [What Pho](https://open.spotify.com/album/6N2F4tAdJvEpi5FtjLWfFI) | 2:10 | 2026-11-20 | 2026-11-23 |
 | [Let's Invade the Amazon \- Yoruba Soul Mix](https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc) | [Casbah 73](https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Let's Invade the Amazon \(Yoruba Soul Mix\)](https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL) | 6:22 | 2025-06-28 |  |
 | [Lollies & Weed](https://open.spotify.com/track/4larL9D7YZUdvPWdEdk5Nf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:15 | 2026-02-12 | 2026-02-13 |
 | [Los Tambores Te Llaman \- Original Mix](https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Carlos Mena](https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl) | [Los Tambores Te Llaman](https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq) | 6:19 | 2025-06-28 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAACdsUI5OH0Lkgar9vrpPZhg",
+  "snapshot_id": "awDfAAAAAADH0AI6nOjpm8aojg0o0aGl",
   "tracks": [
     {
       "added_at": null,
@@ -70,15 +70,11 @@
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        },
-        {
-          "name": "Gavin Greenaway",
-          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
         }
       ],
-      "duration_ms": 160786,
-      "name": "Mother Daughter Theme - Solo Piano Version",
-      "url": "https://open.spotify.com/track/7qMxlJ1K6Px8awhdYV1lny"
+      "duration_ms": 125159,
+      "name": "Her Racing Heartbeat",
+      "url": "https://open.spotify.com/track/0Wy0I9wbbX7CPIwU5pu8G2"
     },
     {
       "added_at": null,
@@ -99,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encanto (Deutscher Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -108,9 +104,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Bilder vom Encanto",
-      "url": "https://open.spotify.com/track/1IhI7a2C6EJv6CfTDSGwJu"
+      "duration_ms": 70706,
+      "name": "Driving to the Farm",
+      "url": "https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF"
     },
     {
       "added_at": null,
@@ -142,11 +138,15 @@
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
         }
       ],
-      "duration_ms": 125159,
-      "name": "Her Racing Heartbeat",
-      "url": "https://open.spotify.com/track/0Wy0I9wbbX7CPIwU5pu8G2"
+      "duration_ms": 160786,
+      "name": "Mother Daughter Theme - Solo Piano Version",
+      "url": "https://open.spotify.com/track/7qMxlJ1K6Px8awhdYV1lny"
     },
     {
       "added_at": null,
@@ -176,33 +176,25 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 87200,
-      "name": "Der Fluss",
-      "url": "https://open.spotify.com/track/52oHjI60ZJhBziJVCwlmBL"
+      "duration_ms": 149160,
+      "name": "Bilder vom Encanto",
+      "url": "https://open.spotify.com/track/1IhI7a2C6EJv6CfTDSGwJu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
-          "name": "John Debney",
-          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
-        },
-        {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        },
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         }
       ],
-      "duration_ms": 99826,
-      "name": "Dora the Explorer Theme Song",
-      "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
+      "duration_ms": 35842,
+      "name": "Wagon Discovery",
+      "url": "https://open.spotify.com/track/1PXbbMQvEhmVLRrvESSeA6"
     },
     {
       "added_at": null,
@@ -264,25 +256,33 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 70706,
-      "name": "Driving to the Farm",
-      "url": "https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF"
+      "duration_ms": 79426,
+      "name": "Cowboys Don't Quit",
+      "url": "https://open.spotify.com/track/4jKqRwLiOCpxQqRpp7uwf0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
       "artists": [
         {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        },
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         }
       ],
-      "duration_ms": 112000,
-      "name": "George's Realization",
-      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
+      "duration_ms": 99826,
+      "name": "Dora the Explorer Theme Song",
+      "url": "https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encanto (Originalt Dansk Soundtrack)",
-        "url": "https://open.spotify.com/album/3jgHbcvVs1iyvjYTLzXikO"
+        "name": "Encanto (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 130640,
-      "name": "Den endegyldige vision",
-      "url": "https://open.spotify.com/track/6obqSFTAhrQvbAfJRKRlgR"
+      "duration_ms": 87200,
+      "name": "Der Fluss",
+      "url": "https://open.spotify.com/track/52oHjI60ZJhBziJVCwlmBL"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 129973,
-      "name": "Ginny's Home",
-      "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
+      "duration_ms": 84650,
+      "name": "Arriving to Ginny's Farm",
+      "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 49120,
-      "name": "The King's Royal Toys",
-      "url": "https://open.spotify.com/track/7yEH6l5TiI0jsFDzFWZbLa"
+      "duration_ms": 112000,
+      "name": "George's Realization",
+      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 35842,
-      "name": "Wagon Discovery",
-      "url": "https://open.spotify.com/track/1PXbbMQvEhmVLRrvESSeA6"
+      "duration_ms": 129973,
+      "name": "Ginny's Home",
+      "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 83933,
-      "name": "Bathtime For George",
-      "url": "https://open.spotify.com/track/5gC6iFS2NwrnVDL5L6rToz"
+      "duration_ms": 49120,
+      "name": "The King's Royal Toys",
+      "url": "https://open.spotify.com/track/7yEH6l5TiI0jsFDzFWZbLa"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 200093,
-      "name": "Lyset",
-      "url": "https://open.spotify.com/track/1Siv1UWHvx0gxMju4DVILw"
+      "duration_ms": 130640,
+      "name": "Den endegyldige vision",
+      "url": "https://open.spotify.com/track/6obqSFTAhrQvbAfJRKRlgR"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 84650,
-      "name": "Arriving to Ginny's Farm",
-      "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
+      "duration_ms": 119346,
+      "name": "History of Lone Pine Falls",
+      "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
     },
     {
       "added_at": null,
@@ -472,15 +472,15 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 103773,
-      "name": "Coronation Preparation",
-      "url": "https://open.spotify.com/track/1TokrhVLMqY6qbL0zkdPx2"
+      "duration_ms": 47866,
+      "name": "Crab Fishing",
+      "url": "https://open.spotify.com/track/1EKBIa8fnpuyXqLtb9kTf8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Encanto (Banda Sonora Original em Portugu\u00eas)",
-        "url": "https://open.spotify.com/album/4yUmmPiYSzYaSk9B1Ewn6m"
+        "name": "Encanto (Originalt Dansk Soundtrack)",
+        "url": "https://open.spotify.com/album/3jgHbcvVs1iyvjYTLzXikO"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 130640,
-      "name": "A Derradeira Vis\u00e3o",
-      "url": "https://open.spotify.com/track/1LTC1o0g4Du4m1ttbAcJN2"
+      "duration_ms": 200093,
+      "name": "Lyset",
+      "url": "https://open.spotify.com/track/1Siv1UWHvx0gxMju4DVILw"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "Encanto (Banda Sonora Original em Portugu\u00eas)",
+        "url": "https://open.spotify.com/album/4yUmmPiYSzYaSk9B1Ewn6m"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 52920,
-      "name": "Campfire Stars",
-      "url": "https://open.spotify.com/track/0cnlGHnpuI0xxGSInKKYLQ"
+      "duration_ms": 130640,
+      "name": "A Derradeira Vis\u00e3o",
+      "url": "https://open.spotify.com/track/1LTC1o0g4Du4m1ttbAcJN2"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 43440,
-      "name": "George Enters Castleland",
-      "url": "https://open.spotify.com/track/7KK62PyW3ul0If2xoO3OQm"
+      "duration_ms": 87013,
+      "name": "Masks And Mirrors",
+      "url": "https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 67600,
-      "name": "Giant Sea Turtle",
-      "url": "https://open.spotify.com/track/3bkJr6YU7AfHUwCsg0yYa4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -600,25 +584,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 85173,
-      "name": "George At The Derby",
-      "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 294146,
-      "name": "Agent Down",
-      "url": "https://open.spotify.com/track/2yXVQ7k2Z4kiNf2G5IQxL7"
+      "duration_ms": 103773,
+      "name": "Coronation Preparation",
+      "url": "https://open.spotify.com/track/1TokrhVLMqY6qbL0zkdPx2"
     },
     {
       "added_at": null,
@@ -635,6 +603,22 @@
       "duration_ms": 87200,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/7ga1aQctrlfU2W4PTv7Y7m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 85173,
+      "name": "George At The Derby",
+      "url": "https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8"
     }
   ],
   "unique_name": "This Is Germaine Franco",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 
 > The whole truth\. Cover: Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,265 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,250 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 28 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 |
 | 29 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 |
 | 30 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
-| 31 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
-| 32 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
-| 33 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 |
+| 31 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 |
+| 32 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
+| 33 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 34 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
 | 35 | [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 |
 | 36 | [Made It On Our Own](https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Made It On Our Own](https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF) | 2:49 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 46 | [Carried Away](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 |
 | 47 | [ORDER OF PROTECTION](https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:51 |
 | 48 | [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 |
-| 49 | [KILLIN EM](https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [KILLIN EM](https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR) | 1:53 |
+| 49 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 |
 | 50 | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/track/5sHs8IfRosyygVKi2V2WLn) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 3:45 |
 
 Snapshot ID: `AAAAAPcsI30hwbAn/aUYl6qvQ9CDcesG`

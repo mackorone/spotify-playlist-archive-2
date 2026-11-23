@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-420 songs - 1 day 3 hr 51 min
+421 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Beyond Today](https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Beyond Today](https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b) | 3:35 | 2026-08-13 |  |
 | [Bindweed](https://open.spotify.com/track/2nBWNhMPq8yUXMePsq25Ki) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Bindweed](https://open.spotify.com/album/3dS6YTQ6MX7QvmMPRaHFxb) | 3:42 | 2026-08-20 |  |
 | [Blessings \(Joy\)](https://open.spotify.com/track/2pMHly34TFOMvHvg739V5p) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Blessings \(Joy\)](https://open.spotify.com/album/5GaAOlAQFv1kqDatrtxSV6) | 3:31 | 2026-03-20 | 2026-04-24 |
+| [Blinded By The Lights](https://open.spotify.com/track/7hrGjo6HMiPQjD0Ruc5yrl) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Blinded By The Lights](https://open.spotify.com/album/4MyxdMHn11T7yNrUVeEuJq) | 2:46 | 2026-11-06 |  |
 | [Break My Love](https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Break My Love](https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y) | 4:20 | 2024-09-13 | 2026-02-27 |
 | [Breathe Again](https://open.spotify.com/track/3YNQtS5pBv48TULWojiNXD) | [Sam Wiseman](https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47) | [Breathe Again](https://open.spotify.com/album/3nqZYGzQjrJ9O0xahgUWAT) | 2:41 | 2024-04-12 | 2024-05-17 |
 | [Breathe Out](https://open.spotify.com/track/6gbXz7CfuQTGo6srGkrA5d) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [Beautiful Nothing EP](https://open.spotify.com/album/0wCK3Fxrd3f7KhSeMNr1WT) | 4:12 | 2022-01-14 | 2022-07-29 |
@@ -102,7 +103,7 @@
 | [Endlessly](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Endlessly](https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv) | 3:37 | 2024-07-12 | 2025-06-27 |
 | [Enter the Storm](https://open.spotify.com/track/3v96fHvufikij2zsqANLos) | [Blanka Barbara](https://open.spotify.com/artist/1n4BiDYAbWQ7JJbMURKqof) | [Enter the Storm](https://open.spotify.com/album/5ClXSbEC6bzGAUaMH9Quw3) | 7:52 | 2022-01-14 | 2022-11-26 |
 | [Es Vedrà](https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Es Vedrà](https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET) | 3:17 | 2024-08-15 | 2025-10-23 |
-| [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 | 2026-02-27 |  |
+| [Escapism](https://open.spotify.com/track/1CkZPNSP8sJwguYlwXDXDX) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Escapism](https://open.spotify.com/album/0uPtOuwby4es2xkbm065AZ) | 3:42 | 2026-02-27 | 2026-11-23 |
 | [Eternal Summer](https://open.spotify.com/track/0MlfXAmNFfukGWTm4eQNU2) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Eternal Summer](https://open.spotify.com/album/4BzUIyGCKu1Ywv9qceWMe2) | 4:33 | 2022-01-14 | 2022-07-29 |
 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 | 2025-01-10 | 2026-08-14 |
 | [Everything Changes \(feat\. Frýnn\)](https://open.spotify.com/track/3irieFgecxwlmogTqnvmBs) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Frýnn](https://open.spotify.com/artist/7qKTe67KmBqhVbkCwrO3Av) | [Everything Changes \(feat\. Frýnn\)](https://open.spotify.com/album/0r9cMhphd6VpzwagBz1FCx) | 3:53 | 2026-10-16 |  |

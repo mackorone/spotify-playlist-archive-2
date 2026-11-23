@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73996,
+  "num_followers": 73998,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 204726,
-      "name": "My My My!",
-      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
+      "duration_ms": 209754,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Dance Monkey",
-        "url": "https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 209754,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
+      "duration_ms": 204726,
+      "name": "My My My!",
+      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Sound Of White",
-        "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
-      },
-      "artists": [
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Scar",
-      "url": "https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "The Secret Life Of...",
         "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
+        "name": "The Sound Of White",
+        "url": "https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ"
       },
       "artists": [
         {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
+      "duration_ms": 213733,
+      "name": "Scar",
+      "url": "https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -503,6 +487,22 @@
       "duration_ms": 200053,
       "name": "I Like The Way - Radio Edit",
       "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Slideshows",
-        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "20 Good Reasons",
-      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Edge",
         "url": "https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Slideshows",
+        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "20 Good Reasons",
+      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Age Of Reason",
         "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 213333,
       "name": "Two Strong Hearts",
       "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Ivy & The Big Apples",
-        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
-      },
-      "artists": [
-        {
-          "name": "Spiderbait",
-          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
-        }
-      ],
-      "duration_ms": 111293,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Reflector",
-        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+        "name": "Ivy & The Big Apples",
+        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
       },
       "artists": [
         {
-          "name": "Killing Heidi",
-          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+          "name": "Spiderbait",
+          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Weir",
-      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
+      "duration_ms": 111293,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -727,6 +711,22 @@
       "duration_ms": 269200,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+      },
+      "artists": [
+        {
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Weir",
+      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
+      },
+      "artists": [
+        {
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
+        },
+        {
+          "name": "Motiv8",
+          "url": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
+      "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 237247,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o"
-      },
-      "artists": [
-        {
-          "name": "Gina G",
-          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
-        },
-        {
-          "name": "Motiv8",
-          "url": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
-      "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Live By The Words",
-        "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
-      },
-      "artists": [
-        {
-          "name": "Justice Crew",
-          "url": "https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Garage Mahal",
         "url": "https://open.spotify.com/album/76hqEMQKrJpYntZVub1wlG"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 235653,
       "name": "Creepin' Up Slowly",
       "url": "https://open.spotify.com/track/0r4IWIanmyhOueD888Ztwf"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Live By The Words",
+        "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
+      },
+      "artists": [
+        {
+          "name": "Justice Crew",
+          "url": "https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Lessons To Be Learned (Special Edition)",
-        "url": "https://open.spotify.com/album/00fdw3tBe9l8qRBIm6Y1Ei"
+        "name": "That's What I'm Talking About",
+        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
       },
       "artists": [
         {
-          "name": "Gabriella Cilmi",
-          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
+          "name": "Shannon Noll",
+          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
         }
       ],
-      "duration_ms": 203280,
-      "name": "Sweet About Me",
-      "url": "https://open.spotify.com/track/6LTjAQf9JGZoVuLHJGUUlm"
+      "duration_ms": 201773,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "That's What I'm Talking About",
-        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
+        "name": "Lessons To Be Learned (Special Edition)",
+        "url": "https://open.spotify.com/album/00fdw3tBe9l8qRBIm6Y1Ei"
       },
       "artists": [
         {
-          "name": "Shannon Noll",
-          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
+          "name": "Gabriella Cilmi",
+          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
         }
       ],
-      "duration_ms": 201773,
-      "name": "What About Me",
-      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
+      "duration_ms": 203280,
+      "name": "Sweet About Me",
+      "url": "https://open.spotify.com/track/6LTjAQf9JGZoVuLHJGUUlm"
     },
     {
       "added_at": "2024-08-05 06:00:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: CHRIS STASSY, Interplanetary Criminal
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,554 likes - 121 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,549 likes - 121 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-191 songs - 8 hr 26 min
+192 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Plug Motivation](https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:08 | 2025-02-02 | 2026-01-26 |
 | [PRAY YOU DIE IN SURGERY](https://open.spotify.com/track/2AvNHy4uWeLEoCwBgQNDvS) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 3:19 | 2023-03-19 | 2024-10-03 |
 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 | 2022-10-28 |  |
+| [real ONE\. ft\. EST GEE.](https://open.spotify.com/track/4JuqDKAypioaAjG0tWV0UL) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [everything i said i am\. / everything she said she is.](https://open.spotify.com/album/49Cx6ll4BOruqwiHoPVcIj) | 2:19 | 2026-11-23 |  |
 | [RICH PROBLEMS](https://open.spotify.com/track/6rpwtMSVd51Uev03tDDvax) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:06 | 2026-09-14 | 2026-10-10 |
 | [Right Now](https://open.spotify.com/track/0j7d0CqZOkGPwAYloJTz79) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:25 | 2025-02-02 | 2025-04-10 |
 | [RIP LU MIKE](https://open.spotify.com/track/03uziM8djjbeijRpcXKTEJ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [RIP LU MIKE](https://open.spotify.com/album/58sqfVSb7XhyNB91p4c4cE) | 2:48 | 2024-12-15 | 2025-01-11 |

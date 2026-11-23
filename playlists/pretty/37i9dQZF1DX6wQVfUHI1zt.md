@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,414 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,445 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,17 +73,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 63 | [Entre Cantina Y Cantina](https://open.spotify.com/track/7JGKCtGwKRGj70B3IQy0pp) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:47 |
 | 64 | [Te Aprovechas](https://open.spotify.com/track/5XDzjngBmRhuY9Q1PAPvpe) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/7z6Mg4FgZucMjSfMxbXkoA) | 3:06 |
 | 65 | [Si Una Vez](https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 2:47 |
-| 66 | [Enséñame](https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:09 |
+| 66 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
 | 67 | [Me Duele Estar Solo](https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:27 |
 | 68 | [Déjame Amarte](https://open.spotify.com/track/59WAVCfF8Emeoo7Re7Hl89) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:30 |
 | 69 | [Perdoname](https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [FOREVER MAZZ](https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA) | 4:38 |
 | 70 | [La Carcacha](https://open.spotify.com/track/6ylsnFJHjC6g68EOlMpjnq) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 4:11 |
-| 71 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
+| 71 | [Vive](https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 4:14 |
 | 72 | [Que Me Lleven Canciones](https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:56 |
 | 73 | [Sueña](https://open.spotify.com/track/6LsysQAxBx5PVMbufJeqY9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:15 |
 | 74 | [Di Algo featuring Edgar Ramirez of Zeri](https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Iconic \(Remastered\)](https://open.spotify.com/album/04QjiAjGtDlaGITJRecZRj) | 3:44 |
 | 75 | [Buenos Amigos](https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch), [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 4:44 |
-| 76 | [Vive](https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 4:14 |
+| 76 | [Enséñame](https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:09 |
 | 77 | [¿Qué Será?](https://open.spotify.com/track/2Jgu37m4rGRGhmaS0W9JMv) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:39 |
 | 78 | [El Poder De Tus Manos](https://open.spotify.com/track/5cK8SOO5rp6FTJEaq6ojzN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 3:02 |
 | 79 | [Agua De Papaya](https://open.spotify.com/track/1bGZfq8JYklMC8yT0BcpWz) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Que Cante El Mundo \(Remastered\)](https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC) | 4:06 |

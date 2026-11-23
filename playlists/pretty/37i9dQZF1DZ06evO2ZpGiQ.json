@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 487351,
+  "num_followers": 487396,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAABJ5WiQdJHkw7PEeHfqJzb9",
+  "snapshot_id": "awDfAAAAAABSjUoHNvL6zVCjnY9zvAH0",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Am Not A Human Being",
+        "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 271946,
+      "name": "Right Above It",
+      "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We The Best Forever",
         "url": "https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 296146,
       "name": "I'm On One",
       "url": "https://open.spotify.com/track/608a1wIsSd5KzMEqm1O7w3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am Not A Human Being",
-        "url": "https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 271946,
-      "name": "Right Above It",
-      "url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP"
     },
     {
       "added_at": null,
@@ -459,30 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+        "name": "Here I Am (Deluxe Version)",
+        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 231746,
-      "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
-      "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
+      "duration_ms": 230560,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
     },
     {
       "added_at": null,
@@ -507,22 +499,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here I Am (Deluxe Version)",
-        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
       "artists": [
         {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 230560,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
+      "duration_ms": 231746,
+      "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
+      "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
     },
     {
       "added_at": null,
@@ -594,11 +594,15 @@
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
         }
       ],
-      "duration_ms": 240306,
-      "name": "How To Love",
-      "url": "https://open.spotify.com/track/5W7BcYDIaeXnpG3e39T7hJ"
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
     },
     {
       "added_at": null,
@@ -670,15 +674,11 @@
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
         }
       ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+      "duration_ms": 240306,
+      "name": "How To Love",
+      "url": "https://open.spotify.com/track/5W7BcYDIaeXnpG3e39T7hJ"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Human Being II (Deluxe)",
-        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Rich As Fuck",
-      "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "400 Degreez",
         "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
       },
@@ -787,6 +767,50 @@
       "duration_ms": 265600,
       "name": "Back That Azz Up",
       "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am Not A Human Being II (Deluxe)",
+        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Rich As Fuck",
+      "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here I Stand",
+        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 309026,
+      "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
     },
     {
       "added_at": null,
@@ -831,30 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here I Stand",
-        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 309026,
-      "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Drop The World",
-      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Macadelic",
         "url": "https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1"
       },
@@ -927,22 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 124188,
-      "name": "ay! (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
+      "duration_ms": 229226,
+      "name": "Drop The World",
+      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 227478,
       "name": "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",
       "url": "https://open.spotify.com/track/0ZLuW8uOXdFNWcI40C0OC2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 124188,
+      "name": "ay! (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/6mk3WjnTzQ7MB8EpMU62ee"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "LITE (feat. Belly Gang Kushington, Lil Wayne) (remix)",
+      "url": "https://open.spotify.com/track/7mok315eY6nztyN0NO9Qwu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter II",
         "url": "https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39"
       },
@@ -1047,30 +1071,6 @@
       "duration_ms": 303666,
       "name": "Hustler Musik",
       "url": "https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 217631,
-      "name": "Miami (feat. Lil Wayne & Rick Ross)",
-      "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
     },
     {
       "added_at": null,

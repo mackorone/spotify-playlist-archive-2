@@ -4,7 +4,7 @@
 
 > This is Kris Bowers\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 2 min
+32 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Meet Dr\. Monro \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 3:26 | 2026-06-17 |  |
 | [Ms\. Wilson Runs the Show](https://open.spotify.com/track/1Vul5NzyLvZURHyt3Kfiqy) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 1:01 | 2026-06-17 |  |
 | [Nothing Could Keep Me Away \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/6qgk650u7bie0MlLEMcndW) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:17 | 2026-06-18 | 2026-11-20 |
+| [Sisters](https://open.spotify.com/track/2Fu2RKSNdvhhPNhY1hUJYE) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Steps \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5QR57qRfOJVqqieBL1I0sW) | 1:29 | 2026-11-23 |  |
 | [Strange \(feat\. Hillary Smith\)](https://open.spotify.com/track/25AatSrHrdFC2heYEvtBaG) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Hillary Smith](https://open.spotify.com/artist/23EnOj33MFpDscgOYo49gN) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/6qOA5YkgRGNlAI8QaqB9oH) | 3:18 | 2026-06-17 |  |
 | [Thank You \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 2:32 | 2026-06-17 |  |
 | [They Are Betrothed \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/1fIWLNtT0o5GEAPMUaxa2F) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 1:10 | 2026-06-17 |  |

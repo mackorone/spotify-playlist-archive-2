@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 Angelica Bove in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,880 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,878 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

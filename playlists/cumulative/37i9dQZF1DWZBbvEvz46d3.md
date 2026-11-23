@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12 Łez](https://open.spotify.com/track/4c1SMZWc243YtmF3Nw7Tc6) | [Sylwia Wisniewska](https://open.spotify.com/artist/0wLnqvt0oQEeDBTUZyYKgH) | [Dedykacja](https://open.spotify.com/album/5axpzP33FpIyaO31gCPtSz) | 3:48 | 2025-10-16 | 2026-10-02 |
+| [12 Łez](https://open.spotify.com/track/4c1SMZWc243YtmF3Nw7Tc6) | [Sylwia Wisniewska](https://open.spotify.com/artist/0wLnqvt0oQEeDBTUZyYKgH) | [Dedykacja](https://open.spotify.com/album/5axpzP33FpIyaO31gCPtSz) | 3:48 | 2025-10-16 |  |
 | [A Wszystko To...\(Bo Ciebie Kocham\)](https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [3](https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1) | 3:59 | 2023-02-03 |  |
 | [Absolutnie, absolutnie](https://open.spotify.com/track/1iB862flnPp3q65orvSfkK) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Miłość](https://open.spotify.com/album/7szu0bHUk5PZOfSXlgu0ZQ) | 3:59 | 2023-02-03 | 2024-04-19 |
 | [Ale jazz!](https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Ale jazz!](https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc) | 3:07 | 2023-02-03 | 2024-08-05 |
@@ -118,7 +118,7 @@
 | [Zawsze tam gdzie Ty](https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [Zawsze tam gdzie Ty](https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu) | 4:18 | 2023-02-03 | 2024-04-19 |
 | [Zawsze Z Toba Chcialbym Byc..\. \(Przez Miesiac :\) \)](https://open.spotify.com/track/1ruDMWJJSz1sceqdY6zsIX) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [Ad.4](https://open.spotify.com/album/1OgrUM009v8ZgKtO9Jjwoh) | 3:42 | 2023-02-03 |  |
 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 | 2023-02-03 |  |
-| [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 | 2023-02-03 |  |
+| [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 | 2023-02-03 | 2026-11-23 |
 | [Śniadanie do łóżka](https://open.spotify.com/track/2giMKGE3VSImkIMeUJc7MH) | [Andrzej Piaseczny](https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH) | [Śniadanie do łóżka](https://open.spotify.com/album/1t1PBLlAXpA44up4T9MbDe) | 2:59 | 2025-10-16 | 2026-11-16 |
 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 | 2023-04-03 |  |
 | [Świat się pomylił](https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH) | [Patrycja Markowska](https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf) | [Świat się pomylił](https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf) | 3:30 | 2024-08-04 |  |

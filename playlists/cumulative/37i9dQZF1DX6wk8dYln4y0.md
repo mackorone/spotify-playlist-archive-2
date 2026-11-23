@@ -4,7 +4,7 @@
 
 > pop that \*hits different\* featuring redd.
 
-806 songs - 1 day 19 hr 24 min
+807 songs - 1 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2023-04-06 | 2023-04-29 |
 | [happy 4 u](https://open.spotify.com/track/2OwvgYtIVUT65olr13imQ1) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [happy 4 u](https://open.spotify.com/album/4XM28g2GoNUXkYSV1rvMHe) | 3:16 | 2025-06-26 | 2025-08-01 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-18 | 2024-04-26 |
-| [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2025-11-13 | 2026-11-06 |
+| [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2025-11-13 |  |
 | [he loves me, he loves me not](https://open.spotify.com/track/1fYnF4ycRJWYDVcuEshZpW) | [Lucy Sugerman](https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N) | [old patterns](https://open.spotify.com/album/5GYwR7YbgBCzX0BnbFLvsO) | 4:15 | 2026-02-12 | 2026-03-13 |
 | [Heart on Fire](https://open.spotify.com/track/76k6Av4PyMxrMvbY9NHQUU) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Afterglow](https://open.spotify.com/album/49Eh0Oixu9Sfo43ujAY1sk) | 3:13 | 2025-10-23 | 2025-11-09 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-03-16 | 2023-08-03 |
@@ -491,6 +491,7 @@
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-29 | 2026-06-12 |
 | [Nice To Meet Me](https://open.spotify.com/track/5xA9Y5MQ3UdHOthViOVg2K) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Nice To Meet Me](https://open.spotify.com/album/0UkpkkacCX6qmSNsAEOZrv) | 3:04 | 2024-10-24 | 2024-12-06 |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2023-03-16 | 2024-07-10 |
+| [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 | 2026-11-19 |  |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-03-16 | 2024-06-12 |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2023-11-04 | 2023-11-10 |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-09 | 2024-02-28 |
@@ -498,7 +499,7 @@
 | [Not Enough](https://open.spotify.com/track/0unMVqDlGLVerXRHQMIj8P) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Not Enough](https://open.spotify.com/album/5jszKm4RngylvqtM8bSZKT) | 3:37 | 2025-01-16 | 2025-02-14 |
 | [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 | 2023-05-31 | 2024-11-15 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-07-09 | 2025-02-21 |
-| [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 | 2026-07-09 |  |
+| [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 | 2026-07-09 | 2026-11-23 |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-11-04 | 2024-10-18 |
 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 | 2025-06-05 | 2025-06-15 |
 | [On My Mind \(with PLAYERTWO\)](https://open.spotify.com/track/6lDNXvXYc6cWeLqpf12n07) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [On My Mind \(with PLAYERTWO\)](https://open.spotify.com/album/5ipBa6wosvLfHik8T2Uv8O) | 2:59 | 2025-03-06 | 2025-04-04 |
@@ -555,7 +556,7 @@
 | [Ruin A Good Thing](https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [Bug](https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w) | 3:19 | 2025-05-29 | 2025-06-13 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-19 | 2024-06-19 |
 | [RUN IT](https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O) | 3:29 | 2026-07-02 | 2026-07-31 |
-| [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 | 2026-05-21 |  |
+| [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 | 2026-05-21 | 2026-11-23 |
 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 | 2025-06-05 | 2025-07-18 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-13 | 2023-08-26 |
 | [sad face :\(](https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [sad face :\(](https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78) | 3:28 | 2025-09-11 | 2025-10-06 |

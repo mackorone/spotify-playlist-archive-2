@@ -1,6 +1,6 @@
 {
   "description": "songs die dich im winter warmhalten",
-  "num_followers": 1299024,
+  "num_followers": 1298956,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 170584,
-      "name": "oh yeah?",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -591,18 +591,18 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "Freakin\u2019 Out",
-        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
       },
       "artists": [
         {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 217897,
-      "name": "Freakin\u2019 Out",
-      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -623,18 +623,18 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+        "name": "Freakin\u2019 Out",
+        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
       },
       "artists": [
         {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
         }
       ],
-      "duration_ms": 228360,
-      "name": "My Moon My Man",
-      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252305,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "The Sun Will Never Settle",
         "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 148000,
       "name": "The Sun Will Never Settle",
       "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252305,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "Von hier an blind",
-        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
-      },
-      "artists": [
-        {
-          "name": "Wir sind Helden",
-          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Von hier an blind",
-      "url": "https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "Kansas Anymore",
         "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 169974,
       "name": "Writing's On The Wall",
       "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "Von hier an blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
+      },
+      "artists": [
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Von hier an blind",
+      "url": "https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "this is what autumn feels like",
-        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 219909,
-      "name": "this is what autumn feels like",
-      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
+        "name": "to love and to lose",
+        "url": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 181246,
+      "name": "to love and to lose",
+      "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
-        "name": "to love and to lose",
-        "url": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 181246,
-      "name": "to love and to lose",
-      "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "frieden",
-        "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
-      },
-      "artists": [
-        {
-          "name": "Mika No\u00e9",
-          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "frieden",
-      "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "Graceland",
         "url": "https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 140348,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "frieden",
+        "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "frieden",
+      "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "Farewell, Starlite!",
-        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
-      },
-      "artists": [
-        {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
-        }
-      ],
-      "duration_ms": 210944,
-      "name": "See Her Out (Thats Just Life)",
-      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "Gegenteil von Gl\u00fcck",
         "url": "https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 159811,
       "name": "Gegenteil von Gl\u00fcck",
       "url": "https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "duration_ms": 210944,
+      "name": "See Her Out (Thats Just Life)",
+      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
     },
     {
       "added_at": "2026-11-19 23:01:09",

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1372,
+  "num_followers": 1385,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEtfFmuVC9ObjxYDJjiZsbrcsY+YGi",
+  "snapshot_id": "AAAEx8S38KLLUcMeUscGh42uFXGLK3vy",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6"
     },
     {
-      "added_at": "2026-02-27 02:35:26",
-      "album": {
-        "name": "Autumn in the Storm",
-        "url": "https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo"
-      },
-      "artists": [
-        {
-          "name": "Breathing Tales",
-          "url": "https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I"
-        }
-      ],
-      "duration_ms": 152716,
-      "name": "Autumn in the Storm",
-      "url": "https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii"
-    },
-    {
       "added_at": "2026-03-09 20:44:39",
       "album": {
         "name": "Scenes Of Doubt",
@@ -139,38 +123,6 @@
       "duration_ms": 294360,
       "name": "Scenes Of Doubt",
       "url": "https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo"
-    },
-    {
-      "added_at": "2026-03-16 19:38:37",
-      "album": {
-        "name": "The Summit",
-        "url": "https://open.spotify.com/album/17EQOZPmfmbWsIU5bfu9ou"
-      },
-      "artists": [
-        {
-          "name": "Ashstone",
-          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "The Summit",
-      "url": "https://open.spotify.com/track/1j0RFvDArOtl2P19hAD62t"
-    },
-    {
-      "added_at": "2026-04-04 16:33:07",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/6GM16JmN7ixpHYzoMOZ0XU"
-      },
-      "artists": [
-        {
-          "name": "Penelope",
-          "url": "https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/0qHxVLpEfjoFWlwwb1jPT2"
     },
     {
       "added_at": "2026-07-17 11:29:34",
@@ -221,70 +173,6 @@
       "url": "https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL"
     },
     {
-      "added_at": "2026-07-22 14:41:24",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/4H8CIjBwxyxZtoeA6hvAJn"
-      },
-      "artists": [
-        {
-          "name": "Hannah Aboh",
-          "url": "https://open.spotify.com/artist/5YKklNWFgD4II8iXeaXGjf"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/4ecImVEuf5jm9Joc2cqycN"
-    },
-    {
-      "added_at": "2026-08-03 15:05:33",
-      "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/2Sf3u0pwck1BFHuaP4crw3"
-      },
-      "artists": [
-        {
-          "name": "vic hagen",
-          "url": "https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU"
-        }
-      ],
-      "duration_ms": 244281,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/0RVvZ8l6MFAEDLpVasrzYa"
-    },
-    {
-      "added_at": "2026-08-12 20:22:29",
-      "album": {
-        "name": "5 \u0414\u0435\u043d\u044c",
-        "url": "https://open.spotify.com/album/0VJiRSvYM2RQORPHTO2UW6"
-      },
-      "artists": [
-        {
-          "name": "YANKEE",
-          "url": "https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V"
-        }
-      ],
-      "duration_ms": 114103,
-      "name": "5 \u0414\u0435\u043d\u044c",
-      "url": "https://open.spotify.com/track/06mRNsQnoRr46AOj0CHBjb"
-    },
-    {
-      "added_at": "2026-08-14 16:01:42",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6siMNfpjoJNPSGhKIJZwxr"
-      },
-      "artists": [
-        {
-          "name": "Twin Phase",
-          "url": "https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2HYhqNMPAn74OgyD8iTvsk"
-    },
-    {
       "added_at": "2026-08-18 22:36:39",
       "album": {
         "name": "Big Time",
@@ -299,22 +187,6 @@
       "duration_ms": 160508,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni"
-    },
-    {
-      "added_at": "2026-08-23 14:40:25",
-      "album": {
-        "name": "Need and Desire",
-        "url": "https://open.spotify.com/album/3XXqrdUMW5OjilzoqgTxid"
-      },
-      "artists": [
-        {
-          "name": "Ebb 'n Flow",
-          "url": "https://open.spotify.com/artist/10whZfAsmPiGyP9x4K4VMu"
-        }
-      ],
-      "duration_ms": 184811,
-      "name": "Need and Desire",
-      "url": "https://open.spotify.com/track/0PP0HKi1EVTQ5OupfncE7A"
     },
     {
       "added_at": "2026-08-25 22:39:53",
@@ -413,42 +285,6 @@
       "url": "https://open.spotify.com/track/3A8RY5eNYSH3ObmssKVCJ6"
     },
     {
-      "added_at": "2026-09-23 20:34:34",
-      "album": {
-        "name": "Urban Legends",
-        "url": "https://open.spotify.com/album/5Rl9408O7edQI7kXWQWfuH"
-      },
-      "artists": [
-        {
-          "name": "Johnny Scott",
-          "url": "https://open.spotify.com/artist/2Puyl7pb2WOipiBORyFKKH"
-        }
-      ],
-      "duration_ms": 173785,
-      "name": "All i ever wanted",
-      "url": "https://open.spotify.com/track/5EyoH8vk6UZ23j6AuriG5S"
-    },
-    {
-      "added_at": "2026-09-29 23:06:17",
-      "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/1Y0Q205TSU0imtpxIDinzB"
-      },
-      "artists": [
-        {
-          "name": "Skiii",
-          "url": "https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU"
-        },
-        {
-          "name": "Ellie Rizoa",
-          "url": "https://open.spotify.com/artist/6sRlVpjjeI0SCwmEr1ln6Q"
-        }
-      ],
-      "duration_ms": 105512,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/7t1BcudJWBTmceFz5Ysyd2"
-    },
-    {
       "added_at": "2026-09-29 23:10:47",
       "album": {
         "name": "In an Hour of Truth",
@@ -463,22 +299,6 @@
       "duration_ms": 251760,
       "name": "In an Hour of Truth",
       "url": "https://open.spotify.com/track/4GehY9RxsnDzHe3SEhTeUF"
-    },
-    {
-      "added_at": "2026-10-05 19:36:40",
-      "album": {
-        "name": "Paranoia",
-        "url": "https://open.spotify.com/album/7cztImoabH0nnQFCja9TKR"
-      },
-      "artists": [
-        {
-          "name": "Black Grouse",
-          "url": "https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4"
-        }
-      ],
-      "duration_ms": 165723,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/34gsr87ouP8s2JFvGuVtEO"
     },
     {
       "added_at": "2026-10-05 20:05:38",
@@ -497,22 +317,6 @@
       "url": "https://open.spotify.com/track/6qwbAsMNRLZdvzx9bGzpWZ"
     },
     {
-      "added_at": "2026-10-08 23:12:23",
-      "album": {
-        "name": "Symptoms",
-        "url": "https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI"
-      },
-      "artists": [
-        {
-          "name": "Ms. Black",
-          "url": "https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi"
-        }
-      ],
-      "duration_ms": 171999,
-      "name": "Symptoms",
-      "url": "https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP"
-    },
-    {
       "added_at": "2026-10-08 23:25:05",
       "album": {
         "name": "Unfinished Business EP",
@@ -527,22 +331,6 @@
       "duration_ms": 216640,
       "name": "Can I Have Ya Number?",
       "url": "https://open.spotify.com/track/3QVRa8jDHfAjH8TrIhfARQ"
-    },
-    {
-      "added_at": "2026-10-11 14:02:54",
-      "album": {
-        "name": "Fuck Off",
-        "url": "https://open.spotify.com/album/0r2zCLxvtQdFeO4lIQlS6u"
-      },
-      "artists": [
-        {
-          "name": "Black Grouse",
-          "url": "https://open.spotify.com/artist/5jzQOtU6ojkmCHcQhffLk4"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Fuck Off",
-      "url": "https://open.spotify.com/track/1Q01zHMDA70SNdcrUZxwIT"
     },
     {
       "added_at": "2026-10-11 14:05:08",
@@ -575,294 +363,6 @@
       "duration_ms": 113532,
       "name": "Gamification",
       "url": "https://open.spotify.com/track/30U8vus9dlgxmGHWiW3BK2"
-    },
-    {
-      "added_at": "2026-10-12 19:29:18",
-      "album": {
-        "name": "MOTION CONTROL",
-        "url": "https://open.spotify.com/album/2n3ipDzFDy6mwqojl7B078"
-      },
-      "artists": [
-        {
-          "name": "RealMRCarty",
-          "url": "https://open.spotify.com/artist/4eYsJcc8WUX8DD2U35rgRS"
-        },
-        {
-          "name": "Alber Joe 2-30",
-          "url": "https://open.spotify.com/artist/6qgaa2Ju4yEgADEaYmfuUp"
-        }
-      ],
-      "duration_ms": 174048,
-      "name": "SHOW IT",
-      "url": "https://open.spotify.com/track/6PL1s8zAlm3kMfDrcW6vX3"
-    },
-    {
-      "added_at": "2026-10-12 19:58:24",
-      "album": {
-        "name": "BIMMA",
-        "url": "https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v"
-      },
-      "artists": [
-        {
-          "name": "AME",
-          "url": "https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "BIMMA",
-      "url": "https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j"
-    },
-    {
-      "added_at": "2026-10-12 20:10:13",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL"
-      },
-      "artists": [
-        {
-          "name": "Gravens",
-          "url": "https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Devil's Blues",
-      "url": "https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv"
-    },
-    {
-      "added_at": "2026-10-15 14:33:49",
-      "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq"
-      },
-      "artists": [
-        {
-          "name": "Lime",
-          "url": "https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB"
-        }
-      ],
-      "duration_ms": 273560,
-      "name": "The Last Thing That I Do",
-      "url": "https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF"
-    },
-    {
-      "added_at": "2026-10-21 19:59:00",
-      "album": {
-        "name": "Murder Parade",
-        "url": "https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw"
-      },
-      "artists": [
-        {
-          "name": "FYNN",
-          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "Murder Parade",
-      "url": "https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0"
-    },
-    {
-      "added_at": "2026-10-21 20:15:46",
-      "album": {
-        "name": "Beautiful Child",
-        "url": "https://open.spotify.com/album/7pz0Zlobeu8fVttJpxEtxg"
-      },
-      "artists": [
-        {
-          "name": "Sejung Go",
-          "url": "https://open.spotify.com/artist/6okUWvbqHW03Yr6W1nEx9Q"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Beautiful Child",
-      "url": "https://open.spotify.com/track/0QncGNao6DPCIaZsBErbeL"
-    },
-    {
-      "added_at": "2026-10-21 20:17:57",
-      "album": {
-        "name": "I wish",
-        "url": "https://open.spotify.com/album/2Uv1oGETqSBICJefqrwZj7"
-      },
-      "artists": [
-        {
-          "name": "\u00cbRR\u00c4",
-          "url": "https://open.spotify.com/artist/0JEioRiCYOk5ris1hGqIiE"
-        }
-      ],
-      "duration_ms": 143250,
-      "name": "I wish",
-      "url": "https://open.spotify.com/track/3L3FHxCCEX4CuDDR1OsQNV"
-    },
-    {
-      "added_at": "2026-10-21 20:18:48",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/79hfXejPfxPxshntSaHAvA"
-      },
-      "artists": [
-        {
-          "name": "N\u00a3GRA",
-          "url": "https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW"
-        }
-      ],
-      "duration_ms": 190612,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6pPe9uz0EzSQ2bLeNyXimB"
-    },
-    {
-      "added_at": "2026-10-25 17:53:13",
-      "album": {
-        "name": "Somewhere In Texas",
-        "url": "https://open.spotify.com/album/7wxDvaNOlrM0vHXUxKwogm"
-      },
-      "artists": [
-        {
-          "name": "The Taproots",
-          "url": "https://open.spotify.com/artist/2DZgNVKc5uxU5dNysNplKm"
-        }
-      ],
-      "duration_ms": 207123,
-      "name": "Somewhere In Texas",
-      "url": "https://open.spotify.com/track/1KFYveqqdozgCZqgsIbK0H"
-    },
-    {
-      "added_at": "2026-10-27 21:30:30",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/3Nr6j1y4qZrrvP6tXI23KB"
-      },
-      "artists": [
-        {
-          "name": "L\u00ebe Br\u0153wn",
-          "url": "https://open.spotify.com/artist/4mfih3bhrx972PCx2Jug9T"
-        },
-        {
-          "name": "Alyssa Jane",
-          "url": "https://open.spotify.com/artist/22IXfQIItP8FJ1eLcKeNM9"
-        }
-      ],
-      "duration_ms": 135455,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/2BmXGMErFHmpkcZ52YKbv3"
-    },
-    {
-      "added_at": "2026-10-27 21:50:12",
-      "album": {
-        "name": "En tus ojos",
-        "url": "https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL"
-      },
-      "artists": [
-        {
-          "name": "Leandro Rebolini",
-          "url": "https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI"
-        }
-      ],
-      "duration_ms": 251615,
-      "name": "En tus ojos",
-      "url": "https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC"
-    },
-    {
-      "added_at": "2026-10-27 21:50:50",
-      "album": {
-        "name": "To Find You",
-        "url": "https://open.spotify.com/album/1btWxse1LMfelIPnD5I3X3"
-      },
-      "artists": [
-        {
-          "name": "Ashley Jo",
-          "url": "https://open.spotify.com/artist/3L23lQD9NSjXEoVDWLD4Ye"
-        }
-      ],
-      "duration_ms": 205450,
-      "name": "To Find You",
-      "url": "https://open.spotify.com/track/0MBazGV7Kw3TH9rFQNYMNW"
-    },
-    {
-      "added_at": "2026-10-27 21:53:03",
-      "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/6fAmumUIB9Xcne6enUXwCD"
-      },
-      "artists": [
-        {
-          "name": "Richard Hart",
-          "url": "https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/16O07dMipBszv1IXqPO3Bl"
-    },
-    {
-      "added_at": "2026-10-27 23:13:44",
-      "album": {
-        "name": "LACKLUSTING",
-        "url": "https://open.spotify.com/album/7HfebcRWlomtMV5GpCIBrI"
-      },
-      "artists": [
-        {
-          "name": "Explorers Of The Dreamworld",
-          "url": "https://open.spotify.com/artist/3bVQRDlJdVM6KIzy8mOuzG"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Visons",
-      "url": "https://open.spotify.com/track/4X0t2hKWYokFMgQseDVmip"
-    },
-    {
-      "added_at": "2026-10-27 23:18:27",
-      "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/3diFUKB3tgMbCgifCVOJRZ"
-      },
-      "artists": [
-        {
-          "name": "Corey Drumz",
-          "url": "https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML"
-        },
-        {
-          "name": "Jaibi",
-          "url": "https://open.spotify.com/artist/6pLzTI6en7XQSm2HGd41VB"
-        }
-      ],
-      "duration_ms": 181231,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/2w1ckhP6QAycj3Wappvc63"
-    },
-    {
-      "added_at": "2026-04-24 13:54:00",
-      "album": {
-        "name": "The Thinker And The Prover",
-        "url": "https://open.spotify.com/album/3RnQntICT9Zskt7fckchwt"
-      },
-      "artists": [
-        {
-          "name": "Jason Waroff",
-          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "The Thinker And The Prover",
-      "url": "https://open.spotify.com/track/271dv3OBpfRS1YmHqubWZQ"
-    },
-    {
-      "added_at": "2026-10-27 23:19:56",
-      "album": {
-        "name": "Insolvent Love",
-        "url": "https://open.spotify.com/album/0OkCXDp010u6owuApBMxOt"
-      },
-      "artists": [
-        {
-          "name": "BONAHORA",
-          "url": "https://open.spotify.com/artist/7iPRlF2QA4RRVLYWSArhbu"
-        },
-        {
-          "name": "Melisa Chao",
-          "url": "https://open.spotify.com/artist/4l8Lziz8oaVTHc1v08gsTK"
-        }
-      ],
-      "duration_ms": 244782,
-      "name": "Insolvent Love",
-      "url": "https://open.spotify.com/track/5TMBHV3UPXiuaSA1oy2vxz"
     },
     {
       "added_at": "2026-10-30 20:43:22",
@@ -1145,6 +645,22 @@
       "url": "https://open.spotify.com/track/4VA5EXvQ8AXhszTsAuZFPe"
     },
     {
+      "added_at": "2026-04-24 13:54:00",
+      "album": {
+        "name": "The Thinker And The Prover",
+        "url": "https://open.spotify.com/album/3RnQntICT9Zskt7fckchwt"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "The Thinker And The Prover",
+      "url": "https://open.spotify.com/track/271dv3OBpfRS1YmHqubWZQ"
+    },
+    {
       "added_at": "2026-11-15 17:19:16",
       "album": {
         "name": "Father Time",
@@ -1227,6 +743,22 @@
       "duration_ms": 189521,
       "name": "Break the Walls",
       "url": "https://open.spotify.com/track/5fM2U7gWzsjwNkGC8r1bS5"
+    },
+    {
+      "added_at": "2026-11-22 19:31:00",
+      "album": {
+        "name": "Urban Legends",
+        "url": "https://open.spotify.com/album/5Rl9408O7edQI7kXWQWfuH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Scott",
+          "url": "https://open.spotify.com/artist/2Puyl7pb2WOipiBORyFKKH"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Birds of a feather",
+      "url": "https://open.spotify.com/track/0nB0Oi1gyh8cgmo3RR4yVX"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

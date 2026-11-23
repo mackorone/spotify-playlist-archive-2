@@ -4,7 +4,7 @@
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-186 songs - 10 hr 2 min
+187 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Anybody](https://open.spotify.com/track/0JoEdvXnroF2eVAaErd945) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:08 | 2024-10-29 | 2026-10-05 |
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2021-12-28 | 2025-01-25 |
 | [As e Be \(Skit\)](https://open.spotify.com/track/1bhEMY3ih5t89pwH2OYg9e) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On a Spaceship](https://open.spotify.com/album/4tjD2jPZdPe3nqop8En6zb) | 0:43 | 2023-04-27 | 2023-05-01 |
-| [B\. D'OR \(feat\. Wizkid\)](https://open.spotify.com/track/1n6vbblzNmLgkfyPiQK4Ig) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D'OR \(feat\. Wizkid\)](https://open.spotify.com/album/5A5mRL4y540qRyt9N6MNdZ) | 3:09 | 2026-11-09 |  |
+| [B\. D'OR \(feat\. Wizkid\)](https://open.spotify.com/track/1n6vbblzNmLgkfyPiQK4Ig) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D'OR \(feat\. Wizkid\)](https://open.spotify.com/album/5A5mRL4y540qRyt9N6MNdZ) | 3:09 | 2026-11-09 | 2026-11-23 |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-28 | 2025-01-07 |
 | [Bank On It](https://open.spotify.com/track/22kcexb32KF5zr9UIWijC7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/56lLDMppfyKqUaUJWr0Ld4) | 4:36 | 2026-05-05 |  |
 | [Bank On It](https://open.spotify.com/track/5jqh2kAjz4GxjOS3HHSz17) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:36 | 2021-12-28 | 2024-06-07 |
@@ -34,6 +34,7 @@
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-29 | 2023-10-11 |
 | [Big 7](https://open.spotify.com/track/2pxcoSLwfv9bheBmpUbMfu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:23 | 2026-07-08 |  |
 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 | 2023-10-10 | 2025-02-05 |
+| [Bigger \(from GTAVI: The Album\)](https://open.spotify.com/track/4BDrbdeodpenlrORv4yqnc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Bigger \(from GTAVI: The Album\)](https://open.spotify.com/album/6hkaerWZMubBWwyTDJP8J3) | 2:49 | 2026-11-23 |  |
 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 | 2026-02-01 | 2026-05-30 |
 | [Born Winner](https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:49 | 2025-09-03 |  |
 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 | 2024-12-20 | 2025-07-27 |

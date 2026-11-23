@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 151811,
+  "num_followers": 151821,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
         "name": "Handel: Judas Maccabaeus",
         "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 395026,
       "name": "Judas Maccabaeus, HWV 63, Act III: Duet \"O lovely peace\"",
       "url": "https://open.spotify.com/track/1o8KteyWoKK4HGEuUOCzS6"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -787,30 +787,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Nuove Invenzioni",
-        "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Rolf Lislevand",
-          "url": "https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh"
-        },
-        {
-          "name": "Concerto Stella Matutina",
-          "url": "https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU"
-        }
-      ],
-      "duration_ms": 353723,
-      "name": "Eternal Source of Light Divine, HWV 74 (Arrangement)",
-      "url": "https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel: Organ Concertos, Op. 4",
         "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 434333,
       "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
       "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Nuove Invenzioni",
+        "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Rolf Lislevand",
+          "url": "https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh"
+        },
+        {
+          "name": "Concerto Stella Matutina",
+          "url": "https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU"
+        }
+      ],
+      "duration_ms": 353723,
+      "name": "Eternal Source of Light Divine, HWV 74 (Arrangement)",
+      "url": "https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -983,30 +983,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Messiah",
-        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Apollo's Fire",
-          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
-        },
-        {
-          "name": "Jeannette Sorrell",
-          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
-      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
         "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 70786,
       "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
       "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Messiah",
+        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Apollo's Fire",
+          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
+        },
+        {
+          "name": "Jeannette Sorrell",
+          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
+      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
+        "name": "Handel: Organ Concertos, Op. 7",
+        "url": "https://open.spotify.com/album/5OQJ9lv225IZAL4YNVO8L5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        }
+      ],
+      "duration_ms": 285840,
+      "name": "Concerto in D Minor, Op.7, No.4: I. Adagio",
+      "url": "https://open.spotify.com/track/05iURKvut2OWEzPHQUhDT5"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
         "name": "Handel: Messiah",
         "url": "https://open.spotify.com/album/4fMwLdKBFB0A2XjrB8vvM5"
       },
@@ -1175,30 +1199,6 @@
       "duration_ms": 219360,
       "name": "Messiah, HWV 56, Pt. 2: No. 44, Chorus. Hallelujah, for the Lord God Omnipotent Reigneth",
       "url": "https://open.spotify.com/track/4TNCQyG2gmepsGoeLdRKn4"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "Handel: Organ Concertos, Op. 7",
-        "url": "https://open.spotify.com/album/5OQJ9lv225IZAL4YNVO8L5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Academy of Ancient Music",
-          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
-        },
-        {
-          "name": "Richard Egarr",
-          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
-        }
-      ],
-      "duration_ms": 285840,
-      "name": "Concerto in D Minor, Op.7, No.4: I. Adagio",
-      "url": "https://open.spotify.com/track/05iURKvut2OWEzPHQUhDT5"
     },
     {
       "added_at": "2025-12-23 12:24:26",

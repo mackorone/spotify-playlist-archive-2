@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 33092,
+  "num_followers": 33146,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -414,11 +414,15 @@
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 167349,
-      "name": "Oba",
-      "url": "https://open.spotify.com/track/59zlaPDhvE414BZ82AFjH5"
+      "duration_ms": 143575,
+      "name": "BADMAN GANGSTA",
+      "url": "https://open.spotify.com/track/13tBZxRsywcJPDo4w7DtEd"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -502,15 +506,11 @@
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 143575,
-      "name": "BADMAN GANGSTA",
-      "url": "https://open.spotify.com/track/13tBZxRsywcJPDo4w7DtEd"
+      "duration_ms": 167349,
+      "name": "Oba",
+      "url": "https://open.spotify.com/track/59zlaPDhvE414BZ82AFjH5"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -631,42 +631,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 148656,
-      "name": "Coco",
-      "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Site 15",
-        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 236460,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "NGOMOYA",
         "url": "https://open.spotify.com/album/05HX31ytzjPOO53EqrIu0c"
       },
@@ -699,6 +663,42 @@
       "duration_ms": 518307,
       "name": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
       "url": "https://open.spotify.com/track/62auSQwzIlyVuqUsxd4w63"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 148656,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Site 15",
+        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 236460,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "4 Da Ho's",
         "url": "https://open.spotify.com/album/3t6qF1HL758mQiMjVHi7m6"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 273098,
       "name": "ZENZELE (feat. Royal MusiQ, Uncool MC, Xduppy, & CowBoii)",
       "url": "https://open.spotify.com/track/5wYyy08pvNomxBKFa3Bfj6"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -911,22 +911,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
           "name": "Young Jonn",
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 169911,
-      "name": "Che Che (feat. Asake)",
-      "url": "https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO"
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
       "artists": [
         {
           "name": "Young Jonn",
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Kilometer II",
-        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 165296,
-      "name": "Shakabulizzy",
-      "url": "https://open.spotify.com/track/0VrCqCukErAdpwmtaXpiqk"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "So Mi So",
         "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 245182,
       "name": "So Mi So",
       "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Kilometer II",
+        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 165296,
+      "name": "Shakabulizzy",
+      "url": "https://open.spotify.com/track/0VrCqCukErAdpwmtaXpiqk"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Kilometer II",
-        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Escaladizzy",
-      "url": "https://open.spotify.com/track/258ZOMdFXcoTHA5D2LnCzZ"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/0K9DQYNFGj1po76L6KgG2g"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 150651,
       "name": "TaTaTa (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6mSjg7wEv4MLKtc2KqgJAE"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Kilometer II",
+        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Escaladizzy",
+      "url": "https://open.spotify.com/track/258ZOMdFXcoTHA5D2LnCzZ"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 152824,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/6xwQng3m1S1xwZR8afMzHI"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
         "url": "https://open.spotify.com/album/437dkJZjTY2KPRtZAVleKs"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 480000,
       "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
       "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 152824,
-      "name": "Kilometre",
-      "url": "https://open.spotify.com/track/6xwQng3m1S1xwZR8afMzHI"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Mushin 2 Mo' Hits",
-        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "You Bad (feat. D'banj)",
-      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Mamma",
         "url": "https://open.spotify.com/album/6PqWSEZXJzG9Tn6Q5vQgLQ"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 420190,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/5aM14CNo9Xezodbx0TUZRD"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Mushin 2 Mo' Hits",
+        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "You Bad (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
     },
     {
       "added_at": "2026-06-30 14:51:43",

@@ -4,7 +4,7 @@
 
 > This is Bella Kay\. The essential tracks, all in one playlist.
 
-24 songs - 1 hr 15 min
+25 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-06-25 | 2026-08-18 |
 | [Say it Say](https://open.spotify.com/track/4iZURXIvatKR7u2xpyGmwo) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 2:42 | 2026-06-25 | 2026-08-15 |
 | [Say it Say](https://open.spotify.com/track/5aXoGAAyRvNIz7NbNi8cDS) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:42 | 2026-08-26 |  |
-| [See It Coming](https://open.spotify.com/track/0ef5mxoHHiMmyzSbD4R1qY) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L) | 3:50 | 2026-11-15 |  |
+| [See It Coming](https://open.spotify.com/track/0ef5mxoHHiMmyzSbD4R1qY) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L) | 3:50 | 2026-11-15 | 2026-11-23 |
+| [See It Coming \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/3zMUebuoh5QVJldEOLsogl) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [See It Coming](https://open.spotify.com/album/4VkoNmAX7XSAhdLT2wovO3) | 3:50 | 2026-11-23 |  |
 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-06-25 |  |
 | [STOP](https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 2:56 | 2026-06-25 | 2026-08-26 |
 | [STOP](https://open.spotify.com/track/6bo8ekLVg6eZEZymuN9w3h) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 2:56 | 2026-08-26 | 2026-09-11 |

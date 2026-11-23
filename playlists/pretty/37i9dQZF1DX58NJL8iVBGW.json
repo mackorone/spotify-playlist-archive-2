@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 824832,
+  "num_followers": 824875,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "duration_ms": 143988,
+      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 271696,
       "name": "Blood Upon the Snow (From \"God of War Ragnar\u00f6k\" Soundtrack)",
       "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Personal Jesus",
-      "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
       "artists": [
         {
-          "name": "Rachel Zegler",
-          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 143988,
-      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL"
+      "duration_ms": 199240,
+      "name": "Personal Jesus",
+      "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "PHTHALO",
-        "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
-      },
-      "artists": [
-        {
-          "name": "Rabbitology",
-          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
-        },
-        {
-          "name": "Marcus Quintana",
-          "url": "https://open.spotify.com/artist/38qdZMLzuzs2mRPzoNGfPW"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "The Glowing",
-      "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Jace Everett",
         "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 184178,
       "name": "Open Up Your Mind",
       "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "PHTHALO",
+        "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
+      },
+      "artists": [
+        {
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
+        },
+        {
+          "name": "Marcus Quintana",
+          "url": "https://open.spotify.com/artist/38qdZMLzuzs2mRPzoNGfPW"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "The Glowing",
+      "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Rambling Man",
-        "url": "https://open.spotify.com/album/6leYDhpSeZgSHHSxyvfdse"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        },
-        {
-          "name": "Lillie Flynn",
-          "url": "https://open.spotify.com/artist/32vbokqejlgd5khDYNhV1Y"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Rambling Man",
-      "url": "https://open.spotify.com/track/4pAk9Oq0IRkPVbtXyi8HmJ"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Holy Line",
         "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 191182,
       "name": "John Came Home",
       "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Rambling Man",
+        "url": "https://open.spotify.com/album/6leYDhpSeZgSHHSxyvfdse"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        },
+        {
+          "name": "Lillie Flynn",
+          "url": "https://open.spotify.com/artist/32vbokqejlgd5khDYNhV1Y"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Rambling Man",
+      "url": "https://open.spotify.com/track/4pAk9Oq0IRkPVbtXyi8HmJ"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Devil's Backbone",
-      "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Devil's Backbone",
+      "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "The Edge of the Map (Cumberland Gap)",
-        "url": "https://open.spotify.com/album/3IzvwJ6nngKTdiyOdjJ70j"
-      },
-      "artists": [
-        {
-          "name": "Small Fools",
-          "url": "https://open.spotify.com/artist/5IsHbK3X6ZDauHENF6HMEm"
-        }
-      ],
-      "duration_ms": 180141,
-      "name": "The Edge of the Map (Cumberland Gap)",
-      "url": "https://open.spotify.com/track/2kCAq5RxMJF0U7kYmzDcoL"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "False Lankum",
         "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 518745,
       "name": "Go Dig My Grave",
       "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "The Edge of the Map (Cumberland Gap)",
+        "url": "https://open.spotify.com/album/3IzvwJ6nngKTdiyOdjJ70j"
+      },
+      "artists": [
+        {
+          "name": "Small Fools",
+          "url": "https://open.spotify.com/artist/5IsHbK3X6ZDauHENF6HMEm"
+        }
+      ],
+      "duration_ms": 180141,
+      "name": "The Edge of the Map (Cumberland Gap)",
+      "url": "https://open.spotify.com/track/2kCAq5RxMJF0U7kYmzDcoL"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1119,38 +1119,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "How To Act",
-        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 221104,
-      "name": "How To Act",
-      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Look Homeward",
         "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
@@ -1167,18 +1135,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
       "artists": [
         {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 187966,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z"
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "How To Act",
+        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 221104,
+      "name": "How To Act",
+      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 187966,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "Tin Type",
         "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 194493,
       "name": "Cadillac Dust",
       "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "Leaving The Zoo",
-        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
-      },
-      "artists": [
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 323341,
-      "name": "Leaving the Zoo",
-      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1275,6 +1259,22 @@
       "duration_ms": 202979,
       "name": "The Winter of '68",
       "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Leaving The Zoo",
+        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 323341,
+      "name": "Leaving the Zoo",
+      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Small Town Murder Songs - Original Soundtrack",
-        "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Black Dog Sin",
         "url": "https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 202000,
       "name": "Black Dog Sin",
       "url": "https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Small Town Murder Songs - Original Soundtrack",
+        "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "All At Once",
-        "url": "https://open.spotify.com/album/0fhD46AUdmjSYUCRqK6dvQ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Brew",
-          "url": "https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x"
-        }
-      ],
-      "duration_ms": 252580,
-      "name": "All At Once",
-      "url": "https://open.spotify.com/track/74gSpIrkHzp0KmlvYzrm5M"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "...And There Are Devils",
         "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Gravity Well",
-        "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/0fhD46AUdmjSYUCRqK6dvQ"
       },
       "artists": [
         {
-          "name": "Rose's Pawn Shop",
-          "url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
+          "name": "Kyle Brew",
+          "url": "https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x"
         }
       ],
-      "duration_ms": 203546,
-      "name": "Country Blues",
-      "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
+      "duration_ms": 252580,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/74gSpIrkHzp0KmlvYzrm5M"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1611,6 +1595,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Gravity Well",
+        "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
+      },
+      "artists": [
+        {
+          "name": "Rose's Pawn Shop",
+          "url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Country Blues",
+      "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
     },
     {
       "added_at": "2026-11-13 00:01:01",

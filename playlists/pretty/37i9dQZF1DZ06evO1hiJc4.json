@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 158178,
+  "num_followers": 158176,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACe9t4CI2Wlche/K1wpP/wW",
+  "snapshot_id": "awDfAAAAAADeXPReOGqkqno/iYUvmWf3",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tyber",
-        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2owFZLBkylLGR6J98BDoWi"
       },
       "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 248372,
-      "name": "Little Little Voice",
-      "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
+      "duration_ms": 227333,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0GYHg6N2p70SppBvjTKihd"
     },
     {
       "added_at": null,
@@ -351,6 +347,26 @@
       "duration_ms": 233500,
       "name": "I Want to Know What Love Is - Lab Edition",
       "url": "https://open.spotify.com/track/45GBS4shUWBo3V8qkK73LD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tyber",
+        "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "Little Little Voice",
+      "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
       "duration_ms": 274600,
       "name": "Earthquake (feat. Tinie Tempah)",
       "url": "https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2owFZLBkylLGR6J98BDoWi"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0GYHg6N2p70SppBvjTKihd"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 332520,
-      "name": "Historic Romance",
-      "url": "https://open.spotify.com/track/28OT95Zt1M52ZYtHsSqW6l"
+      "duration_ms": 181986,
+      "name": "Sleek Noir",
+      "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Sleek Noir",
-      "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
+      "duration_ms": 332520,
+      "name": "Historic Romance",
+      "url": "https://open.spotify.com/track/28OT95Zt1M52ZYtHsSqW6l"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BRIDGE",
-        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 199516,
-      "name": "ALL OR NOTHING",
-      "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Is the Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
       },
@@ -795,6 +775,46 @@
       "duration_ms": 199168,
       "name": "Titans",
       "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE BRIDGE",
+        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 199516,
+      "name": "ALL OR NOTHING",
+      "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Alex Baranowski",
+          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
+        }
+      ],
+      "duration_ms": 102603,
+      "name": "Accepted By The Crew",
+      "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
     },
     {
       "added_at": null,
@@ -859,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COSMIC OPERA ACT II",
-        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
       },
       "artists": [
         {
@@ -868,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 168266,
-      "name": "THE LIVING",
-      "url": "https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp"
+      "duration_ms": 69153,
+      "name": "Benji Puts His Mum To Rest",
+      "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
     },
     {
       "added_at": null,
@@ -915,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COSMIC OPERA ACT II",
+        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "THE LIVING",
+      "url": "https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Kitchen (Score from the Netflix Film)",
         "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
       },
@@ -927,38 +963,6 @@
       "duration_ms": 53353,
       "name": "What Would You Want Me To Be",
       "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 131720,
-      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Debris",
-      "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
     }
   ],
   "unique_name": "This Is Labrinth",

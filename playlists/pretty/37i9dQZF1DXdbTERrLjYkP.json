@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Grace Enger",
-  "num_followers": 219643,
+  "num_followers": 219645,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFgblsGWyHqrj6CpewHwZ1BWNDJy",
+  "snapshot_id": "AAAAALPfdT4UCVughqYtlFsm4YA/nUA7",
   "tracks": [
     {
       "added_at": "2026-11-20 05:14:19",
@@ -55,6 +55,22 @@
       "duration_ms": 178431,
       "name": "Slip Knot",
       "url": "https://open.spotify.com/track/2hmobee62KB9XJUH6rtE2f"
+    },
+    {
+      "added_at": "2026-11-22 17:25:24",
+      "album": {
+        "name": "King Street",
+        "url": "https://open.spotify.com/album/2eibZ6DViTSTSnyYPwDfiu"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 226932,
+      "name": "King Street",
+      "url": "https://open.spotify.com/track/2Oxy6BOQ67zYz2LXqnAjfx"
     },
     {
       "added_at": "2026-11-21 03:14:42",
@@ -119,6 +135,22 @@
       "duration_ms": 142590,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/7JmAPZJMAf7VBq8rrCwduu"
+    },
+    {
+      "added_at": "2026-11-22 17:25:24",
+      "album": {
+        "name": "Lucky Stars / Actress",
+        "url": "https://open.spotify.com/album/5M2N3MKnskuepHKFaZWxEl"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Lucky Stars",
+      "url": "https://open.spotify.com/track/2DOcDfVs1KuMapsTEwW4R9"
     },
     {
       "added_at": "2026-10-23 04:02:28",
@@ -963,22 +995,6 @@
     {
       "added_at": "2026-08-07 05:20:14",
       "album": {
-        "name": "bathroom stalls",
-        "url": "https://open.spotify.com/album/4muZo3emWSPEYxEV0QHrXt"
-      },
-      "artists": [
-        {
-          "name": "Sara Baroni",
-          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
-        }
-      ],
-      "duration_ms": 201054,
-      "name": "bathroom stalls",
-      "url": "https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v"
-    },
-    {
-      "added_at": "2026-08-07 05:20:14",
-      "album": {
         "name": "oklahoma",
         "url": "https://open.spotify.com/album/2RXJlx0nwscatuHH8BEtum"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 215488,
       "name": "Vinyl",
       "url": "https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0"
-    },
-    {
-      "added_at": "2026-07-10 15:28:37",
-      "album": {
-        "name": "SIDES OF MY PEN",
-        "url": "https://open.spotify.com/album/12IL9L3DtwEbkJ7q3JYts0"
-      },
-      "artists": [
-        {
-          "name": "Tabi",
-          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
-        }
-      ],
-      "duration_ms": 165221,
-      "name": "SIDES OF MY PEN",
-      "url": "https://open.spotify.com/track/3MKfTmgTZbA9i2hL57mzTU"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

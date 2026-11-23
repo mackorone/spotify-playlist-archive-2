@@ -438,7 +438,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 187050,
       "name": "Cien Por Ciento Sincero",
       "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
@@ -1694,6 +1694,24 @@
       "duration_ms": 392672,
       "name": "Mi Enemigo el Amor - En Vivo",
       "url": "https://open.spotify.com/track/2SssFfEcX8XyYjJmMdQXzT"
+    },
+    {
+      "album": {
+        "name": "Mi Esposa Consentida",
+        "url": "https://open.spotify.com/album/7tkgA8z4fg8ewU72q6njVM"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Mi Esposa Consentida",
+      "url": "https://open.spotify.com/track/7C27k5lANwonEIe2cKN48D"
     },
     {
       "album": {

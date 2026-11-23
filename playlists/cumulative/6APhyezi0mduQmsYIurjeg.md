@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-630 songs - 1 day 14 hr 10 min
+633 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All In Your Head](https://open.spotify.com/track/2nUBpjvuqLHOVOxcQxDu7d) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [The Borderlands](https://open.spotify.com/album/4aR9k66ZREBcLwbu6hlt8d) | 3:48 | 2025-03-31 |  |
 | [All Things Possible](https://open.spotify.com/track/6v1ZKdgQgKsoI8KagDY4zG) | [Downward Summer](https://open.spotify.com/artist/6X4sXCG1kTSt1t7XZVb2Yn) | [All Things Possible](https://open.spotify.com/album/2UQkRDrKmCT2LRQAe2xcpK) | 4:47 | 2023-03-13 |  |
 | [Alleluia \- Afro version\)](https://open.spotify.com/track/0D1vsll4Km8bsjdlf6kZ1E) | [K'leb Miller](https://open.spotify.com/artist/1PHuZwnB2uDR6rII59D9kf) | [Alleluia \(Afro version\)\)](https://open.spotify.com/album/5sopOSZ5wCz72FdkiKXGXa) | 2:22 | 2026-06-25 |  |
+| [Almost Alright](https://open.spotify.com/track/1e2bfdoVKrSM4VbfhQkucw) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Almost Alright](https://open.spotify.com/album/1DLCkneGG65a5rQHuSZwon) | 1:39 | 2026-11-22 |  |
 | [Alone](https://open.spotify.com/track/5IOmXE3jdhQp2vXvumHeR9) | [Smoking Twinz](https://open.spotify.com/artist/2aIYbcsZ3GlFy8fDPDJrcc) | [Alone](https://open.spotify.com/album/52NSwtP9ARhPFlRpfKFrYc) | 2:48 | 2025-11-12 |  |
 | [Alpha Rats Quarterback](https://open.spotify.com/track/5SN9ka0tgzod8md4Y1uyO4) | [Mrs\. Hopewell](https://open.spotify.com/artist/4J8Dsc1kexzLk3nRfig2AU) | [Alpha Rats Quarterback](https://open.spotify.com/album/7pXlEETIkHsLlqrV2AYLse) | 2:56 | 2023-04-14 |  |
 | [Anclado a tus piernas](https://open.spotify.com/track/7iTosMN4gbF49S3UwZDJfW) | [Sergio Medina](https://open.spotify.com/artist/0ORqJysjGs60RzE1FRVzrB), [los errantes](https://open.spotify.com/artist/5SYbFTyYHqROBnwWEioqqV) | [1982](https://open.spotify.com/album/2LKgyvwKnS0oBvDFXJYvJr) | 4:24 | 2024-12-20 |  |
@@ -462,6 +463,7 @@
 | [Rollercoaster \(Life Is A Rollercoaster\)](https://open.spotify.com/track/7rp1lXXfooQnfaQMhicOhR) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Rollercoaster \(Life Is A Rollercoaster\)](https://open.spotify.com/album/4mjaOkc5BcPOfDewUkK5Xq) | 3:42 | 2024-12-26 |  |
 | [Run](https://open.spotify.com/track/2Ksb6K5Bz83EhUXLpHFy6B) | [Tidal Rave](https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv) | [Run](https://open.spotify.com/album/7GHN9Swal1Zz1bROOKUBD6) | 3:00 | 2025-06-27 |  |
 | [Running](https://open.spotify.com/track/5uouZNe0wW4OVTx2JJMWDE) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [No More Serenades](https://open.spotify.com/album/7hg2r5z10RFSoWQrBm1up3) | 5:02 | 2024-02-26 |  |
+| [Sa Majesté Moi](https://open.spotify.com/track/2EoeD8rrdHEnA4piNSMyu6) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [Sa Majesté Moi](https://open.spotify.com/album/5DbdhSEY7ZdEqelbOrpvwb) | 3:58 | 2026-11-22 |  |
 | [sangue e sete](https://open.spotify.com/track/60tvxT828eYMtU600Q3kA7) | [Francois Audiard](https://open.spotify.com/artist/4TQfDcX8CLVkrfDBbbbnyO) | [sangue e sete](https://open.spotify.com/album/3zo86CFxkgDdW14izw53mI) | 3:45 | 2023-01-10 |  |
 | [Sangue Quente](https://open.spotify.com/track/4YAv6RfAtXMZCTPmyIeAZI) | [Lamarquez](https://open.spotify.com/artist/47TmTJiO9p0BgTx4iKA4Tc) | [O Inimigo Invencível](https://open.spotify.com/album/0OVeK3aFM4ELgTl26mZMrc) | 2:53 | 2024-03-01 |  |
 | [Satisfy This Itch](https://open.spotify.com/track/66nDBeFzgrupUaRq4k9IUo) | [Georgia Carter](https://open.spotify.com/artist/3OuTXl2GbkTJpMQfnDVKfz), [Angus Potter\-Irwin](https://open.spotify.com/artist/1gg1pKJKi5B74wVMl2yfh6) | [Satisfy This Itch](https://open.spotify.com/album/6sjXawr1bBTeE9WPjjvUQH) | 3:36 | 2023-02-22 |  |
@@ -551,6 +553,7 @@
 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2026-06-08 |  |
 | [The Many Ways](https://open.spotify.com/track/321VpD2a85iCI6YUn45sGQ) | [The Peace Option](https://open.spotify.com/artist/2vqA6XWr6sAnkDOIvd6YWM) | [The Many Ways](https://open.spotify.com/album/2FMsWw2Dm1efdaMqWx7uOQ) | 3:46 | 2024-12-24 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-04 |  |
+| [The Salem Shake](https://open.spotify.com/track/4sl29ZGG3WOnDMGs1mZMOS) | [Vordermann](https://open.spotify.com/artist/6q8MQV9ZLqQtv1UN44SgwN) | [/Feeding on Fireworks](https://open.spotify.com/album/5cYMOcakFvoZaLXaT7Dz2E) | 4:34 | 2026-11-22 |  |
 | [the shirt song](https://open.spotify.com/track/14FSozVDL1oA3rTiVxwSp5) | [Austin Carr](https://open.spotify.com/artist/7wbw9KslI7YzqujQRkxDrB) | [the shirt song](https://open.spotify.com/album/6vGwVAhHQhS85QxTs6PPu0) | 3:54 | 2024-10-03 |  |
 | [The Song That Saved the World](https://open.spotify.com/track/43OEWizuCN2gxtUtwAws4g) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [The Song That Saved the World](https://open.spotify.com/album/0tJGAICHkZJf3d8hGDql1o) | 3:05 | 2024-12-26 |  |
 | [The Speed of Pain](https://open.spotify.com/track/2M5oEn1LTaIHjW79fOGhj4) | [Dantus](https://open.spotify.com/artist/7fSHmcCVUb4VacfPByE938) | [The Speed of Pain](https://open.spotify.com/album/3SmJaof8h4tnpUj9tCBDph) | 3:33 | 2023-03-14 |  |

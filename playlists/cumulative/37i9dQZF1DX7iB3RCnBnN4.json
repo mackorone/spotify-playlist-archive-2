@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 215933,
       "name": "Another One Bites The Dust",
       "url": "https://open.spotify.com/track/5HkFTCxSeJ3kGNyQJbT4rJ"
@@ -8445,6 +8445,24 @@
     },
     {
       "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181794,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
+    },
+    {
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -9785,6 +9803,28 @@
     },
     {
       "album": {
+        "name": "Revival (Deluxe)",
+        "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221280,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/578Eooad7oUyn4stovZiPg"
+    },
+    {
+      "album": {
         "name": "Good Looking",
         "url": "https://open.spotify.com/album/6t0nA7Lc6yMnIl3IB4QhNT"
       },
@@ -10104,6 +10144,28 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Hasta Que Dios Diga",
+      "url": "https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"
     },
     {
       "album": {
@@ -10476,7 +10538,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 295493,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw"
@@ -12701,6 +12763,28 @@
     },
     {
       "album": {
+        "name": "Planet Pit (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227280,
+      "name": "International Love (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
+    },
+    {
+      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
       },
@@ -14474,6 +14558,10 @@
         {
           "name": "Idina Menzel",
           "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2026-04-24",
@@ -22474,7 +22562,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 226160,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/1pKeFVVUOPjFsOABub0OaV"
@@ -26820,7 +26908,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
@@ -26868,6 +26956,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
+    },
+    {
+      "album": {
+        "name": "Levon James",
+        "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196179,
+      "name": "Took Her To The O",
+      "url": "https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW"
     },
     {
       "album": {
@@ -27193,6 +27299,24 @@
     },
     {
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -27340,7 +27464,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 245506,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/1mSClObliRtgPVT399COQH"
@@ -28406,7 +28530,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 121973,
       "name": "We Will Rock You",
       "url": "https://open.spotify.com/track/0a9sd6MEXZXIPHk0fAxpZ4"

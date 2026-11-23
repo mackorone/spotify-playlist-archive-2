@@ -366,7 +366,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 189800,
       "name": "B. D'OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1n6vbblzNmLgkfyPiQK4Ig"
@@ -522,6 +522,28 @@
       "duration_ms": 143042,
       "name": "Big 7",
       "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
+    },
+    {
+      "album": {
+        "name": "Bigger (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6hkaerWZMubBWwyTDJP8J3"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169262,
+      "name": "Bigger (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4BDrbdeodpenlrORv4yqnc"
     },
     {
       "album": {

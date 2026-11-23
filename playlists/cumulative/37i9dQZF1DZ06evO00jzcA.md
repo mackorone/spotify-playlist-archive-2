@@ -4,7 +4,7 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-123 songs - 7 hr 57 min
+125 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Goin' Blind](https://open.spotify.com/track/2Kgabuiyu24mw1tVcFjHh3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 3:36 | 2022-01-11 | 2022-09-23 |
 | [Goin' Blind \- Live From MTV Unplugged/1995](https://open.spotify.com/track/0iX0reYVBCXyLfPg6zgyP9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 3:27 | 2022-12-27 |  |
 | [Got To Choose \- Live/1975](https://open.spotify.com/track/6ycMzEaKlHHDJkHjUjEpzk) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 3:57 | 2025-10-20 | 2025-11-03 |
-| [Hard Luck Woman](https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:34 | 2022-01-11 |  |
+| [Hard Luck Woman](https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:34 | 2022-01-11 | 2026-11-23 |
+| [Hard Luck Woman \- 2026 Remaster](https://open.spotify.com/track/42zp17fHak07BbO2OuE9Cm) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over \(2026 Remaster\)](https://open.spotify.com/album/48O0VOhpk7h4vH7Qg4OjJJ) | 3:36 | 2026-11-23 |  |
 | [Hard Luck Woman \- Outtake](https://open.spotify.com/track/104gOf7mPTkf9cCH4vDzIF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hard Luck Woman \(Outtake\)](https://open.spotify.com/album/1QTB19waB3UfK4x5MG9Sql) | 3:46 | 2026-09-18 | 2026-10-13 |
 | [Hard Times](https://open.spotify.com/track/3sy8VUikaAQv1SKPK2EsMi) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 3:31 | 2024-06-22 | 2026-08-28 |
 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 | 2022-01-11 |  |
@@ -106,7 +107,7 @@
 | [Rock And Roll All Nite \- 2025 Remaster](https://open.spotify.com/track/1Buwv1iql0YsxftE5LHIgq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(2025 Remaster\)](https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD) | 2:47 | 2025-12-07 |  |
 | [Rock And Roll All Nite \- Live At RKO Orpheum Theatre, Davenport, Iowa, July 20, 1975 / Show 1](https://open.spotify.com/track/2CHDWttzPjCzwfwJswGhjG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill \(50th Anniversary Super Deluxe\)](https://open.spotify.com/album/04aIkLhIZW1QDcDzd7F1nP) | 4:17 | 2025-10-26 | 2025-11-23 |
 | [Rock And Roll All Nite \- Live From Detroit, MI/1975](https://open.spotify.com/track/4RQLeiolnEGtcFwHxjtF7H) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 4:07 | 2022-01-12 | 2022-11-07 |
-| [Rock And Roll All Nite \- MOONLGHT Remix](https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Rock And Roll All Nite \(MOONLGHT Remix\)](https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn) | 2:15 | 2025-11-02 |  |
+| [Rock And Roll All Nite \- MOONLGHT Remix](https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Rock And Roll All Nite \(MOONLGHT Remix\)](https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn) | 2:15 | 2025-11-02 | 2026-11-23 |
 | [Rock N' Rolls Royce \- Gene Simmons Demo](https://open.spotify.com/track/38uoylRVHZNxcCzfq7YydG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer \(45th Anniversary Super Deluxe\)](https://open.spotify.com/album/6HmXiwrdWemxIYbzR7GXtk) | 3:02 | 2022-01-11 | 2022-10-13 |
 | [Rocket Ride](https://open.spotify.com/track/3xjObvccQUvtUcV5GL3Hh3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive II \(Live\)](https://open.spotify.com/album/32e3bKpExvJ6o3H9UZ9rV1) | 4:08 | 2022-01-13 | 2022-01-17 |
 | [Save Your Love](https://open.spotify.com/track/1RUQIkl3vHaOUPKC885STa) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:40 | 2022-01-13 | 2022-07-25 |
@@ -120,6 +121,7 @@
 | [Strutter \- Remastered 1997](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 | 2022-01-11 |  |
 | [Sure Know Something](https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:01 | 2022-01-11 |  |
 | [Take Me](https://open.spotify.com/track/12hTHnCBajZeyEiZi1drMz) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 2:56 | 2022-01-11 | 2022-02-03 |
+| [Take Me \- Extended Outtake](https://open.spotify.com/track/4JJDC41d84QByLRxNOLCFQ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over \(50th Anniversary Super Deluxe\)](https://open.spotify.com/album/3VTPu8P2jlMLwCMY0wWIVr) | 3:30 | 2026-11-23 |  |
 | [Talk To Me](https://open.spotify.com/track/1LYPRQIN8YHIX4da8fX3CX) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Unmasked](https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE) | 4:02 | 2025-11-16 | 2026-01-25 |
 | [Tears Are Falling](https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 3:55 | 2022-01-11 |  |
 | [Tears Are Falling \- Live In San Antonio, Texas \- December 3, 1985](https://open.spotify.com/track/4imOlXC5YfMvQ2OzDjQ87u) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Off The Soundboard: Live in San Antonio \(December 3, 1985\)](https://open.spotify.com/album/5vKLNTZmedI2t4caP2aSNN) | 3:51 | 2025-03-30 | 2025-04-27 |

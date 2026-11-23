@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "A London Thing",
+        "url": "https://open.spotify.com/album/0k1AOr6bYRjQqinBnSgEee"
+      },
+      "artists": [
+        {
+          "name": "Scott Garcia",
+          "url": "https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b"
+        },
+        {
+          "name": "MC Styles",
+          "url": "https://open.spotify.com/artist/6IcEebkfhtNr55JyiZb70r"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366000,
+      "name": "A London Thing - Full Length Mix",
+      "url": "https://open.spotify.com/track/40scKYlrjcq6mvRoMAAqIL"
+    },
+    {
+      "album": {
         "name": "Ain't No Stoppin Us (Oracles Remix)",
         "url": "https://open.spotify.com/album/2Yay81iM1lJlNAwtxQO9EC"
       },
@@ -3426,7 +3448,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 334240,
       "name": "Thong Song - Artful Dodger Remix",
       "url": "https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm"

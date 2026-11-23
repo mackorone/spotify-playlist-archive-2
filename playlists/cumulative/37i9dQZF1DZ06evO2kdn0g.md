@@ -4,7 +4,7 @@
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 27 min
+54 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Lady](https://open.spotify.com/track/6DgXb6t0sRDjtyldebcnEA) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 3:03 | 2026-10-08 |  |
 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 | 2026-06-16 | 2026-10-25 |
 | [LINK UP](https://open.spotify.com/track/1AhGYugYUCWwyB08K2U875) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:05 | 2026-10-25 |  |
-| [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2026-06-16 |  |
+| [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2026-06-16 | 2026-11-23 |
+| [Love](https://open.spotify.com/track/5P5o5xO5oYkFnCYakUbJIe) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/4EuJgqGe5oYxN36oSqZ3Jd) | 2:36 | 2026-11-23 |  |
 | [Marbles](https://open.spotify.com/track/7lmc2aV9A0vvHJKIflWPne) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:31 | 2026-11-17 |  |
 | [Mirage](https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:29 | 2026-10-10 |  |
 | [Mirage](https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:29 | 2026-06-16 | 2026-10-10 |

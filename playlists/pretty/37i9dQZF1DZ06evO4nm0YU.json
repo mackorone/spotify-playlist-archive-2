@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 195412,
+  "num_followers": 195450,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAAUco2oSKDGXaGJM1l7W1OL",
+  "snapshot_id": "awDfAAAAAAANyJbYY5/+pLQpC0jLIIGT",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Que Sentimiento!",
-        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 366586,
-      "name": "\u00c9l Son",
-      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Good, The Bad, And The Ugly",
         "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1Que Sentimiento!",
+        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 366586,
+      "name": "\u00c9l Son",
+      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
     },
     {
       "added_at": null,
@@ -767,50 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Suerte",
-        "url": "https://open.spotify.com/album/4KDCVmbEfvx0oRq7kyvhjB"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "underdogs",
-          "url": "https://open.spotify.com/artist/0KTIlyXpaefGQS3Q3BbXQC"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 169503,
-      "name": "Mi Suerte",
-      "url": "https://open.spotify.com/track/1t45VJU0gMfYht74Es3NMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 275480,
-      "name": "De Ti Depende",
-      "url": "https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -827,6 +783,22 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "De Ti Depende",
+      "url": "https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs"
     },
     {
       "added_at": null,
@@ -863,6 +835,34 @@
       "duration_ms": 470280,
       "name": "Songoro Cosongo",
       "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Suerte",
+        "url": "https://open.spotify.com/album/4KDCVmbEfvx0oRq7kyvhjB"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "underdogs",
+          "url": "https://open.spotify.com/artist/0KTIlyXpaefGQS3Q3BbXQC"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 169503,
+      "name": "Mi Suerte",
+      "url": "https://open.spotify.com/track/1t45VJU0gMfYht74Es3NMP"
     },
     {
       "added_at": null,

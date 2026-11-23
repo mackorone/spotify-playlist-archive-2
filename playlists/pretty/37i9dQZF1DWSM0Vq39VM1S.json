@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388326,
+  "num_followers": 388368,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-11-13 13:42:26",
       "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
-    },
-    {
-      "added_at": "2026-11-13 13:42:26",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 188229,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi"
+    },
+    {
+      "added_at": "2026-11-13 13:42:26",
+      "album": {
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "added_at": "2026-11-13 13:42:26",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-11-13 13:42:26",
       "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "added_at": "2026-11-13 13:42:26",
-      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 376520,
       "name": "It's Not Just Me, It's Everybody",
       "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+    },
+    {
+      "added_at": "2026-11-13 13:42:26",
+      "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-11-13 13:42:26",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-11-13 13:42:26",
       "album": {
-        "name": "Unforgivable Things",
-        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "Unforgivable Things",
-      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
-    },
-    {
-      "added_at": "2026-11-13 13:42:26",
-      "album": {
         "name": "After the First Kiss",
         "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 214756,
       "name": "After the First Kiss",
       "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
+    },
+    {
+      "added_at": "2026-11-13 13:42:26",
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
     },
     {
       "added_at": "2026-11-13 13:42:26",
@@ -511,42 +511,6 @@
     {
       "added_at": "2026-11-13 13:42:26",
       "album": {
-        "name": "Hen's Teeth",
-        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 225231,
-      "name": "Wait Up (feat. I'm With Her)",
-      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
-    },
-    {
-      "added_at": "2026-11-13 13:42:26",
-      "album": {
-        "name": "The Rest Of Me",
-        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 230661,
-      "name": "The Rest Of Me",
-      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
-    },
-    {
-      "added_at": "2026-11-13 13:42:26",
-      "album": {
         "name": "Satin Psicodelic",
         "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
       },
@@ -579,6 +543,42 @@
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
+    },
+    {
+      "added_at": "2026-11-13 13:42:26",
+      "album": {
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "added_at": "2026-11-13 13:42:26",
+      "album": {
+        "name": "Hen's Teeth",
+        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 225231,
+      "name": "Wait Up (feat. I'm With Her)",
+      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
     },
     {
       "added_at": "2026-11-13 13:42:26",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-11-13 13:42:26",
       "album": {
-        "name": "just us",
-        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 190163,
-      "name": "just us",
-      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
-    },
-    {
-      "added_at": "2026-11-13 13:42:26",
-      "album": {
         "name": "Disarray",
         "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "added_at": "2026-11-13 13:42:26",
+      "album": {
+        "name": "just us",
+        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 190163,
+      "name": "just us",
+      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
     },
     {
       "added_at": "2026-11-13 13:42:26",

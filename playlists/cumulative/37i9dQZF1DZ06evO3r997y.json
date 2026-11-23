@@ -124,10 +124,28 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 274093,
       "name": "any if",
       "url": "https://open.spotify.com/track/0SiJLBIj4wVkD78MqBmCZW"
+    },
+    {
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/42V5bMew9rzNjiFWFlOjQf"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274093,
+      "name": "any if",
+      "url": "https://open.spotify.com/track/28bvEQdgCoc2V8PTaTABEY"
     },
     {
       "album": {
@@ -258,6 +276,24 @@
     {
       "album": {
         "name": "Desire Again",
+        "url": "https://open.spotify.com/album/3fxrUdvYmXVYcDrdmsj2m8"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198493,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1Gq61CqMgCHjUiMsOGrSV8"
+    },
+    {
+      "album": {
+        "name": "Desire Again",
         "url": "https://open.spotify.com/album/3V5PD4Kz8oFjW9WLmd15Vr"
       },
       "artists": [
@@ -268,7 +304,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 198493,
       "name": "Closer",
       "url": "https://open.spotify.com/track/46DQR62IXSiU9ssucbeARZ"
@@ -1355,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/42V5bMew9rzNjiFWFlOjQf"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Magie Magie",
+      "url": "https://open.spotify.com/track/0ihmL4DaZLwHt8pZ3gWEJO"
+    },
+    {
+      "album": {
         "name": "Magie Magie",
         "url": "https://open.spotify.com/album/2ajiabtgQpv4Yr4QO8XDc5"
       },
@@ -1384,7 +1438,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 247013,
       "name": "Magie\u00d7Magie",
       "url": "https://open.spotify.com/track/3EZBAhq6Sxgu3QquGJpVlx"
@@ -1582,7 +1636,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 213800,
       "name": "Nonfiction Nook",
       "url": "https://open.spotify.com/track/4mKEOkgtrwU0X1utWUAsRs"
@@ -2300,7 +2354,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 232216,
       "name": "\u30de\u30f3\u30ac\uff1d\u8d85\u30f4\u30a1\u30a4\u30d6\u30eb (feat. \u7dd2\u65b9\u6075\u7f8e & \u9b3c\u982d\u660e\u91cc)",
       "url": "https://open.spotify.com/track/2Nfu4bapsMgcsaT0G8MgSv"

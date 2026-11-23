@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 181299,
+  "num_followers": 181296,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAACK3Tf2XKM8g4Cm5FqhuoB3",
+  "snapshot_id": "awDfAAAAAABbD2BRqdjg7GWjJljfIc7H",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Expl\u00edcale (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ay Mi Dios",
         "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
       },
@@ -95,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 241551,
-      "name": "Nunca Me Olvides",
-      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -131,22 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
-        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
       },
       "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 187940,
-      "name": "PENXAMIENTOS DE MADRUGADA",
-      "url": "https://open.spotify.com/track/5rWyF3zS53QMc9Jymh79lP"
+      "duration_ms": 241551,
+      "name": "Nunca Me Olvides",
+      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
     },
     {
       "added_at": null,
@@ -171,6 +131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 187940,
+      "name": "PENXAMIENTOS DE MADRUGADA",
+      "url": "https://open.spotify.com/track/5rWyF3zS53QMc9Jymh79lP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MANIFESTING 20-05",
         "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
       },
@@ -187,30 +167,6 @@
       "duration_ms": 180360,
       "name": "Brickell",
       "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 270173,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
     },
     {
       "added_at": null,
@@ -247,22 +203,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Enemy de Los Guas\u00edbiri",
-        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 204382,
-      "name": "Al Natural (feat. Yandel)",
-      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
+      "duration_ms": 270173,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) [Remix]",
+        "url": "https://open.spotify.com/album/4BQBdbRNXOJAV580HH1mr2"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 395666,
+      "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) - Remix",
+      "url": "https://open.spotify.com/track/65n40RsQ9SObH7hNvVTHp0"
     },
     {
       "added_at": null,
@@ -283,6 +275,26 @@
       "duration_ms": 210786,
       "name": "Como Antes (feat. Wisin)",
       "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Enemy de Los Guas\u00edbiri",
+        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 204382,
+      "name": "Al Natural (feat. Yandel)",
+      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
     },
     {
       "added_at": null,
@@ -347,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alg\u00fan D\u00eda",
-        "url": "https://open.spotify.com/album/4u6qq4hzHJRdRTBzHpkjH8"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 189397,
-      "name": "Alg\u00fan D\u00eda",
-      "url": "https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -407,6 +399,26 @@
       "duration_ms": 234103,
       "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
       "url": "https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alg\u00fan D\u00eda",
+        "url": "https://open.spotify.com/album/4u6qq4hzHJRdRTBzHpkjH8"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 189397,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D"
     },
     {
       "added_at": null,
@@ -659,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si no le contesto",
-        "url": "https://open.spotify.com/album/0BxECKDt2N9ls03VIC8qmr"
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
       },
       "artists": [
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Si no le contesto",
-      "url": "https://open.spotify.com/track/0eQlwA2WwatBNPTMFKcs2X"
+      "duration_ms": 152134,
+      "name": "Rondando",
+      "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
     },
     {
       "added_at": null,
@@ -691,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+        "name": "Si no le contesto",
+        "url": "https://open.spotify.com/album/0BxECKDt2N9ls03VIC8qmr"
       },
       "artists": [
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 152134,
-      "name": "Rondando",
-      "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
+      "duration_ms": 221306,
+      "name": "Si no le contesto",
+      "url": "https://open.spotify.com/track/0eQlwA2WwatBNPTMFKcs2X"
     },
     {
       "added_at": null,
@@ -891,26 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "APOCALIPTO",
-        "url": "https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt"
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
       },
       "artists": [
         {
-          "name": "Kendo Kaponi",
-          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
-        },
-        {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Cheniel Capone",
-          "url": "https://open.spotify.com/artist/67j0h2QVE98L5orBkBPm5H"
         }
       ],
-      "duration_ms": 216016,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/0pLD9XfKOLuv1Qlhu3qF3e"
+      "duration_ms": 237616,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
     },
     {
       "added_at": null,
@@ -944,25 +948,33 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 120101,
-      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
+      "duration_ms": 105491,
+      "name": "Bailame - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
     },
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+        "name": "APOCALIPTO",
+        "url": "https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt"
       },
       "artists": [
         {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Cheniel Capone",
+          "url": "https://open.spotify.com/artist/67j0h2QVE98L5orBkBPm5H"
         }
       ],
-      "duration_ms": 237616,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
+      "duration_ms": 216016,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/0pLD9XfKOLuv1Qlhu3qF3e"
     },
     {
       "added_at": null,

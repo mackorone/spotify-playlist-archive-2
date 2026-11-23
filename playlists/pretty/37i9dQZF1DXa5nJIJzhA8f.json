@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 96193,
+  "num_followers": 96178,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,26 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
+        "name": "Hecho para ti",
+        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 152734,
+      "name": "Hecho para ti",
+      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
         "name": "DAISY",
         "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7j6PWLaubVavCLE4peea8S"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
-        "name": "Hecho para ti",
-        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 152734,
-      "name": "Hecho para ti",
-      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 212577,
-      "name": "infinite source",
-      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 302408,
       "name": "canal street",
       "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
+        "name": "PAPOTA",
+        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 157937,
+      "name": "IMPOSTOR",
+      "url": "https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 162826,
       "name": "Take Me Thru Dere",
       "url": "https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
-        "name": "PAPOTA",
-        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 157937,
-      "name": "IMPOSTOR",
-      "url": "https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "star",
-        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 142493,
-      "name": "nice",
-      "url": "https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "Raw",
         "url": "https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 192121,
       "name": "Raw",
       "url": "https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 142493,
+      "name": "nice",
+      "url": "https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB"
     },
     {
       "added_at": "2026-02-04 14:24:46",

@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 5044,
+  "num_followers": 5045,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAADygejP8XBj5jrMAdk55Nhl",
+  "snapshot_id": "awDfAAAAAABO7uhbvleIeggg7DVxH6kv",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Brief Intermission in the Flattening of Time",
-        "url": "https://open.spotify.com/album/6Yczxf4YZevAC8ge5Sb1H3"
+        "name": "Off The Board: A Studio 4 Family Compilation",
+        "url": "https://open.spotify.com/album/6snljCc5WpNo23CU30IYum"
       },
       "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        },
         {
           "name": "Tigers Jaw",
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 186135,
-      "name": "Berlin (feat. Tigers Jaw)",
-      "url": "https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp"
+      "duration_ms": 212546,
+      "name": "Carry You Over",
+      "url": "https://open.spotify.com/track/1DMfDSmpoj7ShBRii7skXi"
     },
     {
       "added_at": null,
@@ -615,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Off The Board: A Studio 4 Family Compilation",
-        "url": "https://open.spotify.com/album/6snljCc5WpNo23CU30IYum"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Carry You Over",
-      "url": "https://open.spotify.com/track/1DMfDSmpoj7ShBRii7skXi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Worlds",
         "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 121933,
       "name": "Coil/Recoil",
       "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Brief Intermission in the Flattening of Time",
+        "url": "https://open.spotify.com/album/6Yczxf4YZevAC8ge5Sb1H3"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        },
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 186135,
+      "name": "Berlin (feat. Tigers Jaw)",
+      "url": "https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp"
     },
     {
       "added_at": null,

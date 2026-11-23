@@ -1,6 +1,6 @@
 {
   "description": "Chasing that runner's high! ",
-  "num_followers": 735974,
+  "num_followers": 736000,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "Pharmacy",
         "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
@@ -363,26 +383,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "AV\u012aCI (01)",
-        "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 181672,
-      "name": "Without You (feat. Sandro Cavazza)",
-      "url": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
       },
@@ -403,22 +403,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Fancy Footwork",
-        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+        "name": "AV\u012aCI (01)",
+        "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         },
         {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
         }
       ],
-      "duration_ms": 192195,
-      "name": "Fancy Footwork",
-      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+      "duration_ms": 181672,
+      "name": "Without You (feat. Sandro Cavazza)",
+      "url": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 181411,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Another Love (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "Another Love - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Rave Therapy",
         "url": "https://open.spotify.com/album/0uEiSJnCg3JGlacWk6Slgp"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 157935,
       "name": "Rave Therapy",
       "url": "https://open.spotify.com/track/26SBh3qrxSkpVqLRQkcSbU"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Another Love (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "Another Love - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -967,6 +967,34 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "BbY WOW - John Summit Remix",
+        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "BbY WOW - John Summit Remix",
+      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
@@ -1023,22 +1051,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Levi Did It",
-        "url": "https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 192704,
-      "name": "Back To The Start",
-      "url": "https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "WannaCry",
         "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
       },
@@ -1075,6 +1087,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Levi Did It",
+        "url": "https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 192704,
+      "name": "Back To The Start",
+      "url": "https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "That's When You Know",
         "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
       },
@@ -1091,34 +1119,6 @@
       "duration_ms": 193842,
       "name": "That's When You Know",
       "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "BbY WOW - John Summit Remix",
-        "url": "https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "BbY WOW - John Summit Remix",
-      "url": "https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1431,22 +1431,38 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Voicemail (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/6NeAtmL9sxQga7lc1EOQro"
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Voicemail (Ti\u00ebsto Remix)",
-      "url": "https://open.spotify.com/track/6vbQFxIETahvyrcI6N00Cc"
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 150635,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1471,42 +1487,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+        "name": "Voicemail (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6NeAtmL9sxQga7lc1EOQro"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
         },
         {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+      "duration_ms": 184000,
+      "name": "Voicemail (Ti\u00ebsto Remix)",
+      "url": "https://open.spotify.com/track/6vbQFxIETahvyrcI6N00Cc"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1535,18 +1531,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Pump It Up",
-        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 150635,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "Club To Your Arms",
-        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191596,
-      "name": "Club To Your Arms",
-      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Let Me Cook",
-        "url": "https://open.spotify.com/album/7cbYNkG0QibGE476eVjOUe"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 128222,
-      "name": "Let Me Cook",
-      "url": "https://open.spotify.com/track/44gCnLcXS9c2eVxGg8PkTv"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Your Love (Diplo Remix)",
         "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 155625,
       "name": "Your Love - Diplo Remix",
       "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Let Me Cook",
+        "url": "https://open.spotify.com/album/7cbYNkG0QibGE476eVjOUe"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 128222,
+      "name": "Let Me Cook",
+      "url": "https://open.spotify.com/track/44gCnLcXS9c2eVxGg8PkTv"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
         "url": "https://open.spotify.com/album/4otUqw6jN2D4yGQwOjgEGV"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 166429,
       "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
       "url": "https://open.spotify.com/track/7xe8BiG8HHl1EetMA6ygey"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1935,22 +1935,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Zone (feat. Poppy Baskcomb)",
-        "url": "https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF"
+        "name": "Cola (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "CAMELPHAT",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 176274,
-      "name": "Zone (feat. Poppy Baskcomb)",
-      "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"
+      "duration_ms": 188160,
+      "name": "Cola - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1975,26 +1979,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Cola (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
+        "name": "Zone (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF"
       },
       "artists": [
         {
-          "name": "CAMELPHAT",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Cola - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+      "duration_ms": 176274,
+      "name": "Zone (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 144501,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Better Off (Alone, Pt. III)",
         "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
       },
@@ -2083,6 +2063,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 144501,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "NO CAP",
         "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
       },
@@ -2139,6 +2119,26 @@
       "duration_ms": 203571,
       "name": "Noche Without You",
       "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2191,6 +2191,22 @@
       "duration_ms": 354375,
       "name": "Reload - swedm\u00ae Remix",
       "url": "https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/2XDRwEY4n0kUx2tZA2bro7"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1d9Cd2ZDTo1YWrWrjzoFCc"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2267,22 +2283,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Panic Attack",
-        "url": "https://open.spotify.com/album/2XDRwEY4n0kUx2tZA2bro7"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1d9Cd2ZDTo1YWrWrjzoFCc"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk"
       },
@@ -2347,26 +2347,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Original Don",
-        "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
+        "name": "The Night's Not Dead",
+        "url": "https://open.spotify.com/album/672HqumkmGtAtRejCwG61e"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
         }
       ],
-      "duration_ms": 168275,
-      "name": "Original Don",
-      "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
+      "duration_ms": 150779,
+      "name": "I Lied",
+      "url": "https://open.spotify.com/track/2yGvUL3VKUBmvxs5EiSKT5"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2395,22 +2391,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "The Night's Not Dead",
-        "url": "https://open.spotify.com/album/672HqumkmGtAtRejCwG61e"
+        "name": "Original Don",
+        "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
       "artists": [
         {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         },
         {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
         }
       ],
-      "duration_ms": 150779,
-      "name": "I Lied",
-      "url": "https://open.spotify.com/track/2yGvUL3VKUBmvxs5EiSKT5"
+      "duration_ms": 168275,
+      "name": "Original Don",
+      "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2435,26 +2435,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "4Get The Girl (GUDFELLA & Jackie Hollander Remix)",
-        "url": "https://open.spotify.com/album/1gmCa25tRxlInIq3chquBs"
+        "name": "Fuck My Computer (Frost Children Remix)",
+        "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
       },
       "artists": [
         {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         },
         {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        },
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         }
       ],
-      "duration_ms": 146250,
-      "name": "4Get The Girl - GUDFELLA & Jackie Hollander Remix",
-      "url": "https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx"
+      "duration_ms": 197956,
+      "name": "Fuck My Computer - Frost Children Remix",
+      "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2479,42 +2475,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Fuck My Computer (Frost Children Remix)",
-        "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
+        "name": "4Get The Girl (GUDFELLA & Jackie Hollander Remix)",
+        "url": "https://open.spotify.com/album/1gmCa25tRxlInIq3chquBs"
       },
       "artists": [
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
         },
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 197956,
-      "name": "Fuck My Computer - Frost Children Remix",
-      "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "I Wanna Go",
-        "url": "https://open.spotify.com/album/3t1TE8ANrrQVau0Oeb3CIt"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
         },
         {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
         }
       ],
-      "duration_ms": 126229,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/23eZSuMOfsr4tTWcC6DGcG"
+      "duration_ms": 146250,
+      "name": "4Get The Girl - GUDFELLA & Jackie Hollander Remix",
+      "url": "https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2587,6 +2567,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 288159,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -2611,22 +2611,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
+        "name": "I Wanna Go",
+        "url": "https://open.spotify.com/album/3t1TE8ANrrQVau0Oeb3CIt"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         },
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 288159,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
+      "duration_ms": 126229,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/23eZSuMOfsr4tTWcC6DGcG"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2683,26 +2683,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Turn Up The Dose",
-        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Turn Up The Dose",
-      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Flex It",
         "url": "https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O"
       },
@@ -2723,22 +2703,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "One More Dance",
-        "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
         }
       ],
-      "duration_ms": 230347,
-      "name": "One More Dance",
-      "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2759,26 +2739,6 @@
       "duration_ms": 222923,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "thumbs",
-        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Lambb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "thumbs",
-      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2807,6 +2767,46 @@
       "duration_ms": 261333,
       "name": "Only Human - MPH Remix",
       "url": "https://open.spotify.com/track/6s0XiiD5NE5MetCoOVY0yM"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 230347,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
     },
     {
       "added_at": "2026-11-13 04:00:41",

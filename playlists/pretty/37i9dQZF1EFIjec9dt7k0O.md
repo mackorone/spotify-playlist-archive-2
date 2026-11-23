@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,237 likes - 235 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,238 likes - 235 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 150 | [Holy For Tonight](https://open.spotify.com/track/583XgUuJHqnS2YlFmyz1Uh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 4:52 |
 | 151 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 |
 | 152 | [Upper Hand](https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:57 |
-| 153 | [The Right Way](https://open.spotify.com/track/7BahisT2p5GUeICfr7AXII) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G) | 4:41 |
-| 154 | [L.E.S\. Girl](https://open.spotify.com/track/2vJG9o6yqmjdZRNgMH8xb3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 2:50 |
+| 153 | [L.E.S\. Girl](https://open.spotify.com/track/2vJG9o6yqmjdZRNgMH8xb3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 2:50 |
+| 154 | [The Right Way](https://open.spotify.com/track/7BahisT2p5GUeICfr7AXII) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G) | 4:41 |
 | 155 | [React, Respond](https://open.spotify.com/track/33rc0hKdMyHf6lz7WMTRdh) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:30 |
 | 156 | [Everything Sounds Like A Love Song](https://open.spotify.com/track/0TPsp6jaQHOcgL8bYUt4AT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 4:26 |
 | 157 | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/track/7KYqKoxZ2Z0cEItblj352Q) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 5:35 |
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 186 | [Rebels Without Applause](https://open.spotify.com/track/0ydQtiT94YMzEBlqvBITvh) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Rebels Without Applause](https://open.spotify.com/album/20RqGVQICnXPysBXdnGAZz) | 3:25 |
 | 187 | [Do Girls](https://open.spotify.com/track/0BFYW2sNgz4Ai4IA43YaMs) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 3:38 |
 | 188 | [Power of Right](https://open.spotify.com/track/3FKYu6nsp3LG6JeEmpZRyV) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 3:33 |
-| 189 | [Wings Of Stone](https://open.spotify.com/track/1yZntW925nLegBydduhjWN) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Wings Of Stone](https://open.spotify.com/album/2hBfTjB77BQ4Fa7RN64MNT) | 3:46 |
-| 190 | [Side Effects](https://open.spotify.com/track/463PiN9LTK31VIjID2h9iL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 |
+| 189 | [Side Effects](https://open.spotify.com/track/463PiN9LTK31VIjID2h9iL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues](https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc) | 4:34 |
+| 190 | [Wings Of Stone](https://open.spotify.com/track/1yZntW925nLegBydduhjWN) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Wings Of Stone](https://open.spotify.com/album/2hBfTjB77BQ4Fa7RN64MNT) | 3:46 |
 | 191 | [Simple Things](https://open.spotify.com/track/7IIM5wzOr8EQ3I14xHyziq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:11 |
 | 192 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 |
 | 193 | [Church & State](https://open.spotify.com/track/7F9ziKa3aZSfd8Fv5aUfs7) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:18 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 234 | [One Night Stand \- \(Bonus Track\)](https://open.spotify.com/track/0A9ZMNesPbIXCCiaOpe2Gc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane \(Special Edition\)](https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu) | 3:15 |
 | 235 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AciTKgAAAAD2RcaD4hygP7eKeTRcjHIz`
+Snapshot ID: `AciYygAAAACftS/8wwDpXiZYy+VmP6eE`

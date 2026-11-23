@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/2wA5Her9qmvPSYVaksIqmw"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196609,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2OcBsn7gWcl9FWxy4bXJm4"
+    },
+    {
+      "album": {
         "name": "Sun In California",
         "url": "https://open.spotify.com/album/1SVssRyjboGsW7zXVwARk2"
       },

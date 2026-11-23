@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 99 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
 | 100 | [Differently](https://open.spotify.com/track/4lZ7ulKpCoSkCu8mAbu2KE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [DONT PANIC!](https://open.spotify.com/album/3dAtB9xY7UrJAMgTOIeuQE) | 3:11 |
 | 101 | [Actress](https://open.spotify.com/track/4zgIOCDE23hczp6120IZ5N) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 3:58 |
-| 102 | [Vesuvius](https://open.spotify.com/track/6gcOwkMKlJ9p99vGvbuzin) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 4:17 |
-| 103 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
+| 102 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
+| 103 | [Vesuvius](https://open.spotify.com/track/6gcOwkMKlJ9p99vGvbuzin) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 4:17 |
 | 104 | [OFFLINE](https://open.spotify.com/track/63cRkot6o6i0QJt2a44tdj) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [NAJI](https://open.spotify.com/album/1DewRfxma6JSpgMZIQOwRy) | 2:14 |
 | 105 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 |
 | 106 | [Fuck Me Up](https://open.spotify.com/track/1VcwifrNRxSIkHtqy13vax) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/32NQLuqP0xjHSjjD9Peb4N) | 3:07 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 172 | [Tomorrow](https://open.spotify.com/track/1xpn9Jf6SaJJ6mworiNQjf) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/4BVvO0gBRjK5m5SlyXd4qy) | 2:22 |
 | 173 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AciTIAAAAAC8r4HCFuXcM9jIsc4MibTI`
+Snapshot ID: `AciY3gAAAACtMno6zvVP00LhADA3CJZ8`

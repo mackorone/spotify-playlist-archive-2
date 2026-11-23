@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 2009086,
+  "num_followers": 2009040,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "This I Promise You",
-      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "America Town",
-        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
       "artists": [
         {
-          "name": "Five For Fighting",
-          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Superman (It's Not Easy)",
-      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
+      "duration_ms": 284760,
+      "name": "This I Promise You",
+      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -635,6 +619,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "America Town",
+        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+      },
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Superman (It's Not Easy)",
+      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 196280,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -683,6 +667,22 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Say You Won't Let Go",
-        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211477,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Fire On Fire (From \"Watership Down\")",
         "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 246735,
       "name": "Fire On Fire - From \"Watership Down\"",
       "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211477,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW"
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 174516,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
+      "duration_ms": 141240,
+      "name": "Real Love - From the John Lewis Christmas Advert 2014",
+      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 174516,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Under the Surface",
         "url": "https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 196477,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Real Love - From the John Lewis Christmas Advert 2014",
-      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Renee's Song",
         "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
-      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1555,6 +1539,22 @@
       "duration_ms": 176283,
       "name": "No Judgement",
       "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
+      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Before I Lose My Mind (Stripped)",
-        "url": "https://open.spotify.com/album/5R9StAkq53qi7EBWIWFNP3"
-      },
-      "artists": [
-        {
-          "name": "Etham",
-          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
-        }
-      ],
-      "duration_ms": 226646,
-      "name": "Before I Lose My Mind - Stripped",
-      "url": "https://open.spotify.com/track/2UTHTASTtmJXiBUmSIXERT"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "If Not With You, For You",
         "url": "https://open.spotify.com/album/1TYQx1Ku35FXe4eatyAGeC"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 188908,
       "name": "If Not With You, For You",
       "url": "https://open.spotify.com/track/2Vp7ZK5wP51LYayV14ichq"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Before I Lose My Mind (Stripped)",
+        "url": "https://open.spotify.com/album/5R9StAkq53qi7EBWIWFNP3"
+      },
+      "artists": [
+        {
+          "name": "Etham",
+          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
+        }
+      ],
+      "duration_ms": 226646,
+      "name": "Before I Lose My Mind - Stripped",
+      "url": "https://open.spotify.com/track/2UTHTASTtmJXiBUmSIXERT"
     },
     {
       "added_at": "2022-12-08 16:33:34",

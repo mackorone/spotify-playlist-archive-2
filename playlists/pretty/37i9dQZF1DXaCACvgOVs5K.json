@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 915205,
+  "num_followers": 915230,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "One Question",
         "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
       },
@@ -567,30 +567,6 @@
       "duration_ms": 184019,
       "name": "One Question",
       "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Solar Skin (feat. jasper.wav)",
-        "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
-        },
-        {
-          "name": "jasper.wav",
-          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Solar Skin (feat. jasper.wav)",
-      "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -623,6 +599,30 @@
       "duration_ms": 229845,
       "name": "Ride On Me",
       "url": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Solar Skin (feat. jasper.wav)",
+        "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "jasper.wav",
+          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Solar Skin (feat. jasper.wav)",
+      "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 229174,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Why Why",
         "url": "https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 185332,
       "name": "Why Why",
       "url": "https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 229174,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Raider on the Storm",
-        "url": "https://open.spotify.com/album/5Ru0WPywMRUUfH6LptpD75"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 193024,
-      "name": "Raider on the Storm",
-      "url": "https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Love\u2019s Theme",
         "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
       },
@@ -1171,26 +1151,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "High In Ibiza",
-        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
+        "name": "Raider on the Storm",
+        "url": "https://open.spotify.com/album/5Ru0WPywMRUUfH6LptpD75"
       },
       "artists": [
         {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         },
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
         }
       ],
-      "duration_ms": 142500,
-      "name": "High In Ibiza",
-      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
+      "duration_ms": 193024,
+      "name": "Raider on the Storm",
+      "url": "https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1235,6 +1211,30 @@
       "duration_ms": 191657,
       "name": "My Temptations",
       "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "High In Ibiza",
+        "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "High In Ibiza",
+      "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "$MONEY",
-        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 154898,
-      "name": "$MONEY",
-      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Watch Out Now",
         "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 163890,
       "name": "Watch Out Now",
       "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "$MONEY",
+        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 154898,
+      "name": "$MONEY",
+      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
+      },
+      "artists": [
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        },
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "Ellie Allen",
+          "url": "https://open.spotify.com/artist/6j3YrJV3BXTaXl3Q152Mzq"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Tell Me (feat. Pollena)",
         "url": "https://open.spotify.com/album/4rCZGeJjFeAo3iKRHZVA3Y"
       },
@@ -1439,30 +1463,6 @@
       "duration_ms": 172921,
       "name": "We Not Tired",
       "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
-      },
-      "artists": [
-        {
-          "name": "FLETCH",
-          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
-        },
-        {
-          "name": "Mason Collective",
-          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
-        },
-        {
-          "name": "Ellie Allen",
-          "url": "https://open.spotify.com/artist/6j3YrJV3BXTaXl3Q152Mzq"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Sing It Back",
-        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
-      },
-      "artists": [
-        {
-          "name": "Laherte",
-          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Sing It Back",
-      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Gator Boots",
         "url": "https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9"
       },
@@ -1539,22 +1523,18 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
         }
       ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+      "duration_ms": 220312,
+      "name": "Sing It Back",
+      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1579,6 +1559,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Groovin'",
         "url": "https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 198931,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "The Montana Girl",
+        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "The Montana Girl",
+      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1611,22 +1627,6 @@
       "duration_ms": 236307,
       "name": "Fool Proof",
       "url": "https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "The Montana Girl",
-        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "The Montana Girl",
-      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Girl On The Beat",
-        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Girl On The Beat",
-      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Bad Bara",
         "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 245571,
       "name": "Bad Bara",
       "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Girl On The Beat",
+        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 160029,
+      "name": "Girl On The Beat",
+      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/4Bfkxlb2mIQMiwvyWZvVe7"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/4MS7dkKHDKY8cZ9zwGEjDg"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Energy Crew Pt. 1",
         "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 207272,
       "name": "Livin' It Up (feat. Aaron Pfeiffer)",
       "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/4Bfkxlb2mIQMiwvyWZvVe7"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/4MS7dkKHDKY8cZ9zwGEjDg"
     },
     {
       "added_at": "2026-10-01 23:00:26",

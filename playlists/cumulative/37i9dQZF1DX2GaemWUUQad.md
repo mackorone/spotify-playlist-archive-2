@@ -4,7 +4,7 @@
 
 > Let these songs be your travel partner this Diwali.
 
-68 songs - 4 hr 51 min
+69 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/2JS0RFqBJvBtvG1GIsZmjW) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:13 | 2025-10-15 | 2025-10-28 |
 | [Akhiyaan Gulaab](https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 2:51 | 2025-10-15 |  |
 | [Andaaz e Karam](https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti), [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Andaaz e Karam](https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO) | 7:17 | 2026-10-15 |  |
-| [Apna Bana Le](https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Bhediya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe) | 4:21 | 2025-10-15 |  |
+| [Apna Bana Le](https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Bhediya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pw0xzpe4O0OMohBwau50L) | 4:21 | 2026-10-15 |  |
+| [Apna Bana Le](https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Bhediya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe) | 4:21 | 2025-10-15 | 2026-11-23 |
 | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 | 2026-10-15 |  |
 | [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 | 2025-10-15 | 2026-10-16 |
 | [Banjaara](https://open.spotify.com/track/0XjHjMiFErp8ZTOIpA6eRS) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Ek Tha Tiger](https://open.spotify.com/album/1vATJtFK74jkmkg5M8ffvq) | 4:33 | 2025-10-15 | 2026-10-16 |

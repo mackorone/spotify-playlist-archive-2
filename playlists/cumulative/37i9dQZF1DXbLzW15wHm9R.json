@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "Hotel Paper",
+        "url": "https://open.spotify.com/album/5cMMHA3CyA21eRXP1pnm0Z"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "Are You Happy Now?",
+      "url": "https://open.spotify.com/track/5B7XIcS5T76NJZFOHX30Io"
+    },
+    {
+      "album": {
         "name": "Mug Museum",
         "url": "https://open.spotify.com/album/5xXP2gI8U35p389RggZW6O"
       },
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 111458,
       "name": "Euniq (Original Song from XO, Kitty, Season 3)",
       "url": "https://open.spotify.com/track/0rHklweNkglC0epfjauKdt"

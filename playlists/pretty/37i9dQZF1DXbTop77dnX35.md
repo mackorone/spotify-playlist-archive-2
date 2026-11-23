@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  Rema, Olamide, Burna Boy, Deto Blvck, Fameye, Shoday  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,439 likes - 81 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,598 likes - 81 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

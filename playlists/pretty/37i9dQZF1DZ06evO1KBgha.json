@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 387017,
+  "num_followers": 387055,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAB1bjzkoK9GICVbi2D2my4J",
+  "snapshot_id": "awDfAAAAAACYO481nEkXtxQarc74Q1FL",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokome",
-        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 157450,
-      "name": "Tokome",
-      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
+      "duration_ms": 157606,
+      "name": "Botellita",
+      "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+        "name": "Tokome",
+        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 157606,
-      "name": "Botellita",
-      "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
+      "duration_ms": 157450,
+      "name": "Tokome",
+      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 136505,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 202594,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 136505,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 212205,
-      "name": "Los Santos",
-      "url": "https://open.spotify.com/track/5VZUk1ryO5RjKEd2txFNhU"
+      "duration_ms": 170318,
+      "name": "Shillin'",
+      "url": "https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL"
     },
     {
       "added_at": null,
@@ -683,6 +683,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 141631,
+      "name": "Tu Peor Pesadilla",
+      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 212205,
+      "name": "Los Santos",
+      "url": "https://open.spotify.com/track/5VZUk1ryO5RjKEd2txFNhU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HEROINA",
         "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
       },
@@ -703,34 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+        "name": "En 4",
+        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
       },
       "artists": [
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 170318,
-      "name": "Shillin'",
-      "url": "https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
-      },
-      "artists": [
+        },
         {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 141631,
-      "name": "Tu Peor Pesadilla",
-      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
+      "duration_ms": 186382,
+      "name": "En 4",
+      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
       "duration_ms": 138143,
       "name": "Bate",
       "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En 4",
-        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "En 4",
-      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
     },
     {
       "added_at": null,

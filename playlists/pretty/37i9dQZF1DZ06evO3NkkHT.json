@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 91371,
+  "num_followers": 91450,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAD2q56AmfecvIFugfbRkFYC",
+  "snapshot_id": "awDfAAAAAACEaSQqdLIF6TF9fPJSKkPv",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/5V3CgOTXhPXuYxCFJZ0br9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 177013,
       "name": "Holy Ground (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/5V3CgOTXhPXuYxCFJZ0br9"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BURN (feat. Ava Max)",
-        "url": "https://open.spotify.com/album/6zNke11RgaMOoQDruAYELb"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "BURN (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/1alX84LuLflUU7n4ow0aSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BETTER OVER TIME",
         "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
       },
@@ -367,22 +347,6 @@
       "duration_ms": 122333,
       "name": "I GET IT",
       "url": "https://open.spotify.com/track/41C8oQ4f7UZQDMAVcGLQ85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 136866,
-      "name": "Change Me",
-      "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
     },
     {
       "added_at": null,
@@ -407,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 136866,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITE (feat. Belly Gang Kushington)",
         "url": "https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 178333,
       "name": "LITE (feat. Belly Gang Kushington)",
       "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BURN (feat. Ava Max)",
+        "url": "https://open.spotify.com/album/6zNke11RgaMOoQDruAYELb"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "BURN (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/1alX84LuLflUU7n4ow0aSM"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ville",
-        "url": "https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ"
-      },
-      "artists": [
-        {
-          "name": "Trap Dickey",
-          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 149767,
-      "name": "No Love (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/7fhLrdNbOB040rUZWR9XWs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE (DELUXE)",
         "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 213600,
       "name": "Primetime",
       "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ville",
+        "url": "https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 149767,
+      "name": "No Love (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/7fhLrdNbOB040rUZWR9XWs"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 178531,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Someone: Texas Population",
         "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 165114,
       "name": "TexUS - Intro",
       "url": "https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 178531,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Left Eye",
+      "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 163626,
       "name": "Who Run It",
       "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Left Eye",
-      "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
     },
     {
       "added_at": null,

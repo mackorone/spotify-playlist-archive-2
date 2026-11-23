@@ -3581,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "Fria f\u00e5glar i ett fritt land (Version:Slugger)",
+        "url": "https://open.spotify.com/album/10axw9EeWCRx8EGcvXzFmP"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332186,
+      "name": "Fria f\u00e5glar i ett fritt land - Version:Slugger",
+      "url": "https://open.spotify.com/track/3JxemfbC44OELxV9EJO11f"
+    },
+    {
+      "album": {
         "name": "Fr\u00e5n landet",
         "url": "https://open.spotify.com/album/2Y5L1zs2PSBAHT0t86EFCY"
       },
@@ -8020,7 +8038,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 154293,
       "name": "Of All People",
       "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"

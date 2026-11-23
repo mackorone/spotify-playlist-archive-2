@@ -4,7 +4,7 @@
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-151 songs - 7 hr 53 min
+152 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Claro Que Me Duele](https://open.spotify.com/track/0TKn2fxvpUTSsiDqrkFDcV) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:07 | 2026-02-28 | 2026-03-22 |
 | [Concédeme](https://open.spotify.com/track/0FANQz7nFRHIMmdwUCKJdC) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 2:57 | 2023-11-10 |  |
 | [Concédeme](https://open.spotify.com/track/5Q8lRKYm8vbPJbcJoE7JXX) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:57 | 2022-06-07 | 2023-11-11 |
+| [Correteando El Sueño](https://open.spotify.com/track/3p35HhV0nqCaIsZKRC7uqB) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Correteando El Sueño](https://open.spotify.com/album/5GxNxe1N2Adw3t40WKb9sv) | 2:50 | 2026-11-23 |  |
 | [Cuando Me Vi En Tus Ojos](https://open.spotify.com/track/6LVnqu9o1XKTV03tBgiEsR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Me Vi En Tus Ojos](https://open.spotify.com/album/6SOeP0jexav5t3x5J1wFKH) | 2:51 | 2022-06-02 | 2022-06-12 |
 | [Cuando Regreso A Tus Brazos](https://open.spotify.com/track/4ZTSCkYVhnaxiKDkGvl3kN) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 3:08 | 2022-06-16 | 2022-10-05 |
 | [Cuando Regreso A Tus Brazos](https://open.spotify.com/track/0BFiTTjJy7tB6R15J4vaXf) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 3:10 | 2026-01-22 | 2026-05-07 |
@@ -112,7 +113,7 @@
 | [Profundamente](https://open.spotify.com/track/2J3BdzcJlWoH5JqL4jxuMY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 3:14 | 2022-06-04 | 2022-10-09 |
 | [Prohibido](https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido](https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT) | 2:56 | 2022-06-01 |  |
 | [Prohibido \(En Vivo\)](https://open.spotify.com/track/2oaXSRWXf0pjmODxwKBxmq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido \(En Vivo\)](https://open.spotify.com/album/7ij7uJXtBAxjZswsqYLfxl) | 2:58 | 2024-03-17 | 2025-11-22 |
-| [Prohibido \- En Vivo](https://open.spotify.com/track/7bpZfP6LLBJF9YxTkMHbmx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 2:58 | 2025-11-22 |  |
+| [Prohibido \- En Vivo](https://open.spotify.com/track/7bpZfP6LLBJF9YxTkMHbmx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 2:58 | 2025-11-22 | 2026-11-23 |
 | [Puño De Tierra](https://open.spotify.com/track/6nAwNfJ1kxO5r2EWClqW1b) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Evolucion De Una Estrella](https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl) | 2:59 | 2022-06-01 |  |
 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/4X0ktZrJzaw4D23lNC3um2) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Ley De La Vida](https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg) | 2:41 | 2024-09-01 | 2025-11-13 |
 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/5P1Fm2SSTWfcRmpCCjxwHd) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/6jWO1gpaKRmFOkankuNGqK) | 2:43 | 2023-12-29 | 2024-07-15 |

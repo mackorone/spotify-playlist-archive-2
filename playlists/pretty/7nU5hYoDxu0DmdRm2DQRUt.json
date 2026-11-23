@@ -6,8 +6,24 @@
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPq0eKtWdclCSmKkn0DP2rFPUlpqSs",
+  "snapshot_id": "AAAPraHNbUi5PepKxUNS67+yORUVBUOh",
   "tracks": [
+    {
+      "added_at": "2026-11-22 22:58:54",
+      "album": {
+        "name": "The Hill EP",
+        "url": "https://open.spotify.com/album/2ooqkCmwkXtJuEhuS9Vu9N"
+      },
+      "artists": [
+        {
+          "name": "Philipp Kolbe",
+          "url": "https://open.spotify.com/artist/5Eu0T4QNsTeFHNjU2X64DA"
+        }
+      ],
+      "duration_ms": 218736,
+      "name": "The Hill",
+      "url": "https://open.spotify.com/track/1DVVADPGqObtNObAs0awIt"
+    },
     {
       "added_at": "2026-11-10 15:34:34",
       "album": {

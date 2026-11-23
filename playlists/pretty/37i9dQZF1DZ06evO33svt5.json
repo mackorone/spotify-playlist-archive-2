@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1108390,
+  "num_followers": 1108424,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAAIcXscZz85lfVVH71qIDVt",
+  "snapshot_id": "awDfAAAAAADvWqwC1DaWvqFEbvJVVz8E",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
     },
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 201573,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
+      "duration_ms": 163167,
+      "name": "Like That (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
     {
       "added_at": null,
@@ -259,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amala",
         "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 219004,
       "name": "Wine Pon You (feat. Konshens)",
       "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 163167,
-      "name": "Like That (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 42141,
+  "num_followers": 42147,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAABueGrmgq+sOjL4p7mGiwaC",
+  "snapshot_id": "awDfAAAAAACzs6wfEdeiDDgWK1DWViad",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "Budget (feat. Latto)",
-      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put It On Da Floor Again (feat. Cardi B)",
         "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
     },
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 201306,
       "name": "WHAT'S HAPPENIN' (feat. Latto & Coupe)",
       "url": "https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blick Sum (feat. Playboi Carti)",
-        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Blick Sum (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
     {
       "added_at": null,
@@ -550,11 +550,15 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Get Money Girl",
-      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
+      "duration_ms": 202120,
+      "name": "Make Me (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/0n7n3QeM6sUeH4ikUkRjz1"
     },
     {
       "added_at": null,
@@ -622,15 +626,11 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 202120,
-      "name": "Make Me (feat. Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/0n7n3QeM6sUeH4ikUkRjz1"
+      "duration_ms": 181586,
+      "name": "Get Money Girl",
+      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Didn't Say (feat. Latto)",
-      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Didn't Say (feat. Latto)",
+      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FreakyT (Remix)",
         "url": "https://open.spotify.com/album/2obxjEOE04EKpltGrarB1H"
       },
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRINCESS POP THAT",
-        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173573,
-      "name": "BACK OUTSIDE (feat. Latto)",
-      "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Booty (feat. Latto)",
         "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 146666,
       "name": "Booty (feat. Latto)",
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRINCESS POP THAT",
+        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173573,
+      "name": "BACK OUTSIDE (feat. Latto)",
+      "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
     },
     {
       "added_at": null,

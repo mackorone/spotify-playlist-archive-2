@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 952374,
+  "num_followers": 952428,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av+NgAAAAAAN3vWGZnBIlPzeyX32jS6K",
+  "snapshot_id": "awDfAAAAAAC03Yr/p2nKUb+JylCzRzqL",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Neighbors",
-      "url": "https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -279,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "East Atlanta Love Letter",
-        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
       "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 240341,
-      "name": "Pretty Little Fears (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+      "duration_ms": 216520,
+      "name": "Neighbors",
+      "url": "https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy"
     },
     {
       "added_at": null,
@@ -319,6 +299,26 @@
       "duration_ms": 296520,
       "name": "She Knows (feat. Amber Coffman & Cults)",
       "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tana Talk 4",
-        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Johnny P's Caddy",
-      "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
+      "duration_ms": 192065,
+      "name": "Free Fall (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
     },
     {
       "added_at": null,
@@ -507,22 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+        "name": "Tana Talk 4",
+        "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 192065,
-      "name": "Free Fall (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
+      "duration_ms": 225000,
+      "name": "Johnny P's Caddy",
+      "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
     },
     {
       "added_at": null,
@@ -619,42 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 331480,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Old Dog (with Petey Pablo)",
-      "url": "https://open.spotify.com/track/6WGJ7hPYHXu3aQ6x8GzigX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -679,6 +643,42 @@
       "duration_ms": 202040,
       "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
       "url": "https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Old Dog (with Petey Pablo)",
+      "url": "https://open.spotify.com/track/6WGJ7hPYHXu3aQ6x8GzigX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 331480,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
     },
     {
       "added_at": null,

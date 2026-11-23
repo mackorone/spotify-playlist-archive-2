@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Steps (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5QR57qRfOJVqqieBL1I0sW"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89342,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/2Fu2RKSNdvhhPNhY1hUJYE"
+    },
+    {
+      "album": {
         "name": "Bridgerton (Covers from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/6qOA5YkgRGNlAI8QaqB9oH"
       },

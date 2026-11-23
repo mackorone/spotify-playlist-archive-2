@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,025 likes - 73 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,063 likes - 73 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 67 | [Sharing the World \(feat\. Hatsune Miku\) \[Album ver.\]](https://open.spotify.com/track/3FQYNyjMnfI7Z3vMiTEVTJ) | [BIGHEAD](https://open.spotify.com/artist/2H1LiROfuxEO0EORx0hFD4), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ONLY 1 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/5fmWYNx8CJF2VfDC7BnQlq) | 4:06 |
 | 68 | [ロミオとシンデレラ](https://open.spotify.com/track/0kiDN35Ern4Mi3rqv3dP6D) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [ロミオとシンデレラ](https://open.spotify.com/album/63e1cTQC0sMNtH4kzv0w5g) | 4:40 |
 | 69 | [裏表ラバーズ \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:34 |
-| 70 | [METEOR](https://open.spotify.com/track/5wHdoGVofJZUGc6Z6t5wZ5) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [METEOR](https://open.spotify.com/album/0tOjjdPOA63W3waKTrKObc) | 4:34 |
+| 70 | [METEOR \(feat\. 初音ミク\)](https://open.spotify.com/track/5wHdoGVofJZUGc6Z6t5wZ5) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [METEOR](https://open.spotify.com/album/0tOjjdPOA63W3waKTrKObc) | 4:34 |
 | 71 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
 | 72 | [never ender](https://open.spotify.com/track/17yQnJRqu446o8iGJcVpGT) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hatsune Miku 10th Anniversary Songs \-ミラクルミライ\-](https://open.spotify.com/album/3OxdPFUtuzEvhqqaWSr6vD) | 4:30 |
 | 73 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |

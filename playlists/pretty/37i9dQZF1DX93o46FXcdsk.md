@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,306 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,321 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 10 | [Als Je Lacht](https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Stilte In De Storm](https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF) | 3:54 |
 | 11 | [Zij](https://open.spotify.com/track/54iCdVRWMgmy22pJj0FwHN) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:05 |
 | 12 | [Dom, Lomp & Famous](https://open.spotify.com/track/1GqYqYucjdgU2mYggk9BrM) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Begin Twintig](https://open.spotify.com/album/7v3UktLA1JnkuZK3kq2ym9) | 3:41 |
-| 13 | [Vaag En Stil](https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Vaag En Stil](https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4) | 3:31 |
+| 13 | [Heb Je Even Voor Mij](https://open.spotify.com/track/7B78M515588woNjQFBdGcJ) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Dicht bij jou](https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe) | 3:18 |
 | 14 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
-| 15 | [Heb Je Even Voor Mij](https://open.spotify.com/track/7B78M515588woNjQFBdGcJ) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Dicht bij jou](https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe) | 3:18 |
+| 15 | [Vaag En Stil](https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Vaag En Stil](https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4) | 3:31 |
 | 16 | [Voorbij](https://open.spotify.com/track/5dOov14V6FD3sEjDZMiRS6) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Zien](https://open.spotify.com/album/3fDaMcFWW1zR18e6umeiOf) | 4:06 |
 | 17 | [Hart Van Mijn Gevoel](https://open.spotify.com/track/75og56sR5lahWgyRyhag5w) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Onvoorspelbaar](https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w) | 4:28 |
 | 18 | [Stilte In De Storm](https://open.spotify.com/track/39ZTmjrBK4tM2tlohOpmkF) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Stilte In De Storm](https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF) | 3:16 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 40 | [Het Land Van \- Live](https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14) | [Het Land Van](https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF) | 4:22 |
 | 41 | [Dat Komt Door Jou](https://open.spotify.com/track/7Bc3xpjYiGhXpfvMa9Qwu7) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [NW8](https://open.spotify.com/album/1LPqltU9gR41n27Y3DIoxp) | 4:46 |
 | 42 | [Lippen Op De Mijne](https://open.spotify.com/track/37bPbfNTNziZ7OyV0BShpO) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Herinneringen Het Beste van Nick & Simon Top 100](https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA) | 3:21 |
-| 43 | [Alles Is Liefde](https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:29 |
+| 43 | [Hier](https://open.spotify.com/track/3haBN4UKYahsxHfsRotKvU) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:06 |
 | 44 | [Slaap Lekker \(Fantastig Toch\)](https://open.spotify.com/track/0zVNMXvvuzVCHWAO4qU0rC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Eva De Roovere](https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD) | [Lange Nachten, Korte Dagen](https://open.spotify.com/album/5zGatNPECcHQZyLwSLEFDN) | 3:43 |
 | 45 | [Dansplaat](https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ) | [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w) | [Verschil Moet Er Zijn](https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT) | 3:48 |
 | 46 | [Tranen Gelachen](https://open.spotify.com/track/31TZG9ivW7nWl14OWVoCak) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:25 |
 | 47 | [Watermensen](https://open.spotify.com/track/5i0GCe9HKoiKi8WbFZRTqi) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 3:28 |
-| 48 | [Dichterbij Dan Ooit](https://open.spotify.com/track/1FjeCYFor4B5O3LHaR8eW3) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:19 |
+| 48 | [Alles Is Liefde](https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:29 |
 | 49 | [Rosanne](https://open.spotify.com/track/3uVStmfnvh0lT4ispLGvt5) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 2:39 |
 | 50 | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Alle 40 Goed \- Hollandse Hits](https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub) | 3:56 |
 

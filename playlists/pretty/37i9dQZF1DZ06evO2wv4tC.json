@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAACnieinxJ03PjMFBf9gNNQi",
+  "snapshot_id": "awDfAAAAAADgYkSssQ76IyLgRa4ewtqD",
   "tracks": [
     {
       "added_at": null,
@@ -482,11 +482,15 @@
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
         }
       ],
-      "duration_ms": 74594,
-      "name": "ROADRUNNER",
-      "url": "https://open.spotify.com/track/6csDYX8C5fdpp5Bilp2Ffk"
+      "duration_ms": 135483,
+      "name": "SKIN OUT",
+      "url": "https://open.spotify.com/track/6J239Ojm9MmCJQL6WchlAT"
     },
     {
       "added_at": null,
@@ -595,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 101232,
-      "name": "AMBR\u00c9'S INTERLUDE",
-      "url": "https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wHIMSY!",
         "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
       },
@@ -635,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 101232,
+      "name": "AMBR\u00c9'S INTERLUDE",
+      "url": "https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUBMISSIVE",
         "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
       },
@@ -647,38 +651,6 @@
       "duration_ms": 146250,
       "name": "LOW TIDE",
       "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CAUTIOUS",
-        "url": "https://open.spotify.com/album/0ZZUcHxOSxK1g75vEA0Yqf"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 140450,
-      "name": "CAUTIOUS",
-      "url": "https://open.spotify.com/track/3Duhj1XaVNS3EtEnkhuvAL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
       "added_at": null,
@@ -723,6 +695,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAUTIOUS",
+        "url": "https://open.spotify.com/album/0ZZUcHxOSxK1g75vEA0Yqf"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 140450,
+      "name": "CAUTIOUS",
+      "url": "https://open.spotify.com/track/3Duhj1XaVNS3EtEnkhuvAL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUBMISSIVE",
         "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
       },
@@ -739,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 181144,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COLORWAY",
         "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
       },
@@ -767,6 +755,22 @@
       "duration_ms": 90000,
       "name": "COLORWAY",
       "url": "https://open.spotify.com/track/5G79sWJahVQQJWqOqtxJuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,922 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,927 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 18 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 |
 | 19 | [Blue Anthem](https://open.spotify.com/track/1vP6UbhYuIpDVlgxgAuITY) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Blue Anthem](https://open.spotify.com/album/7EUMETobUARrN6OIcUtcKF) | 3:42 |
 | 20 | [ビリミリオン](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 3:48 |
-| 21 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
-| 22 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
+| 21 | [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 |
+| 22 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 23 | [助けてウェイパー](https://open.spotify.com/track/0HQR5eaUiWHXVuFTaNXcYs) | [すてぃぎもろく](https://open.spotify.com/artist/3maOtCevILAXRauVeWhJ2D), [毎日ユニーク](https://open.spotify.com/artist/3ozNqNNLtBozfYz8xU8BP2) | [助けてウェイパー](https://open.spotify.com/album/6eLHsxAl9JRzWxVkaJDRqD) | 4:13 |
 | 24 | [ANTENNA](https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:30 |
 | 25 | [天獄と地極](https://open.spotify.com/track/3tXioXt3yhKNV7VvfVbOM0) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY), [yowa](https://open.spotify.com/artist/3pvgM0smJsNjVrtkDmHuNN) | [天獄と地極](https://open.spotify.com/album/0wX9Udu8VBsVftcmRj0nAB) | 3:51 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 43 | [ら、のはなし](https://open.spotify.com/track/2tgWF9EZzqiq4Qzdzeow1A) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 3:01 |
 | 44 | [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 |
 | 45 | [ベルベットの詩](https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ベルベットの詩](https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8) | 4:14 |
-| 46 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 |
-| 47 | [うたたね](https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT) | 3:01 |
+| 46 | [うたたね](https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT) | 3:01 |
+| 47 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 |
 | 48 | [夢の恋人](https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [夢が醒めたら](https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z) | 3:20 |
 | 49 | [騙シ愛 \- Damashiai](https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [騙シ愛 \- Damashiai](https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ) | 3:56 |
 | 50 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |

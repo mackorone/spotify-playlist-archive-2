@@ -1,6 +1,6 @@
 {
   "description": "\u97f3\u697d\u3092\u30dd\u30b1\u30c3\u30c8\u306b\u8a70\u3081\u3066\u6563\u6b69\u306b\u51fa\u304b\u3051\u3088\u3046\u3002\u304d\u3063\u3068\u65b0\u3057\u3044\u666f\u8272\u304c\u898b\u3048\u3066\u304f\u308b\u306f\u305a\u3002",
-  "num_followers": 51251,
+  "num_followers": 51260,
   "original_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 250049,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
-    },
-    {
-      "added_at": "2026-10-20 15:00:08",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 187265,
       "name": "Summer You Were Mine",
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
+    },
+    {
+      "added_at": "2026-10-20 15:00:08",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 250049,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
     },
     {
       "added_at": "2026-04-17 03:49:21",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-11-06 09:34:56",
       "album": {
-        "name": "BLUE",
-        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 180890,
-      "name": "missing person",
-      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
-    },
-    {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
         "name": "Airplane Mode",
         "url": "https://open.spotify.com/album/379McNO5sSbweTq3tZi68P"
       },
@@ -193,20 +177,20 @@
       "url": "https://open.spotify.com/track/0dQbsj0KMwoaa5xzzx4nwK"
     },
     {
-      "added_at": "2026-10-20 15:00:08",
+      "added_at": "2026-11-06 09:34:56",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R"
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 171352,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -223,6 +207,22 @@
       "duration_ms": 151671,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
+    },
+    {
+      "added_at": "2026-10-20 15:00:08",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/1doYTnF0SbpTuRQqm8FE8R"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 171352,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
     },
     {
       "added_at": "2026-11-06 09:34:56",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "worst case",
-        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 193301,
-      "name": "worst case",
-      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
-    },
-    {
-      "added_at": "2026-10-20 15:00:08",
-      "album": {
         "name": "I Love a Rainbow",
         "url": "https://open.spotify.com/album/4ndX4Oc55aMO7u6EWRH6zJ"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 129045,
       "name": "I Love a Rainbow",
       "url": "https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y"
+    },
+    {
+      "added_at": "2026-10-20 15:00:08",
+      "album": {
+        "name": "worst case",
+        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 193301,
+      "name": "worst case",
+      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 221595,
+      "name": "Virtuoso",
+      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
+    },
+    {
+      "added_at": "2026-10-20 15:00:08",
+      "album": {
         "name": "close to you",
         "url": "https://open.spotify.com/album/11tfftWLFm6rPm63YlgfrD"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 211961,
       "name": "close to you",
       "url": "https://open.spotify.com/track/62EGzcAgn5m00LbligcAMY"
-    },
-    {
-      "added_at": "2026-10-20 15:00:08",
-      "album": {
-        "name": "Sweet Fortune",
-        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 221595,
-      "name": "Virtuoso",
-      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -677,26 +677,6 @@
       "url": "https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX"
     },
     {
-      "added_at": "2026-10-20 15:00:08",
-      "album": {
-        "name": "Little Miss Twain - The Places I'll Go",
-        "url": "https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 179756,
-      "name": "Who Do You Love (feat. The Milk Carton Kids)",
-      "url": "https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M"
-    },
-    {
       "added_at": "2026-11-06 09:34:56",
       "album": {
         "name": "Think twice",
@@ -717,20 +697,24 @@
       "url": "https://open.spotify.com/track/3BzrCJ28G6TWzfV5e1pixo"
     },
     {
-      "added_at": "2026-11-06 09:34:56",
+      "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "BRUJA",
-        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+        "name": "Little Miss Twain - The Places I'll Go",
+        "url": "https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 171296,
-      "name": "BRUJA",
-      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
+      "duration_ms": 179756,
+      "name": "Who Do You Love (feat. The Milk Carton Kids)",
+      "url": "https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -747,6 +731,22 @@
       "duration_ms": 171625,
       "name": "I Roll My Eyes",
       "url": "https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 171296,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
     },
     {
       "added_at": "2026-04-17 03:49:21",
@@ -767,22 +767,18 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "The World Keeps Spinning",
-        "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
+        "name": "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/79KKCX2lpirv00FydXspMd"
       },
       "artists": [
         {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "Luov",
+          "url": "https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww"
         }
       ],
-      "duration_ms": 135306,
-      "name": "The World Keeps Spinning",
-      "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
+      "duration_ms": 215604,
+      "name": "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30e9\u30a4\u30d5",
+      "url": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -807,18 +803,38 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/79KKCX2lpirv00FydXspMd"
+        "name": "The World Keeps Spinning",
+        "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
       },
       "artists": [
         {
-          "name": "Luov",
-          "url": "https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww"
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 215604,
-      "name": "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30e9\u30a4\u30d5",
-      "url": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU"
+      "duration_ms": 135306,
+      "name": "The World Keeps Spinning",
+      "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "What the Body Remembers",
+        "url": "https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "duration_ms": 254081,
+      "name": "Still a body",
+      "url": "https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -843,22 +859,6 @@
       "duration_ms": 159226,
       "name": "Our Year",
       "url": "https://open.spotify.com/track/4faHxt98lvOrv4InWwgR6U"
-    },
-    {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
-        "name": "What the Body Remembers",
-        "url": "https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb"
-      },
-      "artists": [
-        {
-          "name": "Chezka",
-          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
-        }
-      ],
-      "duration_ms": 254081,
-      "name": "Still a body",
-      "url": "https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh"
     }
   ],
   "unique_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",

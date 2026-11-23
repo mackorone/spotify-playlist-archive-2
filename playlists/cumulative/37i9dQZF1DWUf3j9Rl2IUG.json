@@ -13382,7 +13382,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 120302,
       "name": "Tease Me",
       "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
@@ -14072,6 +14072,24 @@
       "duration_ms": 187962,
       "name": "Vanilla Bottega",
       "url": "https://open.spotify.com/track/7pb3dKlebKOzVzT7fy9fJ7"
+    },
+    {
+      "album": {
+        "name": "E-Mortal Boy",
+        "url": "https://open.spotify.com/album/4r6kHpL8Ql8O6FvfvdjVwg"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167057,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/46eFAhTemPWwNG0Z8yIsKl"
     },
     {
       "album": {

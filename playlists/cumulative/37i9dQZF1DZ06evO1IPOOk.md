@@ -4,7 +4,7 @@
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 33 min
+81 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-17 | 2026-07-27 |
 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 | 2026-02-22 |  |
 | [Hair Down](https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 3:36 | 2024-05-02 |  |
-| [hey now \(feat\. dody6\)](https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:37 | 2024-11-24 |  |
+| [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 | 2026-11-23 |  |
+| [hey now \(feat\. dody6\)](https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:37 | 2024-11-24 | 2026-11-23 |
 | [HiiiPower](https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 4:39 | 2024-05-02 | 2024-11-24 |
 | [Hol' Up](https://open.spotify.com/track/6cfVDaIdvDtYH91RqC6Wox) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:53 | 2024-05-02 | 2025-01-15 |
 | [Hood Gone Love It \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Follow Me Home](https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9) | 4:05 | 2024-05-02 |  |

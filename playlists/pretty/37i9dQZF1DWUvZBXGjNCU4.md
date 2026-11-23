@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,558 likes - 138 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,575 likes - 138 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

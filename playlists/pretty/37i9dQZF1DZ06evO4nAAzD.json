@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "av48AAAAAAA+cMu1MrqQ8jHn77MlujH7",
+  "snapshot_id": "awDfAAAAAAA8FNBEeqyprcA1BCcinAmg",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 por Essa Noite",
         "url": "https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 171130,
       "name": "S\u00f3 por Essa Noite",
       "url": "https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reca\u00edda",
-        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pouco Assunto",
-        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 166491,
-      "name": "Pouco Assunto",
-      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Que Isso?",
         "url": "https://open.spotify.com/album/3T7eJi23fg8xpUUAnZ3pra"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 145979,
       "name": "Por Que Isso?",
       "url": "https://open.spotify.com/track/5DmbR451VqRfUhzAnCS5VH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pouco Assunto",
+        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 166491,
+      "name": "Pouco Assunto",
+      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poc Poc",
+        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 212375,
+      "name": "Poc Poc",
+      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terror das Faixa Rosa",
         "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
       },
@@ -815,70 +831,6 @@
       "duration_ms": 201600,
       "name": "Terror das Faixa Rosa",
       "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poc Poc",
-        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 212375,
-      "name": "Poc Poc",
-      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Onda do Boldo",
-        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Thammy",
-          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Na Onda do Boldo",
-      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
     },
     {
       "added_at": null,
@@ -939,6 +891,54 @@
       "duration_ms": 182400,
       "name": "VIDA DE ARTISTA",
       "url": "https://open.spotify.com/track/09PuQONpor7FhWeB0Ph5Pn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Onda do Boldo",
+        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Thammy",
+          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Na Onda do Boldo",
+      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
     },
     {
       "added_at": null,
@@ -1067,26 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No meu Flat",
-        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "No meu Flat",
-      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faixa Anjo",
         "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
       },
@@ -1107,50 +1087,6 @@
       "duration_ms": 246620,
       "name": "Faixa Anjo",
       "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Vai Ser de Mim",
-        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "O Que Vai Ser de Mim",
-      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Levo Daqui",
-        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Lu\u00e1 Kali",
-          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
-        }
-      ],
-      "duration_ms": 244965,
-      "name": "Te Levo Daqui",
-      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
     },
     {
       "added_at": null,
@@ -1187,6 +1123,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Que Vai Ser de Mim",
+        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "O Que Vai Ser de Mim",
+      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No meu Flat",
+        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "No meu Flat",
+      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
       },
@@ -1207,6 +1183,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Levo Daqui",
+        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Lu\u00e1 Kali",
+          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
+        }
+      ],
+      "duration_ms": 244965,
+      "name": "Te Levo Daqui",
+      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gelo no Copo (Remix)",
         "url": "https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM"
       },
@@ -1223,6 +1223,74 @@
       "duration_ms": 170318,
       "name": "Gelo no Copo - Remix",
       "url": "https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set Dj Br da Tijuca 3",
+        "url": "https://open.spotify.com/album/3MWa5KeTjTQcs1uLhn5k7C"
+      },
+      "artists": [
+        {
+          "name": "BR DA TIJUCA",
+          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        },
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        },
+        {
+          "name": "Meno Bom",
+          "url": "https://open.spotify.com/artist/2becfxwincSfFiB1duhonS"
+        },
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "Leo da Zona Sul",
+          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Agatha",
+          "url": "https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 399252,
+      "name": "Set Dj Br da Tijuca 3",
+      "url": "https://open.spotify.com/track/3bKUr5RKRMWK48T4Ar323W"
     },
     {
       "added_at": null,
@@ -1299,70 +1367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set Dj Br da Tijuca 3",
-        "url": "https://open.spotify.com/album/3MWa5KeTjTQcs1uLhn5k7C"
+        "name": "Decolar",
+        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
       },
       "artists": [
         {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        },
-        {
-          "name": "Meno Bom",
-          "url": "https://open.spotify.com/artist/2becfxwincSfFiB1duhonS"
-        },
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        },
-        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
-        },
-        {
-          "name": "Leo da Zona Sul",
-          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Agatha",
-          "url": "https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 399252,
-      "name": "Set Dj Br da Tijuca 3",
-      "url": "https://open.spotify.com/track/3bKUr5RKRMWK48T4Ar323W"
+      "duration_ms": 196402,
+      "name": "Decolar",
+      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
     },
     {
       "added_at": null,
@@ -1387,22 +1403,6 @@
       "duration_ms": 142941,
       "name": "Desfecho",
       "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decolar",
-        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 196402,
-      "name": "Decolar",
-      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
     },
     {
       "added_at": null,

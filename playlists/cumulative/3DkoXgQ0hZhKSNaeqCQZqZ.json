@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "BREADWINNER",
+        "url": "https://open.spotify.com/album/2T82sEdSYvEJsrMr79fO5o"
+      },
+      "artists": [
+        {
+          "name": "GreenyPika",
+          "url": "https://open.spotify.com/artist/0jaY21Zd3ouygWqNdIpr8N"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148990,
+      "name": "BREADWINNER",
+      "url": "https://open.spotify.com/track/3Zk2caXD5FO18jHtsYk1aF"
+    },
+    {
+      "album": {
         "name": "all lizards go to heaven!!!",
         "url": "https://open.spotify.com/album/1CRlPPBbbvKRuyyam4ypvP"
       },
@@ -6748,7 +6766,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 210193,
       "name": "MAKE A MOVE",
       "url": "https://open.spotify.com/track/7fjhXJVhHxJd0c68s3BEIG"
@@ -8215,6 +8233,28 @@
     },
     {
       "album": {
+        "name": "Paint (grasstheater Remix)",
+        "url": "https://open.spotify.com/album/0q0QvSaqjFBmWtd8KKYSt9"
+      },
+      "artists": [
+        {
+          "name": "grasstheater",
+          "url": "https://open.spotify.com/artist/22ViAPF2vTxhC4wqEPQ9Xz"
+        },
+        {
+          "name": "Charloux",
+          "url": "https://open.spotify.com/artist/0Oxzki1eP9iAWyB43BPCgb"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "Paint - grasstheater Remix",
+      "url": "https://open.spotify.com/track/1r5Bd4VPGZV1aW2xcKb9VF"
+    },
+    {
+      "album": {
         "name": "I Love It Here, I Have Everything I Need, and All My Friends Love Me",
         "url": "https://open.spotify.com/album/488NhNmfs0EayMuMyw2vFu"
       },
@@ -8442,6 +8482,24 @@
       "duration_ms": 78218,
       "name": "photogenic",
       "url": "https://open.spotify.com/track/5SlBbNBXqaYJXWU059Alpr"
+    },
+    {
+      "album": {
+        "name": "Picture Day",
+        "url": "https://open.spotify.com/album/0PfPzhKKQxQnfPXPuWURyz"
+      },
+      "artists": [
+        {
+          "name": "The Fencesitters",
+          "url": "https://open.spotify.com/artist/0gI9RERWedVfOj0IDIce9G"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280230,
+      "name": "Picture Day",
+      "url": "https://open.spotify.com/track/5yfcSmeUqKwDbEoCdQI4tU"
     },
     {
       "album": {
@@ -11766,6 +11824,24 @@
       "duration_ms": 238545,
       "name": "turn tail",
       "url": "https://open.spotify.com/track/0ZF8y0kcVWFts8QqL4cZDA"
+    },
+    {
+      "album": {
+        "name": "Una vez",
+        "url": "https://open.spotify.com/album/020jcMMeN16iTuKfSxcxXI"
+      },
+      "artists": [
+        {
+          "name": "Kiosrel",
+          "url": "https://open.spotify.com/artist/1tla3JdQBlNg58GAAF59K0"
+        }
+      ],
+      "date_added": "2026-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219201,
+      "name": "Una vez",
+      "url": "https://open.spotify.com/track/55loc7yppHwbF3LXl2eHm0"
     },
     {
       "album": {

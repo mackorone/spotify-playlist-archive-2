@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Like Roses
 
-660 songs - 1 day 9 hr 19 min
+661 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [stabilizer](https://open.spotify.com/track/00AHMF1iGP9X5XU25rcRQh) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [stabilizer](https://open.spotify.com/album/2hLepkhTt2ccC0RBJ6rXMu) | 2:46 | 2025-02-21 | 2025-03-17 |
 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 | 2024-02-05 | 2024-06-12 |
 | [Stare at the Sun](https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Stare at the Sun](https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy) | 2:52 | 2026-07-17 |  |
+| [Static](https://open.spotify.com/track/0fgezbOHSWFArdy2HEGEbu) | [TIDAN](https://open.spotify.com/artist/5CuQnCo0FsPEeVDd6zxWud), [PETEXZEN](https://open.spotify.com/artist/5hHspHUuwERzBNxlhg27jD), [Paige Six](https://open.spotify.com/artist/4tMlOP36DZsA3fhGUe80j6) | [Static](https://open.spotify.com/album/4sVqW1OR0NW1OHc4EAetXp) | 3:14 | 2026-10-23 |  |
 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 | 2025-07-17 | 2025-12-01 |
 | [Stick Season](https://open.spotify.com/track/7eBvIvbcUHJqra750YuQpg) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Stick Season](https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm) | 3:20 | 2024-07-18 | 2026-02-21 |
 | [Stickers of Brian](https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Stickers of Brian](https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW) | 2:41 | 2024-03-22 | 2026-06-06 |
@@ -615,7 +616,7 @@
 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 | 2024-06-14 | 2024-11-19 |
 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 | 2025-10-10 |  |
 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 | 2023-03-10 | 2026-02-21 |
-| [unravelled](https://open.spotify.com/track/1YLoqDaLd7HRdUZEgbaFQC) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [unravelled](https://open.spotify.com/album/1o50ucuLEd1HMeWNjJsGRT) | 2:18 | 2026-10-23 |  |
+| [unravelled](https://open.spotify.com/track/1YLoqDaLd7HRdUZEgbaFQC) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [unravelled](https://open.spotify.com/album/1o50ucuLEd1HMeWNjJsGRT) | 2:18 | 2026-10-23 | 2026-11-23 |
 | [Unstoppable](https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Unstoppable](https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt) | 3:05 | 2022-10-21 | 2023-03-10 |
 | [Until Then](https://open.spotify.com/track/1ziXMxdyOXP7rjBmkQrGTM) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Until Then](https://open.spotify.com/album/19iFrjD0t22ZjI2ho8oWFm) | 3:13 | 2023-05-15 | 2024-02-06 |
 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 | 2023-08-10 | 2024-11-19 |

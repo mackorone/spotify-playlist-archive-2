@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 145 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 145 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 82 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 |
 | 83 | [Loud House](https://open.spotify.com/track/3T9TRSgEw9rbqOJXEObErB) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7hpM4nPEnAH5ctuqma33ob) | 3:24 |
 | 84 | [If We Want To](https://open.spotify.com/track/6J6pnmSeFzHupGJpIUy03A) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [Chevy Beaulieu](https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu) | 3:13 |
-| 85 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
-| 86 | [Want To](https://open.spotify.com/track/508ZYDpg9PXR0KJRqFiVcW) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Revolver, 2026](https://open.spotify.com/album/4XL2LxLYtZ0i6mK3wo3WH8) | 5:19 |
-| 87 | [This Is Where I Leave You](https://open.spotify.com/track/0jtRYpwMmDV5pypwHYksSw) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [In My Imagination](https://open.spotify.com/album/6GVdXBg3rFTbg3fB1MJ7pa) | 2:39 |
-| 88 | [Almost Was](https://open.spotify.com/track/7vgvhrvnkN76Z5oYRxB4Sl) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:39 |
+| 85 | [Want To](https://open.spotify.com/track/508ZYDpg9PXR0KJRqFiVcW) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Revolver, 2026](https://open.spotify.com/album/4XL2LxLYtZ0i6mK3wo3WH8) | 5:19 |
+| 86 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
+| 87 | [Almost Was](https://open.spotify.com/track/7vgvhrvnkN76Z5oYRxB4Sl) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:39 |
+| 88 | [This Is Where I Leave You](https://open.spotify.com/track/0jtRYpwMmDV5pypwHYksSw) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [In My Imagination](https://open.spotify.com/album/6GVdXBg3rFTbg3fB1MJ7pa) | 2:39 |
 | 89 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
 | 90 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 |
 | 91 | [Fell Into You](https://open.spotify.com/track/0ENrVuNnqpmnmdjgUxg61j) | [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Fell Into You](https://open.spotify.com/album/3VBQxDg1c5ND7HoVCzIfHw) | 2:52 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 102 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
 | 103 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 104 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 |
-| 105 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
-| 106 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
+| 105 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
+| 106 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
 | 107 | [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 |
 | 108 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
 | 109 | [Lucky To Be Loved](https://open.spotify.com/track/2r0Rn5SeMKNDue14m3nRMQ) | [Baylee Lynn](https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij) | [Lucky To Be Loved](https://open.spotify.com/album/5LCfSWBOIGAi6AiWYQheq6) | 3:00 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 117 | [die 4 u](https://open.spotify.com/track/0EpvQGvlRj414hJ1s93UP9) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/1jS2Iktf5SkTmQH04nWHkZ) | 2:53 |
 | 118 | [Easy on Me](https://open.spotify.com/track/1PZNwWmUCQVuH39sooxPQT) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/0jsFsXKWSichKhDTk9UvhY) | 2:56 |
 | 119 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
-| 120 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
-| 121 | [Always Be My Maybe](https://open.spotify.com/track/5w42X5pgpx8RoqURr4b4Ki) | [Jon Bullard](https://open.spotify.com/artist/1rk5Umz5FY6GS5Inx4A920) | [Always Be My Maybe](https://open.spotify.com/album/3KgcqByCVl2GCYPxgURfnn) | 3:15 |
+| 120 | [Always Be My Maybe](https://open.spotify.com/track/5w42X5pgpx8RoqURr4b4Ki) | [Jon Bullard](https://open.spotify.com/artist/1rk5Umz5FY6GS5Inx4A920) | [Always Be My Maybe](https://open.spotify.com/album/3KgcqByCVl2GCYPxgURfnn) | 3:15 |
+| 121 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
 | 122 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 123 | [Where Do We Go \- The Voice Performance](https://open.spotify.com/track/5a7QUeuh2OXw0SI4go5shg) | [John Holiday](https://open.spotify.com/artist/1t7W0bPXdarbjiCuEeFv2y) | [The Season 19 Collection \(The Voice Performance\)](https://open.spotify.com/album/2V28iwMeICBbv2Qqsi9gd1) | 2:27 |
 | 124 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 144 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 145 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `AciTAgAAAAAU8dGLZiynsb9KexA93oR9`
+Snapshot ID: `AciY3gAAAADPCuqQZw4tdqCCohm86Z7Z`

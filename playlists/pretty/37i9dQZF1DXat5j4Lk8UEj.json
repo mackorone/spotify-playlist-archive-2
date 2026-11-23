@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 470595,
+  "num_followers": 470585,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Drive You Home",
         "url": "https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 180782,
       "name": "Drive You Home",
       "url": "https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
+      },
+      "artists": [
+        {
+          "name": "Breakfield",
+          "url": "https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl"
+        }
+      ],
+      "duration_ms": 215759,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
       },
@@ -1147,34 +1163,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
+        "name": "Difference Of Opinion",
+        "url": "https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI"
       },
       "artists": [
         {
-          "name": "Breakfield",
-          "url": "https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl"
+          "name": "Adam Newling",
+          "url": "https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT"
         }
       ],
-      "duration_ms": 215759,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Never Makes a Sound",
-        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
-        }
-      ],
-      "duration_ms": 240260,
-      "name": "Never Makes a Sound",
-      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
+      "duration_ms": 220456,
+      "name": "Difference Of Opinion",
+      "url": "https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Difference Of Opinion",
-        "url": "https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI"
+        "name": "Never Makes a Sound",
+        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
       },
       "artists": [
         {
-          "name": "Adam Newling",
-          "url": "https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT"
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
         }
       ],
-      "duration_ms": 220456,
-      "name": "Difference Of Opinion",
-      "url": "https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf"
+      "duration_ms": 240260,
+      "name": "Never Makes a Sound",
+      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Starting from Scratch",
         "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 189425,
       "name": "Starting from Scratch",
       "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Motel Mayday",
+        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Stolen Love",
+      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "What Is There",
         "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
       },
@@ -1615,34 +1631,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Motel Mayday",
-        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/5OVhDxr9XYs8WRHR0Njiad"
       },
       "artists": [
         {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Stolen Love",
-      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Are You Listening?",
-        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Are You Listening?",
-      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+      "duration_ms": 241800,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2TSiZ6ZtA4x5NbQgGpYrVU"
     }
   ],
   "unique_name": "Folk Rock Favorites",

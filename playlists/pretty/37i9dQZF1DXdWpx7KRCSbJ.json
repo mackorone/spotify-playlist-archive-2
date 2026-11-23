@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 325547,
+  "num_followers": 325550,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Jogo do Amor",
-        "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
       "artists": [
         {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 144039,
-      "name": "Jogo do Amor",
-      "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+        "name": "Jogo do Amor",
+        "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
         }
       ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+      "duration_ms": 144039,
+      "name": "Jogo do Amor",
+      "url": "https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ao Vivo E A Cores",
-        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Ao Vivo E A Cores",
-      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
@@ -567,18 +547,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "12 Horas",
-        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
+        "name": "Ao Vivo E A Cores",
+        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
       },
       "artists": [
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 240048,
-      "name": "12 Horas",
-      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
+      "duration_ms": 180304,
+      "name": "Ao Vivo E A Cores",
+      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -595,6 +579,22 @@
       "duration_ms": 173891,
       "name": "A\u00ed Eu Bebo - Ao Vivo",
       "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "12 Horas",
+        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "12 Horas",
+      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Assalto Perigoso",
-        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
-      },
-      "artists": [
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 155417,
-      "name": "Assalto Perigoso",
-      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Assalto Perigoso",
+        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 155417,
+      "name": "Assalto Perigoso",
+      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "A Origem (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 153374,
       "name": "Posto 24h (feat. Wesley Safad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Cobertor de Orelha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 156921,
+      "name": "Cobertor de Orelha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -907,22 +923,6 @@
       "duration_ms": 178960,
       "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
       "url": "https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Cobertor de Orelha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 156921,
-      "name": "Cobertor de Orelha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Pra voc\u00ea acreditar (Ao vivo)",
+        "url": "https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Laje 67 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 202521,
       "name": "Permanecer (feat. MC G15)",
       "url": "https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Pra voc\u00ea acreditar (Ao vivo)",
-        "url": "https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz"
     },
     {
       "added_at": "2023-01-17 01:33:36",

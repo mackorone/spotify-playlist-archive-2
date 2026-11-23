@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-628 songs - 1 day 7 hr 24 min
+629 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,8 +398,9 @@
 | [Puttin' on the Ritz](https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc) | [Taco](https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH) | [After Eight](https://open.spotify.com/album/4rgfo8MPhMChBrxtBV8Fsh) | 4:41 | 2026-10-19 |  |
 | [Ragtime Soldier Man](https://open.spotify.com/track/5eYdjH1q4f7IyUZl7GSNmQ) | [Peacherine Ragtime Society Orchestra](https://open.spotify.com/artist/51xdb6UyT7RMLyqsJDrBAs) | [Elite Syncopations: Favorites from the Ragtime Era](https://open.spotify.com/album/1flkSW2zL0RzNLJYyzsjNS) | 2:51 | 2024-07-26 |  |
 | [Reaching For The Moon](https://open.spotify.com/track/1PSpnTbP2TnstBbSpcGWGb) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 2:18 | 2024-07-26 |  |
+| [Remember](https://open.spotify.com/track/7rvuYWWPi0m86nnxXYwWTT) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 2:34 | 2026-11-22 |  |
 | [Remember](https://open.spotify.com/track/3sDn7BDwCLMPezWPhl8l0h) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Pro Musica Symphony Orchestra](https://open.spotify.com/artist/1bBt86r2Wu0huL5ZLUw4As), [Robert Ashley](https://open.spotify.com/artist/7JYwa2oDNk9dibRnqLep97) | [Twelve Beloved Waltzes](https://open.spotify.com/album/0ny9oIpSqiT2gX2U1767Th) | 2:46 | 2026-10-20 | 2026-10-22 |
-| [Remember](https://open.spotify.com/track/4YHfaT2iRObFxIn5TsstEz) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf) | [Remember](https://open.spotify.com/album/4eR5Zykyx7BECodK8QRErQ) | 2:46 | 2026-10-29 |  |
+| [Remember](https://open.spotify.com/track/4YHfaT2iRObFxIn5TsstEz) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf) | [Remember](https://open.spotify.com/album/4eR5Zykyx7BECodK8QRErQ) | 2:46 | 2026-10-29 | 2026-11-23 |
 | [Remember](https://open.spotify.com/track/3CbzB08iYPfTB4qhkMN4Gg) | [Larry Clinton](https://open.spotify.com/artist/5n4K5xzvkyGTJKirueEjmG) | [The Confession](https://open.spotify.com/album/3sZp5hb612Jtep9boCwAS6) | 2:46 | 2026-10-21 | 2026-10-30 |
 | [Remember \- 1999/ Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2024-07-26 |  |
 | [Revival Day](https://open.spotify.com/track/0GEREHh9T38m06687Qmthq) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Charles A\. Prince Orchestra](https://open.spotify.com/artist/0qKmJGA0WCAvPkoFD3q8Cx) | [Snap Your Fingers \(1913 \- 1916\)](https://open.spotify.com/album/4Gv8dqX5Qp8wuBwdjEcJxP) | 2:25 | 2025-07-18 |  |

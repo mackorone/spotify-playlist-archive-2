@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,843 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,845 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 59 | [Para Morirse](https://open.spotify.com/track/5lTAefrvpq8BoY1dOowcxh) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [El Rey León](https://open.spotify.com/album/4UOhexwPupfdEPxQeysY81) | 4:18 |
 | 60 | [Remains of the Day](https://open.spotify.com/track/6dw3oQI0NhwYxMiNfVRIHA) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Tim Burton's Corpse Bride Original Motion Picture Soundtrack \(U.S\. Release\)](https://open.spotify.com/album/7EB12gs5cyRcj9TsdZwYEd) | 3:26 |
 | 61 | [The Worst Pies in London](https://open.spotify.com/track/1Qg27064zgcyaB78AgwZ4i) | [Helena Bonham Carter](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) | [Sweeney Todd, The Demon Barber of Fleet Street, The Motion Picture Soundtrack](https://open.spotify.com/album/0CgTKS2HmWc3JeI9Fit2vX) | 2:23 |
-| 62 | [Wolves \- From "Frozen"/Score](https://open.spotify.com/track/2tlB0mLu0YuibC1ZHaWMsT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen: El Reino del Hielo \(Banda Sonora Original\)](https://open.spotify.com/album/5KGKfs835hj9SZyqnmzfhn) | 1:44 |
+| 62 | [Wolves \- From "Frozen"/Score](https://open.spotify.com/track/2tlB0mLu0YuibC1ZHaWMsT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Frozen: El Reino del Hielo \(Banda Sonora Original\)](https://open.spotify.com/album/5KGKfs835hj9SZyqnmzfhn) | 1:44 |
 | 63 | [Lost](https://open.spotify.com/track/37pzyVZ1zYrbg23odtBPGS) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 1:01 |
 | 64 | [Making Monsters \- From "Frankenweenie"/Score](https://open.spotify.com/track/3dKkBk9eZQcqY3jLXFSxqe) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Frankenweenie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0dmu8w9avy1mol3wXyL4zg) | 6:43 |
 | 65 | [Loompa Land](https://open.spotify.com/track/2i7LrMlHO0kXplm9itb6t6) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Charlie and the Chocolate Factory \- Original Soundtrack](https://open.spotify.com/album/3LN9ywkQLlUugtVjAs9g0a) | 1:42 |

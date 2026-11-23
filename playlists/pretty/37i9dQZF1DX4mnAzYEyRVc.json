@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Cat Empire\n",
-  "num_followers": 74159,
+  "num_followers": 74174,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
+        "name": "Random Hand",
+        "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
+      },
+      "artists": [
+        {
+          "name": "Random Hand",
+          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
+        }
+      ],
+      "duration_ms": 192193,
+      "name": "Devil With a Microphone",
+      "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
+    },
+    {
+      "added_at": "2026-11-20 06:00:02",
+      "album": {
         "name": "STAY YOUNG STAY PUNK",
         "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 123000,
       "name": "STAY YOUNG STAY PUNK",
       "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
-    },
-    {
-      "added_at": "2026-11-20 06:00:02",
-      "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2026-11-20 06:00:02",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "Random Hand",
-        "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
       },
       "artists": [
         {
-          "name": "Random Hand",
-          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 192193,
-      "name": "Devil With a Microphone",
-      "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2026-11-20 06:00:02",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
         }
       ],
-      "duration_ms": 181870,
-      "name": "Cuando Salga El Sol",
-      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2026-11-20 06:00:02",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
       },
       "artists": [
         {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
     },
     {
       "added_at": "2026-11-20 06:00:02",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2026-11-20 06:00:02",
-      "album": {
         "name": "Mudik",
         "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 255500,
       "name": "Mudik",
       "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
+    },
+    {
+      "added_at": "2026-11-20 06:00:02",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2026-11-20 06:00:02",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
-        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
-      },
-      "artists": [
-        {
-          "name": "Broilers",
-          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
-      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
-    },
-    {
-      "added_at": "2026-11-20 06:00:02",
-      "album": {
         "name": "El Pueblo",
         "url": "https://open.spotify.com/album/0Ofs4cb0YBDKz0ISGJrrrQ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 208400,
       "name": "El Pueblo",
       "url": "https://open.spotify.com/track/05Nf97enQT6pSiqQS0Rqcq"
+    },
+    {
+      "added_at": "2026-11-20 06:00:02",
+      "album": {
+        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
+        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
+      },
+      "artists": [
+        {
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
+      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
     },
     {
       "added_at": "2026-11-20 06:00:02",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "Estoy en Paz",
-        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 172285,
-      "name": "Estoy en Paz",
-      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
-    },
-    {
-      "added_at": "2026-11-20 06:00:02",
-      "album": {
         "name": "BAALBEK",
         "url": "https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 167691,
       "name": "Worm in de Appel",
       "url": "https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq"
+    },
+    {
+      "added_at": "2026-11-20 06:00:02",
+      "album": {
+        "name": "Estoy en Paz",
+        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 172285,
+      "name": "Estoy en Paz",
+      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
     },
     {
       "added_at": "2026-11-20 06:00:02",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "AK\u00c1RKIFIA",
-        "url": "https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "Ak\u00e1rkifia",
-      "url": "https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD"
-    },
-    {
-      "added_at": "2026-11-20 06:00:02",
-      "album": {
         "name": "Return Of The Ugly",
         "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
+        "name": "AK\u00c1RKIFIA",
+        "url": "https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "Ak\u00e1rkifia",
+      "url": "https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD"
+    },
+    {
+      "added_at": "2026-11-20 06:00:02",
+      "album": {
         "name": "Zombiler",
         "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2026-11-20 06:00:02",
-      "album": {
         "name": "Wir kommen in Frieden",
         "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 234061,
       "name": "Wir kommen in Frieden",
       "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
+    },
+    {
+      "added_at": "2026-11-20 06:00:02",
+      "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2026-11-20 06:00:02",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-11-20 06:00:02",
       "album": {
-        "name": "Revolution x Alltag",
-        "url": "https://open.spotify.com/album/5Le11Swz7R4VOjuisMLa4o"
-      },
-      "artists": [
-        {
-          "name": "Massendefekt",
-          "url": "https://open.spotify.com/artist/5dMzTUX22xeWjyW69R1zlc"
-        }
-      ],
-      "duration_ms": 236177,
-      "name": "Revolution X Alltag",
-      "url": "https://open.spotify.com/track/5SqM2x8VneogTKyJnJx0c6"
-    },
-    {
-      "added_at": "2026-11-20 06:00:02",
-      "album": {
         "name": "Endlich auf Reise",
         "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 179446,
       "name": "Endlich auf Reise",
       "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
+    },
+    {
+      "added_at": "2026-11-20 06:00:02",
+      "album": {
+        "name": "Revolution x Alltag",
+        "url": "https://open.spotify.com/album/5Le11Swz7R4VOjuisMLa4o"
+      },
+      "artists": [
+        {
+          "name": "Massendefekt",
+          "url": "https://open.spotify.com/artist/5dMzTUX22xeWjyW69R1zlc"
+        }
+      ],
+      "duration_ms": 236177,
+      "name": "Revolution X Alltag",
+      "url": "https://open.spotify.com/track/5SqM2x8VneogTKyJnJx0c6"
     },
     {
       "added_at": "2026-11-20 06:00:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Chiara Savasta, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,628 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,638 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 2 | [White Claw Addict](https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 3:07 |
 | 3 | [Gravity](https://open.spotify.com/track/06jcH83GRNu41j0jpF9y94) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Gravity](https://open.spotify.com/album/6WVVBJpuRnqhdlmaZnzSSS) | 6:41 |
 | 4 | [Heart on the Line](https://open.spotify.com/track/4qjccGJ1UJrVhfzLD643bu) | [Maya Jade](https://open.spotify.com/artist/7tK7zDUhoiskbWyv8F0DRq) | [Orchid](https://open.spotify.com/album/6Q5Ev3ugg71O1R8JB2Volp) | 3:37 |
-| 5 | [donleave\(agian\)](https://open.spotify.com/track/4wrRnDtqQSPkUFYLpdyBoM) | [Mostafa Nist](https://open.spotify.com/artist/396XNL8Cau7V25v7YRHdAq) | [donleave\(agian\)](https://open.spotify.com/album/6WVIXXWjhopQLWDlokY27S) | 2:33 |
+| 5 | [donleave\(again\)](https://open.spotify.com/track/4wrRnDtqQSPkUFYLpdyBoM) | [Mostafa Nist](https://open.spotify.com/artist/396XNL8Cau7V25v7YRHdAq) | [donleave\(again\)](https://open.spotify.com/album/6WVIXXWjhopQLWDlokY27S) | 2:33 |
 | 6 | [Moving Different](https://open.spotify.com/track/4qtMEo7RTuYKbrHI4g4dbP) | [Quincy Isaiah](https://open.spotify.com/artist/7eAyJBfRTpp3vLocsj1X2i) | [Summer’s Over Vol\. 1](https://open.spotify.com/album/0FHgWE5RL7icEatWD7xEzX) | 1:30 |
 | 7 | [Turbulences](https://open.spotify.com/track/0u19lGnitw5hKYxqL6zdQZ) | [Manèges](https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO) | [Turbulences](https://open.spotify.com/album/4dQGQcGmBtC07HVxmo7ZAj) | 3:49 |
 | 8 | [Peine perdue](https://open.spotify.com/track/0OgKRspSf8K1racNGfY7hu) | [Yuki B](https://open.spotify.com/artist/1Ag1DdfWNtnGdm83G5iYXr) | [Romance](https://open.spotify.com/album/355hrVSmpRBMP0PJRso5u6) | 3:13 |

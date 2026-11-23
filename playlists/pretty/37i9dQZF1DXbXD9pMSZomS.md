@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,768 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,813 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 7 | [About Our Amore](https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [About Our Amore](https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw) | 5:04 |
 | 8 | [new romance](https://open.spotify.com/track/0tu3eVPEokOCXR70x0IYUI) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [new romance](https://open.spotify.com/album/6uC7ku55WzqGId2MbKZFWa) | 3:54 |
 | 9 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
-| 10 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 |
-| 11 | [Redbud](https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Redbud](https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5) | 4:00 |
-| 12 | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/track/5GKR3fh1WeVv9V8NGBUVBj) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/album/3kLKj3ipzd50tlEZnBrwPu) | 4:58 |
+| 10 | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/track/5GKR3fh1WeVv9V8NGBUVBj) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/album/3kLKj3ipzd50tlEZnBrwPu) | 4:58 |
+| 11 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 |
+| 12 | [Redbud](https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Redbud](https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5) | 4:00 |
 | 13 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
 | 14 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
 | 15 | [What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [What Sade said](https://open.spotify.com/album/6B0ulryUPr8fPvRYl2B5wN) | 3:45 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 29 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 30 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 |
 | 31 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
-| 32 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 33 | [highway](https://open.spotify.com/track/3zJww8yH1LdbR74yHO0qAN) | [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO), [BASEMENT WAVE](https://open.spotify.com/artist/5oZXZRYvIV1uAaC4rueG5I) | [highway](https://open.spotify.com/album/5bo2d6aTtWE7Ntb07QmD4r) | 4:29 |
+| 32 | [highway](https://open.spotify.com/track/3zJww8yH1LdbR74yHO0qAN) | [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO), [BASEMENT WAVE](https://open.spotify.com/artist/5oZXZRYvIV1uAaC4rueG5I) | [highway](https://open.spotify.com/album/5bo2d6aTtWE7Ntb07QmD4r) | 4:29 |
+| 33 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
 | 34 | [U Will Change My Mind](https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [U Will Change My Mind](https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV) | 3:54 |
 | 35 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
 | 36 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 49 | [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 |
 | 50 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
 | 51 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
-| 52 | [Cool Because You Wear Carhartt](https://open.spotify.com/track/31mGLcbHzIklk8uTifS7dD) | [DJ Nervous](https://open.spotify.com/artist/7AbLDbvm6s6sDM29txw1JO) | [Cool Because You Wear Carhartt](https://open.spotify.com/album/1FtmsBrrVnoWsQwx4HCpqQ) | 3:49 |
-| 53 | [Ursa Minor](https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI) | 4:41 |
+| 52 | [Ursa Minor](https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI) | 4:41 |
+| 53 | [Cool Because You Wear Carhartt](https://open.spotify.com/track/31mGLcbHzIklk8uTifS7dD) | [DJ Nervous](https://open.spotify.com/artist/7AbLDbvm6s6sDM29txw1JO) | [Cool Because You Wear Carhartt](https://open.spotify.com/album/1FtmsBrrVnoWsQwx4HCpqQ) | 3:49 |
 | 54 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
 | 55 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
 | 56 | [Alone Girl](https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Alone Girl](https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,089 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,138 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 35 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
 | 36 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 |
 | 37 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 |
-| 38 | [Dancing In The Street](https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Greatest Hits](https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7) | 2:39 |
-| 39 | [On Broadway](https://open.spotify.com/track/6uXhOcodsFEqQeHRkLgNp2) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [30 Greatest Hits](https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs) | 2:50 |
-| 40 | [Son Of A Preacher Man](https://open.spotify.com/track/4UCIi4gRVUG7x4nFGQiKmo) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Silver Collection](https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R) | 2:26 |
-| 41 | [Now That We Found Love](https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Love Songs](https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt) | 4:41 |
-| 42 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
-| 43 | [Groove Me](https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [We Are Marshall Soundtrack](https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x) | 3:01 |
-| 44 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- Universal Masters Collection](https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs) | 7:08 |
-| 45 | [Hang On In There Baby](https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Soul, Vol\. 1](https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT) | 3:53 |
+| 38 | [Hang On In There Baby](https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Soul, Vol\. 1](https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT) | 3:53 |
+| 39 | [Dancing In The Street](https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Greatest Hits](https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7) | 2:39 |
+| 40 | [On Broadway](https://open.spotify.com/track/6uXhOcodsFEqQeHRkLgNp2) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [30 Greatest Hits](https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs) | 2:50 |
+| 41 | [Son Of A Preacher Man](https://open.spotify.com/track/4UCIi4gRVUG7x4nFGQiKmo) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Silver Collection](https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R) | 2:26 |
+| 42 | [Now That We Found Love](https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Love Songs](https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt) | 4:41 |
+| 43 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
+| 44 | [Groove Me](https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [We Are Marshall Soundtrack](https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x) | 3:01 |
+| 45 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- Universal Masters Collection](https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs) | 7:08 |
 | 46 | [Boogie On Reggae Woman](https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(International Version\)](https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g) | 5:13 |
 | 47 | [Wish Someone Would Care](https://open.spotify.com/track/1svjzDsiaW04M8A4tr6tvj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol\. 1](https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG) | 2:19 |
 | 48 | [Drift Away](https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Invincible](https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf) | 3:55 |

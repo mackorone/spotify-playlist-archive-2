@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 153538,
+  "num_followers": 153553,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
+        "name": "Sunday Songs (Deluxe)",
+        "url": "https://open.spotify.com/album/6xKtndZstXtHdLc5hXK9Kd"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "I've Got the Joy",
+      "url": "https://open.spotify.com/track/2iEOzBRKn2GHoAjgJGikSz"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
         "name": "Everything - Hymns for Little Hearts",
         "url": "https://open.spotify.com/album/08yNkH69ff1XXIRrQlykgS"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 134207,
       "name": "Everything",
       "url": "https://open.spotify.com/track/61nfJmJlwatT1hCs8wbEpf"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
-        "name": "Sunday Songs (Deluxe)",
-        "url": "https://open.spotify.com/album/6xKtndZstXtHdLc5hXK9Kd"
-      },
-      "artists": [
-        {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        }
-      ],
-      "duration_ms": 159519,
-      "name": "I've Got the Joy",
-      "url": "https://open.spotify.com/track/2iEOzBRKn2GHoAjgJGikSz"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Praise Songs for Kids",
-        "url": "https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ"
-      },
-      "artists": [
-        {
-          "name": "Kids Sing Praise",
-          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
-        }
-      ],
-      "duration_ms": 284479,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw"
       },
@@ -783,6 +767,38 @@
       "duration_ms": 219403,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Praise Songs for Kids",
+        "url": "https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ"
+      },
+      "artists": [
+        {
+          "name": "Kids Sing Praise",
+          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
+        }
+      ],
+      "duration_ms": 284479,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Just as I Am",
+        "url": "https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92"
+      },
+      "artists": [
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "What a Friend We Have in Jesus",
+      "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Just as I Am",
-        "url": "https://open.spotify.com/album/6x4tPlgsSczU7TwYCgyk92"
-      },
-      "artists": [
-        {
-          "name": "African Children's Choir",
-          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "What a Friend We Have in Jesus",
-      "url": "https://open.spotify.com/track/4xkFOA8DO1C00ouosWZkJ3"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Hes Got the Whole World in His Hands",
         "url": "https://open.spotify.com/album/0Xw01vBCWorR0ILodrB9TS"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Top 25 Kids' Praise Songs 2012",
-        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Kids",
-          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Let It Rise",
-      "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "I Could Sing Of Your Love Forever Kids",
         "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "You Hypocrite",
-        "url": "https://open.spotify.com/album/2HH1ibbH5cwoh45fVo3UgS"
+        "name": "Top 25 Kids' Praise Songs 2012",
+        "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
       },
       "artists": [
         {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+          "name": "Maranatha! Kids",
+          "url": "https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n"
         }
       ],
-      "duration_ms": 154626,
-      "name": "You Hypocrite",
-      "url": "https://open.spotify.com/track/1mMOXFPUFNYHlp7zsq7Utw"
+      "duration_ms": 213400,
+      "name": "Let It Rise",
+      "url": "https://open.spotify.com/track/1DvX3oEER1H4KV2LWvAnlI"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -919,6 +903,22 @@
       "duration_ms": 263187,
       "name": "Don't Forget (Psalm 103) - Live",
       "url": "https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "You Hypocrite",
+        "url": "https://open.spotify.com/album/2HH1ibbH5cwoh45fVo3UgS"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "You Hypocrite",
+      "url": "https://open.spotify.com/track/1mMOXFPUFNYHlp7zsq7Utw"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
+        "name": "Lubanga Ber (God Is Good) [Live]",
+        "url": "https://open.spotify.com/album/3wWpTXA1Mntk6JarSUfak6"
+      },
+      "artists": [
+        {
+          "name": "Watoto",
+          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+        }
+      ],
+      "duration_ms": 270654,
+      "name": "Lubanga Ber (God Is Good) - Live",
+      "url": "https://open.spotify.com/track/713D2svcry7rTeQJnnpSMO"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
         "name": "Sunday Songs",
         "url": "https://open.spotify.com/album/2Fh0eiGiSGrvPWiV13gy66"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Best Day of My Life",
-      "url": "https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "For God So Loved the World (John 3:16)",
         "url": "https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq"
       },
@@ -1019,38 +1019,6 @@
       "duration_ms": 125397,
       "name": "For God So Loved the World (John 3:16)",
       "url": "https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
-        "name": "Lubanga Ber (God Is Good) [Live]",
-        "url": "https://open.spotify.com/album/3wWpTXA1Mntk6JarSUfak6"
-      },
-      "artists": [
-        {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
-        }
-      ],
-      "duration_ms": 270654,
-      "name": "Lubanga Ber (God Is Good) - Live",
-      "url": "https://open.spotify.com/track/713D2svcry7rTeQJnnpSMO"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
-        "name": "You Amaze Me",
-        "url": "https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY"
-      },
-      "artists": [
-        {
-          "name": "KidSpring",
-          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
-        }
-      ],
-      "duration_ms": 152554,
-      "name": "Be Completely Changed",
-      "url": "https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1071,6 +1039,22 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
+        "name": "You Amaze Me",
+        "url": "https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY"
+      },
+      "artists": [
+        {
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
+        }
+      ],
+      "duration_ms": 152554,
+      "name": "Be Completely Changed",
+      "url": "https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
         "name": "Here I Am To Worship For Kids",
         "url": "https://open.spotify.com/album/2XZz6o7NDi2NsTpuN6qjHX"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 266533,
       "name": "Awesome God (Your Voice) - Kids Version",
       "url": "https://open.spotify.com/track/0cmSswi24ufP4W1eqBRyoN"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Best Day of My Life",
+      "url": "https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "We Are Royals",
-        "url": "https://open.spotify.com/album/7AXpJIJltWKonpyELP6Dx2"
-      },
-      "artists": [
-        {
-          "name": "Eagle Brook Kids",
-          "url": "https://open.spotify.com/artist/5aMVpIbDbna00tdWyXVdiJ"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "We Are Royals",
-      "url": "https://open.spotify.com/track/0xfLXC9JhJjEVYIFNrGlsy"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Top 50 Kids' Praise! Company",
         "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Jesus Is My Superhero",
-        "url": "https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT"
+        "name": "We Are Royals",
+        "url": "https://open.spotify.com/album/7AXpJIJltWKonpyELP6Dx2"
       },
       "artists": [
         {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+          "name": "Eagle Brook Kids",
+          "url": "https://open.spotify.com/artist/5aMVpIbDbna00tdWyXVdiJ"
         }
       ],
-      "duration_ms": 164569,
-      "name": "Superhero - Reimagined",
-      "url": "https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1"
+      "duration_ms": 197666,
+      "name": "We Are Royals",
+      "url": "https://open.spotify.com/track/0xfLXC9JhJjEVYIFNrGlsy"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1339,6 +1323,22 @@
       "duration_ms": 149538,
       "name": "Psalms 150",
       "url": "https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Jesus Is My Superhero",
+        "url": "https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "duration_ms": 164569,
+      "name": "Superhero - Reimagined",
+      "url": "https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Love So Great",
-        "url": "https://open.spotify.com/album/5QXuusGluuzLPOWwAetnFL"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
-        }
-      ],
-      "duration_ms": 181655,
-      "name": "Love So Great",
-      "url": "https://open.spotify.com/track/0dKsTy9t85RfvmtK8t9OJo"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Everyone Should Know",
         "url": "https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 144489,
       "name": "Everyone Should Know",
       "url": "https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Love So Great",
+        "url": "https://open.spotify.com/album/5QXuusGluuzLPOWwAetnFL"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "duration_ms": 181655,
+      "name": "Love So Great",
+      "url": "https://open.spotify.com/track/0dKsTy9t85RfvmtK8t9OJo"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Hillsong Kids Ultimate",
-        "url": "https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
-        }
-      ],
-      "duration_ms": 273613,
-      "name": "Trust And Obey",
-      "url": "https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "An Awesome Thing (Reimagined)",
         "url": "https://open.spotify.com/album/3ZJu2EcvXjUfaccoyU5dso"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 156200,
       "name": "An Awesome Thing (Reimagined)",
       "url": "https://open.spotify.com/track/5uKGdOSqdoOcQ5kdA286Aw"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Hillsong Kids Ultimate",
+        "url": "https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "duration_ms": 273613,
+      "name": "Trust And Obey",
+      "url": "https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/3Wsumr9ldquwry68IUVECf"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/70j1VkVMQizMGzLtYWyymS"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "The New Testament Song",
         "url": "https://open.spotify.com/album/1ZawOBwcYWtpKMVwVqE59Y"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 174350,
       "name": "The New Testament Song",
       "url": "https://open.spotify.com/track/3dvNnUeafyziPJvmgcFz6i"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/3Wsumr9ldquwry68IUVECf"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/70j1VkVMQizMGzLtYWyymS"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Pop Praise: Celebrate",
-        "url": "https://open.spotify.com/album/6y5JEipzGCoFRLPFZZFcy7"
-      },
-      "artists": [
-        {
-          "name": "GroupMusic",
-          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
-        }
-      ],
-      "duration_ms": 134322,
-      "name": "This Little Light of Mine",
-      "url": "https://open.spotify.com/track/75JqUtlGJZXysWPR57rvSJ"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Do Not Fear (Isaiah 41:10) [Kids Worship Edition]",
         "url": "https://open.spotify.com/album/4a20tlmhtbo5U4MTzxyd4n"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 158166,
       "name": "Do Not Fear (Isaiah 41:10) - Kids Worship Edition",
       "url": "https://open.spotify.com/track/6cYB5DbQPghcNKYVKU8asy"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Pop Praise: Celebrate",
+        "url": "https://open.spotify.com/album/6y5JEipzGCoFRLPFZZFcy7"
+      },
+      "artists": [
+        {
+          "name": "GroupMusic",
+          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
+        }
+      ],
+      "duration_ms": 134322,
+      "name": "This Little Light of Mine",
+      "url": "https://open.spotify.com/track/75JqUtlGJZXysWPR57rvSJ"
     },
     {
       "added_at": "2026-10-19 16:22:30",

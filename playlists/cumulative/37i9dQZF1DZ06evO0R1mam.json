@@ -518,7 +518,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 100731,
       "name": "Gimmie My Stuff Back - Reprise",
       "url": "https://open.spotify.com/track/4vBPlpKw18uhvx8rIMJW13"
@@ -1492,6 +1492,24 @@
       "duration_ms": 168691,
       "name": "Stayed On You - Live In LA",
       "url": "https://open.spotify.com/track/4o0NZqA1ZTWZv11LUuzCXN"
+    },
+    {
+      "album": {
+        "name": "V20 First Semester",
+        "url": "https://open.spotify.com/album/0mFQHLHAn4JISTyPlYvIG4"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150489,
+      "name": "Still Have Joy - Intro",
+      "url": "https://open.spotify.com/track/3L0gTQNddVbAVvjEDI10aQ"
     },
     {
       "album": {

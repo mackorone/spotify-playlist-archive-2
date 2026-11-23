@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 190003,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
@@ -378,6 +378,32 @@
       "duration_ms": 176111,
       "name": "Chore N\u00e3o",
       "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
+    },
+    {
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/6ylV7GsWXQUvPRa8rbYfic"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202477,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/04gUXiclg2dWKTWI2cUb71"
     },
     {
       "album": {

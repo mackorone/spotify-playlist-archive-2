@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-783 songs - 1 day 15 hr 57 min
+784 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Die Alone](https://open.spotify.com/track/5eRVs0QyysvRSS8hwTsJJQ) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR), [Nick Strand](https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd) | [Die Alone](https://open.spotify.com/album/0TwehZJitYWxcSSVh2gbZp) | 3:12 | 2024-04-19 | 2024-06-29 |
 | [Die For You](https://open.spotify.com/track/2lz3zjQ5QCVXiyOzIk02vW) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Die For You](https://open.spotify.com/album/4O7Fn6jEB5xN1HXjMALCHp) | 3:32 | 2022-05-06 | 2023-07-19 |
 | [Do It To It \- Andrew Rayel Remix](https://open.spotify.com/track/47FkgO7LWJD8rBovCn41oI) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Andrew Rayel Remix\)](https://open.spotify.com/album/2DOUM1xLtHBULOstCoXFFq) | 2:26 | 2022-05-06 | 2022-07-29 |
-| [Do You Feel Loved](https://open.spotify.com/track/6QaHSnGMvd0jkuTpXtNZbd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Do You Feel Loved](https://open.spotify.com/album/6XomZTfkFWWHfr4IVfpAvl) | 3:09 | 2026-04-03 |  |
+| [Do You Feel Loved](https://open.spotify.com/track/6QaHSnGMvd0jkuTpXtNZbd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Do You Feel Loved](https://open.spotify.com/album/6XomZTfkFWWHfr4IVfpAvl) | 3:09 | 2026-04-03 | 2026-11-23 |
 | [dollaz n dollaz](https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [dollaz n dollaz](https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq) | 2:24 | 2025-07-25 | 2025-08-21 |
 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 | 2024-07-26 | 2025-09-11 |
 | [Don't Give Up](https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Don't Give Up](https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5) | 3:06 | 2025-09-11 | 2025-09-26 |
@@ -278,6 +278,7 @@
 | [Giving Up On U](https://open.spotify.com/track/1tG4l4iUvZC6M1Y8MVBacK) | [Laser](https://open.spotify.com/artist/40V6p0CfGARmxEiHA2Nv1f), [Panda Eyes](https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz) | [Giving Up On U](https://open.spotify.com/album/6Nl7jAAYCOthnrUxFqEDwq) | 3:15 | 2022-05-06 | 2022-07-28 |
 | [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2024-11-15 | 2026-01-15 |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2024-01-19 | 2024-04-19 |
+| [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Go Easy \(from GTAVI: The Album\)](https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe) | 3:11 | 2026-11-19 |  |
 | [Gold](https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Gold / YES](https://open.spotify.com/album/5OvG0ow70k4wROjF597ost) | 4:20 | 2022-05-06 | 2022-07-29 |
 | [GOLDENWEEK](https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [GOLDENWEEK](https://open.spotify.com/album/1S6e6usL4vviKyushy0N10) | 3:20 | 2024-05-24 | 2024-06-25 |
 | [Good Love \- Tiësto Remix](https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Good Love \(Tiësto Remix\)](https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ) | 3:02 | 2023-08-01 | 2024-09-01 |

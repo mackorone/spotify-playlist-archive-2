@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1818729,
+  "num_followers": 1818833,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Toca (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
-      },
-      "artists": [
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 200483,
-      "name": "Toca's Miracle - Radio Edit",
-      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 235000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Toca (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
+      },
+      "artists": [
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 200483,
+      "name": "Toca's Miracle - Radio Edit",
+      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Top 100 Greatest Dance Hits",
-        "url": "https://open.spotify.com/album/1CmJSOvHeCYN12VQCRkRC9"
-      },
-      "artists": [
-        {
-          "name": "GIGI D'AGOSTINO",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 238759,
-      "name": "L'Amour Toujours",
-      "url": "https://open.spotify.com/track/4xGuK7FsXuZwHCCuNnPzbD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Lola's Theme",
         "url": "https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 207066,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Top 100 Greatest Dance Hits",
+        "url": "https://open.spotify.com/album/1CmJSOvHeCYN12VQCRkRC9"
+      },
+      "artists": [
+        {
+          "name": "GIGI D'AGOSTINO",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 238759,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/4xGuK7FsXuZwHCCuNnPzbD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1455,6 +1455,30 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Shifty Shellshock",
+          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Starry Eyed Surprise",
+      "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1487,30 +1511,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Shifty Shellshock",
-          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Starry Eyed Surprise",
-      "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Western Dream",
         "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 401360,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1559,22 +1575,6 @@
       "duration_ms": 443426,
       "name": "Adagio For Strings",
       "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
+        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
+      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1787,26 +1807,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Kirsty Hawkshaw",
-          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
-        }
-      ],
-      "duration_ms": 524933,
-      "name": "Just Be",
-      "url": "https://open.spotify.com/track/2AnEHhSLWVJJMSQECOcyyx"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
       },
@@ -1855,6 +1835,22 @@
       "duration_ms": 180000,
       "name": "Gone - Radio Edit",
       "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Flight 643",
+        "url": "https://open.spotify.com/album/52Lz6lc8vxsYkpr090GMHI"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Flight 643 (Radio Edit)",
+      "url": "https://open.spotify.com/track/2AXmhtQ9nLGGapHG2AeTZV"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1919,22 +1915,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 562573,
-      "name": "A Tear In The Open",
-      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Best of Alter Ego",
         "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 288053,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+        }
+      ],
+      "duration_ms": 524933,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/2AnEHhSLWVJJMSQECOcyyx"
     },
     {
       "added_at": "2024-07-12 15:40:20",

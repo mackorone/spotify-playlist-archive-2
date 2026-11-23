@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Innerbloom XI",
+        "url": "https://open.spotify.com/album/5mTgGkQwkLPTrBk4m2BL5O"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543627,
+      "name": "Innerbloom XI",
+      "url": "https://open.spotify.com/track/2fwVnifj9tP17FAtT3Lsq3"
+    },
+    {
+      "album": {
         "name": "Inhale / Exhale",
         "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
       },

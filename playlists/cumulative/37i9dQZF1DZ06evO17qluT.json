@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Fa7Her",
+        "url": "https://open.spotify.com/album/5uVO4ZYVCrLUfAiCd7pHrf"
+      },
+      "artists": [
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221175,
+      "name": "$$$$$$$",
+      "url": "https://open.spotify.com/track/3PupSTdHu8h3WAtlVbMY9n"
+    },
+    {
+      "album": {
         "name": "PADRIM",
         "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
       },
@@ -1786,7 +1812,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-23",
       "duration_ms": 251668,
       "name": "Julius",
       "url": "https://open.spotify.com/track/3BYG6GNJypc1bIOxSkorDh"

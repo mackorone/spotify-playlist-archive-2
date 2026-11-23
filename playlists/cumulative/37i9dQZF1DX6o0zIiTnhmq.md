@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-210 songs - 2 day 2 hr 21 min
+211 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Om Chanting](https://open.spotify.com/track/5klNR4AlnRhWqP7vgqmWkB) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Om Chanting](https://open.spotify.com/album/5LAEodG3B8AITPjaSAY42X) | 5:44 | 2025-02-07 |  |
 | [Om Chanting](https://open.spotify.com/track/5JuFkSsuadASsHKgKtFLl8) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 21:58 | 2022-01-24 | 2022-07-29 |
 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 | 2024-09-30 | 2026-11-08 |
+| [Om Chanting 528 Hz For Meditation](https://open.spotify.com/track/3HBsJv8SOKLotzHxT4jaOm) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Om Chanting 528 Hz For Meditation](https://open.spotify.com/album/4Yf48jdCrpz2YIKBVR1BOw) | 6:12 | 2026-11-17 |  |
 | [Om Chants For Morning Meditation](https://open.spotify.com/track/3TuRqTxSGWrMhpSxkbzO3E) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Divine Om](https://open.spotify.com/album/2OywSmkN76dA4SWaNm7X6p) | 31:10 | 2025-07-24 |  |
 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 | 2023-12-26 | 2026-02-09 |
 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 | 2023-02-10 |  |
@@ -133,7 +134,7 @@
 | [Om Namah Shivaay](https://open.spotify.com/track/7tBfGCtnJjE6Ktzm3gZIO4) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 7:38 | 2022-01-24 | 2024-12-31 |
 | [Om Namah Shivay](https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb) | [Rahul Saxena](https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch) | [Om Namah Shivay](https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds) | 6:05 | 2025-02-07 |  |
 | [Om Namah Shivay 108 Times](https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Om Namah Shivay 108 Times](https://open.spotify.com/album/1Pr7UMxfqZzw7fSaTsfC0L) | 12:44 | 2024-11-18 | 2025-10-18 |
-| [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/track/5nXf3V0iA8FnxtqyuJYNO2) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/album/7rf4Xz2c5f4IWEES3E40hn) | 6:13 | 2025-04-07 |  |
+| [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/track/5nXf3V0iA8FnxtqyuJYNO2) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/album/7rf4Xz2c5f4IWEES3E40hn) | 6:13 | 2025-04-07 | 2026-11-23 |
 | [Om Namah Shivay Mantra](https://open.spotify.com/track/7ac2jKXhOfnNPHQQ2BBGBx) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Om Namah Shivay Mantra](https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ) | 12:17 | 2023-08-28 |  |
 | [Om Namah Shivay Meditation 108 Times](https://open.spotify.com/track/53ZbuEXxgsJ7kSZOXMxeYk) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Om Namah Shivay Meditation 108 Times](https://open.spotify.com/album/2ucTid7wEP0FXmmhu4HUyv) | 1:05:25 | 2025-11-26 | 2026-09-18 |
 | [Om Namah Shivaya](https://open.spotify.com/track/1vjtjhdevdbdLiGoj80Jk7) | [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Welcome To The World Mantras](https://open.spotify.com/album/2CHXPld0eKGsL7ZgrIX0pf) | 2:13 | 2026-09-15 | 2026-10-16 |

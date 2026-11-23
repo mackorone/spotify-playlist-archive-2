@@ -4,11 +4,12 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-161 songs - 11 hr 30 min
+162 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Rainy Night in Soho](https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [A Rainy Night in Soho](https://open.spotify.com/album/4uoso3V259t3IWBd9JER8H) | 4:32 | 2026-03-15 | 2026-08-28 |
+| [A Rainy Night in Soho](https://open.spotify.com/track/3132dOd47FDAAsVWglpl8M) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [20th Century Paddy \- The Songs of Shane MacGowan](https://open.spotify.com/album/4GKYuJJCj2MGPMSoGPqfIv) | 4:32 | 2026-11-23 |  |
 | [Adam Raised a Cain](https://open.spotify.com/track/39J5RXFJG6MCjHql3a0Hat) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:32 | 2022-01-28 | 2022-10-13 |
 | [Addicted to Romance \- from the film 'She Came to Me'](https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj) | [Addicted to Romance \(from the film 'She Came to Me'\)](https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd) | 3:05 | 2023-10-04 | 2023-12-31 |
 | [Adelita](https://open.spotify.com/track/5LCRHTTI17T53OcGEamGwJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Adelita](https://open.spotify.com/album/6q5Rn9TfFBYqvknRmyNlHQ) | 4:37 | 2025-06-01 | 2025-07-22 |
@@ -111,7 +112,7 @@
 | [Out In the Street](https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:17 | 2022-01-12 | 2026-11-15 |
 | [Paradise](https://open.spotify.com/track/5aAfwNuKUeDuZd4wkUPlA2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 5:34 | 2022-04-06 | 2022-10-13 |
 | [Pink Cadillac \- Single B\-Side \- 1984](https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:36 | 2022-01-11 |  |
-| [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:00 | 2023-04-26 |  |
+| [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:00 | 2023-04-26 | 2026-11-23 |
 | [Prove It All Night \- Live at Madison Square Garden, New York, NY \- 09/22/79](https://open.spotify.com/track/0GmzNYfOaekGOARHoPTqxO) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band \- The Legendary 1979 No Nukes Concerts](https://open.spotify.com/album/00V1MSXp0ral9K394aItww) | 5:58 | 2022-01-11 | 2022-04-02 |
 | [Racing in the Street](https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 6:56 | 2022-01-11 |  |
 | [Radio Nowhere](https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 3:18 | 2022-01-11 |  |

@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 484607,
+  "num_followers": 484601,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Drag Path",
+        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Drag Path",
+      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 224906,
       "name": "what\u2019s wrong with me",
       "url": "https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "Drag Path",
-        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Drag Path",
-      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -191,18 +191,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
-        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -223,18 +223,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 213116,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 169024,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 234891,
       "name": "The Way",
       "url": "https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 169024,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "We\u2019re All Gonna Die",
         "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Ride Lonesome",
-        "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 272878,
-      "name": "Ride Lonesome",
-      "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Indigo Puff",
         "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 231721,
       "name": "Indigo Puff",
       "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Ride Lonesome",
+        "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 272878,
+      "name": "Ride Lonesome",
+      "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Talk On The Hill",
-        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 207774,
-      "name": "Talk On The Hill",
-      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "All Out of Good Days",
         "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 179255,
       "name": "Sick of Being Young",
       "url": "https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "WIRED",
-        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 206780,
-      "name": "Head Alight",
-      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7"
+        "name": "WIRED",
+        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
       },
       "artists": [
         {
-          "name": "Belle Mt.",
-          "url": "https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS"
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
+      "duration_ms": 206780,
+      "name": "Head Alight",
+      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1419,6 +1403,22 @@
       "duration_ms": 185740,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/5xR0eMPlArJWzoLcJzpTf7"
+      },
+      "artists": [
+        {
+          "name": "Belle Mt.",
+          "url": "https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 293964,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
-      },
-      "artists": [
-        {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Sunburned in London",
         "url": "https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 397448,
       "name": "Sunburned in London",
       "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
     },
     {
       "added_at": "2026-06-17 20:08:40",

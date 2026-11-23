@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón\. Pehuenche, Renee Mooi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,882 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,870 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 56 | [Aeroplanos](https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Aeroplanos](https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz) | 3:59 |
 | 57 | [La Vida Nos Hizo En Pares](https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [La Vida Nos Hizo En Pares](https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ) | 2:57 |
 | 58 | [Lluvia](https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Lluvia](https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo) | 3:48 |
-| 59 | [Tiempo](https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG) | [Andrés Almeida](https://open.spotify.com/artist/3ufL1LFCtKv9PY0G1jOesk) | [Tiempo](https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9) | 4:02 |
-| 60 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
-| 61 | [Cupido \- Acústico](https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cupido \(Acústico\)](https://open.spotify.com/album/3tYs8S99Xsefox2C08Jb3d) | 3:16 |
+| 59 | [Cupido \- Acústico](https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4), [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cupido \(Acústico\)](https://open.spotify.com/album/3tYs8S99Xsefox2C08Jb3d) | 3:16 |
+| 60 | [Tiempo](https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG) | [Andrés Almeida](https://open.spotify.com/artist/3ufL1LFCtKv9PY0G1jOesk) | [Tiempo](https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9) | 4:02 |
+| 61 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
 | 62 | [No es normal \- Versión Sierreño](https://open.spotify.com/track/4b6sv202GMFAv3Zsy1da0R) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es normal \(Versión Sierreño\)](https://open.spotify.com/album/7ccZ24hiMFP4e1cqmWCUIS) | 3:25 |
 | 63 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
 | 64 | [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 |

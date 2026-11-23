@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-186 songs - 9 hr 42 min
+187 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bonafide](https://open.spotify.com/track/2aAvIth7n5CkDMdoMpm8mp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 3:09 | 2025-01-04 | 2025-01-18 |
 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:22 | 2024-07-14 |  |
 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-17 | 2024-07-14 |
-| [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Dj E Money](https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue), [G6reddot](https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq) | [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ) | 3:57 | 2025-08-02 |  |
+| [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Dj E Money](https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue), [G6reddot](https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq) | [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ) | 3:57 | 2025-08-02 | 2026-11-23 |
 | [BË QUIET \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:54 | 2024-10-20 | 2026-06-17 |
 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 | 2022-10-28 |  |
 | [Can I](https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:35 | 2026-08-26 |  |
@@ -102,6 +102,7 @@
 | [Kodak The Boss](https://open.spotify.com/track/7j7GamsurrUCCPiHvBoxSZ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:13 | 2022-10-30 | 2023-02-09 |
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-12-13 | 2025-09-09 |
 | [Let Me Know](https://open.spotify.com/track/63gfBuiVoBne4Xhvb5H7d5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:20 | 2022-10-28 | 2022-11-01 |
+| [Let's Rock \(feat\. Kodak Black\) \[from GTAVI: The Album\]](https://open.spotify.com/track/4HjEG3m6F8C051yuQqS50g) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Let's Rock \(feat\. Kodak Black\) \[from GTAVI: The Album\]](https://open.spotify.com/album/41i4XOUUlwpV6P7kWxnAPc) | 2:31 | 2026-11-23 |  |
 | [Like Dat](https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:20 | 2022-10-28 |  |
 | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr) | 3:00 | 2022-10-28 | 2022-12-08 |
 | [Loitering](https://open.spotify.com/track/19hnu2CJMj7WkvsbRDubiL) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kodak The Blessing](https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M) | 3:14 | 2026-06-27 | 2026-09-05 |

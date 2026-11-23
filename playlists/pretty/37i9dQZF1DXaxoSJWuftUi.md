@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxoSJWuftUi.md) - [plain]
 
 > Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium\. Cover: Peppa Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,970 likes - 43 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,010 likes - 43 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

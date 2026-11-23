@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Humboldt en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,676 likes - 68 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,686 likes - 68 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

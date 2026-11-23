@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,075 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,099 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 31 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
 | 32 | [恋人へ](https://open.spotify.com/track/03ZrFsaCQT0o1MlX9n65Nf) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [恋人へ](https://open.spotify.com/album/6WgMpBZ44zDNKIlVPbjrwn) | 1:15 |
 | 33 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 |
-| 34 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
+| 34 | [姿](https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:27 |
 | 35 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
-| 36 | [姿](https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:27 |
+| 36 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
 | 37 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
-| 38 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
-| 39 | [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 |
+| 38 | [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 |
+| 39 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
 | 40 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 41 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
 | 42 | [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 |

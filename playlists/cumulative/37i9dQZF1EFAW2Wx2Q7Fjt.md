@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-308 songs - 15 hr 54 min
+310 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 | 2024-02-07 | 2026-02-01 |
 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 | 2026-01-31 |  |
 | [Heavy Weight](https://open.spotify.com/track/2zITwPNDc7aUkwRpWasK43) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:53 | 2026-10-06 |  |
-| [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 | 2026-11-12 |  |
+| [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 | 2026-11-12 | 2026-11-23 |
+| [Here You Come, There You Go](https://open.spotify.com/track/5mRaXkSSXs4bipWZUTtHsu) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:50 | 2026-11-22 |  |
 | [Hi\-Lo](https://open.spotify.com/track/3rPvqdTUROO6eFGFJnY6Jr) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [SKYVIEW](https://open.spotify.com/album/7nkAfiUqBFSD19EwyvCShv) | 2:57 | 2025-01-09 | 2025-04-12 |
 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:59 | 2024-07-21 |  |
 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi) | 2:59 | 2024-06-19 | 2024-07-22 |
@@ -179,6 +180,7 @@
 | [Long Way To Go](https://open.spotify.com/track/0ExgYpvG19n3tBUdn1K2Nv) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt) | [Long Way To Go](https://open.spotify.com/album/3QnyhBblxgSnVpMKYnW43T) | 3:11 | 2024-02-07 |  |
 | [Loop](https://open.spotify.com/track/2p2WVrioQLEhL98bfmx5Bh) | [Paperwhite](https://open.spotify.com/artist/2JSBQeazRlk0kVp2gelwbZ) | [Loop](https://open.spotify.com/album/7I7lL676DwpBnlo3jzyIbO) | 3:43 | 2024-02-07 |  |
 | [Losing It Over You \(feat\. Ayme\)](https://open.spotify.com/track/6TfbZ9vy5zqBEDLmqwH9sp) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Ayme](https://open.spotify.com/artist/3ij1FcXAaIkz7ulZ8Ud4kd) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 3:27 | 2024-02-07 |  |
+| [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 | 2026-11-22 |  |
 | [Love In Common](https://open.spotify.com/track/1718AVNCRX6CvNA9fL3fUv) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:29 | 2024-05-11 |  |
 | [Love Language](https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Love Language](https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T) | 2:57 | 2025-07-26 | 2025-09-15 |
 | [Love Language](https://open.spotify.com/track/5LJlhVdugPn5HbaFL69L6m) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 | 2025-09-14 |  |

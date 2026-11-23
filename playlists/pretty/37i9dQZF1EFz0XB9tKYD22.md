@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638 likes - 361 songs - 21 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 639 likes - 361 songs - 21 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,9 +277,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 267 | [Something Strong](https://open.spotify.com/track/4ooiGkHiIi6VQNGmE0MnSR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:34 |
 | 268 | [Bad Love](https://open.spotify.com/track/1pfNTd88JczeBX1kndkO3p) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/5YRwR7wOulWESaGKwHcQbF) | 3:26 |
 | 269 | [Liar](https://open.spotify.com/track/6qsc0dVy76PRWI0hkcLbz4) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Liar](https://open.spotify.com/album/4UD1ACjCmwnCcTdQwvtwj3) | 3:29 |
-| 270 | [The Other Side](https://open.spotify.com/track/2x6rtVe96HwHP5QRM2oXpL) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 2:59 |
-| 271 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
-| 272 | [Drop Anchor Here](https://open.spotify.com/track/5za25Jtm5rdrKKHKoAMJEa) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Drop Anchor Here](https://open.spotify.com/album/1dbEt8HquK1ogAVXcPV3ve) | 3:23 |
+| 270 | [Drop Anchor Here](https://open.spotify.com/track/5za25Jtm5rdrKKHKoAMJEa) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Drop Anchor Here](https://open.spotify.com/album/1dbEt8HquK1ogAVXcPV3ve) | 3:23 |
+| 271 | [The Other Side](https://open.spotify.com/track/2x6rtVe96HwHP5QRM2oXpL) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 2:59 |
+| 272 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
 | 273 | [Every Time](https://open.spotify.com/track/2WnWvJZFkhPXC3Vy1Kzhjv) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:05 |
 | 274 | [Big Cry](https://open.spotify.com/track/05Wur4UuHdUIP3c8Hvs7fi) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 3:17 |
 | 275 | [Summer Of Love](https://open.spotify.com/track/6DD2q4wRpJwwiUajqQMeKx) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Eleven](https://open.spotify.com/album/2IjiBV6bprNXNHexpJ9WIC) | 4:19 |
@@ -321,8 +321,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 311 | [Whiskey and Water](https://open.spotify.com/track/4tDj7Nlfn1OfOFfXpvrm6g) | [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Whiskey and Water](https://open.spotify.com/album/7bWBIhSORAl6lwF48LgaaY) | 3:44 |
 | 312 | [Things People Say](https://open.spotify.com/track/55QW26ikNMendSkGIkTUIX) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Make the Night Better](https://open.spotify.com/album/173y9vhUJAsMd0PFiiwaQH) | 3:13 |
 | 313 | [Tie a Knot](https://open.spotify.com/track/3TxrgvVqp7c3ysc3aP04Kl) | [Chris Kroeze](https://open.spotify.com/artist/1GlT9mh68e99db68QqSKnf) | [Tie a Knot](https://open.spotify.com/album/7zYCoEhsyBJdgqQrGTPYYA) | 3:07 |
-| 314 | [Nights This Long](https://open.spotify.com/track/4QRKmjcvlRf07GJlfUZVrW) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/6vwssZwOmmxOK86Bb0XRYo) | 3:04 |
-| 315 | [Eye of the Storm](https://open.spotify.com/track/76kKA1Zn0XGmrmFJCd1rT3) | [J.K\. Hodge](https://open.spotify.com/artist/432Yia0hS9be99GSoEyf6J) | [All Your Heart's Desires](https://open.spotify.com/album/1Ox60vTK4USknHMiuo7lap) | 4:55 |
+| 314 | [Eye of the Storm](https://open.spotify.com/track/76kKA1Zn0XGmrmFJCd1rT3) | [J.K\. Hodge](https://open.spotify.com/artist/432Yia0hS9be99GSoEyf6J) | [All Your Heart's Desires](https://open.spotify.com/album/1Ox60vTK4USknHMiuo7lap) | 4:55 |
+| 315 | [Nights This Long](https://open.spotify.com/track/4QRKmjcvlRf07GJlfUZVrW) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/6vwssZwOmmxOK86Bb0XRYo) | 3:04 |
 | 316 | [Life Goes On](https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Life Goes On](https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1) | 3:36 |
 | 317 | [Lemonade](https://open.spotify.com/track/6U2KmhDPlTqBAb2175X6qc) | [Emerson Drive](https://open.spotify.com/artist/1efrXlPhLKv7PvgUxVcqIS) | [What If?](https://open.spotify.com/album/0FP9mhZ6IrDakt1eguqauS) | 4:22 |
 | 318 | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/track/09fRiBGIEVAeX7eNBipm2G) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Driving Back There In My Mind \(Demo\)](https://open.spotify.com/album/2dfDT5XbCDlNABvafIfLmz) | 3:41 |
@@ -346,8 +346,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 336 | [I Wanna Know](https://open.spotify.com/track/25wes5Fd1oD4PDWHR5g55W) | [One More Girl](https://open.spotify.com/artist/5BHjTVVYoOiCzZ30RRSb8N) | [Big Sky](https://open.spotify.com/album/5njrDf1jr04qMzVlamQB5u) | 2:56 |
 | 337 | [Cover](https://open.spotify.com/track/2LPVCLI3gBSxkGh6ObkEin) | [Eric Durrance](https://open.spotify.com/artist/6DGuIreufOuXxGgqceZsFc) | [Angels Fly Away \(Bonus Track Version\)](https://open.spotify.com/album/6cwXF6qzvNbdKw9eQEL8kD) | 3:36 |
 | 338 | [Revolving Door](https://open.spotify.com/track/6KghbEFkDCgs4UfVHEiHIb) | [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB) | [For The Few And Far Between](https://open.spotify.com/album/0GKRb1RRCEVIYfg87WShL7) | 3:37 |
-| 339 | [Hot Concrete](https://open.spotify.com/track/7IouEbgLhlP7tWw3eED4UT) | [Drunken Immortals](https://open.spotify.com/artist/2sQNxKrfy0k3fjHLJLJLbH) | [Hot Concrete](https://open.spotify.com/album/26vKfIBehbY1N3s57ouyRD) | 4:14 |
-| 340 | [Memories Like You](https://open.spotify.com/track/5EAJAn0EqmZXfbfMhTefHf) | [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [The Guest Room](https://open.spotify.com/album/374DcR4mOsUutxymdtqySx) | 2:26 |
+| 339 | [Memories Like You](https://open.spotify.com/track/5EAJAn0EqmZXfbfMhTefHf) | [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [The Guest Room](https://open.spotify.com/album/374DcR4mOsUutxymdtqySx) | 2:26 |
+| 340 | [Hot Concrete](https://open.spotify.com/track/7IouEbgLhlP7tWw3eED4UT) | [Drunken Immortals](https://open.spotify.com/artist/2sQNxKrfy0k3fjHLJLJLbH) | [Hot Concrete](https://open.spotify.com/album/26vKfIBehbY1N3s57ouyRD) | 4:14 |
 | 341 | [Warm Beer](https://open.spotify.com/track/0WWGVgziMt8xHUIsqbtyoy) | [Big City Lights](https://open.spotify.com/artist/2omfQ7RvqrjJPdhqNhavaf) | [Warm Beer](https://open.spotify.com/album/7cpESNXQ4fsBvBnbZjKwr1) | 3:22 |
 | 342 | [Where She Ain't](https://open.spotify.com/track/4RBZJXeHXbDv3FuHJUaJyA) | [Jay Eric](https://open.spotify.com/artist/20TDsK5kszoMspfUAnHkDP) | [Where She Ain't](https://open.spotify.com/album/30SDw7sehRjooABsVHNlMW) | 3:39 |
 | 343 | [I'd Leave Me](https://open.spotify.com/track/4UF5EoUWWo81L5R1r1SeoB) | [Lisa Dames](https://open.spotify.com/artist/3z4BbAHE3txFTKRAHzSf6g) | [No One Like Me](https://open.spotify.com/album/5uPmFmgoAUAwc94wUYYsui) | 3:30 |
@@ -370,4 +370,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 360 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 | 361 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 
-Snapshot ID: `AciTDAAAAAAvZkHKKNc80pFJXPMvjcpJ`
+Snapshot ID: `AciY6AAAAABjeW2l4YGBOF9yBSkGAmkM`

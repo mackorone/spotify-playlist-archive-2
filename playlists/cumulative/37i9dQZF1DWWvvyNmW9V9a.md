@@ -4,7 +4,7 @@
 
 > merry christmas everyone
 
-2,936 songs - 6 day 8 hr 50 min
+2,937 songs - 6 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1749,6 +1749,7 @@
 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 | 2023-09-08 | 2023-10-14 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-19 | 2024-01-20 |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-04 | 2023-02-25 |
+| [My Moon My Man](https://open.spotify.com/track/3VYSKGBdjbGC4owpHULCPe) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [My Moon My Man](https://open.spotify.com/album/0ad1DSuEgQce3MSSI5CU9k) | 3:22 | 2026-11-23 |  |
 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 | 2026-02-06 | 2026-04-25 |
 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2024-05-24 | 2024-09-21 |
 | [My Vice Is Misery](https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room, sensitive to the sound](https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s) | 3:57 | 2026-10-30 |  |

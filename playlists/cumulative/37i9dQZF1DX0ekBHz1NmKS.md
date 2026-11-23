@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,435 songs - 5 day 6 hr 11 min
+2,437 songs - 5 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Backspegeln \- Radio Edit](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 | 2025-08-21 | 2025-12-05 |
 | [Bad One](https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b) | 2:41 | 2023-06-22 | 2023-08-10 |
 | [Bad One](https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW) | 2:41 | 2023-03-23 | 2023-06-03 |
+| [Bad Vibe](https://open.spotify.com/track/33kmbK1QWUhJb05rL5vV9F) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Bad Vibe](https://open.spotify.com/album/6pRiIH5mMRYIiFrgVeunTr) | 3:16 | 2026-11-19 |  |
 | [Bakom molnen](https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Bakom molnen](https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o) | 3:02 | 2025-10-23 | 2026-02-13 |
 | [Bakom oss bara dimma](https://open.spotify.com/track/2d4EgG32xHf0cPvBS0J6Ow) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:13 | 2026-11-02 |  |
 | [Bakom oss bara dimma \(Filmversion från Jävla karlar\)](https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Bakom oss bara dimma](https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y) | 4:09 | 2026-10-29 | 2026-11-03 |
@@ -710,6 +711,7 @@
 | [Fruängen](https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Molly från Fruängen](https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7) | 3:48 | 2024-09-26 | 2025-04-11 |
 | [Fräknar \(500 dagar\)](https://open.spotify.com/track/3Jy9HaBTPyXsfindjkGtsW) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Fräknar \(500 dagar\)](https://open.spotify.com/album/2O3LOCmrA39t1j8azoxKX0) | 3:43 | 2024-05-23 | 2024-06-21 |
 | [Från början](https://open.spotify.com/track/4HpA7two0bMn79sp7WiokX) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Fling](https://open.spotify.com/album/49LV22xJQCTn77vOLCUhQn) | 3:26 | 2026-10-22 | 2026-11-13 |
+| [FSU](https://open.spotify.com/track/7cUrY0Y5RmPezuFvCotNSQ) | [Grommet](https://open.spotify.com/artist/0fXjvXTc3xf5JC6a6peB20) | [FSU](https://open.spotify.com/album/2UCXLu1MVY5xKrqrhZQsVb) | 2:31 | 2026-11-19 |  |
 | [Fuck ditt liv](https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Fuck ditt liv](https://open.spotify.com/album/2PUu9XBFuCzLw8lY2ZChq0) | 2:42 | 2024-08-15 | 2025-03-14 |
 | [Ful](https://open.spotify.com/track/6OWtOWPfwzPlahAaPPOnST) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ful](https://open.spotify.com/album/5a5CnRPgGPDkiFPvwbAfWn) | 2:39 | 2026-04-30 | 2026-07-05 |
 | [Full på dan](https://open.spotify.com/track/5od9GEWisg8lTv9jmQRz90) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Jonas Teglund](https://open.spotify.com/artist/6WrDpCXVSYSwaMv3jhgpuT) | [Full på dan](https://open.spotify.com/album/2TqVA9ey7RvSCv8V6uJoeC) | 3:37 | 2024-03-21 | 2024-05-03 |
@@ -844,7 +846,7 @@
 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 | 2021-12-16 | 2022-05-13 |
 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 | 2026-05-07 | 2026-09-26 |
 | [Har det värsta redan hänt](https://open.spotify.com/track/7ipKP6Ut4mpzj840rDNHKJ) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Har det värsta redan hänt](https://open.spotify.com/album/7H6pdOtvIT5EubccKtvptU) | 3:43 | 2025-09-04 | 2025-11-25 |
-| [Har du också känt den](https://open.spotify.com/track/2EOs4OdGE2bfr3PalXWh3m) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Har du också känt den](https://open.spotify.com/album/7756xsFANOT1qnKlLIYojt) | 3:25 | 2026-08-27 |  |
+| [Har du också känt den](https://open.spotify.com/track/2EOs4OdGE2bfr3PalXWh3m) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Har du också känt den](https://open.spotify.com/album/7756xsFANOT1qnKlLIYojt) | 3:25 | 2026-08-27 | 2026-11-23 |
 | [Har du sett henne i blått](https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Har du sett henne i blått](https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW) | 3:21 | 2023-01-05 | 2023-10-06 |
 | [har jag blivit knäpp!? \(har jag blivit sjuk!?\)](https://open.spotify.com/track/01up4QXtiyto3a6YztnWAg) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 3:28 | 2023-05-19 | 2023-06-16 |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2022-03-10 | 2022-07-21 |
@@ -1624,7 +1626,7 @@
 | [Pannkaksfrukost](https://open.spotify.com/track/3ldBwzqcOSe4iefDalhUN7) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [Pannkaksfrukost](https://open.spotify.com/album/24BGAjPh4QNr4brfBFgeM0) | 2:14 | 2024-02-02 | 2024-03-22 |
 | [Pappa](https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Pappa](https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM) | 3:09 | 2024-06-27 | 2024-09-26 |
 | [Pappa](https://open.spotify.com/track/1ao8aqJXSqXCGDihRbhxVH) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Pappa](https://open.spotify.com/album/2JaHN74aTfEUdQblNKK6Ek) | 3:01 | 2024-03-02 | 2024-04-19 |
-| [Pappa kommer inte hem](https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Det högsta ljud jag hört](https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY) | 3:10 | 2026-05-21 |  |
+| [Pappa kommer inte hem](https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Det högsta ljud jag hört](https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY) | 3:10 | 2026-05-21 | 2026-11-23 |
 | [Parasit](https://open.spotify.com/track/3u4CzpzjbIRRGOxC7DfpQQ) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [Parasit](https://open.spotify.com/album/6T9R4UAy9sUIwWh1pW4H5O) | 2:31 | 2024-08-29 | 2024-09-20 |
 | [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 | 2025-01-23 | 2025-04-25 |
 | [Parking Lot Sunset](https://open.spotify.com/track/51OO9YEFbU9RqxM6xKjxSX) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Travelling Forever](https://open.spotify.com/album/6O6FjErdZMrFL6bvd0Gfun) | 3:33 | 2024-04-11 | 2024-05-10 |
