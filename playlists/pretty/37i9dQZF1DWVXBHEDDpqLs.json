@@ -1,12 +1,12 @@
 {
   "description": "the best underground club tracks \u2764\ufe0f\u200d\ud83d\udd25 ft. BIIANCO \u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 76390,
+  "num_followers": 76423,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFNsMe/HvS5o3pYVDmjJAMO1X5QH",
+  "snapshot_id": "AAAAAC9+S5krjyG10zj9JMLRyio7KDyn",
   "tracks": [
     {
       "added_at": "2026-08-21 17:13:23",
@@ -155,6 +155,22 @@
       "duration_ms": 140000,
       "name": "Lemon Pepper Wet",
       "url": "https://open.spotify.com/track/0zmigDNAsPFgZ8oEb0Xrb6"
+    },
+    {
+      "added_at": "2026-11-23 15:35:00",
+      "album": {
+        "name": "As We Speak Through Salt and Static",
+        "url": "https://open.spotify.com/album/2CoGb6BSRuYwlSOUbZRhkM"
+      },
+      "artists": [
+        {
+          "name": "Seta Loto",
+          "url": "https://open.spotify.com/artist/5SL7XA9FJG7ISNcbkwlWGZ"
+        }
+      ],
+      "duration_ms": 447987,
+      "name": "As We Speak Through Salt and Static",
+      "url": "https://open.spotify.com/track/0Mc8Ub3YCd1CRbgQ3fPfCQ"
     },
     {
       "added_at": "2026-11-06 05:01:36",
@@ -1487,22 +1503,6 @@
       "duration_ms": 345237,
       "name": "Drift",
       "url": "https://open.spotify.com/track/6HeQOiJ0S8lsll3Hqu9tD7"
-    },
-    {
-      "added_at": "2026-07-17 04:01:35",
-      "album": {
-        "name": "Mirror Phase EP",
-        "url": "https://open.spotify.com/album/4q09fIqkf466XoQcL31GnN"
-      },
-      "artists": [
-        {
-          "name": "efdemin",
-          "url": "https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G"
-        }
-      ],
-      "duration_ms": 285428,
-      "name": "Mirror Phase",
-      "url": "https://open.spotify.com/track/1scaF79QhPxBgxVplGyinr"
     },
     {
       "added_at": "2026-07-31 04:01:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Niklas Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,900 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,884 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 64 | [IDONTLIK€TOTALKTOP€OPL€](https://open.spotify.com/track/4JskhKmyPK5XLdnsMKD8x0) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [IDONTLIK€TOTALKTOP€OPL€](https://open.spotify.com/album/5IUPaiavKY5JXNmNbkfKS5) | 2:45 |
 | 65 | [Make Me Feel](https://open.spotify.com/track/0aWdgHmHfKtOd8FRtxMRiT) | [NoTani](https://open.spotify.com/artist/5RmgFL8D5WfaLEaKSsAkBc) | [Make Me Feel](https://open.spotify.com/album/5wNts1hF9NfElpjizj8XyC) | 2:06 |
 
-Snapshot ID: `AAAAAHBMV1LCiSGTBn63BGR0cme/TIC1`
+Snapshot ID: `AAAAADXogGFCMbSgLkKleIXkvpQF13kt`

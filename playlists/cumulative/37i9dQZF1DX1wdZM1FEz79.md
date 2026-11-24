@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: WISUE\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-706 songs - 1 day 17 hr 32 min
+707 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2021-12-10 |  |
 | [Ether Under the Parasol](https://open.spotify.com/track/0haLXhHU8DMx4mspQBvJC9) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [pool vol.9 \- Ether Under the Parasol](https://open.spotify.com/album/48R73r45I4e0OKsxwiUyI1) | 4:00 | 2026-10-06 | 2026-10-21 |
 | [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-06 | 2026-04-03 |
-| [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 |  |
+| [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 | 2026-11-24 |
 | [every night every day](https://open.spotify.com/track/4bLj4d2i6hnoIbmsYtqpsJ) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [every night every day](https://open.spotify.com/album/2KzUmmLwP4ZH0X0096aahf) | 3:35 | 2025-04-17 | 2025-07-18 |
 | [Everything](https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7GwxpetZKbSuTgzGeduh6z) | 3:19 | 2023-01-14 | 2023-01-26 |
 | [Everything to you 나의 세상을 보여주고 싶어](https://open.spotify.com/track/0Q1vY2GRzE5hzTQBvEkOr3) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Everything to you 나의 세상을 보여주고 싶어](https://open.spotify.com/album/7FJFPX2OyP0IS4koeEEEI1) | 3:52 | 2022-03-07 | 2022-04-21 |
@@ -601,6 +601,7 @@
 | [Underdog Love](https://open.spotify.com/track/2B3m6yaFZf5Tzwyn1opfT8) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Underdog Love](https://open.spotify.com/album/7krQUrbx4ixgB9xD5eltcm) | 3:18 | 2025-07-11 | 2025-08-19 |
 | [Unrelenting Love](https://open.spotify.com/track/12K3XV24edIuYrvWk7zvz1) | [NA Gichul](https://open.spotify.com/artist/5DByRDR4n4U5hFrtJbaVT2) | [Unrelenting Love](https://open.spotify.com/album/123F0Zaaf75ByBpgT1LRgA) | 3:35 | 2025-08-12 | 2025-09-02 |
 | [Up the Hill](https://open.spotify.com/track/2Hkk0yOptEbhFudWGIsDfN) | [Seo's Room](https://open.spotify.com/artist/2VQqvcjhx8LJAEBW8PpxpA) | [Village](https://open.spotify.com/album/0LKhx5arSydD2TEGqdNAsX) | 3:27 | 2026-10-16 | 2026-10-21 |
+| [Us](https://open.spotify.com/track/7eRRA9g7A6Z69hGF24yIoM) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [GYEOL](https://open.spotify.com/album/46BY2iwRYtrGHGmZcwQGEz) | 3:41 | 2026-11-17 |  |
 | [Us \- Acoustic](https://open.spotify.com/track/2VzMN0k5UMrv8xUQFFpVFI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.0 \(Acoustic\)](https://open.spotify.com/album/0T7A42knWzQPbhaROLloi6) | 4:06 | 2025-10-10 | 2025-11-14 |
 | [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-03-04 | 2022-04-15 |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-10 | 2025-11-22 |

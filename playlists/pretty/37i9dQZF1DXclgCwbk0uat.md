@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,939,009 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,938,809 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch) | 3:20 |
 | 50 | [PATEK PHILIPPE](https://open.spotify.com/track/2KTELz5yDBJXUpTe8skjes) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Color de Rosa](https://open.spotify.com/album/26s4ZoQn6uOCnTKaKsvKTf) | 2:07 |
 
-Snapshot ID: `AAAAAPBj0P3EeI834ChD9I1qWe7E2YPa`
+Snapshot ID: `AAAAADwV4QAbQiGJCFwPoscqM4dyMEFT`

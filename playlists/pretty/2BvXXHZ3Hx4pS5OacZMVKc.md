@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > Level up your gaming with the best copyright\-free music from NCS \(NoCopyrightSounds\)\. Epic EDM, electronic anthems, bass and high\-energy tracks for gaming videos, YouTube, Twitch streams and more\. Updated regularly with fresh releases and fan favourites\. 🎮
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 130,150 likes - 150 songs - 7 hr 53 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 130,186 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

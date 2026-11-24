@@ -1,12 +1,12 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Jada Kingdom",
-  "num_followers": 125174,
+  "num_followers": 125225,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPm84+dL9THSMkAYyXZbcDDfmdYE",
+  "snapshot_id": "AAAAAEb457Mj1eD3r3dyM0EiZM715I+z",
   "tracks": [
     {
       "added_at": "2026-07-02 23:00:29",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-07-02 23:00:29",
       "album": {
+        "name": "Watch Dem",
+        "url": "https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Watch Dem",
+      "url": "https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU"
+    },
+    {
+      "added_at": "2026-07-02 23:00:29",
+      "album": {
         "name": "Heat Rave Riddim",
         "url": "https://open.spotify.com/album/56J8Y59mSz62ZEDj1AeFJs"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 166504,
       "name": "Gal a Get More",
       "url": "https://open.spotify.com/track/3gPRyYL4h3E0VUkstlTLSK"
-    },
-    {
-      "added_at": "2026-07-02 23:00:29",
-      "album": {
-        "name": "Watch Dem",
-        "url": "https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT"
-      },
-      "artists": [
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Watch Dem",
-      "url": "https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU"
     },
     {
       "added_at": "2026-07-02 23:00:29",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2026-07-02 23:00:29",
       "album": {
-        "name": "Dutty Casamigos",
-        "url": "https://open.spotify.com/album/3l0qrKvvIujmIzvdb3Z0d6"
+        "name": "Upside Down 2020",
+        "url": "https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l"
       },
       "artists": [
         {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 164169,
-      "name": "Dutty Casamigos",
-      "url": "https://open.spotify.com/track/3GRqU9RVxTjeTRpCajrrVO"
+      "duration_ms": 230157,
+      "name": "Call Me (feat. Stefflon Don)",
+      "url": "https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma"
     },
     {
       "added_at": "2026-07-02 23:00:29",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2026-07-02 23:00:29",
       "album": {
-        "name": "Upside Down 2020",
-        "url": "https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l"
+        "name": "Dutty Casamigos",
+        "url": "https://open.spotify.com/album/3l0qrKvvIujmIzvdb3Z0d6"
       },
       "artists": [
         {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
         }
       ],
-      "duration_ms": 230157,
-      "name": "Call Me (feat. Stefflon Don)",
-      "url": "https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma"
+      "duration_ms": 164169,
+      "name": "Dutty Casamigos",
+      "url": "https://open.spotify.com/track/3GRqU9RVxTjeTRpCajrrVO"
     },
     {
       "added_at": "2026-07-02 23:00:29",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-07-02 23:00:29",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc"
-      },
-      "artists": [
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
-        }
-      ],
-      "duration_ms": 154282,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX"
-    },
-    {
-      "added_at": "2026-07-02 23:00:29",
-      "album": {
         "name": "Heels On - Single",
         "url": "https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 199627,
       "name": "Tek It To Dem",
       "url": "https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj"
+    },
+    {
+      "added_at": "2026-07-02 23:00:29",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc"
+      },
+      "artists": [
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+        }
+      ],
+      "duration_ms": 154282,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX"
     },
     {
       "added_at": "2026-07-02 23:00:29",

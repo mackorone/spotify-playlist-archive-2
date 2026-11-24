@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,269 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,287 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 49 | [Witchcraft](https://open.spotify.com/track/0H2uVxEEvuRRYLhowu78jf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:52 |
 | 50 | [Fly Me To The Moon \- Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show](https://open.spotify.com/track/6cVtxsKo5SC9Z3IEfw6W54) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra At The Sands \- 60th Anniversary](https://open.spotify.com/album/4HqxECORvwwBuD01A9zAVT) | 2:41 |
 
-Snapshot ID: `awDfAAAAAAAoXrRsSJTioivL3Pr3qLdl`
+Snapshot ID: `awIwgAAAAABukxaJryaTRngX4TL+xxt0`

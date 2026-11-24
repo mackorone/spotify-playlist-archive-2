@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1738134,
+  "num_followers": 1738067,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEtuEXBn95JmIeGxw3srLE3WeDYy",
+  "snapshot_id": "AAAAAFPPa8mMxT7oOpABrPet7CJvD+B0",
   "tracks": [
     {
       "added_at": "2026-10-23 04:01:17",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Back To Life",
-        "url": "https://open.spotify.com/album/3f45YnvjJazhk0Ena7CASK"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 214218,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/7Lr4XaxGpkAwa37IVgg22k"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "For You 2",
         "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 178880,
       "name": "Gonna Love You",
       "url": "https://open.spotify.com/track/4k8ozY5BjfGGvICHka5DfI"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/3f45YnvjJazhk0Ena7CASK"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 214218,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7Lr4XaxGpkAwa37IVgg22k"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Home Sweet",
-        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Home Sweet",
-      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 195585,
       "name": "To Hell & Back",
       "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "Home Sweet",
+        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Home Sweet",
+      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/52xjNFo20vTAb4AHMRtJyn"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 173061,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/58VwVmMvmGTd2Zj5oDlIAA"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "You Time",
         "url": "https://open.spotify.com/album/3v5EfqlUMolY1RR5GNnMYx"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 192026,
       "name": "You Time",
       "url": "https://open.spotify.com/track/0pJalGEYsRikSogLkXU6KV"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/52xjNFo20vTAb4AHMRtJyn"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/58VwVmMvmGTd2Zj5oDlIAA"
     },
     {
       "added_at": "2026-10-23 04:01:17",

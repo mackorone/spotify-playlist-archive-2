@@ -336,6 +336,10 @@
       },
       "artists": [
         {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
           "name": "Alka Yagnik",
           "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         },
@@ -346,10 +350,6 @@
         {
           "name": "Shankar Mahadevan",
           "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Anu Malik",
-          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
         },
         {
           "name": "Sameer Anjaan",
@@ -664,8 +664,16 @@
       },
       "artists": [
         {
+          "name": "Nadeem Shravan",
+          "url": "https://open.spotify.com/artist/0xHXoShMJw3xDArjL8IHtt"
+        },
+        {
           "name": "Kumar Sanu",
           "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Nawab Arzoo",
+          "url": "https://open.spotify.com/artist/53rejhY2fUwAuwcucMNILs"
         }
       ],
       "date_added": "2023-02-07",

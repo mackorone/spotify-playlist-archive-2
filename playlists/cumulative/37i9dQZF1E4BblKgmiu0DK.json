@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Kaelis Virel, STACY and more",
+  "description": "With Eileen Noise, STACY, Cilver and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 223826,
       "name": "Behind These Eyes",
       "url": "https://open.spotify.com/track/0a9Vf88EBSaB7cKxvs0Nrx"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 248376,
       "name": "Below Average",
       "url": "https://open.spotify.com/track/3wtRTHG1jcec4PCWhuuhdd"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 213453,
       "name": "D Is For Dangerous",
       "url": "https://open.spotify.com/track/2w89uUFddutMqIZIw6FtcG"
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -5654,7 +5654,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 272253,
       "name": "Heaven In This Hell",
       "url": "https://open.spotify.com/track/5HjMSswXGe5JbV088K4ara"
@@ -5690,7 +5690,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 243488,
       "name": "Heavy Love",
       "url": "https://open.spotify.com/track/5rL8ztXSqLsKpOdh8VqOt3"
@@ -6832,7 +6832,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -7078,7 +7078,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 219266,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4NtZFmh1EST9OMwgfXaMwU"
@@ -7403,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "Kennedy's Dad",
+        "url": "https://open.spotify.com/album/4afANOrw9gjeMqvpzv0Y69"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Arc",
+          "url": "https://open.spotify.com/artist/6cetwE83XOvOp4cE1ItfgY"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140368,
+      "name": "Kennedy's Dad",
+      "url": "https://open.spotify.com/track/5g7NRsc4Vk4H5F1gTze3ZU"
+    },
+    {
+      "album": {
         "name": "Kick Me",
         "url": "https://open.spotify.com/album/2WbhdwBkbf80akeqd7BvCQ"
       },
@@ -7522,7 +7540,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -7576,7 +7594,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -8210,7 +8228,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 276617,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/7nitGpFPPNULZbGBniIv1v"
@@ -8798,7 +8816,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 182426,
       "name": "Miss Americvnt",
       "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
@@ -8888,7 +8906,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 227000,
       "name": "Monkeyshine's My Sunshine",
       "url": "https://open.spotify.com/track/1nPy5EvtZjxXH0qZtF5kqm"
@@ -9504,7 +9522,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 190872,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/2Mk8rgnsTdKlVGU9kk0D6P"
@@ -9648,7 +9666,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 211291,
       "name": "Not Listening",
       "url": "https://open.spotify.com/track/38MVfDV99sgd5GaMvZrxRR"
@@ -11402,7 +11420,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 141124,
       "name": "Salutatorian",
       "url": "https://open.spotify.com/track/0sR75ZFcpHgSubNgATHTwT"
@@ -11716,7 +11734,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 215614,
       "name": "She - Demo Version 2013",
       "url": "https://open.spotify.com/track/41u1k5OKvTHhzz8iR2fm6g"
@@ -11846,7 +11864,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 166891,
       "name": "Short Piece",
       "url": "https://open.spotify.com/track/373esSRWQHKlQk08h75kzI"
@@ -11864,7 +11882,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 234442,
       "name": "Shot to the Heart",
       "url": "https://open.spotify.com/track/4uoSBgdA5GDqpN6LN8SoPF"
@@ -12012,7 +12030,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 188750,
       "name": "Snake Oil",
       "url": "https://open.spotify.com/track/6guKD661VTP8RApMXF9gPm"
@@ -12228,7 +12246,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 182989,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/49DgHhxOmmatIz2D0C77Wh"
@@ -12390,7 +12408,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 168870,
       "name": "Static Crown",
       "url": "https://open.spotify.com/track/498HQm4WkKJsmysSXdJBNn"
@@ -12462,7 +12480,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -12790,7 +12808,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 208266,
       "name": "Sweet Temptation (Hollow)",
       "url": "https://open.spotify.com/track/0P4Ne1Nzvf7wtcW5kdGuFF"
@@ -13246,7 +13264,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -13560,6 +13578,24 @@
       "duration_ms": 188969,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/53LKe6p4Ozpnex4kFHe0yd"
+    },
+    {
+      "album": {
+        "name": "Time Is Never Wasted (When Your're Wasted All The Time)",
+        "url": "https://open.spotify.com/album/5xkbOk2wsP1VfTiEKQeFqq"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230466,
+      "name": "Time Is Never Wasted (When You're Wasted All The Time)",
+      "url": "https://open.spotify.com/track/08ELV601CJbdE4pdV5NOVD"
     },
     {
       "album": {
@@ -14248,7 +14284,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 214365,
       "name": "Watch Your Back",
       "url": "https://open.spotify.com/track/3ZJ0WxCCmaNT21AH1irYZQ"
@@ -14284,7 +14320,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 253136,
       "name": "We Should Never Be Alone",
       "url": "https://open.spotify.com/track/4brZGwllzw61JLPFM7hnbt"
@@ -14752,7 +14788,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 199186,
       "name": "Wolves at the Door",
       "url": "https://open.spotify.com/track/6a727qR2qmlyHgw7wLE3sV"

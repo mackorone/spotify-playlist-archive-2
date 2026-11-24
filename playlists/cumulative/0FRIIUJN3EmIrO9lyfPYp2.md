@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-1,111 songs - 1 day 14 hr 36 min
+1,114 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [cut from the bone](https://open.spotify.com/track/1QglCYonKrRnMeqnwvGU52) | [thenian](https://open.spotify.com/artist/3ydcLRbuZuZx3rKKemnwhJ) | [cut from the bone](https://open.spotify.com/album/4yW8gd4tH4deGeKBzqjOED) | 3:55 | 2025-03-21 |  |
 | [cycles](https://open.spotify.com/track/7pfAhhNbQD8EeZTKe0UlDQ) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [cycles](https://open.spotify.com/album/1GP3WFSskoifnXJIRymQtn) | 1:58 | 2026-11-14 |  |
 | [damaged](https://open.spotify.com/track/1x2ScRjHucB3DnfPjUhWrk) | [kurisu.](https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM) | [damaged](https://open.spotify.com/album/6bNd1c6xO9xFLUlbirmQBc) | 2:05 | 2025-09-05 | 2026-01-03 |
+| [damaged \- slowed + reverb](https://open.spotify.com/track/3AOgMlXUrYIDnKXkm66VQG) | [kurisu.](https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM) | [damaged \(slowed + reverb\)](https://open.spotify.com/album/0sYvttzP9do97Q16hMaQwM) | 2:20 | 2026-11-23 |  |
 | [dancing in the void](https://open.spotify.com/track/4vPK9uxYEM6LrIDVbKiOg5) | [no\_data](https://open.spotify.com/artist/6WVuLnZPKDKWtz29KqnU95), [Nox Quarta](https://open.spotify.com/artist/34zMVLLW7mJclM2z8u8Lm6) | [human error](https://open.spotify.com/album/1ZgIOm26Sc6dvBfuNwxHN8) | 2:34 | 2025-08-02 |  |
 | [dancing in the void](https://open.spotify.com/track/3KY30oJwcoZLL0LDxMDCqT) | [Nox Quarta](https://open.spotify.com/artist/34zMVLLW7mJclM2z8u8Lm6), [no\_data](https://open.spotify.com/artist/6WVuLnZPKDKWtz29KqnU95) | [dancing in the void](https://open.spotify.com/album/40GWWludTyOebD2QQprRx4) | 2:34 | 2025-06-20 |  |
 | [dark art](https://open.spotify.com/track/1ezCU2Bxrbu8AfQTvvo18i) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [dark art](https://open.spotify.com/album/2hX36cYShpExQVw0i1fZtg) | 1:35 | 2026-02-14 |  |
@@ -687,6 +688,7 @@
 | [noclipped](https://open.spotify.com/track/501wHSjq1TaT0b1zGCpFOT) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [noclipped](https://open.spotify.com/album/3fuJ0x3bo5I4amCpzavOib) | 1:25 | 2026-06-19 |  |
 | [noctiluca](https://open.spotify.com/track/0IsicxXe0F0KEX0IGbmNkZ) | [Headphone Activist](https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk) | [noctiluca](https://open.spotify.com/album/6ufwHPH1OLXwVIoCu6sLdx) | 2:12 | 2025-02-21 |  |
 | [nocturnal lullaby](https://open.spotify.com/track/1DM9zA0MD0HnqBZT32xCSx) | [Bluegaze](https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM) | [nocturnal lullaby](https://open.spotify.com/album/1bG1Eyr2nyutEmPzfv1Tbl) | 2:14 | 2026-10-08 |  |
+| [noise](https://open.spotify.com/track/0fBdasTdX0SvSLxWSAcUnU) | [empty street](https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X) | [noise](https://open.spotify.com/album/709A55hnlqvFImbw68Ndds) | 1:39 | 2026-11-23 |  |
 | [nomad](https://open.spotify.com/track/3ZJEyY5LI4bwiqZEZD1AZD) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Dean Korso](https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx), [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb), [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ) | [Samsara Passengers](https://open.spotify.com/album/1ZO0FfO35vAA2Z6Qnp2xEC) | 2:34 | 2025-08-22 |  |
 | [nostalgia 16](https://open.spotify.com/track/6SQUTfGqJ6xo0P9aSzcBNx) | [ID10](https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX) | [nostalgia 16](https://open.spotify.com/album/1MZ85JZRgBCvy7IrtFKVAU) | 1:30 | 2026-08-01 |  |
 | [nostalgia blocks](https://open.spotify.com/track/30a1Do9MYO0H39Sy7rnuGi) | [SadMehr](https://open.spotify.com/artist/5xV4zB24n76iArYMFMFbSQ) | [nostalgia blocks](https://open.spotify.com/album/5tS4LwCZNQPIbm8OxRd5St) | 1:38 | 2025-06-20 | 2026-01-03 |
@@ -967,7 +969,7 @@
 | [those days were beautiful](https://open.spotify.com/track/2IZHegG9khVH5vgvDxxKUv) | [nØtexist](https://open.spotify.com/artist/6sFI7g0y6nDykIhAn6r1UX) | [those days were beautiful](https://open.spotify.com/album/1CqkWyEzD6xe7lxXzO942R) | 2:16 | 2025-04-25 |  |
 | [thoughtlife](https://open.spotify.com/track/5S08kuquOfSPvfsUQC5qBI) | [since 1993](https://open.spotify.com/artist/4wlPCsRxw2NDDcpNZYKiv2) | [thoughtlife](https://open.spotify.com/album/4oMBrguA7nKLKcXFvn7126) | 2:59 | 2025-08-15 |  |
 | [thresholds](https://open.spotify.com/track/1AWRHDnpNHCvzEiI5YrifB) | [statika](https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83) | [thresholds](https://open.spotify.com/album/0mfydTsiXymcPgwrxoEhHu) | 1:22 | 2025-08-08 |  |
-| [throes of compassion](https://open.spotify.com/track/1ba8TeZtAElOs0s9CxPzR5) | [nœm.](https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE), [dreamveil](https://open.spotify.com/artist/2rS07JNfWaQ1W4R83bM6HW) | [throes of compassion](https://open.spotify.com/album/3VGgJobvRTrh5AGMlUbQTq) | 3:04 | 2026-11-21 |  |
+| [throes of compassion](https://open.spotify.com/track/1ba8TeZtAElOs0s9CxPzR5) | [nœm.](https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE), [dreamveil](https://open.spotify.com/artist/0F2gYjk0T59nQZiJUgogLa) | [throes of compassion](https://open.spotify.com/album/3VGgJobvRTrh5AGMlUbQTq) | 3:04 | 2026-11-21 |  |
 | [through my childhood eyes](https://open.spotify.com/track/2zSRjTKmcat7DyP0InAwgK) | [Child Of The Clouds](https://open.spotify.com/artist/4HYMCcgMtKwY5yvQwNQwRm) | [through my childhood eyes](https://open.spotify.com/album/0kQLCft1NX7nyclwKUqO08) | 2:22 | 2025-07-19 | 2026-01-03 |
 | [thunderstorm](https://open.spotify.com/track/5Lrr58B8NY4aHUM95obUln) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [thunderstorm](https://open.spotify.com/album/2T8GUggfRJ83OVQ0UnlBB5) | 1:20 | 2026-10-11 |  |
 | [till eternity](https://open.spotify.com/track/7A0MI7RMJQcDuaVDu15QeP) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [ambient furniture vol\. 1](https://open.spotify.com/album/67UXMf6wcWrn6t8tkRDukq) | 1:23 | 2026-10-11 |  |
@@ -996,6 +998,7 @@
 | [unsolemn promise](https://open.spotify.com/track/4fU7j3NeFmeuTEatABrUUm) | [Soli2ude](https://open.spotify.com/artist/7ubxVOWczeDrGXewrxeNpu) | [broken dreams](https://open.spotify.com/album/5meV7MUTXITWkvikfkZnpN) | 1:56 | 2025-05-02 |  |
 | [unspoken](https://open.spotify.com/track/5CxzPHrtk5pQXq5ZAnQ6O4) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [unspoken](https://open.spotify.com/album/2KNJMI0QjBl1H7Lc0muJP8) | 2:50 | 2026-11-01 |  |
 | [unspoken](https://open.spotify.com/track/6CkShYe5Qi2qPfOeV9ogPo) | [fauxe.](https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo) | [unspoken](https://open.spotify.com/album/7HurMZ7kymQNAzUQjVt0gQ) | 1:38 | 2025-11-29 | 2026-01-03 |
+| [unstable](https://open.spotify.com/track/4Mxcx5LfOwYBoYrsdMEbbS) | [still surface](https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs) | [unstable](https://open.spotify.com/album/47JtznOkHu5gwQE4JGDsIc) | 1:30 | 2026-11-23 |  |
 | [until next time](https://open.spotify.com/track/2HFRD9owd4d18aq0evWsMl) | [am i enough?](https://open.spotify.com/artist/3M0I86wB1L5uM8YW2T6gHz), [nohssiwi](https://open.spotify.com/artist/4CVCzMtPgCV07un7s3Ehbt) | [until next time](https://open.spotify.com/album/0RG9A4QG9aUf2AqECEC5EI) | 2:12 | 2026-11-14 |  |
 | [unwanted](https://open.spotify.com/track/33B9d8tg28EQNWxt6ezAsE) | [lønelyspirit](https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih), [idontno](https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49) | [unwanted](https://open.spotify.com/album/1h9zWaaXT6pP3VgDbLf4xF) | 1:53 | 2025-10-31 | 2026-01-03 |
 | [us](https://open.spotify.com/track/0OBJ53WhzOJJvpS7YtOvUT) | [Kub0](https://open.spotify.com/artist/1G0DoICczjBpWjARx4g1yO) | [us](https://open.spotify.com/album/5caUioejM7Iqsswa47Takg) | 2:02 | 2025-04-04 |  |

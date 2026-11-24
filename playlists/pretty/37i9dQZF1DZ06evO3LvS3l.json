@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 29325,
+  "num_followers": 29330,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAABmvBOxM98AXLjPSwW9HoVo",
+  "snapshot_id": "awIwgAAAAAAegTfhJG3tNqRB2UkEyrZt",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Got Something to Say",
-        "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Hank Williams Junior-Junior",
-      "url": "https://open.spotify.com/track/1fiPB8rWT31z8it5R8V6Hv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 219306,
       "name": "Mona Lisa Lost Her Smile",
       "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Got Something to Say",
+        "url": "https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Hank Williams Junior-Junior",
+      "url": "https://open.spotify.com/track/1fiPB8rWT31z8it5R8V6Hv"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe Sings Merle Haggard",
-        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mysterious Rhinestone Cowboy",
         "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 135226,
       "name": "(If I Could Climb) The Walls of the Bottle",
       "url": "https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Allan Coe Sings Merle Haggard",
+        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
     },
     {
       "added_at": null,

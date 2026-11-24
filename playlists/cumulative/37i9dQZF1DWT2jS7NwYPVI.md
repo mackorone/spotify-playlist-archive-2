@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Madra Salach
 
-4,471 songs - 10 day 1 hr 36 min
+4,473 songs - 10 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,6 +900,7 @@
 | [DADDY DON'T CRY](https://open.spotify.com/track/7E3IYir0rWx6Y2f8ypZW6s) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:34 | 2026-03-24 | 2026-06-13 |
 | [DADDY ISSUES](https://open.spotify.com/track/2CuZa66yQSugnSois0olvc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [DADDY ISSUES](https://open.spotify.com/album/5F5rHnb4EcEaNsED77jMt0) | 2:25 | 2022-04-29 | 2022-05-14 |
 | [daddy of mine](https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [daddy of mine](https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN) | 2:24 | 2024-04-05 | 2024-04-19 |
+| [Dainty Flower Song](https://open.spotify.com/track/3hMcwwnatAWMmDfcD3r1z2) | [Holidays in United States](https://open.spotify.com/artist/4Hx2EMq5CumzokenbyEcSM) | [How to Count to Five](https://open.spotify.com/album/336ZRfgCtvRuRPp0THNrYJ) | 4:06 | 2026-11-23 |  |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-08-26 | 2022-09-24 |
 | [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 | 2024-02-09 | 2024-04-06 |
 | [Damp](https://open.spotify.com/track/2xitvOthYS3nfCrW6aoY4Z) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Damp](https://open.spotify.com/album/346ARwCkck8Ir70t3cyxaJ) | 5:37 | 2026-01-16 | 2026-03-07 |
@@ -4309,6 +4310,7 @@
 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 | 2026-05-08 | 2026-06-13 |
 | [Whatever I Want](https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Whatever I Want](https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP) | 2:47 | 2024-04-12 | 2024-07-13 |
 | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/album/3tUsrj0Qe62M6wz71Ulbh0) | 2:24 | 2024-04-19 | 2024-06-15 |
+| [Whatever You Want](https://open.spotify.com/track/5tTbRCNaDmEmi1SjMEb42k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Whatever You Want](https://open.spotify.com/album/2bQUBit5DReqFgaXk4gSd0) | 5:23 | 2026-11-23 |  |
 | [What’s Done is Done](https://open.spotify.com/track/4Gnn0gDHzMFRNx5DmX6gK8) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What's Done is Done](https://open.spotify.com/album/2ePmaLxFwdudLmUSj8eMwr) | 3:30 | 2022-03-25 | 2022-06-04 |
 | [What’s It Take To Be Happy?](https://open.spotify.com/track/36ctXtkmh0ot5PTBhlr9vJ) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [What’s It Take To Be Happy?](https://open.spotify.com/album/2gqKXGj4NkMH4FdrXviY9x) | 3:20 | 2022-09-23 | 2022-11-05 |
 | [What’s Right?](https://open.spotify.com/track/2YXDguAdOrvWYIwbPjvAkA) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [What’s Right?](https://open.spotify.com/album/0LFDTByH4Mbn5PbBGMPkJO) | 5:14 | 2025-12-05 | 2026-03-28 |

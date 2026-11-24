@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-633 songs - 1 day 14 hr 20 min
+635 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1969](https://open.spotify.com/track/6Qab6S5q4yUxgRdXkZa0xr) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [1969 \(Remastered 2024\)](https://open.spotify.com/album/514Bco4YigBzdv8bAk9kHP) | 3:30 | 2024-12-24 |  |
 | [1ne](https://open.spotify.com/track/4GbahnbbVLTfUcHnFurgkS) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP) | [Songs of Repetition](https://open.spotify.com/album/7gnvkbbUp2aazXJg53fB6L) | 4:11 | 2026-09-23 |  |
 | [2do Viaje](https://open.spotify.com/track/25djH1btNHSWHLsbgFBFov) | [El viaje de la vieja](https://open.spotify.com/artist/28CwZaIjKtZ3GSdjt0PDxe) | [2do Viaje](https://open.spotify.com/album/1Kdktvltlmz9s0kF1xZJyA) | 5:54 | 2024-03-01 |  |
+| [48 horas](https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm) | [Ángel Valor](https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6) | [48 horas](https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki) | 4:02 | 2026-11-23 |  |
 | [4wd](https://open.spotify.com/track/4RANy9uIB9kJ16JB45uRT5) | [Tricia Ann Band](https://open.spotify.com/artist/0yoFOKSX6lL2lPSxPiMpIO) | [Drunk & Found](https://open.spotify.com/album/76448blzoa2GmYMpdK2P78) | 3:46 | 2024-10-25 |  |
 | [90 Seconds To Midnight](https://open.spotify.com/track/2AiR5oaCmZX5pEQwZda4IY) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [90 Seconds To Midnight](https://open.spotify.com/album/2rzgXrtLDm0MSy1xCns9yV) | 2:36 | 2025-03-26 |  |
 | [A Big Teaser](https://open.spotify.com/track/7wrKZT9Btt3j6szU0UVQYe) | [Ocean Room](https://open.spotify.com/artist/3QBXAmms1SRwzXG6sySlRx) | [A Big Teaser](https://open.spotify.com/album/47rHYtMbbPpZr4dWrSwiek) | 4:07 | 2025-03-24 |  |
@@ -24,6 +25,7 @@
 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 | 2026-06-15 |  |
 | [Acto 2: Pesadillas del letargo profundo](https://open.spotify.com/track/4LViyri2fMEARSx0xuhKNi) | [El viaje de la vieja](https://open.spotify.com/artist/28CwZaIjKtZ3GSdjt0PDxe) | [LADO A: Horizonte de sucesos](https://open.spotify.com/album/7ntUvN7BCJMPWGHjNA7NET) | 6:30 | 2024-06-15 |  |
 | [Ada](https://open.spotify.com/track/7ADfAfJQ3wMrFUqTi2BlWp) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Silvia Criscenzo](https://open.spotify.com/artist/2SQ9c93eTJgZdHDN8Kmej3) | [Ada \(featuring Silvia Criscenzo\)](https://open.spotify.com/album/48s2lj6AckGnp8EJa2GKzb) | 4:18 | 2024-10-03 |  |
+| [After The Show](https://open.spotify.com/track/2HMHJeKnIKUvVwvysbtW5r) | [Wayward Gnome](https://open.spotify.com/artist/5OGoDjttAfogU4Z7ymyhPd) | [A Wonderful Illusion](https://open.spotify.com/album/01lWggP5JEQhoLd6yOmzyk) | 4:49 | 2026-11-23 |  |
 | [aisle two](https://open.spotify.com/track/6x6BsNnNA4TBufdxMKzVGf) | [Lorenzo Meli](https://open.spotify.com/artist/0Fa2S0OGEqwt7dls6AQgdk) | [AM I WASTING MY TIME?](https://open.spotify.com/album/2l71e7iDnvHRYCoPluoJwH) | 3:59 | 2024-10-03 |  |
 | [Aliens](https://open.spotify.com/track/6NrZQt8fMSkBreavMKGrpe) | [NO€HOT](https://open.spotify.com/artist/1zxmwNRv84ma9j6rCgONqs) | [Aliens](https://open.spotify.com/album/329tuNbpBbtMV9LwkteQ4P) | 3:16 | 2023-02-24 |  |
 | [All and More](https://open.spotify.com/track/1ngiHL22pGr1hxckcrRRnt) | [The New Black Diamonds](https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67) | [All and More](https://open.spotify.com/album/5jcPWRUedaw9e7mbUF40HH) | 3:48 | 2026-11-16 |  |

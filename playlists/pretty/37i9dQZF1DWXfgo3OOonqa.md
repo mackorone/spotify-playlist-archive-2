@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,210 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,176 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,20 +12,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 2 | [Pretty Girls](https://open.spotify.com/track/574QVsUAURp18pDY6vWHsg) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Pretty Girls](https://open.spotify.com/album/0LYJEgEheO8Q7HGZvE3Zw8) | 2:33 |
 | 3 | [Mia salvezza](https://open.spotify.com/track/1hzfBimLG6wYrZX8M6ugg8) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Mia salvezza](https://open.spotify.com/album/7HWOF9ZYh8LWaeRhvJcNMB) | 3:07 |
 | 4 | [Ma Luna](https://open.spotify.com/track/7oASECnDogzGWgVL3bRulT) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Ma Luna](https://open.spotify.com/album/3dhO5T1fYHWoqP5Kv9EI7n) | 2:23 |
-| 5 | [Mata shooters med adresser](https://open.spotify.com/track/6Li9B5Tv7lm8bpaqgohVYB) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Mata shooters med adresser](https://open.spotify.com/album/0aNXft4XTBZ5f50kkgh4pl) | 2:48 |
-| 6 | [STRATEGISK](https://open.spotify.com/track/39MAq2zMjKuroVyhlSSzco) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [STRATEGISK](https://open.spotify.com/album/63ABTPhFfSeUFy7Xo25YFh) | 2:36 |
+| 5 | [STRATEGISK](https://open.spotify.com/track/39MAq2zMjKuroVyhlSSzco) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [STRATEGISK](https://open.spotify.com/album/63ABTPhFfSeUFy7Xo25YFh) | 2:36 |
+| 6 | [Mata shooters med adresser](https://open.spotify.com/track/6Li9B5Tv7lm8bpaqgohVYB) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Mata shooters med adresser](https://open.spotify.com/album/0aNXft4XTBZ5f50kkgh4pl) | 2:48 |
 | 7 | [Lacazette](https://open.spotify.com/track/4zh6AndKhvOPPFOj18du84) | [IRMÃO](https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp), [4Key](https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z) | [Lacazette](https://open.spotify.com/album/6FobqbG9DiWowFOufGur5H) | 2:29 |
 | 8 | [PÅ TAL](https://open.spotify.com/track/4MC0mWfqdZFtDjL58kmOwA) | [NAJA](https://open.spotify.com/artist/33uFHiOai4JTSOxXv3WfoV) | [PÅ TAL](https://open.spotify.com/album/2fjL4SEyGkGSzawIn8nU9M) | 2:50 |
 | 9 | [S.O.M](https://open.spotify.com/track/1Il3TC8VQ0UWykq98sUKRk) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [S.O.M](https://open.spotify.com/album/0oDIVvwdzL2iMbIcfKPaxs) | 2:24 |
 | 10 | [RIHANNA](https://open.spotify.com/track/1CA2crSAJC4ruHfe6DSpXO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [RIHANNA](https://open.spotify.com/album/6r0lNQnhAfzVxuZQLCEbpW) | 2:42 |
 | 11 | [Best Friend](https://open.spotify.com/track/2TzjA3qHv43wyFsphWw5w6) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Best Friend](https://open.spotify.com/album/55qRlhEeKoVzFTuDVKvcSw) | 1:59 |
 | 12 | [Ledlights](https://open.spotify.com/track/1j9VeUnC9vx7SJeEvbyRZT) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Ledlights](https://open.spotify.com/album/561rN8bjieP1xrkT8FciTj) | 2:19 |
-| 13 | [Kontakt](https://open.spotify.com/track/4jYQGVrdWW9zDLWZ1Ftd1B) | [3Z](https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei) | [Kontakt](https://open.spotify.com/album/5bBGv5ah2miczSc22w35wG) | 2:09 |
-| 14 | [X](https://open.spotify.com/track/77eJVyYbUiHtvDj8iZAWqa) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [X](https://open.spotify.com/album/3hOXHMvLKw3iCuJI4yuUCL) | 2:08 |
-| 15 | [NÄR VIE TVÅ](https://open.spotify.com/track/6NRUbUoqDviUVKKJpwcnPj) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [NÄR VIE TVÅ](https://open.spotify.com/album/3Te3aqblmvXwkCpx45jhap) | 2:23 |
-| 16 | [ASKA](https://open.spotify.com/track/1MEDHW29tFRuLeUZzpI89M) | [Rey](https://open.spotify.com/artist/1OnKTCsLp726mUu8dUC0tF) | [ASKA](https://open.spotify.com/album/0EP9Y59Ayl6tiW79UKHWh8) | 2:08 |
-| 17 | [C LAVI](https://open.spotify.com/track/5B15szla5wyq3e3Bwt7e3X) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [YAP.](https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp) | 2:37 |
-| 18 | [Cariño](https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 2:01 |
+| 13 | [NÄR VIE TVÅ](https://open.spotify.com/track/6NRUbUoqDviUVKKJpwcnPj) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [NÄR VIE TVÅ](https://open.spotify.com/album/3Te3aqblmvXwkCpx45jhap) | 2:23 |
+| 14 | [Cariño](https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & Brott](https://open.spotify.com/album/3uJLLV1uIsILuh6KWFj78V) | 2:01 |
+| 15 | [Kontakt](https://open.spotify.com/track/4jYQGVrdWW9zDLWZ1Ftd1B) | [3Z](https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei) | [Kontakt](https://open.spotify.com/album/5bBGv5ah2miczSc22w35wG) | 2:09 |
+| 16 | [X](https://open.spotify.com/track/77eJVyYbUiHtvDj8iZAWqa) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [X](https://open.spotify.com/album/3hOXHMvLKw3iCuJI4yuUCL) | 2:08 |
+| 17 | [ASKA](https://open.spotify.com/track/1MEDHW29tFRuLeUZzpI89M) | [Rey](https://open.spotify.com/artist/1OnKTCsLp726mUu8dUC0tF) | [ASKA](https://open.spotify.com/album/0EP9Y59Ayl6tiW79UKHWh8) | 2:08 |
+| 18 | [C LAVI](https://open.spotify.com/track/5B15szla5wyq3e3Bwt7e3X) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [YAP.](https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp) | 2:37 |
 | 19 | [EN OCH EN](https://open.spotify.com/track/75h6kK6Z18IAipT2L53n2F) | [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [PARKEN OCH HUSBY](https://open.spotify.com/album/0WCpUZuKppgxxH39nAVqJl) | 2:05 |
 | 20 | [GHETTO STARZ](https://open.spotify.com/track/3cbLD0qAzfnZmVWcvJoiC6) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [GUD SER ALLT](https://open.spotify.com/album/4oUBBcyybAZgqhgtRfDD5n) | 2:19 |
 | 21 | [Jag Är](https://open.spotify.com/track/0pGMhNjIiLOBvvWPblXMTp) | [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Jag Är](https://open.spotify.com/album/1D4DYGXJSCSJuTZVsQykAj) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [pompeii](https://open.spotify.com/track/5Zoojk4bL1IuEtIXMAPcQz) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [pompeii](https://open.spotify.com/album/7EA5RpqKTYnM3LL1Hg4Khp) | 2:42 |
 | 100 | [Mademoiselle](https://open.spotify.com/track/0oZSUWZPd5EXeCE0ATO1k0) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Mademoiselle](https://open.spotify.com/album/0Ewz2TsfYNkbm9XtlaPNDq) | 2:27 |
 
-Snapshot ID: `AAAAAMOt5VqfM2nyx2RWGoineD78ocoO`
+Snapshot ID: `AAAAAJ3IpTZsVhKqwygXcKoJ9NHdUIYG`

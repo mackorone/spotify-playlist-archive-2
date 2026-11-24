@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Oreozin
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,608 likes - 75 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,566 likes - 75 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [TWEAKIN](https://open.spotify.com/track/1uilboMjT1qdFjTkxAC1EJ) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [loonyjetski](https://open.spotify.com/artist/1TPQ578HtBYpfgpzNJIs93) | [ELAS <3 808s](https://open.spotify.com/album/6e6XVIIDDsPJulWsvSxs8w) | 1:24 |
 | 75 | [Burberry](https://open.spotify.com/track/7ua0E8uKCFN1TsWc9opt2u) | [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [aknine9shawty](https://open.spotify.com/artist/6cOFvudPRQRxUpILJpHTyt), [wav.isaac](https://open.spotify.com/artist/6lejqAAmk3AoEgCgjyTPiC) | [Cicatrizes, Vol\. 1](https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl) | 2:55 |
 
-Snapshot ID: `AAAAAD8EgqOiuwV2IUG9o4wWseYJSD+K`
+Snapshot ID: `AAAAAOfXAEMp6w/AclrbVbbwOOaD8k00`

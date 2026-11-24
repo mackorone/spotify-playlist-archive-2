@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> Celebrating all the songs with over a Billion streams on Spotify\. Cover: Eminem
+> Celebrating all the songs with over a Billion streams on Spotify\. Cover: Selena Gomez
 
 1,558 songs - 3 day 23 hr 9 min
 

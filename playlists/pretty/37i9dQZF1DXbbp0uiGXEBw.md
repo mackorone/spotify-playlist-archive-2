@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Bảo Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,215 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,217 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [TÌNH TAN](https://open.spotify.com/track/07b1x3vD5fbLUuVWUCrmH0) | [MAIQUINN](https://open.spotify.com/artist/1ahlgMVhWA7BuUq755IoGZ) | [TÌNH TAN](https://open.spotify.com/album/0HgneEdIWACSD3h3NYecf2) | 4:01 |
 | 50 | [Thầy Dùi](https://open.spotify.com/track/3GNRzMvOoYa5B6zNrCflIy) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Thầy Dùi](https://open.spotify.com/album/4xsY1xvMaeILGo4Hkrxyaj) | 2:48 |
 
-Snapshot ID: `AAAAAE89vo7fHah3/KIWCEGa+DniytD1`
+Snapshot ID: `AAAAALJsXrlK7NjhJackesBWfIDZNoOq`

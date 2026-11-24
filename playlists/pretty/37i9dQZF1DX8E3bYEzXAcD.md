@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 > "Ik draag geen handtjoeroes, bloten handen op die pijp\. Pakkoes in je straat ik ben diegene die die gast vermijd" \-KLEPPER
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,062 likes - 40 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,084 likes - 40 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 | 4 | [BEKIJK HET](https://open.spotify.com/track/7ww8ambKhWX4d5YZ7KtdS3) | [Ysavv](https://open.spotify.com/artist/1mloPWSzK1ktjXszZhg6Jn) | [BEKIJK HET](https://open.spotify.com/album/7zolsjYC9kPgXPwPOcyv5y) | 2:14 |
 | 5 | [Yolo](https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 3:24 |
 | 6 | [Diep ‘R In](https://open.spotify.com/track/1AWWBS0jo8xD2nX5kBDMFa) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:13 |
-| 7 | [Wat Gaat](https://open.spotify.com/track/3zVYfCzJ7PPvshOl1Lt0vi) | [PB](https://open.spotify.com/artist/6az4M83MZIelLYgaCKe6Rq) | [Wat Gaat](https://open.spotify.com/album/2aaK8lpaj2jLzU0RQ9CQD1) | 2:05 |
-| 8 | [Sel3a Money](https://open.spotify.com/track/30MxZg09HHybWP0VMuACr1) | [Iliass](https://open.spotify.com/artist/2odjh53kLQBRUy7hi97EZL) | [Sel3a Money](https://open.spotify.com/album/15OKfnir5TmKU9t4ZV8Lrw) | 2:25 |
-| 9 | [Maffia Rap](https://open.spotify.com/track/4CEoXJsqsdlAKzULXJqttA) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Maffia Rap](https://open.spotify.com/album/4Fqx17uV0ZIruAPMO4uey6) | 1:59 |
-| 10 | [Safi](https://open.spotify.com/track/5rLme8r9UjeQgmgcBiMYKc) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Safi](https://open.spotify.com/album/0Sg8Q8EKjRcD9uXPIL70yK) | 3:24 |
-| 11 | [STRAAT VAN HORMUZ](https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [STRAAT VAN HORMUZ](https://open.spotify.com/album/4Icu867uMbpG2Kq7R0EYIh) | 3:16 |
-| 12 | [Zak Je Toon](https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Zak Je Toon](https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar) | 2:05 |
-| 13 | [FF TERUG](https://open.spotify.com/track/0KxUxkxhBwFJaPSZxQkOB1) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [FF TERUG](https://open.spotify.com/album/3OvaKp5a4jLDpIt9pGseaT) | 4:12 |
+| 7 | [Sel3a Money](https://open.spotify.com/track/30MxZg09HHybWP0VMuACr1) | [Iliass](https://open.spotify.com/artist/2odjh53kLQBRUy7hi97EZL) | [Sel3a Money](https://open.spotify.com/album/15OKfnir5TmKU9t4ZV8Lrw) | 2:25 |
+| 8 | [Maffia Rap](https://open.spotify.com/track/4CEoXJsqsdlAKzULXJqttA) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Maffia Rap](https://open.spotify.com/album/4Fqx17uV0ZIruAPMO4uey6) | 1:59 |
+| 9 | [Safi](https://open.spotify.com/track/5rLme8r9UjeQgmgcBiMYKc) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Safi](https://open.spotify.com/album/0Sg8Q8EKjRcD9uXPIL70yK) | 3:24 |
+| 10 | [STRAAT VAN HORMUZ](https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [STRAAT VAN HORMUZ](https://open.spotify.com/album/4Icu867uMbpG2Kq7R0EYIh) | 3:16 |
+| 11 | [Zak Je Toon](https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Zak Je Toon](https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar) | 2:05 |
+| 12 | [FF TERUG](https://open.spotify.com/track/0KxUxkxhBwFJaPSZxQkOB1) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [FF TERUG](https://open.spotify.com/album/3OvaKp5a4jLDpIt9pGseaT) | 4:12 |
+| 13 | [Wat Gaat](https://open.spotify.com/track/3zVYfCzJ7PPvshOl1Lt0vi) | [PB](https://open.spotify.com/artist/6az4M83MZIelLYgaCKe6Rq) | [Wat Gaat](https://open.spotify.com/album/2aaK8lpaj2jLzU0RQ9CQD1) | 2:05 |
 | 14 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 |
 | 15 | [Spoedassistentie](https://open.spotify.com/track/581t1W6xIiTafsksdcSbi9) | [BVL](https://open.spotify.com/artist/0uh9dHfZu6d53AyFVaFolJ) | [Spoedassistentie](https://open.spotify.com/album/3Ptv43L9PQuODramS9VNXF) | 2:07 |
 | 16 | [Ff Ademen Jij](https://open.spotify.com/track/5yPIA6mDRsj6OcxTSQiXbG) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Ff Ademen Jij](https://open.spotify.com/album/2Otz8y5xUmSqZEFy48xliH) | 2:42 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 | 39 | [100 Doezoe Cash](https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [100 Doezoe Cash](https://open.spotify.com/album/3jPB66A5yQ1zi6gwwnRlrb) | 3:14 |
 | 40 | [SUPREME](https://open.spotify.com/track/5quw3QXbs7SPmC1bUkHzp7) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [SUPREME](https://open.spotify.com/album/1h4e2OXH9T9Hb2cHLvC4E7) | 2:12 |
 
-Snapshot ID: `AAAAAEWhiRycUkwApB+FVgAY8V6OhW8s`
+Snapshot ID: `AAAAANh1k6n6Z2KwfaSFTxpfg0keXkQn`

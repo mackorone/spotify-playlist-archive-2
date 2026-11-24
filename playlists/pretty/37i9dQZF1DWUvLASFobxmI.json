@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Eley Romero, Los Primos del Este en portada.",
-  "num_followers": 532725,
+  "num_followers": 532734,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHkPqPw5+nrrXNGD5CNHJnNRjROE",
+  "snapshot_id": "AAAAAFKl2Nq7/oxeb5b4A8RPh0R+fdVc",
   "tracks": [
     {
       "added_at": "2026-11-20 05:02:07",
@@ -559,6 +559,26 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Todo A Su Tiempo",
+        "url": "https://open.spotify.com/album/0paxAZv2h2ap8Kv61MCJrL"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Todo A Su Tiempo",
+      "url": "https://open.spotify.com/track/0g94TT5XsEYmvgw1Eb7dvf"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 129802,
       "name": "TREMENDA",
       "url": "https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "Todo A Su Tiempo",
-        "url": "https://open.spotify.com/album/0paxAZv2h2ap8Kv61MCJrL"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Todo A Su Tiempo",
-      "url": "https://open.spotify.com/track/0g94TT5XsEYmvgw1Eb7dvf"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Pero Me Da\u00f1aste",
+        "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "duration_ms": 214805,
+      "name": "Pero Me Da\u00f1aste",
+      "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "Desde El Ensayo Vol.1",
         "url": "https://open.spotify.com/album/020HUblc2diWXTsCKgPrBn"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Pero Me Da\u00f1aste",
-        "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
+        "name": "El error de mi vida",
+        "url": "https://open.spotify.com/album/5fm7P0aasIZKpexFPd7Uct"
       },
       "artists": [
         {
-          "name": "Ilusion Eterno",
-          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 214805,
-      "name": "Pero Me Da\u00f1aste",
-      "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
+      "duration_ms": 190714,
+      "name": "El error de mi vida",
+      "url": "https://open.spotify.com/track/01fgPfRLD5PzzLsMYPNmpq"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -899,22 +915,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "El error de mi vida",
-        "url": "https://open.spotify.com/album/5fm7P0aasIZKpexFPd7Uct"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "El error de mi vida",
-      "url": "https://open.spotify.com/track/01fgPfRLD5PzzLsMYPNmpq"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "No Te Conformaste",
         "url": "https://open.spotify.com/album/7r5bX1vosW6xWD75VlaVZa"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 167578,
       "name": "No Te Conformaste",
       "url": "https://open.spotify.com/track/3nbNQAfg9ADEgFrDrpcqjz"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Par De Anillos",
+        "url": "https://open.spotify.com/album/3gJDF6tJujCCnwoCwYuAXA"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 261480,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/2WF1ok74LRJqUkrdBmrUBF"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -947,22 +963,6 @@
       "duration_ms": 229103,
       "name": "La Loteria",
       "url": "https://open.spotify.com/track/19O9uQaDRYRfdHO8tyv7CF"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "Par De Anillos",
-        "url": "https://open.spotify.com/album/3gJDF6tJujCCnwoCwYuAXA"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 261480,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/2WF1ok74LRJqUkrdBmrUBF"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/4emygeQsd3AuXrws7SxZ4E"
-      },
-      "artists": [
-        {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
-        },
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "Rosas Blancas",
-      "url": "https://open.spotify.com/track/4xnKUESYwcugJSEGgZ6sPv"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Viejos Tiempos",
         "url": "https://open.spotify.com/album/2kXVZ9atw5dK5SPUMUNmgy"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 156361,
       "name": "Amigazo",
       "url": "https://open.spotify.com/track/693i3LEysJ9hk15mlFODy0"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/4emygeQsd3AuXrws7SxZ4E"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        },
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "Rosas Blancas",
+      "url": "https://open.spotify.com/track/4xnKUESYwcugJSEGgZ6sPv"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
+        "name": "Winnona (En Vivo)",
+        "url": "https://open.spotify.com/album/0XM0BJd8VumwB5PqK9q9nb"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 178131,
+      "name": "Winnona - En Vivo",
+      "url": "https://open.spotify.com/track/3ueVAvDGVTXD3AVoFa0cKM"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
         "name": "Millonario",
         "url": "https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF"
       },
@@ -1235,38 +1251,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Arreando La Mula",
-        "url": "https://open.spotify.com/album/2x26HGEeH9nmBf7LBKxYJb"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors de La Monta\u00f1a",
-          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
-        }
-      ],
-      "duration_ms": 142805,
-      "name": "Arreando La Mula",
-      "url": "https://open.spotify.com/track/2BN0gS4aqT6yFywU0kezjj"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
-        "name": "Winnona (En Vivo)",
-        "url": "https://open.spotify.com/album/0XM0BJd8VumwB5PqK9q9nb"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 178131,
-      "name": "Winnona - En Vivo",
-      "url": "https://open.spotify.com/track/3ueVAvDGVTXD3AVoFa0cKM"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2WXsvMiFncj9BhHYno6o37"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 173139,
       "name": "Morena",
       "url": "https://open.spotify.com/track/2xod9rBzAKPNUlrg0qivru"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Arreando La Mula",
+        "url": "https://open.spotify.com/album/2x26HGEeH9nmBf7LBKxYJb"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors de La Monta\u00f1a",
+          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
+        }
+      ],
+      "duration_ms": 142805,
+      "name": "Arreando La Mula",
+      "url": "https://open.spotify.com/track/2BN0gS4aqT6yFywU0kezjj"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "PELIBLACK",
-        "url": "https://open.spotify.com/album/0Ytf6G19OsC3e8PQWtkRwN"
+        "name": "Viejo Lobo",
+        "url": "https://open.spotify.com/album/7yLt4YEx80DQFB6z8vUSez"
       },
       "artists": [
         {
-          "name": "Los Juniors de La Monta\u00f1a",
-          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
+          "name": "Bobby Castro",
+          "url": "https://open.spotify.com/artist/4ihFcvdNSlB6Likn7JXeuO"
+        },
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         }
       ],
-      "duration_ms": 113824,
-      "name": "PELIBLACK",
-      "url": "https://open.spotify.com/track/3Sm7LzlMDOR19M9IH6zibS"
+      "duration_ms": 167106,
+      "name": "Viejo Lobo",
+      "url": "https://open.spotify.com/track/7Jpg3IVq0CvW27z742RW8l"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1347,22 +1351,18 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Viejo Lobo",
-        "url": "https://open.spotify.com/album/7yLt4YEx80DQFB6z8vUSez"
+        "name": "PELIBLACK",
+        "url": "https://open.spotify.com/album/0Ytf6G19OsC3e8PQWtkRwN"
       },
       "artists": [
         {
-          "name": "Bobby Castro",
-          "url": "https://open.spotify.com/artist/4ihFcvdNSlB6Likn7JXeuO"
-        },
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "Los Juniors de La Monta\u00f1a",
+          "url": "https://open.spotify.com/artist/304T5qiPITdwBthiURWORg"
         }
       ],
-      "duration_ms": 167106,
-      "name": "Viejo Lobo",
-      "url": "https://open.spotify.com/track/7Jpg3IVq0CvW27z742RW8l"
+      "duration_ms": 113824,
+      "name": "PELIBLACK",
+      "url": "https://open.spotify.com/track/3Sm7LzlMDOR19M9IH6zibS"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Tus Indirectas",
-        "url": "https://open.spotify.com/album/3PiI28abIoeM7c4hBnvoet"
-      },
-      "artists": [
-        {
-          "name": "El Cartel De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
-        }
-      ],
-      "duration_ms": 206905,
-      "name": "Tus Indirectas",
-      "url": "https://open.spotify.com/track/6rtLIc6TXIwHNzUNiDSGQT"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Vida De Vago / Amor Sin Medida / El Rancho Donde Nac\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/1cpnxdLagawUFnz6C3HE2l"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Cuesti\u00f3n Que Quieras",
-        "url": "https://open.spotify.com/album/5ufEErsLzCtHoSxFzyINTm"
+        "name": "Tus Indirectas",
+        "url": "https://open.spotify.com/album/3PiI28abIoeM7c4hBnvoet"
       },
       "artists": [
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+          "name": "El Cartel De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
         }
       ],
-      "duration_ms": 117214,
-      "name": "Cuesti\u00f3n Que Quieras",
-      "url": "https://open.spotify.com/track/1uuwJy5EJ0U9a4KF8o6TPT"
+      "duration_ms": 206905,
+      "name": "Tus Indirectas",
+      "url": "https://open.spotify.com/track/6rtLIc6TXIwHNzUNiDSGQT"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1543,6 +1527,22 @@
       "duration_ms": 260706,
       "name": "Clavado en un Bar - En Vivo",
       "url": "https://open.spotify.com/track/7GjZqPa5HDaKnI6BLgzZ2V"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Cuesti\u00f3n Que Quieras",
+        "url": "https://open.spotify.com/album/5ufEErsLzCtHoSxFzyINTm"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "duration_ms": 117214,
+      "name": "Cuesti\u00f3n Que Quieras",
+      "url": "https://open.spotify.com/track/1uuwJy5EJ0U9a4KF8o6TPT"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Romanticos",
-        "url": "https://open.spotify.com/album/5To49olSMfnzhSAdxXYPi6"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 198225,
-      "name": "Entre Golpes Y Besos",
-      "url": "https://open.spotify.com/track/4XkWzUXLNSrJ6O9o7ogVOD"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Ricardito",
         "url": "https://open.spotify.com/album/5XyfqAy8GzsSpnLUMxphF6"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 195191,
       "name": "Ricardito",
       "url": "https://open.spotify.com/track/0gYFE19wpt6M681rJzxrCy"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Romanticos",
+        "url": "https://open.spotify.com/album/5To49olSMfnzhSAdxXYPi6"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 198225,
+      "name": "Entre Golpes Y Besos",
+      "url": "https://open.spotify.com/track/4XkWzUXLNSrJ6O9o7ogVOD"
     },
     {
       "added_at": "2026-11-20 05:02:07",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-11-20 05:02:07",
       "album": {
-        "name": "Cu\u00eddame",
-        "url": "https://open.spotify.com/album/3hMYOqmzYqRCqZZIbBmI75"
-      },
-      "artists": [
-        {
-          "name": "La Edici\u00f3n de Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/1l21C7jVUnOX4SlZ9xGoeV"
-    },
-    {
-      "added_at": "2026-11-20 05:02:07",
-      "album": {
         "name": "Desde El Patio Western Club Sesi\u00f3n 3",
         "url": "https://open.spotify.com/album/1wUTw7zZx4sNQ12NfH7Dux"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 170769,
       "name": "Arrullo De Estrellas",
       "url": "https://open.spotify.com/track/6Q7eJAf0kiOv1rVY7R5eI8"
+    },
+    {
+      "added_at": "2026-11-20 05:02:07",
+      "album": {
+        "name": "Cu\u00eddame",
+        "url": "https://open.spotify.com/album/3hMYOqmzYqRCqZZIbBmI75"
+      },
+      "artists": [
+        {
+          "name": "La Edici\u00f3n de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/1l21C7jVUnOX4SlZ9xGoeV"
     },
     {
       "added_at": "2026-11-20 05:02:07",

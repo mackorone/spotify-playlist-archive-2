@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 87 songs - 4 hr 54 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 94 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,12 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 85 | [Better](https://open.spotify.com/track/6ZYeKTXvAhOQy6yZMjy3Mz) | [EAUPALE](https://open.spotify.com/artist/0Z5wtijvnNkvPNg9sf2wPq) | [Know Better](https://open.spotify.com/album/6k5Q0dzK7DylQtpG82fT8T) | 3:49 |
 | 86 | [Out of Sight Out of Mind](https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0ht4iZpWs4Jwv01e8OR0Jf) | [Out of Sight Out of Mind](https://open.spotify.com/album/09PVg8ju4pSHyVN9ZkJmwZ) | 2:31 |
 | 87 | [Money Pit](https://open.spotify.com/track/2y0w0OTbEWVDbkVCMWHUDp) | [Lotsy](https://open.spotify.com/artist/37RGp4a1NSlLj7fg1VdD3C) | [Money Pit](https://open.spotify.com/album/2rGEMwal6B7v4SsxLd6j2k) | 2:34 |
+| 88 | [Locura](https://open.spotify.com/track/5ogSNrDybORMb4zNga0cql) | [Reyez](https://open.spotify.com/artist/2KMFhaHzZyLz4g2U9TcWJe) | [Locura](https://open.spotify.com/album/5NtPP5cZSwtWNdFjmipN0c) | 3:26 |
+| 89 | [Rust](https://open.spotify.com/track/67a8xIHvOxrTtzTykAkine) | [Local Kin](https://open.spotify.com/artist/3vq4Y0KYGSp3Yowdgw9YgB) | [Rust](https://open.spotify.com/album/1lugVKNxTIMQpjEiDgvpCD) | 4:38 |
+| 90 | [Red Chairs and Horses](https://open.spotify.com/track/3JXyIg5EZU2wz0vkKT7zYZ) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Red Chairs and Horses](https://open.spotify.com/album/39k6CMrHijZhLP9pOgCCBD) | 2:31 |
+| 91 | [Neon Dust](https://open.spotify.com/track/31Msza23dwwmqirht0UDup) | [Tyra Jutai](https://open.spotify.com/artist/70E4gETHoUpR12ukUrJ7Xf) | [the western preoccupation \(Deluxe Edition\)](https://open.spotify.com/album/0nlqWJoiNmHXnqjneCFY4R) | 4:12 |
+| 92 | [scarlet](https://open.spotify.com/track/7Ci35qKkrYPH1Ief73EpBB) | [SIKADE](https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY) | [scarlet](https://open.spotify.com/album/5tkQh34B3zHQEvdp3xHxRI) | 2:13 |
+| 93 | [Stay](https://open.spotify.com/track/5xTsuY31OnjYSoc5oGzBjv) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Stay](https://open.spotify.com/album/2diPcf8av13aOOXwATVOpE) | 4:16 |
+| 94 | [Numb](https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Numb](https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ) | 3:20 |
 
-Snapshot ID: `AAAQb8JF36pFeyrM7Z84GQHXPj0DkMpc`
+Snapshot ID: `AAAQdnyo29sWM9Y3L5Sar15wL9Ih8XXM`

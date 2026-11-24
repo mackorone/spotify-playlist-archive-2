@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: TheOvertunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,520 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,518 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 99 | [Somebody New](https://open.spotify.com/track/1SjddSnUL8WYpT6LcdQDGV) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Cute Talks](https://open.spotify.com/album/7qH5Vh3I86TKjttbUBW0Fg) | 2:53 |
 | 100 | [Kami Kembali](https://open.spotify.com/track/0A3SQs8KkOQgqu8FVgxkIe) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Kami Kembali](https://open.spotify.com/album/7AlGCmAIOxHQxCSUGOLXHn) | 3:28 |
 
-Snapshot ID: `AAAAAEMBI1q+ngLp69AjM0F6gsWbZx/B`
+Snapshot ID: `AAAAANTs118Q1YoL0HFZOPrtERXg0QVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Aashir Wajahat, Sabaat Batin
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,669 likes - 118 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,691 likes - 118 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 13 | [Viah](https://open.spotify.com/track/13Bjs8k9XgzqbYYAsCUTvj) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [DeryAala](https://open.spotify.com/artist/2I5pgCixkzLJj8jb2R0hvt) | [Viah](https://open.spotify.com/album/47u4xFmPWEdtOOesYRhLNY) | 2:30 |
 | 14 | [Radha](https://open.spotify.com/track/2b9MDHc21XOuhqVXjVIrsg) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Mitti & Melodies](https://open.spotify.com/album/1Z1PMgLe3mwMF4Z2NHmZus) | 3:25 |
 | 15 | [Sohniye](https://open.spotify.com/track/2fXAPCTKedmj1dxFrJviRs) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Mitti & Melodies](https://open.spotify.com/album/1Z1PMgLe3mwMF4Z2NHmZus) | 2:45 |
-| 16 | [Tara](https://open.spotify.com/track/5BYBECI7ojtc5EfGFG1jjK) | [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Tara](https://open.spotify.com/album/4bvmihdDeJ2mw1HaBbFoPD) | 3:13 |
+| 16 | [Tara](https://open.spotify.com/track/5BYBECI7ojtc5EfGFG1jjK) | [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs), [Anthony Soshil Shah](https://open.spotify.com/artist/1zXymus3CC8lz84VJ2AtKi) | [Tara](https://open.spotify.com/album/4bvmihdDeJ2mw1HaBbFoPD) | 3:13 |
 | 17 | [dream](https://open.spotify.com/track/4ScwGZLpq91ClZNI7G7Xn4) | [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [dream](https://open.spotify.com/album/6JctirHBOzxsS1kQ4YxKZ2) | 2:52 |
 | 18 | [SAA](https://open.spotify.com/track/0iQkrHHwG7xk6edqgOsp4H) | [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [SAA](https://open.spotify.com/album/45Y285WlaIja8eAVvcuIhB) | 2:55 |
 | 19 | [Can't Stop](https://open.spotify.com/track/2YG19M2CtrSDPx3macV5ZT) | [Hassaan Shaheer](https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [OCTOBER](https://open.spotify.com/album/4ws91CJgChmNvA2pYFZPrQ) | 2:46 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 117 | [stay away](https://open.spotify.com/track/0ZFDZDX4Z67uoMXYRgBUjh) | [Arshman Khan](https://open.spotify.com/artist/7Gg4O0kIXEu2DYgycQrz8x) | [stay away](https://open.spotify.com/album/5XPw4B0NuZh3BbfzEEiXtw) | 3:29 |
 | 118 | [Pablo](https://open.spotify.com/track/1PLT6v3VhugzzLarvG76Ko) | [Hania Aamir](https://open.spotify.com/artist/0Mqyon2f1de1y9AcGbb1Jf) | [Pablo](https://open.spotify.com/album/41WcjlLxGl5uI9J325Ffyz) | 2:06 |
 
-Snapshot ID: `AAAAAAj7G+AiZYwGGqFJahvoCiTlz1lh`
+Snapshot ID: `AAAAALtvTHfuQTos65yBxuiKL0HWx/UZ`

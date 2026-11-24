@@ -1,15 +1,15 @@
 {
   "description": "\u2757\ufe0fNieuwe tracks van Kevin, Spanker, Mesy, Rijck, Bartofso en meer..",
-  "num_followers": 700253,
+  "num_followers": 700202,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGtJ7EcOipC05RR5Nehiq2kl8N1L",
+  "snapshot_id": "AAAAAATQFcN+MkOXJK8aWLd5uvCoHwrg",
   "tracks": [
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "DE GIER",
         "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6mj2tuVIVgXTtnvHD0Y77p"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "LET ME LOVE U?",
         "url": "https://open.spotify.com/album/2BhrigAOtSWvXKsWbL9S9C"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/2IQCI291KZPzxZVut7Lrip"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "MANNSCHAFT",
         "url": "https://open.spotify.com/album/7DfOrLwvEfGX6CkO3fXiIZ"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/1MAs7Bj45yopDgZzRV5sYL"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
+      "album": {
+        "name": "DE GIER",
+        "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "duration_ms": 159564,
+      "name": "Belangrijk",
+      "url": "https://open.spotify.com/track/1SStwka8Rc6xFWMsViJgOf"
+    },
+    {
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Project Flex",
         "url": "https://open.spotify.com/album/7E1vZAyUrCRUE0l3LYp4MT"
@@ -93,23 +109,7 @@
       "url": "https://open.spotify.com/track/16MvPzav0kCaGCmMtAX6qb"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
-      "album": {
-        "name": "DE GIER",
-        "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        }
-      ],
-      "duration_ms": 129028,
-      "name": "Handy",
-      "url": "https://open.spotify.com/track/5OXjVGVg7iDedV6UKNunhb"
-    },
-    {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "S.O.G",
         "url": "https://open.spotify.com/album/4wPCFyYI8rbk37XigQlbud"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/5zWdb1WxB2NAtztG2iCAz5"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Donker",
         "url": "https://open.spotify.com/album/3bj4ALcaAWcXsUI0JhMwz1"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/1P4mwlyZD78OFJmEqomQZ1"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Laat Maar Hangen",
         "url": "https://open.spotify.com/album/4SH5M9HBZngQpKQJjhYdld"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/68QQCdnXhj0yZ1PfXJrhLr"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Wind Tegen",
         "url": "https://open.spotify.com/album/2OEmrQ2UbrxACT8Z4RNCel"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/6bkf0DIK8HV7MrYvlAT9Cg"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "DOMUS",
         "url": "https://open.spotify.com/album/69tRf27Cjspimzp6d1ij15"
@@ -197,7 +197,31 @@
       "url": "https://open.spotify.com/track/7kPCKywdvgopywtcmUKbJ6"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
+      "album": {
+        "name": "Hectic",
+        "url": "https://open.spotify.com/album/7AFObR47q4Iykw3Uai3lmk"
+      },
+      "artists": [
+        {
+          "name": "SHEP",
+          "url": "https://open.spotify.com/artist/2krDLe9I5TNlM5riYKfibr"
+        },
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        },
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Hectic",
+      "url": "https://open.spotify.com/track/6nduZhrN7Gom8j5VQtFfGJ"
+    },
+    {
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Gecompliceerd",
         "url": "https://open.spotify.com/album/21aULVUNsP11yI83Gdcm2A"
@@ -221,7 +245,7 @@
       "url": "https://open.spotify.com/track/4M0gnzN0BgEDgIthLbo1B7"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Qlassiek",
         "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
@@ -241,7 +265,27 @@
       "url": "https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
+      "album": {
+        "name": "DE GIER",
+        "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 210037,
+      "name": "Rook",
+      "url": "https://open.spotify.com/track/0b2z6Y30P0MHVtVmoYVG3c"
+    },
+    {
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "FF TERUG",
         "url": "https://open.spotify.com/album/3OvaKp5a4jLDpIt9pGseaT"
@@ -257,7 +301,7 @@
       "url": "https://open.spotify.com/track/0KxUxkxhBwFJaPSZxQkOB1"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Crimi\u2019s",
         "url": "https://open.spotify.com/album/54iq2zPKKTgKUV2J8h4bGK"
@@ -273,7 +317,7 @@
       "url": "https://open.spotify.com/track/5BXW4GHpeI1sx79uf1EW5q"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD"
@@ -289,7 +333,7 @@
       "url": "https://open.spotify.com/track/78SJwGy4jvYsWaRwOa7uAN"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Project Flex",
         "url": "https://open.spotify.com/album/7E1vZAyUrCRUE0l3LYp4MT"
@@ -305,23 +349,7 @@
       "url": "https://open.spotify.com/track/6s5clLEiXgpkYRyJSP0Gnu"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
-      "album": {
-        "name": "DE GIER",
-        "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        }
-      ],
-      "duration_ms": 159564,
-      "name": "Belangrijk",
-      "url": "https://open.spotify.com/track/1SStwka8Rc6xFWMsViJgOf"
-    },
-    {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "OLYMPIA",
         "url": "https://open.spotify.com/album/7tjANrVYCWX3mxqL6A7q0V"
@@ -353,31 +381,7 @@
       "url": "https://open.spotify.com/track/77w1Kd6io0yfY9fuMhR2EM"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
-      "album": {
-        "name": "Hectic",
-        "url": "https://open.spotify.com/album/7AFObR47q4Iykw3Uai3lmk"
-      },
-      "artists": [
-        {
-          "name": "SHEP",
-          "url": "https://open.spotify.com/artist/2krDLe9I5TNlM5riYKfibr"
-        },
-        {
-          "name": "Hekje31",
-          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
-        },
-        {
-          "name": "BFLQuatro",
-          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Hectic",
-      "url": "https://open.spotify.com/track/6nduZhrN7Gom8j5VQtFfGJ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Opladen",
         "url": "https://open.spotify.com/album/0AT5leqGR53q1BxqhCj36x"
@@ -397,7 +401,7 @@
       "url": "https://open.spotify.com/track/61P29QQU0iLPDDTkH6FZMQ"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Verbrand",
         "url": "https://open.spotify.com/album/5Rv9D0iV11zcCRlBwE58rb"
@@ -413,55 +417,7 @@
       "url": "https://open.spotify.com/track/6tCvMHxuh5CgLWgosmwbaL"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
-      "album": {
-        "name": "Qlassiek",
-        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
-      },
-      "artists": [
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        }
-      ],
-      "duration_ms": 143684,
-      "name": "Geen Lovesong",
-      "url": "https://open.spotify.com/track/2cUSsISFlJ8EOB2EtLiTrO"
-    },
-    {
-      "added_at": "2026-11-19 23:01:33",
-      "album": {
-        "name": "Baile",
-        "url": "https://open.spotify.com/album/2FFRLgZMAvAsMI4SsaIPhh"
-      },
-      "artists": [
-        {
-          "name": "GP UIT G",
-          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
-        }
-      ],
-      "duration_ms": 86956,
-      "name": "Baile",
-      "url": "https://open.spotify.com/track/6UV7q9r1wg63S9RSm4Xbfa"
-    },
-    {
-      "added_at": "2026-11-19 23:01:33",
-      "album": {
-        "name": "Leuven Centraal",
-        "url": "https://open.spotify.com/album/6VQfUztdwVJhQxP9BMCL8U"
-      },
-      "artists": [
-        {
-          "name": "Chardy",
-          "url": "https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Leuven Centraal",
-      "url": "https://open.spotify.com/track/1wKT1jTCw9J2yja5SvPT8I"
-    },
-    {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "DOMUS",
         "url": "https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP"
@@ -481,7 +437,55 @@
       "url": "https://open.spotify.com/track/28bjLDVYB7Eu7S1zDYEBTY"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "duration_ms": 143684,
+      "name": "Geen Lovesong",
+      "url": "https://open.spotify.com/track/2cUSsISFlJ8EOB2EtLiTrO"
+    },
+    {
+      "added_at": "2026-11-23 11:00:28",
+      "album": {
+        "name": "Baile",
+        "url": "https://open.spotify.com/album/2FFRLgZMAvAsMI4SsaIPhh"
+      },
+      "artists": [
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        }
+      ],
+      "duration_ms": 86956,
+      "name": "Baile",
+      "url": "https://open.spotify.com/track/6UV7q9r1wg63S9RSm4Xbfa"
+    },
+    {
+      "added_at": "2026-11-23 11:00:28",
+      "album": {
+        "name": "Leuven Centraal",
+        "url": "https://open.spotify.com/album/6VQfUztdwVJhQxP9BMCL8U"
+      },
+      "artists": [
+        {
+          "name": "Chardy",
+          "url": "https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "Leuven Centraal",
+      "url": "https://open.spotify.com/track/1wKT1jTCw9J2yja5SvPT8I"
+    },
+    {
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "S.O.G",
         "url": "https://open.spotify.com/album/4wPCFyYI8rbk37XigQlbud"
@@ -505,7 +509,7 @@
       "url": "https://open.spotify.com/track/4NKYr54p0h4sTbtbCDnhie"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Medaille",
         "url": "https://open.spotify.com/album/11mtNtmBTYSG2PRu5xSX94"
@@ -529,7 +533,27 @@
       "url": "https://open.spotify.com/track/6zLsoHpnZB3NGYZAlbp9q1"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
+      "album": {
+        "name": "HVB",
+        "url": "https://open.spotify.com/album/2J0nVKpUaEfK1HfH2mDST1"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "HVB",
+      "url": "https://open.spotify.com/track/1rmyXcwRGKDpKG9EzjmlQQ"
+    },
+    {
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "OLYMPIA",
         "url": "https://open.spotify.com/album/7tjANrVYCWX3mxqL6A7q0V"
@@ -557,7 +581,7 @@
       "url": "https://open.spotify.com/track/4ssqFV5CiUDiaoN0AIVxbW"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Gassan",
         "url": "https://open.spotify.com/album/0IzZGWG359qUOXTTYdk9hL"
@@ -585,7 +609,7 @@
       "url": "https://open.spotify.com/track/075AuFWJHsixHuTGmuv3dA"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/3rza5VfXp7SUYFFkAatCh1"
@@ -605,7 +629,7 @@
       "url": "https://open.spotify.com/track/4tu4ZJyPBRnPqmvXZhaqAj"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "DOE HET",
         "url": "https://open.spotify.com/album/2ET6qVidGj5s8wiao4JkHj"
@@ -629,7 +653,7 @@
       "url": "https://open.spotify.com/track/6QVOdWVwR9pBio5aTCv7BK"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Safi",
         "url": "https://open.spotify.com/album/0Sg8Q8EKjRcD9uXPIL70yK"
@@ -657,7 +681,7 @@
       "url": "https://open.spotify.com/track/5rLme8r9UjeQgmgcBiMYKc"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "PATSERS & PRINCESSEN",
         "url": "https://open.spotify.com/album/4wv1YU2hF2cpYVBoq22Pxk"
@@ -673,7 +697,7 @@
       "url": "https://open.spotify.com/track/2FSS6xRAXB2WaFZIGflaWW"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Project Flex",
         "url": "https://open.spotify.com/album/7E1vZAyUrCRUE0l3LYp4MT"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/5SAz8q7P997ZEAL3biOA2o"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Mama Sorry",
         "url": "https://open.spotify.com/album/1iBFr0TmjuiuPsSd3gOE2u"
@@ -717,7 +741,7 @@
       "url": "https://open.spotify.com/track/34vZDzFg8kMSmJr3WbSh85"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Pistache",
         "url": "https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec"
@@ -737,7 +761,7 @@
       "url": "https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Ambtenaar",
         "url": "https://open.spotify.com/album/3fljTm2csQRHjARDIIurRl"
@@ -753,27 +777,7 @@
       "url": "https://open.spotify.com/track/2L4Wvkk9gwX6zpXtFr0jSx"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
-      "album": {
-        "name": "HVB",
-        "url": "https://open.spotify.com/album/2J0nVKpUaEfK1HfH2mDST1"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        },
-        {
-          "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "HVB",
-      "url": "https://open.spotify.com/track/1rmyXcwRGKDpKG9EzjmlQQ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Praat van de Straat II",
         "url": "https://open.spotify.com/album/2PmwN1pFkXGTCEsHisWR2b"
@@ -793,7 +797,7 @@
       "url": "https://open.spotify.com/track/1MZqk6nX0olmzsbMCO5r0F"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "100 Tranen",
         "url": "https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Freeze",
         "url": "https://open.spotify.com/album/1ayXkZaFuKzhmAVDRYiddp"
@@ -833,7 +837,7 @@
       "url": "https://open.spotify.com/track/0nm6OqyUU5yBdB9yDQWExx"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Team",
         "url": "https://open.spotify.com/album/0fIZfL92hzRoUXA7MCS85f"
@@ -861,7 +865,7 @@
       "url": "https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "BLIJF RUSTIG",
         "url": "https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM"
@@ -877,7 +881,7 @@
       "url": "https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Same Level",
         "url": "https://open.spotify.com/album/1i3kJP3pOUXMAtPR5I32hq"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/2zNIOeSUdIKepg20IPSLhg"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "REAL W\u00a3T",
         "url": "https://open.spotify.com/album/35dD6e2QnVR4JEZXvdZeQs"
@@ -921,7 +925,7 @@
       "url": "https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Fijnproever",
         "url": "https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ"
@@ -937,7 +941,7 @@
       "url": "https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Google Vertalen",
         "url": "https://open.spotify.com/album/15iwB2s4oFEYs2cyNLed4I"
@@ -953,7 +957,7 @@
       "url": "https://open.spotify.com/track/1SX1zcUoxN2LIZuxM2gJ1N"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Handschoen",
         "url": "https://open.spotify.com/album/5SFCedMDXmTcxkENcrl1iL"
@@ -969,7 +973,7 @@
       "url": "https://open.spotify.com/track/2nronHAna955wZyk3SuS7n"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Grof Geschud",
         "url": "https://open.spotify.com/album/76EhZE1BXNn1HMYdCKzQxY"
@@ -989,7 +993,7 @@
       "url": "https://open.spotify.com/track/3MbJfytR4PKUyxOg5EFoKI"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Baranka Music Promo Tape (26)",
         "url": "https://open.spotify.com/album/0eeTdND0Ua4KK9PceETEHK"
@@ -1009,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4RlwjDq7AmFnn9QfY6AW34"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Haast",
         "url": "https://open.spotify.com/album/3LAzeYbgU0cZmh5WbNiZD5"
@@ -1029,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "De Stem van MERLOT",
         "url": "https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy"
@@ -1045,7 +1049,7 @@
       "url": "https://open.spotify.com/track/75muH9PLpaomRaUKBD1nwg"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Komt Goed",
         "url": "https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl"
@@ -1061,7 +1065,7 @@
       "url": "https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Richard",
         "url": "https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV"
@@ -1077,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3h4kL7dZVHZyU1Cb4IPQ0j"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Alles Is Ok\u00e9",
         "url": "https://open.spotify.com/album/03XHGM7fb7OAXxeSYCQJCi"
@@ -1101,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5TZ8Lh4qmnTkZocWmlo5dr"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Al Blancocino",
         "url": "https://open.spotify.com/album/4wHUcYPm0jRvqVDYpaTPMM"
@@ -1117,7 +1121,7 @@
       "url": "https://open.spotify.com/track/5xqYeSU1PxLW4Eh4f7Cq52"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Andersom (feat. Boef)",
         "url": "https://open.spotify.com/album/0eZLLmggsAmrXm8ZISADy8"
@@ -1137,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5kYM2ac4h8SDGyoT6O7Q0i"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "BNT Vol. 1",
         "url": "https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE"
@@ -1165,7 +1169,7 @@
       "url": "https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "De Stem van MERLOT",
         "url": "https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy"
@@ -1185,7 +1189,7 @@
       "url": "https://open.spotify.com/track/1pTQZDfbEGesppVnjCbKmF"
     },
     {
-      "added_at": "2026-11-19 23:01:33",
+      "added_at": "2026-11-23 11:00:28",
       "album": {
         "name": "Voor Het Eerst",
         "url": "https://open.spotify.com/album/6qG6LyFEHQ20nA75IxTft9"

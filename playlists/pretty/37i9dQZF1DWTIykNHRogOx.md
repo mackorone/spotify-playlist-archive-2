@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Pomme.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,868 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,838 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [souveraine : melancholia](https://open.spotify.com/track/7lz70aLFPlpvm5WGekWKJT) | [Mathilde](https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO) | [souveraine : melancholia](https://open.spotify.com/album/1bYvhzMLQysen43fLcZ1Xd) | 4:01 |
 | 50 | [oreiller froid](https://open.spotify.com/track/0eloccyjeMx4sOfVcNGuS4) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [oreiller froid](https://open.spotify.com/album/1dWWUkcGsFJJzkotmAEjLP) | 2:25 |
 
-Snapshot ID: `AAAAAJWgOjaTVYLPQ59YLJJ9gAl2RKyQ`
+Snapshot ID: `AAAAAGpdi7FN6lhYtGnwqvox84J+heXx`

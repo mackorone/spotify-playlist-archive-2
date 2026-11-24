@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 601271,
+  "num_followers": 601319,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAABmXBhque0UJAPLRamfpjIJ",
+  "snapshot_id": "awIwgAAAAAB1aS+UVvQLt8nmF3nYSJVD",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Faith Tour",
-        "url": "https://open.spotify.com/album/5mg5BcbOiMuIWdMGp9TsUu"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 167632,
-      "name": "Freedom Opening - Live in Paris, 1988",
-      "url": "https://open.spotify.com/track/45ahIPl7ALwFoiw0Xw5IJH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
@@ -727,38 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Brother Can You Spare a Dime?",
-      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 309821,
-      "name": "Through - Live",
-      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Faith Tour",
         "url": "https://open.spotify.com/album/5mg5BcbOiMuIWdMGp9TsUu"
       },
@@ -768,25 +720,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 317863,
-      "name": "Hard Day - Live in Paris, 1988",
-      "url": "https://open.spotify.com/track/0G0UkKPd9QtpC6DqGf8yYS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 147482,
-      "name": "Waiting (Reprise) - Remastered",
-      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
+      "duration_ms": 167632,
+      "name": "Freedom Opening - Live in Paris, 1988",
+      "url": "https://open.spotify.com/track/45ahIPl7ALwFoiw0Xw5IJH"
     },
     {
       "added_at": null,
@@ -816,9 +752,25 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 195957,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
+      "duration_ms": 309821,
+      "name": "Through - Live",
+      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 147482,
+      "name": "Waiting (Reprise) - Remastered",
+      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
     },
     {
       "added_at": null,
@@ -832,9 +784,57 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 297282,
-      "name": "Love's In Need Of Love Today - Live in Paris, 1988",
-      "url": "https://open.spotify.com/track/0iCfcjiGQMYpIofZWLJqHs"
+      "duration_ms": 317863,
+      "name": "Hard Day - Live in Paris, 1988",
+      "url": "https://open.spotify.com/track/0G0UkKPd9QtpC6DqGf8yYS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Brother Can You Spare a Dime?",
+      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 195957,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 198234,
+      "name": "Something to Save - Remastered",
+      "url": "https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX"
     }
   ],
   "unique_name": "This Is George Michael",

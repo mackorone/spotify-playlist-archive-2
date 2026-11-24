@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Sfera Ebbasta, FreshMula, Enny P, Saintpaul e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,404 likes - 105 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,405 likes - 105 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 104 | [Di te non mi fido](https://open.spotify.com/track/1yByjDmc9EI22tc73hxprU) | [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx), [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE) | [Di te non mi fido](https://open.spotify.com/album/47XhoUiuijDLazD0dMftru) | 2:16 |
 | 105 | [Carogne](https://open.spotify.com/track/7cc21wZFkw7qGbZKB0em7G) | [XVI Religion](https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT) | [UNDERGROUND](https://open.spotify.com/album/4eGoN0p3WHH88IYdRhNHwj) | 2:53 |
 
-Snapshot ID: `AAAAAFa5V1Uvc/AOIsbhahC/3wWHaujL`
+Snapshot ID: `AAAAAHw/6YAdpMGhW8N8T3UCmAjm7l5g`

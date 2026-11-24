@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring SOB x RBE, T.I., Fenix Flexin, Shaboozey &amp; more.
 
-248 songs - 11 hr 4 min
+249 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Get Off](https://open.spotify.com/track/1Pk5l0MYcmMlFG5XS9VGsK) | [Pretty Brayah](https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb) | [Get Off](https://open.spotify.com/album/36osWrlEhL8GT8IwreDLEM) | 2:33 | 2023-09-28 | 2024-06-19 |
 | [Ghetto Boyz](https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Ghetto Boyz](https://open.spotify.com/album/40chibcpJl6iVoRkdKk4ql) | 2:13 | 2024-07-22 | 2024-09-24 |
 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 | 2025-07-07 |  |
+| [Good Day to be in Harlem](https://open.spotify.com/track/4E9Xb95VqTgKKynBcPdXLB) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [GOD IS FROM HARLEM](https://open.spotify.com/album/195aJCLgc2gvm7yxmtneno) | 3:54 | 2026-11-24 |  |
 | [Good Day to be in Harlem](https://open.spotify.com/track/5MQPXV1dmDIWqvcQONZ1OG) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Good Day to be in Harlem](https://open.spotify.com/album/2o4ICnsEfXEro3okcsEUWK) | 3:54 | 2026-02-03 |  |
 | [Great Day](https://open.spotify.com/track/7zGjLN0J7xotEWjri2cqb3) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Great Day](https://open.spotify.com/album/6p4H6WRMTy3Er71hZNkase) | 2:36 | 2025-07-21 | 2025-08-19 |
 | [Green Carpet](https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Green Carpet](https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef) | 2:13 | 2024-03-04 | 2024-06-19 |
@@ -154,7 +155,7 @@
 | [Mardi Gras \(Go Crazy\) \- PBM Version](https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Mardi Gras \(Go Crazy\) \[PBM Version\]](https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz) | 2:54 | 2025-09-29 |  |
 | [Me And Mike](https://open.spotify.com/track/4wwACmcnLZWd5MAdNPE6mP) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Me And Mike](https://open.spotify.com/album/69oFLAcQKRkhTOowDPMCJW) | 2:19 | 2024-03-30 | 2025-02-01 |
 | [Midnight in Hawaii 2](https://open.spotify.com/track/1oB6gO3603t901nqbZGQxN) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Midnight in Hawaii 2](https://open.spotify.com/album/7zXEgBFYTBHZx4tSgOb12m) | 3:18 | 2025-10-06 |  |
-| [Missing Home](https://open.spotify.com/track/3B18FHfCzhBzqGTy1CQVuH) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Day by Day, Shway Shway](https://open.spotify.com/album/40qljUA8WPAsuSTyO9JyGN) | 2:38 | 2026-10-16 |  |
+| [Missing Home](https://open.spotify.com/track/3B18FHfCzhBzqGTy1CQVuH) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Day by Day, Shway Shway](https://open.spotify.com/album/40qljUA8WPAsuSTyO9JyGN) | 2:38 | 2026-10-16 | 2026-11-24 |
 | [Money](https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money](https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq) | 2:11 | 2023-09-08 | 2025-02-01 |
 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 | 2025-09-24 |  |
 | [MR HIM](https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [MR HIM](https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK) | 2:29 | 2026-05-11 |  |

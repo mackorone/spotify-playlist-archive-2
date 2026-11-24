@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-558 songs - 1 day 8 hr 17 min
+565 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Little Red Corvette](https://open.spotify.com/track/45cnMC7EXUO4CEzKGyg527) | [This Side of Wednesday](https://open.spotify.com/artist/0ft5RSHIKkcsSexjHEIV6V) | [Breath](https://open.spotify.com/album/7brV5bURCt0XvWfjcT9H75) | 3:48 | 2026-03-10 | 2026-04-16 |
 | [Little Self\-Indulgent](https://open.spotify.com/track/6MIEwxpFDX4AeOhYJejFPv) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Kaleidoscope](https://open.spotify.com/album/2wkD37IBLLNRoCPfXEMY53) | 3:00 | 2026-01-20 | 2026-03-10 |
 | [Lo Tengo](https://open.spotify.com/track/4vMV2D8SgSeGAr8EhxPMHI) | [VIAN LANE](https://open.spotify.com/artist/6O9j7mNmMn3icFoeQ9l5RW) | [Lo Tengo](https://open.spotify.com/album/1rRk5EmcOPXyNToxAOz540) | 4:08 | 2026-08-28 |  |
+| [Locura](https://open.spotify.com/track/5ogSNrDybORMb4zNga0cql) | [Reyez](https://open.spotify.com/artist/2KMFhaHzZyLz4g2U9TcWJe) | [Locura](https://open.spotify.com/album/5NtPP5cZSwtWNdFjmipN0c) | 3:26 | 2026-11-23 |  |
 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 | 2026-10-13 |  |
 | [Look at me](https://open.spotify.com/track/59O07Sj5VVQ8SXeuHCltN7) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Look at me](https://open.spotify.com/album/65GQNjC1rd9j7mc4rflmQg) | 4:05 | 2025-11-11 | 2026-01-17 |
 | [Lost in a Prayer](https://open.spotify.com/track/4nngNN4918GGctBPfNTDH8) | [Mai Doan](https://open.spotify.com/artist/5uFWFzNpvSy1BEF9hOT7Ps) | [Lost in a Prayer](https://open.spotify.com/album/4x6vhTPnMf5QjV6QQBTSEP) | 3:31 | 2026-08-10 | 2026-11-18 |
@@ -347,6 +348,7 @@
 | [Mustang Kickback](https://open.spotify.com/track/5tyaldDDAxuXHfmMbGY6nQ) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Mustang Kickback](https://open.spotify.com/album/0MttNZcfK8o5DDo7YOB9wm) | 3:10 | 2025-11-02 | 2026-01-15 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2026-02-14 | 2026-04-02 |
 | [National Hero](https://open.spotify.com/track/0UHvUvQ0YRS159O15Xpv4I) | [Televised Mind](https://open.spotify.com/artist/7pUQGbfOyXaHrSlHIp5tz8) | [National Hero](https://open.spotify.com/album/7vBlui29F0GChznfHDMxpg) | 2:32 | 2026-05-27 | 2026-07-24 |
+| [Neon Dust](https://open.spotify.com/track/31Msza23dwwmqirht0UDup) | [Tyra Jutai](https://open.spotify.com/artist/70E4gETHoUpR12ukUrJ7Xf) | [the western preoccupation \(Deluxe Edition\)](https://open.spotify.com/album/0nlqWJoiNmHXnqjneCFY4R) | 4:12 | 2026-11-23 |  |
 | [Never Real](https://open.spotify.com/track/28sDuFjlwBhCiqg6yxf8sB) | [Tarsik](https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE) | [Never Real](https://open.spotify.com/album/22UJOFtqbf8uBTIpEDbjqA) | 4:17 | 2026-04-15 | 2026-05-28 |
 | [Next In Line](https://open.spotify.com/track/7G4XN3ChekRS6KOxOIF68G) | [Carmen Olivia](https://open.spotify.com/artist/1w04bxkCPIX84eeMhf73aN) | [Next In Line](https://open.spotify.com/album/1tPGzJkKTLeb9X7mmCrdUu) | 3:31 | 2026-04-09 | 2026-05-14 |
 | [Nie wieder denken](https://open.spotify.com/track/19u4Ep9u8L5BsCgiZEDzXN) | [Endstation Sanifair](https://open.spotify.com/artist/2qBfpEPXX7Wunr7so7DGNc) | [Nie wieder denken](https://open.spotify.com/album/31WtAgZUTznoy3qd5FbyIo) | 3:54 | 2025-11-24 | 2026-01-17 |
@@ -357,6 +359,7 @@
 | [not ur muse](https://open.spotify.com/track/7aBKuGcK0y9RKT3ezTfx9J) | [Lumi Mar](https://open.spotify.com/artist/5xFxgq2tTejLjoDRzAuZaw) | [not ur muse](https://open.spotify.com/album/0zb6wtxREtziSDRzui3MqJ) | 4:05 | 2026-01-16 | 2026-02-20 |
 | [Nothing We Can Do](https://open.spotify.com/track/2GcRdml2oURe3PpLEZmpfn) | [Laurie McMahon](https://open.spotify.com/artist/3Xr0YttuvFgDb6vgjONFT7) | [Nothing We Can Do](https://open.spotify.com/album/0nfkbEiPiQrwF9dIVEjGUV) | 3:36 | 2025-11-21 | 2026-01-17 |
 | [nowhere](https://open.spotify.com/track/52acR4SFKkSmmZX0vIJsUG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [nowhere](https://open.spotify.com/album/00jJdhjPWVtce0Uiygt6AB) | 2:02 | 2025-10-24 | 2025-12-02 |
+| [Numb](https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Numb](https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ) | 3:20 | 2026-11-23 |  |
 | [O Rio](https://open.spotify.com/track/12aIlEloDf9WXhQVKqrfjz) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 4:42 | 2026-08-15 |  |
 | [Offsides](https://open.spotify.com/track/2bZPTbLabDiobYOcOsAtYS) | [Hey Again](https://open.spotify.com/artist/1DdU2OIgRTefByXP3yjTNI) | [Trial Run](https://open.spotify.com/album/42I6e9JHOr7Wo52OwdkIUI) | 1:54 | 2026-04-28 | 2026-07-02 |
 | [Oh, Juliette!](https://open.spotify.com/track/5Uz0ggdrjLMTK91wVFMgpo) | [Apostles](https://open.spotify.com/artist/3RcRQvnGYuY8dyIROokwNi) | [Here to Stay](https://open.spotify.com/album/6QdDsrjkS70Lkub6FYUXvf) | 2:41 | 2025-10-30 | 2026-01-17 |
@@ -403,17 +406,20 @@
 | [rayla](https://open.spotify.com/track/2ew07GJUuMG0tPLTXcuthV) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [so good](https://open.spotify.com/album/3DdZKfTJvBL35J05acYt93) | 2:17 | 2026-03-18 | 2026-04-21 |
 | [Reason To Exist \- Suburban Sessions](https://open.spotify.com/track/28oMohx3ZGC9mJZ1oN7b5D) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Reason To Exist \(Suburban Sessions\)](https://open.spotify.com/album/5X4CMD7OWlu4mZIwadQEoQ) | 2:50 | 2026-08-12 |  |
 | [Recita](https://open.spotify.com/track/4iVc34n6jfYEP7wHhdK3sm) | [LEUCA](https://open.spotify.com/artist/3McV2dVJBfa6kuLS2M2I1i) | [Recita](https://open.spotify.com/album/3VlWM3WZ7NJyCP6gZUZiKH) | 2:49 | 2026-06-06 | 2026-08-18 |
+| [Red Chairs and Horses](https://open.spotify.com/track/3JXyIg5EZU2wz0vkKT7zYZ) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Red Chairs and Horses](https://open.spotify.com/album/39k6CMrHijZhLP9pOgCCBD) | 2:31 | 2026-11-23 |  |
 | [Red Stain](https://open.spotify.com/track/1B9QyAQ7n93w9d39YxdIac) | [9VOLT](https://open.spotify.com/artist/1yGIUUNxhETK7t4ccYvaIF) | [Hard to Get Out](https://open.spotify.com/album/4liZsHktfJ0jxtADs418hs) | 1:54 | 2026-04-20 | 2026-07-01 |
 | [Refuge](https://open.spotify.com/track/2TX3czDFjIY3Vh6qdVSwKg) | [Jfarrari](https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc) | [Fear of Isolation](https://open.spotify.com/album/0LoLbU30mKbb1CgNMQ3Tvy) | 2:32 | 2026-10-15 |  |
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 | 2026-03-10 |
 | [Round and Round](https://open.spotify.com/track/7uFPwIzZHUJCbPpkbhk71U) | [Plastic Funeral](https://open.spotify.com/artist/65Af8cCDWCfPu1nEX9PIfy) | [Round and Round](https://open.spotify.com/album/1H9cOzkLY09KkJVSdcKHJA) | 4:49 | 2026-05-27 | 2026-07-24 |
 | [Runner](https://open.spotify.com/track/3EE7VV4wxNVu0sWYtP2nid) | [Jude Watkins](https://open.spotify.com/artist/5eSjKqo8lqiGTqYYG8naMn) | [Just This Once](https://open.spotify.com/album/5esNLPl6s0u3gakmkWAvcq) | 4:30 | 2026-07-13 | 2026-08-18 |
 | [Runnin' On Empty](https://open.spotify.com/track/4Ak9DIQXtFKsB5xc9u6LTw) | [Brandon Birdwell](https://open.spotify.com/artist/0AhCptHCR9jOUnM5nYzVSi) | [Runnin' On Empty](https://open.spotify.com/album/6zrNLo1HS4qF1d72WfDqiE) | 3:30 | 2026-03-31 | 2026-05-06 |
+| [Rust](https://open.spotify.com/track/67a8xIHvOxrTtzTykAkine) | [Local Kin](https://open.spotify.com/artist/3vq4Y0KYGSp3Yowdgw9YgB) | [Rust](https://open.spotify.com/album/1lugVKNxTIMQpjEiDgvpCD) | 4:38 | 2026-11-23 |  |
 | [S.A.D.](https://open.spotify.com/track/4qtr4X6SQU3KZcFN1E8y9e) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [S.A.D.](https://open.spotify.com/album/3hGmdAkoso8AqAaxiLNgi0) | 3:20 | 2026-07-10 | 2026-08-18 |
 | [SALEM](https://open.spotify.com/track/1XQEKHZ7DkLbttxrSWI72j) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SALEM](https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt) | 4:54 | 2026-03-08 | 2026-04-16 |
 | [Satellite](https://open.spotify.com/track/0DubPnJ1rX0O1dIBiAihPZ) | [Cold Equations](https://open.spotify.com/artist/2axEJPob8hT3XbjX72Npii) | [Satellite](https://open.spotify.com/album/6yjxqvOUnOQRiIpi4MtEHN) | 4:11 | 2025-10-27 | 2025-12-02 |
 | [SATISFIED](https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg) | [Mike Manos](https://open.spotify.com/artist/6pdy7rMEZXFowM5Z2gu6yA) | [SATISFIED](https://open.spotify.com/album/4wl2aolRxxD08ItnHxsovn) | 2:59 | 2025-10-30 | 2025-12-12 |
 | [Say Something](https://open.spotify.com/track/2sBEE8SZudR0dBr3JNbOjd) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Say Something](https://open.spotify.com/album/3m1tA8n5qe5weca6RPf1lM) | 2:50 | 2026-05-12 | 2026-07-24 |
+| [scarlet](https://open.spotify.com/track/7Ci35qKkrYPH1Ief73EpBB) | [SIKADE](https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY) | [scarlet](https://open.spotify.com/album/5tkQh34B3zHQEvdp3xHxRI) | 2:13 | 2026-11-23 |  |
 | [Seconds Of Neon](https://open.spotify.com/track/7y8IcDNbf1RJtD1QDjscuu) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Seconds Of Neon](https://open.spotify.com/album/0hxfW38i7HETPx1KNu9qtC) | 3:31 | 2026-05-13 | 2026-07-24 |
 | [See the Sun](https://open.spotify.com/track/70wXd8KHJGGeXQ3wBzNpO4) | [Vinyl Arch Rodeo](https://open.spotify.com/artist/6dUpuhgr9qyVooQ8bNI35H) | [See the Sun](https://open.spotify.com/album/6JxAl2HIHiULrLQsFXT2Ms) | 5:33 | 2026-05-05 | 2026-07-24 |
 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 | 2026-02-14 | 2026-04-02 |
@@ -442,6 +448,7 @@
 | [starbound](https://open.spotify.com/track/2lrsKVxuYrmodpdmNhnsOd) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [starbound](https://open.spotify.com/album/08OpQIuyaFZftKaf9r1FuK) | 3:04 | 2026-04-17 | 2026-07-01 |
 | [stardust](https://open.spotify.com/track/3ba4KSPhMcZHHXBYBZgvoF) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [stardust](https://open.spotify.com/album/0NkcS4jIVQg5B5h3dzGMfk) | 2:55 | 2025-11-16 | 2026-01-17 |
 | [Stay](https://open.spotify.com/track/0tcghuttDwLWSEtV59geke) | [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Stay](https://open.spotify.com/album/3KPJAIFT13s3sbkQXpO0qa) | 4:05 | 2025-11-15 | 2026-01-17 |
+| [Stay](https://open.spotify.com/track/5xTsuY31OnjYSoc5oGzBjv) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Stay](https://open.spotify.com/album/2diPcf8av13aOOXwATVOpE) | 4:16 | 2026-11-23 |  |
 | [Stay \(Until i die\)](https://open.spotify.com/track/2KRhjzJS92DTaiB3RshpcP) | [Ismael Blanno](https://open.spotify.com/artist/2hibiqPMqWZo4lLy3yLXcU) | [ICDWIW](https://open.spotify.com/album/4xBR8xAPJKs3aDETzyDRde) | 3:03 | 2026-07-13 | 2026-08-18 |
 | [Stay 11:11](https://open.spotify.com/track/7uJKlwmX0BxgIlbDKswIDn) | [Grace Smiles](https://open.spotify.com/artist/33i07ALaC6xQq0AoSnJTN1) | [Stay 11:11](https://open.spotify.com/album/2dlmMwtAli1znWbwZKKUej) | 3:47 | 2026-01-16 | 2026-02-20 |
 | [Stay at Home](https://open.spotify.com/track/2rH6auma4kzIccJqLL4CgZ) | [Eli Orion](https://open.spotify.com/artist/6NLvoDEJwXQj6k8nxniIit), [BUSTER](https://open.spotify.com/artist/5j4912Niko0ozSGWJThvkg) | [Morning After, Again](https://open.spotify.com/album/7r7wkB4ldSeXV3Y7RPZJ01) | 3:43 | 2026-01-05 | 2026-03-29 |

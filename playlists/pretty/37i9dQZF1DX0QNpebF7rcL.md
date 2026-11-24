@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,277 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,301 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Use It](https://open.spotify.com/track/6eIM8a7UruYaoii9HMvVsr) | [MudKings](https://open.spotify.com/artist/19CSupGlgbkAXTNNuEbuqU), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [G\. Love](https://open.spotify.com/artist/5AzPpEIGzbOSQ7GIn1v29V), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Use It](https://open.spotify.com/album/5YVw8LQmJnm9FdzcVitVrl) | 3:51 |
+| 1 | [Use It](https://open.spotify.com/track/6eIM8a7UruYaoii9HMvVsr) | [MudKings](https://open.spotify.com/artist/19CSupGlgbkAXTNNuEbuqU), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Use It](https://open.spotify.com/album/5YVw8LQmJnm9FdzcVitVrl) | 3:51 |
 | 2 | [Lean On The Blues](https://open.spotify.com/track/4cLQdYz0XmqLg0YCvY6p4O) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv), [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Lean On The Blues](https://open.spotify.com/album/7xjxDSeh7jCTL5cFpsBWAi) | 3:41 |
 | 3 | [The Normal One](https://open.spotify.com/track/2YbkQLB1NLFtF9iAujj3Z2) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [The Normal One](https://open.spotify.com/album/79Wrd39u35z4enRgrLvsRw) | 3:55 |
 | 4 | [Push Through](https://open.spotify.com/track/1WHswKK7hmiSS0O3AWF3w4) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Push Through](https://open.spotify.com/album/3u39SiaHiktRMEzOE4mhPm) | 5:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Son of a Broken Man](https://open.spotify.com/track/6sTKa8DhJcS7X53hBi3lrN) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Son of a Broken Man](https://open.spotify.com/album/5jL3XdYW4DmApDB3EAdm7O) | 4:58 |
 | 100 | [Drunk on Your Love](https://open.spotify.com/track/3bEiLUc6SNYVtJr1FgcN4k) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Drifter](https://open.spotify.com/album/3K3Pd91BolfUsaTUhp6jZR) | 3:42 |
 
-Snapshot ID: `AAAAAEcjsUCGX9VWk+2HIunJw6PgXKgq`
+Snapshot ID: `AAAAAFIcHHsudRcMegnFcnxweYvAN2AU`

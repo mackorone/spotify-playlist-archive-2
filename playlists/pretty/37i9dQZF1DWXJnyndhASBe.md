@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kizo, Avi, Oskar83
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,980 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,961 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Powiedz To](https://open.spotify.com/track/5yiFrvo6ivcgyVamCQ6nmy) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Powiedz To](https://open.spotify.com/album/101DVZzw8zmWQnPyUsDv39) | 1:32 |
 | 50 | [WHOA](https://open.spotify.com/track/3inoPwBzO5m93tpntcupGJ) | [javier](https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY), [gogetmxney](https://open.spotify.com/artist/2vezpzmo1fwbcolcyQed5c) | [WHOA](https://open.spotify.com/album/5QOnIfDdC7zlU7zMp6oghX) | 2:00 |
 
-Snapshot ID: `AAAAAJBPgw8z9IieTrzbyy3NZ0dsrwF0`
+Snapshot ID: `AAAAAGsYKXi9bO9Bn26f4ANp56t/Hjdw`

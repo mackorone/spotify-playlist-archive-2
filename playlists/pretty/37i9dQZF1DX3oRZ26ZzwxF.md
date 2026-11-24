@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : THB
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,799 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,868 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 8 | [Migbo \- Remix](https://open.spotify.com/track/2uKYG8QCwSWWFqJLUaRZ3K) | [Sethlo](https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [Migbo \(Remix\)](https://open.spotify.com/album/4ELI9VcvrNzVd9aTV1HBxS) | 2:55 |
 | 9 | [BAHI \(feat\. OG Mahilet\)](https://open.spotify.com/track/6AbNKW8w5Vu5QAxvWevJqz) | [Wantché](https://open.spotify.com/artist/12IHM2ppR26NmIUesKOGZQ), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT) | [BAHI \(feat\. OG Mahilet\)](https://open.spotify.com/album/0XA9mBDULejjfUvQIcpOtf) | 2:44 |
 | 10 | [Plan de Dieu](https://open.spotify.com/track/0n43Rn3jqG3KjRNTzpKRE9) | [Jordy Escobar](https://open.spotify.com/artist/7y8rRFHnMzwKqKxgyLwJIb), [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP) | [MAFIOSO VIBES](https://open.spotify.com/album/4XOQU1HZplHwXM78ZTRwyk) | 3:24 |
-| 11 | [Plus jahin](https://open.spotify.com/track/1ZpsuOG0eE7wRqzIr9BXYz) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Désmothène Zeus](https://open.spotify.com/album/60fPHO1yeZ4CVHkg2tsD3W) | 2:56 |
+| 11 | [Plus jahin](https://open.spotify.com/track/1ZpsuOG0eE7wRqzIr9BXYz) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Démosthène Zeus](https://open.spotify.com/album/60fPHO1yeZ4CVHkg2tsD3W) | 2:56 |
 | 12 | [DJOROBITE](https://open.spotify.com/track/3cBUbK4zqkC3U2NcHK0Ugm) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:53 |
 | 13 | [OKULU](https://open.spotify.com/track/5EYzkAbjF5CEY2SWtyUeYl) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [AFRO\-N\-TCHAM 2](https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg) | 2:58 |
 | 14 | [Wari Fatchai](https://open.spotify.com/track/0NgtyK6apdDOUBk7TagybW) | [Miedjia](https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX) | [Wari Fatchai](https://open.spotify.com/album/5aLOjJtlh7sdKoaQOzu7Kw) | 2:15 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 48 | [INGUÉRISSABLE](https://open.spotify.com/track/24m2Obg80M1GjazM572TU7) | [Le Petit Mandelha](https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [INGUÉRISSABLE](https://open.spotify.com/album/57u2uKWSBm69T7hXwRdn5O) | 2:46 |
 | 49 | [Happiness](https://open.spotify.com/track/6y3eM48BvzpMCk9DaiFarx) | [Miss kala kala](https://open.spotify.com/artist/73vwqIImTdACRMndLzff9a) | [Happiness](https://open.spotify.com/album/50L0Y1UjqLn7TtmjEGOUky) | 3:00 |
 
-Snapshot ID: `AAAAACPeEhZ83yCLDaY7G1Vk+6VDMA8L`
+Snapshot ID: `AAAAAFyIz8ZojV5amxLALWAcAhJf3AwC`

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21326,
+  "num_followers": 21328,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIwOJ09bSyUU81L7L3yFAZ/rJlRZ",
+  "snapshot_id": "AAAAANuyCF/yh2QOwXbtuuZlPvE+hvH3",
   "tracks": [
     {
       "added_at": "2026-06-25 15:51:09",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
-        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hong",
-          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "GOOD BOY (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Love will find a way",
-      "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "To the other side of greed",
         "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 195906,
       "name": "Do my best",
       "url": "https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "GOOD BOY (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Love will find a way",
+      "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "The Reason - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1"
+      },
+      "artists": [
+        {
+          "name": "Yim Siwan",
+          "url": "https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/6yL5rrRJmWvfiIboskQ6IG"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 206000,
       "name": "Can i love u?",
       "url": "https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "The Reason - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1"
-      },
-      "artists": [
-        {
-          "name": "Yim Siwan",
-          "url": "https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/6yL5rrRJmWvfiIboskQ6IG"
     },
     {
       "added_at": "2026-06-25 15:51:09",

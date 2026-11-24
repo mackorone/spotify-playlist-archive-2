@@ -1,12 +1,12 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 603107,
+  "num_followers": 603200,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPK8dm8Yd+V7Svw29YcJsg2fahl",
+  "snapshot_id": "AAAAAIuviyM03y2Gmj+hlGriY0T4e6th",
   "tracks": [
     {
       "added_at": "2026-06-23 12:55:07",
@@ -295,26 +295,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        },
-        {
-          "name": "Magenta",
-          "url": "https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
         "url": "https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 149504,
       "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
       "url": "https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        },
+        {
+          "name": "Magenta",
+          "url": "https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "A Todo Remix",
-        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
-      },
-      "artists": [
-        {
-          "name": "Puro Movimiento DJ",
-          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
-        }
-      ],
-      "duration_ms": 207121,
-      "name": "D\u00e9jala",
-      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "A Todo Remix",
+        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
+      },
+      "artists": [
+        {
+          "name": "Puro Movimiento DJ",
+          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
+        }
+      ],
+      "duration_ms": 207121,
+      "name": "D\u00e9jala",
+      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "De Culo",
         "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 275356,
       "name": "El reloj cu cu",
       "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB"
-      },
-      "artists": [
-        {
-          "name": "Sonido Basico",
-          "url": "https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA"
-        }
-      ],
-      "duration_ms": 241093,
-      "name": "Encararte",
-      "url": "https://open.spotify.com/track/5gnLRLGvpP5lAzam0VQf0T"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB"
       },
       "artists": [
         {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+          "name": "Sonido Basico",
+          "url": "https://open.spotify.com/artist/7mkvT1y5EkJJtQKjF36HQA"
         }
       ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
+      "duration_ms": 241093,
+      "name": "Encararte",
+      "url": "https://open.spotify.com/track/5gnLRLGvpP5lAzam0VQf0T"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1103,6 +1103,22 @@
       "duration_ms": 227266,
       "name": "Te Llev\u00e1s Todo",
       "url": "https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Su Majestad",
+        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "Caprichosa",
+      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Su Majestad",
-        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "Caprichosa",
-      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 234864,
-      "name": "Triste Palomita",
-      "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "KaKa Nene",
         "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Me Vas a Hacer Llorar",
-        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
       "artists": [
         {
-          "name": "Debora",
-          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
         }
       ],
-      "duration_ms": 227680,
-      "name": "La Miel de Tus Labios",
-      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
+      "duration_ms": 234864,
+      "name": "Triste Palomita",
+      "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "M\u00e1s Duros que Nunca",
+        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 278466,
+      "name": "El Pibe Villero",
+      "url": "https://open.spotify.com/track/5qz6d7xTHxLnTNqyeDWNWX"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "M\u00e1s Duros que Nunca",
-        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
+        "name": "Me Vas a Hacer Llorar",
+        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
       },
       "artists": [
         {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+          "name": "Debora",
+          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
         }
       ],
-      "duration_ms": 278466,
-      "name": "El Pibe Villero",
-      "url": "https://open.spotify.com/track/5qz6d7xTHxLnTNqyeDWNWX"
+      "duration_ms": 227680,
+      "name": "La Miel de Tus Labios",
+      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "El Autentico Creador De La Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 266475,
-      "name": "Padre Ejemplar",
-      "url": "https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "El Autentico Creador De La Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 266475,
+      "name": "Padre Ejemplar",
+      "url": "https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 104973,
-      "name": "Vuelve a Mi Lado",
-      "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Y Pinto... El Arrebato Guacho",
         "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 177093,
       "name": "Quiero Que Escuches",
       "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 104973,
+      "name": "Vuelve a Mi Lado",
+      "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "La danza del tabl\u00f3n",
-        "url": "https://open.spotify.com/album/2UQr6PiUDNXOwcqL51Nimv"
-      },
-      "artists": [
-        {
-          "name": "Guach\u00edn",
-          "url": "https://open.spotify.com/artist/79yjQ1ZSsudCW4bfGRcoGM"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "La danza del tabl\u00f3n",
-      "url": "https://open.spotify.com/track/0fJ4Ovj14Cy6buunOqWcGL"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Corte Caco (Remix)",
         "url": "https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 214020,
       "name": "Corte Caco - Remix",
       "url": "https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "La danza del tabl\u00f3n",
+        "url": "https://open.spotify.com/album/2UQr6PiUDNXOwcqL51Nimv"
+      },
+      "artists": [
+        {
+          "name": "Guach\u00edn",
+          "url": "https://open.spotify.com/artist/79yjQ1ZSsudCW4bfGRcoGM"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "La danza del tabl\u00f3n",
+      "url": "https://open.spotify.com/track/0fJ4Ovj14Cy6buunOqWcGL"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "La 2\u00ba del Boxeador",
-      "url": "https://open.spotify.com/track/2FzrVCKuS508J1rpdgdfbD"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 140866,
       "name": "Te Invito a Bailar",
       "url": "https://open.spotify.com/track/5DDiufzTHaZAFuL0PQni2d"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "La 2\u00ba del Boxeador",
+      "url": "https://open.spotify.com/track/2FzrVCKuS508J1rpdgdfbD"
     },
     {
       "added_at": "2026-06-23 12:55:07",

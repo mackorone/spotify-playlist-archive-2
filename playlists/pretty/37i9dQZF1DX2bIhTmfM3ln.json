@@ -1,13 +1,29 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 64626,
+  "num_followers": 64641,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANcgGbSmdl1Rp6DkSm6/iagEo1TU",
+  "snapshot_id": "AAAAAEdZOjATBZmYgjvf9Nj1N+A19sh+",
   "tracks": [
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+    },
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 166150,
       "name": "B4 B4 (with Mayorkun & FOLA)",
       "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
-        "name": "Still In Charge",
-        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 162284,
-      "name": "If You Like",
-      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -87,22 +87,6 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 143644,
-      "name": "Wa",
-      "url": "https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
@@ -123,18 +107,38 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 146490,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
+      "duration_ms": 143644,
+      "name": "Wa",
+      "url": "https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -211,6 +215,22 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
         "name": "Back 2 U",
         "url": "https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C"
       },
@@ -283,42 +303,6 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
-        "name": "Feel Alright",
-        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 229757,
-      "name": "Feel Alright",
-      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
-        "name": "GTA",
-        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 155441,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 225310,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/2DNuNrU5cWHNAJD0V8trkH"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 155441,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
+        "name": "Industry Chef",
+        "url": "https://open.spotify.com/album/47DwWJvGkf19FV1AKefdTs"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 154124,
+      "name": "Ire",
+      "url": "https://open.spotify.com/track/39jIGChMetgMu5zadSdteW"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 146000,
       "name": "Round One (Elle Mummy)",
       "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
-        "name": "Industry Chef",
-        "url": "https://open.spotify.com/album/47DwWJvGkf19FV1AKefdTs"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 154124,
-      "name": "Ire",
-      "url": "https://open.spotify.com/track/39jIGChMetgMu5zadSdteW"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
-        "name": "Pretty Nun",
-        "url": "https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "Pretty Nun",
-      "url": "https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
         "name": "Ferawa",
         "url": "https://open.spotify.com/album/1a53BwC3qZc8pVO2eb67tr"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 149245,
       "name": "Ferawa",
       "url": "https://open.spotify.com/track/0N1DsTvTxWE6fjN1kjIOgh"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
+        "name": "Pretty Nun",
+        "url": "https://open.spotify.com/album/1veGoY6KzA20jq35UD5kdB"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "Pretty Nun",
+      "url": "https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/6qACH9R67mlG2RfEejcQzl"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1HOQQpVwY6erTTCnQfvt7t"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 167787,
       "name": "Orindowo",
       "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6qACH9R67mlG2RfEejcQzl"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1HOQQpVwY6erTTCnQfvt7t"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
         "name": "Come Kulosa",
         "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 144444,
       "name": "Come Kulosa",
       "url": "https://open.spotify.com/track/2OJtdCzSnQ1G9rMJ6eD1Wt"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -1187,22 +1187,6 @@
       "duration_ms": 180528,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4oMLmQyX1VubCpDGSZJhhr"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
-        "name": "ZUKO!",
-        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 154328,
-      "name": "SEX LOVE UNDERSTANDING TRUST",
-      "url": "https://open.spotify.com/track/6zcmVESV4j8HnR0dvyB3Qh"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-11-20 16:26:46",
       "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 154328,
+      "name": "SEX LOVE UNDERSTANDING TRUST",
+      "url": "https://open.spotify.com/track/6zcmVESV4j8HnR0dvyB3Qh"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
         "name": "What A Feeling",
         "url": "https://open.spotify.com/album/233CXYAN2uRStnzufNSzHm"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 178000,
       "name": "Julie",
       "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
-    },
-    {
-      "added_at": "2026-11-20 16:26:46",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
-      },
-      "artists": [
-        {
-          "name": "Toje",
-          "url": "https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Kaya",
-      "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
     },
     {
       "added_at": "2026-11-20 16:26:46",
@@ -1351,6 +1335,22 @@
       "duration_ms": 192921,
       "name": "Hildabaci - Remix",
       "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
+    },
+    {
+      "added_at": "2026-11-20 16:26:46",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/4pe6MgCTqlruWhzZJontPt"
+      },
+      "artists": [
+        {
+          "name": "Toje",
+          "url": "https://open.spotify.com/artist/39WpZmfnvXj4UaxSkEElF0"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/74Ba34kPzxpvJVjBrotoI4"
     },
     {
       "added_at": "2026-11-20 16:26:46",

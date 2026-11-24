@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 52159,
+  "num_followers": 52162,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKb5AUgjeH5bOsie9s4MgOUcbLE",
+  "snapshot_id": "AAAAAJoLbXpqw5Mw+Yp9Vy7LVZd+Pe/O",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/5p3g2nCVAeUIXzhBtTYWux"
       },
@@ -1439,6 +1455,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 145720,
+      "name": "U (Man Like)",
+      "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz"
       },
@@ -1451,22 +1483,6 @@
       "duration_ms": 126120,
       "name": "Ghostride",
       "url": "https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5fLZQWarUISdz4attMFTXl"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1519,6 +1535,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5fLZQWarUISdz4attMFTXl"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Miss Universe",
         "url": "https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU"
       },
@@ -1531,22 +1563,6 @@
       "duration_ms": 281170,
       "name": "Baby Blu",
       "url": "https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1627,22 +1643,6 @@
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "U.F.O.F.",
-        "url": "https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "UFOF",
-      "url": "https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE"
     }
   ],
   "unique_name": "Best of Indie 2019",

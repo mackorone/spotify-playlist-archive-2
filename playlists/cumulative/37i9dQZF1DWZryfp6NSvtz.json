@@ -224607,6 +224607,24 @@
     },
     {
       "album": {
+        "name": "Whatever You Want",
+        "url": "https://open.spotify.com/album/2bQUBit5DReqFgaXk4gSd0"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323424,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/5tTbRCNaDmEmi1SjMEb42k"
+    },
+    {
+      "album": {
         "name": "Whatever, Who Cares",
         "url": "https://open.spotify.com/album/1nAB5FeTy2zIHu3AEdlZtk"
       },

@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 125430,
+  "num_followers": 125465,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADVDN1DMxmc0erbUv7a/byBYJoYU",
+  "snapshot_id": "AAAAAHgUKCfGC5aDohbTRBkQymCf6JvH",
   "tracks": [
     {
       "added_at": "2026-11-19 17:00:22",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-11-19 17:00:22",
       "album": {
-        "name": "HOP ON DA SHOW",
-        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        },
-        {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        }
-      ],
-      "duration_ms": 175876,
-      "name": "HOP ON DA SHOW",
-      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
-    },
-    {
-      "added_at": "2026-11-19 17:00:22",
-      "album": {
         "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
         "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 210491,
       "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
       "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
+    },
+    {
+      "added_at": "2026-11-19 17:00:22",
+      "album": {
+        "name": "HOP ON DA SHOW",
+        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "duration_ms": 175876,
+      "name": "HOP ON DA SHOW",
+      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
     },
     {
       "added_at": "2026-11-19 17:00:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-11-19 17:00:22",
       "album": {
-        "name": "ADAMN",
-        "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
-      },
-      "artists": [
-        {
-          "name": "Donald Gold",
-          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "ADAMN",
-      "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
-    },
-    {
-      "added_at": "2026-11-19 17:00:22",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": "2026-11-19 17:00:22",
       "album": {
-        "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
-        "url": "https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2"
+        "name": "ADAMN",
+        "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
       },
       "artists": [
         {
-          "name": "Only C",
-          "url": "https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo"
-        },
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+          "name": "Donald Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
         }
       ],
-      "duration_ms": 294534,
-      "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
-      "url": "https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8"
+      "duration_ms": 223500,
+      "name": "ADAMN",
+      "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
     },
     {
       "added_at": "2026-11-19 17:00:22",
@@ -947,6 +927,26 @@
       "duration_ms": 220289,
       "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
       "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
+    },
+    {
+      "added_at": "2026-11-19 17:00:22",
+      "album": {
+        "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
+        "url": "https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2"
+      },
+      "artists": [
+        {
+          "name": "Only C",
+          "url": "https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        }
+      ],
+      "duration_ms": 294534,
+      "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
+      "url": "https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8"
     },
     {
       "added_at": "2026-11-19 17:00:22",

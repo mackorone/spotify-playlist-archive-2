@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAAAcW/2mdX7LjUEz8JJ6yDuX",
+  "snapshot_id": "awIwgAAAAAB7gLlCIDQnERPU03GnQuJ+",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poof Be Gone",
+        "url": "https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P"
+      },
+      "artists": [
+        {
+          "name": "KyleYouMadeThat",
+          "url": "https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Yvette",
+          "url": "https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV"
+        },
+        {
+          "name": "Cheerlebridee",
+          "url": "https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj"
+        }
+      ],
+      "duration_ms": 112931,
+      "name": "Poof Be Gone (with Yung Baby Tate & Yvette and feat. Cheerlebridee)",
+      "url": "https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "why can't we just pretend?",
         "url": "https://open.spotify.com/album/1VNREdUl5SOOkfCcsUFPWJ"
       },
@@ -519,34 +547,6 @@
       "duration_ms": 167833,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poof Be Gone",
-        "url": "https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P"
-      },
-      "artists": [
-        {
-          "name": "KyleYouMadeThat",
-          "url": "https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Yvette",
-          "url": "https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV"
-        },
-        {
-          "name": "Cheerlebridee",
-          "url": "https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj"
-        }
-      ],
-      "duration_ms": 112931,
-      "name": "Poof Be Gone (with Yung Baby Tate & Yvette and feat. Cheerlebridee)",
-      "url": "https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
       "duration_ms": 192697,
       "name": "Like We",
       "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Hits",
-        "url": "https://open.spotify.com/album/1RniJMnSKSAV3weUsCyoNZ"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 167151,
-      "name": "Yasss Queen",
-      "url": "https://open.spotify.com/track/5dbKYoGRGgKtamrxymtFQh"
     },
     {
       "added_at": null,
@@ -919,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 162199,
+      "name": "Luv Everybody",
+      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 192057,
       "name": "Don\u2019t Even Think About It (with Baby Tate)",
       "url": "https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 162199,
-      "name": "Luv Everybody",
-      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
     },
     {
       "added_at": null,
@@ -983,6 +967,30 @@
       "duration_ms": 270186,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRLS Deluxe",
+        "url": "https://open.spotify.com/album/3f1h1T1qRCKVMgCiojxGr1"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 262832,
+      "name": "Mean Girl (feat. Queen Key & Asian Doll)",
+      "url": "https://open.spotify.com/track/5EzqgKzMvp17pqX2MWetCh"
     },
     {
       "added_at": null,

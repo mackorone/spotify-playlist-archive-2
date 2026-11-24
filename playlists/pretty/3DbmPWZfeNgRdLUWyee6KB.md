@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,340 likes - 134 songs - 8 hr 6 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,341 likes - 142 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 132 | [Another Goodbye](https://open.spotify.com/track/5yutgXr4hZanogTM7zxNR9) | [Fiery Gizzard](https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q) | [Another Goodbye](https://open.spotify.com/album/5KI7IMOyJbImYN8pOGTTep) | 4:12 |
 | 133 | [Piccola Mia](https://open.spotify.com/track/4US8zSZBo1hGIjoIwjb8Mg) | [Pako](https://open.spotify.com/artist/0WbqzGPees7cAqgr7HcUYR) | [Piccola Mia](https://open.spotify.com/album/7Eu5MVtDHGnJRD8uTx2tMr) | 3:18 |
 | 134 | [Do I Deserve Your Love?](https://open.spotify.com/track/4bocWQByC0089IiiyKhugL) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Do I Deserve Your Love?](https://open.spotify.com/album/2m0fTUkZsFoez9qw19UVqh) | 4:16 |
+| 135 | [Nowhere Near But Twice As Much.Acoustic](https://open.spotify.com/track/710k5zx06C6aNDuQNqQsZY) | [Gareth Osborne](https://open.spotify.com/artist/54cQ4ZoclwaX17ytgdBsMI) | [Nowhere Near But Twice As Much.Acoustic](https://open.spotify.com/album/1dVKUQVuU2i113OqddIegR) | 3:54 |
+| 136 | [ILL Fated Dawn](https://open.spotify.com/track/5DOII3SezBKKZyfqXcFDmM) | [Prakriti Saluja](https://open.spotify.com/artist/0NReCigfwe0R1PCaTppIQi) | [ILL Fated Dawn](https://open.spotify.com/album/11dgAkUtirxn7cQln5VqLW) | 3:33 |
+| 137 | [Everybody Wanna Love Somebody](https://open.spotify.com/track/4fHnSiaf45SDue4SyiTJls) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Everybody Wanna Love Somebody](https://open.spotify.com/album/7eZ98siGjZDln2SYjXbqQj) | 2:42 |
+| 138 | [Runaway](https://open.spotify.com/track/5mBPRV8lF927wLu0ObsFF5) | [Ross Herner](https://open.spotify.com/artist/43djSoYAg6SfpewML6QJ4w) | [Runaway](https://open.spotify.com/album/5HX8n4H8MYJxra41xKkeDM) | 3:28 |
+| 139 | [ADINI YOLLARA YAZDIM](https://open.spotify.com/track/7sU0ay5RWulpNoDvZcn21s) | [İstanbul Arabesque Project](https://open.spotify.com/artist/7A7y6x4Z6DZ8KuXCwfE4xg) | [ADINI YOLLARA YAZDIM](https://open.spotify.com/album/0LtplaKPDEz3iEpGb0Wzsx) | 3:37 |
+| 140 | [Bir Ses](https://open.spotify.com/track/6shQUSFp5hC2LDjcIUWbIA) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Bir Ses](https://open.spotify.com/album/5PDEG7b5Nar5ZJYzohezSR) | 2:16 |
+| 141 | [Keep Talking](https://open.spotify.com/track/5ntORZ2kCJhmf7BUUkewH6) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Keep Talking](https://open.spotify.com/album/3uAUaQHNI4Y3tBt5dNRqpd) | 3:33 |
+| 142 | [Always Thought You'd Stay](https://open.spotify.com/track/2U43ZcwqAvGcak7e9Upo3a) | [John Henderson](https://open.spotify.com/artist/15RnTvJc9hPCUuIjuFrl4n), [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [Always Thought You'd Stay](https://open.spotify.com/album/40z1zEOiy2rdXzJ5rM1QKM) | 3:57 |
 
-Snapshot ID: `AAAZzsNSJ4vVHkSOcGIuHPXQkzOKLd6e`
+Snapshot ID: `AAAZ1iGq5f28tMPmRkIo/84A5Npk9ei5`

@@ -8809,6 +8809,24 @@
     },
     {
       "album": {
+        "name": "Until We Disappear",
+        "url": "https://open.spotify.com/album/3IU9z8sm3OjTzfhEbvsoxF"
+      },
+      "artists": [
+        {
+          "name": "Any Given Sin",
+          "url": "https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/2RvtVIJ46ZEKtatAlhswSr"
+    },
+    {
+      "album": {
         "name": "Dr. Frankenstein",
         "url": "https://open.spotify.com/album/0wMNRUO4RFJqYpYRPIcM98"
       },
@@ -11882,6 +11900,24 @@
       "duration_ms": 174952,
       "name": "Full Of Emptiness",
       "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
+    },
+    {
+      "album": {
+        "name": "Audio Secrecy (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4GJijrNN1n75ynS6PbiDfx"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254433,
+      "name": "Full of Empty - 2026 Version",
+      "url": "https://open.spotify.com/track/3FVkJoB5jM7iB8mDJgeKFo"
     },
     {
       "album": {
@@ -28286,7 +28322,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 150093,
       "name": "Shedding Season (feat. Courtney LaPlante)",
       "url": "https://open.spotify.com/track/2RO6D7molMZBEdGrnhCK0J"
@@ -28726,7 +28762,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 278710,
       "name": "Sit With",
       "url": "https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H"

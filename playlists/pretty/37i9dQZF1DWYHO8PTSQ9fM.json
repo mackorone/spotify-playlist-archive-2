@@ -1,15 +1,15 @@
 {
   "description": "The hottest hits right now. ",
-  "num_followers": 680302,
+  "num_followers": 680311,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALu6y0HeHMu/DsQhtn21U+jQeXEm",
+  "snapshot_id": "AAAAABUU6gnzu2wpIxHcN/51zFtIORWA",
   "tracks": [
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "AGUA",
         "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -81,55 +81,23 @@
       "url": "https://open.spotify.com/track/2GhQn93HtnDhHnQOkH2rhG"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
-        "name": "7OLM KBIR",
-        "url": "https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF"
+        "name": "CARAPACE",
+        "url": "https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX"
       },
       "artists": [
         {
-          "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
         }
       ],
-      "duration_ms": 217500,
-      "name": "7OLM KBIR",
-      "url": "https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw"
+      "duration_ms": 169218,
+      "name": "CARAPACE",
+      "url": "https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
-      "album": {
-        "name": "WA3RA",
-        "url": "https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8"
-      },
-      "artists": [
-        {
-          "name": "Mirv48",
-          "url": "https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma"
-        }
-      ],
-      "duration_ms": 141543,
-      "name": "WA3RA",
-      "url": "https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY"
-    },
-    {
-      "added_at": "2026-11-16 06:28:28",
-      "album": {
-        "name": "L'undertaker, Pt.2",
-        "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 168716,
-      "name": "12",
-      "url": "https://open.spotify.com/track/7C6qjGYDI7h28Nh4lQWYDo"
-    },
-    {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -153,7 +121,39 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
+      "album": {
+        "name": "7OLM KBIR",
+        "url": "https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF"
+      },
+      "artists": [
+        {
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "7OLM KBIR",
+      "url": "https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw"
+    },
+    {
+      "added_at": "2026-11-23 16:41:47",
+      "album": {
+        "name": "L'undertaker, Pt.2",
+        "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 168716,
+      "name": "12",
+      "url": "https://open.spotify.com/track/7C6qjGYDI7h28Nh4lQWYDo"
+    },
+    {
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Mi Chico (Official - Jason Derulo x Melody)",
         "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
@@ -177,7 +177,39 @@
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
+      "album": {
+        "name": "WA3RA",
+        "url": "https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8"
+      },
+      "artists": [
+        {
+          "name": "Mirv48",
+          "url": "https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma"
+        }
+      ],
+      "duration_ms": 141543,
+      "name": "WA3RA",
+      "url": "https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY"
+    },
+    {
+      "added_at": "2026-11-23 16:41:47",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "UFUL",
         "url": "https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
@@ -217,7 +249,7 @@
       "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Keddab",
         "url": "https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
@@ -253,27 +285,23 @@
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
-        "name": "Risala",
-        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
       },
       "artists": [
         {
-          "name": "Kira7",
-          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
-        },
-        {
-          "name": "FRIZZY",
-          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Risala",
-      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
+      "duration_ms": 163636,
+      "name": "NO WOMAN NO CRY",
+      "url": "https://open.spotify.com/track/3TPzAecCS5wIcTEzXWZgKn"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Sabor",
         "url": "https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU"
@@ -293,23 +321,7 @@
       "url": "https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
-      "album": {
-        "name": "L'undertaker, Pt.1",
-        "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
-    },
-    {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Sabran",
         "url": "https://open.spotify.com/album/3d0L7KfTJenTUiOQsrqcv4"
@@ -325,7 +337,27 @@
       "url": "https://open.spotify.com/track/5iQPZCQR5SBP3moPvnO8S5"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
+      "album": {
+        "name": "Risala",
+        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        },
+        {
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Risala",
+      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
+    },
+    {
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Fille \u00e0 Papa",
         "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
@@ -345,7 +377,23 @@
       "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
+      "album": {
+        "name": "L'undertaker, Pt.1",
+        "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
+    },
+    {
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Talk To You (ft. 54 Ultra)",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
@@ -365,7 +413,7 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "PILLAVE",
         "url": "https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6"
@@ -381,7 +429,7 @@
       "url": "https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Sexy Nana",
         "url": "https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30"
@@ -401,7 +449,7 @@
       "url": "https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "A MAN WITH A GUN",
         "url": "https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV"
@@ -421,7 +469,7 @@
       "url": "https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "J'en ai marre",
         "url": "https://open.spotify.com/album/6g5QAGRcNpbBohDuirDkIx"
@@ -437,7 +485,7 @@
       "url": "https://open.spotify.com/track/2RL4lGgnvpJzZg4lfTvrPo"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "AFLAM",
         "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "SALGOAT (Vol. 2 - Extension)",
         "url": "https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g"
@@ -477,7 +525,7 @@
       "url": "https://open.spotify.com/track/5JSDLfkAEYMm0DeYNqQd5e"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "TITIZ A KHAY",
         "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
@@ -497,7 +545,7 @@
       "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -513,7 +561,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Grand Gar\u00e7on",
         "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "DEMMI MARROKI",
         "url": "https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp"
@@ -553,7 +601,7 @@
       "url": "https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Cheraniya",
         "url": "https://open.spotify.com/album/2C0dO2uVSXLigLwcdxOErk"
@@ -569,7 +617,7 @@
       "url": "https://open.spotify.com/track/3EwiqimqS7nPvWExYo3jx1"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "ZOMBIE",
         "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
@@ -585,7 +633,7 @@
       "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "C'est Pas Facile",
         "url": "https://open.spotify.com/album/1NOlrWyYjYNKK2H42R8DsW"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/5UtkkA4Rw0CWHeyqFn0Bzq"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "GENDARMIA",
         "url": "https://open.spotify.com/album/1DNqeO3UCKB4ly2mtvQHtR"
@@ -633,7 +681,7 @@
       "url": "https://open.spotify.com/track/0Ue7OnQYG5r3S8Q3o0HF2L"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "MANZAKINE x FID\u00c8LE",
         "url": "https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm"
@@ -653,7 +701,7 @@
       "url": "https://open.spotify.com/track/1ExnYU3XbOW7mEIfaNeKX0"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "FALLEN ANGEL",
         "url": "https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -693,7 +741,7 @@
       "url": "https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Ach khellah Yetfakarni",
         "url": "https://open.spotify.com/album/3783OvbEPlHQVwToBsrirf"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/3H54lEEiew66nSG4NyatEF"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Kakalika",
         "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "AGOGO",
         "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
@@ -741,7 +789,7 @@
       "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "M\u00e9lo D\u00e9cal\u00e9",
         "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
@@ -757,7 +805,7 @@
       "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "LALLAMOULATI",
         "url": "https://open.spotify.com/album/0FvCxvIwXzYXOwkxOThhkx"
@@ -777,7 +825,7 @@
       "url": "https://open.spotify.com/track/4POLmYRdKueIekaWLPZsEu"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Sensa",
         "url": "https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW"
@@ -801,23 +849,7 @@
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
-      "album": {
-        "name": "PER LA VITA",
-        "url": "https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "PER LA VITA",
-      "url": "https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW"
-    },
-    {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "SALGOAT (Vol. 2 - Extension)",
         "url": "https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g"
@@ -833,7 +865,7 @@
       "url": "https://open.spotify.com/track/6fyDZpCwS630m6moYg5FkV"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "SPLIT",
         "url": "https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e"
@@ -853,43 +885,7 @@
       "url": "https://open.spotify.com/track/5lC39yQlbwLlJyKswUV9yt"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
-      "album": {
-        "name": "Maladie",
-        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 192005,
-      "name": "Maladie",
-      "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
-    },
-    {
-      "added_at": "2026-11-16 06:28:28",
-      "album": {
-        "name": "SALGOAT (Vol. 2)",
-        "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 196510,
-      "name": "SAMEDI (feat. Shaw)",
-      "url": "https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D"
-    },
-    {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Dorororo",
         "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
@@ -905,7 +901,7 @@
       "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0"
@@ -933,7 +929,7 @@
       "url": "https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "Houwa 2",
         "url": "https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan"
@@ -949,7 +945,7 @@
       "url": "https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3"
     },
     {
-      "added_at": "2026-11-16 06:28:28",
+      "added_at": "2026-11-23 16:41:47",
       "album": {
         "name": "NGHAMER",
         "url": "https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX"

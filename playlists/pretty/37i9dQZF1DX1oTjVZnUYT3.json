@@ -1,12 +1,12 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 485861,
+  "num_followers": 485866,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFP44OhH7FWHa3t5TiV6kFssDv7w",
+  "snapshot_id": "AAAAAMnNouluty+Kv0//QBqhCu7v40Jr",
   "tracks": [
     {
       "added_at": "2021-11-26 03:18:52",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Um dos Poetas do Samba",
+        "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "O Feij\u00e3o de Dona Nen\u00e9m",
+      "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Um dos Poetas do Samba",
-        "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "O Feij\u00e3o de Dona Nen\u00e9m",
-      "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Eu Vou Fazer Voc\u00ea Voar",
-        "url": "https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Eu Vou Fazer Voc\u00ea Voar",
-      "url": "https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Tropix",
         "url": "https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4"
       },
@@ -855,18 +839,34 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Gal Canta Caetano",
-        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
+        "name": "Eu Vou Fazer Voc\u00ea Voar",
+        "url": "https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         }
       ],
-      "duration_ms": 284160,
-      "name": "Vaca Profana",
-      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
+      "duration_ms": 216053,
+      "name": "Eu Vou Fazer Voc\u00ea Voar",
+      "url": "https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Eu Sou O Samba",
+        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "Foi Um Rio Que Passou Em Minha Vida",
+      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -887,18 +887,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Eu Sou O Samba",
-        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
+        "name": "Gal Canta Caetano",
+        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
       },
       "artists": [
         {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Foi Um Rio Que Passou Em Minha Vida",
-      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
+      "duration_ms": 284160,
+      "name": "Vaca Profana",
+      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -951,18 +951,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH"
+        "name": "Minha Historia",
+        "url": "https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 208941,
-      "name": "Dona de mim",
-      "url": "https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p"
+      "duration_ms": 222693,
+      "name": "Meia Lua Inteira",
+      "url": "https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP"
     }
   ],
   "unique_name": "Festa Brasileira",

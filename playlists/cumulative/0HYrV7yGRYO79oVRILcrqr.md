@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-899 songs - 2 day 7 hr 59 min
+901 songs - 2 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Empty Rooms](https://open.spotify.com/track/6qfsVMk4hXxG8UmM2ROAYe) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Empty Rooms](https://open.spotify.com/album/16ct0XLkheDyM0vjZ2Mi9C) | 4:01 | 2025-09-30 | 2025-12-17 |
 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 | 2026-04-26 | 2026-05-26 |
 | [Endgame](https://open.spotify.com/track/6NIIn3IrbzMPviJ1hSceZL) | [Accentuator](https://open.spotify.com/artist/4dnPNxQvkKkniAVp5ohx51) | [Endgame](https://open.spotify.com/album/5BycyyA2vRM2cQQ7yAoBtM) | 4:07 | 2025-10-27 | 2025-11-28 |
+| [Enough](https://open.spotify.com/track/4M9cQk4HGzBWlZMi7WwAoo) | [Jimmy Sheesh](https://open.spotify.com/artist/3xJB0d9fDpYiNCbYuwPy1K) | [Enough](https://open.spotify.com/album/6udYuAxjPS8bKtwiSZJc0L) | 2:48 | 2026-11-23 |  |
 | [Equinoccio](https://open.spotify.com/track/0bxkS8cpglDigda6J3Kfam) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:21 | 2025-10-29 | 2025-12-17 |
 | [Eres la Salida](https://open.spotify.com/track/6Sr829J8pwV992gK1POY9D) | [Lily Suarez](https://open.spotify.com/artist/4n5pyBbmvQPxXYhWzOhobk) | [Eres la Salida](https://open.spotify.com/album/1gT4KLEASqfJRpS9VTiCsZ) | 3:06 | 2026-07-07 | 2026-08-01 |
 | [Eres Lo Que Quiero](https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:12 | 2025-09-26 | 2025-12-17 |
@@ -634,6 +635,7 @@
 | [Ride](https://open.spotify.com/track/5x4ka2kVGFhnWEfTLM2RFL) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Ride](https://open.spotify.com/album/7jrWuQolOpkVOKikDFc6oS) | 4:03 | 2026-01-19 | 2026-03-18 |
 | [Ride of Your Life](https://open.spotify.com/track/3sB3liuVnmOzxlyCLBCbIG) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [Juxta](https://open.spotify.com/artist/21iGpZuaMiJPrCNQcWPKKN), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Ride Of Your Life](https://open.spotify.com/album/3ZefyjSFIGGxfK2m83a1BS) | 6:36 | 2025-09-21 |  |
 | [Rise Above](https://open.spotify.com/track/309LwauvrDOeNJRMuE0Imu) | [Gut\-Scrapers](https://open.spotify.com/artist/1aelV1MURttvVkO7W4SSDa) | [Twelve Rays](https://open.spotify.com/album/7FSxxUop7f29sNP8qfCSzg) | 4:21 | 2026-01-19 | 2026-03-18 |
+| [Rive](https://open.spotify.com/track/45mcLKIeGqvQuRsFteRcvL) | [MARSUG](https://open.spotify.com/artist/43vnpFFDtHBUcWBGlJhvQh) | [Marsug](https://open.spotify.com/album/4pWXVHu9f7OhlP8vQ9X0cx) | 4:55 | 2026-11-23 |  |
 | [River](https://open.spotify.com/track/0X4XWWpcEIMZImTqO6Qzwr) | [Modarn](https://open.spotify.com/artist/21dNZRQ8rilyedhVEXFjkU) | [Dive In](https://open.spotify.com/album/4KaFd9rQ7YC0PWpNS14w99) | 4:06 | 2026-01-22 | 2026-03-18 |
 | [River](https://open.spotify.com/track/1lrSxSQ1xJhtOjQJyhpKOb) | [The Blue Marmalades](https://open.spotify.com/artist/0Cch3HVBzCsI5YUGMcAva9) | [River](https://open.spotify.com/album/3t8Xr8iT7VMJ5iD4M1uk6m) | 7:15 | 2026-03-16 | 2026-04-21 |
 | [Road home](https://open.spotify.com/track/3vWWVcx1tuc841jkIC7WHb) | [JJ Llombart](https://open.spotify.com/artist/3nUhOA1UIN29SP7hggslu9) | [Road home](https://open.spotify.com/album/0UMHEvnwS5ybVhdTXu4444) | 4:48 | 2026-01-27 | 2026-03-18 |

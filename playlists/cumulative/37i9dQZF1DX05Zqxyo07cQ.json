@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 190500,
       "name": "Attunement",
       "url": "https://open.spotify.com/track/6AmAEuR2VKtEOKvUkv5KGc"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Believing",
+        "url": "https://open.spotify.com/album/5IxDllhvpokK3X7klLTdzQ"
+      },
+      "artists": [
+        {
+          "name": "The Nightgate",
+          "url": "https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190370,
+      "name": "Believing",
+      "url": "https://open.spotify.com/track/1ehKwBvItKceTptAdV7ogD"
+    },
+    {
+      "album": {
         "name": "Below the Surface",
         "url": "https://open.spotify.com/album/1PVUyu756TaHSWMzpKxLrN"
       },
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 165900,
       "name": "Blomster\u00e4ng",
       "url": "https://open.spotify.com/track/12GlrNvdMf4ilK0TDfb0sW"
@@ -4160,7 +4178,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 177950,
       "name": "Divine Dimensions",
       "url": "https://open.spotify.com/track/1t8XW87hbwphHBwoZue0a2"
@@ -5744,7 +5762,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 158166,
       "name": "Eternal Oasis",
       "url": "https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc"
@@ -5960,7 +5978,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 147156,
       "name": "Euclid",
       "url": "https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN"
@@ -6399,6 +6417,24 @@
     },
     {
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/2F2r2LlYdVncsfQOhyJFqT"
+      },
+      "artists": [
+        {
+          "name": "Lumbus",
+          "url": "https://open.spotify.com/artist/1RNt7MjVfrk7ZGMVbx6cdi"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157734,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/0GGCIC4ctiUCzxRdTtgzc0"
+    },
+    {
+      "album": {
         "name": "Bridge",
         "url": "https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL"
       },
@@ -6540,6 +6576,24 @@
       "duration_ms": 159600,
       "name": "For a moment",
       "url": "https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5"
+    },
+    {
+      "album": {
+        "name": "For A Moment",
+        "url": "https://open.spotify.com/album/7B7cD0hgpygHDdi74tVlyk"
+      },
+      "artists": [
+        {
+          "name": "Orchard of Dreams",
+          "url": "https://open.spotify.com/artist/7KKpkhN0p7RkFHeVScA4f1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160682,
+      "name": "For A Moment",
+      "url": "https://open.spotify.com/track/6DMCo5HO5TDnnh43d6gns5"
     },
     {
       "album": {
@@ -7472,7 +7526,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 180000,
       "name": "Hearts in Eden",
       "url": "https://open.spotify.com/track/7DKJZvhmfl6ijl5mjFGooO"
@@ -7962,6 +8016,24 @@
       "duration_ms": 140357,
       "name": "illusory",
       "url": "https://open.spotify.com/track/7D3ANNXkWNEUS82lNMwUgG"
+    },
+    {
+      "album": {
+        "name": "Immaculate Calm",
+        "url": "https://open.spotify.com/album/6bGXl2dD4R55mBSwWVx3LN"
+      },
+      "artists": [
+        {
+          "name": "Casiamty",
+          "url": "https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150234,
+      "name": "Immaculate Calm",
+      "url": "https://open.spotify.com/track/2Z7SPTRiMqAvImXvqWcIwR"
     },
     {
       "album": {
@@ -8664,6 +8736,24 @@
       "duration_ms": 209750,
       "name": "Just In View",
       "url": "https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv"
+    },
+    {
+      "album": {
+        "name": "Kaleido",
+        "url": "https://open.spotify.com/album/2k1Y36gRcP0eEXZsmVDtUr"
+      },
+      "artists": [
+        {
+          "name": "Ljusvara",
+          "url": "https://open.spotify.com/artist/3eeSa3zp3YbPqRhpq39eCh"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154429,
+      "name": "Kaleido",
+      "url": "https://open.spotify.com/track/7hLpV8zTG0Qn8hXAgrXZAF"
     },
     {
       "album": {
@@ -9402,6 +9492,24 @@
       "duration_ms": 168287,
       "name": "Lost in Midnight Blue",
       "url": "https://open.spotify.com/track/5nirCNBBC16XYO7TRlDupj"
+    },
+    {
+      "album": {
+        "name": "Lost in Reverie",
+        "url": "https://open.spotify.com/album/0GPuSTj8WoCq4GItHpOIvW"
+      },
+      "artists": [
+        {
+          "name": "Umi no Yume",
+          "url": "https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "Lost in Reverie",
+      "url": "https://open.spotify.com/track/6jyTCE2xqDfnK6K2GDHi2G"
     },
     {
       "album": {
@@ -10982,7 +11090,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 162500,
       "name": "Neith",
       "url": "https://open.spotify.com/track/2NYLBdcIqIOtS0Osf9xAXl"
@@ -13351,6 +13459,24 @@
     },
     {
       "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/1fzMxIOroEp7PIAg5Y1zD2"
+      },
+      "artists": [
+        {
+          "name": "Sera Lunare",
+          "url": "https://open.spotify.com/artist/1bxnFTrDiY5pFyaPGXqkOc"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145645,
+      "name": "Renewal",
+      "url": "https://open.spotify.com/track/4RfxK9mx3XJnIusdxDH1Oj"
+    },
+    {
+      "album": {
         "name": "Repose",
         "url": "https://open.spotify.com/album/4fPcAndYksTOwgjmHX9ZGx"
       },
@@ -15234,7 +15360,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 212666,
       "name": "Solsten",
       "url": "https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM"
@@ -15558,7 +15684,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 138194,
       "name": "Soothing Rain",
       "url": "https://open.spotify.com/track/0DUTTZ2PEFToJk76nWlsKE"
@@ -16249,6 +16375,24 @@
     },
     {
       "album": {
+        "name": "Subtle Steps",
+        "url": "https://open.spotify.com/album/2K8FXDPk5AyNrTFgDRbwKv"
+      },
+      "artists": [
+        {
+          "name": "Solar Path",
+          "url": "https://open.spotify.com/artist/16qIuTk9DNslq9krjSsnHj"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Subtle Steps",
+      "url": "https://open.spotify.com/track/1Z3ioTGY07BeZBETH6mSGu"
+    },
+    {
+      "album": {
         "name": "Sueno",
         "url": "https://open.spotify.com/album/6y6lWnmpKOMXvYJgNcXKvs"
       },
@@ -16663,6 +16807,24 @@
     },
     {
       "album": {
+        "name": "The Analytical Mind",
+        "url": "https://open.spotify.com/album/68ofYk30YfJagW0aD3iVLz"
+      },
+      "artists": [
+        {
+          "name": "Auraberg",
+          "url": "https://open.spotify.com/artist/7BIMR3wDBhIzyzkYe24BwJ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "The Analytical Mind",
+      "url": "https://open.spotify.com/track/5gRqKtFgYcNWFSNCHFbc2d"
+    },
+    {
+      "album": {
         "name": "The Arco",
         "url": "https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ"
       },
@@ -16915,6 +17077,24 @@
     },
     {
       "album": {
+        "name": "The Unseen Becoming",
+        "url": "https://open.spotify.com/album/0p1e2pOf0zXHvqDgf0ANlc"
+      },
+      "artists": [
+        {
+          "name": "Aura Veil",
+          "url": "https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156518,
+      "name": "The Unseen Becoming",
+      "url": "https://open.spotify.com/track/7oI3FcpBqTbH652BfsQFdZ"
+    },
+    {
+      "album": {
         "name": "Theremant",
         "url": "https://open.spotify.com/album/1d3rpThvIXaEM6KQIFZKZs"
       },
@@ -16980,7 +17160,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 169811,
       "name": "Through Orion",
       "url": "https://open.spotify.com/track/32YgG8zTpjCytaqP5hdiID"

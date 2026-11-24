@@ -6,8 +6,108 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAIJmBnLovwmgtK/xmu37y4/BY1BXTC",
+  "snapshot_id": "AAAINriyTQ8s5v2dNfLg5xRjWTUcS41Q",
   "tracks": [
+    {
+      "added_at": "2026-11-24 07:35:56",
+      "album": {
+        "name": "\u30ce\u30fc\u30e2\u30a2\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5XcAn7F06FVmtIWmy2WAtQ"
+      },
+      "artists": [
+        {
+          "name": "\u6674\u3044\u3061\u3070\u3093",
+          "url": "https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 181071,
+      "name": "\u30ce\u30fc\u30e2\u30a2\u30d5\u30a3\u30af\u30b7\u30e7\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4HpEIZhDMGLYzzGAb1Hdo6"
+    },
+    {
+      "added_at": "2026-11-24 07:36:09",
+      "album": {
+        "name": "\u3042\u306a\u305f\u3053\u305d\u3001\u9bae\u70c8",
+        "url": "https://open.spotify.com/album/4pbguvpg7Qf33XmipAQZQz"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "\u5acc\u3044\u3060\u306a\u3093\u3066 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/2sJ0rUHmynebBntEsbX3uM"
+    },
+    {
+      "added_at": "2026-11-24 07:36:21",
+      "album": {
+        "name": "\u4e0d\u53ef\u601d\u8b70",
+        "url": "https://open.spotify.com/album/4eYnVwsoTEynTWHa3HmToN"
+      },
+      "artists": [
+        {
+          "name": "\u78e8\u702c",
+          "url": "https://open.spotify.com/artist/4rG5vr6YW3rWm4aAO4VZd8"
+        },
+        {
+          "name": "VY1",
+          "url": "https://open.spotify.com/artist/5UOqnBIgjKd4LYbAtLA3Vv"
+        }
+      ],
+      "duration_ms": 317777,
+      "name": "\u6de1\u57f7",
+      "url": "https://open.spotify.com/track/1BLzzOG9BKrJOgpArSyk3d"
+    },
+    {
+      "added_at": "2026-11-24 07:36:32",
+      "album": {
+        "name": "\u5730\u7344\u5217\u8eca\u95bb\u9b54\u901d\u30ad",
+        "url": "https://open.spotify.com/album/0SG6NGKM12H0WwA0eZWwsC"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3053\u3084\u304b\u5927\u8056\u5802",
+          "url": "https://open.spotify.com/artist/6yq2Hzrg9vEBuebVFVMozB"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "\u5730\u7344\u5217\u8eca\u95bb\u9b54\u901d\u30ad (feat. KAITO)",
+      "url": "https://open.spotify.com/track/1QxM6sOM8Z4jhzTNL7RseO"
+    },
+    {
+      "added_at": "2026-11-24 07:36:42",
+      "album": {
+        "name": "\u30b5\u30ab\u30b5\u30de\u30aa\u30d2\u30e1\u30b5\u30de",
+        "url": "https://open.spotify.com/album/1POEtCC6BcbHsW0kanUw5G"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "\u30b5\u30ab\u30b5\u30de\u30aa\u30d2\u30e1\u30b5\u30de (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/4xeW2Iy2MYnncCF7r39Kjv"
+    },
     {
       "added_at": "2026-11-17 07:28:40",
       "album": {
@@ -739,106 +839,6 @@
       "duration_ms": 205800,
       "name": "\u306a\u3064\u307f (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/4aNo8GRijAgEQcyDVaG0Gb"
-    },
-    {
-      "added_at": "2026-08-25 07:46:00",
-      "album": {
-        "name": "\u305a\u3063\u3068\u30a2\u30bf\u30b7",
-        "url": "https://open.spotify.com/album/2opnaKf3TibCJLJrVVV6VT"
-      },
-      "artists": [
-        {
-          "name": "jon-YAKITORY",
-          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "\u305a\u3063\u3068\u30a2\u30bf\u30b7 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4hz58rak6gXZIfbQTMirZd"
-    },
-    {
-      "added_at": "2026-08-25 07:46:15",
-      "album": {
-        "name": "\u604b",
-        "url": "https://open.spotify.com/album/41UhRjZuWVZC0TDCqkmAdV"
-      },
-      "artists": [
-        {
-          "name": "Sohbana",
-          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
-        }
-      ],
-      "duration_ms": 206481,
-      "name": "\u604b",
-      "url": "https://open.spotify.com/track/72obTVs06gGRgUlAWt0fnd"
-    },
-    {
-      "added_at": "2026-08-25 07:46:25",
-      "album": {
-        "name": "\u30ef\u30f3\u30aa\u30dd VOL.22",
-        "url": "https://open.spotify.com/album/11WlHHqPODds9liiv3SnGr"
-      },
-      "artists": [
-        {
-          "name": "Wonderful\u2605opportunity!",
-          "url": "https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        }
-      ],
-      "duration_ms": 206381,
-      "name": "\u304a\u4e16\u8a71\u306b\u306a\u3063\u3066\u304a\u308a\u307e\u3059 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
-      "url": "https://open.spotify.com/track/0fZ6F99amn06WJHTeN0fMc"
-    },
-    {
-      "added_at": "2026-08-25 07:46:37",
-      "album": {
-        "name": "SEVENTEEN REUNIONS",
-        "url": "https://open.spotify.com/album/7tYChoqEk8lHw0hOGkf3oI"
-      },
-      "artists": [
-        {
-          "name": "buzzG",
-          "url": "https://open.spotify.com/artist/19NXgOnueQiWGJqA2G9ux8"
-        },
-        {
-          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
-          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "AGAINST (feat. GUMI)",
-      "url": "https://open.spotify.com/track/0LoinrByV5VmimCG9mrcNo"
-    },
-    {
-      "added_at": "2026-08-25 07:46:47",
-      "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/4UiuWGh0U97FMPUCNtJuuV"
-      },
-      "artists": [
-        {
-          "name": "\u66f8\u5e97\u592a\u90ce",
-          "url": "https://open.spotify.com/artist/2xUC9RhmZ0w9djd9uuPTCD"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "mortal (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/430GZmfeGWXZ7EfRVS0WA1"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

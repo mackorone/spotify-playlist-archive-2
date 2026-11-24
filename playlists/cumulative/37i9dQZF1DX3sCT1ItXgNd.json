@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lucho RK",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Mar\u00eda Becerra",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 167250,
       "name": "Borracho Otra Vez",
       "url": "https://open.spotify.com/track/3AMpOnSdrXqi87gaKjPxcl"
@@ -4474,7 +4474,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 220804,
       "name": "dame alas",
       "url": "https://open.spotify.com/track/3HIKayx0okvn3FnAyoLP9e"
@@ -5594,6 +5594,24 @@
       "duration_ms": 180986,
       "name": "D\u00e9jame t\u00fa",
       "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
+    },
+    {
+      "album": {
+        "name": "D\u00eda uno (Sin ti)",
+        "url": "https://open.spotify.com/album/3j5X9S8e6tPZeDNas2pBFB"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "D\u00eda uno (Sin ti)",
+      "url": "https://open.spotify.com/track/5Lnj8mnQeVfsVURhXG2q2Q"
     },
     {
       "album": {
@@ -7282,7 +7300,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 139787,
       "name": "feat. c\u00e9sar",
       "url": "https://open.spotify.com/track/6MQNRaOB5dSFeXhSoAJS9K"
@@ -10379,6 +10397,28 @@
     },
     {
       "album": {
+        "name": "Lo Siento Mi Amor - Spotify Singles",
+        "url": "https://open.spotify.com/album/7zoTDjFYDlSMeXL3E1xiAf"
+      },
+      "artists": [
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207366,
+      "name": "Lo Siento Mi Amor - Spotify Singles",
+      "url": "https://open.spotify.com/track/1w2i07yE8CvDcbA8bnrEAj"
+    },
+    {
+      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
       },
@@ -10778,6 +10818,24 @@
       "duration_ms": 172727,
       "name": "Madrid City",
       "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
+    },
+    {
+      "album": {
+        "name": "(no) fue real [Deluxe]",
+        "url": "https://open.spotify.com/album/7uT8ecdvOv0xh77V2bqPgC"
+      },
+      "artists": [
+        {
+          "name": "Chiara Oliver",
+          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187786,
+      "name": "mala fama",
+      "url": "https://open.spotify.com/track/4C9NgurZY32bwg2CC14XsX"
     },
     {
       "album": {
@@ -12050,6 +12108,24 @@
       "duration_ms": 199701,
       "name": "Mil preguntas",
       "url": "https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA MAFIA",
+        "url": "https://open.spotify.com/album/0tmlTRqIaOah0WujEM9Pg5"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153082,
+      "name": "MIL VECES",
+      "url": "https://open.spotify.com/track/6T0ucHuVklGeaoyJDtaXGy"
     },
     {
       "album": {
@@ -13680,7 +13756,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 175599,
       "name": "N\u00f3madas",
       "url": "https://open.spotify.com/track/1bOlqOXr3zqKVDI6TDr3dR"
@@ -16472,6 +16548,24 @@
       "duration_ms": 169101,
       "name": "R\u00edo",
       "url": "https://open.spotify.com/track/7J2fYxmeM13rdTRcD0zOJR"
+    },
+    {
+      "album": {
+        "name": "Sacarte a bailar",
+        "url": "https://open.spotify.com/album/6pTRqQjIcjMtUzOCm7yrg4"
+      },
+      "artists": [
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "Sacarte a bailar",
+      "url": "https://open.spotify.com/track/59dVJ3wVDCo9HfZYmoZCho"
     },
     {
       "album": {
@@ -19446,7 +19540,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 193393,
       "name": "Un Secreto y Una Postal",
       "url": "https://open.spotify.com/track/0LRPRll0Be08m9n167KYKG"

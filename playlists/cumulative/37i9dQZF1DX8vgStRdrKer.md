@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-907 songs - 3 day 8 hr 39 min
+908 songs - 3 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [My Hope \- Live](https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [My Hope \(Live\)](https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY) | 4:26 | 2026-07-24 | 2026-08-18 |
 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 | 2024-09-27 | 2024-11-11 |
 | [My Jesus](https://open.spotify.com/track/0R2bqTjc4TVrfHYoNCyvhy) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [My Jesus](https://open.spotify.com/album/16DoeZYOE3g1CSUyFcM0jp) | 4:41 | 2025-06-27 | 2025-07-30 |
+| [My Leader](https://open.spotify.com/track/0zxPaJV4V1NXRlhz33D0NK) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [My Leader](https://open.spotify.com/album/72UBlqAYtTeBMISpVBfUDv) | 3:22 | 2026-11-20 |  |
 | [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 | 2026-07-17 | 2026-10-22 |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-09-15 | 2023-11-28 |
 | [My Matter](https://open.spotify.com/track/2q6DBHCrZPTuvLil1lI4F2) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL) | [My Matter](https://open.spotify.com/album/3zSBeEuXyDarNxnJ66aln7) | 2:45 | 2024-02-02 | 2025-06-20 |
@@ -613,7 +614,7 @@
 | [Olilayakedinso](https://open.spotify.com/track/5LFCesKNKi39WWuayMHeqg) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Olilayakedinso](https://open.spotify.com/album/3ijAq3OcOp11IvIi7MdaUJ) | 2:19 | 2026-05-22 | 2026-08-31 |
 | [Olodumare](https://open.spotify.com/track/5WEuQzrRJIY319WGxTQzap) | [THETIMO](https://open.spotify.com/artist/4ocXP9f57pHcTw7XdvB1VK) | [Olodumare](https://open.spotify.com/album/3kv2UzzY6XJo3L4DyXC1m8) | 5:21 | 2025-08-01 | 2025-09-23 |
 | [Oloruko Aperire](https://open.spotify.com/track/48QoGRjNBnczAjWumJXU44) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx), [Damien Ollar](https://open.spotify.com/artist/677x4y8hdU2ZjSqjyoeRgF) | [Oloruko Aperire](https://open.spotify.com/album/2yM6S8VYCWtuBjSixb2wGe) | 4:55 | 2025-08-01 | 2025-08-13 |
-| [Oloruko Aperire \(The God whose name brings good tidings\)](https://open.spotify.com/track/03jto4VJ7fBUXCkYKyN43t) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Oloruko Aperire \(The God whose name brings good tidings\)](https://open.spotify.com/album/6QajJ7qolBeiNWvYAD44EP) | 12:42 | 2026-10-02 |  |
+| [Oloruko Aperire \(The God whose name brings good tidings\)](https://open.spotify.com/track/03jto4VJ7fBUXCkYKyN43t) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Oloruko Aperire \(The God whose name brings good tidings\)](https://open.spotify.com/album/6QajJ7qolBeiNWvYAD44EP) | 12:42 | 2026-10-02 | 2026-11-24 |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2023-09-15 | 2024-03-16 |
 | [Olorun Atijo](https://open.spotify.com/track/1A4RkSBsIEDZfvPOs9HDzB) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Ijinle Ninu Ijinle](https://open.spotify.com/album/1F3kNJLwbXG94UkKCjn23y) | 1:49 | 2025-05-23 | 2025-06-13 |
 | [OLULANA \- Live in Lagos](https://open.spotify.com/track/2oJ6YukjG68VK7MrMnFX4B) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [LIVE IN LAGOS](https://open.spotify.com/album/6pbRSHAID65hj5yDF7wSrk) | 3:37 | 2023-09-15 | 2023-11-03 |

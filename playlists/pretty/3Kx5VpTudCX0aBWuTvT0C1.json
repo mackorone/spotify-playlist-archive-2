@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd00 Hit shuffle &amp; meet new artists &amp; pop rock song. \u271a Each track also joins tailored playlists.  By @faceless.diversum \ud83d\udcf8 Insta. Follow, save &amp; share ! Submit here : ",
-  "num_followers": 2316,
+  "num_followers": 2313,
   "original_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",
   "owner": {
     "name": "DIVERSUM WORLD",
     "url": "https://open.spotify.com/user/1163990293"
   },
-  "snapshot_id": "AAAC51mUNOibtu8gvKpWBM8dHAMLQLlH",
+  "snapshot_id": "AAAC6pxkA/hj8x3JEuJrkCCd++cgx2f/",
   "tracks": [
     {
       "added_at": "2026-01-04 15:06:22",
@@ -1887,6 +1887,58 @@
       "duration_ms": 313000,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq"
+    },
+    {
+      "added_at": "2026-11-23 09:53:37",
+      "album": {
+        "name": "If I Leave",
+        "url": "https://open.spotify.com/album/0Zc0PYs6sdtFUL5lSeQw6T"
+      },
+      "artists": [
+        {
+          "name": "Nat Longordo",
+          "url": "https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg"
+        },
+        {
+          "name": "Nick Barone",
+          "url": "https://open.spotify.com/artist/44ZrVV2xoUesi81G23Th9i"
+        }
+      ],
+      "duration_ms": 214890,
+      "name": "If I Leave",
+      "url": "https://open.spotify.com/track/6AIay8XGCE1EQaAU34Yo0j"
+    },
+    {
+      "added_at": "2026-11-23 10:05:46",
+      "album": {
+        "name": "Yo Quebr\u00e9 Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0swb7yBxDIRhe764xEsGS8"
+      },
+      "artists": [
+        {
+          "name": "Nacho Sarmiento",
+          "url": "https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr"
+        }
+      ],
+      "duration_ms": 225751,
+      "name": "Yo Quebr\u00e9 Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2V8QtChjDwcQHiqc9mWx3y"
+    },
+    {
+      "added_at": "2026-11-23 10:19:47",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7lUrBl93vleB53jeKKyCNH"
+      },
+      "artists": [
+        {
+          "name": "N2E-NottwoEasy",
+          "url": "https://open.spotify.com/artist/5xBhLcIgakIWCzVQ8LgNvz"
+        }
+      ],
+      "duration_ms": 206635,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3XF2darIe2LTIXzlJ8mnzF"
     }
   ],
   "unique_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",

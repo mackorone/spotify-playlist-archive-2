@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Ralphie Choo
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,681 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,605 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [señal](https://open.spotify.com/track/3nTTwsN9xC1LM3nsO8CXcT) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [señal](https://open.spotify.com/album/0OmACCTrmEXV3JB3CYWrSc) | 2:42 |
 | 50 | [si](https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [si](https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f) | 2:31 |
 
-Snapshot ID: `AAAAAFLUiMMwIgo5KTH6/gHuAI+STGng`
+Snapshot ID: `AAAAAEnGd4QhTZMHOXC/TEfdVKbniHeF`

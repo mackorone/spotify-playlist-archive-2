@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,860 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,130 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 38 | [Dil Hoom Hoom Kare \- Female Version](https://open.spotify.com/track/5A3tZCjNhmqtmNUNbjOZeL) | [Bhupen Hazarika](https://open.spotify.com/artist/31fDaUsley7Ms790N4CcSv), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rudaali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4K4inDaW2TgqkkOOdXTorN) | 3:55 |
 | 39 | [Yaad Teri Aati Hai](https://open.spotify.com/track/5yEZ6GrqXy4gl8Y0y5OLar) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Afsana Pyar Ka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ktjwdBbNLFCAExdQzNFc8) | 6:49 |
 | 40 | [Yara Seeli Seeli](https://open.spotify.com/track/0CK9b2dEDscskyQ0Xd7L4p) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin](https://open.spotify.com/album/1fU4zPiQdPHq0OGZ10O6Lk) | 5:05 |
-| 41 | [Khata Toh Jab Ho](https://open.spotify.com/track/6gb1yJlVK7YjDUu9iKdAHF) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Ka Kya Kasoor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ONg9pcYSvmMb7U8TCbhFi) | 6:08 |
+| 41 | [Khata Toh Jab Ho](https://open.spotify.com/track/6gb1yJlVK7YjDUu9iKdAHF) | [Nadeem Shravan](https://open.spotify.com/artist/0xHXoShMJw3xDArjL8IHtt), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anwar Sagar](https://open.spotify.com/artist/6zJB8QCnRxP6gAbYMsrQL6) | [Dil Ka Kya Kasoor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ONg9pcYSvmMb7U8TCbhFi) | 6:08 |
 | 42 | [Yeh Raat Khushnaseeb Hai](https://open.spotify.com/track/30AczwVkRJOVdhb5bGY1Nv) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aaina](https://open.spotify.com/album/2btAZNa9WZEeaxS5lRJTKp) | 4:49 |
 | 43 | [Kuchh Na Kaho \- Sad](https://open.spotify.com/track/3WzyCA2R9pllvKLHgjOU3l) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [1942 A Love Story](https://open.spotify.com/album/7MY6mU1NlibP3FHt8vut3F) | 6:23 |
 | 44 | [Ishq Mein Hum Tumhein Kya Batayen](https://open.spotify.com/track/14xE0ipwTCPlmb1sxJAe7B) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Bewafa Sanam Vol\-1](https://open.spotify.com/album/2IFGD13DILTYJJ5aF0siy9) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 49 | [Nahin Saamne Tu](https://open.spotify.com/track/2VbJADm28rn89sdn2QwzuZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Taal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bqIzWWbArrjJ963HKeZcd) | 6:03 |
 | 50 | [Tune Zamane Ye Kya Kar Diya](https://open.spotify.com/track/1bU6jdC9p3vf3ufR7sCZNv) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Vipin Sachdeva](https://open.spotify.com/artist/3izgcexQY0nJQiSMchE0dJ) | [Jeena Marna Tere Sang](https://open.spotify.com/album/2yz7UrxzL3jModmo9NNuEG) | 5:17 |
 
-Snapshot ID: `AAAAAB5ilO+R7i1S8fSBLT03l24EIYgr`
+Snapshot ID: `AAAAALf+pKadNwllVMlECQ0rd34x1dUr`

@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298134,
+  "num_followers": 298125,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2yWgtmNS9Sf34ZevQmVZjmu9qe",
+  "snapshot_id": "AAAAAIOU62q++ALS7F2K6pQxEuARNLHo",
   "tracks": [
     {
       "added_at": "2026-11-20 18:32:10",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 193838,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Rendez-vous avec toi / Rendez-vous in your arms",
         "url": "https://open.spotify.com/album/2mROGvypd4sVFJ4p8OrGAw"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 252146,
       "name": "Rendez-vous avec toi",
       "url": "https://open.spotify.com/track/7hRlKQepxO18TKr5DreeET"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 193838,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -859,22 +859,22 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Delusional",
-        "url": "https://open.spotify.com/album/1RnkE63I6UR3FUTue5OG0a"
+        "name": "User",
+        "url": "https://open.spotify.com/album/2gXSFG4paZYJa1vCTlJiK2"
       },
       "artists": [
         {
-          "name": "Courrier Sud",
-          "url": "https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm"
+          "name": "PAMELA",
+          "url": "https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja"
         },
         {
-          "name": "Kazy Lambist",
-          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
         }
       ],
-      "duration_ms": 214893,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/4YV1PTqHU45t70PJZSlqom"
+      "duration_ms": 162570,
+      "name": "User",
+      "url": "https://open.spotify.com/track/4dWnkPSvla0bf94ltz5yl3"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
+        "name": "Delusional",
+        "url": "https://open.spotify.com/album/1RnkE63I6UR3FUTue5OG0a"
+      },
+      "artists": [
+        {
+          "name": "Courrier Sud",
+          "url": "https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm"
+        },
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/4YV1PTqHU45t70PJZSlqom"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
       },
@@ -919,22 +939,26 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "User",
-        "url": "https://open.spotify.com/album/2gXSFG4paZYJa1vCTlJiK2"
+        "name": "Leave and Stay",
+        "url": "https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU"
       },
       "artists": [
         {
-          "name": "PAMELA",
-          "url": "https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja"
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
         },
         {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+          "name": "dezabel",
+          "url": "https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ"
+        },
+        {
+          "name": "Ben Botfield",
+          "url": "https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy"
         }
       ],
-      "duration_ms": 162570,
-      "name": "User",
-      "url": "https://open.spotify.com/track/4dWnkPSvla0bf94ltz5yl3"
+      "duration_ms": 180720,
+      "name": "Leave and Stay",
+      "url": "https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -1067,30 +1091,6 @@
       "duration_ms": 191580,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
-        "name": "Leave and Stay",
-        "url": "https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU"
-      },
-      "artists": [
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        },
-        {
-          "name": "dezabel",
-          "url": "https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ"
-        },
-        {
-          "name": "Ben Botfield",
-          "url": "https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Leave and Stay",
-      "url": "https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg"
     },
     {
       "added_at": "2026-11-20 18:32:10",

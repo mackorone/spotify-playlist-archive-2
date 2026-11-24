@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQb8JF36pFeyrM7Z84GQHXPj0DkMpc",
+  "snapshot_id": "AAAQdnyo29sWM9Y3L5Sar15wL9Ih8XXM",
   "tracks": [
     {
       "added_at": "2026-08-11 08:38:53",
@@ -1415,6 +1415,118 @@
       "duration_ms": 154000,
       "name": "Money Pit",
       "url": "https://open.spotify.com/track/2y0w0OTbEWVDbkVCMWHUDp"
+    },
+    {
+      "added_at": "2026-11-23 14:21:48",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5NtPP5cZSwtWNdFjmipN0c"
+      },
+      "artists": [
+        {
+          "name": "Reyez",
+          "url": "https://open.spotify.com/artist/2KMFhaHzZyLz4g2U9TcWJe"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/5ogSNrDybORMb4zNga0cql"
+    },
+    {
+      "added_at": "2026-11-23 14:21:56",
+      "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/1lugVKNxTIMQpjEiDgvpCD"
+      },
+      "artists": [
+        {
+          "name": "Local Kin",
+          "url": "https://open.spotify.com/artist/3vq4Y0KYGSp3Yowdgw9YgB"
+        }
+      ],
+      "duration_ms": 278707,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/67a8xIHvOxrTtzTykAkine"
+    },
+    {
+      "added_at": "2026-11-23 14:22:15",
+      "album": {
+        "name": "Red Chairs and Horses",
+        "url": "https://open.spotify.com/album/39k6CMrHijZhLP9pOgCCBD"
+      },
+      "artists": [
+        {
+          "name": "WETLOOK",
+          "url": "https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Red Chairs and Horses",
+      "url": "https://open.spotify.com/track/3JXyIg5EZU2wz0vkKT7zYZ"
+    },
+    {
+      "added_at": "2026-11-23 14:22:40",
+      "album": {
+        "name": "the western preoccupation (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0nlqWJoiNmHXnqjneCFY4R"
+      },
+      "artists": [
+        {
+          "name": "Tyra Jutai",
+          "url": "https://open.spotify.com/artist/70E4gETHoUpR12ukUrJ7Xf"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Neon Dust",
+      "url": "https://open.spotify.com/track/31Msza23dwwmqirht0UDup"
+    },
+    {
+      "added_at": "2026-11-23 14:22:54",
+      "album": {
+        "name": "scarlet",
+        "url": "https://open.spotify.com/album/5tkQh34B3zHQEvdp3xHxRI"
+      },
+      "artists": [
+        {
+          "name": "SIKADE",
+          "url": "https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY"
+        }
+      ],
+      "duration_ms": 133682,
+      "name": "scarlet",
+      "url": "https://open.spotify.com/track/7Ci35qKkrYPH1Ief73EpBB"
+    },
+    {
+      "added_at": "2026-11-23 14:23:35",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2diPcf8av13aOOXwATVOpE"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Solange",
+          "url": "https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6"
+        }
+      ],
+      "duration_ms": 256748,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5xTsuY31OnjYSoc5oGzBjv"
+    },
+    {
+      "added_at": "2026-11-23 14:23:58",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

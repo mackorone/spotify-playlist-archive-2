@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Dua Lipa, Warhaus, Zoë Livay,  Jul & J Balvin, Adèle Castillon, Zwangere Guy & Sef and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,052 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,050 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 51 | [Strings of Fate](https://open.spotify.com/track/74lfSiAHg1z7qfjai64qHg) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Strings of Fate](https://open.spotify.com/album/1JRfQITGdbUjLnrhwGnsK7) | 3:12 |
 | 52 | [Hoe Kan Het Zo Zijn](https://open.spotify.com/track/0UrWdYX7B7E2pFjLrRpnm3) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Hoe Kan Het Zo Zijn](https://open.spotify.com/album/6f2gYhc6uuCPkXYzIEuLNG) | 2:48 |
 | 53 | [Back 2 Basics](https://open.spotify.com/track/2qOAPQHnLnmdGeMzpPgdLg) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Back 2 Basics](https://open.spotify.com/album/7j8isPHDehSK7vvzX8a7cG) | 3:36 |
-| 54 | [Safe and Sound](https://open.spotify.com/track/4PZCeo32QY1PG34esmlRqA) | [konur](https://open.spotify.com/artist/2ryV8lS6QJ9KP98IfITnK6), [CHILL GUY](https://open.spotify.com/artist/4dv0mJITYwAaZcuab27wwO), [Løuden](https://open.spotify.com/artist/3jKE5msVHxRX3GhM92tIvB), [Ash Blu](https://open.spotify.com/artist/1cnh3Eair4ofgYfFDhwiw0), [HARDSTYLE.exe](https://open.spotify.com/artist/2hbidzLIu57qb0VsUDXDrX) | [Safe and Sound](https://open.spotify.com/album/4rDvfOeW44Rm7T20bdoOgS) | 2:21 |
+| 54 | [Safe and Sound](https://open.spotify.com/track/4PZCeo32QY1PG34esmlRqA) | [konur](https://open.spotify.com/artist/2ryV8lS6QJ9KP98IfITnK6), [CHILL GUY](https://open.spotify.com/artist/4dv0mJITYwAaZcuab27wwO), [Løuden](https://open.spotify.com/artist/2PdsDO6Iv1WMrdaalZW8BK), [Ash Blu](https://open.spotify.com/artist/1cnh3Eair4ofgYfFDhwiw0), [HARDSTYLE.exe](https://open.spotify.com/artist/2hbidzLIu57qb0VsUDXDrX) | [Safe and Sound](https://open.spotify.com/album/4rDvfOeW44Rm7T20bdoOgS) | 2:21 |
 | 55 | [TTN](https://open.spotify.com/track/3QqDXTzciS0a0qQFWomKvz) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i), [Pyroman](https://open.spotify.com/artist/3almi4LtPglSLIHNUsCzQp) | [TTN](https://open.spotify.com/album/7yySkCyB7zsDmiZoyEfJ1v) | 2:31 |
 | 56 | [Waar Heb Je Op Gewacht](https://open.spotify.com/track/0ZPXDZWfZCFECzPS39PZYj) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Teveel Is Niet Genoeg](https://open.spotify.com/album/7gRDr3BmTd9R0XnlOgjJE7) | 3:19 |
 | 57 | [YUME](https://open.spotify.com/track/1kS1tlbXznxJ1Lcf41rL0A) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Raul](https://open.spotify.com/artist/7HJvf1WkxIKAF20M4uENgs) | [YUME](https://open.spotify.com/album/4i03JuGhTAVzOemgFYo88e) | 3:32 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 88 | [N9NE \(feat\. Zed\)](https://open.spotify.com/track/1SLmb979kVp8OFczr0uwEz) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [N9NE \(feat\. Zed\)](https://open.spotify.com/album/5dtTG4DXWWZZbfcOLxVWXZ) | 3:27 |
 | 89 | [Gimme All Your Love!](https://open.spotify.com/track/31BVW70owwpdNU7zDP0ntx) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Blue Boy](https://open.spotify.com/album/1VL9Pg0yiM1K69k3uETV9D) | 3:53 |
 | 90 | [Me In Your Head](https://open.spotify.com/track/7vQXPJFTVl9co8Fxqeb4yq) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Me In Your Head](https://open.spotify.com/album/6PiuWrTrN4NEA59gln8x3S) | 3:42 |
-| 91 | [Iedere dag](https://open.spotify.com/track/5GOOoTpf4tTIZIlOl6ApJk) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5) | [Iedere dag](https://open.spotify.com/album/4cUf59s5RFgZKqSKJtfE5T) | 2:54 |
+| 91 | [Iedere dag](https://open.spotify.com/track/5GOOoTpf4tTIZIlOl6ApJk) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5), [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Iedere dag](https://open.spotify.com/album/4cUf59s5RFgZKqSKJtfE5T) | 2:54 |
 | 92 | [The Vacation Song](https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [The Vacation Song](https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK) | 3:27 |
 | 93 | [Be Free](https://open.spotify.com/track/2nffh9MtxLFN81121DFLbC) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Be Free](https://open.spotify.com/album/4ZSipudbgUelSLXxYDTpNF) | 3:11 |
 | 94 | [Behind The Commas](https://open.spotify.com/track/0rKgS1j4QLF0WX7DBe6xpA) | [GR€Y](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Behind The Commas](https://open.spotify.com/album/3mPNSVu6CB2aRqyZ1f6h5U) | 2:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 124 | [EPITAPH](https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [EPITAPH](https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj) | 3:08 |
 | 125 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 
-Snapshot ID: `AAAAAPRHjlbltfqJlxhDNrINQaapPG3O`
+Snapshot ID: `AAAAADXnKKtqU7UHDc/Xiq/Y6mZZUcSp`

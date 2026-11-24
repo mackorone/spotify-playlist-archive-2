@@ -1,12 +1,12 @@
 {
   "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: MA RA",
-  "num_followers": 73382,
+  "num_followers": 73379,
   "original_name": "Ke\u015fif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWYeh9njqed0xa31YodWC0WUBhX",
+  "snapshot_id": "AAAAAPZRhxdE6QsAWXUvHlAItIdhkmt4",
   "tracks": [
     {
       "added_at": "2026-11-17 10:00:31",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-11-17 10:00:31",
       "album": {
-        "name": "iki yaral\u0131 ku\u015f",
-        "url": "https://open.spotify.com/album/7lWFlbUF3XSUgSFYxVEL25"
-      },
-      "artists": [
-        {
-          "name": "Sena Ho\u015fel",
-          "url": "https://open.spotify.com/artist/64UoFKhjHNjy7gb1QXlVMU"
-        }
-      ],
-      "duration_ms": 223661,
-      "name": "iki yaral\u0131 ku\u015f",
-      "url": "https://open.spotify.com/track/7frZAaCRQFMv9lQqwlYMcZ"
-    },
-    {
-      "added_at": "2026-11-17 10:00:31",
-      "album": {
         "name": "balo (mektup)",
         "url": "https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 179619,
       "name": "Yine Sana",
       "url": "https://open.spotify.com/track/5NGjkRdIGxK4N6cF1gocD7"
+    },
+    {
+      "added_at": "2026-11-17 10:00:31",
+      "album": {
+        "name": "iki yaral\u0131 ku\u015f",
+        "url": "https://open.spotify.com/album/7lWFlbUF3XSUgSFYxVEL25"
+      },
+      "artists": [
+        {
+          "name": "Sena Ho\u015fel",
+          "url": "https://open.spotify.com/artist/64UoFKhjHNjy7gb1QXlVMU"
+        }
+      ],
+      "duration_ms": 223661,
+      "name": "iki yaral\u0131 ku\u015f",
+      "url": "https://open.spotify.com/track/7frZAaCRQFMv9lQqwlYMcZ"
     },
     {
       "added_at": "2026-11-17 10:00:31",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-11-17 10:00:31",
       "album": {
-        "name": "G\u00fczel Bir G\u00fcn",
-        "url": "https://open.spotify.com/album/5y7ff1TC68L72T1KjVmGMJ"
-      },
-      "artists": [
-        {
-          "name": "Cem Baysal",
-          "url": "https://open.spotify.com/artist/0pbfsV6TegwmfeAxLQkrZ0"
-        }
-      ],
-      "duration_ms": 172340,
-      "name": "G\u00fczel Bir G\u00fcn",
-      "url": "https://open.spotify.com/track/67FUDG69vSveFfKXNHCtgx"
-    },
-    {
-      "added_at": "2026-11-17 10:00:31",
-      "album": {
         "name": "Yana Yana",
         "url": "https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-11-17 10:00:31",
       "album": {
-        "name": "Her \u015eeye \u0130nat",
-        "url": "https://open.spotify.com/album/1HbGyB13Mxp5U0u7M5qThG"
+        "name": "G\u00fczel Bir G\u00fcn",
+        "url": "https://open.spotify.com/album/5y7ff1TC68L72T1KjVmGMJ"
       },
       "artists": [
         {
-          "name": "Siren",
-          "url": "https://open.spotify.com/artist/4uY69xEo1jXgSSKiO06GGy"
+          "name": "Cem Baysal",
+          "url": "https://open.spotify.com/artist/0pbfsV6TegwmfeAxLQkrZ0"
         }
       ],
-      "duration_ms": 231857,
-      "name": "Her \u015eeye \u0130nat",
-      "url": "https://open.spotify.com/track/051D0YSSXL3nAW2xUv4DwF"
+      "duration_ms": 172340,
+      "name": "G\u00fczel Bir G\u00fcn",
+      "url": "https://open.spotify.com/track/67FUDG69vSveFfKXNHCtgx"
     },
     {
       "added_at": "2026-11-17 10:00:31",
@@ -1143,6 +1127,22 @@
       "duration_ms": 178000,
       "name": "Harabeyim",
       "url": "https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG"
+    },
+    {
+      "added_at": "2026-11-17 10:00:31",
+      "album": {
+        "name": "Her \u015eeye \u0130nat",
+        "url": "https://open.spotify.com/album/1HbGyB13Mxp5U0u7M5qThG"
+      },
+      "artists": [
+        {
+          "name": "Siren",
+          "url": "https://open.spotify.com/artist/4uY69xEo1jXgSSKiO06GGy"
+        }
+      ],
+      "duration_ms": 231857,
+      "name": "Her \u015eeye \u0130nat",
+      "url": "https://open.spotify.com/track/051D0YSSXL3nAW2xUv4DwF"
     },
     {
       "added_at": "2026-11-17 10:00:31",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-11-17 10:00:31",
       "album": {
-        "name": "Yan\u0131mda Kal",
-        "url": "https://open.spotify.com/album/0ddX2lBevpgtszev4sCEZP"
-      },
-      "artists": [
-        {
-          "name": "Reva",
-          "url": "https://open.spotify.com/artist/0wonn88Fok2eDNWMyViwBg"
-        }
-      ],
-      "duration_ms": 138345,
-      "name": "Yan\u0131mda Kal",
-      "url": "https://open.spotify.com/track/0wEsnGypb7XUq82MiMjynU"
-    },
-    {
-      "added_at": "2026-11-17 10:00:31",
-      "album": {
         "name": "G\u00fcn Batarken",
         "url": "https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 173382,
       "name": "G\u00fcn Batarken",
       "url": "https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1"
+    },
+    {
+      "added_at": "2026-11-17 10:00:31",
+      "album": {
+        "name": "Yan\u0131mda Kal",
+        "url": "https://open.spotify.com/album/0ddX2lBevpgtszev4sCEZP"
+      },
+      "artists": [
+        {
+          "name": "Reva",
+          "url": "https://open.spotify.com/artist/0wonn88Fok2eDNWMyViwBg"
+        }
+      ],
+      "duration_ms": 138345,
+      "name": "Yan\u0131mda Kal",
+      "url": "https://open.spotify.com/track/0wEsnGypb7XUq82MiMjynU"
     }
   ],
   "unique_name": "Ke\u015fif",

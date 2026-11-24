@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Myke Towers,  Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,908 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,772 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 47 | [Real Man](https://open.spotify.com/track/7BqvOcewoGH3Grfs0L0eYj) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Real Man](https://open.spotify.com/album/6Ei7c2OVLaVg4PGZvMDpPY) | 2:39 |
 | 48 | [Panty](https://open.spotify.com/track/7iPgDo8t6Zti5Ovi5JmDIv) | [Paper One](https://open.spotify.com/artist/3f5riZPfzf0mKWfAhUIlCM), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Tronick Beats](https://open.spotify.com/artist/2lBqEjGnYGV6uSLTLfIMr8) | [Panty](https://open.spotify.com/album/2vgIZl1ZRT39k9STpSJaDI) | 2:44 |
 | 49 | [Te Encontré](https://open.spotify.com/track/7ew3QNKr2EHH1kGkgeQHQ0) | [Fiore](https://open.spotify.com/artist/5YJEPeiDhF5BbG3m8g9oO4), [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Gzús](https://open.spotify.com/artist/6WFXd1CQaQoUoLD0aMfzXE), [Bomby](https://open.spotify.com/artist/2U3Y8qTTqVAA7uoksbqTDh), [Nohaaddana](https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA) | [Te Encontré](https://open.spotify.com/album/2zy6nFOTBN3eMM2CXLXwJ2) | 2:41 |
-| 50 | [GPS \#9 \- Dios Nunca Te Olvida](https://open.spotify.com/track/78KWdPfSSUUWETpIucHlVs) | [Georgy Parra Salvaje](https://open.spotify.com/artist/2TSFKNn3DSAG05oMMkLeJs), [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [GPS \#9 \- Dios Nunca Te Olvida](https://open.spotify.com/album/0h93bapaCVtB4igJ6VAHyD) | 2:51 |
 
-Snapshot ID: `AAAAACmpeE8lkcoWR8WAmTlPth5hFpvb`
+Snapshot ID: `AAAAAGHh0Jbs9q4Y2r8oc50fdjJIOZJC`

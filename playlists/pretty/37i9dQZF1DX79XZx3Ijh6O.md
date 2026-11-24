@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: Потойбіч
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,319 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,328 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [Алгоритм](https://open.spotify.com/track/1GLqbQ3rQpQnqlQlvOhDTo) | [DRUG](https://open.spotify.com/artist/6RYQSRnV6dr9S45xN2ZwlV) | [Алгоритм](https://open.spotify.com/album/4HE4dek1c3BNA6db8xp9ns) | 3:51 |
 | 50 | [лише для нас](https://open.spotify.com/track/3RhyRbKIZ612WLI2OXrzEp) | [kedrova](https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0) | [\#2](https://open.spotify.com/album/1a3B9lMPWT8zChxZDuOocu) | 3:38 |
 
-Snapshot ID: `AAAAABc33RniNSS119fKY/8htzC2xqI0`
+Snapshot ID: `AAAAAGunrDh1/W8G/M6DmflPGZyNO7bt`

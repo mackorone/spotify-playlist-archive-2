@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAADFXeyd4fPvAwuKz39b7spgGB4/23B",
+  "snapshot_id": "AAADF9N6EhZ2PmyhqJZ8eLxvj6Lmn6sk",
   "tracks": [
     {
       "added_at": "2023-08-20 17:59:56",
@@ -10471,6 +10471,38 @@
       "duration_ms": 274764,
       "name": "The Salem Shake",
       "url": "https://open.spotify.com/track/4sl29ZGG3WOnDMGs1mZMOS"
+    },
+    {
+      "added_at": "2026-11-23 19:47:26",
+      "album": {
+        "name": "48 horas",
+        "url": "https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Valor",
+          "url": "https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6"
+        }
+      ],
+      "duration_ms": 242559,
+      "name": "48 horas",
+      "url": "https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm"
+    },
+    {
+      "added_at": "2026-11-23 19:48:54",
+      "album": {
+        "name": "A Wonderful Illusion",
+        "url": "https://open.spotify.com/album/01lWggP5JEQhoLd6yOmzyk"
+      },
+      "artists": [
+        {
+          "name": "Wayward Gnome",
+          "url": "https://open.spotify.com/artist/5OGoDjttAfogU4Z7ymyhPd"
+        }
+      ],
+      "duration_ms": 289963,
+      "name": "After The Show",
+      "url": "https://open.spotify.com/track/2HMHJeKnIKUvVwvysbtW5r"
     }
   ],
   "unique_name": "Rock Frequency (2)",

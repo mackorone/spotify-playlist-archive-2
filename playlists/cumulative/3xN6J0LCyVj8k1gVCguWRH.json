@@ -4847,6 +4847,24 @@
     },
     {
       "album": {
+        "name": "All The Gold",
+        "url": "https://open.spotify.com/album/25N5QBaNxLGaMaeh7Nhvv2"
+      },
+      "artists": [
+        {
+          "name": "Timothy James",
+          "url": "https://open.spotify.com/artist/6YnUDR9o9w6zj104IQECfg"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223464,
+      "name": "All The Gold",
+      "url": "https://open.spotify.com/track/0yvoQJhh3QZIH1lrOVZFsn"
+    },
+    {
+      "album": {
         "name": "All The King's Men",
         "url": "https://open.spotify.com/album/1NaWBSQT5rmPfpkADlCDWa"
       },
@@ -52296,7 +52314,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 194253,
       "name": "I Like Love You",
       "url": "https://open.spotify.com/track/4G7mKi0Cg86mGHXMzEAeRl"
@@ -56180,7 +56198,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 163000,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/1vN1MQ9bprWHPCRZKzT1TW"
@@ -62210,7 +62228,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 244773,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3Y3R0IiKQxQj1xy06A6HdT"
@@ -70534,6 +70552,24 @@
       "duration_ms": 196730,
       "name": "Mekkita",
       "url": "https://open.spotify.com/track/4uLdasHnf9seKwT8y4kwoI"
+    },
+    {
+      "album": {
+        "name": "Melissofobia",
+        "url": "https://open.spotify.com/album/0AM6MmZkbEwkkWs42y2RYq"
+      },
+      "artists": [
+        {
+          "name": "Irene Shapes",
+          "url": "https://open.spotify.com/artist/3P3ikBWtAD1LMvnIXiZ9UB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "Melissofobia",
+      "url": "https://open.spotify.com/track/1sdBzLKcMU44orNubZVkMs"
     },
     {
       "album": {
@@ -94094,7 +94130,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 157524,
       "name": "save the last dance",
       "url": "https://open.spotify.com/track/02SDJd1pevOFcbK3TzCfP7"
@@ -112502,6 +112538,24 @@
     {
       "album": {
         "name": "Time Goes By",
+        "url": "https://open.spotify.com/album/2ctX6zBXFaB3zGTrJyegdB"
+      },
+      "artists": [
+        {
+          "name": "Todd Carey",
+          "url": "https://open.spotify.com/artist/0LCLu0eCcX5xembxDadUbz"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167776,
+      "name": "Time Goes By",
+      "url": "https://open.spotify.com/track/7F0g0Yf5AfW5XfJaihXzOH"
+    },
+    {
+      "album": {
+        "name": "Time Goes By",
         "url": "https://open.spotify.com/album/6oJi9ttaZV1L6c79KgQsKs"
       },
       "artists": [
@@ -121412,7 +121466,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 198271,
       "name": "What I've Been Missing",
       "url": "https://open.spotify.com/track/3vByTV1pJq1XcWTEtwNGpm"

@@ -4,11 +4,12 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-267 songs - 14 hr 20 min
+270 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [120 Battements](https://open.spotify.com/track/6ZhfD5KfvsKMMZErZ6WGFT) | [troisquatrevies](https://open.spotify.com/artist/2Fw7yMy6Bj56P7xL8YYnoE), [Inky](https://open.spotify.com/artist/48g3HNkfjUPk6dHAKlVSZc), [Until](https://open.spotify.com/artist/3jm7hbPJZKVwdF48Vml0Fz) | [120 Battements](https://open.spotify.com/album/0sqv6LgVorxYJ0YbxC1YtF) | 3:21 | 2025-06-26 |  |
+| [2012](https://open.spotify.com/track/0tekBW6yZxwHcWBOF3jaFD) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Magus](https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW) | 3:34 | 2026-11-23 |  |
 | [2025\(Neuf\)](https://open.spotify.com/track/3WrUEP5XGGbqlCXl9pLHJv) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [2025\(Neuf\)](https://open.spotify.com/album/55Dbl7e0YF4r1h6FNvxQ6t) | 2:44 | 2025-05-06 |  |
 | [A contre sens](https://open.spotify.com/track/1dXIr5rg0R8ROjzejXReOd) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 4:25 | 2024-03-01 |  |
 | [A New Day](https://open.spotify.com/track/3ZMhlH26ZRY4G90qfC9Kl2) | [Actuate](https://open.spotify.com/artist/4AhmIclWRhxGbnrC3ncfpx) | [A New Day](https://open.spotify.com/album/1XAJHkdgq3Qqq0M3ekTAYh) | 4:56 | 2023-04-28 |  |
@@ -105,6 +106,7 @@
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2023-01-11 |  |
 | [Hurry Up](https://open.spotify.com/track/331FsgiEECi6pkh7qRKstL) | [SELKA](https://open.spotify.com/artist/37wnPF622kB2IIa8kmTayV), [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [SELKOZ](https://open.spotify.com/album/5368tWRSR5o9X1JuI0ZYvm) | 2:18 | 2025-05-06 |  |
 | [Hwita](https://open.spotify.com/track/5JB0dM6oLeD5n433KgMXTj) | [Erkez Hiphop](https://open.spotify.com/artist/3mAyiiMsTekg4AH3OdVaVx), [Vipa](https://open.spotify.com/artist/4DSGpTnAhhDNC0lcFiVVBT), [Tiga Blackna](https://open.spotify.com/artist/0hoe2TAZ5k9HtZ71KduAet), [Dali Chebil](https://open.spotify.com/artist/03BgaCpEKpepM1iykl4C5l) | [Hwita](https://open.spotify.com/album/6smu8VEj2edfmLgDfuMhTc) | 3:34 | 2023-10-24 |  |
+| [Hypervantiler](https://open.spotify.com/track/5BwOvTHQwkyj9MfczfPZbK) | [YTP](https://open.spotify.com/artist/4FkXK5mCRdCOAfBWiKeX5H) | [Hypervantiler](https://open.spotify.com/album/6gep93s2umgaIA0m22BJkO) | 1:59 | 2026-11-23 |  |
 | [Hystérique](https://open.spotify.com/track/0JQVQt0alA0qYA0701pEA4) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [Hystérique](https://open.spotify.com/album/0msLFC8NdMGqgRlHPogXZB) | 2:30 | 2024-11-18 |  |
 | [I DO NOT CARE](https://open.spotify.com/track/5VnJGgizk2bpFQUoYG6KCz) | [Lj Wash](https://open.spotify.com/artist/7iq0wZNWoZKCHtx4vEY53k), [neyoooo](https://open.spotify.com/artist/01lWinOuZGdJ0CcaIv13c5) | [I DO NOT CARE](https://open.spotify.com/album/4kDFBC9GrvuSHKYYqA6hC2) | 2:40 | 2024-10-04 |  |
 | [Ils ne voulaient pas de moi](https://open.spotify.com/track/7iE2DgmImx0PwHbvW0jZZS) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x), [Dee Joyce](https://open.spotify.com/artist/7cwThkH8u8VHGownnwFcPs) | [Ils ne voulaient pas de moi](https://open.spotify.com/album/2XhKqSURT2jfXkZKXLrlgm) | 3:03 | 2024-12-04 |  |
@@ -158,6 +160,7 @@
 | [Ma CyberGirl](https://open.spotify.com/track/21spBLdcIaaBNBjWuRETzk) | [TheStaRiders](https://open.spotify.com/artist/7jeaPXkwDOt6MmII5H0Z2g) | [Ma CyberGirl](https://open.spotify.com/album/7Lf7MC9MAirnHfdLDUzrLU) | 2:41 | 2025-03-15 |  |
 | [mademoiselle laure](https://open.spotify.com/track/1y9Jv6jp1fucNXYtlYhEXr) | [laurēm](https://open.spotify.com/artist/0bUuJyeXDY266ily5TLek6) | [mademoiselle laure](https://open.spotify.com/album/58ukECXLDXmAqcYdpjT6YE) | 6:11 | 2026-09-12 |  |
 | [mademoiselle laure](https://open.spotify.com/track/3Xt7MXAITFS8JFlMtnOdVC) | [laurēm](https://open.spotify.com/artist/0bUuJyeXDY266ily5TLek6) | [mademoiselle laure](https://open.spotify.com/album/3pjLTYte4aczCqaFh51Ac9) | 6:11 | 2024-07-11 |  |
+| [Magie](https://open.spotify.com/track/25kB5gdH7TxgTIkwpk9yMT) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Magus](https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW) | 3:15 | 2026-11-23 |  |
 | [Maldivas](https://open.spotify.com/track/7nEp80wQ8agOPh1fiLl1CP) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 3:08 | 2023-12-06 |  |
 | [Mapessa](https://open.spotify.com/track/5RoFcZfabPIURBx7JRkkRW) | [99Robb](https://open.spotify.com/artist/2jlMOs8NNTeND6N4ELaLcq) | [Opacity](https://open.spotify.com/album/7A1gSYzFSnmbWsxWb5eo22) | 2:46 | 2023-03-19 |  |
 | [Memories](https://open.spotify.com/track/73bT3HTcm0ddy0VFaXbF7W) | [DjDhoman](https://open.spotify.com/artist/2rdLb5vOHxaUVXK4szxDa1) | [Memories](https://open.spotify.com/album/2drvblfKXQChlWTgXnZ5TP) | 5:14 | 2025-04-01 |  |

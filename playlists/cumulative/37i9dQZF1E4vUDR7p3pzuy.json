@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Captain Margaret, JUST LIZZY, David Von Beahm and more",
+  "description": "With Captain Margaret, Then Comes Silence, Mercury Teardrop and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 314210,
       "name": "All The Lovers",
       "url": "https://open.spotify.com/track/4WXNi3vDKyiOiuwz7JvkDf"
@@ -1331,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Angels + Demons (Arcana Remix)",
+        "url": "https://open.spotify.com/album/5Bg4VdQj4EeINnJoxcRGpm"
+      },
+      "artists": [
+        {
+          "name": "Majestic Phoenix",
+          "url": "https://open.spotify.com/artist/0pYEdqR4tzgffzHKFYPxjS"
+        },
+        {
+          "name": "C Z A R I N A",
+          "url": "https://open.spotify.com/artist/0GahP4xi6YHsQ7LL3dmjEd"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232569,
+      "name": "Angels + Demons - Arcana Remix",
+      "url": "https://open.spotify.com/track/4uamGTcGVjoH4QnbhG2kUc"
+    },
+    {
+      "album": {
         "name": "Angels Have No Wings",
         "url": "https://open.spotify.com/album/4MADKyUT6oAJBkjp5gR2aA"
       },
@@ -1378,7 +1400,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -1628,6 +1650,24 @@
       "duration_ms": 232744,
       "name": "Astray",
       "url": "https://open.spotify.com/track/626buYgXKNlVA0yBsI45j6"
+    },
+    {
+      "album": {
+        "name": "At The Masquerade",
+        "url": "https://open.spotify.com/album/0VqmTmTYhbUYdV4UtaRcQz"
+      },
+      "artists": [
+        {
+          "name": "Twin Cynic",
+          "url": "https://open.spotify.com/artist/5BmlPTztzCZ5AxufTSNh7w"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "At The Masquerade",
+      "url": "https://open.spotify.com/track/0sr0VzfuAOK7tIXHJX0c1A"
     },
     {
       "album": {
@@ -5234,7 +5274,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 220848,
       "name": "Crucifix Of Stone",
       "url": "https://open.spotify.com/track/1wYscoOpgwmnoHKWXa22D0"
@@ -5906,7 +5946,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 239575,
       "name": "Death Dealers",
       "url": "https://open.spotify.com/track/5CYuSSFbVcEP4zXz54Ac0a"
@@ -7365,6 +7405,24 @@
     },
     {
       "album": {
+        "name": "Gilding The Lily",
+        "url": "https://open.spotify.com/album/0iDFck40nDfufM5k9Rp5Gv"
+      },
+      "artists": [
+        {
+          "name": "Desperate Journalist",
+          "url": "https://open.spotify.com/artist/3bQOdXdA0JLHAVHavCMqs8"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/0PztmPAClOJfyErXPsoa4l"
+    },
+    {
+      "album": {
         "name": "Random Access Violence",
         "url": "https://open.spotify.com/album/4Vf7Qcj9A6sTCTRvSQmxhv"
       },
@@ -7448,7 +7506,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 230769,
       "name": "End of the Line",
       "url": "https://open.spotify.com/track/3j6GDkd6BfaTX2JgVxrIwR"
@@ -8106,6 +8164,24 @@
       "duration_ms": 249625,
       "name": "Falling - German Art Remix",
       "url": "https://open.spotify.com/track/59swb3JpIChu1IHGLLwZ7Y"
+    },
+    {
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/5rydNFhgtyNFdgSWOPmZuD"
+      },
+      "artists": [
+        {
+          "name": "Breaches",
+          "url": "https://open.spotify.com/artist/45nCl4FXVmv4HjwLXVy2Ze"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217928,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/0EuyJyhhqqUBVVN3QUCt0p"
     },
     {
       "album": {
@@ -13916,7 +13992,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 123376,
       "name": "Little Green Dots",
       "url": "https://open.spotify.com/track/50ers5l5Zlk6mOZone9KVv"
@@ -14502,7 +14578,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 307078,
       "name": "Man With The X-Ray Eyes",
       "url": "https://open.spotify.com/track/7AYFqTdMlnx0t8NRlg4nEo"
@@ -14726,6 +14802,24 @@
       "duration_ms": 139456,
       "name": "Medication",
       "url": "https://open.spotify.com/track/3V6E5siQWGWny58jNgHJzP"
+    },
+    {
+      "album": {
+        "name": "Gilding The Lily",
+        "url": "https://open.spotify.com/album/0iDFck40nDfufM5k9Rp5Gv"
+      },
+      "artists": [
+        {
+          "name": "Desperate Journalist",
+          "url": "https://open.spotify.com/artist/3bQOdXdA0JLHAVHavCMqs8"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/2h1Jaqnk7s3aObE42P8uOW"
     },
     {
       "album": {
@@ -15174,6 +15268,24 @@
       "duration_ms": 183857,
       "name": "Mission",
       "url": "https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma"
+    },
+    {
+      "album": {
+        "name": "MKC",
+        "url": "https://open.spotify.com/album/01VmeVNmt84qfhBY15tJc3"
+      },
+      "artists": [
+        {
+          "name": "Knives",
+          "url": "https://open.spotify.com/artist/2YoHhPouaTT96k3dUQ8WZK"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204906,
+      "name": "MKC",
+      "url": "https://open.spotify.com/track/32rdDEZqrSxBFwmAN1Pwri"
     },
     {
       "album": {
@@ -18370,7 +18482,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 308189,
       "name": "Requiem for My Memories",
       "url": "https://open.spotify.com/track/3yFsLOkdfCpXRzMWH2NLsZ"
@@ -18518,7 +18630,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 321921,
       "name": "Rites Private",
       "url": "https://open.spotify.com/track/7BnQxmKerr56Q2qSmWVukz"
@@ -19196,7 +19308,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -19452,7 +19564,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -19470,7 +19582,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 236666,
       "name": "Sense of Purpose",
       "url": "https://open.spotify.com/track/5DeHhd62EYuKKKmkvqfR2z"
@@ -20480,7 +20592,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -20686,7 +20798,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "So Cold - Rising Phoenix",
       "url": "https://open.spotify.com/track/0P479qWIPJeJdWAoJxa5Ec"
@@ -21636,7 +21748,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -21824,7 +21936,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 197626,
       "name": "Suffocating",
       "url": "https://open.spotify.com/track/1MAOQ4HLZT62wDsrXsQ1tq"
@@ -22762,7 +22874,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 202127,
       "name": "The Black Hole Chronicles",
       "url": "https://open.spotify.com/track/2VR3dcqabJAr1QMsg0jIp5"
@@ -23176,7 +23288,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 263054,
       "name": "The hand of doom",
       "url": "https://open.spotify.com/track/06qPUHQmfEAdyx2TppCopr"
@@ -24222,7 +24334,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 230259,
       "name": "This War Is Wrong",
       "url": "https://open.spotify.com/track/0UjVPxJDB5rTpUB8zydF2W"
@@ -24320,7 +24432,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 299000,
       "name": "Through Open Eyes - Black Nail Cabaret Remix",
       "url": "https://open.spotify.com/track/1XsRnSw2VQqTcmd5XgXeo0"
@@ -24540,7 +24652,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 108000,
       "name": "TMT",
       "url": "https://open.spotify.com/track/7Ei9ef2Ey6X3cf3t7oddke"
@@ -24814,7 +24926,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -24958,7 +25070,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 195649,
       "name": "Trust Fall",
       "url": "https://open.spotify.com/track/7EhVKTqGb7BSIJLm1O5uB8"
@@ -25510,7 +25622,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 244986,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/2VBw08lDHey63JPNLvJYbI"
@@ -25568,7 +25680,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 185510,
       "name": "Vampire Desire",
       "url": "https://open.spotify.com/track/7G4G4Dmpok1ptnbXRGSMKq"
@@ -27296,7 +27408,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"

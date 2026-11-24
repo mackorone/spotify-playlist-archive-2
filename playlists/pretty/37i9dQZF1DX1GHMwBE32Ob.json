@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Shoday",
-  "num_followers": 166152,
+  "num_followers": 166263,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXbn9Jfh/lNPD7UZh8jMi968DM+",
+  "snapshot_id": "AAAAAAsjdz8AKSCFA9ZoBIHsDCYEbdjY",
   "tracks": [
     {
       "added_at": "2026-11-20 11:10:26",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-11-20 11:10:26",
       "album": {
-        "name": "WINDOW",
-        "url": "https://open.spotify.com/album/6MjkCmEG6cTnLGx8YinkMd"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        },
-        {
-          "name": "OctobersRich",
-          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
-        }
-      ],
-      "duration_ms": 99487,
-      "name": "WINDOW",
-      "url": "https://open.spotify.com/track/3E6gQhE8gZRIMCdWLBjH6u"
-    },
-    {
-      "added_at": "2026-11-20 11:10:26",
-      "album": {
         "name": "Allonsy",
         "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
+    },
+    {
+      "added_at": "2026-11-20 11:10:26",
+      "album": {
+        "name": "WINDOW",
+        "url": "https://open.spotify.com/album/6MjkCmEG6cTnLGx8YinkMd"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "OctobersRich",
+          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
+        }
+      ],
+      "duration_ms": 99487,
+      "name": "WINDOW",
+      "url": "https://open.spotify.com/track/3E6gQhE8gZRIMCdWLBjH6u"
     },
     {
       "added_at": "2026-11-20 11:10:26",
@@ -923,18 +923,22 @@
     {
       "added_at": "2026-11-20 11:10:26",
       "album": {
-        "name": "WayWard",
-        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C"
+        "name": "Flexing",
+        "url": "https://open.spotify.com/album/3QWfcIXoeCErAe3OY5wGMB"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 217777,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf"
+      "duration_ms": 176000,
+      "name": "Flexing",
+      "url": "https://open.spotify.com/track/2snC2TLRu46EWUcywOdMhb"
     },
     {
       "added_at": "2026-11-20 11:10:26",
@@ -955,18 +959,18 @@
     {
       "added_at": "2026-11-20 11:10:26",
       "album": {
-        "name": "NOMADINHO: 4TH PRIME",
-        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+        "name": "WayWard",
+        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 174639,
-      "name": "CA$H EVERYDAY",
-      "url": "https://open.spotify.com/track/3suWL7v5DD7cMXsmo22djj"
+      "duration_ms": 217777,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf"
     },
     {
       "added_at": "2026-11-20 11:10:26",
@@ -987,22 +991,18 @@
     {
       "added_at": "2026-11-20 11:10:26",
       "album": {
-        "name": "Flexing",
-        "url": "https://open.spotify.com/album/3QWfcIXoeCErAe3OY5wGMB"
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Flexing",
-      "url": "https://open.spotify.com/track/2snC2TLRu46EWUcywOdMhb"
+      "duration_ms": 174639,
+      "name": "CA$H EVERYDAY",
+      "url": "https://open.spotify.com/track/3suWL7v5DD7cMXsmo22djj"
     },
     {
       "added_at": "2026-11-20 11:10:26",

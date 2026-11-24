@@ -782,7 +782,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 192533,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
@@ -2360,6 +2360,32 @@
       "duration_ms": 179653,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0Xdlxm89ccLUmnJBSAFdRZ"
+      },
+      "artists": [
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        },
+        {
+          "name": "Moon Se Yoon",
+          "url": "https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05"
+        },
+        {
+          "name": "ZENA of RESCENE",
+          "url": "https://open.spotify.com/artist/06SRXHPbXeyZ3mrpomD6ta"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195439,
+      "name": "Love Again (feat. ZENA of RESCENE)",
+      "url": "https://open.spotify.com/track/5J3GBqhDMPqY2u1VRe2xPz"
     },
     {
       "album": {

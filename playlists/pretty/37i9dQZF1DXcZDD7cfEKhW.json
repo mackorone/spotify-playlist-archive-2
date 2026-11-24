@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: AD\u00c9LA",
-  "num_followers": 4319931,
+  "num_followers": 4319676,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJr3xt5ZaFzAdo+Na6n88ADLVRcv",
+  "snapshot_id": "AAAAAKZq1HJisHhL3IUpOksEyrL0w26U",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:06",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Money Made Me A Savage (Calabria)",
         "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 123854,
       "name": "Money Made Me A Savage - Calabria",
       "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "feelslikeimfallinginlove (Zerb x Coldplay)",
-        "url": "https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        }
-      ],
-      "duration_ms": 236612,
-      "name": "feelslikeimfallinginlove - Zerb x Coldplay",
-      "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Say Yes To Heaven (Anyma Remix)",
         "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 222076,
       "name": "Say Yes To Heaven - Anyma Remix",
       "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "feelslikeimfallinginlove (Zerb x Coldplay)",
+        "url": "https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        }
+      ],
+      "duration_ms": 236612,
+      "name": "feelslikeimfallinginlove - Zerb x Coldplay",
+      "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
+        "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
+        "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 158723,
+      "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
+      "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
         "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
         "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 229586,
       "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
-        "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 158723,
-      "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
-      "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1041,26 +1041,6 @@
       "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
     },
     {
-      "added_at": "2026-10-09 04:01:06",
-      "album": {
-        "name": "Close To Me (Solo)",
-        "url": "https://open.spotify.com/album/2mdwvBOoAyI5v17eJW9Nds"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 182083,
-      "name": "Close To Me - Solo",
-      "url": "https://open.spotify.com/track/6ptB0Im3hvvsnijvml9e7a"
-    },
-    {
       "added_at": "2026-08-14 13:13:41",
       "album": {
         "name": "Feeling Good (Austin Millz Remix)",
@@ -1079,6 +1059,26 @@
       "duration_ms": 150789,
       "name": "Feeling Good - Austin Millz Remix",
       "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
+    },
+    {
+      "added_at": "2026-10-09 04:01:06",
+      "album": {
+        "name": "Close To Me (Solo)",
+        "url": "https://open.spotify.com/album/2mdwvBOoAyI5v17eJW9Nds"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 182083,
+      "name": "Close To Me - Solo",
+      "url": "https://open.spotify.com/track/6ptB0Im3hvvsnijvml9e7a"
     },
     {
       "added_at": "2026-08-14 13:13:41",

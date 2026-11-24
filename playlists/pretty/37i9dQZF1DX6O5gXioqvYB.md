@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹 Margherita Vicario in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,956 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,957 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [giovani vecchi](https://open.spotify.com/track/0NTILo70nFggsUFs9DiVfo) | [Biancofiore](https://open.spotify.com/artist/5BmtiAsSluWHBNxspveHzQ) | [giovani vecchi](https://open.spotify.com/album/1ZdUEQRr8WfT7tutRxuLnl) | 2:16 |
 | 100 | [Piante Grasse](https://open.spotify.com/track/1bLMWlHtqyIaesyX1ITLAM) | [Pau Amma](https://open.spotify.com/artist/43P8w5JaFlfW2uQkkPYL7Q) | [Piante Grasse](https://open.spotify.com/album/3VvvUeWLIkD6X1VMpHKpjn) | 3:50 |
 
-Snapshot ID: `AAAAAOXFWu142sIA+dpkFzlntL12ahBg`
+Snapshot ID: `AAAAAIPJDGArfOA4gUMcldJwytZiqFIU`

@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319614,
+  "num_followers": 319619,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGm7hoOaDqu+oNcpBoW9RkjUMQcq",
+  "snapshot_id": "AAAAAO95Cq+xjCCD78Lt4gI58UtXWaVa",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:30",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "temporal",
-        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 216299,
-      "name": "temporal",
-      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
         "name": "Uma Cabana",
         "url": "https://open.spotify.com/album/054n4OQyd9yxD52XfFa01t"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 142000,
       "name": "Uma Cabana",
       "url": "https://open.spotify.com/track/5okIfDBy57Ek20m0pJdHcz"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "temporal",
+        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 216299,
+      "name": "temporal",
+      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
     },
     {
       "added_at": "2026-09-10 03:01:30",

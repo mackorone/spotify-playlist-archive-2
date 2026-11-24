@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,400 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,399 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 62 | [Song Without Words](https://open.spotify.com/track/3jy4CgcQrdkju4htINevNG) | [Bartek Wąsik](https://open.spotify.com/artist/0ciNlHAkUTkFrV92LGRDDo) | [Pianorizon](https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1) | 2:45 |
 | 63 | [Pamiętam twoje oczy](https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk) | [Warszawskie Combo Taneczne](https://open.spotify.com/artist/40gaR2GqGc39aBRhGwUtHk) | [Pamiętam twoje oczy](https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx) | 3:01 |
 | 64 | [Sacred](https://open.spotify.com/track/5pXascPOOGTfedZSAkxQlg) | [Szymon Mika](https://open.spotify.com/artist/7kn4iVkwF5H5NUqc027hHW), [Song Yi Jeon](https://open.spotify.com/artist/17v2MwiC7Seq23J5tByGoa), [Oskar Török](https://open.spotify.com/artist/6ggig1QTrvv08jV2Q92vhs), [Andrzej Święs](https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC), [Peter Somos](https://open.spotify.com/artist/4jHzxxSHEp8zYuAYve98eB) | [Agma](https://open.spotify.com/album/4AQeD34OK5WncJ4yzOpJOk) | 7:01 |
-| 65 | [Tequila, Mezcal](https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz) | [Corruption](https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD) | [Tequila Songs & Desert Winds](https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F) | 3:38 |
+| 65 | [UP & DOWN](https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F) | [Michał FOX Król](https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek) | [CITY CLUSTER](https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU) | 4:13 |
 | 66 | [Sonda uliczna](https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx) | [Arek Jakubik](https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh) | [Romeo i Julia żyją](https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3) | 5:33 |
-| 67 | [UP & DOWN](https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F) | [Michał FOX Król](https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek) | [CITY CLUSTER](https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU) | 4:13 |
+| 67 | [Tequila, Mezcal](https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz) | [Corruption](https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD) | [Tequila Songs & Desert Winds](https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F) | 3:38 |
 | 68 | [i wrote a bad poem](https://open.spotify.com/track/7eOYJ0GY3meZ0GJ7Rkb5DL) | [Aleksandra Kryńska Quintet](https://open.spotify.com/artist/0xlM83I4SLrJjHZYx0y4cj), [Aleksandra Kryńska](https://open.spotify.com/artist/54qiU9plHySvYT7jtzW7Wp), [Piotr Damasiewicz](https://open.spotify.com/artist/4yIOfpdk3BfrwmT4HgN9GQ), [Szymon Mika](https://open.spotify.com/artist/7kn4iVkwF5H5NUqc027hHW), [Michał Aftyka](https://open.spotify.com/artist/69AB45VV3c0O7o64JJzmeL), [Bartosz Szablowski](https://open.spotify.com/artist/7A4gmDsvkx2e5h3fnaVXXh) | [something holy?](https://open.spotify.com/album/2TRJ2XhmivmwX1maG1a08k) | 4:38 |
 | 69 | [Reinvented](https://open.spotify.com/track/6bkCoSWdt9XzZ5sJSv7Jvg) | [Szymon Mika](https://open.spotify.com/artist/7kn4iVkwF5H5NUqc027hHW), [Song Yi Jeon](https://open.spotify.com/artist/17v2MwiC7Seq23J5tByGoa), [Oskar Török](https://open.spotify.com/artist/6ggig1QTrvv08jV2Q92vhs), [Andrzej Święs](https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC), [Peter Somos](https://open.spotify.com/artist/4jHzxxSHEp8zYuAYve98eB) | [Agma](https://open.spotify.com/album/4AQeD34OK5WncJ4yzOpJOk) | 8:34 |
 | 70 | [Ballada \(feat\. Kuba Badach\)](https://open.spotify.com/track/0Okn9ZO2UnLZKqflhjZLm3) | [Michał Barański](https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A), [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [No Return No Karma](https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB) | 5:50 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [Give It a Rest](https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ) | [Alan Balcerowski Quintet](https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug) | [Looking Ahead](https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9) | 7:06 |
 | 79 | [Etiuda f\-moll z Trois Nouvelles Études nr 1 Dbop\. 36A](https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK) | [LIS](https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Fryderyk LIS](https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71) | 4:11 |
 
-Snapshot ID: `AAAAAB/2GQouUPIzj6JJdKCq9VNVUFtP`
+Snapshot ID: `AAAAAEaFzO+Wk3QuTIxDlSE342aDDTlz`

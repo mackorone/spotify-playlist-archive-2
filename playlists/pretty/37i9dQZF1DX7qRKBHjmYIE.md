@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con ZUCO OMG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,681 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,599 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 12 | [EL CIELO](https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 2:35 |
 | 13 | [Hombre De Bien](https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Hombre De Bien](https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3) | 3:01 |
 | 14 | [Departamento](https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Departamento](https://open.spotify.com/album/540pquD3B2fmai9xx25RII) | 4:44 |
-| 15 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
-| 16 | [El Hueso](https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [El Hueso](https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM) | 2:23 |
+| 15 | [El Hueso](https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [El Hueso](https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM) | 2:23 |
+| 16 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
 | 17 | [SAHUARO](https://open.spotify.com/track/3Hsq2yl5dAAs8Rq1Y2JNM4) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [SAHUARO](https://open.spotify.com/album/29lpRI9e86cYqrBxiDRzlD) | 5:12 |
 | 18 | [Vueltas](https://open.spotify.com/track/4zMbUp4WDZxVeEeBpdgtH4) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 |
 | 19 | [gaviotas de cristal](https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [fill de la mar \(2026\)](https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt) | 1:57 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 47 | [Desvelado](https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Desvelado](https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr) | 2:54 |
 | 48 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
 | 49 | [PECADO](https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PECADO](https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S) | 3:05 |
-| 50 | [aunquetelopida](https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [aunquetelopida](https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA) | 3:00 |
+| 50 | [Down](https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [Down](https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI) | 2:35 |
 | 51 | [BARBIE](https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [rodrii](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi), [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk) | [BARBIE](https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz) | 3:27 |
-| 52 | [Down](https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [Down](https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI) | 2:35 |
-| 53 | [cool](https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [cool](https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ) | 2:55 |
+| 52 | [aunquetelopida](https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [aunquetelopida](https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA) | 3:00 |
+| 53 | [EL ANILLO](https://open.spotify.com/track/67wCgbdbkh1w40DhOQa5ag) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [EL ANILLO](https://open.spotify.com/album/0HV3gafLxMQXyvqfydZ0bn) | 2:22 |
 | 54 | [dandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltas](https://open.spotify.com/track/0l21xkEnzkakePnAfPbJRq) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 3:23 |
-| 55 | [EL ANILLO](https://open.spotify.com/track/67wCgbdbkh1w40DhOQa5ag) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [EL ANILLO](https://open.spotify.com/album/0HV3gafLxMQXyvqfydZ0bn) | 2:22 |
+| 55 | [cool](https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [cool](https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ) | 2:55 |
 | 56 | [poco+real](https://open.spotify.com/track/3eZd4uj9faJKV1GgsxViT2) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [conamor,](https://open.spotify.com/album/5prOgSVAwMnCFimN3GgdDP) | 4:04 |
 | 57 | [ROCCO](https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [ROCCO / TENTACION](https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS) | 3:06 |
-| 58 | [cuando no puedes ver nada](https://open.spotify.com/track/6Xtd6zuzNPEkYtfVBhlogp) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Selva Oscura](https://open.spotify.com/album/1gppQNLvgPH1wfrA9yLw9X) | 4:27 |
-| 59 | [De Cero](https://open.spotify.com/track/3nr0sRIoRugpqeF1PUYt6k) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [De Cero](https://open.spotify.com/album/0hskREe3oBksLnJHnawkk6) | 2:50 |
+| 58 | [De Cero](https://open.spotify.com/track/3nr0sRIoRugpqeF1PUYt6k) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [De Cero](https://open.spotify.com/album/0hskREe3oBksLnJHnawkk6) | 2:50 |
+| 59 | [cuando no puedes ver nada](https://open.spotify.com/track/6Xtd6zuzNPEkYtfVBhlogp) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Selva Oscura](https://open.spotify.com/album/1gppQNLvgPH1wfrA9yLw9X) | 4:27 |
 | 60 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
 | 61 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
 | 62 | [La Baby Cambió](https://open.spotify.com/track/1qLnwbCwQ2YyubFYM0Pw1Z) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Miss Me Much?](https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2) | 1:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [Mentira](https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Mentira](https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M) | 2:11 |
 | 100 | [Creo En Ti](https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Creo En Ti](https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v) | 3:22 |
 
-Snapshot ID: `AAAAAHrmeqOnNTb8sk2EzZgJBB7PylSf`
+Snapshot ID: `AAAAAEj+CqcRMGh3JTXH/zcCEQkroCfJ`

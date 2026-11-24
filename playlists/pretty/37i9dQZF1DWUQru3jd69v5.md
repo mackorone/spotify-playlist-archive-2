@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Quest in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,319 likes - 65 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,309 likes - 65 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 64 | [I SOLDI NON FANNO FELICI](https://open.spotify.com/track/6SC8HnRy6ES9tVcJjlJN2W) | [Totem](https://open.spotify.com/artist/4S3jg23v1gg17rTKI952fK) | [I SOLDI NON FANNO FELICI](https://open.spotify.com/album/33U35Nk6ZGl4KEIUZnTzjR) | 2:03 |
 | 65 | [scogliera](https://open.spotify.com/track/6WDD2wfmJbs1NLMpgaQGqy) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [scogliera](https://open.spotify.com/album/2AWpWs09BOOY5l1QBm4Ym1) | 2:23 |
 
-Snapshot ID: `AAAAAPmaTMeci2DWYYTIvES1TsJMiK4Z`
+Snapshot ID: `AAAAAK4x0AEYIF2PZF0jlj2fMueOnoN8`

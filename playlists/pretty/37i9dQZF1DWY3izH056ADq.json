@@ -1,12 +1,12 @@
 {
   "description": "Enjoy music From \"Paradox Live\"! \u00a9Paradox Live2023",
-  "num_followers": 42901,
+  "num_followers": 42898,
   "original_name": "Paradox Live -\u30d1\u30e9\u30e9\u30a4-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJidgcy1qdiAvyxhWSeULCvSq8Aj",
+  "snapshot_id": "AAAAAD6W4p3kDDvMohkeeakJF7Stee7v",
   "tracks": [
     {
       "added_at": "2026-09-15 16:20:21",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "Do as I say",
+      "url": "https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live Exhibition Show -\u60aa\u6f22\u5974\u7b49-",
         "url": "https://open.spotify.com/album/4SUPnE9AhmKqt7ws8j5jLH"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 234584,
       "name": "EMPEROR - WE ON FIRE!! - - feat. \u5016\u7530\u4f86\u672a",
       "url": "https://open.spotify.com/track/6Ih3BC1tbYyNqrebW6z8GN"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live Opening Show-Road to Legend-",
-        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
-      },
-      "artists": [
-        {
-          "name": "AMPRULE",
-          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "Do as I say",
-      "url": "https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf"
     },
     {
       "added_at": "2026-09-15 16:20:21",

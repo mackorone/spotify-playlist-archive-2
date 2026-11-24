@@ -4,7 +4,7 @@
 
 > 
 
-251 songs - 14 hr 35 min
+252 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Vacuum](https://open.spotify.com/track/6wi3qtoKT7v3dnXyxrEBDg) | [WOODJU](https://open.spotify.com/artist/7iYTP3Gnpd8ZDFrr9gocBR) | [Undiscovered](https://open.spotify.com/album/1xwTjsaYZU4OhMbAPkWgZq) | 2:53 | 2018-12-01 |  |
 | [Vale](https://open.spotify.com/track/4FR2wKI8PXFMRJVsekEj64) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Scattering](https://open.spotify.com/album/1b0CSmlpQl7ztIcYe02wkM) | 4:13 | 2018-11-27 |  |
 | [Virus](https://open.spotify.com/track/4nVqKzVP6XPZPS4b34bHv1) | [Memphis.](https://open.spotify.com/artist/3ACzfvTTZISD00GrHxuGiv) | [Virus](https://open.spotify.com/album/5WxpjBOBwaoDlOCoIuh8G2) | 3:08 | 2020-06-27 |  |
+| [VORTEX](https://open.spotify.com/track/2zoh1BsYe8A0rE4tBWJrKT) | [REA4E](https://open.spotify.com/artist/18WcVhn6ylYELBVasV1QsU) | [VORTEX](https://open.spotify.com/album/0MihLqk33JdQEs7EJgnMKm) | 2:28 | 2026-11-23 |  |
 | [Wake Me Up](https://open.spotify.com/track/7xQGuSAJBWLYziIeUTsjUW) | [Lowly, Kim, Affectwave](https://open.spotify.com/artist/4W3IG9DQCjtsOzT6fiWcZV) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:18 | 2021-06-11 |  |
 | [Walk Alone](https://open.spotify.com/track/5Pn0C5E7oYHLcsr2llYzaZ) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR), [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Walk Alone](https://open.spotify.com/album/5EvWVv7sGSorTrLAQHRwvQ) | 2:51 | 2023-03-24 |  |
 | [Walking on the Abyss](https://open.spotify.com/track/4fFmCRa4lQKZMmPtmqwsZR) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Anthology, Pt\. 2](https://open.spotify.com/album/3n4SeHfULyCQNQSOhsEUoY) | 3:13 | 2019-02-06 |  |

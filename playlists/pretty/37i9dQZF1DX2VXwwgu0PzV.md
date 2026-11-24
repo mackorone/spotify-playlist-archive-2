@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. Cover: Oba Reengy x Oludemi
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,492 likes - 104 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,498 likes - 104 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 103 | [SOS](https://open.spotify.com/track/6gtxLRZsQib7h4e4sVRp6v) | [Segun Adigun](https://open.spotify.com/artist/3QqGBnmFHm7tAksGgrLGdj), [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [SOS](https://open.spotify.com/album/5QYIlDbYC0H0iUZIXLKDHD) | 3:02 |
 | 104 | [Thanksgiving](https://open.spotify.com/track/5X4OkTscdnRzVhju5t31UP) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Thanksgiving](https://open.spotify.com/album/5wqaRz24G5cf72CGzAb5rq) | 3:02 |
 
-Snapshot ID: `AAAAAK+QXSpOqpGbY/A5JeqJZ8BOze7U`
+Snapshot ID: `AAAAABU3ss3uwck0+nd78yifnot5ULFZ`

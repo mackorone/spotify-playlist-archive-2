@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 2106715,
+  "num_followers": 2106562,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAsMhHebcCUKaxRwypAy2Yfr0bAP",
+  "snapshot_id": "AAAAABNpFKCWdLB8sf1MvZTWKr8gv0T+",
   "tracks": [
     {
       "added_at": "2026-08-21 14:00:21",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 323068,
-      "name": "Old Sunrise",
-      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Most Wanted: The Best of King Yellowman",
         "url": "https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 387306,
       "name": "Zungguzungguguzungguzeng",
       "url": "https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 323068,
+      "name": "Old Sunrise",
+      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "70's Pop",
-        "url": "https://open.spotify.com/album/24VKBqI1pzR94n26Ugpk6V"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 267746,
-      "name": "Dreadlock Holiday",
-      "url": "https://open.spotify.com/track/5AW06u82yN9agtQlINqny5"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Legend (The Definitive Remasters)",
         "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 237133,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "70's Pop",
+        "url": "https://open.spotify.com/album/24VKBqI1pzR94n26Ugpk6V"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 267746,
+      "name": "Dreadlock Holiday",
+      "url": "https://open.spotify.com/track/5AW06u82yN9agtQlINqny5"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Good Thing Going",
-        "url": "https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR"
+        "name": "Legend (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
       "artists": [
         {
-          "name": "Sugar Minott",
-          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Good Thing Going",
-      "url": "https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N"
+      "duration_ms": 256493,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
     }
   ],
   "unique_name": "One Love",

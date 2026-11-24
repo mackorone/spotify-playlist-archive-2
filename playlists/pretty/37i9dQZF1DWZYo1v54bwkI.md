@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,360 likes - 190 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,534 likes - 190 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 189 | [souve](https://open.spotify.com/track/0FcvxhzVE426no5g7HDIhY) | [Paldon Drupa](https://open.spotify.com/artist/0D2PXmUnDNu9BEKjfReLoR) | [souve](https://open.spotify.com/album/0T87ETdULbTbFELwYviPja) | 2:56 |
 | 190 | [Leap of Faith](https://open.spotify.com/track/7ow7xhDGRCnz0k5AARGYWO) | [Lueen](https://open.spotify.com/artist/10HEL8QA7QwnoF7NqrtNal) | [Leap of Faith](https://open.spotify.com/album/1YIbOkTnfluUqf9M60nMJz) | 2:26 |
 
-Snapshot ID: `AAAAAD42kiwZ4u5fzvw7POpVic/7iM04`
+Snapshot ID: `AAAAAJZYYIX2g0HR6EQWXLqLc8R98eUl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Kazdoura
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,256 likes - 40 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,268 likes - 40 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 39 | [تحدثت](https://open.spotify.com/track/22IprcmkNlpg3rNQ9YSlDS) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl) | [تحدثت](https://open.spotify.com/album/3MoqHEUB3Adi1uaYCnD7Mg) | 4:40 |
 | 40 | [Etganen](https://open.spotify.com/track/2vXD1wBUPRyb2NYf72vBbT) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Aida El Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [Etganen](https://open.spotify.com/album/7BOOPQBTleS4c5dtHJ3aRN) | 3:06 |
 
-Snapshot ID: `AAAAABCQ36a0nMhtzgJkaC5pXhoHDLh/`
+Snapshot ID: `AAAAALwtEf7Z9ts3w8si4ih5DgwufUqE`

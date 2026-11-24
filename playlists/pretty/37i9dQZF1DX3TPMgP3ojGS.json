@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 489429,
+  "num_followers": 489547,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIm7XtRt1gxffz5fYj7Czl3AbSOm",
+  "snapshot_id": "AAAAAKP9o24j1bu2hogjEZL8gZ6gPCqA",
   "tracks": [
     {
       "added_at": "2026-05-08 09:59:25",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Poesia",
-        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
-      },
-      "artists": [
-        {
-          "name": "Fernando Alegre",
-          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
-        }
-      ],
-      "duration_ms": 125248,
-      "name": "Poesia",
-      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 142582,
       "name": "Before You",
       "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Poesia",
+        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
+      },
+      "artists": [
+        {
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+        }
+      ],
+      "duration_ms": 125248,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Serene",
-        "url": "https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov"
-      },
-      "artists": [
-        {
-          "name": "Will Kaufman",
-          "url": "https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU"
-        }
-      ],
-      "duration_ms": 146745,
-      "name": "Serene",
-      "url": "https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Through The Blue (Piano Version)",
         "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 225494,
       "name": "Through The Blue - Piano Version",
       "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov"
+      },
+      "artists": [
+        {
+          "name": "Will Kaufman",
+          "url": "https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU"
+        }
+      ],
+      "duration_ms": 146745,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "D\u00e9sir",
         "url": "https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 163479,
       "name": "D\u00e9sir",
       "url": "https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Under",
-        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Morning Rain",
         "url": "https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 160250,
       "name": "When you were near",
       "url": "https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Under",
+        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Window Seat",
-        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 145120,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Ocean Heart",
         "url": "https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 172000,
       "name": "Ocean Heart",
       "url": "https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Window Seat",
+        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Ellie",
-        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
-      },
-      "artists": [
-        {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Ellie",
-      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "A Rose",
         "url": "https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "Ellie",
+        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "Wake with me",
         "url": "https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Afterlight",
-        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
-      },
-      "artists": [
-        {
-          "name": "Arlo Thiem",
-          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Afterlight",
-      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "La Belle Epoque",
         "url": "https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 163124,
       "name": "La Belle Epoque",
       "url": "https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "Qi",
+        "url": "https://open.spotify.com/album/39fZOxjNH13Aj7Mzgpy9co"
+      },
+      "artists": [
+        {
+          "name": "PHILDEL",
+          "url": "https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4"
+        }
+      ],
+      "duration_ms": 326023,
+      "name": "Qi",
+      "url": "https://open.spotify.com/track/2PgVEaqgmMh1hdhcnuqDEd"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "En t'attendant",
         "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 132930,
       "name": "Passeggiata Serale",
       "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "Qi",
-        "url": "https://open.spotify.com/album/39fZOxjNH13Aj7Mzgpy9co"
-      },
-      "artists": [
-        {
-          "name": "PHILDEL",
-          "url": "https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4"
-        }
-      ],
-      "duration_ms": 326023,
-      "name": "Qi",
-      "url": "https://open.spotify.com/track/2PgVEaqgmMh1hdhcnuqDEd"
     },
     {
       "added_at": "2026-05-08 09:59:25",

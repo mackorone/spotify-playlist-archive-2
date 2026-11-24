@@ -1,12 +1,12 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: TAK",
-  "num_followers": 121409,
+  "num_followers": 121413,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE8sbraZfAfFBIqx8HzUiMf/tNME",
+  "snapshot_id": "AAAAAIs80FkqxO63yd+zyzNKEACrixPL",
   "tracks": [
     {
       "added_at": "2026-11-17 15:00:46",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-11-17 15:00:46",
       "album": {
+        "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
+      },
+      "artists": [
+        {
+          "name": "rerulili",
+          "url": "https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
+      "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
+    },
+    {
+      "added_at": "2026-11-17 15:00:46",
+      "album": {
         "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
         "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 163682,
       "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
       "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
-    },
-    {
-      "added_at": "2026-11-17 15:00:46",
-      "album": {
-        "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
-        "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
-      },
-      "artists": [
-        {
-          "name": "rerulili",
-          "url": "https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
-      "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
     },
     {
       "added_at": "2026-11-17 15:00:46",

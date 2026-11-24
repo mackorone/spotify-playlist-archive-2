@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,786 likes - 104 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,793 likes - 104 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 103 | [Qhubeka Njalo](https://open.spotify.com/track/4IgBm1I3KqsumRjbHWBlLI) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Qhubeka Njalo](https://open.spotify.com/album/1MQ1niU1Fca4c7sekou43z) | 6:33 |
 | 104 | [Your True Friend \(Jesus\) \- Live](https://open.spotify.com/track/4du4cTGn30RQcy9sY1Lc9J) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [JUDAH NEW CREATION WORSHIP](https://open.spotify.com/artist/6lNCI2cLHPAbegQ785hXM3), [Nhlanhla Dube](https://open.spotify.com/artist/0VitabDkwg7dAXWkoZXbtW) | [Your True Friend \(Jesus\) \[Live\]](https://open.spotify.com/album/1pKK8Kl2Gz6TogHhtsFuKV) | 6:34 |
 
-Snapshot ID: `AAAAACuqPkzCI+X7wxQJpxHjpHt4bw34`
+Snapshot ID: `AAAAAGk0E6AGjs06LjHipS/UxT5UsCMB`

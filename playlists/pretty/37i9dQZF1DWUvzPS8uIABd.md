@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,278 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,263 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 99 | [Virta](https://open.spotify.com/track/6ib6e7TErz1lK5uhoC6Wpy) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Mikä muutti kaiken](https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb) | 3:08 |
 | 100 | [Herkkisten liiga](https://open.spotify.com/track/7vVfrEznUhDS3o4CND3QNb) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Herkkisten liiga](https://open.spotify.com/album/5xKaloO6TrGWYP4x8fPeE8) | 3:05 |
 
-Snapshot ID: `AAAAACHON6mvVoi1Na23fuvnEfy+tSXU`
+Snapshot ID: `AAAAAKL5pMVkmARfCJIzJtZ17+iSLt5S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Sophie Powers
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,474 likes - 105 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,397 likes - 105 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 104 | [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 |
 | 105 | [WEAPONS](https://open.spotify.com/track/25rKpL9Ckhb56hhPKF6ylf) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [WEAPONS](https://open.spotify.com/album/02z4z6swBetgQqEGjVSo7E) | 2:53 |
 
-Snapshot ID: `AAAAAGkvx7/Lh0/NRd6cs3LktH/9Fr/K`
+Snapshot ID: `AAAAAPoI9JiZVBYoNho2jK/DYzORQ+dW`

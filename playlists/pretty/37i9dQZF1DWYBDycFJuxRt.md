@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 桑田 佳祐 \*👉 <a href="https://spice.eplus.jp/articles/350433">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,008 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,997 likes - 73 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,24 +63,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 53 | [地獄に手を振って](https://open.spotify.com/track/5hbENPPyEZXU522bLkLx91) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [DOPA](https://open.spotify.com/album/2fH17q5acCBXcear5nTsk3) | 4:28 |
 | 54 | [Be Alright](https://open.spotify.com/track/1o3IzvMWTYHmJcr4QpORNs) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Be Alright](https://open.spotify.com/album/7lIPngGkpxjppl1x4oM0Gu) | 3:27 |
 | 55 | [イケメン](https://open.spotify.com/track/5p3jhk43IPaeNJFqukz4tn) | [TAKEKO420](https://open.spotify.com/artist/2FtjPnppfeem0hu0wteHr0), [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC) | [イケメン](https://open.spotify.com/album/1nxEU4hVfjYLwq0zwOMQnb) | 3:11 |
-| 56 | [COG](https://open.spotify.com/track/5LQdqreNUvMFGzJwdixP7W) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy), [HIMIZ](https://open.spotify.com/artist/2mESmN0OF6exC4Sj5qySOD), [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx) | [Temple Days](https://open.spotify.com/album/54Ncmv0VI2pWugNWYZFRcB) | 4:43 |
-| 57 | [賽](https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [賽](https://open.spotify.com/album/0iG6PBaek9i1CqzENiA8K2) | 3:37 |
-| 58 | [You're my path](https://open.spotify.com/track/71PMpYGCGIXkoQuWgL1i4p) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [5mile](https://open.spotify.com/album/1OKkJvj6iQPfgS1KwFBFfb) | 5:13 |
-| 59 | [Drip Drop](https://open.spotify.com/track/6stEg9AiJWVQtfhFneoxKq) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Drip Drop](https://open.spotify.com/album/1SpLkHjJHRwyoCZ5UTV22r) | 2:52 |
-| 60 | [DAYS](https://open.spotify.com/track/5djxFXtT3piqwFFvnaa9gR) | [BUDDiiS](https://open.spotify.com/artist/68hd7ONzgN98uAZDWMlmAQ) | [無限大LOVE!!!](https://open.spotify.com/album/0aPc3wJ3rfdMOPwUBZK0ZE) | 3:23 |
-| 61 | [Rush rush](https://open.spotify.com/track/1mTyPpf64QTlwXtse3X7Ni) | [VIBY](https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN) | [Rush rush](https://open.spotify.com/album/2ZZA39lvKX4bXa7fOLBPKu) | 3:12 |
-| 62 | [ラストスタンド](https://open.spotify.com/track/2NZDidMPE7qOpV9wnapNtZ) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [ラストスタンド](https://open.spotify.com/album/0mFPW8cFV2zojV6wLlcB96) | 3:41 |
-| 63 | [跳躍](https://open.spotify.com/track/50GaaZ0D4FGMRUEYkvFfb4) | [アツキタケトモ](https://open.spotify.com/artist/53ZtiUmgk4elH0IGLs7P3g) | [跳躍](https://open.spotify.com/album/64bZCAE7B7lCY7t7x7PUjY) | 3:10 |
-| 64 | [バタフライ](https://open.spotify.com/track/7yzAp2EfSgcioYViFcYiRr) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [バタフライ](https://open.spotify.com/album/1GS1JtZNM5cLO5pkRWnFvq) | 4:09 |
-| 65 | [28\-29](https://open.spotify.com/track/0SP6mGdqaH9Gf8ilAohf68) | [con](https://open.spotify.com/artist/719y5aIUDHjAh29raiNMvP) | [28\-29／シーソー](https://open.spotify.com/album/3By8R4kybLSFBLMcSP2mSp) | 4:33 |
-| 66 | [darling you](https://open.spotify.com/track/0CC3VmSdMqhXEDfdLcx5dg) | [NEWLY](https://open.spotify.com/artist/30qeN6y7bk4ASVG6zPd3sQ), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Suntanese](https://open.spotify.com/album/1oigL9mfePHQPq2I0O54ea) | 3:50 |
-| 67 | [君に会いたくて死にそう](https://open.spotify.com/track/2hpNl3k1IUMK3inbfSzFmQ) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [かなわない、 / 君に会いたくて死にそう](https://open.spotify.com/album/5p1gklZpUPtNGkob9w4G67) | 3:38 |
-| 68 | [終わりが怖いから考えない](https://open.spotify.com/track/6Qyk8BEPo3CkaoSISmDfWX) | [トップシークレットマン](https://open.spotify.com/artist/56Qm9HEyAYXvtvIxdUv0R2) | [終わりが怖いから考えない](https://open.spotify.com/album/1SdtVZzr50m5z6IrfesMSB) | 1:51 |
-| 69 | [リ：忙忙忙ー忙・忙ー忙忙](https://open.spotify.com/track/2zGCd86bRMDOHcYe3dk43I) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix), [カプリチョザ](https://open.spotify.com/artist/6Cmt1U1samjzOLqjc1UPy9) | [リbuild](https://open.spotify.com/album/24i5jYCoSgKnqvo21pEey2) | 3:01 |
-| 70 | [18](https://open.spotify.com/track/0Frk74Yg0VxfAoRsl0EvzU) | [色々な十字架](https://open.spotify.com/artist/2gWCmHa50Meizr9Mo2sgZ0) | [18](https://open.spotify.com/album/0cQ85hJqi94vnODTRDikLB) | 4:52 |
-| 71 | [ビーマイダーリン](https://open.spotify.com/track/1p6ZPNoaF3IFbT9IVh6hvG) | [Fuzzy Days](https://open.spotify.com/artist/0TryaoYNYIWAtOuq0F9qLe) | [ビーマイダーリン](https://open.spotify.com/album/6mRpXM8Q9bBkcSmckjz9jM) | 3:22 |
-| 72 | [セレンディピティ](https://open.spotify.com/track/65TIiq6ZXY5NR0dKDA3GcF) | [tayori](https://open.spotify.com/artist/0XqIQi5z2qmlxlcUwlJPe2) | [Mirage](https://open.spotify.com/album/3GlYVkY3d3jvbUKwF60EIL) | 4:10 |
-| 73 | [すきになる](https://open.spotify.com/track/0eDvi7H4cgkYldH6Kvg1tX) | [さらば帝国](https://open.spotify.com/artist/5T2tJY3Aot8SKA5K9SYwW7) | [すきになる](https://open.spotify.com/album/3xqFO82nn6BXgBhDZIBRJD) | 2:13 |
-| 74 | [カカシ](https://open.spotify.com/track/7nx4FU8cEMOrKb8g0HA1bR) | [THE RAPTOLS](https://open.spotify.com/artist/0PfC73YU6spbJ76k2CRb3O) | [カカシ](https://open.spotify.com/album/4yD4PaTC7kF6AOM2jiQRo6) | 3:36 |
+| 56 | [賽](https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [賽](https://open.spotify.com/album/0iG6PBaek9i1CqzENiA8K2) | 3:37 |
+| 57 | [You're my path](https://open.spotify.com/track/71PMpYGCGIXkoQuWgL1i4p) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [5mile](https://open.spotify.com/album/1OKkJvj6iQPfgS1KwFBFfb) | 5:13 |
+| 58 | [Drip Drop](https://open.spotify.com/track/6stEg9AiJWVQtfhFneoxKq) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Drip Drop](https://open.spotify.com/album/1SpLkHjJHRwyoCZ5UTV22r) | 2:52 |
+| 59 | [DAYS](https://open.spotify.com/track/5djxFXtT3piqwFFvnaa9gR) | [BUDDiiS](https://open.spotify.com/artist/68hd7ONzgN98uAZDWMlmAQ) | [無限大LOVE!!!](https://open.spotify.com/album/0aPc3wJ3rfdMOPwUBZK0ZE) | 3:23 |
+| 60 | [Rush rush](https://open.spotify.com/track/1mTyPpf64QTlwXtse3X7Ni) | [VIBY](https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN) | [Rush rush](https://open.spotify.com/album/2ZZA39lvKX4bXa7fOLBPKu) | 3:12 |
+| 61 | [ラストスタンド](https://open.spotify.com/track/2NZDidMPE7qOpV9wnapNtZ) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [ラストスタンド](https://open.spotify.com/album/0mFPW8cFV2zojV6wLlcB96) | 3:41 |
+| 62 | [跳躍](https://open.spotify.com/track/50GaaZ0D4FGMRUEYkvFfb4) | [アツキタケトモ](https://open.spotify.com/artist/53ZtiUmgk4elH0IGLs7P3g) | [跳躍](https://open.spotify.com/album/64bZCAE7B7lCY7t7x7PUjY) | 3:10 |
+| 63 | [バタフライ](https://open.spotify.com/track/7yzAp2EfSgcioYViFcYiRr) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [バタフライ](https://open.spotify.com/album/1GS1JtZNM5cLO5pkRWnFvq) | 4:09 |
+| 64 | [28\-29](https://open.spotify.com/track/0SP6mGdqaH9Gf8ilAohf68) | [con](https://open.spotify.com/artist/719y5aIUDHjAh29raiNMvP) | [28\-29／シーソー](https://open.spotify.com/album/3By8R4kybLSFBLMcSP2mSp) | 4:33 |
+| 65 | [darling you](https://open.spotify.com/track/0CC3VmSdMqhXEDfdLcx5dg) | [NEWLY](https://open.spotify.com/artist/30qeN6y7bk4ASVG6zPd3sQ), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Suntanese](https://open.spotify.com/album/1oigL9mfePHQPq2I0O54ea) | 3:50 |
+| 66 | [君に会いたくて死にそう](https://open.spotify.com/track/2hpNl3k1IUMK3inbfSzFmQ) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [かなわない、 / 君に会いたくて死にそう](https://open.spotify.com/album/5p1gklZpUPtNGkob9w4G67) | 3:38 |
+| 67 | [終わりが怖いから考えない](https://open.spotify.com/track/6Qyk8BEPo3CkaoSISmDfWX) | [トップシークレットマン](https://open.spotify.com/artist/56Qm9HEyAYXvtvIxdUv0R2) | [終わりが怖いから考えない](https://open.spotify.com/album/1SdtVZzr50m5z6IrfesMSB) | 1:51 |
+| 68 | [リ：忙忙忙ー忙・忙ー忙忙](https://open.spotify.com/track/2zGCd86bRMDOHcYe3dk43I) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix), [カプリチョザ](https://open.spotify.com/artist/6Cmt1U1samjzOLqjc1UPy9) | [リbuild](https://open.spotify.com/album/24i5jYCoSgKnqvo21pEey2) | 3:01 |
+| 69 | [18](https://open.spotify.com/track/0Frk74Yg0VxfAoRsl0EvzU) | [色々な十字架](https://open.spotify.com/artist/2gWCmHa50Meizr9Mo2sgZ0) | [18](https://open.spotify.com/album/0cQ85hJqi94vnODTRDikLB) | 4:52 |
+| 70 | [ビーマイダーリン](https://open.spotify.com/track/1p6ZPNoaF3IFbT9IVh6hvG) | [Fuzzy Days](https://open.spotify.com/artist/0TryaoYNYIWAtOuq0F9qLe) | [ビーマイダーリン](https://open.spotify.com/album/6mRpXM8Q9bBkcSmckjz9jM) | 3:22 |
+| 71 | [セレンディピティ](https://open.spotify.com/track/65TIiq6ZXY5NR0dKDA3GcF) | [tayori](https://open.spotify.com/artist/0XqIQi5z2qmlxlcUwlJPe2) | [Mirage](https://open.spotify.com/album/3GlYVkY3d3jvbUKwF60EIL) | 4:10 |
+| 72 | [すきになる](https://open.spotify.com/track/0eDvi7H4cgkYldH6Kvg1tX) | [さらば帝国](https://open.spotify.com/artist/5T2tJY3Aot8SKA5K9SYwW7) | [すきになる](https://open.spotify.com/album/3xqFO82nn6BXgBhDZIBRJD) | 2:13 |
+| 73 | [カカシ](https://open.spotify.com/track/7nx4FU8cEMOrKb8g0HA1bR) | [THE RAPTOLS](https://open.spotify.com/artist/0PfC73YU6spbJ76k2CRb3O) | [カカシ](https://open.spotify.com/album/4yD4PaTC7kF6AOM2jiQRo6) | 3:36 |
 
-Snapshot ID: `AAAAAM1rLJNubOwjBw47fhnTijv2NwQu`
+Snapshot ID: `AAAAAMyFXzwzPrbtw3+5LASYlLHJaIJX`

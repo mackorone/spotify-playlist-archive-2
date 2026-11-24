@@ -1,12 +1,12 @@
 {
   "description": "Voices that are elevating nuestra cultura. Becky G en portada. ",
-  "num_followers": 4835,
+  "num_followers": 4838,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEKDtMgRi+wmTQYkvH/9uqAT7gx",
+  "snapshot_id": "AAAAAFyz7YoZdfpd9Pn2/uy6QCfiphd1",
   "tracks": [
     {
       "added_at": "2026-09-18 19:07:30",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
+        "name": "no te vayas",
+        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "no te vayas",
+      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
         "name": "Pienso En Ti",
         "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 155026,
       "name": "Pienso En Ti",
       "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
-        "name": "no te vayas",
-        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "no te vayas",
-      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
     },
     {
       "added_at": "2026-09-18 19:07:30",

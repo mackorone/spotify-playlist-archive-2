@@ -4,7 +4,7 @@
 
 > The best in house music
 
-882 songs - 2 day 8 hr 4 min
+883 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [Love Somebody Else \- Sandy Rivera & Aruhtra's Mix](https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX) | [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Aruhtra](https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv), [April Morgan](https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz) | [Love Somebody Else](https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn) | 2:40 | 2022-04-14 | 2024-01-12 |
 | [Love Story](https://open.spotify.com/track/6g99OTGhJ4BnXDHerdufGR) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc) | [Night Works](https://open.spotify.com/album/3P5IxDoyVaExcDP8IcGkK1) | 5:12 | 2022-06-20 | 2022-06-23 |
 | [Lovelee Dae \- Original](https://open.spotify.com/track/3CUZhJEreKw7B80VTL9K6e) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [Lovelee Dae](https://open.spotify.com/album/2ZxEsmg67xjh02SjNbQuaQ) | 7:36 | 2022-04-20 | 2023-04-07 |
-| [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 | 2026-06-23 |  |
+| [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 | 2026-06-23 | 2026-11-24 |
 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 | 2026-04-09 |  |
 | [Loving At First Sight \- Vocal Mix Edit](https://open.spotify.com/track/3Hbsj0J6L5S6cT0CgZxUvX) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe), [Debórah Bond](https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e) | [Loving At First Sight](https://open.spotify.com/album/6xszccmDMRUBm1weZ5nMYd) | 3:59 | 2024-09-12 | 2025-07-04 |
 | [Loving U](https://open.spotify.com/track/0fEMbkLjNZ4V33KO4mLdP5) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Loving U](https://open.spotify.com/album/2uwg3LXH6aitHO3qDIgH4j) | 3:01 | 2022-04-14 | 2022-07-28 |
@@ -554,6 +554,7 @@
 | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Nightjar \(feat\. SHELLS\)](https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC) | 2:29 | 2022-04-14 | 2023-04-07 |
 | [No Competition](https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [Conor Grant](https://open.spotify.com/artist/6XnqmaX7HOSDoHZYQow9zt) | [No Competition](https://open.spotify.com/album/4kMhXDmECb9Xeup4PGXf4p) | 3:13 | 2024-06-04 | 2025-03-21 |
 | [No More](https://open.spotify.com/track/1xXTOX4eq5d10yPRlyyHRi) | [Hifi Sean](https://open.spotify.com/artist/4r3RNyF5sHrEh1ds9mTr3o), [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [No More](https://open.spotify.com/album/7GPxIRwLpQc9unWjr8XZ5K) | 3:00 | 2025-09-22 | 2025-11-09 |
+| [No Trouble](https://open.spotify.com/track/2rsUCYFI4MhZqVYL1b61vy) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [No Trouble](https://open.spotify.com/album/61rDSQTjNPJmUYpZp95qio) | 2:33 | 2026-11-23 |  |
 | [Nobody](https://open.spotify.com/track/0QrMI79qOhxVmjICelzbyZ) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Nobody](https://open.spotify.com/album/0vxtoBNzecaQcPaq1PySYC) | 3:57 | 2022-04-14 | 2023-04-13 |
 | [Nobody](https://open.spotify.com/track/7nj9KmrlNU0RnVl8kogfyd) | [Roog](https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Nobody](https://open.spotify.com/album/5zwJaPZbR9URaWHqCx5Qin) | 3:37 | 2025-10-06 | 2026-09-08 |
 | [Not for Me](https://open.spotify.com/track/2I0cMbeTElEVio2R1OAqPk) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Lilitha](https://open.spotify.com/artist/0k3N0X3sZWTitHqc2sx6Ft) | [Not for Me](https://open.spotify.com/album/09b6NB5rfzqAELp4ksCSWD) | 3:40 | 2022-04-14 | 2022-07-29 |

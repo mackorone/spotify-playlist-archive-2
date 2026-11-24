@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: sunwoojunga\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,742 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,721 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Ashen Song](https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Ashen Song](https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs) | 3:37 |
 | 50 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 |
 
-Snapshot ID: `AAAAADhvzzUDwi/GtgOqBuJmfB3Hwkll`
+Snapshot ID: `AAAAANt9byZl1p4Jz1ST+OuvB7mobBpj`

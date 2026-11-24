@@ -4,7 +4,7 @@
 
 > the best underground club tracks ❤️‍🔥 ft\. BIIANCO ❤️‍🔥
 
-1,201 songs - 3 day 14 hr 36 min
+1,202 songs - 3 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Art Form](https://open.spotify.com/track/3DNwxBmythdYsgWhllekxe) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Art Form](https://open.spotify.com/album/7f3Ci8ekMScYRGovYnpHL9) | 4:12 | 2025-03-29 | 2025-06-14 |
 | [Artificial](https://open.spotify.com/track/2DG2EhND9DmbXOsOJjOo5F) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [Talons](https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1) | [Attenuation EP](https://open.spotify.com/album/0Ha3XGv6XE8c0aODehJHuW) | 4:38 | 2026-06-19 |  |
 | [As We Proceed](https://open.spotify.com/track/0i8TZwd2oux6VcJ2nrh7o1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [Talons](https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1) | [First Touch Archives 001](https://open.spotify.com/album/4StlwVdqS7u8hTDCQLxbNP) | 4:08 | 2025-09-05 | 2025-10-11 |
+| [As We Speak Through Salt and Static](https://open.spotify.com/track/0Mc8Ub3YCd1CRbgQ3fPfCQ) | [Seta Loto](https://open.spotify.com/artist/5SL7XA9FJG7ISNcbkwlWGZ) | [As We Speak Through Salt and Static](https://open.spotify.com/album/2CoGb6BSRuYwlSOUbZRhkM) | 7:27 | 2026-11-23 |  |
 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-07-12 | 2024-10-02 |
 | [ASCEND](https://open.spotify.com/track/20cOEyAbHE1aq1FUaPCs1N) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [ASCEND](https://open.spotify.com/album/5QRbzvr5etZIqrGonFYr58) | 3:23 | 2025-10-10 | 2026-02-21 |
 | [Ascend](https://open.spotify.com/track/380kcVQTdRwczzyjUWpSrS) | [not even noticed](https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo) | [Ascend](https://open.spotify.com/album/00QbjS3zx2KHH8A4IfPRLB) | 5:38 | 2024-07-18 | 2024-10-02 |
@@ -685,7 +686,7 @@
 | [Midnite](https://open.spotify.com/track/6gKVatLwVfMu8mnXVHau9C) | [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Pressure EP](https://open.spotify.com/album/3ri0nHfxkBVATeAwmK9i1r) | 4:40 | 2025-08-29 | 2025-11-04 |
 | [Might be the One](https://open.spotify.com/track/0OUde6mhlKs6F30g5lq1Rv) | [James Massiah](https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9), [Lord Tusk](https://open.spotify.com/artist/6JNDkNTtBiePTpAX6oEIUw) | [Might Be The One](https://open.spotify.com/album/3yxETtqN9zFbrJNBjWveHr) | 4:12 | 2025-11-03 | 2026-03-14 |
 | [Millennium Freak](https://open.spotify.com/track/7FTMLBw0G2U7RiD1FNZU6S) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq), [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [Millennium Freak](https://open.spotify.com/album/1XHhDKKIepZjnGfSTxhB6m) | 2:29 | 2025-06-13 | 2026-03-07 |
-| [Mirror Phase](https://open.spotify.com/track/1scaF79QhPxBgxVplGyinr) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Mirror Phase EP](https://open.spotify.com/album/4q09fIqkf466XoQcL31GnN) | 4:45 | 2026-07-17 |  |
+| [Mirror Phase](https://open.spotify.com/track/1scaF79QhPxBgxVplGyinr) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Mirror Phase EP](https://open.spotify.com/album/4q09fIqkf466XoQcL31GnN) | 4:45 | 2026-07-17 | 2026-11-24 |
 | [Miso](https://open.spotify.com/track/3mDRf1zjvoSOlIGjcIZdJ6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Kinesia](https://open.spotify.com/album/717qkZW9A78xtt11FHM6e6) | 3:32 | 2024-10-30 | 2024-11-23 |
 | [Model Collapse](https://open.spotify.com/track/7iO1m1yjAviKurmq89Uhqm) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Model Collapse](https://open.spotify.com/album/6jCtJeCkRTtEdZbW4ApusH) | 4:43 | 2025-02-14 | 2025-05-17 |
 | [Moire](https://open.spotify.com/track/64xwM6gRhzh9XlTCYFX6y3) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg) | [Moire](https://open.spotify.com/album/5yxDD9kqU4961uarBjkhNi) | 2:40 | 2026-02-27 | 2026-07-11 |

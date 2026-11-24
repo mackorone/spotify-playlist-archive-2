@@ -549,6 +549,32 @@
     },
     {
       "album": {
+        "name": "Sinners (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248253,
+      "name": "S\u00e9ance",
+      "url": "https://open.spotify.com/track/5uonyTM56HgMpHnqMNuZzK"
+    },
+    {
+      "album": {
         "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
       },

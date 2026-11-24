@@ -990,12 +990,20 @@
       },
       "artists": [
         {
+          "name": "Nadeem Shravan",
+          "url": "https://open.spotify.com/artist/0xHXoShMJw3xDArjL8IHtt"
+        },
+        {
           "name": "Alka Yagnik",
           "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         },
         {
           "name": "Kumar Sanu",
           "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Anwar Sagar",
+          "url": "https://open.spotify.com/artist/6zJB8QCnRxP6gAbYMsrQL6"
         }
       ],
       "date_added": "2023-07-13",

@@ -4,11 +4,11 @@
 
 > The best music videos in Black music\. Cover: Chxrry
 
-51 songs - 2 hr 38 min
+52 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Thousand Times](https://open.spotify.com/track/4cyOWcyq24XH1KGhAYNQVq) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [A Thousand Times](https://open.spotify.com/album/5PYtft6dhNjHXFad9hKD4z) | 3:06 | 2026-10-23 |  |
+| [A Thousand Times](https://open.spotify.com/track/4cyOWcyq24XH1KGhAYNQVq) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [A Thousand Times](https://open.spotify.com/album/5PYtft6dhNjHXFad9hKD4z) | 3:06 | 2026-10-23 | 2026-11-24 |
 | [Airbender](https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Heavy Is The Crown](https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq) | 1:28 | 2026-10-23 |  |
 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7mxZcFurWzXfhSwDxQadNc) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/21WxgEbIM8rjequC8pt2OO) | 3:31 | 2026-10-23 |  |
 | [All That Matters \(with Leon Thomas & AZ Chike\)](https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Love is the New Gangsta](https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd) | 3:43 | 2026-10-23 |  |
@@ -16,6 +16,7 @@
 | [B Polite!](https://open.spotify.com/track/730R1yD8kJXOYDbB2DUvZD) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [B Polite!](https://open.spotify.com/album/2roaU6HEmWyoAIjmz6E11Z) | 2:25 | 2026-10-23 |  |
 | [Big Shot](https://open.spotify.com/track/0Rm5k0QIvsw8MSqWDk8bPe) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Big Shot](https://open.spotify.com/album/6cM26diURexaHrevFy0ArN) | 2:52 | 2026-11-12 |  |
 | [BOMBS](https://open.spotify.com/track/4ntjhL2eQJH1O4ow1S5zoY) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOMBS](https://open.spotify.com/album/7tvZ9e94jBOdxHTJC1VAbf) | 1:34 | 2026-10-23 |  |
+| [BRABUS MUSIC](https://open.spotify.com/track/48q0swLEzxNpbiVqI7VTiE) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [BRABUS MUSIC](https://open.spotify.com/album/5JRDWzhOJB4iLMz1oBpf7S) | 2:07 | 2026-11-23 |  |
 | [BRUCKSWEAT](https://open.spotify.com/track/4RgwqFlAfzSiDC71CQrZRF) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BRUCKSWEAT](https://open.spotify.com/album/2m3HYs6Ojn3jXuA6DcLJYj) | 3:08 | 2026-10-23 |  |
 | [Build a Bitch](https://open.spotify.com/track/59PK68hbhNDJ974UVE46UK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:43 | 2026-10-23 |  |
 | [Burukutu](https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Burukutu](https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7) | 5:11 | 2026-10-23 |  |

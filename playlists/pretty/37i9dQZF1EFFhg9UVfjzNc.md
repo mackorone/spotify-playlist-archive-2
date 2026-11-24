@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 127 | [Tudo pra Mim \- Ao Vivo](https://open.spotify.com/track/1GR5eaR5244BRi2ql4zj8C) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Última Palavra \(Ao Vivo\)](https://open.spotify.com/album/1SLlB32xmo3vAsXoANjrur) | 6:00 |
 | 128 | [Preço de Sangue \- Playback](https://open.spotify.com/track/0tH8h6NxKrOtZp1XXyqYCH) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Salmistas](https://open.spotify.com/artist/1IrtF2Mnk8i4OJY2zgdZiq) | [Preço de Sangue \(Playback\)](https://open.spotify.com/album/14QhQbzxFC2Dp0zOpDJWjx) | 10:05 |
 
-Snapshot ID: `AciY6AAAAAAP5aSR0Za+VkQuwjJIk6cK`
+Snapshot ID: `AcifPAAAAAAsq3bNwAoZbn0pstqHLgMC`

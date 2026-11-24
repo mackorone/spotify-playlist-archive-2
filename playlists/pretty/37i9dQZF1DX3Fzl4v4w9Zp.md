@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Eddie 9V
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,234 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,214 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 98 | [False Start](https://open.spotify.com/track/553jD3ipiSaR4plKiGNugq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [False Start](https://open.spotify.com/album/0yytuAMgULL79wV6dVu9DG) | 3:23 |
 | 99 | [Hill Folk](https://open.spotify.com/track/2MWXqBWawV1GCgN9JIDrko) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Refugia Blues](https://open.spotify.com/album/6FVYuULGKRAC9dbCTpILg8) | 3:42 |
 
-Snapshot ID: `AAAAAPekyOV0BUkFw3/R0QLQd7Z94YUi`
+Snapshot ID: `AAAAADvi2RUfnE9hYnyzXIo+8NnwMEJ8`

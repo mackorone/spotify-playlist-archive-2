@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAABKlaXON45AaNqwjW4bL1hM",
+  "snapshot_id": "awIwgAAAAAAz5yjXa3Rz6OsxVj/BLvrf",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 238737,
-      "name": "Can You Do It for Me?",
-      "url": "https://open.spotify.com/track/70QhXL1osJ7lRfIqZ1Doux"
+      "duration_ms": 189097,
+      "name": "She Got It",
+      "url": "https://open.spotify.com/track/4AebZz6zjrNpqk7mehE24x"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 189097,
-      "name": "She Got It",
-      "url": "https://open.spotify.com/track/4AebZz6zjrNpqk7mehE24x"
+      "duration_ms": 238737,
+      "name": "Can You Do It for Me?",
+      "url": "https://open.spotify.com/track/70QhXL1osJ7lRfIqZ1Doux"
     },
     {
       "added_at": null,

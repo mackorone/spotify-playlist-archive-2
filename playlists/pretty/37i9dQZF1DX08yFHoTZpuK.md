@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,722 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,747 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 42 | [Odoriko](https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Odoriko](https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG) | 4:49 |
 | 43 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
 | 44 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
-| 45 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 |
-| 46 | [Achi Kochi](https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv) | [Aili & Orson](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Achi Kochi](https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog) | 3:56 |
-| 47 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 |
-| 48 | [In Your Arms](https://open.spotify.com/track/5QQCo78CIPxUwGRePzLra0) | [Triangle](https://open.spotify.com/artist/54RxQ4uMbHkUToyC78MUF5) | [In Your Arms](https://open.spotify.com/album/2IFMTH7WeuwFkA69GrPYe9) | 3:12 |
+| 45 | [Achi Kochi](https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv) | [Aili & Orson](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Achi Kochi](https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog) | 3:56 |
+| 46 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 |
+| 47 | [In Your Arms](https://open.spotify.com/track/5QQCo78CIPxUwGRePzLra0) | [Triangle](https://open.spotify.com/artist/54RxQ4uMbHkUToyC78MUF5) | [In Your Arms](https://open.spotify.com/album/2IFMTH7WeuwFkA69GrPYe9) | 3:12 |
+| 48 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 |
 | 49 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
 | 50 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
 
-Snapshot ID: `AAAAAB755QHZRYLW1RNrCHSFKIGjGPdO`
+Snapshot ID: `AAAAAPIsp1BN7pz6fDEvurg7stj0UV/l`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Zoë Livay, Kevin, Justen de Wildt, Dua Lipa, Kybba, Within Temptation & S10 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,924 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,900 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 72 | [precious days](https://open.spotify.com/track/2kPabBs61apVFVchD7wtSq) | [plonki](https://open.spotify.com/artist/34zf3havia33k7jVO7Na6g) | [precious days](https://open.spotify.com/album/6eaZufBR4Kql82NKUNyFoc) | 2:45 |
 | 73 | [XTC Verbinding](https://open.spotify.com/track/6a3mQKjsE5ViuZqekEndUL) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sad Bitches](https://open.spotify.com/album/50Sp75fGCGl8xIgbIU0hGD) | 2:56 |
 | 74 | [Hoe Vaak](https://open.spotify.com/track/086iE611jmCDai0oWfWR8C) | [Hamza Othman](https://open.spotify.com/artist/5Gj8NmnSAo6ZuGum96pzrB), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Hoe Vaak](https://open.spotify.com/album/5IrgnUzu7ACEhh6jMecpes) | 2:07 |
-| 75 | [Iedere dag](https://open.spotify.com/track/5GOOoTpf4tTIZIlOl6ApJk) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5) | [Iedere dag](https://open.spotify.com/album/4cUf59s5RFgZKqSKJtfE5T) | 2:54 |
+| 75 | [Iedere dag](https://open.spotify.com/track/5GOOoTpf4tTIZIlOl6ApJk) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5), [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Iedere dag](https://open.spotify.com/album/4cUf59s5RFgZKqSKJtfE5T) | 2:54 |
 | 76 | [Wonderkids](https://open.spotify.com/track/7L3LxgjqLyM9P4Cp7afyKc) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Dreamers](https://open.spotify.com/album/6UvW6NrDz3JvVdpQezAEUC) | 5:14 |
 | 77 | [Antidote](https://open.spotify.com/track/10HsJBMhRHGJk26TSBDzTT) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Antidote](https://open.spotify.com/album/32dEuEJbCGoU1UeloeHlEC) | 2:29 |
 | 78 | [Someone That I Never Knew](https://open.spotify.com/track/3adaPZzZp7kgQMsZuQrMJB) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Someone That I Never Knew](https://open.spotify.com/album/5NskQpl3UrmlhQgz50LDKD) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Sonido Concreto](https://open.spotify.com/track/1rvDgIzsi17FSLmOIcrkTQ) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Sonido Concreto](https://open.spotify.com/album/2xJp5hHJ6ocZ1R5A17JIs3) | 3:45 |
 | 100 | [4everest](https://open.spotify.com/track/5H3HeC9BoHDxFvc0cYHbP9) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [Nothing Is Ever Finished](https://open.spotify.com/album/53UiOmVLQjGWUmA29wYh3S) | 4:05 |
 
-Snapshot ID: `AAAAAB6YflchvXIjkt8aQg3EQA4OdW6Q`
+Snapshot ID: `AAAAACRdOAuQ4PMWkKxiQLj8YiGeiQOt`

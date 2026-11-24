@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > PERMA ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,300 likes - 133 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,289 likes - 133 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 132 | [Radar](https://open.spotify.com/track/07oAb6M393jVfujXVkFISW) | [LYON](https://open.spotify.com/artist/0ISD6xTAMU5iIDsuKz7uoq), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Midnight Addiction](https://open.spotify.com/artist/0Hs32EuH20OhOz9UiFG4l2), [LukaS](https://open.spotify.com/artist/4qv4INwX4vEMMeo5k6qk8I) | [Radar](https://open.spotify.com/album/68eTlGoxYHrPmZtVyPACzM) | 2:41 |
 | 133 | [Friction](https://open.spotify.com/track/6DWupwdsPLaoSGugYjTh4p) | [Fuat Atas](https://open.spotify.com/artist/4Vj88LQmQorMKbfGza7y1e) | [Friction](https://open.spotify.com/album/0asuraokTNqMZHOj7aAT0L) | 3:21 |
 
-Snapshot ID: `AAAAADFMS1IEJEJJYM0rQjEcIC630InV`
+Snapshot ID: `AAAAACuePQ4Au3Xf9DqTlIDwDMUxZF/g`

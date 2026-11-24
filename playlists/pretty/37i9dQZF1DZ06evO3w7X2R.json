@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAADtILq2YYCs/8pSFIahDx9q",
+  "snapshot_id": "awIwgAAAAADOyRiPqbhzLYBCYFp1osZr",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ketchup",
+        "url": "https://open.spotify.com/album/2sMPQOC4wpJ27WTdh1hcDG"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 208750,
+      "name": "ketchup",
+      "url": "https://open.spotify.com/track/5CClLYNxzroYGFERtiqPPX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tricks Are For Kids - R&B ONLY SESSIONS",
         "url": "https://open.spotify.com/album/4ZhCMvtcCk18y1BJHtM1kS"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 128866,
       "name": "Tricks Are For Kids - R&B ONLY SESSIONS",
       "url": "https://open.spotify.com/track/4qoevvvgdBvLY7BnK8BHqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ketchup",
-        "url": "https://open.spotify.com/album/2sMPQOC4wpJ27WTdh1hcDG"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "ketchup",
-      "url": "https://open.spotify.com/track/5CClLYNxzroYGFERtiqPPX"
     },
     {
       "added_at": null,

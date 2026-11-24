@@ -4,7 +4,7 @@
 
 > TYCH, SKO, B4RKIE, Bully, C7EVN en meer..
 
-858 songs - 1 day 12 hr 38 min
+859 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Khoya](https://open.spotify.com/track/1bN1FoCeBkFaPWcF8V4Cmo) | [AangenaamBK](https://open.spotify.com/artist/6KOuWujrKYQYnxrY3BwoCb) | [Khoya](https://open.spotify.com/album/7rhHgale2llDAi6DeJ9OJ9) | 2:03 | 2025-07-17 | 2025-08-29 |
 | [Kick Off](https://open.spotify.com/track/5RKMrtFuJT4KENJ09RmKzv) | [Madzz](https://open.spotify.com/artist/51HhLwdbSKDNQx7IPy44oV) | [Kick Off](https://open.spotify.com/album/2Yqe0wEoNM71Z5LshVBaFI) | 2:10 | 2026-01-22 | 2026-02-27 |
 | [Kicken](https://open.spotify.com/track/0tsYzxlfX2y7jMdfvWjDgg) | [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Kicken](https://open.spotify.com/album/5HAP9A1UNt4l4LEZR1Sgkd) | 3:14 | 2026-08-14 | 2026-09-18 |
+| [Kijk Omhoog](https://open.spotify.com/track/3ZMFW1vJQV6EI4fHbKvg72) | [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm) | [Kijk Omhoog](https://open.spotify.com/album/6sxJ4pMEhlb1Ud1ysCI5HO) | 2:45 | 2026-11-23 |  |
 | [Killem](https://open.spotify.com/track/3ULycQf31qiw7m2DLzPCFL) | [Joella T](https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW) | [Lente In De Akkers](https://open.spotify.com/album/1Bl3U6NZVBahAJHfLMZE4k) | 2:50 | 2026-08-14 | 2026-09-18 |
 | [KILLING ME SOFTLY](https://open.spotify.com/track/78UwH2LoQ09TjzW9P8lLOk) | [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap) | [KILLING ME SOFTLY](https://open.spotify.com/album/1rLOSP5vlajVaVfcjuAxOP) | 2:14 | 2025-10-16 | 2025-11-28 |
 | [Kimbo](https://open.spotify.com/track/06w472WZHR6E0zbG0ITifv) | [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO) | [Kimbo](https://open.spotify.com/album/25EKBWyLoaJzh8wLiLOuFT) | 2:37 | 2025-11-13 | 2026-01-15 |

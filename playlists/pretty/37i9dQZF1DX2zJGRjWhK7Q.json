@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 251389,
+  "num_followers": 251434,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACx2fX68lzHGc24t2PwkAE5OyAVb",
+  "snapshot_id": "AAAAAPm9zYVvsc/0y+G9xUSR8xNSALLR",
   "tracks": [
     {
       "added_at": "2024-09-24 20:30:16",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Plante Bandera",
+        "url": "https://open.spotify.com/album/3m28lC1sNHIdKpRAswcoU5"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "Trucutu",
+      "url": "https://open.spotify.com/track/28FigNLC77a3Bg02MErvFK"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 230573,
       "name": "El Raton",
       "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Plante Bandera",
-        "url": "https://open.spotify.com/album/3m28lC1sNHIdKpRAswcoU5"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        }
-      ],
-      "duration_ms": 302413,
-      "name": "Trucutu",
-      "url": "https://open.spotify.com/track/28FigNLC77a3Bg02MErvFK"
     },
     {
       "added_at": "2024-09-24 20:30:16",

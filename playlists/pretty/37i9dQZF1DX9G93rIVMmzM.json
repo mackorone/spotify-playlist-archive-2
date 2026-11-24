@@ -1,12 +1,12 @@
 {
   "description": "heavy vibes for cuffing season.\n",
-  "num_followers": 420732,
+  "num_followers": 420808,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE4z9m+A6CpbCwWuWzUR9yRRYFW4",
+  "snapshot_id": "AAAAAKhR3UtFEMiM+VPDYOuyWyKTlHaj",
   "tracks": [
     {
       "added_at": "2026-02-13 21:18:20",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 245346,
-      "name": "snarky",
-      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
         "name": "Blur Into One",
         "url": "https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 230980,
       "name": "Blur Into One",
       "url": "https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 245346,
+      "name": "snarky",
+      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
     },
     {
       "added_at": "2026-02-13 21:18:20",

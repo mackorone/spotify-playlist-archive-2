@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 720980,
+  "num_followers": 720942,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJXOaDLQ698Wn+ldrSZp1oKbIrA",
+  "snapshot_id": "AAAAAGqWY/xjx2jFvb1iZiiQJIxrWZxO",
   "tracks": [
     {
       "added_at": "2026-11-20 11:41:34",
@@ -1378,6 +1378,10 @@
         {
           "name": "Joel Corry",
           "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
         }
       ],
       "duration_ms": 188640,

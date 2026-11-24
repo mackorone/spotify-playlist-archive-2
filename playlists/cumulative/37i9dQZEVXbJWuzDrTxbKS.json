@@ -4630,7 +4630,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5786,7 +5786,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 153451,
       "name": "Baudam!",
       "url": "https://open.spotify.com/track/3yg4Ms4JFRN24LV0t2EL8q"
@@ -11548,7 +11548,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 242720,
       "name": "Da\u013ca R\u012bgas",
       "url": "https://open.spotify.com/track/6oVyceHNCHCuZlRXXJ1HBY"
@@ -24576,7 +24576,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -24718,8 +24718,8 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
-      "duration_ms": 151933,
+      "date_removed": null,
+      "duration_ms": 152570,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
@@ -27632,7 +27632,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 237106,
       "name": "lai tev apn\u012bk skumt",
       "url": "https://open.spotify.com/track/6hWnXrx3Po79UxZ0WN7lNT"
@@ -28496,7 +28496,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -31478,7 +31478,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 216267,
       "name": "Man Ar Redzi Viss Labi",
       "url": "https://open.spotify.com/track/1tWLZFeHHEB8YpwkzFCHS7"
@@ -45286,7 +45286,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -52792,7 +52792,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -56688,7 +56688,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -57722,7 +57722,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 240017,
       "name": "Vi\u0146a Iesp\u013c\u0101va Man Mut\u0113",
       "url": "https://open.spotify.com/track/20sEF1HSd0XK6EvT4SZL8L"
@@ -63388,7 +63388,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 195789,
       "name": "\u041b\u0430\u043c\u043f\u043e\u0447\u043a\u0438",
       "url": "https://open.spotify.com/track/6c1ly1qdZbILblTz94usFG"
@@ -63482,7 +63482,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 225750,
       "name": "\u041c\u0430\u043b\u043e \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/0nlAuSXPTsT3ws2zeNzI7K"
@@ -63920,6 +63920,28 @@
       "duration_ms": 158709,
       "name": "\u041d\u0435 \u0431\u043e\u043b\u0435\u0435",
       "url": "https://open.spotify.com/track/0jKcVTzhUmWPFSG8zCQXDL"
+    },
+    {
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/5EHYgkvWi5bg8X78YMKtZj"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        },
+        {
+          "name": "A-THIS 52",
+          "url": "https://open.spotify.com/artist/0UHqSfz7HUzhSAi1aq1euQ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "\u041d\u0435 \u0432\u0438\u043d\u043e\u0432\u0435\u043d",
+      "url": "https://open.spotify.com/track/2WeDu0QB8FlNel61v1VnoG"
     },
     {
       "album": {
@@ -65080,7 +65102,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 108000,
       "name": "\u0442\u0430\u043a \u043f\u043e\u0445\u0443\u0439",
       "url": "https://open.spotify.com/track/1dpHnn6eh4Pz55UproSdJv"

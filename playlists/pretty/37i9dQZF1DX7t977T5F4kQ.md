@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   Kofi Mole
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,634 likes - 74 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,676 likes - 74 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 73 | [Therapy](https://open.spotify.com/track/4jTRj7jqpWFIOCcBXWRIqD) | [Akuvi](https://open.spotify.com/artist/41VbuWKdlHSsk8By8pA68h) | [Therapy](https://open.spotify.com/album/5O6e7jDzxV5kvNwaHrKHpm) | 2:39 |
 | 74 | [I Stress II](https://open.spotify.com/track/6THiPzkRrFreY63C8xl7cU) | [OV](https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [I Stress II](https://open.spotify.com/album/2vGimwotRmaY6GgkT0vzXD) | 2:48 |
 
-Snapshot ID: `AAAAAI2XSq5Vm4wyEomwWS5y2IrvPYbf`
+Snapshot ID: `AAAAALOpPln0v7618wszEgq4IsipHEG3`

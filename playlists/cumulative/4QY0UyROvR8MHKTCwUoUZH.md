@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-345 songs - 19 hr 23 min
+346 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 | 2026-01-09 | 2026-02-07 |
 | [VALENTINE](https://open.spotify.com/track/1C2BlkJ7ywosSSSktVziXz) | [stardog](https://open.spotify.com/artist/6ujyQSZc3Rh87O5JYbmuzp) | [VALENTINE](https://open.spotify.com/album/3qQsThTUV9qFMmpCP3nPpY) | 4:00 | 2026-01-16 | 2026-09-19 |
 | [Vauxhall](https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Slowly, It Dawns](https://open.spotify.com/album/4cXbkCGtivxpmwwbmdyuQR) | 3:22 | 2025-07-18 | 2026-02-14 |
+| [Voorbestemde Wegen](https://open.spotify.com/track/3d0ORih3jwKq6dGdFKKMu2) | [Ralph Moerman](https://open.spotify.com/artist/1KnT4e4f38872CbGkEo3UR) | [Voorbestemde Wegen](https://open.spotify.com/album/2aMTTK0moioPgS12ZGSsgn) | 3:58 | 2026-11-23 |  |
 | [Walls](https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Walls](https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS) | 3:06 | 2025-10-03 | 2026-02-07 |
 | [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 | 2026-11-06 |  |
 | [Watch You Dance](https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Watch You Dance](https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1) | 2:27 | 2026-09-25 |  |

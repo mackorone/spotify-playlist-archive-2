@@ -6,8 +6,32 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMSN9UP2scFIUhDBNXzxfQGKdRT",
+  "snapshot_id": "AAAAANHzChxWy1YAGoHZ33Ha9xj7xPAW",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Electric Future Gangster",
+        "url": "https://open.spotify.com/album/1TQAwsDbmpDimK8nMyxZU7"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 272292,
+      "name": "Hell Nah",
+      "url": "https://open.spotify.com/track/4hqYSmz7ZNXPJwhiNDV3hb"
+    },
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
@@ -51,30 +75,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Electric Future Gangster",
-        "url": "https://open.spotify.com/album/1TQAwsDbmpDimK8nMyxZU7"
-      },
-      "artists": [
-        {
-          "name": "Mez",
-          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 272292,
-      "name": "Hell Nah",
-      "url": "https://open.spotify.com/track/4hqYSmz7ZNXPJwhiNDV3hb"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "Thank God It's Christmas... Again!",
         "url": "https://open.spotify.com/album/5uVEnSIzW6j6u4BOgRQcLs"
       },
@@ -87,30 +87,6 @@
       "duration_ms": 248193,
       "name": "Thank God It's Christmas... Again! - Radio Edit",
       "url": "https://open.spotify.com/track/5AFPpQ03x63NKgIcFuE95r"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
-        "url": "https://open.spotify.com/album/46LfRDqggSxvpuy7B6zubw"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
-      "url": "https://open.spotify.com/track/5LdULCCoGY0ltOl8GIGR80"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -143,26 +119,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Midnight Jazz Confidential",
-        "url": "https://open.spotify.com/album/3NOMAgrPi3dGQ5mx44DE1X"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 293760,
-      "name": "Alone In A Crowd - Remastered 2021",
-      "url": "https://open.spotify.com/track/3EvP0TJmgGWrn10OUmUOM1"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "RITUAL",
         "url": "https://open.spotify.com/album/5Qz8m8EPJPX4DFGEW9h7qb"
       },
@@ -183,6 +139,50 @@
       "duration_ms": 306631,
       "name": "\u00c1r var alda | Dawn of Time",
       "url": "https://open.spotify.com/track/72RW4SKS9thBgbDaYJGbgD"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
+        "url": "https://open.spotify.com/album/46LfRDqggSxvpuy7B6zubw"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
+      "url": "https://open.spotify.com/track/5LdULCCoGY0ltOl8GIGR80"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Midnight Jazz Confidential",
+        "url": "https://open.spotify.com/album/3NOMAgrPi3dGQ5mx44DE1X"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Alone In A Crowd - Remastered 2021",
+      "url": "https://open.spotify.com/track/3EvP0TJmgGWrn10OUmUOM1"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
+        "name": "Horseback (Special Edition)",
+        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Horseback - Special Edition",
+      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
         "name": "Black Samson: The Saga Continues",
         "url": "https://open.spotify.com/album/07yS4BsrVFX4fwmH5XeYwp"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Horseback (Special Edition)",
-        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Horseback - Special Edition",
-      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 205845,
       "name": "petal - angry live version",
       "url": "https://open.spotify.com/track/2u9Fh3hOKD4JPWyb8JvHeM"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Bass X Machina (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/5TYPpGgTI1V9xNK1YX8ubU"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 150037,
-      "name": "HONOR KiLLING (Main Titles)",
-      "url": "https://open.spotify.com/track/4LWAK40UqU7QxiQKNRN480"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -387,6 +371,22 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
+        "name": "Bass X Machina (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5TYPpGgTI1V9xNK1YX8ubU"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 150037,
+      "name": "HONOR KiLLING (Main Titles)",
+      "url": "https://open.spotify.com/track/4LWAK40UqU7QxiQKNRN480"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
         "name": "Next Time, Believe Me",
         "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
       },
@@ -403,34 +403,6 @@
       "duration_ms": 123472,
       "name": "Next Time, Believe Me",
       "url": "https://open.spotify.com/track/0RDqgzJOIyDblSzcQprisc"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
-        "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Aasher Saintt",
-          "url": "https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR"
-        }
-      ],
-      "duration_ms": 158879,
-      "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
-      "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -479,6 +451,34 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
+        "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
+        "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Aasher Saintt",
+          "url": "https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR"
+        }
+      ],
+      "duration_ms": 158879,
+      "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
+      "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
         "name": "Neverending Nightmare",
         "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
       },
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Dancing On The Wall (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 271230,
-      "name": "So What - Arlo Parks Summer Was Ecstasy Version",
-      "url": "https://open.spotify.com/track/1WYRF7RM8hsBe4edlS4Lze"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "Expensive Taste",
         "url": "https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 193170,
       "name": "Generational",
       "url": "https://open.spotify.com/track/4ar4rrNUCp7GaVCkRH6KhU"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Dancing On The Wall (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 271230,
+      "name": "So What - Arlo Parks Summer Was Ecstasy Version",
+      "url": "https://open.spotify.com/track/1WYRF7RM8hsBe4edlS4Lze"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
+        "name": "I Want A Rocket (From \"Club Kid\")",
+        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 282668,
+      "name": "I Want A Rocket - From \"Club Kid\"",
+      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
         "name": "Hell Or High Water",
         "url": "https://open.spotify.com/album/4k3syhWjhgTAoxITEmyqED"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 208813,
       "name": "(On The) Battlefield",
       "url": "https://open.spotify.com/track/5NjXiw0GLZiUQ2jHsXp0XJ"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Live in London",
-        "url": "https://open.spotify.com/album/6iUzScK0kAxb8XcImftCj6"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Trouble Shooter - Live: O2 Arena, London \u2013 October 29, 2016",
-      "url": "https://open.spotify.com/track/7B1mClEw0rgL6kzaAaxKUy"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "I Want A Rocket (From \"Club Kid\")",
-        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
+        "name": "Live in London",
+        "url": "https://open.spotify.com/album/6iUzScK0kAxb8XcImftCj6"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
         }
       ],
-      "duration_ms": 282668,
-      "name": "I Want A Rocket - From \"Club Kid\"",
-      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
+      "duration_ms": 251800,
+      "name": "Trouble Shooter - Live: O2 Arena, London \u2013 October 29, 2016",
+      "url": "https://open.spotify.com/track/7B1mClEw0rgL6kzaAaxKUy"
     },
     {
       "added_at": "2026-11-20 05:00:00",

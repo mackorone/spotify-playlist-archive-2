@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 5 hr 22 min
+106 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adios](https://open.spotify.com/track/4z8pJ74Yw4B4G3SToTzCKL) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:02 | 2024-06-07 |  |
 | [AMF \- NOUVELLE ÉCOLE](https://open.spotify.com/track/21OiWAHVk1rIjDMzlWpdSS) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [LE SOLEIL NE S'ÉTEINT JAMAIS](https://open.spotify.com/album/3NUhwHq408l2Vm5quZyp06) | 3:00 | 2024-06-07 |  |
 | [Aye](https://open.spotify.com/track/3AsqqOPJejGFSuJ9depO7U) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:43 | 2024-06-07 |  |
+| [Bad](https://open.spotify.com/track/1U5EZmTH9nMKePc1NboxFy) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Unmade](https://open.spotify.com/album/5iS20v4owMyFzmBx2T05AQ) | 2:32 | 2026-11-23 |  |
 | [Booboo](https://open.spotify.com/track/5yFqa6JldRyAPyDQiDPaTk) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Booboo](https://open.spotify.com/album/0NTh1ghyhk0qeyhbDPMGEf) | 2:42 | 2024-06-07 |  |
 | [Boucherie](https://open.spotify.com/track/0EDAdelJuVt815AlBn4HCF) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:25 | 2025-02-14 |  |
 | [Bourgeoisie](https://open.spotify.com/track/6KPTsPIe7faR13q8IfG0l8) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Bourgeoisie](https://open.spotify.com/album/7gVMzPkmhEdF7l7Ew5HuGA) | 2:56 | 2024-06-07 |  |
@@ -34,6 +35,7 @@
 | [Crazy](https://open.spotify.com/track/5s7KlR1yLdv4FnzLytnvAy) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Aura x G\-Wave](https://open.spotify.com/album/2dH2JV8iSIcbuxMlvCOgNf) | 2:24 | 2026-03-15 | 2026-11-01 |
 | [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 | 2024-06-07 |  |
 | [Dans tes bras](https://open.spotify.com/track/2LjXiHfabkd8kI7yQHfWmO) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Unmade](https://open.spotify.com/album/5iS20v4owMyFzmBx2T05AQ) | 3:20 | 2026-11-09 |  |
+| [DES PIGES](https://open.spotify.com/track/3sc8jR7BcSyZH2pu0PgCMx) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4](https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ) | 2:15 | 2026-11-23 |  |
 | [Die for me](https://open.spotify.com/track/4Wyqp8tk1NWzEzMsZGArjh) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [ELA M](https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA) | 3:02 | 2024-12-11 |  |
 | [Dis moi](https://open.spotify.com/track/6YANiwoayYin0u5pfCp34O) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:32 | 2024-06-07 |  |
 | [Dis moi que tu m'aimes](https://open.spotify.com/track/1T9LhC0vlV95Q8HJRaNC1S) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:12 | 2025-09-28 |  |
@@ -84,6 +86,7 @@
 | [Ouais x4 / Wake Up](https://open.spotify.com/track/23JfoAyYt1CJvQQ6uaa7Ze) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 4:32 | 2024-12-11 |  |
 | [Papel](https://open.spotify.com/track/2cqnmtSYMDRUBWDkFJWlXj) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 3:16 | 2024-06-07 |  |
 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 | 2024-07-23 |  |
+| [Personne d'autre](https://open.spotify.com/track/3BmlEq3vpcEZG5jI7hOPFv) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ), [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc) | [Personne d'autre](https://open.spotify.com/album/2q9KkZFFuShphSTHgOVFWx) | 2:51 | 2026-11-23 |  |
 | [Populaire](https://open.spotify.com/track/7IxOQnwvlxI7g1HFzGiFF7) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Africa Jungle](https://open.spotify.com/album/3a4GHBBwkr3v9U27eJO2Iw) | 3:24 | 2026-06-10 |  |
 | [Poursuite](https://open.spotify.com/track/1NNAd8UmD0qmWwykyRxNGC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 3:27 | 2026-01-15 |  |
 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 | 2024-06-07 |  |

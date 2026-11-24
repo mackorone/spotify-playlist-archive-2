@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2230966,
+  "num_followers": 2231220,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJSxJCA8cMryZ0F2LPw5Uth9TZS4",
+  "snapshot_id": "AAAAAMC/jtZDZBOb6dt7o3TC046dgZSk",
   "tracks": [
     {
       "added_at": "2026-05-25 21:42:21",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl"
     },
     {
-      "added_at": "2025-07-03 03:36:52",
-      "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
       "added_at": "2026-02-03 17:00:46",
       "album": {
         "name": "Do I Wanna Know?",
@@ -1475,6 +1459,22 @@
       "duration_ms": 232632,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE"
+    },
+    {
+      "added_at": "2025-07-03 03:36:52",
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2026-07-01 18:53:06",
@@ -1693,20 +1693,24 @@
       "url": "https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP"
     },
     {
-      "added_at": "2026-05-25 21:42:21",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Sex with my Ex",
-        "url": "https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA"
+        "name": "Last Year Was Complicated",
+        "url": "https://open.spotify.com/album/1J1mjhlth8XnU8ttfRKp5r"
       },
       "artists": [
         {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 179726,
-      "name": "Sex with my Ex",
-      "url": "https://open.spotify.com/track/36LKcafeByy2ybG5783w7e"
+      "duration_ms": 234213,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2wJhFcye5iiW2mVBpGednz"
     }
   ],
   "unique_name": "goosebumps",

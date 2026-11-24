@@ -1,12 +1,12 @@
 {
   "description": "for the late nights",
-  "num_followers": 20977,
+  "num_followers": 20981,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAOeIObVOgwNshGlGkkenRWB4lSt",
+  "snapshot_id": "AAAAADOVh7HZMidxiQxizNNR6FhT03E4",
   "tracks": [
     {
       "added_at": "2025-08-07 15:52:15",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "overcast.",
         "url": "https://open.spotify.com/album/3tmyZ0mfZnt0PcppHQZtnN"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 208995,
       "name": "with u.",
       "url": "https://open.spotify.com/track/1Ny8RoE9nPqyM3xfMjwR81"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Price You Pay",
-        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Price You Pay",
-      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Mac Wetha & Friends",
         "url": "https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 103953,
       "name": "Ode To Mumma",
       "url": "https://open.spotify.com/track/4wCgFIFfMoTcdb0JfMFbwd"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Price You Pay",
+        "url": "https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Price You Pay",
+      "url": "https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -667,22 +667,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi"
+        "name": "airplanes",
+        "url": "https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+          "name": "Lio Kalebic",
+          "url": "https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX"
         }
       ],
-      "duration_ms": 157586,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u"
+      "duration_ms": 82064,
+      "name": "airplanes",
+      "url": "https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -707,18 +703,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "airplanes",
-        "url": "https://open.spotify.com/album/0dmZVEckGfAUsHQ15mFPhS"
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi"
       },
       "artists": [
         {
-          "name": "Lio Kalebic",
-          "url": "https://open.spotify.com/artist/1RGCKTIoGXczxHRmNgwFNX"
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 82064,
-      "name": "airplanes",
-      "url": "https://open.spotify.com/track/3QL0QkFPYJBD959QfihYOT"
+      "duration_ms": 157586,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -791,6 +791,38 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "DEMOTAPE/VEGA",
+        "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "duration_ms": 155811,
+      "name": "HEARTACHE & CHEST PAINS",
+      "url": "https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Oakley",
+          "url": "https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL"
+        }
+      ],
+      "duration_ms": 226761,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG"
       },
@@ -831,38 +863,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "DEMOTAPE/VEGA",
-        "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
-      },
-      "artists": [
-        {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
-        }
-      ],
-      "duration_ms": 155811,
-      "name": "HEARTACHE & CHEST PAINS",
-      "url": "https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Oakley",
-          "url": "https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL"
-        }
-      ],
-      "duration_ms": 226761,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "AND GOD SAID...",
         "url": "https://open.spotify.com/album/1t7cwx7t7xxfnstXYI4rSx"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 254866,
       "name": "ALMOST LOST",
       "url": "https://open.spotify.com/track/6OrtioErNEZVGShhUIQZjt"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "DEMOTAPE/VEGA",
+        "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "duration_ms": 161271,
+      "name": "CRUSHED VELVET",
+      "url": "https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -915,22 +931,6 @@
       "duration_ms": 200866,
       "name": "Braid It Back",
       "url": "https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "DEMOTAPE/VEGA",
-        "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
-      },
-      "artists": [
-        {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
-        }
-      ],
-      "duration_ms": 161271,
-      "name": "CRUSHED VELVET",
-      "url": "https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "What We Become",
-        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
-      },
-      "artists": [
-        {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
-        }
-      ],
-      "duration_ms": 173706,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "West End",
         "url": "https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 154426,
       "name": "West End",
       "url": "https://open.spotify.com/track/3kQ9d2gkLtNT0xkGbefSgH"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "What We Become",
+        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
+      },
+      "artists": [
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 173706,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Be My Friend",
+        "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Be My Friend",
+      "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "26% MIXTAPE",
         "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 188368,
       "name": "Ride 2 Nowhere",
       "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Be My Friend",
-        "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
-      },
-      "artists": [
-        {
-          "name": "Sol Paradise",
-          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
-        }
-      ],
-      "duration_ms": 207759,
-      "name": "Be My Friend",
-      "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
     },
     {
       "added_at": "2025-08-07 15:52:15",

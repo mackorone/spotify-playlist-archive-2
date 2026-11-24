@@ -1,12 +1,12 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 103424,
+  "num_followers": 103452,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEBD3HIF+43QfYATrPm4bASIeObW",
+  "snapshot_id": "AAAAADVLLndRH1jO2gBpgbu3uIN3jhXq",
   "tracks": [
     {
       "added_at": "2026-04-24 04:59:19",
@@ -739,38 +739,6 @@
     {
       "added_at": "2026-04-24 04:59:19",
       "album": {
-        "name": "Natusha & Kondor Band",
-        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
-      },
-      "artists": [
-        {
-          "name": "Natusha & Kondor Band",
-          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "El la Enga\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
-    },
-    {
-      "added_at": "2026-04-24 04:59:19",
-      "album": {
-        "name": "Ternura",
-        "url": "https://open.spotify.com/album/17yf20YBellVimp1l15jJO"
-      },
-      "artists": [
-        {
-          "name": "Karolina",
-          "url": "https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Y Siempre",
-      "url": "https://open.spotify.com/track/1AXkubuFZlgHmwfz9QbxZ9"
-    },
-    {
-      "added_at": "2026-04-24 04:59:19",
-      "album": {
         "name": "Lo Mejor de Los Fantasmas del caribe",
         "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
@@ -787,22 +755,50 @@
     {
       "added_at": "2026-04-24 04:59:19",
       "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+        "name": "Natusha & Kondor Band",
+        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Ronnie Torres",
-          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
+          "name": "Natusha & Kondor Band",
+          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
         }
       ],
-      "duration_ms": 279546,
-      "name": "Como Olvidar - Merengue Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
+      "duration_ms": 227333,
+      "name": "El la Enga\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
+    },
+    {
+      "added_at": "2026-04-24 04:59:19",
+      "album": {
+        "name": "Caribe",
+        "url": "https://open.spotify.com/album/29mpODkZsMOIgnU1LqBD7Z"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 292623,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/1EjA719WEDrpVezZ8KmxEx"
+    },
+    {
+      "added_at": "2026-04-24 04:59:19",
+      "album": {
+        "name": "Ternura",
+        "url": "https://open.spotify.com/album/17yf20YBellVimp1l15jJO"
+      },
+      "artists": [
+        {
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Y Siempre",
+      "url": "https://open.spotify.com/track/1AXkubuFZlgHmwfz9QbxZ9"
     },
     {
       "added_at": "2026-04-24 04:59:19",

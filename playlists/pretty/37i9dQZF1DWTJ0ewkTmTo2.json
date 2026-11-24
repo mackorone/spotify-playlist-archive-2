@@ -1,12 +1,12 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 756840,
+  "num_followers": 756887,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHI1SVUIuYETUUpyzgC5iz9b/DYD",
+  "snapshot_id": "AAAAAK1Jb9uGu8UXoG/hcHzB9w4Vvb4m",
   "tracks": [
     {
       "added_at": "2026-09-26 02:58:58",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-09-26 02:58:58",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2026-09-26 02:58:58",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2026-09-26 02:58:58",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-09-26 02:58:58",
       "album": {
-        "name": "The Beach Boys Love Songs",
-        "url": "https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "Wouldn't It Be Nice - Remastered 1999",
-      "url": "https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y"
-    },
-    {
-      "added_at": "2026-09-26 02:58:58",
-      "album": {
         "name": "Forrest Gump - The Soundtrack",
         "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 148106,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+    },
+    {
+      "added_at": "2026-09-26 02:58:58",
+      "album": {
+        "name": "The Beach Boys Love Songs",
+        "url": "https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 145106,
+      "name": "Wouldn't It Be Nice - Remastered 1999",
+      "url": "https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y"
     },
     {
       "added_at": "2026-09-26 02:58:58",

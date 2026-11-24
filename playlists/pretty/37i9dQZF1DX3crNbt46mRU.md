@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Dua Lipa, Sido, Helene Fischer, Monet192, GIMS & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,485 likes - 93 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,481 likes - 93 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 92 | [suka freestyle](https://open.spotify.com/track/0PUiplXQSmhnFel7nMVhs7) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [suka freestyle](https://open.spotify.com/album/3a3tUDUVoukOEmaWYQjOMC) | 2:12 |
 | 93 | [Back To Me](https://open.spotify.com/track/5uvjVYv3FKBNnGkR8mnHws) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Back To Me](https://open.spotify.com/album/16dAtPh8XVKMbfiLcgZyiq) | 3:05 |
 
-Snapshot ID: `AAAAABGanU1S0pQ76wGvpha2RxtfF8oZ`
+Snapshot ID: `AAAAALieuML8Sji/SoWAgGRoMn2Hqebt`

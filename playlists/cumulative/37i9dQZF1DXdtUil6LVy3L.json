@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 281500,
       "name": "What Are You Doing New Years Eve?",
       "url": "https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1"
@@ -2594,6 +2594,24 @@
       "duration_ms": 164411,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ"
+    },
+    {
+      "album": {
+        "name": "When Bells Go Quiet",
+        "url": "https://open.spotify.com/album/5JmVlutZebvFOFtZDKPX7p"
+      },
+      "artists": [
+        {
+          "name": "Willowdale",
+          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154428,
+      "name": "When Bells Go Quiet",
+      "url": "https://open.spotify.com/track/73WJID0iO4cQfmt1GG1vfk"
     },
     {
       "album": {

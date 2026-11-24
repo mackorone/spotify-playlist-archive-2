@@ -1,12 +1,12 @@
 {
   "description": "So mote it be. Cover: Phoebe Bridgers",
-  "num_followers": 158139,
+  "num_followers": 158134,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZKkEiYWD1/QrZc74C5W+xyzJoT",
+  "snapshot_id": "AAAAAOyeXWG54iHsTG3yNC2BjBp8VpCw",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:16",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 198029,
       "name": "Like Real People Do",
       "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix"
-      },
-      "artists": [
-        {
-          "name": "Lauren O'Connell",
-          "url": "https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "Hyaena (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 228200,
       "name": "Dear Prudence",
       "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix"
+      },
+      "artists": [
+        {
+          "name": "Lauren O'Connell",
+          "url": "https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Strange Cacti",
-        "url": "https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Some things Cosmic",
-      "url": "https://open.spotify.com/track/4TD6fj03dGwfDDrb6UWmy8"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "Feeding Seahorses by Hand",
         "url": "https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 283393,
       "name": "She Dances",
       "url": "https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Strange Cacti",
+        "url": "https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Some things Cosmic",
+      "url": "https://open.spotify.com/track/4TD6fj03dGwfDDrb6UWmy8"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 258733,
-      "name": "Waking The Witch",
-      "url": "https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "The Livelong Day",
         "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 331500,
       "name": "Bear Creek",
       "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 258733,
+      "name": "Waking The Witch",
+      "url": "https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z"
     },
     {
       "added_at": "2026-09-11 04:01:16",

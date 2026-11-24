@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 477216,
+  "num_followers": 477715,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfrn+oBL6EcBkAcFA7GRhC44+ao",
+  "snapshot_id": "AAAAAG62r7xJXGZbwbuFMq9VUcuteQoL",
   "tracks": [
     {
       "added_at": "2026-11-19 23:00:51",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "Smiling Through The Pain",
+        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 269252,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0SqCo1LB3HGjLs7puyKsMN"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 168000,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/2PQ5At0Rnm4ogInS1ejZYl"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Smiling Through The Pain",
-        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 269252,
-      "name": "Vhs",
-      "url": "https://open.spotify.com/track/3ZxEXb4YeEWGTUPAmn2Xhe"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "Sonne Geht Auf",
+        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 126538,
+      "name": "Sonne Geht Auf",
+      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 211928,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Sonne Geht Auf",
-        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
-      },
-      "artists": [
-        {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 126538,
-      "name": "Sonne Geht Auf",
-      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -951,18 +931,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "CATHARSIS",
-        "url": "https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd"
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Staub",
-      "url": "https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE"
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -987,6 +971,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "CATHARSIS",
+        "url": "https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Staub",
+      "url": "https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Papi",
         "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
       },
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "WILD",
         "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 140459,
       "name": "WILD",
       "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "Eros Massacre",
+        "url": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 250145,
+      "name": "Romantika",
+      "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Vermissen (Nachtigaller Remix)",
         "url": "https://open.spotify.com/album/0n8kXvrNIClPZyfHzMty8N"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 163319,
       "name": "Vermissen - Nachtigaller Remix",
       "url": "https://open.spotify.com/track/3fEEuVqLXSKhKtksmvckRo"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Eros Massacre",
-        "url": "https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 250145,
-      "name": "Romantika",
-      "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
-      },
-      "artists": [
-        {
-          "name": "999999999",
-          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
-        },
-        {
-          "name": "FLKN",
-          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "300G",
         "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 178000,
       "name": "300G",
       "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "duration_ms": 219870,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1343,22 +1343,6 @@
       "duration_ms": 178614,
       "name": "S&M (With Chacel) - HYPERTECHNO Edit",
       "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Low Again",
-        "url": "https://open.spotify.com/album/6afCL6c4857TgbFFS3FGWe"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        }
-      ],
-      "duration_ms": 127123,
-      "name": "Low Again",
-      "url": "https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "Low Again",
+        "url": "https://open.spotify.com/album/6afCL6c4857TgbFFS3FGWe"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "duration_ms": 127123,
+      "name": "Low Again",
+      "url": "https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "By My Side (Stolen Dance)",
         "url": "https://open.spotify.com/album/2UJToXhv3T8uO73RHPXKPr"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 164493,
       "name": "By My Side (Stolen Dance)",
       "url": "https://open.spotify.com/track/0F07aAx61BGVJ0S1BJX6pY"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "I Wanna Feel Alive",
-        "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
-      },
-      "artists": [
-        {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
-        }
-      ],
-      "duration_ms": 213937,
-      "name": "I Wanna Feel Alive",
-      "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1531,6 +1515,22 @@
       "duration_ms": 178441,
       "name": "Work Edit",
       "url": "https://open.spotify.com/track/19Q8IagLnLOptfzZY6es9s"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "I Wanna Feel Alive",
+        "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "duration_ms": 213937,
+      "name": "I Wanna Feel Alive",
+      "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/5en9icbhBhWDpl3SoRTvZp"
+      },
+      "artists": [
+        {
+          "name": "Beauty & the Beats",
+          "url": "https://open.spotify.com/artist/2emZe6KE4VoCIKEiqWA9Wm"
+        },
+        {
+          "name": "NAJA",
+          "url": "https://open.spotify.com/artist/5upYH7rY7XhDuDIzzGuaIE"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/3YolktwmGt2nwFD8KMlJfh"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "You Need The Drugs (Kobosil Kartell Mix)",
         "url": "https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4"
       },
@@ -1731,38 +1751,18 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/5en9icbhBhWDpl3SoRTvZp"
+        "name": "Satan Was A Babyboomer",
+        "url": "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss"
       },
       "artists": [
         {
-          "name": "Beauty & the Beats",
-          "url": "https://open.spotify.com/artist/2emZe6KE4VoCIKEiqWA9Wm"
-        },
-        {
-          "name": "NAJA",
-          "url": "https://open.spotify.com/artist/5upYH7rY7XhDuDIzzGuaIE"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 133500,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/3YolktwmGt2nwFD8KMlJfh"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Call Me Babe",
-        "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
-      },
-      "artists": [
-        {
-          "name": "mischluft",
-          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "Call Me Babe",
-      "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
+      "duration_ms": 427000,
+      "name": "Satan Was A Babyboomer",
+      "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Satan Was A Babyboomer",
-        "url": "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss"
+        "name": "Call Me Babe",
+        "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
         }
       ],
-      "duration_ms": 427000,
-      "name": "Satan Was A Babyboomer",
-      "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
+      "duration_ms": 164121,
+      "name": "Call Me Babe",
+      "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
-      },
-      "artists": [
-        {
-          "name": "Blair Muir",
-          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
-        }
-      ],
-      "duration_ms": 163641,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Spectral Bells",
         "url": "https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP"
       },
@@ -1931,18 +1915,34 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf"
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
       },
       "artists": [
         {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
         }
       ],
-      "duration_ms": 215225,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/0iI3QPTdmMzXf7dMApinMG"
+      "duration_ms": 163641,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "Bass Go",
+        "url": "https://open.spotify.com/album/6r9zTqop9f3suoUtKTcXZL"
+      },
+      "artists": [
+        {
+          "name": "Antonym",
+          "url": "https://open.spotify.com/artist/41EaXCRp3eOibImiIUUCx5"
+        }
+      ],
+      "duration_ms": 305032,
+      "name": "Bass Go",
+      "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
     }
   ],
   "unique_name": "rave",

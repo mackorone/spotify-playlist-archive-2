@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 166783,
       "name": "Awful.",
       "url": "https://open.spotify.com/track/5s50QqqraeCG31TXuWthNJ"
@@ -11270,7 +11270,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 171707,
       "name": "ONE of ONE",
       "url": "https://open.spotify.com/track/6eNfM7yVZ8LxO3dCnh3kup"
@@ -12236,6 +12236,28 @@
       "duration_ms": 206226,
       "name": "Put Me on Somethin'",
       "url": "https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs"
+    },
+    {
+      "album": {
+        "name": "Putting on a show",
+        "url": "https://open.spotify.com/album/4vbQKyFpkKPIm5f4ECbHuk"
+      },
+      "artists": [
+        {
+          "name": "Khim",
+          "url": "https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l"
+        },
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157674,
+      "name": "Putting on a show",
+      "url": "https://open.spotify.com/track/0vu9KMGwMYTj0DNAA3XFnO"
     },
     {
       "album": {
@@ -15940,6 +15962,24 @@
       "duration_ms": 153926,
       "name": "villains",
       "url": "https://open.spotify.com/track/0eaWFvBi1kPbhKgvOx0Adz"
+    },
+    {
+      "album": {
+        "name": "the after glow",
+        "url": "https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86964,
+      "name": "vintage vuitton",
+      "url": "https://open.spotify.com/track/6fuVQuXh7Bq4eMKUT994dd"
     },
     {
       "album": {

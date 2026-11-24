@@ -1,12 +1,12 @@
 {
   "description": "Strictly for the streets. Cover: Youngboy Never Broke Again",
-  "num_followers": 1264029,
+  "num_followers": 1264037,
   "original_name": "Out The Mud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHukbXZn7x/zjltHcmoMLGRw9rQt",
+  "snapshot_id": "AAAAAH/51iObTbWdZy9eNe3obKBp4j7G",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:57",
@@ -371,6 +371,10 @@
         "url": "https://open.spotify.com/album/7E60Kx1KYlqiCFBcLonZeV"
       },
       "artists": [
+        {
+          "name": "DJ Scream",
+          "url": "https://open.spotify.com/artist/45h71dCVZaNAqP3YwQH6ER"
+        },
         {
           "name": "Big Moochie Grape",
           "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
@@ -1028,20 +1032,20 @@
           "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
         },
         {
-          "name": "YS",
-          "url": "https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN"
-        },
-        {
-          "name": "Hitta J3",
-          "url": "https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI"
-        },
-        {
           "name": "Rosecrans HopOut",
           "url": "https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M"
         },
         {
+          "name": "YS",
+          "url": "https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN"
+        },
+        {
           "name": "PHOPHO8IGHT",
           "url": "https://open.spotify.com/artist/43exFSfUqMqp3nlCLSQVwu"
+        },
+        {
+          "name": "Hitta J3",
+          "url": "https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI"
         }
       ],
       "duration_ms": 227184,

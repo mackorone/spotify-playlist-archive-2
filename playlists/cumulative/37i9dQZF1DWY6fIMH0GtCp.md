@@ -4,7 +4,7 @@
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-72 songs - 3 hr 52 min
+75 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,13 @@
 | [8 LIGHTS](https://open.spotify.com/track/4edpCnGBYraq49mjm2JVfF) | [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF), [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9) | [8 LIGHTS](https://open.spotify.com/album/5rLAJNMsE3jeGmYfQQ1puk) | 2:53 | 2024-12-26 |  |
 | [A Wicked Chanukah](https://open.spotify.com/track/0tBg0f183GHl1BecYqfk1D) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [A Wicked Chanukah](https://open.spotify.com/album/5zSYE8VuuxuFBvfvpi31hB) | 4:32 | 2024-12-23 |  |
 | [Adir Adirim \(Featuring Victoria Hanna\)](https://open.spotify.com/track/3qWfZvVV4ScYAkNmjiXBxY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Victoria Hanna](https://open.spotify.com/artist/5nVeL2VpRWBOmH5oN8nuqv) | [Hip Hop Hanukkah: The Best of Jewish Rap](https://open.spotify.com/album/4lxyqzQC1HdYjf8nGagnyG) | 5:19 | 2023-12-07 |  |
+| [All You Need is One](https://open.spotify.com/track/0KVBd0FcmIHlzXDj9Tm8fr) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Make It Shine](https://open.spotify.com/album/0lSVRExvQKviwjxIrwPKLD) | 2:52 | 2026-11-23 |  |
 | [Applesauce vs\. Sour Cream](https://open.spotify.com/track/60qRopPYpvlT60VyvZ73OQ) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl) | 2:10 | 2023-12-07 | 2024-04-19 |
 | [Applesauce vs\. Sour Cream](https://open.spotify.com/track/1Pi6Z97md7t8wdCm9ey2NI) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 2:10 | 2023-12-07 |  |
 | [Candlelight](https://open.spotify.com/track/2Ekl7Ba3ci3pEZm3JzKhFw) | [Maccabeats](https://open.spotify.com/artist/2plllpJj0sU7FsdZrn8EHq) | [Hanukkah Anthology](https://open.spotify.com/album/7kGSCJSWbgcNd7nt6CPEqX) | 3:21 | 2023-12-07 |  |
 | [Chanukah \(Shake It Off\)](https://open.spotify.com/track/2EAnmXHgiHc1oBL8cTBXjh) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/5ypVgMVNWL2OJ1QezHhLE3) | 3:37 | 2023-12-07 | 2024-04-19 |
 | [Chanukah \(Shake It Off\)](https://open.spotify.com/track/41o6DOxHFQxVJFCo1PvcNy) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 3:37 | 2023-12-07 |  |
+| [Chanukah Days](https://open.spotify.com/track/3omPpCMSnG9fKMqVDOzJjk) | [Thank You Hashem](https://open.spotify.com/artist/2h0dMILtNngHh2mxwdjwB9), [TYH Boys](https://open.spotify.com/artist/3Vn8i9eiKjpOXz90OgTsHq) | [Feel The Ohr / Chanukah Days](https://open.spotify.com/album/3ihu1FaU3KnNU9lVI6IWio) | 3:14 | 2026-11-23 |  |
 | [Chanukah in West Virigina](https://open.spotify.com/track/22KVabLdWzcL5rdkxf2oHJ) | [Scott Simons](https://open.spotify.com/artist/4Laf9GjtJqV5YO7lGu8grD) | [Chanukah in West Virigina](https://open.spotify.com/album/3ISZPeKwElfcOk2rUtG57Y) | 3:54 | 2023-12-07 |  |
 | [Chanukah in West Virigina](https://open.spotify.com/track/3qzoUGQ5t2NSBElvwUV3UW) | [Scott Simons](https://open.spotify.com/artist/4Laf9GjtJqV5YO7lGu8grD) | [Chanukah in West Virigina](https://open.spotify.com/album/3ylcFElkFvCE7AF6UTcVYv) | 3:54 | 2023-12-07 | 2024-04-19 |
 | [Chanukah Prayer](https://open.spotify.com/track/3n4xyVg0Tji88vysBuoCAT) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [A Holiday Carole](https://open.spotify.com/album/7GLHKZXVUcY3oH89cXOeOu) | 3:09 | 2023-12-07 | 2024-04-19 |
@@ -45,6 +47,7 @@
 | [Happy Hanukkah](https://open.spotify.com/track/0BSBzobfETKbKYe5ZJWkFj) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Happy Hanukkah](https://open.spotify.com/album/0AcsWCQXQtN3dC6qlhgZhw) | 3:46 | 2023-12-07 |  |
 | [Happy Hanukkah](https://open.spotify.com/track/45oN4NL5Ssh7vRaJKEaklh) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Subscribe to the Holidays](https://open.spotify.com/album/6ZWZh3nMvkPn2oKzFnEy77) | 3:22 | 2023-12-07 |  |
 | [Happy Joyous Hanukkah](https://open.spotify.com/track/6MEsn0DpqBBV6dhDRASOd3) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Holly Happy Days](https://open.spotify.com/album/45acBSRzU6wh64ZHDOJaWF) | 3:40 | 2023-12-07 |  |
+| [Home for Hanukkah](https://open.spotify.com/track/41DGQLehCcKYmINUD00LzJ) | [Kate Yeager](https://open.spotify.com/artist/0vs48tvMDwDmDLbnQ95TJQ) | [HBM Presents: Sleigh The Holidays, Vol\. 3](https://open.spotify.com/album/0V9C2rzujjBCLDDtIAzRZK) | 2:45 | 2026-11-23 |  |
 | [How Do You Spell Channukkahh?](https://open.spotify.com/track/3ZjCGpTXLUpg7cAaZzgwBP) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 4:54 | 2023-12-07 |  |
 | [How Do You Spell Channukkahh?](https://open.spotify.com/track/6ElNtgsQPMwCtbcgf1PYlN) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl) | 4:56 | 2023-12-07 | 2024-04-19 |
 | [I Have A Little Dreidel](https://open.spotify.com/track/2qMJfhFe3f8Ca8TLIi69W0) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Barenaked For The Holidays](https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX) | 0:52 | 2023-12-07 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,963 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,968 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 7 | [Magic Key](https://open.spotify.com/track/3qNzpMWBWbm3MGAL92ffNm) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Magic Key](https://open.spotify.com/album/1fRDbBtJoR11bq9UTGEML2) | 2:37 |
 | 8 | [Free \(feat\. Starsplash\)](https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Starsplash](https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz) | [Free \(feat\. Starsplash\)](https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf) | 2:30 |
 | 9 | [Irrenhaus](https://open.spotify.com/track/4SR46lHTitWMTzRTwsFIa6) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Irrenhaus](https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif) | 3:23 |
-| 10 | [Cheerio \(Outsiders Remix\)](https://open.spotify.com/track/2iZStQEjwKOiOZHLcaNKpl) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Cheerio \(Outsiders Remix\)](https://open.spotify.com/album/6lm4nGutsJbiG2hByo7rbj) | 3:47 |
-| 11 | [Lotje \- Outsiders' Oldschool Remix](https://open.spotify.com/track/3KCRqj9rrJzer7FdU6BieU) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje \(Outsiders' Oldschool Remix\)](https://open.spotify.com/album/2qirHPOcr53Tkq3qbZ29Dd) | 2:43 |
+| 10 | [Lotje \- Outsiders' Oldschool Remix](https://open.spotify.com/track/3KCRqj9rrJzer7FdU6BieU) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje \(Outsiders' Oldschool Remix\)](https://open.spotify.com/album/2qirHPOcr53Tkq3qbZ29Dd) | 2:43 |
+| 11 | [Cheerio \(Outsiders Remix\)](https://open.spotify.com/track/2iZStQEjwKOiOZHLcaNKpl) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Cheerio \(Outsiders Remix\)](https://open.spotify.com/album/6lm4nGutsJbiG2hByo7rbj) | 3:47 |
 | 12 | [Million Dreams](https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Million Dreams](https://open.spotify.com/album/2c6rJHcR8KDnDTI4jV6D4z) | 3:07 |
 | 13 | [Huichelaar \- Original Mix](https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Huichelaar \(Original Mix\)](https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI) | 3:00 |
 | 14 | [Baila de Gasolina \- Remix](https://open.spotify.com/track/1EHUaXrI4iKIPz2RvGyWX7) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina \(Remix\)](https://open.spotify.com/album/3JHvRZxGFMron9RLauackt) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Bass In Mein Kopf](https://open.spotify.com/track/2uwIXJnVbxGlg4Jdc7c7KZ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO) | [Bass In Mein Kopf](https://open.spotify.com/album/0YnYzCJIylLk4QsOdH27Ev) | 2:45 |
 | 50 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 
-Snapshot ID: `awDfAAAAAACbeSlRWUev7NVog72hgl6y`
+Snapshot ID: `awIwgAAAAABLXwm9BRCAJ0y7mQ2pMZJE`

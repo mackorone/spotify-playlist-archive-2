@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Quiet Light",
-  "num_followers": 1657907,
+  "num_followers": 1657851,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJoUYKGru1AKFsVjoZm4eNbWgUmF",
+  "snapshot_id": "AAAAAMEM8EkDDXyg8CgzS46iqB5vhvtd",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:47",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 178281,
-      "name": "Estranged",
-      "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "double edged sword",
         "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 208023,
       "name": "double edged sword",
       "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 178281,
+      "name": "Estranged",
+      "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
     },
     {
-      "added_at": "2026-10-30 04:00:54",
-      "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/2e5kH92PPkO8xnAnXX4PU6"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 175125,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/14KGUFscWsUeUNC1haqOji"
-    },
-    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
@@ -999,6 +983,22 @@
       "duration_ms": 200874,
       "name": "Blue Dream",
       "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
+    },
+    {
+      "added_at": "2026-10-30 04:00:54",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2e5kH92PPkO8xnAnXX4PU6"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 175125,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/14KGUFscWsUeUNC1haqOji"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "PARTY",
-        "url": "https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "PARTY",
-      "url": "https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr"
-    },
-    {
       "added_at": "2026-10-30 04:00:54",
       "album": {
         "name": "Eden",
@@ -1083,6 +1067,22 @@
       "duration_ms": 191851,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4AhOCTJYtVcCkftroo64VF"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/7GsDyPuQvAeuIAukkjV69V"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/1oRovB4I1ZmRMkk8qoouBr"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Take It Off For You",
-        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 156540,
-      "name": "Take It Off For You",
-      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "The Fall",
         "url": "https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 218433,
       "name": "The Fall - Shadow",
       "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Take It Off For You",
+        "url": "https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "duration_ms": 156540,
+      "name": "Take It Off For You",
+      "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
     },
     {
       "added_at": "2026-10-17 20:26:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "gloria!",
-        "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 201202,
-      "name": "gloria!",
-      "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Fell Asleep in the Sun",
         "url": "https://open.spotify.com/album/1a1i0MjXWGlgZoHUjUxL7D"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 218440,
       "name": "Snowburn",
       "url": "https://open.spotify.com/track/5AGe4sWEAZdZRxgTZRlaND"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "gloria!",
+        "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 201202,
+      "name": "gloria!",
+      "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
     },
     {
-      "added_at": "2026-10-16 04:01:49",
-      "album": {
-        "name": "Back to Pennsylvania",
-        "url": "https://open.spotify.com/album/5knLtpvnr1rjcL7u7dbjzy"
-      },
-      "artists": [
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        }
-      ],
-      "duration_ms": 166411,
-      "name": "Already Low",
-      "url": "https://open.spotify.com/track/4ZiuC55hl9Jg4sCVhm8oFi"
-    },
-    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "wasted time",
@@ -1269,20 +1253,36 @@
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
     },
     {
-      "added_at": "2026-10-09 04:02:47",
+      "added_at": "2026-11-13 05:01:25",
       "album": {
-        "name": "Lucky[Hymn]",
-        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
         }
       ],
-      "duration_ms": 228492,
-      "name": "Lucky[Hymn]",
-      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
+      "duration_ms": 157082,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
+    },
+    {
+      "added_at": "2026-10-16 04:01:49",
+      "album": {
+        "name": "Back to Pennsylvania",
+        "url": "https://open.spotify.com/album/5knLtpvnr1rjcL7u7dbjzy"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "duration_ms": 166411,
+      "name": "Already Low",
+      "url": "https://open.spotify.com/track/4ZiuC55hl9Jg4sCVhm8oFi"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1301,20 +1301,20 @@
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
-      "added_at": "2026-11-13 05:01:25",
+      "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
+        "name": "Lucky[Hymn]",
+        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
       },
       "artists": [
         {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 157082,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
+      "duration_ms": 228492,
+      "name": "Lucky[Hymn]",
+      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/0UItZbJtLu7g845Zgiyoji"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 239831,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/6CjejdRVV6I4MbDJkNKqJ6"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Dust Settles and So Will I",
         "url": "https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 173003,
       "name": "All I See Is The Sky",
       "url": "https://open.spotify.com/track/2tyfn5zPNpAa8IyF0sszGj"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/0UItZbJtLu7g845Zgiyoji"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 239831,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/6CjejdRVV6I4MbDJkNKqJ6"
     },
     {
       "added_at": "2026-10-09 04:02:47",

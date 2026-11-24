@@ -183,6 +183,42 @@
     },
     {
       "album": {
+        "name": "A Place",
+        "url": "https://open.spotify.com/album/3JYrb4Syt4kxGY9xXgfu54"
+      },
+      "artists": [
+        {
+          "name": "Cumulus Sea",
+          "url": "https://open.spotify.com/artist/0atHhR2rLh959TuWQBjgGf"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184873,
+      "name": "A Place",
+      "url": "https://open.spotify.com/track/09kW99xPRjKjSMgoNqhtcP"
+    },
+    {
+      "album": {
+        "name": "A Warm Tether",
+        "url": "https://open.spotify.com/album/1RNswy0rNbXbqFtyzDhIVR"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral Bliss",
+          "url": "https://open.spotify.com/artist/61LkWlXQplKqKkhGPW9c8Y"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "A Warm Tether",
+      "url": "https://open.spotify.com/track/7aHsPS6es0WiR9CPujurg4"
+    },
+    {
+      "album": {
         "name": "Aan de andere kant",
         "url": "https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM"
       },
@@ -234,6 +270,24 @@
       "duration_ms": 147692,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/16ncuGpHs42QKasXW8JagA"
+    },
+    {
+      "album": {
+        "name": "Abridgement",
+        "url": "https://open.spotify.com/album/1qhGv4AER4c3m69NLU9iVG"
+      },
+      "artists": [
+        {
+          "name": "Galva-Nice",
+          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Abridgement",
+      "url": "https://open.spotify.com/track/0xD4SFajQqhv68FknswxLL"
     },
     {
       "album": {
@@ -450,6 +504,24 @@
       "duration_ms": 152562,
       "name": "Aligned",
       "url": "https://open.spotify.com/track/0ujtST75MHymwydk9rwDN9"
+    },
+    {
+      "album": {
+        "name": "Aligning",
+        "url": "https://open.spotify.com/album/3oFa6Uq7GuAJmcmepchm2a"
+      },
+      "artists": [
+        {
+          "name": "Felix Brightwood",
+          "url": "https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144285,
+      "name": "Aligning",
+      "url": "https://open.spotify.com/track/4YxF7CHEm0EBvbIYFZLoNc"
     },
     {
       "album": {
@@ -835,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Astral Hush",
+        "url": "https://open.spotify.com/album/1oK89qnpOJ4SJqUQdN2b3w"
+      },
+      "artists": [
+        {
+          "name": "Sereluna",
+          "url": "https://open.spotify.com/artist/1ZFdGnslzGSf1huxJ3yzev"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Astral Hush",
+      "url": "https://open.spotify.com/track/3LHLe567kWAQWBNufN28d3"
+    },
+    {
+      "album": {
         "name": "Astro",
         "url": "https://open.spotify.com/album/4QREMTRAB5sLX8DVqEF8L7"
       },
@@ -1012,6 +1102,24 @@
       "duration_ms": 133000,
       "name": "Austral Tides",
       "url": "https://open.spotify.com/track/18D6L0H2p25BgTQSjMAqrH"
+    },
+    {
+      "album": {
+        "name": "Autotelic",
+        "url": "https://open.spotify.com/album/3GeKYUZ2OSC0S3MzJwYyJ1"
+      },
+      "artists": [
+        {
+          "name": "different spaces",
+          "url": "https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164655,
+      "name": "Autotelic",
+      "url": "https://open.spotify.com/track/3tphvNqBm9cMPsOwSVKaNs"
     },
     {
       "album": {
@@ -1228,6 +1336,24 @@
       "duration_ms": 158268,
       "name": "Between Times",
       "url": "https://open.spotify.com/track/7aw19vADuGmpJmf7jDCN9l"
+    },
+    {
+      "album": {
+        "name": "Beyond The Milky Way",
+        "url": "https://open.spotify.com/album/1WPh1vqXUUUyoH5u8agkgE"
+      },
+      "artists": [
+        {
+          "name": "Cosmos Osmosis",
+          "url": "https://open.spotify.com/artist/2Uw2syetd9Zggz5tzRPqQP"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Beyond The Milky Way",
+      "url": "https://open.spotify.com/track/7KeilHL2gNw5wqxsy9QbZp"
     },
     {
       "album": {
@@ -2365,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Deliberations",
+        "url": "https://open.spotify.com/album/6NhlNwI3YPLhNTk8uz7x1q"
+      },
+      "artists": [
+        {
+          "name": "Solenotte",
+          "url": "https://open.spotify.com/artist/2vOGSidPf3VvxFRpgXQILQ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Deliberations",
+      "url": "https://open.spotify.com/track/3BsYITc6rTn93BnP0aQhkn"
+    },
+    {
+      "album": {
         "name": "Delphi",
         "url": "https://open.spotify.com/album/72KpeqnpbPU6QkYgDjqnt8"
       },
@@ -2545,6 +2689,42 @@
     },
     {
       "album": {
+        "name": "Dhyanveil",
+        "url": "https://open.spotify.com/album/3JHaRmoJX65RYPrlEOKCWQ"
+      },
+      "artists": [
+        {
+          "name": "Alboran",
+          "url": "https://open.spotify.com/artist/0pSHJFQEatQAHY3yOJpLAi"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161578,
+      "name": "Dhyanveil",
+      "url": "https://open.spotify.com/track/2JVQjmJEqafrAYskw2Ybzl"
+    },
+    {
+      "album": {
+        "name": "Different Shades of Blue",
+        "url": "https://open.spotify.com/album/0vXRoxE9BoD7YtkxMwEfca"
+      },
+      "artists": [
+        {
+          "name": "Orchard of Dreams",
+          "url": "https://open.spotify.com/artist/7KKpkhN0p7RkFHeVScA4f1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Different Shades of Blue",
+      "url": "https://open.spotify.com/track/2nr1nXHqgKTxXmj7ByOXDB"
+    },
+    {
+      "album": {
         "name": "Room In Space",
         "url": "https://open.spotify.com/album/0xruoQGbzb2ttTqOevmAoW"
       },
@@ -2560,6 +2740,24 @@
       "duration_ms": 190210,
       "name": "Different Sides",
       "url": "https://open.spotify.com/track/1BOhxpb7mDYF03nHxd9E1g"
+    },
+    {
+      "album": {
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/7jS9ScDszU5wLfFjKArhEn"
+      },
+      "artists": [
+        {
+          "name": "Noura",
+          "url": "https://open.spotify.com/artist/5TKnH5bvsTO2DUZLY2QqhA"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/1oxPP1nQpg5C0g23n9lBWG"
     },
     {
       "album": {
@@ -4104,7 +4302,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 146100,
       "name": "Ghost Concept",
       "url": "https://open.spotify.com/track/4597QKyHJAp4rIMPhxYP5s"
@@ -4396,6 +4594,24 @@
       "duration_ms": 159000,
       "name": "Heart Strings",
       "url": "https://open.spotify.com/track/4Qd3aMPKRUuTo2ZyD21hGr"
+    },
+    {
+      "album": {
+        "name": "Hearthstone",
+        "url": "https://open.spotify.com/album/5qrpU7gH2cofrui108XqEA"
+      },
+      "artists": [
+        {
+          "name": "Caspar Oakette",
+          "url": "https://open.spotify.com/artist/5jknJYXbYe7VfYIT9hJR1k"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Hearthstone",
+      "url": "https://open.spotify.com/track/0ClMiIDVkydbuvSqlHshoD"
     },
     {
       "album": {
@@ -5245,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "Languor",
+        "url": "https://open.spotify.com/album/4IS2Xq8h9BYzjsEJK16bZR"
+      },
+      "artists": [
+        {
+          "name": "Marciano Zino",
+          "url": "https://open.spotify.com/artist/5wY4chAv96jy3BKrLRvrEZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Languor",
+      "url": "https://open.spotify.com/track/0kYqAXge5za7lEsbj1K3ge"
+    },
+    {
+      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/39Ip3deSTOqNZzSRc8kSsm"
       },
@@ -5386,6 +5620,24 @@
       "duration_ms": 190000,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk"
+    },
+    {
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/0JcXVMgNw294ULAF3M9U6x"
+      },
+      "artists": [
+        {
+          "name": "Soreal",
+          "url": "https://open.spotify.com/artist/6aKdCt74aU69zEcGQVdAlI"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/3MuLXBIRRar3iwj9hQ25WI"
     },
     {
       "album": {
@@ -6052,6 +6304,24 @@
       "duration_ms": 172250,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3QeWLFF3NMDHVeTfrSQp9O"
+    },
+    {
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/147PPHpvZMdMORubrX4eZV"
+      },
+      "artists": [
+        {
+          "name": "Placidous",
+          "url": "https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192987,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5u49RlhGVJKHgp7wFVF95W"
     },
     {
       "album": {
@@ -7323,6 +7593,24 @@
     },
     {
       "album": {
+        "name": "Opulence",
+        "url": "https://open.spotify.com/album/3TZf1sTC7TxmpqPYPByuMg"
+      },
+      "artists": [
+        {
+          "name": "Cristoforo Giordano",
+          "url": "https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/3Z37A4SeQI98Mg3R7pBD1N"
+    },
+    {
+      "album": {
         "name": "Orbis",
         "url": "https://open.spotify.com/album/078xLup7qbXfTmAfC3aCjX"
       },
@@ -7716,6 +8004,24 @@
       "duration_ms": 204809,
       "name": "Pieces of Infinity",
       "url": "https://open.spotify.com/track/6sm1OOgdN0TyISneqeBvgX"
+    },
+    {
+      "album": {
+        "name": "Placid Pace",
+        "url": "https://open.spotify.com/album/4JeE8ozzqP0pUQaRz5YSCk"
+      },
+      "artists": [
+        {
+          "name": "Monte Aria",
+          "url": "https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Placid Pace",
+      "url": "https://open.spotify.com/track/6pHH2WaGtN4Pa81nRFvAcU"
     },
     {
       "album": {
@@ -8421,6 +8727,42 @@
     },
     {
       "album": {
+        "name": "Ripples",
+        "url": "https://open.spotify.com/album/77RueobKR2LD2BX8MCUK7N"
+      },
+      "artists": [
+        {
+          "name": "Don Becker",
+          "url": "https://open.spotify.com/artist/1KHri1Eg72dh283p9K7jLQ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146268,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/0x3tNdvfpucU2488GJxNOs"
+    },
+    {
+      "album": {
+        "name": "Ripples of Light",
+        "url": "https://open.spotify.com/album/43VYOjqEHNNZolSnHHOku6"
+      },
+      "artists": [
+        {
+          "name": "Planetone",
+          "url": "https://open.spotify.com/artist/4epLhV6jzBnism1loSlMcD"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Ripples of Light",
+      "url": "https://open.spotify.com/track/55wjdBY1rnNOTYFPffkmOK"
+    },
+    {
+      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/24Rz27yP4QZijMYxanLsIX"
       },
@@ -8490,6 +8832,24 @@
       "duration_ms": 192000,
       "name": "Rocks for the Asterism",
       "url": "https://open.spotify.com/track/4lm4SMJ7CDTkObUswav5DR"
+    },
+    {
+      "album": {
+        "name": "Rooted Silence",
+        "url": "https://open.spotify.com/album/5bYGZe3jQrUDjsqlnpnNDz"
+      },
+      "artists": [
+        {
+          "name": "Somniare",
+          "url": "https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148391,
+      "name": "Rooted Silence",
+      "url": "https://open.spotify.com/track/5u6IPzmQfapd1iataXIZVB"
     },
     {
       "album": {
@@ -9141,6 +9501,24 @@
     },
     {
       "album": {
+        "name": "Shimmering Waterfall Rush",
+        "url": "https://open.spotify.com/album/1SkaRPRekkS6sEwKWq4k4i"
+      },
+      "artists": [
+        {
+          "name": "tenebrae",
+          "url": "https://open.spotify.com/artist/0Pot957YoZubiuyhOPCIay"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173429,
+      "name": "Shimmering Waterfall Rush",
+      "url": "https://open.spotify.com/track/2SAM6EdSHV4R9Jw48b8Vg0"
+    },
+    {
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/3WsLc45xgRUjymIN6F9Gl4"
       },
@@ -9591,6 +9969,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/1Wbj1xMNGSDW670iSZh3IT"
+      },
+      "artists": [
+        {
+          "name": "Luma Nor",
+          "url": "https://open.spotify.com/artist/1zrl555nHbljwzC2212LYm"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/59rHQ4l8UCK8c9TMyRWQCp"
+    },
+    {
+      "album": {
         "name": "Ascendent",
         "url": "https://open.spotify.com/album/7wnhFQ2b7bGwjyLSiqRyt4"
       },
@@ -9627,6 +10023,24 @@
     },
     {
       "album": {
+        "name": "Statement",
+        "url": "https://open.spotify.com/album/1Tcm0NVtBVPWLeQjoSqA59"
+      },
+      "artists": [
+        {
+          "name": "Beloved More",
+          "url": "https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Statement",
+      "url": "https://open.spotify.com/track/4brImWkdZxvbumRMA8O6ws"
+    },
+    {
+      "album": {
         "name": "Statera",
         "url": "https://open.spotify.com/album/1tybPupQVskU1F9p0SJafA"
       },
@@ -9660,6 +10074,24 @@
       "duration_ms": 150532,
       "name": "Static field",
       "url": "https://open.spotify.com/track/3BztpHTepi3u4QPBUpkMpI"
+    },
+    {
+      "album": {
+        "name": "Stellarglow",
+        "url": "https://open.spotify.com/album/5LDWCx1HAKc16uUr3URa36"
+      },
+      "artists": [
+        {
+          "name": "Lomyen",
+          "url": "https://open.spotify.com/artist/08GLXrToYicR1Ms79HagTJ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Stellarglow",
+      "url": "https://open.spotify.com/track/5UEmienh7XLk3SofKS6zIv"
     },
     {
       "album": {
@@ -10124,7 +10556,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 200000,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6MkrLAuV3ZqyAit6eeBgqA"
@@ -10545,6 +10977,24 @@
     },
     {
       "album": {
+        "name": "Through Pale Silence",
+        "url": "https://open.spotify.com/album/6kS0oBTDdGnuEksSAd3kER"
+      },
+      "artists": [
+        {
+          "name": "Ava Mills",
+          "url": "https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146866,
+      "name": "Through Pale Silence",
+      "url": "https://open.spotify.com/track/70OfO697nPOWWvxkISBNlx"
+    },
+    {
+      "album": {
         "name": "Through The Mist",
         "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
       },
@@ -10956,6 +11406,24 @@
       "duration_ms": 168800,
       "name": "Triangle",
       "url": "https://open.spotify.com/track/2focDSimk8PEiXaWdutQXR"
+    },
+    {
+      "album": {
+        "name": "Two Change",
+        "url": "https://open.spotify.com/album/1wlBVUNekTN7QatwdEe0Tv"
+      },
+      "artists": [
+        {
+          "name": "Astral Lighthouse",
+          "url": "https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165652,
+      "name": "Two Change",
+      "url": "https://open.spotify.com/track/5EfbCETyC7EmG7I2S2mugy"
     },
     {
       "album": {
@@ -11460,6 +11928,24 @@
       "duration_ms": 168923,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/56H8JESO8GwcE1itw0Ll8J"
+    },
+    {
+      "album": {
+        "name": "Warmth of Twilight",
+        "url": "https://open.spotify.com/album/6amKxCG0jeJcF7I2WN9sWb"
+      },
+      "artists": [
+        {
+          "name": "Emmett Obreht",
+          "url": "https://open.spotify.com/artist/182cMvLL6BcdQsRNqxAUya"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Warmth of Twilight",
+      "url": "https://open.spotify.com/track/2MhJQyQNl1bonIWBqE8oWl"
     },
     {
       "album": {

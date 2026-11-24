@@ -83321,6 +83321,24 @@
     },
     {
       "album": {
+        "name": "Audio Secrecy (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4GJijrNN1n75ynS6PbiDfx"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254433,
+      "name": "Full of Empty - 2026 Version",
+      "url": "https://open.spotify.com/track/3FVkJoB5jM7iB8mDJgeKFo"
+    },
+    {
+      "album": {
         "name": "Full Send",
         "url": "https://open.spotify.com/album/4bKLnzxR0GNIoUUdv8efRM"
       },
@@ -137476,6 +137494,28 @@
       "duration_ms": 161965,
       "name": "Mutt",
       "url": "https://open.spotify.com/track/79srQ6xBvXMmCNiTVaI35z"
+    },
+    {
+      "album": {
+        "name": "Mutual Death Warrant (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6Ul8iBUTWthPOsoesxWMY5"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "Mutual Death Warrant (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5wHEByduQ67cUN48ddtgb0"
     },
     {
       "album": {

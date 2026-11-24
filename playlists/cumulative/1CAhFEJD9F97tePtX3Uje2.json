@@ -4531,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "VORTEX",
+        "url": "https://open.spotify.com/album/0MihLqk33JdQEs7EJgnMKm"
+      },
+      "artists": [
+        {
+          "name": "REA4E",
+          "url": "https://open.spotify.com/artist/18WcVhn6ylYELBVasV1QsU"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148613,
+      "name": "VORTEX",
+      "url": "https://open.spotify.com/track/2zoh1BsYe8A0rE4tBWJrKT"
+    },
+    {
+      "album": {
         "name": "MIDNIGHT2077",
         "url": "https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj"
       },

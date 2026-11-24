@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Ganges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,973 likes - 120 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,965 likes - 120 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 5 | [De sol a sol](https://open.spotify.com/track/2l0YwHUzE2ujqHWgVekMVA) | [GREX](https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt) | [Si o Si](https://open.spotify.com/album/2QPCTjXB6ZmqNO5RUFzXhM) | 2:29 |
 | 6 | [Norena da Denbora](https://open.spotify.com/track/17etEUT8dLGOibvAEdenhX) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Norena da Denbora](https://open.spotify.com/album/3ubr4XRp5KBxQph5ZirJT0) | 3:34 |
 | 7 | [Gárg0la](https://open.spotify.com/track/6kYeCQqpCpEviJHTbHlXhR) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Gárg0la](https://open.spotify.com/album/2IYCSJKUPz00Yh5WPbPG1z) | 2:25 |
-| 8 | [ni un poquito fuego: \(](https://open.spotify.com/track/6iEzJHqtMmhPwRi10lsqR9) | [Ani Queen](https://open.spotify.com/artist/3tPtEktqgNimM6XJdcOxmd) | [ni un poquito fuego: \(](https://open.spotify.com/album/5hthsXCElWO2pPAe0EVIoN) | 3:08 |
+| 8 | [ni un poquito fuego :\(](https://open.spotify.com/track/6iEzJHqtMmhPwRi10lsqR9) | [Ani Queen](https://open.spotify.com/artist/3tPtEktqgNimM6XJdcOxmd) | [ni un poquito fuego :\(](https://open.spotify.com/album/5hthsXCElWO2pPAe0EVIoN) | 3:08 |
 | 9 | [La Fiera](https://open.spotify.com/track/03CjIjd6kSuHhuRKxzVcyc) | [Napoleón Solo](https://open.spotify.com/artist/44knTuUG2QkzQyOVEMdTgb) | [La Fiera](https://open.spotify.com/album/36b1yNs8HUZDE5ygyqKyFn) | 4:14 |
 | 10 | [La revolución de la ternura](https://open.spotify.com/track/6rXvYX3K6QgFNpw4fXjeUQ) | [CLARA H](https://open.spotify.com/artist/5EifXYeUmr9otZ8bF3oRvi) | [La revolución de la ternura](https://open.spotify.com/album/4l99Bkki9uS0Y3MoXXjhNI) | 3:40 |
 | 11 | [Tomé Mucho](https://open.spotify.com/track/1bJOgEW6wXZJc1cvBWi96Q) | [Los Invaders](https://open.spotify.com/artist/73CTlCt5B0aDArBivwUA5O) | [Viajeros Nocturnos](https://open.spotify.com/album/3tYJFdvlY2YRrhaWyuDM5n) | 3:35 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [X LOS SIGLOS DE LOS SIGLOS](https://open.spotify.com/track/2tdDIiHo2JJFrXmOvRnu0z) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [X LOS SIGLOS DE LOS SIGLOS](https://open.spotify.com/album/1So00vDI2ufcKnBPdQohTt) | 3:01 |
 | 120 | [Ezpata Dantza](https://open.spotify.com/track/3ngH4jvapfAc7C3TEmOlar) | [Dupla](https://open.spotify.com/artist/5kcrF8TL0L4P4VuzDyRQuU) | [Ezpata Dantza](https://open.spotify.com/album/2EVCIrsRZ6Q0Weo4GhizXH) | 3:06 |
 
-Snapshot ID: `AAAAAIbz4ue007Q2eAmVtCAVNBRWMNFg`
+Snapshot ID: `AAAAAIdvczg37G8RTp1JTKhb9e2PJNtc`

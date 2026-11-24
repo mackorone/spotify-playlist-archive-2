@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: A7S x Loreen
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,474 likes - 334 songs - 16 hr 30 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,470 likes - 334 songs - 16 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

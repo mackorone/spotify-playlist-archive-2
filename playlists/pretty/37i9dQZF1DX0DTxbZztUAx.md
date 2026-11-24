@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,573 likes - 157 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,586 likes - 157 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 | 3 | [Check Me](https://open.spotify.com/track/39AVKe2L1pGWR4y9IsvoYk) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [24\-7](https://open.spotify.com/album/1cuN1DVeN1v0NXlXNVs1nj) | 2:17 |
 | 4 | [Make it Shake](https://open.spotify.com/track/1aDq3Kiq8myLBTwCcOG3Y5) | [Andre Writer](https://open.spotify.com/artist/3Zeeeqy0xX8CNxfVho2w5V) | [Trending Hip Hop 3](https://open.spotify.com/album/02aHAz6cd0QIGNMRBuMMpj) | 2:13 |
 | 5 | [LAST OF US](https://open.spotify.com/track/64zz6jNWECUNAN1ca11jpn) | [Gnarly](https://open.spotify.com/artist/7LYSxmcXooAtd9MjfxgAxO), [AP Faleap](https://open.spotify.com/artist/0jlpRBcc4hYpQJdpiqvINi) | [NOTHING NEW](https://open.spotify.com/album/1zhYYPqWwrfoaIorl1bQZW) | 2:16 |
-| 6 | [50 \(feat\. Trippie Redd\)](https://open.spotify.com/track/6Bak4P2wNJRx8jAIoDZm6M) | [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [50 \(feat\. Trippie Redd\)](https://open.spotify.com/album/71QeEVbsm4ZKiO4Ko8gNIh) | 2:38 |
+| 6 | [50](https://open.spotify.com/track/6Bak4P2wNJRx8jAIoDZm6M) | [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [50](https://open.spotify.com/album/71QeEVbsm4ZKiO4Ko8gNIh) | 2:38 |
 | 7 | [What Do You Mean?](https://open.spotify.com/track/3Cj2l05RHy7iEGo9vIdSMQ) | [Life’s Luckii](https://open.spotify.com/artist/5dkqkpnwx0sBxGGLrkRYQf), [Jay Sino](https://open.spotify.com/artist/49DRbDidKn14Fkr2keNxeQ) | [What Do You Mean?](https://open.spotify.com/album/78msrCYJbdSBic8QqluqcX) | 2:41 |
 | 8 | [Per Usual](https://open.spotify.com/track/2PqGjGrJZj1iqNsxBRlnxj) | [Sum GRL](https://open.spotify.com/artist/4noPRPizt5Jq1uyJbUJV1E), [DDJP](https://open.spotify.com/artist/1SJ6JAHc4PLp3klEqT7Dof), [Bonzai85](https://open.spotify.com/artist/75JMRkgl4icWOS49uXEwo9), [Lillie Lewis](https://open.spotify.com/artist/0rR2SpkEAGrv2tYODYxFwW) | [Hip Hop Fire](https://open.spotify.com/album/28aiTiLhCuOGaN95EmvRFF) | 2:08 |
 | 9 | [How You Do That Twin](https://open.spotify.com/track/3ivswqet3kn8iRC55jHsaU) | [Judy Drama](https://open.spotify.com/artist/28WjrfHusVhcAmjUYu83XT) | [Trending Hip Hop 6](https://open.spotify.com/album/0hoWIAS77hm5VD0iQFSwBm) | 3:27 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 | 156 | [DIRTY](https://open.spotify.com/track/3MyJ8iwiZOEqhBneh6NBAm) | [TANGELA](https://open.spotify.com/artist/0tDUYf6Kgwje2xTRlJZMwU) | [DIRTY](https://open.spotify.com/album/5tPCTpO4A0Rce05xijhIJT) | 2:39 |
 | 157 | [You is a Dark Cloud](https://open.spotify.com/track/6lKuXGOquwUx7RJaQo9lwL) | [WOW JONES & JIMIJAME$](https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN), [Lambert 'Stereo' Waldrip](https://open.spotify.com/artist/7fYRvGjEjpBZSvLcQACP1Q) | [Tyler Perry's Beauty in Black: Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2) | 1:32 |
 
-Snapshot ID: `AAAAAHsCzaPmV8ynm8uGsqYnl0DyrR4f`
+Snapshot ID: `AAAAAGrMAmmUjm1eqRLrxzy2wmL8MuWy`

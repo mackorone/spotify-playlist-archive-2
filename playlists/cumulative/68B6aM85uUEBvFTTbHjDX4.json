@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/5bjvzQlggZ0QMHNGEkTLHG"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/3LdaUlDrb7Wuwkrjc4ilim"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/2veUMliI1AoMvBHxygyYIl"
       },

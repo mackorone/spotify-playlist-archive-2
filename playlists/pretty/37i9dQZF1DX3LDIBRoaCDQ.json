@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1602584,
+  "num_followers": 1602542,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZWIhmLijkp//3nNU5QPtjK7H1X",
+  "snapshot_id": "AAAAAOjKw2v8tlXCqwCpwfMzBDdFg3rd",
   "tracks": [
     {
       "added_at": "2024-11-29 00:00:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Setting Sons (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
       "artists": [
         {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Going Underground",
-      "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
+      "duration_ms": 638426,
+      "name": "Marquee Moon",
+      "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+        "name": "Setting Sons (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
       },
       "artists": [
         {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
         }
       ],
-      "duration_ms": 638426,
-      "name": "Marquee Moon",
-      "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
+      "duration_ms": 174506,
+      "name": "Going Underground",
+      "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 102106,
       "name": "Knowledge - 2007 Remaster",
       "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Natural's Not in It",
-      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 235653,
       "name": "Typical Girls",
       "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Natural's Not in It",
+      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Wild in the Streets",
+        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
+      },
+      "artists": [
+        {
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "Wild in the Streets",
+      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Wild in the Streets",
-        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
+        "name": "Rhino Hi-Five: Ramones",
+        "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
       },
       "artists": [
         {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 155693,
-      "name": "Wild in the Streets",
-      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+      "duration_ms": 150333,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 155626,
       "name": "Bad Mouth",
       "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Rhino Hi-Five: Ramones",
-        "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Loud, Fast, Ramones: Their Toughest Hits",
         "url": "https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 137400,
       "name": "Rock 'N' Roll High School - Remastered",
       "url": "https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
     },
     {
       "added_at": "2024-11-29 00:00:00",

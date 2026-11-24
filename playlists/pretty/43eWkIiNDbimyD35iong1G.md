@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 ### [Wedding Songs 2026](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
-> The ultimate wedding music mix for your ceremony, first dance &amp; reception\. Experience timeless wedding love ballads and upbeat wedding songs featuring Ed Sheeran, Taylor Swift, John Legend &amp; Dan + Shay\. Your essential wedding playlist\. Updated weekly.
+> The best wedding songs for your first dance, walking down the aisle &amp; reception party\. Romantic acoustic vibes, love classics &amp; sing\-along dance hits featuring Bruno Mars, Ed Sheeran, John Legend, and more\. Updated weekly for 2026/2027 weddings.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 207,029 likes - 151 songs - 9 hr 6 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 207,028 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 150 | [Locked Out of Heaven](https://open.spotify.com/track/096akzdwi93mbRPxAQrgjF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:53 |
 | 151 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 
-Snapshot ID: `AAAEx7K2SHYPGBhxwuGPFTp1KAHJwgwR`
+Snapshot ID: `AAAEyMfXb3GAIxmv/xAy9R+n6fGwYjjX`

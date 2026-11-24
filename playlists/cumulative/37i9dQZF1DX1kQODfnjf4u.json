@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Anjeli a d\u00e9moni",
+        "url": "https://open.spotify.com/album/4zyiEJSGcDNp8dRLT9naSp"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Anjeli a d\u00e9moni",
+      "url": "https://open.spotify.com/track/21Fk5jy1cV9ABAKHW3Ed2H"
+    },
+    {
+      "album": {
         "name": "Antarktida",
         "url": "https://open.spotify.com/album/5Lqf0bTrNHE8eayjDEP7EO"
       },
@@ -504,7 +522,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 168000,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl"
@@ -700,6 +718,32 @@
       "duration_ms": 192533,
       "name": "Body to body",
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
+    },
+    {
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/5Xk4kgd7G6tHBPZXGqaXVt"
+      },
+      "artists": [
+        {
+          "name": "Sud\u017ea",
+          "url": "https://open.spotify.com/artist/3VX1cFy3R2AQjsjujZC9OP"
+        },
+        {
+          "name": "Sanchez22",
+          "url": "https://open.spotify.com/artist/4Mkunnaj0EsmtwYR1BypXO"
+        },
+        {
+          "name": "Huclberry",
+          "url": "https://open.spotify.com/artist/0TugplS9T5YUowNlX8MRZt"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195728,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5tZOSkmk5gHHnIOKxumCP9"
     },
     {
       "album": {
@@ -1670,6 +1714,36 @@
       "duration_ms": 187280,
       "name": "FIRESTARTER",
       "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221189,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & The Lizard Wizard)",
+      "url": "https://open.spotify.com/track/1bRWSJwUGWCsOih08iFFTV"
     },
     {
       "album": {
@@ -2658,7 +2732,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 130000,
       "name": "Long Story",
       "url": "https://open.spotify.com/track/7hELM1h9VnjQ263YcXD4x3"
@@ -4060,7 +4134,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 123880,
       "name": "P\u016fl \u010dtvrt\u00fd r\u00e1no",
       "url": "https://open.spotify.com/track/1zDnvgpfqdVSQZFTKUwKSx"
@@ -4729,6 +4803,28 @@
     },
     {
       "album": {
+        "name": "TANGO",
+        "url": "https://open.spotify.com/album/1hT1Xccoiq6YlrM79aSbCl"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229811,
+      "name": "TANGO",
+      "url": "https://open.spotify.com/track/3KOAcLxIHkFfF5u9maJ3xJ"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -5192,7 +5288,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 221772,
       "name": "v mojich snoch",
       "url": "https://open.spotify.com/track/6ZgEybJNA0vk2FjJIIv3c2"

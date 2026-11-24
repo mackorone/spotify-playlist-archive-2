@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 749179,
+  "num_followers": 749207,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPPasYm+8b8meil7eQzWDz3IvUwS",
+  "snapshot_id": "AAAAAFBmWWWhPWOhrSJz0qLeNrSVU9YQ",
   "tracks": [
     {
       "added_at": "2025-11-07 18:47:10",
@@ -227,8 +227,8 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Realidade (Ao Vivo Em Manaus)",
-        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
+        "name": "Troca de Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 202066,
-      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+      "duration_ms": 203158,
+      "name": "Troca de Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -307,8 +307,8 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Troca de Cal\u00e7ada",
-        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
+        "name": "Realidade (Ao Vivo Em Manaus)",
+        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 203158,
-      "name": "Troca de Cal\u00e7ada",
-      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
+      "duration_ms": 202066,
+      "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "Pesquisa no Google (feat. Henrique & Diego) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+        }
+      ],
+      "duration_ms": 169244,
+      "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "Simone & Simaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 214513,
       "name": "Meu Viol\u00e3o E O Nosso Cachorro - Ao Vivo",
       "url": "https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Tchau Brigado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
-      },
-      "artists": [
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tchau Brigado - Ao Vivo",
-      "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -807,22 +807,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Pesquisa no Google (feat. Henrique & Diego) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR"
+        "name": "Tchau Brigado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
       },
       "artists": [
         {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
         },
         {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 169244,
-      "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
+      "duration_ms": 163402,
+      "name": "Tchau Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "De Copo Em Copo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        }
-      ],
-      "duration_ms": 158865,
-      "name": "De Copo Em Copo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Misturadin (Ao Vivo)",
         "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 360269,
       "name": "Desliga e Vem / Gamei / Gandaia (feat. P\u00e9ricles & Chrigor) - Ao Vivo",
       "url": "https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "De Copo Em Copo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        }
+      ],
+      "duration_ms": 158865,
+      "name": "De Copo Em Copo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "Leonardo 30 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz"
+      },
+      "artists": [
+        {
+          "name": "Leonardo",
+          "url": "https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "Liga L\u00e1 em Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "Errejota (Ao Vivo)",
         "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Leonardo 30 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz"
-      },
-      "artists": [
-        {
-          "name": "Leonardo",
-          "url": "https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "Liga L\u00e1 em Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V"
     },
     {
       "added_at": "2025-11-07 18:47:10",

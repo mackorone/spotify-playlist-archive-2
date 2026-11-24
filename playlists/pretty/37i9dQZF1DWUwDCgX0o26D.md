@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 全台最紅西洋歌單！熱門盡在此！Cover:  The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,018 likes - 57 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,016 likes - 57 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 56 | [Met my match](https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Met my match](https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO) | 2:45 |
 | 57 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 |
 
-Snapshot ID: `AAAAAK/FZJ4GMakpSi2+Ql7hEKwDoHNc`
+Snapshot ID: `AAAAANUN25oLxukAc4jaum5eQ2O3W0Wl`

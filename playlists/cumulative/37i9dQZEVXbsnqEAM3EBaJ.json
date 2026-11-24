@@ -19758,7 +19758,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 221430,
       "name": "Doorbell Camera",
       "url": "https://open.spotify.com/track/4KfKGlueFM5YfWnGdZpcqP"
@@ -37436,7 +37436,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 387666,
       "name": "Introduction and Variations on a German National Air Op. posth. (KK 925-927)",
       "url": "https://open.spotify.com/track/6XtwSlBUv4lYomEaHGSb3i"
@@ -45660,7 +45660,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 167253,
       "name": "Makin' Love - Outtake",
       "url": "https://open.spotify.com/track/3qSlX0NSLUOl85vAiGRu8S"
@@ -51353,6 +51353,28 @@
     },
     {
       "album": {
+        "name": "Chopin: The Great Works",
+        "url": "https://open.spotify.com/album/2ltyXuaKAKOSTzfZNKDf5Y"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Tam\u00e1s V\u00e1s\u00e1ry",
+          "url": "https://open.spotify.com/artist/4ylqqqUMfc5TdqwoLuq6he"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76960,
+      "name": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 - Pt. 2",
+      "url": "https://open.spotify.com/track/5Jik1EADzrYiuO028PEO2T"
+    },
+    {
+      "album": {
         "name": "\"An Evening at Versailles: Classical Works\"",
         "url": "https://open.spotify.com/album/5a0BVQLFZXvkIhUfSdidYT"
       },
@@ -51724,7 +51746,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 168000,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/5ds6KYdL1ThfEoxCt9ronO"
@@ -56186,7 +56208,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 332386,
       "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: I. Adagio",
       "url": "https://open.spotify.com/track/2jDpxF3B53yRvOtPr6Q6Vh"
@@ -56212,6 +56234,28 @@
       "duration_ms": 273800,
       "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: II. Menuetto I-II",
       "url": "https://open.spotify.com/track/6mVaXcNOThc4zl9ymaTph9"
+    },
+    {
+      "album": {
+        "name": "Hamelin: A Classical Evening",
+        "url": "https://open.spotify.com/album/62nU3giWFcYPRzfgB57rbu"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Marc-Andr\u00e9 Hamelin",
+          "url": "https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: III. Allegro",
+      "url": "https://open.spotify.com/track/4FZqLzDlLuSRq3GGe46Pqe"
     },
     {
       "album": {
@@ -71264,7 +71308,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "Take Me - Extended Outtake",
       "url": "https://open.spotify.com/track/4JJDC41d84QByLRxNOLCFQ"
@@ -82121,6 +82165,32 @@
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 271960,
+      "name": "Violin Concerto in E Major, Op. 8, No. 1, RV 269 \"La Primavera\": 3. Allegro (Danza pastorale)",
+      "url": "https://open.spotify.com/track/7Dvu77uBchK5fRa91eTLnf"
+    },
+    {
+      "album": {
+        "name": "\"Allabreve\" - ECO plays Bach, Handel & Vivaldi",
+        "url": "https://open.spotify.com/album/7lXrAigFiEaRWq2OVHhqrL"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Henryk Szeryng",
+          "url": "https://open.spotify.com/artist/1QoKB19XVwnNwlKDjyYYe8"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-24",
       "duration_ms": 303453,
       "name": "Violin Concerto in G Minor, Op. 8, No. 2, RV 315 \"L'estate\": 1. Allegro non molto - Allegro",
       "url": "https://open.spotify.com/track/0DS6Iwie9pFCanFP4TN9l8"
@@ -88053,6 +88123,24 @@
     },
     {
       "album": {
+        "name": "\u0413\u043e\u0440\u043e\u0434 XX",
+        "url": "https://open.spotify.com/album/7zLJz3ejfy9ALmXsz88wVv"
+      },
+      "artists": [
+        {
+          "name": "Otto Dix",
+          "url": "https://open.spotify.com/artist/4xYV3eueFMTN60gezE972y"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228658,
+      "name": "\u0411\u0435\u043b\u044b\u0439 \u043f\u0435\u043f\u0435\u043b",
+      "url": "https://open.spotify.com/track/69mlgaf58CaclDfrMDXeZK"
+    },
+    {
+      "album": {
         "name": "\u0413\u043e\u0440\u043e\u0434 \u043a\u0430\u043c\u043d\u044f \u0438 \u043b\u044c\u0434\u0430",
         "url": "https://open.spotify.com/album/3bWrEozSOGIrn0yUe6t7kk"
       },
@@ -88184,7 +88272,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 263783,
       "name": "\u0422\u0430\u043a \u0433\u043e\u0432\u043e\u0440\u0438\u043b \u041d\u0438\u0446\u0448\u0435",
       "url": "https://open.spotify.com/track/1mO6lrnykU6LGwT3gdVQS3"

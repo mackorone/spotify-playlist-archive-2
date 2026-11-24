@@ -1,12 +1,12 @@
 {
   "description": "This is Erykah Badu. The essential tracks, all in one playlist.",
-  "num_followers": 153565,
+  "num_followers": 153600,
   "original_name": "This Is Erykah Badu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAAAbfTRX3KmhQtwi7oFuvk82",
+  "snapshot_id": "awIwgAAAAADu65u0bj5nyw9ZoTDD5oxf",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Groove",
-        "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
+        "name": "Streetsoul",
+        "url": "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
       },
       "artists": [
         {
-          "name": "The RH Factor",
-          "url": "https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
         },
         {
           "name": "Erykah Badu",
           "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 348546,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/3nSECoLmCiUbpQVJtpmS1I"
+      "duration_ms": 278600,
+      "name": "Plenty",
+      "url": "https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN"
     },
     {
       "added_at": null,
@@ -743,22 +739,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetsoul",
-        "url": "https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl"
+        "name": "Hard Groove",
+        "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
       },
       "artists": [
         {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+          "name": "The RH Factor",
+          "url": "https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         },
         {
           "name": "Erykah Badu",
           "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 278600,
-      "name": "Plenty",
-      "url": "https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN"
+      "duration_ms": 348546,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/3nSECoLmCiUbpQVJtpmS1I"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ❄️☕
 
-1,181 songs - 2 day 18 hr 18 min
+1,182 songs - 2 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [Like Him \(feat\. Lola Young\)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:38 | 2025-02-07 | 2025-06-01 |
 | [Limbo](https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 3:35 | 2024-11-21 | 2025-01-11 |
 | [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 | 2024-09-12 | 2024-10-08 |
-| [List do starych](https://open.spotify.com/track/6FgBZF8PBkEWTDgQJPDmMN) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [List do starych](https://open.spotify.com/album/1HTSGAq3mXeAMLymogScwT) | 3:20 | 2026-11-21 |  |
+| [List do starych](https://open.spotify.com/track/6FgBZF8PBkEWTDgQJPDmMN) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [List do starych](https://open.spotify.com/album/1HTSGAq3mXeAMLymogScwT) | 3:20 | 2026-11-21 | 2026-11-24 |
 | [List z wielkiego miasta](https://open.spotify.com/track/5vAcemWiqZ9V8KXYSfn4WM) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [List z wielkiego miasta](https://open.spotify.com/album/1MUgXGUpJMziJxVAWGTl2i) | 3:57 | 2026-01-23 | 2026-02-28 |
 | [Listek](https://open.spotify.com/track/64KcpSFKRnaYLt2LVYXXql) | [Kasia Moś](https://open.spotify.com/artist/6o7RJSQNRyx5ChgbgoTx22) | [Wszystko to czego nie da się powiedzieć](https://open.spotify.com/album/2gdfK5ZdAmaYgZEaFM8g4E) | 2:39 | 2024-11-21 | 2024-12-17 |
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-31 | 2025-07-11 |
@@ -631,6 +631,7 @@
 | [Najbardziej lubię ten moment](https://open.spotify.com/track/52wrgDTHHipuBOx6LGXbBC) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Najbardziej lubię ten moment](https://open.spotify.com/album/4XTJXh61QUZlQZvi2c2nTz) | 3:10 | 2024-12-19 | 2025-01-11 |
 | [najgorsze restauracje](https://open.spotify.com/track/4zMKD8kgLfYwuZlzvGTqOJ) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [najgorsze restauracje](https://open.spotify.com/album/4N7S8DQNO3TIJqVtijain8) | 2:45 | 2025-10-23 | 2025-11-08 |
 | [Nareszcie](https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Nareszcie](https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm) | 3:02 | 2026-06-12 | 2026-11-22 |
+| [Następny proszę](https://open.spotify.com/track/6Tps1gh9OaN7XerstTIEAi) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Następny proszę](https://open.spotify.com/album/54YQmIx2vjYKMMTi0e0SNn) | 2:44 | 2026-11-21 |  |
 | [Nasz mały świat](https://open.spotify.com/track/6KbUHLwpX6izkkYpRh4VQy) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Nasz mały świat](https://open.spotify.com/album/0e8qWOx9bq8oZcKI3mal1L) | 2:52 | 2026-03-13 | 2026-03-28 |
 | [Need 2](https://open.spotify.com/track/2XOTQLxng9rBeHw2jHNqDY) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Need 2](https://open.spotify.com/album/65LTuhV9Kiufno0XuD6OsN) | 2:40 | 2025-05-31 | 2025-06-21 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-03-28 | 2025-06-01 |

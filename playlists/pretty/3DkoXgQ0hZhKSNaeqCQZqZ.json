@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1271,
+  "num_followers": 1273,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGQZP0P63LFFAXMDb7LmsWKSym3HCF",
+  "snapshot_id": "AAAGRYK+C7+g6adAykB3gscgYGeCtYBE",
   "tracks": [
+    {
+      "added_at": "2026-11-14 02:30:12",
+      "album": {
+        "name": "sighthound",
+        "url": "https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "tell u sum",
+      "url": "https://open.spotify.com/track/2krkj5Wali172QzLcM8x1z"
+    },
     {
       "added_at": "2026-11-22 05:47:14",
       "album": {
@@ -157,6 +173,38 @@
       "url": "https://open.spotify.com/track/55loc7yppHwbF3LXl2eHm0"
     },
     {
+      "added_at": "2026-11-11 21:44:54",
+      "album": {
+        "name": "PARTY LIKE THIS",
+        "url": "https://open.spotify.com/album/0feRHXSSAqBn2l0skYrmRM"
+      },
+      "artists": [
+        {
+          "name": "fearozzles",
+          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
+        },
+        {
+          "name": "Johnny Staxx",
+          "url": "https://open.spotify.com/artist/1f2SRb6igf9FXPgPKEKuOt"
+        },
+        {
+          "name": "silverluv",
+          "url": "https://open.spotify.com/artist/6uLoUTi9Gj0xZ4Ozgdwxm6"
+        },
+        {
+          "name": "bobowakeup",
+          "url": "https://open.spotify.com/artist/1SCLtqNhNEFvbuRjVMfIVl"
+        },
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "duration_ms": 194685,
+      "name": "PARTY LIKE THIS",
+      "url": "https://open.spotify.com/track/75KAY9fMflyNCxgMgknChO"
+    },
+    {
       "added_at": "2026-11-22 05:53:43",
       "album": {
         "name": "Paint (grasstheater Remix)",
@@ -229,38 +277,6 @@
       "url": "https://open.spotify.com/track/54UtOQ2B4Ip9bucZLRYrxQ"
     },
     {
-      "added_at": "2026-11-11 21:44:54",
-      "album": {
-        "name": "PARTY LIKE THIS",
-        "url": "https://open.spotify.com/album/0feRHXSSAqBn2l0skYrmRM"
-      },
-      "artists": [
-        {
-          "name": "fearozzles",
-          "url": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
-        },
-        {
-          "name": "Johnny Staxx",
-          "url": "https://open.spotify.com/artist/1f2SRb6igf9FXPgPKEKuOt"
-        },
-        {
-          "name": "silverluv",
-          "url": "https://open.spotify.com/artist/6uLoUTi9Gj0xZ4Ozgdwxm6"
-        },
-        {
-          "name": "bobowakeup",
-          "url": "https://open.spotify.com/artist/1SCLtqNhNEFvbuRjVMfIVl"
-        },
-        {
-          "name": "Bryn",
-          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
-        }
-      ],
-      "duration_ms": 194685,
-      "name": "PARTY LIKE THIS",
-      "url": "https://open.spotify.com/track/75KAY9fMflyNCxgMgknChO"
-    },
-    {
       "added_at": "2026-11-15 05:53:22",
       "album": {
         "name": "Party Favor",
@@ -299,22 +315,6 @@
       "duration_ms": 232551,
       "name": "FEELGUD!",
       "url": "https://open.spotify.com/track/1wbhtuiPPuS9KBzV9pbBYa"
-    },
-    {
-      "added_at": "2026-11-14 02:30:12",
-      "album": {
-        "name": "sighthound",
-        "url": "https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO"
-      },
-      "artists": [
-        {
-          "name": "snazzyvaka",
-          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "tell u sum",
-      "url": "https://open.spotify.com/track/2krkj5Wali172QzLcM8x1z"
     },
     {
       "added_at": "2026-11-11 23:29:03",

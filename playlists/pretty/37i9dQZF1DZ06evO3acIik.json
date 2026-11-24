@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 66340,
+  "num_followers": 66337,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAABTwsXIcBxQofXMv1sfD58O",
+  "snapshot_id": "awIwgAAAAABOdflsbp2WpNyQRtcX4vRP",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seraphim",
-        "url": "https://open.spotify.com/album/5ppyF8wHl6ceiE5ZEWUIWh"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "You Make Me Feel Loved",
-      "url": "https://open.spotify.com/track/0QkcHeNisSRIND5lsdHxwh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ostentatious (piano edit)",
         "url": "https://open.spotify.com/album/7yqeWL0Gd9iIbzlbAWdvi7"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 192000,
       "name": "Ostentatious - piano edit",
       "url": "https://open.spotify.com/track/4worOXgLQwsE6uFW2h2TUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seraphim",
+        "url": "https://open.spotify.com/album/5ppyF8wHl6ceiE5ZEWUIWh"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "You Make Me Feel Loved",
+      "url": "https://open.spotify.com/track/0QkcHeNisSRIND5lsdHxwh"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As We Walk into Forever",
-        "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni"
     },
     {
       "added_at": null,

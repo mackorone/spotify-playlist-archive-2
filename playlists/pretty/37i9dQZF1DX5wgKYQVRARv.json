@@ -1,12 +1,12 @@
 {
   "description": "New and recent favorites of Progressive Metal. Cover: TesseracT",
-  "num_followers": 572612,
+  "num_followers": 572617,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJUUxurvp8Qw/O2YSlYksVjlQArr",
+  "snapshot_id": "AAAAAMQ0sl0xINPd/oMkeq6KR+DAxjBU",
   "tracks": [
     {
       "added_at": "2026-11-20 05:02:04",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "The Burial",
-        "url": "https://open.spotify.com/album/4o2IZfSZRelycjwiog3MQ7"
-      },
-      "artists": [
-        {
-          "name": "Freeze the Fall",
-          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
-        }
-      ],
-      "duration_ms": 202484,
-      "name": "The Burial",
-      "url": "https://open.spotify.com/track/6dxuWgHFHlg3FkQMckQw41"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "The Will To Power",
         "url": "https://open.spotify.com/album/5bAGxP0lBqlMUprJggKYWd"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 214111,
       "name": "Nothing Ever Happens",
       "url": "https://open.spotify.com/track/0oqV3Ud53BOTMltEM9Nuda"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "The Burial",
+        "url": "https://open.spotify.com/album/4o2IZfSZRelycjwiog3MQ7"
+      },
+      "artists": [
+        {
+          "name": "Freeze the Fall",
+          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
+        }
+      ],
+      "duration_ms": 202484,
+      "name": "The Burial",
+      "url": "https://open.spotify.com/track/6dxuWgHFHlg3FkQMckQw41"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Clawing out",
-        "url": "https://open.spotify.com/album/2kyqjgvv8NNFF8ulOY0sYW"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "Clawing out",
-      "url": "https://open.spotify.com/track/2vDnLjOWF85p72c1t40oe5"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Stories to Forget",
         "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 281187,
       "name": "A Lesser King",
       "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Clawing out",
+        "url": "https://open.spotify.com/album/2kyqjgvv8NNFF8ulOY0sYW"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "Clawing out",
+      "url": "https://open.spotify.com/track/2vDnLjOWF85p72c1t40oe5"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1279,6 +1279,22 @@
       "duration_ms": 228461,
       "name": "Rick Ranch",
       "url": "https://open.spotify.com/track/1gLZbd6goTWHwtrp3LaNiy"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Chasing Sunsets",
+        "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Wessels",
+          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Chasing Sunsets",
+      "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1327,22 +1343,6 @@
       "duration_ms": 577506,
       "name": "Vitrun",
       "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
-        "name": "Chasing Sunsets",
-        "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Wessels",
-          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Chasing Sunsets",
-      "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Phantom : : Phoenix",
-        "url": "https://open.spotify.com/album/0ZfXr2Sw9LG2kvEGQibHW7"
-      },
-      "artists": [
-        {
-          "name": "Stellar Circuits",
-          "url": "https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Elegant Illusion",
-      "url": "https://open.spotify.com/track/6EcSc4FCBzQNOdpp0KtWBR"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Silently Walking Alone",
         "url": "https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 245077,
       "name": "Silently Walking Alone",
       "url": "https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Phantom : : Phoenix",
+        "url": "https://open.spotify.com/album/0ZfXr2Sw9LG2kvEGQibHW7"
+      },
+      "artists": [
+        {
+          "name": "Stellar Circuits",
+          "url": "https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Elegant Illusion",
+      "url": "https://open.spotify.com/track/6EcSc4FCBzQNOdpp0KtWBR"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Wars of Spirit // Wards of Light",
-        "url": "https://open.spotify.com/album/02NkDy6LFR02K0CEBNwqL9"
-      },
-      "artists": [
-        {
-          "name": "Dreadnought",
-          "url": "https://open.spotify.com/artist/1U01xfNaiw3TkOeyGKXwi1"
-        }
-      ],
-      "duration_ms": 278520,
-      "name": "Colors of Our Broken Hearts",
-      "url": "https://open.spotify.com/track/696OSYoH1ZSEMJnhz0VRar"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Castle In The Sky",
         "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 304500,
       "name": "Castle In The Sky",
       "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Wars of Spirit // Wards of Light",
+        "url": "https://open.spotify.com/album/02NkDy6LFR02K0CEBNwqL9"
+      },
+      "artists": [
+        {
+          "name": "Dreadnought",
+          "url": "https://open.spotify.com/artist/1U01xfNaiw3TkOeyGKXwi1"
+        }
+      ],
+      "duration_ms": 278520,
+      "name": "Colors of Our Broken Hearts",
+      "url": "https://open.spotify.com/track/696OSYoH1ZSEMJnhz0VRar"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Stargod",
-        "url": "https://open.spotify.com/album/1FImx4muj0n0HZO14X5blQ"
-      },
-      "artists": [
-        {
-          "name": "Astronoid",
-          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Depressed Mode",
-      "url": "https://open.spotify.com/track/26qP1rNOOIyzykzWJad4gO"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Enter the City",
         "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 154333,
       "name": "Enter the City",
       "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Stargod",
+        "url": "https://open.spotify.com/album/1FImx4muj0n0HZO14X5blQ"
+      },
+      "artists": [
+        {
+          "name": "Astronoid",
+          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Depressed Mode",
+      "url": "https://open.spotify.com/track/26qP1rNOOIyzykzWJad4gO"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
+        "name": "MelancHoly",
+        "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
+      },
+      "artists": [
+        {
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "MelancHoly",
+      "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
         "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
         "url": "https://open.spotify.com/album/52eVUmr6MWQ9cN4amcZnJh"
       },
@@ -1971,18 +1987,18 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "MelancHoly",
-        "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
+        "name": "Prodigy",
+        "url": "https://open.spotify.com/album/6FWDWarcehRMqCmuyw6vtq"
       },
       "artists": [
         {
-          "name": "Swallow The Sun",
-          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
+          "name": "Eidola",
+          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
         }
       ],
-      "duration_ms": 218000,
-      "name": "MelancHoly",
-      "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
+      "duration_ms": 253416,
+      "name": "The Faustian Spirit",
+      "url": "https://open.spotify.com/track/7IoL8W4eJK5NWatfWv4Ei5"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1999,22 +2015,6 @@
       "duration_ms": 335426,
       "name": "Of Death",
       "url": "https://open.spotify.com/track/6C6vM7g7l4pytVTAT4sIzz"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
-        "name": "Prodigy",
-        "url": "https://open.spotify.com/album/6FWDWarcehRMqCmuyw6vtq"
-      },
-      "artists": [
-        {
-          "name": "Eidola",
-          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
-        }
-      ],
-      "duration_ms": 253416,
-      "name": "The Faustian Spirit",
-      "url": "https://open.spotify.com/track/7IoL8W4eJK5NWatfWv4Ei5"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Traverse The Bealach",
-        "url": "https://open.spotify.com/album/4kYj0QKl8LsfhFuLwMJx3P"
-      },
-      "artists": [
-        {
-          "name": "Sg\u00e0ile",
-          "url": "https://open.spotify.com/artist/0kTaZFlAaJlbEkeNTjOYe1"
-        }
-      ],
-      "duration_ms": 562000,
-      "name": "Lamentations By The Lochan",
-      "url": "https://open.spotify.com/track/4fKscys0eDaqU6K3KCF2en"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 270344,
       "name": "Envy",
       "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Traverse The Bealach",
+        "url": "https://open.spotify.com/album/4kYj0QKl8LsfhFuLwMJx3P"
+      },
+      "artists": [
+        {
+          "name": "Sg\u00e0ile",
+          "url": "https://open.spotify.com/artist/0kTaZFlAaJlbEkeNTjOYe1"
+        }
+      ],
+      "duration_ms": 562000,
+      "name": "Lamentations By The Lochan",
+      "url": "https://open.spotify.com/track/4fKscys0eDaqU6K3KCF2en"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Spirit Corrosion",
-        "url": "https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR"
-      },
-      "artists": [
-        {
-          "name": "Nailed to Obscurity",
-          "url": "https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ"
-        }
-      ],
-      "duration_ms": 317706,
-      "name": "Spirit Corrosion",
-      "url": "https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Hotel Sphinx",
         "url": "https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 289466,
       "name": "Hotel Sphinx",
       "url": "https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Spirit Corrosion",
+        "url": "https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR"
+      },
+      "artists": [
+        {
+          "name": "Nailed to Obscurity",
+          "url": "https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ"
+        }
+      ],
+      "duration_ms": 317706,
+      "name": "Spirit Corrosion",
+      "url": "https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk"
     },
     {
       "added_at": "2026-11-20 05:02:04",

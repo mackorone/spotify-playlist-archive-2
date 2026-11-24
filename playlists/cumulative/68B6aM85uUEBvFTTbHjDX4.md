@@ -4,7 +4,7 @@
 
 > 
 
-178 songs - 14 hr 25 min
+179 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Endorphins \- Sub Focus Vs\. Fred V & Grafix Remix](https://open.spotify.com/track/7IvgViHYDXeWa2CILskhUX) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl), [N Douwma](https://open.spotify.com/artist/6GskrsOe5wAKXOgRfpsIM7), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY) | [Endorphins](https://open.spotify.com/album/14HygQjdmJBRk3qFTLDtRB) | 4:35 | 2018-11-29 |  |
 | [Euphoria](https://open.spotify.com/track/1k7W7ks8nGs0k6sDNrDP6V) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [The Basement EP](https://open.spotify.com/album/1TWj1SbWNXnkx5TDGi74xF) | 4:42 | 2025-01-12 |  |
 | [Everyday \- Netsky Remix](https://open.spotify.com/track/5s0dPzEGFSuXlQxTrxIWYa) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Everyday](https://open.spotify.com/album/1o8qbzCCaKMCqjbGvGj17p) | 4:11 | 2018-09-19 |  |
+| [Exodus](https://open.spotify.com/track/3LdaUlDrb7Wuwkrjc4ilim) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Exodus](https://open.spotify.com/album/5bjvzQlggZ0QMHNGEkTLHG) | 6:20 | 2026-11-23 |  |
 | [Eyes Closed](https://open.spotify.com/track/13xDNcUNMt4L9y6ckxeQJ1) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Eyes Closed](https://open.spotify.com/album/2veUMliI1AoMvBHxygyYIl) | 6:19 | 2018-12-23 |  |
 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 | 2024-10-15 |  |
 | [Feel It](https://open.spotify.com/track/2lLwkWjsdCZ7CcQu5f01LF) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 4:18 | 2023-11-17 |  |

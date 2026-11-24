@@ -43395,6 +43395,24 @@
     },
     {
       "album": {
+        "name": "strange!",
+        "url": "https://open.spotify.com/album/3dCR2wuIZsgHtpRSaicUlt"
+      },
+      "artists": [
+        {
+          "name": "Wavediffraction",
+          "url": "https://open.spotify.com/artist/76q0NXdh3xAMgtSVhmpHpd"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134293,
+      "name": "strange!",
+      "url": "https://open.spotify.com/track/1ghrdMu33eFpiGQlxEm4kW"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/31UKGuwhErFbhQcPDBJde2"
       },

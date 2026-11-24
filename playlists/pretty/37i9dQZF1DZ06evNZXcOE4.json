@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 45269,
+  "num_followers": 45270,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAACq74m9PapnQH39PB73iOwi",
+  "snapshot_id": "awIwgAAAAAArM+gz+wMr2W0sTEJBh3UX",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 225240,
-      "name": "Had a Dad",
-      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
+      "duration_ms": 181000,
+      "name": "Up the Beach",
+      "url": "https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv"
     },
     {
       "added_at": null,
@@ -340,15 +340,15 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Up the Beach",
-      "url": "https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv"
+      "duration_ms": 225240,
+      "name": "Had a Dad",
+      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kettle Whistle",
-        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
+        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 263266,
-      "name": "My Cat's Name Is Maceo - Demo",
-      "url": "https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY"
+      "duration_ms": 326520,
+      "name": "Sympathy for the Devil - from Sons of Anarchy",
+      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
-        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 326520,
-      "name": "Sympathy for the Devil - from Sons of Anarchy",
-      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
+      "duration_ms": 263266,
+      "name": "My Cat's Name Is Maceo - Demo",
+      "url": "https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 269490,
-      "name": "Curiosity Kills",
-      "url": "https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN"
+      "duration_ms": 313773,
+      "name": "Splash A Little Water On It",
+      "url": "https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 313773,
-      "name": "Splash A Little Water On It",
-      "url": "https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU"
+      "duration_ms": 269490,
+      "name": "Curiosity Kills",
+      "url": "https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN"
     },
     {
       "added_at": null,

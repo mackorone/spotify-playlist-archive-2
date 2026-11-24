@@ -4720,7 +4720,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 349180,
       "name": "Le Royal",
       "url": "https://open.spotify.com/track/1h0uxbGd0vEwFzu80A3ufy"
@@ -7554,6 +7554,32 @@
       "duration_ms": 453000,
       "name": "Safe",
       "url": "https://open.spotify.com/track/2qb2Svkc5FG0ecNIPTJQom"
+    },
+    {
+      "album": {
+        "name": "Sambei",
+        "url": "https://open.spotify.com/album/2oOLdS4cNXCbq0uL88uo8e"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Aycond",
+          "url": "https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO"
+        },
+        {
+          "name": "NOTHANKYOU",
+          "url": "https://open.spotify.com/artist/2AkhbWjrUG6Jy1ZER7r4H6"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Sambei",
+      "url": "https://open.spotify.com/track/3BDeauNFdBEzgWjavf6cG3"
     },
     {
       "album": {

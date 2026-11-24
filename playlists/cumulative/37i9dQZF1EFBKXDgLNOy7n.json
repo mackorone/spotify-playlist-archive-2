@@ -1621,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "The Ultimate Celtic Album",
+        "url": "https://open.spotify.com/album/3saY0UotfunZVXnKI5VCJB"
+      },
+      "artists": [
+        {
+          "name": "and The Celtic Chorus",
+          "url": "https://open.spotify.com/artist/6Uz69lG9SCEiaaI9xwI6DO"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "Tomorrow Belongs To Me",
+      "url": "https://open.spotify.com/track/38MMl0VlB55rOdiE4D9dtP"
+    },
+    {
+      "album": {
         "name": "Red Roses for Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/34iDTYlDC64HeosvJQ3VhK"
       },

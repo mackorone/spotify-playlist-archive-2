@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-629 songs - 1 day 7 hr 27 min
+630 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [I Used To Play It By Ear](https://open.spotify.com/track/0hEAxtcYcVAHhgTgUY5qhn) | [Terry Bibb](https://open.spotify.com/artist/1MHluX6flXw1N5aiQ1nbbc), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 4:22 | 2024-07-26 |  |
 | [I Want to Go Back to Michigan \(Down on the Farm\) \[from "Easter Parade"\] \- 2022 Remaster](https://open.spotify.com/track/5y4YzZyXMTV6LUdv4JZUv7) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland: Recordings from the M\-G\-M Films \(Motion Picture Soundtrack Anthology\)](https://open.spotify.com/album/1DbHFCl4DYYi58SI3NCBwh) | 2:35 | 2024-07-26 | 2026-08-19 |
 | [I Was Aviating Around](https://open.spotify.com/track/3ejxdkEDSvrxF1H1q8C1Lu) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:16 | 2024-07-26 |  |
+| [I Wish You A Merry Christmas \- Remastered 2006](https://open.spotify.com/track/1lkhGcjgLCr9StHHYXMyuK) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Christmas Favorites](https://open.spotify.com/album/6DucV4tdf2hl4oPEYb7ukX) | 1:54 | 2026-11-23 |  |
 | [I'd Like My Picture Took](https://open.spotify.com/track/6aRFiI6NFxaV6zqoY91D19) | [Mary McCarty](https://open.spotify.com/artist/5mXaliNxEelBY7lt36lCkj) | [Miss Liberty \- Original Broadway Cast](https://open.spotify.com/album/2eM7yV7cIQIlP1xDrUrnyh) | 1:04 | 2024-07-26 | 2026-07-02 |
 | [I'd Rather Lead A Band](https://open.spotify.com/track/0kOgm50ilnISAWkfQ4lGXu) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Top Hat: Hits From Hollywood](https://open.spotify.com/album/7g2TJ6XllrcHOMS74ntDk7) | 2:27 | 2026-08-06 |  |
 | [I'd Rather Lead a Band](https://open.spotify.com/track/0j8EXJ1hD5P7ENWkicVud4) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/6c9s5OiVL6l0aM1z67K3uR) | 2:30 | 2025-08-21 | 2026-05-14 |
@@ -408,7 +409,7 @@
 | [Road To Zion](https://open.spotify.com/track/2KaKrUztUkKKy3HvWEYfsL) | [Furkan Kaya](https://open.spotify.com/artist/2XyUIftPSTikAWRwfmtzMG) | [Road To Zion](https://open.spotify.com/album/0X4QFev4ptMpTVn7WcCZaB) | 3:25 | 2026-04-05 | 2026-11-05 |
 | [Roof Garden \- Drum Crazy Reprise](https://open.spotify.com/track/4DZ40512IFfVjjK7Xf6V3O) | [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 1:06 | 2024-07-26 |  |
 | [Roses Of Yesterday](https://open.spotify.com/track/2TEa83m2lXEvfspv1Iy8nh) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:53 | 2025-09-10 | 2026-03-21 |
-| [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/7F4OElE6R7V7sL5QuJcIkR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Weihnachtshits \- Dean Martin](https://open.spotify.com/album/02xH1wNCCV73L7fJ9cj7jP) | 2:15 | 2026-11-21 |  |
+| [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/7F4OElE6R7V7sL5QuJcIkR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Weihnachtshits \- Dean Martin](https://open.spotify.com/album/02xH1wNCCV73L7fJ9cj7jP) | 2:15 | 2026-11-21 | 2026-11-24 |
 | [Rudolph, The Red\-Nosed Reindeer \(Remastered\)](https://open.spotify.com/track/2k8xuykVaFWOHza1qwOzyD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance \(Remastered Edition\)](https://open.spotify.com/album/2Ryu8AYeEeqpCv0z2SZ241) | 2:15 | 2026-10-25 | 2026-11-05 |
 | [Russian Lullaby](https://open.spotify.com/track/5GF6BOThUFb688QZimU4w8) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [ToyRide](https://open.spotify.com/album/6tYcylH47lYDDaLpZao5Sc) | 3:17 | 2026-10-19 |  |
 | [S Wonderful](https://open.spotify.com/track/2IYGMvHtyXgaS8sOr73woD) | [Jazz Players](https://open.spotify.com/artist/4pbQ3zvr3psUdWXteE6rLH) | [1920s Jazz: Sweet Georgia Brown](https://open.spotify.com/album/2oGLs5TXzAWBLynybH13xI) | 1:36 | 2024-07-26 | 2026-02-20 |

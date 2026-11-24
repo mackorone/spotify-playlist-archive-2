@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 75553,
       "name": "Click Alert",
       "url": "https://open.spotify.com/track/6NYtV32dC0MLa56UzXp6C0"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 61890,
       "name": "Die Adresse hierzu",
       "url": "https://open.spotify.com/track/6zIjImxhmBmr7onw2ijCTX"
@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Verity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112613,
+      "name": "On The Lake",
+      "url": "https://open.spotify.com/track/03zwNpDroo5EgUdr6nX3RL"
+    },
+    {
+      "album": {
         "name": "23,000 Leben (Soundtrack des Netflix Films)",
         "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
       },
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 67518,
       "name": "Route of Fear",
       "url": "https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 122694,
       "name": "Seal the Room",
       "url": "https://open.spotify.com/track/6DuQ7ojvl1RTLbsguBQaCO"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 155124,
       "name": "Taking Action & Striking Back",
       "url": "https://open.spotify.com/track/3feV7EMmrZAUGNoOEEg4gC"

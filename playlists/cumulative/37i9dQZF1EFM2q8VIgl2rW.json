@@ -619,6 +619,28 @@
     },
     {
       "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167940,
+      "name": "Dark Sea",
+      "url": "https://open.spotify.com/track/5UuFnu4GKKP79yL6nsiHMJ"
+    },
+    {
+      "album": {
         "name": "Finding Nemo: The Musical",
         "url": "https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC"
       },
@@ -688,7 +710,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 295189,
       "name": "Das Schiff",
       "url": "https://open.spotify.com/track/2hiCN9Sjktc9dHPSPLZ7NW"
@@ -732,11 +754,15 @@
         {
           "name": "Katie Lopez",
           "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 206506,
       "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
@@ -766,7 +792,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 208200,
       "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7gllW0vIqYgo4ubmRmrhZS"
@@ -868,7 +894,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 167940,
       "name": "Dunkelmeer",
       "url": "https://open.spotify.com/track/1p6glEGo093ORz9YtBV2MQ"
@@ -1371,28 +1397,6 @@
     },
     {
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "date_added": "2024-07-26",
-      "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
-      "duration_ms": 225080,
-      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
-    },
-    {
-      "album": {
         "name": "Disney Love Songs",
         "url": "https://open.spotify.com/album/1ClNru8BFtdeF3L10UmfhK"
       },
@@ -1412,10 +1416,36 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 225080,
       "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2k4iD2qFZ0HuyJBEeTrTgl"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
     },
     {
       "album": {
@@ -1536,7 +1566,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 178148,
       "name": "Geister der Vergangenheit",
       "url": "https://open.spotify.com/track/6KKeuIQEgsNT9yNu1WMmT5"
@@ -1606,10 +1636,36 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 226920,
       "name": "Get This Right - Outtake",
       "url": "https://open.spotify.com/track/25vrnWJ7pu5gzvQ1jxPp34"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226920,
+      "name": "Get This Right - Outtake",
+      "url": "https://open.spotify.com/track/401xthyxSHv4raI9NCGgr3"
     },
     {
       "album": {
@@ -1628,6 +1684,28 @@
       "duration_ms": 178148,
       "name": "Ghosts of Arendelle Past",
       "url": "https://open.spotify.com/track/6HlNGbIOX03DZPGIoE9NDd"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178148,
+      "name": "Ghosts of Arendelle Past",
+      "url": "https://open.spotify.com/track/6Li70cXfPXCIxl8tSidUcz"
     },
     {
       "album": {
@@ -1720,6 +1798,28 @@
       "duration_ms": 223972,
       "name": "Gone Too Far",
       "url": "https://open.spotify.com/track/0W30qHl7Uze6FIK9ILUfEe"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223972,
+      "name": "Gone Too Far",
+      "url": "https://open.spotify.com/track/1iR7tzfJiPtraDTTyIkIvt"
     },
     {
       "album": {
@@ -1998,10 +2098,32 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 176865,
       "name": "Home - Outtake",
       "url": "https://open.spotify.com/track/3ecGgl03V5uETHIOSuIXkt"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176865,
+      "name": "Home - Outtake",
+      "url": "https://open.spotify.com/track/6YM4DsQki1UdQSrTGlanVH"
     },
     {
       "album": {
@@ -2350,10 +2472,36 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 241534,
       "name": "I Seek the Truth - Outtake",
       "url": "https://open.spotify.com/track/3FLM6gceaGh4TI9yTtIGec"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Patti Murin",
+          "url": "https://open.spotify.com/artist/4wWuKGRcPwVaItabLxnObP"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241534,
+      "name": "I Seek the Truth - Outtake",
+      "url": "https://open.spotify.com/track/6Rvh5eOFXDPAGAadIfsSLw"
     },
     {
       "album": {
@@ -2427,6 +2575,32 @@
     },
     {
       "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Cast of Frozen 2",
+          "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277171,
+      "name": "Iduna's Scarf",
+      "url": "https://open.spotify.com/track/2lkUgZX55tVYY7u02zYH7x"
+    },
+    {
+      "album": {
         "name": "Frozen 2 (Originele Nederlandstalige Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/3kL8E8BhaivWmyOjnms0gl"
       },
@@ -2489,6 +2663,28 @@
     },
     {
       "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110986,
+      "name": "In Summer - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7bG6SQBGZthPDG5QJL5Gf7"
+    },
+    {
+      "album": {
         "name": "Disney Summer Songs",
         "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
@@ -2504,7 +2700,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 114266,
       "name": "In Summer - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5Mhe4bhcStvCgpuar6cBLU"
@@ -2568,11 +2764,15 @@
         {
           "name": "AURORA",
           "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
@@ -2594,7 +2794,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 194866,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/4TgRvKKOALsTpCNL88jylo"
@@ -2637,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59586,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/3PYgUmM7AzwGG6Qfurk0TP"
+    },
+    {
+      "album": {
         "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
       },
@@ -2652,7 +2874,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 59586,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/3bKrv0iUs9pUCRGYKJbFDX"
@@ -2934,7 +3156,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 277171,
       "name": "Le ch\u00e2le d'Iduna",
       "url": "https://open.spotify.com/track/2HiR6Axa5JKao5ccCJDK2D"
@@ -3036,11 +3258,15 @@
         {
           "name": "Jonathan Groff",
           "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 180762,
       "name": "Lost in the Woods",
       "url": "https://open.spotify.com/track/7namdlOhbtsc8FvoSafOQt"
@@ -3062,7 +3288,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 180760,
       "name": "Lost in the Woods - From \"Frozen 2\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3UQtRPwQcYLT0ErH6B8Dkm"
@@ -3113,6 +3339,32 @@
     },
     {
       "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Santino Fontana",
+          "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124733,
+      "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq"
+    },
+    {
+      "album": {
         "name": "Disney Summer Songs",
         "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
@@ -3132,7 +3384,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 127133,
       "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5ufE60D3rxtqP7xLrL4AEL"
@@ -3883,6 +4135,44 @@
     },
     {
       "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Cast of Frozen 2",
+          "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209964,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK"
+    },
+    {
+      "album": {
         "name": "Disney Love Songs",
         "url": "https://open.spotify.com/album/1ClNru8BFtdeF3L10UmfhK"
       },
@@ -3948,7 +4238,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 209964,
       "name": "Some Things Never Change - From \"Frozen 2\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6s9eRp2cduUNhuDhs3XHPp"
@@ -4553,6 +4843,28 @@
     },
     {
       "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295189,
+      "name": "The Ship",
+      "url": "https://open.spotify.com/track/4KdrgmXjJ29AsCjE6x1qr3"
+    },
+    {
+      "album": {
         "name": "WandaVision: Episode 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/130DD1WPUCsr30RKqAmiQI"
       },
@@ -4993,6 +5305,28 @@
     },
     {
       "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85306,
+      "name": "Unmeltable Me - Outtake",
+      "url": "https://open.spotify.com/track/09MvGKcju2jf2ktxDa0s17"
+    },
+    {
+      "album": {
         "name": "Die Eisk\u00f6nigin 2 (Deutscher Original Film-Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CP1NmBBc7h88ypESIJdqD"
       },
@@ -5008,7 +5342,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 85306,
       "name": "Unmeltable Me - Outtake",
       "url": "https://open.spotify.com/track/6LMzngBmH9gIQUqi8xkZJc"
@@ -5706,7 +6040,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 223972,
       "name": "Zu weit gegangen",
       "url": "https://open.spotify.com/track/1AeT98btXmpikRPlb45fLG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Helen Ochoa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,295 likes - 76 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,218 likes - 76 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 75 | [Mirar La Luna](https://open.spotify.com/track/09fQPypTWpF3lsNj6zp74o) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mirar La Luna](https://open.spotify.com/album/5LyIL8ZVFNfJMReUfVgCNS) | 3:06 |
 | 76 | [En Donde Estaras](https://open.spotify.com/track/3WkQQZeiq4pOd1uPvB60wg) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [SUEÑOS](https://open.spotify.com/album/09JTInfq4uGtGCdLuEqM2r) | 3:02 |
 
-Snapshot ID: `AAAAAFoIwvXqMVKDMfddjw0PBBlYSCB4`
+Snapshot ID: `AAAAACS1rBt8sV5fCMgdgIzbwQroKGSE`

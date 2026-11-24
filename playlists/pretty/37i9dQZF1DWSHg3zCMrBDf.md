@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: Kofi Mole
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,922 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,958 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [Cold](https://open.spotify.com/track/37hUGd9DPyMkKrH9LC5ei0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Cold](https://open.spotify.com/album/7rDGmSgMm2VqVhnvcZP5v2) | 2:38 |
 | 50 | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9) | 3:00 |
 
-Snapshot ID: `AAAAAMBNEY40tb817FVVrbdMxF1Oew4D`
+Snapshot ID: `AAAAAPhQ1lOBm7wPOz6tHAO5DAnxOrES`

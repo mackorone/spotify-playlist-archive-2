@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,264,029 likes - 101 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,037 likes - 101 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 18 | [Don't Get Caught Up](https://open.spotify.com/track/42ynIze2EeqG2WVE69UaTA) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Don't Get Caught Up](https://open.spotify.com/album/43JIAiSAckfHAEKUxudGTk) | 1:55 |
 | 19 | [real ONE\. ft\. EST GEE.](https://open.spotify.com/track/4JuqDKAypioaAjG0tWV0UL) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [everything i said i am\. / everything she said she is.](https://open.spotify.com/album/49Cx6ll4BOruqwiHoPVcIj) | 2:19 |
 | 20 | [Can't Trust](https://open.spotify.com/track/2Vel50PdtBOMB6BbDyMBlj) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Can't Trust](https://open.spotify.com/album/5ovRIijO2Xo5UkhO0Z1yrN) | 2:10 |
-| 21 | [Bread & Butter](https://open.spotify.com/track/6BZbPxXO7QQDF6iZt4uno9) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Bread & Butter](https://open.spotify.com/album/7E60Kx1KYlqiCFBcLonZeV) | 2:10 |
+| 21 | [Bread & Butter](https://open.spotify.com/track/6BZbPxXO7QQDF6iZt4uno9) | [DJ Scream](https://open.spotify.com/artist/45h71dCVZaNAqP3YwQH6ER), [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Bread & Butter](https://open.spotify.com/album/7E60Kx1KYlqiCFBcLonZeV) | 2:10 |
 | 22 | [Chow Time](https://open.spotify.com/track/081VCB0f8mFOYZ10fTsJVt) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Chow Time](https://open.spotify.com/album/1rzN1bC1MePNyVg3YPkYkY) | 2:11 |
 | 23 | [How I'm Livin](https://open.spotify.com/track/4k6sLrwnabcM6AiUza1qKb) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [How I'm Livin](https://open.spotify.com/album/1mTJ5Jmy46rCks40bI24bv) | 1:54 |
 | 24 | [Tellin Ya](https://open.spotify.com/track/6MRyg0OtEAjrPFjpiZAljb) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [GOOD DOPE SELL ITSELF](https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm) | 2:32 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 55 | [Intro](https://open.spotify.com/track/1ulcnjDqL2iJKqEteiMmkt) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Intro](https://open.spotify.com/album/1SH4HVfGORmSVbQCrVWVwj) | 3:08 |
 | 56 | [Feed the Streets](https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Feed the Streets](https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN) | 2:58 |
 | 57 | [It Is What It Is \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/3yrUd6WRBI9SUeNmCY0zXr) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It Is What It Is \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/album/4bJiDi7t7dHoxKqajnzIXs) | 2:39 |
-| 58 | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [YS](https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [Rosecrans HopOut](https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M), [PHOPHO8IGHT](https://open.spotify.com/artist/43exFSfUqMqp3nlCLSQVwu) | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/album/6ZV8jcdIqNa0py7I6w1UzT) | 3:47 |
+| 58 | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Rosecrans HopOut](https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M), [YS](https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN), [PHOPHO8IGHT](https://open.spotify.com/artist/43exFSfUqMqp3nlCLSQVwu), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI) | [Gang Gang \(feat\. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3\)](https://open.spotify.com/album/6ZV8jcdIqNa0py7I6w1UzT) | 3:47 |
 | 59 | [Be On](https://open.spotify.com/track/2ykcSjGvHFFGEmbZqoqUd6) | [Da Getta](https://open.spotify.com/artist/6qGobCRXLoUuJ0LoH6zKQV), [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb) | [Be On](https://open.spotify.com/album/62ja5vKGzjq26hFxWNzEEJ) | 1:58 |
 | 60 | [Pills \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2zdcIatMRVWqbYshX4nIR7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:56 |
 | 61 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 101 | [Motion](https://open.spotify.com/track/6tXYuvwZnIuTMnN9QoMw3Z) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:00 |
 
-Snapshot ID: `AAAAAHukbXZn7x/zjltHcmoMLGRw9rQt`
+Snapshot ID: `AAAAAH/51iObTbWdZy9eNe3obKBp4j7G`

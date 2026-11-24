@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Lauri Haav, pehmoaino, Axel Kala & Dw..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,298 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,291 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 73 | [typeshi\_ouioui](https://open.spotify.com/track/3gJCRcg8F4lJUjkURE9rUK) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [typeshi\_ouioui](https://open.spotify.com/album/32QPShlEAvdtrfoATJNmmr) | 2:36 |
 | 74 | [Be The One](https://open.spotify.com/track/7HcRDFPfKpiiixEvr1lT2X) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Be The One](https://open.spotify.com/album/3sq96tyDm5asCaRnmUzGVc) | 2:05 |
 
-Snapshot ID: `AAAAAJz4+gach+MyF/XrE6zlvnKN+KfS`
+Snapshot ID: `AAAAAL7euX0UNy5kUVBrFo6CVUolzYVk`

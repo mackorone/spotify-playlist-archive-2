@@ -4,7 +4,7 @@
 
 > Lançamentos 100% rock brasileiro\. Foto: Nação Zumbi
 
-711 songs - 1 day 15 hr 41 min
+712 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [A Solução](https://open.spotify.com/track/78EuaQdCpwNwSvxqmQ3NnH) | [ocaradometal](https://open.spotify.com/artist/0t6psNf8w3CrGV64hyLjtK), [HeavyFuture](https://open.spotify.com/artist/4G217StpHjdclmtzE4Jxzw) | [A Solução](https://open.spotify.com/album/54C2e0EDNrsO6hAnUfVM45) | 6:00 | 2023-01-20 | 2025-02-15 |
 | [A Tentação](https://open.spotify.com/track/1JQh39vGGVpP03E8Fomwbo) | [Orbtao](https://open.spotify.com/artist/0YdpMujOaWAFADHmO9mpED) | [A Tentação](https://open.spotify.com/album/1h730Kv5uJpuTPp4SCXoF0) | 2:34 | 2022-03-18 | 2022-04-16 |
 | [A Vida Começa Agora](https://open.spotify.com/track/7iYEnF8fvgq4gOygATtSQg) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [A Vida Começa Agora](https://open.spotify.com/album/0Kxejo9QpudJg4ntHbAhhx) | 2:50 | 2025-02-21 | 2026-08-15 |
+| [A Vida é Guerra](https://open.spotify.com/track/399y5Iw33ixMFqOGYst4Hc) | [Nação Zumbi](https://open.spotify.com/artist/4Va55p3P2P96lIgzntievo) | [Outro Carnaval](https://open.spotify.com/album/1Ase1oFim6beTg29KJss2b) | 3:45 | 2026-11-23 |  |
 | [A Volta](https://open.spotify.com/track/1MyWIvkVvahDc7ifLKG8iZ) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [A Volta](https://open.spotify.com/album/29RHpQagn2LRkxffMEPQdb) | 5:00 | 2022-01-14 | 2022-09-03 |
 | [A Véia do Zap](https://open.spotify.com/track/5lIpVsXx6Hw429gbJ2XGyD) | [Merda](https://open.spotify.com/artist/3pz6yF6H8Q6HGEEKsEktOK) | [A Véia do Zap](https://open.spotify.com/album/6aiTIGX2hKWXtWjUfnkGR3) | 1:02 | 2024-04-19 | 2024-06-01 |
 | [A Águia e o Falcão](https://open.spotify.com/track/0N7a4B63UjubmKOBCAyj08) | [Yahoo](https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM) | [Yahoo 25](https://open.spotify.com/album/04BxROcYindfxOFgdBTHik) | 4:55 | 2022-04-22 | 2022-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,202 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,199 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 99 | [Really Into You](https://open.spotify.com/track/6qs2mtkEUfTGAiNB4WqVsr) | [i\-COAST](https://open.spotify.com/artist/5pE7gWEZDFqXuXOoMji8vB) | [Really Into You](https://open.spotify.com/album/5nfciwr9LoDodsquTVSYxk) | 3:50 |
 | 100 | [Only One](https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Only One](https://open.spotify.com/album/5hyb010Cm1neU0k5l4zdSl) | 3:13 |
 
-Snapshot ID: `AAAAAJt/uj9KpJS1sceXNMsxClW+PK2t`
+Snapshot ID: `AAAAAH/Yewp//8UBJmHK2oPHEv/XnPDA`

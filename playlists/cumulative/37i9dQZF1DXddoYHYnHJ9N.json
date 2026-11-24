@@ -581,6 +581,46 @@
     },
     {
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "album": {
+        "name": "Boh\u00f3caut\u00f3",
+        "url": "https://open.spotify.com/album/0RO8YXAiKN8kQYsuPJQWNU"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263341,
+      "name": "Boh\u00f3caut\u00f3",
+      "url": "https://open.spotify.com/track/6UriJ0x7VM0llmdijoNPkQ"
+    },
+    {
+      "album": {
         "name": "Boldogtalans\u00e1g",
         "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
       },
@@ -918,7 +958,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 220080,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
@@ -1554,6 +1594,40 @@
       "duration_ms": 170967,
       "name": "FLESS",
       "url": "https://open.spotify.com/track/2SYOjGmLH8lGvlE85oNX3Y"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -2787,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "MENT\u0150",
+        "url": "https://open.spotify.com/album/09M7D1nq0YGa1BmY1D7f3d"
+      },
+      "artists": [
+        {
+          "name": "Szilver",
+          "url": "https://open.spotify.com/artist/4XsRVYfQgld2414XL85ApN"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147073,
+      "name": "MENT\u0150",
+      "url": "https://open.spotify.com/track/6fLDTiIXXLdJvxKIdVE3hb"
+    },
+    {
+      "album": {
         "name": "MEREDEK",
         "url": "https://open.spotify.com/album/5cphGJqxt3YRyPhbvFAbfs"
       },
@@ -3010,7 +3102,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 171665,
       "name": "NEM \u00c9RI MEG",
       "url": "https://open.spotify.com/track/3q5jY2ojaqWSruLalNfS5b"
@@ -4596,7 +4688,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 220645,
       "name": "sz\u00e1zszor szebb",
       "url": "https://open.spotify.com/track/67su54MiiEDTCbnQQMVL18"
@@ -5334,7 +5426,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 146581,
       "name": "vrumm",
       "url": "https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw"

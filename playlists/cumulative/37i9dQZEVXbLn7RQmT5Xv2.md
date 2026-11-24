@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,299 songs - 3 day 4 hr 35 min
+1,300 songs - 3 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-12-04 | 2023-12-06 |
 | [Helaf El Amar](https://open.spotify.com/track/5L2ELXkO17Iu9J8hwMktVJ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [El Hawa Sultan Rare Recordings](https://open.spotify.com/album/4nYGZNrAnVp5Wk0bRLd6Cm) | 6:36 | 2026-04-02 | 2026-04-04 |
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-13 |
-| [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 | 2025-08-01 |  |
+| [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 | 2025-08-01 | 2026-11-24 |
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2021-03-27\* | 2021-12-02 |
 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 | 2026-03-21 | 2026-03-23 |
 | [HOSS](https://open.spotify.com/track/5JXzcZBkizj6fFjPHpeV1N) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:00 | 2023-04-26 | 2023-06-04 |
@@ -600,7 +600,7 @@
 | [Msh Bel 7ozoz \- مش بالحظوظ](https://open.spotify.com/track/4K2VD5qMwcjIsLFYtrrQDz) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Msh Bel 7ozoz \- مش بالحظوظ](https://open.spotify.com/album/16LvDWQIgcbs4yc9pzxDW3) | 3:20 | 2021-05-22 | 2022-03-01 |
 | [Msh Da Elle Ekhtarto](https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Msh Da Elle Ekhtarto](https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG) | 3:02 | 2023-02-11 | 2023-04-20 |
 | [Msh Fair](https://open.spotify.com/track/1JdRPaDFswfqCpAhBPKqUw) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Msh Fair](https://open.spotify.com/album/3CIm2qnP74RIoein82TmMs) | 3:50 | 2021-03-27\* | 2021-10-17 |
-| [Msh Fare2ly](https://open.spotify.com/track/1ioPKsnpJvlHtqwENYKL3m) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:44 | 2026-07-23 | 2026-11-23 |
+| [Msh Fare2ly](https://open.spotify.com/track/1ioPKsnpJvlHtqwENYKL3m) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:44 | 2026-07-23 |  |
 | [Msh Ha7el](https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Msh Ha7el](https://open.spotify.com/album/1wGtEA66lpU9sc4vPYx3oQ) | 4:00 | 2022-03-04 | 2022-03-11 |
 | [Msh Khalsa](https://open.spotify.com/track/0vV1KenVmpL0ErIUiwYNcv) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Msh Khalsa](https://open.spotify.com/album/1VZ8H9EtM9hRHB2wN798Ta) | 3:36 | 2021-12-28 | 2022-01-08 |
 | [Msh Kol Marra \(feat\. Nasser\)](https://open.spotify.com/track/3vMKJWo7J3ZbqQk9LFmjGm) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 3:40 | 2025-12-24 | 2026-01-02 |
@@ -846,7 +846,7 @@
 | [W El 7al Eh](https://open.spotify.com/track/5uz5RuH7joyHiwk17HXlOj) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/5QozLcTAMMizJNSl8G3iqA) | 2:59 | 2023-11-05 | 2023-11-07 |
 | [W El 7al Eh](https://open.spotify.com/track/6HeKAyGEX0EW0AvGTw1xgn) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/620iOLdLBpcOwoNxGIoe4f) | 2:59 | 2023-12-31 | 2024-01-12 |
 | [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2022-12-27 | 2023-11-04 |
-| [W lessa Yama](https://open.spotify.com/track/6t9HOLN8secOhGEBaqgEJ4) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [W lessa Yama](https://open.spotify.com/album/0LnOSZUBqJTOwnbPLK8lTn) | 4:45 | 2026-10-26 |  |
+| [W lessa Yama](https://open.spotify.com/track/6t9HOLN8secOhGEBaqgEJ4) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [W lessa Yama](https://open.spotify.com/album/0LnOSZUBqJTOwnbPLK8lTn) | 4:45 | 2026-10-26 | 2026-11-24 |
 | [W lessa Yama](https://open.spotify.com/track/795CQEQ8mgrrEXMwazznQ7) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [W lessa Yama](https://open.spotify.com/album/6cVdxAUMZqEbro8v8E4qeR) | 4:45 | 2025-05-13 | 2025-05-15 |
 | [Wahawi Ya Wahawi](https://open.spotify.com/track/0vCyEV4HN4knlClJe2H07m) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 5:12 | 2025-03-01 | 2026-02-21 |
 | [Wahdy](https://open.spotify.com/track/1OwzQclT2f3H8LoHmIG0eE) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Supernova](https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh) | 4:53 | 2026-08-05 | 2026-08-29 |
@@ -1285,6 +1285,7 @@
 | [وريتك الخير](https://open.spotify.com/track/2PLF2ROeHnF9k2CJ4hKCJ1) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وريتك الخير](https://open.spotify.com/album/5JteErMIA62KWKklfSlMIx) | 4:53 | 2025-03-02 | 2025-03-22 |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-10-22 | 2026-05-28 |
 | [وشوش مفبركه](https://open.spotify.com/track/1s3XxWKQe5yeTiCmtmnVDX) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [ايفا الايراني](https://open.spotify.com/artist/0CNw6MNbrkG3Vd6aSpHhA5) | [وشوش مفبركه](https://open.spotify.com/album/2SwQsR2WwWqvIQMrVwo53H) | 4:56 | 2025-09-10 | 2026-01-03 |
+| [وصل الغول](https://open.spotify.com/track/397l1G06taY9XKMPbrexY8) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [وصل الغول](https://open.spotify.com/album/4yQfi3hWVWmnyDo2UNMMuO) | 4:11 | 2026-11-23 |  |
 | [وضعي سامحلي اعيش اغامر](https://open.spotify.com/track/44mE0whpc13E703uRzq27d) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وضعي سامحلي اعيش اغامر](https://open.spotify.com/album/3FJ6UaXds8zalCCI4M6l4M) | 6:13 | 2025-01-30 | 2025-03-16 |
 | [وغلاوتك](https://open.spotify.com/track/1dVGCdJ4SibwgThXlUBU0l) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [عودوني](https://open.spotify.com/album/4SEg99wheVv2i68sMkNtIT) | 3:50 | 2024-05-06 | 2024-10-12 |
 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 | 2025-03-02 | 2025-09-23 |

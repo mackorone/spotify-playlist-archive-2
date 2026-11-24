@@ -532,7 +532,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 159600,
       "name": "Adam & Eve",
       "url": "https://open.spotify.com/track/7LayhRPJMFiJv2oiOHxlmH"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 225231,
       "name": "Barbershop",
       "url": "https://open.spotify.com/track/3rn4wJU9iM6BpIhZ5FNjPy"
@@ -4042,7 +4042,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 166250,
       "name": "Den Ehei Na Paei Pouthena",
       "url": "https://open.spotify.com/track/5arYIWlpbfmfM4PTEOn4pR"
@@ -4621,6 +4621,28 @@
     },
     {
       "album": {
+        "name": "MPASTARD0S",
+        "url": "https://open.spotify.com/album/7azjzKMvWGkorvqryUcr2h"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "DRAKOS",
+      "url": "https://open.spotify.com/track/4VE9u5CGKFqAcKUnXZGNMA"
+    },
+    {
+      "album": {
         "name": "Driver",
         "url": "https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg"
       },
@@ -4898,6 +4920,24 @@
       "duration_ms": 196402,
       "name": "Ekei Pou Ola Ginontai",
       "url": "https://open.spotify.com/track/4ybhHkG3yJLABv4jKE7M9o"
+    },
+    {
+      "album": {
+        "name": "Kardia Mou Min Anisihis",
+        "url": "https://open.spotify.com/album/2UKRPL80BtRbuwu4USdnxn"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307786,
+      "name": "Ekripsa To Prosopo Mou",
+      "url": "https://open.spotify.com/track/7uzhWOBl6kfItqAcHLhtFx"
     },
     {
       "album": {
@@ -5309,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Exo Vrei Ton Eauto Mou",
+        "url": "https://open.spotify.com/album/1WAV2AYeL8EPmBz4Dxby8s"
+      },
+      "artists": [
+        {
+          "name": "Stathis Xenos",
+          "url": "https://open.spotify.com/artist/5FeKhXptHU77W3PaUiehYf"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250091,
+      "name": "Exo Vrei Ton Eauto Mou",
+      "url": "https://open.spotify.com/track/2JPqgZOTt2Aq0amCROXyGM"
+    },
+    {
+      "album": {
         "name": "ExtraL (feat. Doechii)",
         "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
       },
@@ -5626,6 +5684,40 @@
       "duration_ms": 150480,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -6458,7 +6550,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 115400,
       "name": "GOURI",
       "url": "https://open.spotify.com/track/4tbwYf1pYmFPMuNnWu6C2k"
@@ -8115,6 +8207,24 @@
     },
     {
       "album": {
+        "name": "Hanome Giati Remvazo",
+        "url": "https://open.spotify.com/album/02xWNHXSHuSa0n7eAXGCW6"
+      },
+      "artists": [
+        {
+          "name": "Dimitra Galani",
+          "url": "https://open.spotify.com/artist/3nV0kq59WJOJRLNWpFR1m6"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Kalinihta",
+      "url": "https://open.spotify.com/track/5OZUVTVsRKOxBCxeW9P2Dy"
+    },
+    {
+      "album": {
         "name": "Arkham Asylum",
         "url": "https://open.spotify.com/album/5sNZUcnt4fo3nJj2bNQZws"
       },
@@ -8262,7 +8372,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 134857,
       "name": "Kantada",
       "url": "https://open.spotify.com/track/4LSgjA6nzvd4u5bCgyIBN4"
@@ -8984,6 +9094,24 @@
       "duration_ms": 180479,
       "name": "Liekinheitin",
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
+    },
+    {
+      "album": {
+        "name": "Life Is Real",
+        "url": "https://open.spotify.com/album/6nCS6TYUDZs3TIWSYhsWiE"
+      },
+      "artists": [
+        {
+          "name": "Dj Johnny By",
+          "url": "https://open.spotify.com/artist/1jMZDK4rsZD6GIf2XNwXo7"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336337,
+      "name": "Life Is Real",
+      "url": "https://open.spotify.com/track/70Ou8rph9E3tqebWIhn8T9"
     },
     {
       "album": {
@@ -10036,7 +10164,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 222048,
       "name": "Me Liga Logia",
       "url": "https://open.spotify.com/track/3YXFHZZRd2tzqMwsNx0cYv"
@@ -11732,7 +11860,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 137294,
       "name": "NON MI INNAMORER\u00d3",
       "url": "https://open.spotify.com/track/0nbjyJjpjkl75GvnPAEt3L"
@@ -12046,6 +12174,24 @@
       "duration_ms": 336000,
       "name": "OK!",
       "url": "https://open.spotify.com/track/3t6Ntsvnt9jx4LZ6mUX4w6"
+    },
+    {
+      "album": {
+        "name": "Ki Eimaste Akoma Zontanoi - 30 Chronia Diskografia",
+        "url": "https://open.spotify.com/album/6EqLfUqS44fpZdXPYscUmy"
+      },
+      "artists": [
+        {
+          "name": "Alkistis Protopsalti",
+          "url": "https://open.spotify.com/artist/514w90CKIw9w84Zh3NSNyA"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244093,
+      "name": "Ola Afta Pou Fovamai (How You Remind Me)",
+      "url": "https://open.spotify.com/track/3xASOJGRp4JYzevvWDS5Fs"
     },
     {
       "album": {
@@ -12651,6 +12797,28 @@
     },
     {
       "album": {
+        "name": "PAPAGALOS",
+        "url": "https://open.spotify.com/album/1GPHGCaLQNQhgwRxFSc4pb"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Gosei",
+          "url": "https://open.spotify.com/artist/59HgkH4dmqGMfeU3gjchR2"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "PAPAGALOS",
+      "url": "https://open.spotify.com/track/1q6B7Yav5vwU1X76FYXfgW"
+    },
+    {
+      "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
@@ -13238,6 +13406,24 @@
       "duration_ms": 202988,
       "name": "Poia Agapi",
       "url": "https://open.spotify.com/track/1RICxi5r3L6WLVYQ6xJF1n"
+    },
+    {
+      "album": {
+        "name": "I Skepsi Mou Mono",
+        "url": "https://open.spotify.com/album/4h9aPxqdFWACjbFTtx7goc"
+      },
+      "artists": [
+        {
+          "name": "Nikos Kourkoulis",
+          "url": "https://open.spotify.com/artist/3kbwxvBE3Xs422h7yApgWX"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277812,
+      "name": "Poia Eisai Esu",
+      "url": "https://open.spotify.com/track/0CQ9v9BGLXrJZ52ebyhj35"
     },
     {
       "album": {
@@ -14574,7 +14760,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 254579,
       "name": "Skoteine Mou Erota",
       "url": "https://open.spotify.com/track/2ne8nKFYuYTUnhsUAtELii"
@@ -16324,7 +16510,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 246906,
       "name": "Thelo Na Xehaso",
       "url": "https://open.spotify.com/track/02GX363JqkRo0mi80Dev0u"
@@ -17703,6 +17889,32 @@
     },
     {
       "album": {
+        "name": "WELCOME (feat. Eminem)",
+        "url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162412,
+      "name": "WELCOME (feat. Eminem)",
+      "url": "https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM"
+    },
+    {
+      "album": {
         "name": "What I Need",
         "url": "https://open.spotify.com/album/5G6QBfcTbR4Jqs3zeacHLJ"
       },
@@ -18160,7 +18372,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 238402,
       "name": "Xartines Agapes",
       "url": "https://open.spotify.com/track/5eXyQ14v1MmHQq58DEA8r6"
@@ -18633,6 +18845,28 @@
     },
     {
       "album": {
+        "name": "ZORO",
+        "url": "https://open.spotify.com/album/6t6bDv7wKWaO8bXnvZiNml"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200233,
+      "name": "ZORO",
+      "url": "https://open.spotify.com/track/3dXIOrX6ixec2EcZsGcsjw"
+    },
+    {
+      "album": {
         "name": "\u00c7a Je",
         "url": "https://open.spotify.com/album/4QGt0WuxrUHToQqaAR1tz5"
       },
@@ -18870,7 +19104,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 192875,
       "name": "\u039a\u0391\u03a4\u03a9 \u03a3\u03a4\u039f \u03a1\u0395\u039c\u0391 \u03a4\u039f \u0392\u0391\u0398\u03a5",
       "url": "https://open.spotify.com/track/7rcQt9Adfb2ggijiaZESrw"

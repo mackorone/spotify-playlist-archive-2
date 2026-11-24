@@ -1,12 +1,12 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Lo\u00efc Lafrance",
-  "num_followers": 10462,
+  "num_followers": 10463,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHjOWYAUrKYnPIHQ2rP168a3ltV8",
+  "snapshot_id": "AAAAALWiTwpVB/ktipeVLjaJR7QrBZ23",
   "tracks": [
     {
       "added_at": "2026-11-20 05:03:06",
@@ -411,26 +411,18 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Bizarre",
-        "url": "https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU"
+        "name": "Bon Enfant",
+        "url": "https://open.spotify.com/album/1P7IsjNlc4iV1uVnkswe7a"
       },
       "artists": [
         {
-          "name": "Thx4Crying",
-          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
-        },
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        },
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
+      "duration_ms": 270174,
+      "name": "Magie",
+      "url": "https://open.spotify.com/track/75bADfbznyB12DPm6Ggn2K"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -455,18 +447,26 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Bon Enfant",
-        "url": "https://open.spotify.com/album/1P7IsjNlc4iV1uVnkswe7a"
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/7CJeCJ9Y4pMuvgqK3fifyU"
       },
       "artists": [
         {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+          "name": "Thx4Crying",
+          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
+        },
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 270174,
-      "name": "Magie",
-      "url": "https://open.spotify.com/track/75bADfbznyB12DPm6Ggn2K"
+      "duration_ms": 168000,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
+        "name": "Coming After Me",
+        "url": "https://open.spotify.com/album/6Ry0vGwEoh4yK8axw0HeRn"
+      },
+      "artists": [
+        {
+          "name": "Starcrusher",
+          "url": "https://open.spotify.com/artist/7oBx2L5mOGWX6mAqXgc6lJ"
+        }
+      ],
+      "duration_ms": 239448,
+      "name": "Coming After Me",
+      "url": "https://open.spotify.com/track/7viap7qTgzOQMiV7vmNMCL"
+    },
+    {
+      "added_at": "2026-11-20 05:03:06",
+      "album": {
         "name": "Tigre et diesel",
         "url": "https://open.spotify.com/album/2SYQmPgnHQKQaNFFUDB59A"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 191213,
       "name": "Piste 1",
       "url": "https://open.spotify.com/track/01mnEMxeVCcPQAroyE6ZTM"
-    },
-    {
-      "added_at": "2026-11-20 05:03:06",
-      "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
-      },
-      "artists": [
-        {
-          "name": "Antoine Corriveau",
-          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Coming After Me",
-        "url": "https://open.spotify.com/album/6Ry0vGwEoh4yK8axw0HeRn"
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
       },
       "artists": [
         {
-          "name": "Starcrusher",
-          "url": "https://open.spotify.com/artist/7oBx2L5mOGWX6mAqXgc6lJ"
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
         }
       ],
-      "duration_ms": 239448,
-      "name": "Coming After Me",
-      "url": "https://open.spotify.com/track/7viap7qTgzOQMiV7vmNMCL"
+      "duration_ms": 254053,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "higher! higher! (for Paul)",
-        "url": "https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ"
-      },
-      "artists": [
-        {
-          "name": "nowhere else to be",
-          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
-        }
-      ],
-      "duration_ms": 168110,
-      "name": "higher! higher! (for Paul)",
-      "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
-    },
-    {
-      "added_at": "2026-11-20 05:03:06",
-      "album": {
         "name": "Living Light",
         "url": "https://open.spotify.com/album/3EPWOMRIcIkxkyUIKGFCjC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 213269,
       "name": "Living Light",
       "url": "https://open.spotify.com/track/0nzwzVPFrPRswVFYh5nGD6"
+    },
+    {
+      "added_at": "2026-11-20 05:03:06",
+      "album": {
+        "name": "higher! higher! (for Paul)",
+        "url": "https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ"
+      },
+      "artists": [
+        {
+          "name": "nowhere else to be",
+          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
+        }
+      ],
+      "duration_ms": 168110,
+      "name": "higher! higher! (for Paul)",
+      "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "half smile",
-        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
+        "name": "Le Roi de la montagne",
+        "url": "https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI"
       },
       "artists": [
         {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 228240,
-      "name": "half smile",
-      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
+      "duration_ms": 222375,
+      "name": "Le Roi de la montagne",
+      "url": "https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -855,34 +855,34 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Le Roi de la montagne",
-        "url": "https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI"
+        "name": "half smile",
+        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
         }
       ],
-      "duration_ms": 222375,
-      "name": "Le Roi de la montagne",
-      "url": "https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ"
+      "duration_ms": 228240,
+      "name": "half smile",
+      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
     },
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Darth Vapor",
-        "url": "https://open.spotify.com/album/4ITo43fKbywNwLHE6hEqBL"
+        "name": "Le vice et le culte",
+        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
       },
       "artists": [
         {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
         }
       ],
-      "duration_ms": 255965,
-      "name": "Darth Vapor",
-      "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
+      "duration_ms": 177212,
+      "name": "Le vice et le culte",
+      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Le vice et le culte",
-        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
+        "name": "Darth Vapor",
+        "url": "https://open.spotify.com/album/4ITo43fKbywNwLHE6hEqBL"
       },
       "artists": [
         {
-          "name": "zouz",
-          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
         }
       ],
-      "duration_ms": 177212,
-      "name": "Le vice et le culte",
-      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
+      "duration_ms": 255965,
+      "name": "Darth Vapor",
+      "url": "https://open.spotify.com/track/75u37R1IZGJ287WUWJmibo"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
+        "name": "Tourterelle",
+        "url": "https://open.spotify.com/album/74lT0WgjpACroYBDLoxYt3"
+      },
+      "artists": [
+        {
+          "name": "Adib Alkhalidey",
+          "url": "https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L"
+        }
+      ],
+      "duration_ms": 196297,
+      "name": "Tourterelle",
+      "url": "https://open.spotify.com/track/58v5rZGche1dBOT4149hAC"
+    },
+    {
+      "added_at": "2026-11-20 05:03:06",
+      "album": {
         "name": "virer doux",
         "url": "https://open.spotify.com/album/26b4AFbqEW5MNxICrUwwAl"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "M\u00e9t\u00e9ore",
-        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 137379,
-      "name": "M\u00e9t\u00e9ore",
-      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
-    },
-    {
-      "added_at": "2026-11-20 05:03:06",
-      "album": {
         "name": "// S1NN1NG //",
         "url": "https://open.spotify.com/album/471bjyIl2MncTwzZlVCIRa"
       },
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
+        "name": "M\u00e9t\u00e9ore",
+        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
+      },
+      "artists": [
+        {
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
+        }
+      ],
+      "duration_ms": 137379,
+      "name": "M\u00e9t\u00e9ore",
+      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
+    },
+    {
+      "added_at": "2026-11-20 05:03:06",
+      "album": {
         "name": "\u00c9ther",
         "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 255333,
       "name": "Lisbonne",
       "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
-    },
-    {
-      "added_at": "2026-11-20 05:03:06",
-      "album": {
-        "name": "Tourterelle",
-        "url": "https://open.spotify.com/album/74lT0WgjpACroYBDLoxYt3"
-      },
-      "artists": [
-        {
-          "name": "Adib Alkhalidey",
-          "url": "https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L"
-        }
-      ],
-      "duration_ms": 196297,
-      "name": "Tourterelle",
-      "url": "https://open.spotify.com/track/58v5rZGche1dBOT4149hAC"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Attendre - mstr 01",
-        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
+        "name": "Dans la seconde",
+        "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
       },
       "artists": [
         {
-          "name": "Jimmy Hunt",
-          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
         }
       ],
-      "duration_ms": 357013,
-      "name": "Attendre - mstr 01",
-      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
+      "duration_ms": 168853,
+      "name": "Parfaite \u00e0 l'\u00e9cran",
+      "url": "https://open.spotify.com/track/5pq3ofihmnROe8gCPrtCEA"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Dans la seconde",
-        "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
+        "name": "Attendre - mstr 01",
+        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
       },
       "artists": [
         {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Parfaite \u00e0 l'\u00e9cran",
-      "url": "https://open.spotify.com/track/5pq3ofihmnROe8gCPrtCEA"
+      "duration_ms": 357013,
+      "name": "Attendre - mstr 01",
+      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "BASS WOMB ROOM: My \u201890s 4-Track Demos x Field Recordings",
-        "url": "https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p"
-      },
-      "artists": [
-        {
-          "name": "Melissa Auf der Maur",
-          "url": "https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP"
-        }
-      ],
-      "duration_ms": 221587,
-      "name": "... And The Next Day",
-      "url": "https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n"
-    },
-    {
-      "added_at": "2026-11-20 05:03:06",
-      "album": {
         "name": "Unessential Oils",
         "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Petcimote Ote",
-        "url": "https://open.spotify.com/album/6bdKzMFTr3D3kynLZLOhxu"
+        "name": "BASS WOMB ROOM: My \u201890s 4-Track Demos x Field Recordings",
+        "url": "https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p"
       },
       "artists": [
         {
-          "name": "Laura Niquay",
-          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+          "name": "Melissa Auf der Maur",
+          "url": "https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Petcimote Ote",
-      "url": "https://open.spotify.com/track/5mdKZOm9YtRGGMIsiRKmaJ"
+      "duration_ms": 221587,
+      "name": "... And The Next Day",
+      "url": "https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
+        "name": "Petcimote Ote",
+        "url": "https://open.spotify.com/album/6bdKzMFTr3D3kynLZLOhxu"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Petcimote Ote",
+      "url": "https://open.spotify.com/track/5mdKZOm9YtRGGMIsiRKmaJ"
+    },
+    {
+      "added_at": "2026-11-20 05:03:06",
+      "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/6WrUFUEwbqmsfG6YLUHWww"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 148306,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/3ISM1I1EBOpxY9HOWU4Yjn"
+    },
+    {
+      "added_at": "2026-11-20 05:03:06",
+      "album": {
+        "name": "Les fant\u00f4mes",
+        "url": "https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb"
+      },
+      "artists": [
+        {
+          "name": "Chenier",
+          "url": "https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx"
+        }
+      ],
+      "duration_ms": 187969,
+      "name": "Tous les miroirs",
+      "url": "https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr"
     },
     {
       "added_at": "2026-11-20 05:03:06",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Les fant\u00f4mes",
-        "url": "https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb"
-      },
-      "artists": [
-        {
-          "name": "Chenier",
-          "url": "https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx"
-        }
-      ],
-      "duration_ms": 187969,
-      "name": "Tous les miroirs",
-      "url": "https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr"
-    },
-    {
-      "added_at": "2026-11-20 05:03:06",
-      "album": {
         "name": "enemies (in my head)",
         "url": "https://open.spotify.com/album/0M36iEnixkCLfb4h0kUg2i"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-11-20 05:03:06",
       "album": {
-        "name": "Kathleen",
-        "url": "https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL"
-      },
-      "artists": [
-        {
-          "name": "SOMET",
-          "url": "https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak"
-        }
-      ],
-      "duration_ms": 270461,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX"
-    },
-    {
-      "added_at": "2026-11-20 05:03:06",
-      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 214618,
       "name": "Seul",
       "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
+    },
+    {
+      "added_at": "2026-11-20 05:03:06",
+      "album": {
+        "name": "Kathleen",
+        "url": "https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL"
+      },
+      "artists": [
+        {
+          "name": "SOMET",
+          "url": "https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak"
+        }
+      ],
+      "duration_ms": 270461,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX"
     },
     {
       "added_at": "2026-11-20 05:03:06",

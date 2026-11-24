@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Arcana](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,331 likes - 592 songs - 1 day 5 hr 54 min
+[Arcana](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,334 likes - 599 songs - 1 day 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -600,5 +600,12 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 590 | [Party Favor \- Instrumental](https://open.spotify.com/track/60AlTM7Y7mT9zF9vZuwcLw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Party Favor](https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb) | 3:14 |
 | 591 | [FNAF the musical \(feat\. Markiplier and Nathan Sharp\)](https://open.spotify.com/episode/0P8Rgvw7Dm3dflPVsb9A1l) | [Fennec's little critters](https://open.spotify.com/show/3ZurFUvIgU1O25F5Zmp1Dd) | [Fennec's little critters](https://open.spotify.com/album/3ZurFUvIgU1O25F5Zmp1Dd) | 32:20 |
 | 592 | [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 |
+| 593 | [Five Long Nights](https://open.spotify.com/track/06bWm1eTQ71chxKWMYbRBT) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 3:14 |
+| 594 | [Five More Nights](https://open.spotify.com/track/1V6AzgxqSX36HicoiPCzSK) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 4:09 |
+| 595 | [Another Five Nights](https://open.spotify.com/track/58uQgosTv5Ifi9eKZSg4xJ) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 4:01 |
+| 596 | [We Don't Bite](https://open.spotify.com/track/5SvMHZYz4xiTG3C0meGtGd) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 3:28 |
+| 597 | [Join Us for a Bite](https://open.spotify.com/track/4E6QZS2KoOE1U64yMrtpIN) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 3:56 |
+| 598 | [You Belong Here](https://open.spotify.com/track/3ZyaP0GyRehoDrhPkuh5Qw) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 4:13 |
+| 599 | [Rusty Chevrolet](https://open.spotify.com/track/6OkUgrIkmIruLElP8Lltd1) | [Shanneyganock](https://open.spotify.com/artist/04afWRg7KofT5Ae0W1kjpU) | [Christmas](https://open.spotify.com/album/7pcVnlArnlI9dJM7KUpfe4) | 1:58 |
 
-Snapshot ID: `AAACK8BmwjHJBz1y3or4CEL+5TKYCKmV`
+Snapshot ID: `AAACLrH+rEjTFHKfSom897roeaRQwpbe`

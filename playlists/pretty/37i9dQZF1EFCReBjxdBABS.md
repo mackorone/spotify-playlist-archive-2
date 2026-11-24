@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 131 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 131 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 66 | [Light at the End of the Tunnel](https://open.spotify.com/track/2vTihEWfgxyAa1rSL2PJF9) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Light at the End of the Tunnel](https://open.spotify.com/album/1CCwL8psqVBcnMHOZU8G4H) | 3:28 |
 | 67 | [Right Things Right](https://open.spotify.com/track/0KZaJHCvCIQahrENs4Wyaj) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:39 |
 | 68 | [Greatest Show On Dirt](https://open.spotify.com/track/6FWY4E5i2nK96uenNx0yfV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/1QILqfKPa0NhK08YD6a79q) | 3:14 |
-| 69 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 |
-| 70 | [Here Lately](https://open.spotify.com/track/3epRWaayV25eHLA2wo9JYJ) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1F0mesEH5vtp1x0AVobXH0) | 2:39 |
+| 69 | [Here Lately](https://open.spotify.com/track/3epRWaayV25eHLA2wo9JYJ) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1F0mesEH5vtp1x0AVobXH0) | 2:39 |
+| 70 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 |
 | 71 | [Granted](https://open.spotify.com/track/3SoRJ8T5ttium7FSUfrBF8) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Granted](https://open.spotify.com/album/0aqiLiJHhzqbLZispCNATc) | 3:09 |
 | 72 | [Don't Know Myself](https://open.spotify.com/track/55rRGt3xJzmYMYbQMQ4Roo) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Country With Heart \(Part One\)](https://open.spotify.com/album/5JMJALe7t4VoWpnXL4FdUY) | 2:57 |
 | 73 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 130 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 131 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AciY3gAAAAD6+cR0ORglGmJKq+myjMG0`
+Snapshot ID: `AcifMgAAAABxxCcnc08RSWM+PRRnyC1a`

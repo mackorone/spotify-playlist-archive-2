@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mikael Karlsson, Vickie Winans, Marvin Winans and more
+> With Le'Andria Johnson, Isaac Cates, Mikael Karlsson and more
 
 2,048 songs - 6 day 14 hr 50 min
 

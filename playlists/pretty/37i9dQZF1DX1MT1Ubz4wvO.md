@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Guasones
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,996 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,973 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Loba](https://open.spotify.com/track/2z6IkKOVT8iCfrJDKHxckB) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [Loba](https://open.spotify.com/album/6UQz9dVDv2jt6qWkmYdyvI) | 17:49 |
 | 50 | [Malir Sal](https://open.spotify.com/track/3GGVeXIqGFqcZ3zYkmFu9z) | [Gletcher](https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi) | [Malir Sal](https://open.spotify.com/album/06EIfZ4zyjlD3WUnlVR3JR) | 3:20 |
 
-Snapshot ID: `AAAAAHqdI2FczJkOY6cqFYsrJm2ogmBh`
+Snapshot ID: `AAAAABYmepJ2Ads5fRQ2hfK3Kkz1vBcW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 
 > Enjoy music from "<br/>Umamusume: Pretty Derby! © Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,099 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,114 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 | 74 | [ぼくらのブルーバードデイズ \- 2021 Remastered Version](https://open.spotify.com/track/2AWx1w1xPVtEYr2ZLeMRLU) | [ウオッカ \(CV\. 大橋彩香\)](https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270), [ダイワスカーレット \(CV\. 木村千咲\)](https://open.spotify.com/artist/0yaxRS7sYtdmwpNIyA1UuR), [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE) | [スマホゲーム『ウマ娘 プリティーダービー』STARTING GATE 03 \(2021 Remastered Version\)](https://open.spotify.com/album/561riKriuKHpKFMAdqChtL) | 4:26 |
 | 75 | [恋する世界 \- 2021 Remastered Version](https://open.spotify.com/track/1pu4KF64pmHOIW2GbaNS4O) | [ファインモーション \(CV\. 橋本ちなみ\)](https://open.spotify.com/artist/3IdkZCpsf4FpZoZm9IDlJw) | [スマホゲーム『ウマ娘 プリティーダービー』STARTING GATE 09 \(2021 Remastered Version\)](https://open.spotify.com/album/5PSYY1VzgdPlCkrcIV4hdi) | 4:23 |
 
-Snapshot ID: `AAAAAA/T9zt8yo10GEEtQp/ghocCftuv`
+Snapshot ID: `AAAAAFjW7Xnaz07pOHCGcIlahsLEkrPp`

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122032,
+  "num_followers": 122016,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV7tiwR++19vPQMF38gsqLezdPN+Ij",
+  "snapshot_id": "AAAV71K4lQ4/myAJCkkYsAmczeZhaYEX",
   "tracks": [
+    {
+      "added_at": "2026-11-23 15:44:18",
+      "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/0ZJMoFiQRGuQ1XN0VejOKV"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        },
+        {
+          "name": "Jessy Covets",
+          "url": "https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/658cAhGaKl7nw45fNRuP77"
+    },
     {
       "added_at": "2026-11-20 15:27:12",
       "album": {

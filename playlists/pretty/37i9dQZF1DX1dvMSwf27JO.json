@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 551923,
+  "num_followers": 551894,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJmKk25yQTUEd5ILxvCurf0akcVe",
+  "snapshot_id": "AAAAAKSr+IKO3sMyL0HSK5UNrmFYp7aT",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Are You In The Room",
-        "url": "https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej"
-      },
-      "artists": [
-        {
-          "name": "CLUB INDGO",
-          "url": "https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC"
-        },
-        {
-          "name": "San\u00e7a",
-          "url": "https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc"
-        },
-        {
-          "name": "Ill Addicts",
-          "url": "https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z"
-        }
-      ],
-      "duration_ms": 187383,
-      "name": "Are You In The Room",
-      "url": "https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Love Me Like",
         "url": "https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 189090,
       "name": "Be With U (feat. DETO BLACK)",
       "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Are You In The Room",
+        "url": "https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej"
+      },
+      "artists": [
+        {
+          "name": "CLUB INDGO",
+          "url": "https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC"
+        },
+        {
+          "name": "San\u00e7a",
+          "url": "https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc"
+        },
+        {
+          "name": "Ill Addicts",
+          "url": "https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z"
+        }
+      ],
+      "duration_ms": 187383,
+      "name": "Are You In The Room",
+      "url": "https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mr Valentine",
-        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
-      },
-      "artists": [
-        {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
-        }
-      ],
-      "duration_ms": 157875,
-      "name": "Mr Valentine",
-      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Just Sayin' Shit",
         "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 223601,
       "name": "Wake up Jacob",
       "url": "https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Mr Valentine",
+        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "Mr Valentine",
+      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Good Movie",
-        "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
-      },
-      "artists": [
-        {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-        }
-      ],
-      "duration_ms": 189151,
-      "name": "DJ In The Car",
-      "url": "https://open.spotify.com/track/7w4yrrz2HMkqjhDrLjA4yy"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Dog Food (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 184123,
       "name": "Dog Food (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Good Movie",
+        "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "duration_ms": 189151,
+      "name": "DJ In The Car",
+      "url": "https://open.spotify.com/track/7w4yrrz2HMkqjhDrLjA4yy"
     },
     {
       "added_at": "2024-08-23 04:00:00",

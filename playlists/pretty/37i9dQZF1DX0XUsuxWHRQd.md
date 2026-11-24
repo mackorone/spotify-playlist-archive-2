@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Playboi Carti, Gunna and Don Toliver.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,455,726 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,454,186 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Look Like My Mama](https://open.spotify.com/track/4JNrstEcCCQRYys76YYzEq) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 3:16 |
 | 50 | [TOO SOON \(feat\. Babyface\)](https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Sweet Action II](https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4) | 2:21 |
 
-Snapshot ID: `AAAAANNJXc7nRat0Cp2RwFvi2oahBGVo`
+Snapshot ID: `AAAAALN/cKWgxhcoR0Uf+sa2pEIhn1X0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: nightlight
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,475 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,542 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 55 | [forever mine](https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd) | [5hy](https://open.spotify.com/artist/2TcMB2b7duIzDoXnAr4iTr) | [forever mine](https://open.spotify.com/album/40rxqlR7YFMpixheeA7UCX) | 2:46 |
 | 56 | [STFA](https://open.spotify.com/track/22PxFCtgAQgAOG1xBwXKBz) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [death fetish](https://open.spotify.com/album/2LQrLVV5y9YFji7Z2fYdg9) | 3:39 |
 
-Snapshot ID: `AAAAACvNNIfPeFRT25XAIp5sm3kqRR1F`
+Snapshot ID: `AAAAAE9qolXpo9GBMdeP4JGQMN1mneK2`

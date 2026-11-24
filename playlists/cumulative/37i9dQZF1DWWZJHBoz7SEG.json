@@ -244235,6 +244235,24 @@
     },
     {
       "album": {
+        "name": "SPIRITUS",
+        "url": "https://open.spotify.com/album/0PKeldyOuuxKVgjQ21m2nh"
+      },
+      "artists": [
+        {
+          "name": "Jesse and The Supernovas",
+          "url": "https://open.spotify.com/artist/6RbNIcxsKnVidiYwkshQgH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251880,
+      "name": "SPIRITUS",
+      "url": "https://open.spotify.com/track/1CNFMPKL6jW1MnvMclGHMr"
+    },
+    {
+      "album": {
         "name": "Spitting Off the Edge of the World",
         "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
       },
@@ -244392,24 +244410,6 @@
       "duration_ms": 206996,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/2D6rZLVtadxhOuX79Y5jDS"
-    },
-    {
-      "album": {
-        "name": "SP\u00cdRITUS",
-        "url": "https://open.spotify.com/album/0PKeldyOuuxKVgjQ21m2nh"
-      },
-      "artists": [
-        {
-          "name": "Jesse and The Supernovas",
-          "url": "https://open.spotify.com/artist/6RbNIcxsKnVidiYwkshQgH"
-        }
-      ],
-      "date_added": "2026-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251880,
-      "name": "SP\u00cdRITUS",
-      "url": "https://open.spotify.com/track/1CNFMPKL6jW1MnvMclGHMr"
     },
     {
       "album": {

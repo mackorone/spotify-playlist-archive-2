@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435692,
+  "num_followers": 1435697,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAADb3AfZBGTT/F/cRiC1jvbL",
+  "snapshot_id": "awIwgAAAAADrYsEA6a2w7abYmuCW9fPz",
   "tracks": [
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nu Zamrock",
-        "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Supernova [Feat. Sia]",
-      "url": "https://open.spotify.com/track/6GD7j3bdk0VNsIlNrhUY7p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 216146,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1QzIPFcpaapCryW5wRsgU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nu Zamrock",
+        "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Supernova [Feat. Sia]",
+      "url": "https://open.spotify.com/track/6GD7j3bdk0VNsIlNrhUY7p"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music (Songs From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 235531,
+      "name": "Saved My Life",
+      "url": "https://open.spotify.com/track/0Ts6bcB1AQYkt28yZXk1qQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chakzilla",
         "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 210426,
       "name": "Cool You Down - feat. Sia",
       "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music (Songs From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 235531,
-      "name": "Saved My Life",
-      "url": "https://open.spotify.com/track/0Ts6bcB1AQYkt28yZXk1qQ"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
-        "url": "https://open.spotify.com/album/3S9fcmRyIt5K4jwh7wXmKG"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
-      "url": "https://open.spotify.com/track/0IjQeHaDwRljTnROP955YG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music (Songs From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 177800,
       "name": "Floating Through Space",
       "url": "https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
+        "url": "https://open.spotify.com/album/3S9fcmRyIt5K4jwh7wXmKG"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
+      "url": "https://open.spotify.com/track/0IjQeHaDwRljTnROP955YG"
     }
   ],
   "unique_name": "This Is Sia",

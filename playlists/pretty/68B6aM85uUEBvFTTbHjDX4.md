@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 177 songs - 14 hr 22 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 178 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,5 +185,6 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 | 175 | [Love It](https://open.spotify.com/track/3zbkAAldw4iljC3ABcgRqu) | [Flour](https://open.spotify.com/artist/6QamwoCsmA2yAPC0x9w510) | [Love It](https://open.spotify.com/album/67tMzISHOOlSJOn9HWRLI0) | 5:28 |
 | 176 | [That Feeling](https://open.spotify.com/track/7hNcBQYwyWZTfEwSEkV0xw) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [That Feeling](https://open.spotify.com/album/0TGrTxdSuwakTJCpSyX9sB) | 2:51 |
 | 177 | [Lifetime](https://open.spotify.com/track/5GxetRorkvVDqah2jGNjwT) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ), [Mauro Somm](https://open.spotify.com/artist/3jGc6igIVzjC0ElXKbsfHd) | [Go Wild](https://open.spotify.com/album/0UYwmKC16Zl74hASov2dk6) | 3:50 |
+| 178 | [Exodus](https://open.spotify.com/track/3LdaUlDrb7Wuwkrjc4ilim) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Exodus](https://open.spotify.com/album/5bjvzQlggZ0QMHNGEkTLHG) | 6:20 |
 
-Snapshot ID: `AAABem8SYpJOgQJsouNcA2KL19mesax4`
+Snapshot ID: `AAABe6GTA2BQF+tXoiblFf4iwro8tR6K`

@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 376830,
+  "num_followers": 376838,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAAAKtW7XJELrsYGVE6PtaDPE",
+  "snapshot_id": "awIwgAAAAAAYhYDJxQjPf3m8RQXWigaj",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 235140,
-      "name": "Love Music",
-      "url": "https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 265867,
       "name": "Star",
       "url": "https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 235140,
+      "name": "Love Music",
+      "url": "https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 245390,
-      "name": "And Love Goes On",
-      "url": "https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
       },
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Rio",
-        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 129639,
-      "name": "Brazilian Rhyme",
-      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
+      "duration_ms": 245390,
+      "name": "And Love Goes On",
+      "url": "https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 141293,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live in Rio",
+        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 129639,
+      "name": "Brazilian Rhyme",
+      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 467733,
-      "name": "Show Me the Way (feat. Raphael Saadiq)",
-      "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Go Dumb Crasy",
         "url": "https://open.spotify.com/album/3nmPYcTH2TvFFnxgeCB0MF"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 132454,
       "name": "Let's Go Dumb Crasy",
       "url": "https://open.spotify.com/track/44xXX5Z6CiaAjx4Yd4EZh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 467733,
+      "name": "Show Me the Way (feat. Raphael Saadiq)",
+      "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
     }
   ],
   "unique_name": "This Is Earth, Wind & Fire",

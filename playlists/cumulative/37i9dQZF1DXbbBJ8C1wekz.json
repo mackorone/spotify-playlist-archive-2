@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 133581,
       "name": "Bairro 2",
       "url": "https://open.spotify.com/track/6Wzjl9dI5gXB8qtUktXBzc"
@@ -4526,6 +4526,24 @@
       "duration_ms": 114645,
       "name": "Fuso",
       "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
+    },
+    {
+      "album": {
+        "name": "Fuso (Live Video)",
+        "url": "https://open.spotify.com/album/2nz1nxfjdNj9glQo2x7Ee1"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184340,
+      "name": "Fuso - Live Video",
+      "url": "https://open.spotify.com/track/1n82XCje65LKbtER78qF0Y"
     },
     {
       "album": {

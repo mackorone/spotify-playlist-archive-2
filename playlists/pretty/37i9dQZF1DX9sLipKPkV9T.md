@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [הירח שם בינינו](https://open.spotify.com/track/1UKPvbMTDV6ToDZ4GZ4wyi) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [הירח שם בינינו](https://open.spotify.com/album/0IFjXYvbusLe2c1IIvLQo1) | 2:40 |
 | 50 | [סטלה של עצב](https://open.spotify.com/track/25xNKqfiDgt71y7dB7OPAZ) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [22](https://open.spotify.com/album/6qksIvKRkilcpniBiIQmRv) | 2:49 |
 
-Snapshot ID: `AAAAAE+QgB1ZTAges+ihtjgUTrs6Zyv3`
+Snapshot ID: `AAAAAK0EgfoEpnuM9oflykKrmSaraCJ0`

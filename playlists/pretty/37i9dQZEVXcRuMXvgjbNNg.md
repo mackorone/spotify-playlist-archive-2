@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Spring](https://open.spotify.com/track/7zbYl5icF1Qv2f6Tqt8xSO) | [Richard LaForge](https://open.spotify.com/artist/2sYCz456iqFj9w00l2aQke) | [Spring](https://open.spotify.com/album/6Ix3O7bVEu44QlM9Sk0ZP7) | 3:04 |
 | 30 | [Jubi](https://open.spotify.com/track/2LGE5NXerPQZxdtm882hSj) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 4:52 |
 
-Snapshot ID: `avqN0AAAAABfxXMVoPs4DALMpq3ndGql`
+Snapshot ID: `awPIUAAAAADGw3RnuR2sMEU/1/tBkQic`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: TAKEKO420
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,026 likes - 115 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,033 likes - 115 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 114 | [Cypher G \-RAPSTAR 2026\-](https://open.spotify.com/track/0BgcDpVYem91lD8cgrAmNa) | [Jairo nark](https://open.spotify.com/artist/1lmUrNTjONM6jJsBpyBULM), [will away](https://open.spotify.com/artist/3Eb0QAEpwk7AcvcJH51E36), [Dumbperson](https://open.spotify.com/artist/1wE10VAKwnX23fLkN5AoqS), [Hameln](https://open.spotify.com/artist/6VRxyHxQe8Opi7El2dGcBE), [onyourmaxx](https://open.spotify.com/artist/4YBhkx8yAR56CLzso5fxkc) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 5:05 |
 | 115 | [Cypher H \-RAPSTAR 2026\-](https://open.spotify.com/track/0eAsdHhy5bTHPwlrbWLeO7) | [Buz](https://open.spotify.com/artist/3HLwtkKPPvrbf7iCZnGKgO), [TAKEKO420](https://open.spotify.com/artist/2FtjPnppfeem0hu0wteHr0), [Yvv](https://open.spotify.com/artist/39UcCubzNCNx2O4zRROCS1), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [Pabi](https://open.spotify.com/artist/0hAWa983TF5sMnm4S8ZMU8) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 6:00 |
 
-Snapshot ID: `AAAAAGrehz4Q0fqIo4tC5OJTZFdr68Li`
+Snapshot ID: `AAAAAOUUmATiCCs4q7sZEXC4gbcXekzq`

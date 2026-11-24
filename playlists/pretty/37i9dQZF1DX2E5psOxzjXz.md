@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Asteria
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,877 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,879 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Sun](https://open.spotify.com/track/6y93nMqqW5pz8OATAA4f2C) | [Asteria](https://open.spotify.com/artist/4HVl77LX9pZNZBPH0Le6EJ) | [The Sun](https://open.spotify.com/album/2Da3Q2hOMJlEzAFl8JaJ1g) | 3:59 |
 | 2 | [Need You](https://open.spotify.com/track/0hJwnwsvOnOqvx3lUhO81G) | [Hassaan Shaheer](https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [OCTOBER](https://open.spotify.com/album/4ws91CJgChmNvA2pYFZPrQ) | 3:28 |
 | 3 | [Tara Ro Dega](https://open.spotify.com/track/7Ikx61vuE8hObQbwE8MF3Q) | [Schumaila Rehmat Hussain](https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8) | [Tara Ro Dega](https://open.spotify.com/album/5Y309nFS9hYKGsWWnAnQ7R) | 3:25 |
-| 4 | [Tara](https://open.spotify.com/track/5BYBECI7ojtc5EfGFG1jjK) | [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Tara](https://open.spotify.com/album/4bvmihdDeJ2mw1HaBbFoPD) | 3:13 |
+| 4 | [Tara](https://open.spotify.com/track/5BYBECI7ojtc5EfGFG1jjK) | [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs), [Anthony Soshil Shah](https://open.spotify.com/artist/1zXymus3CC8lz84VJ2AtKi) | [Tara](https://open.spotify.com/album/4bvmihdDeJ2mw1HaBbFoPD) | 3:13 |
 | 5 | [dream](https://open.spotify.com/track/4ScwGZLpq91ClZNI7G7Xn4) | [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [dream](https://open.spotify.com/album/6JctirHBOzxsS1kQ4YxKZ2) | 2:52 |
 | 6 | [Tasveerein](https://open.spotify.com/track/4IXYbsi8Vl5e1X0xs3jIZk) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Tasveerein](https://open.spotify.com/album/2vWcDonzEikQBB2afw24E2) | 3:53 |
 | 7 | [Chale Aao](https://open.spotify.com/track/2EPlpLwbYXeFxy9fFKCfgw) | [Ahsan Naseem](https://open.spotify.com/artist/1feaMTBMVOuvDJPoJnyy0H) | [Chale Aao](https://open.spotify.com/album/27fsfVLQJ5z6ra7I3lA7mk) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 99 | [desi log skateboard](https://open.spotify.com/track/4acQPTfPAbUHgdwVYeeNwc) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf), [ishan awasthi](https://open.spotify.com/artist/2prnxuLM3FjP4pGXTqX8xS) | [desi log skateboard](https://open.spotify.com/album/4ohzHfwdVPEAHvDWGwFaJN) | 2:45 |
 | 100 | [Fuzool](https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m) | [Fuzool](https://open.spotify.com/album/4g3ppCmzoFtSfmL5cCM2iL) | 2:15 |
 
-Snapshot ID: `AAAAAIPXN3sbjhrszWVGI3J9k0Qe+Lgv`
+Snapshot ID: `AAAAAJcrVlM12C+TKWD7ajpaJgmie2QM`

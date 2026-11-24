@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,019 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,856 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 59 | [Beat Is Jumping](https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Beat Is Jumping](https://open.spotify.com/album/3W210elro9LvnY46RJBNAn) | 2:19 |
 | 60 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
 
-Snapshot ID: `AAAAAKJGa80spP6TA/FjE2gY13Oeutos`
+Snapshot ID: `AAAAAIlVuRwFMbp1z6IXM2ndUKdwLiua`

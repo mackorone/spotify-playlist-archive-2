@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Dua Lipa
 
-1,666 songs - 3 day 13 hr 46 min
+1,668 songs - 3 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [A Little More Fun](https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 2:30 | 2026-07-16 | 2026-10-02 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-26 | 2024-01-26 |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-20 | 2026-02-20 |
+| [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 | 2026-11-23 |  |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-11 | 2023-08-26 |
 | [About You](https://open.spotify.com/track/4M7nlEPdtK18kDy8q8Zwa7) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:40 | 2023-03-02 | 2023-03-31 |
 | [About You](https://open.spotify.com/track/5hDjdcUB4Ex143S8BSVsFG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [About You](https://open.spotify.com/album/2Fs0WFILf3bV6D1Ph6iFhm) | 2:40 | 2023-02-24 | 2023-03-04 |
@@ -812,6 +813,7 @@
 | [jokes on you \(hahaha\)](https://open.spotify.com/track/4YJQk3mFHnWyyZJo9lLn1X) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [heart\-shaped scars](https://open.spotify.com/album/79MNFRQ4uPsEe4A3sD4FmB) | 2:16 | 2025-03-13 | 2025-08-15 |
 | [Judging Eyes](https://open.spotify.com/track/4NuvZNQPFly9xaICGKIEBg) | [Emma Sorgato](https://open.spotify.com/artist/6GULYuXogP41olhTResCmC) | [Judging Eyes](https://open.spotify.com/album/2P0D96lODHwIjRPbnwzrME) | 2:47 | 2025-03-20 | 2025-05-09 |
 | [Jumping Jack Flash](https://open.spotify.com/track/6TyVaJ39UT73UYeQf1HkrF) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Jumping Jack Flash](https://open.spotify.com/album/2N4BNToSpuCKq5ibAQDyc9) | 2:48 | 2023-08-25 | 2023-11-08 |
+| [Just A Woman](https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Just A Woman](https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop) | 3:44 | 2026-11-23 |  |
 | [Just As I Remember](https://open.spotify.com/track/3s6R5jk43ny98ruPcs8CFk) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 2:18 | 2024-11-07 | 2025-01-24 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-29 | 2025-08-08 |
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2023-10-07 | 2024-01-13 |
@@ -1030,7 +1032,7 @@
 | [New History \(Oh My My\)](https://open.spotify.com/track/2GYNlIdjRuUBPvHD05KWTR) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Violets From Lily](https://open.spotify.com/album/0H3C62RxEl93hRjZVKyODU) | 2:27 | 2025-01-30 | 2025-04-18 |
 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 | 2026-03-07 | 2026-05-22 |
 | [New To You](https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [New To You](https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq) | 2:31 | 2026-08-20 | 2026-11-06 |
-| [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-17 |  |
+| [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-17 | 2026-11-24 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-27 | 2025-05-09 |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-19 | 2025-07-18 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-07 | 2025-01-17 |
@@ -1564,7 +1566,7 @@
 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 | 2024-10-17 | 2025-01-07 |
 | [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 | 2026-11-05 |  |
 | [waste a life](https://open.spotify.com/track/2SOgQx7AcVmBDyQxx9zN6B) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the truth of living in reality](https://open.spotify.com/album/1BDn9PF9UTstr1CNDLk1WL) | 3:15 | 2025-09-04 | 2025-11-28 |
-| [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 | 2026-09-17 |  |
+| [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 | 2026-09-17 | 2026-11-24 |
 | [Wasted Heart](https://open.spotify.com/track/0xDYB5xoFT2LbkWNkSoa8z) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Wasted Heart](https://open.spotify.com/album/6rW3fwX2xe6AK72266bbir) | 3:06 | 2025-10-10 | 2026-01-23 |
 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-22 | 2025-07-04 |
 | [Wat Zijn We Aan Het Doen](https://open.spotify.com/track/1af2LKMNUIaTh2HOr8FcHF) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Beetje Arrogant](https://open.spotify.com/album/4z3p7pMwP0eYfK3f5YSN8L) | 2:23 | 2026-11-19 |  |

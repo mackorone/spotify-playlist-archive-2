@@ -11677,6 +11677,28 @@
     },
     {
       "album": {
+        "name": "N\u00c3O SOBRA NENHUM",
+        "url": "https://open.spotify.com/album/3TdZN1I3JT5VHnNl9eELwi"
+      },
+      "artists": [
+        {
+          "name": "Nic Dias",
+          "url": "https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "N\u00c3O SOBRA NENHUM",
+      "url": "https://open.spotify.com/track/2b4fb7h6gDSkliLkyeoAgK"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Tente Entender um OG",
         "url": "https://open.spotify.com/album/0Tyi1X1Kc0QfE3RzLxHxx6"
       },
@@ -14244,7 +14266,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 160384,
       "name": "Profeta do Submundo",
       "url": "https://open.spotify.com/track/5KRzetncGXcHZ00BKcIDjc"

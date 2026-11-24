@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/3h30vuUXpFv323InkrTmHl"
+      },
+      "artists": [
+        {
+          "name": "Sam Matthew",
+          "url": "https://open.spotify.com/artist/6PkYVSB01oeVQJwmfxTd6M"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132252,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/5Rrki9fgmvCAgQjPdkhle2"
+    },
+    {
+      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/3JMcuguPrh1K5keZKkX9yG"
       },
@@ -740,6 +758,24 @@
       "duration_ms": 229373,
       "name": "Asparagus",
       "url": "https://open.spotify.com/track/4f6TUxoYmaY3zKvZZg7QOd"
+    },
+    {
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/64dy0coqyMgGfXMEqXiqGb"
+      },
+      "artists": [
+        {
+          "name": "Milk E Way",
+          "url": "https://open.spotify.com/artist/1FpLDA8N2boR9fqwgaeY7H"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/2f1JlOL1dj1wBIrM0vofGw"
     },
     {
       "album": {
@@ -1586,7 +1622,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 147825,
       "name": "By Far",
       "url": "https://open.spotify.com/track/7CERDWUgUnJVh1okaLLviV"
@@ -3365,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Eternal Motion",
+        "url": "https://open.spotify.com/album/2pKHPYNks3esFSTEbCXNqd"
+      },
+      "artists": [
+        {
+          "name": "Calmist",
+          "url": "https://open.spotify.com/artist/4d7PnhvgHGxk7I9Yve1USM"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120953,
+      "name": "Eternal Motion",
+      "url": "https://open.spotify.com/track/7krzZK5qajSr1Efl6jDz2U"
+    },
+    {
+      "album": {
         "name": "Etherea",
         "url": "https://open.spotify.com/album/3BkxwKuNs5yZ23c8KTNXqy"
       },
@@ -4849,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "high fidelity",
+        "url": "https://open.spotify.com/album/5RYqnvlN6GwPoIrKfn0Ekq"
+      },
+      "artists": [
+        {
+          "name": "Winterlow",
+          "url": "https://open.spotify.com/artist/7tUSg1TRO7MaJW74ldJzLO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138496,
+      "name": "high fidelity",
+      "url": "https://open.spotify.com/track/7Ij8PPKB3uuYvG6uNl2its"
+    },
+    {
+      "album": {
         "name": "High Up",
         "url": "https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx"
       },
@@ -6156,7 +6228,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 138414,
       "name": "Little Moon",
       "url": "https://open.spotify.com/track/0EJis5AlboBu1LDBuXRh3f"
@@ -7330,7 +7402,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 166069,
       "name": "new beginnings",
       "url": "https://open.spotify.com/track/1gJrHuRLOWKrg0D8TVRbcQ"
@@ -9872,7 +9944,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 194188,
       "name": "Slower Living",
       "url": "https://open.spotify.com/track/3fXpiUrmynhfiG4LkjPB1O"
@@ -12284,7 +12356,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 135205,
       "name": "Unexpected moment",
       "url": "https://open.spotify.com/track/1Qqc9flb5iZnSjsoiSugLk"
@@ -13080,6 +13152,24 @@
       "duration_ms": 133165,
       "name": "Wires",
       "url": "https://open.spotify.com/track/2wAOrDyPab6VEsaaNFmQAM"
+    },
+    {
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/6J92a3wvafakr9Hr6IW0fY"
+      },
+      "artists": [
+        {
+          "name": "Ciel",
+          "url": "https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/6KQOaQEKQkDUuLNnnNemfi"
     },
     {
       "album": {

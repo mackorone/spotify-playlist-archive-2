@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,672 likes - 190 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,717 likes - 190 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 47 | [Cobalah Mengerti](https://open.spotify.com/track/6y4YFWm1WDrwThOXCALV1E) | [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF), [Uki](https://open.spotify.com/artist/3Wi7uVHcueSkogkJUgifDz), [Lukman NOAH](https://open.spotify.com/artist/7cqkPIDgCi7INzyMFzvB1w), [Reza NOAH](https://open.spotify.com/artist/3t8gr6iE3A2xnvkc249oRK), [David Noah](https://open.spotify.com/artist/4b8KHsSpH8aBRYyi5SPSNJ), [Momo GEISHA](https://open.spotify.com/artist/1lZKDybT3NPpIpSCD7J95m) | [Suara Lainnya](https://open.spotify.com/album/7MLg9OTj1KECK5ZJTeIPwE) | 5:04 |
 | 48 | [Rahasia Hati](https://open.spotify.com/track/3t5Zxy3PFLD1lvKR9YOdBh) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [OST\. 5 CM](https://open.spotify.com/album/0RJPZrRDqTohoFBcPQrm8b) | 4:10 |
 | 49 | [Cinta Terlarang](https://open.spotify.com/track/3pF1OGQdqegfytyVY0dBeA) | [The Virgin](https://open.spotify.com/artist/7tXc4Tew6Bnr4moD7OeBfJ) | [Yes I Am](https://open.spotify.com/album/0WDn4CBLLfrAwiCcRZZmgu) | 4:41 |
-| 50 | [Kasmaran](https://open.spotify.com/track/1IAPlLCouZavqy8BmMrWVu) | [Phantom](https://open.spotify.com/artist/3v7kpjJti8cJohFZ4gi2HQ) | [Bintang Terang](https://open.spotify.com/album/3qPLq7wmhwLkqMOvNlqXrq) | 3:55 |
+| 50 | [Kasmaran](https://open.spotify.com/track/1IAPlLCouZavqy8BmMrWVu) | [Phantom](https://open.spotify.com/artist/10Srp5vTXgDEd4oWfd2xNb) | [Bintang Terang](https://open.spotify.com/album/3qPLq7wmhwLkqMOvNlqXrq) | 3:55 |
 | 51 | [Selalu CInta](https://open.spotify.com/track/0GDxhBE0Sq0Dq8y4JE2SDC) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Energi \(Repackaged\)](https://open.spotify.com/album/7sCAI9ZywmCxWa03pMyXWy) | 4:43 |
 | 52 | [Satu Satunya Cinta](https://open.spotify.com/track/075wHMrSCuSvxkjk1nBinw) | [Maha Dewi](https://open.spotify.com/artist/6C8fWAXkiO9boKHvfwu25E) | [NAGASWARA HOT 1OO](https://open.spotify.com/album/7mGv7jCKHT44LuRgwp5WIa) | 4:15 |
 | 53 | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu) | 3:52 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 189 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 |
 | 190 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2ZnMyljOhstLNMuzyGCnze) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/3tJ2FdfpXKoTJPPyXYEjZF) | 3:26 |
 
-Snapshot ID: `AAAAANqC8uzmtbQzaicEG0t1SbCY/nLS`
+Snapshot ID: `AAAAAKJaLG5Eu5xs9maG3u+YUeOi0tot`

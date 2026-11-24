@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -3584,6 +3584,24 @@
       "duration_ms": 223469,
       "name": "baj",
       "url": "https://open.spotify.com/track/4wPuwLF9a7yOIw3XSuuVxM"
+    },
+    {
+      "album": {
+        "name": "BAJNOK",
+        "url": "https://open.spotify.com/album/26kJ5My2N5kuoFknjLSFxs"
+      },
+      "artists": [
+        {
+          "name": "Szilver",
+          "url": "https://open.spotify.com/artist/4XsRVYfQgld2414XL85ApN"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139693,
+      "name": "BAJNOK",
+      "url": "https://open.spotify.com/track/2VKFIZF81rPFkbmnYxAFVh"
     },
     {
       "album": {
@@ -17082,7 +17100,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -31052,7 +31070,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -31914,7 +31932,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 162333,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
@@ -33446,7 +33464,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 141789,
       "name": "TAKE YOUR TIME",
       "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"

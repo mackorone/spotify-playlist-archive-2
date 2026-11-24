@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: The Womack Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,634 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,630 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 50 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 |
 | 51 | [Free](https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Free](https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW) | 3:16 |
 | 52 | [Smooth talker](https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Smooth talker](https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg) | 3:13 |
-| 53 | [Girls' Girl](https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Blue Alchemy](https://open.spotify.com/album/14l4lt67zgEYveD4olBc52) | 2:59 |
-| 54 | [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 |
+| 53 | [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 |
+| 54 | [Girls' Girl](https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Blue Alchemy](https://open.spotify.com/album/14l4lt67zgEYveD4olBc52) | 2:59 |
 
-Snapshot ID: `AAAAAK3oOqbHWQ0gsORSIHqrcbF4smW8`
+Snapshot ID: `AAAAAGUbqdmUdjwVY+Uri5KCdaItZll5`

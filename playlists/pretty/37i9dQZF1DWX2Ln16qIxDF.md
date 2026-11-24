@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,268 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,264 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 98 | [Pensando en Ella \(En Vivo\)](https://open.spotify.com/track/3GAziPL8s5mr0BnFVnZdyT) | [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Pensando en Ella \(En Vivo\)](https://open.spotify.com/album/32bwwHf9a2cmY6jhbIaVT4) | 4:01 |
 | 99 | [Nota de Voz](https://open.spotify.com/track/414bekTP0wBQjE8juGHaC6) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 2:37 |
 
-Snapshot ID: `AAAAAL8A9/ZX/HUxPczLCUJE+SXl0Ojz`
+Snapshot ID: `AAAAAOjQj3pvhRBD3UQTGTNe0q59V2Zr`

@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-384 songs - 17 hr 51 min
+385 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Lay the Foundation](https://open.spotify.com/track/7gwnSkntSK8u0ueJH06xpF) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Lay the Foundation](https://open.spotify.com/album/166aV9lE2KR5UHh28N05m2) | 3:24 | 2025-02-21 |  |
 | [Lazy Lanta](https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Lazy Lanta](https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi) | 3:30 | 2024-03-01 | 2026-04-07 |
 | [Level Ground](https://open.spotify.com/track/6PBjsnOTKDeZga28tSx6Pq) | [Orion Rivera](https://open.spotify.com/artist/2ZAAs2C0Sslu20k8JexdpG) | [Level Ground](https://open.spotify.com/album/6jeJ3vCyE5mocDiHIQfjww) | 3:14 | 2026-03-20 |  |
+| [Life on Earth](https://open.spotify.com/track/1D7zlFA2wwlx9uKmhK9bGJ) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Life on Earth](https://open.spotify.com/album/6FdEXBCj6P3gUQjqNvUZue) | 2:53 | 2026-11-12 |  |
 | [Light Of Day](https://open.spotify.com/track/1UoNLlJ3FAWznkO3huAvuh) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Light Of Day](https://open.spotify.com/album/129PEfz7ICa9PzjLfE0lo8) | 2:49 | 2024-04-01 | 2025-09-25 |
 | [Lights & Dust](https://open.spotify.com/track/21uooqLNsuCRtjZmTzOIpj) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Lights & Dust](https://open.spotify.com/album/0v7xw83LjYF3WrJo9M7OZD) | 2:46 | 2023-10-26 | 2024-06-04 |
 | [Lily's Arrival](https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lily's Arrival](https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z) | 2:58 | 2023-03-03 | 2025-06-12 |
@@ -322,7 +323,7 @@
 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 | 2023-03-03 | 2024-03-21 |
 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 | 2023-03-03 | 2025-06-10 |
 | [Songbird Shrine](https://open.spotify.com/track/0XVodTArKi2jRSyWmFLYX1) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Songbird Shrine](https://open.spotify.com/album/418V4m0E3V8o4ISbh8dS5n) | 2:52 | 2024-04-01 | 2025-06-12 |
-| [Soulful Gem](https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98) | [Increased Wither](https://open.spotify.com/artist/5kYX5ISMm4MkbVhNEL99DH) | [Soulful Gem](https://open.spotify.com/album/4vbjkgwzMkHSpQBvFOKoFk) | 2:58 | 2026-03-20 |  |
+| [Soulful Gem](https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98) | [Increased Wither](https://open.spotify.com/artist/5kYX5ISMm4MkbVhNEL99DH) | [Soulful Gem](https://open.spotify.com/album/4vbjkgwzMkHSpQBvFOKoFk) | 2:58 | 2026-03-20 | 2026-11-24 |
 | [Sparkles Between Trees](https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Sparkles Between Trees](https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG) | 2:41 | 2025-09-24 |  |
 | [Spring is here](https://open.spotify.com/track/73eMyw7PHNRsH34UC9L8cG) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spring is here](https://open.spotify.com/album/3bqM7XfIXMU3vho72nNFND) | 2:11 | 2024-06-03 | 2025-06-12 |
 | [Stargazing at Dawn](https://open.spotify.com/track/51WFbZpYir2eZGtXXrJDSY) | [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Stargazing at Dawn](https://open.spotify.com/album/22WWcPFrv829QyTjjHU0aY) | 2:40 | 2026-09-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben Nagy Bogi készítette 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,550 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,548 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 59 | [Éden](https://open.spotify.com/track/7mFySsjurNbnWsDi0QwKzM) | [Metzker Viktória](https://open.spotify.com/artist/2HeY093HdxKM5cb0RL1aOH), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM), [Miss Mood](https://open.spotify.com/artist/5RQvpF3WKBeSvmfAQHV5M3) | [Éden](https://open.spotify.com/album/7jgwlO3ZWC6px01AtleHh4) | 3:26 |
 | 60 | [szerelmesss](https://open.spotify.com/track/1B8cGH2epjBb1CSCn837bE) | [dorimoczi](https://open.spotify.com/artist/7dbpLolPZzCfiXtplmKuZv), [TÖRÖK PALI](https://open.spotify.com/artist/6tEesooiL9fztszYsvRbbc) | [szerelmesss](https://open.spotify.com/album/4XaFbnt6uhTWA1AOCtVfvi) | 2:57 |
 
-Snapshot ID: `AAAAAPyQixYPI+kFAM00CJNtxe2islTi`
+Snapshot ID: `AAAAAKOPqDPUKGGFs4W42Z+gTjZ05NsK`

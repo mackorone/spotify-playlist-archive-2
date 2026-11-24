@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 205987,
+  "num_followers": 206042,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAADw5s1WcD7ZWIuzTP4eJuXk",
+  "snapshot_id": "awIwgAAAAAAJPU49yymguMDsgBp3w8Wz",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi"
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 238780,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG"
+      "duration_ms": 147609,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 147609,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
+      "duration_ms": 238780,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG"
     },
     {
       "added_at": null,

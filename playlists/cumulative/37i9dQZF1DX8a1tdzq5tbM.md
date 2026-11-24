@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-270 songs - 19 hr 16 min
+271 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 | 2020-03-31 |  |
 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 | 2020-03-31 |  |
 | [Crush \(Radio Edit\)](https://open.spotify.com/track/7mafch6fDbXB2on5mxijln) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA) | 3:25 | 2022-02-28 | 2024-04-19 |
-| [Crush \- Radio Dance Edit](https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM) | 3:23 | 2020-03-31 |  |
+| [Crush \- Radio Dance Edit](https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/5bHsXOMd0ZOo2GrQa7ZPkM) | 3:23 | 2020-03-31 | 2026-11-24 |
 | [Cry for You](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Dancing Shoes](https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz) | 3:29 | 2023-03-22 | 2024-04-19 |
 | [Cry for You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry for You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 | 2020-03-31 |  |
 | [Dance4Life \(feat\. Maxi Jazz\) \- Radio Edit](https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Dance4Life \(feat\. Maxi Jazz\)](https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5) | 3:33 | 2020-03-31 | 2026-06-09 |
@@ -147,6 +147,7 @@
 | [I Remember](https://open.spotify.com/track/62h4GYm6aTqS0dsfJtKYIX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Strobelite Seduction](https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc) | 4:43 | 2022-02-28 | 2023-10-18 |
 | [I Remember \(Strobelight Edit\)](https://open.spotify.com/track/2OZrV4yyOZNuEFx22VVfFm) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 4:43 | 2020-03-31 |  |
 | [I Remember \- Strobelite Mix](https://open.spotify.com/track/3sJ2XGBUSqlJhgsmuYZKzK) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [I Remember](https://open.spotify.com/album/5CFRJxPEEdedwfTs0suFpb) | 4:41 | 2022-02-28 | 2022-11-13 |
+| [I Want Your Soul](https://open.spotify.com/track/1uqnKeoy55KA6LqoOiW4Pm) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [I Want Your Soul](https://open.spotify.com/album/04EAVlVTo2cVYXmDyESFov) | 3:15 | 2026-11-23 |  |
 | [Imagination \- Tiësto Radio Edit](https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Disconnect \(Platinum Edition\)](https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y) | 3:45 | 2022-02-28 | 2023-10-16 |
 | [Imagination \- Tiësto Radio Edit](https://open.spotify.com/track/4s9UlYHUvhEA1BdBel8AyI) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Imagination](https://open.spotify.com/album/0EnN7ySalZosePBvcRha2v) | 3:45 | 2022-02-28 | 2022-11-12 |
 | [Imagination \- Tiësto Remix Radio Edit](https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Imagination](https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar) | 3:45 | 2020-03-31 |  |

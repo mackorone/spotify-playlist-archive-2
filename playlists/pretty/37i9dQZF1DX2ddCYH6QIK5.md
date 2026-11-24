@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: SATARII
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,980 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,987 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [The Star/ Hope](https://open.spotify.com/track/6rD8xALFLNuKnRcAaQmgvL) | [Anna Grob](https://open.spotify.com/artist/3g42bTWoe3BPmk2bXeUN4Q) | [The Star/ Hope](https://open.spotify.com/album/1SDcr3bbREAd414awh0EYL) | 5:02 |
 | 50 | [Over It](https://open.spotify.com/track/0R7WrKRRA6NPgdUznhMmrN) | [Sonya](https://open.spotify.com/artist/4YOZK4SHcVKTlDSXvUbBiI) | [Over It](https://open.spotify.com/album/0y6G2bdQ8xMfG6HXyVSh46) | 2:34 |
 
-Snapshot ID: `AAAAABKCrzrT6Dabl0evsLZ7ocA3lzSv`
+Snapshot ID: `AAAAAHSrYBkX6mya+YyIJWg2IirbasWz`

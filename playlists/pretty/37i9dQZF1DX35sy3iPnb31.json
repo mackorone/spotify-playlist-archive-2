@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2997,
+  "num_followers": 3001,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJQna1Z1h4M2f/HJ375dBaYk3EF7",
+  "snapshot_id": "AAAAADRK0ESN96CgguFF0iK9kmrPFfn8",
   "tracks": [
     {
       "added_at": "2026-11-01 04:01:35",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "Light and Matter",
+        "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
+      },
+      "artists": [
+        {
+          "name": "Caroline Marie Brooks",
+          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
+        }
+      ],
+      "duration_ms": 174045,
+      "name": "Make it Happen",
+      "url": "https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "Le X du Y",
         "url": "https://open.spotify.com/album/1MOJ3yoBkhKu4avZl3jc04"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 167820,
       "name": "angela the traveller",
       "url": "https://open.spotify.com/track/6awYyFgfpLRSsOj7bm8OXY"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "Light and Matter",
-        "url": "https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d"
-      },
-      "artists": [
-        {
-          "name": "Caroline Marie Brooks",
-          "url": "https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe"
-        }
-      ],
-      "duration_ms": 174045,
-      "name": "Make it Happen",
-      "url": "https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "S\u00e9r\u00e9nade / Savage",
-        "url": "https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF"
-      },
-      "artists": [
-        {
-          "name": "IDHEM",
-          "url": "https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa"
-        }
-      ],
-      "duration_ms": 109859,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Playboi 3arbi",
         "url": "https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 113777,
       "name": "Playboi 3arbi",
       "url": "https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "S\u00e9r\u00e9nade / Savage",
+        "url": "https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF"
+      },
+      "artists": [
+        {
+          "name": "IDHEM",
+          "url": "https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa"
+        }
+      ],
+      "duration_ms": 109859,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE"
     }
   ],
   "unique_name": "Editors' Picks: Best Canadian Songs of October",

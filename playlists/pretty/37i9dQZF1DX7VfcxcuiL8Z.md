@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > Ecca Vandal 🤘
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,294 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,293 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Silencio](https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Silencio](https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB) | 2:35 |
 | 80 | [Bleeding Heart](https://open.spotify.com/track/1WXuljOQWtK6rKRNM4SlEk) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [Bleeding Heart](https://open.spotify.com/album/02TN5COA7e3uh96dRwLPBr) | 3:32 |
 
-Snapshot ID: `AAAAAAbu5fqQHbWZoyaWUL1iWizP1pHk`
+Snapshot ID: `AAAAAOJ4Npco8nrjW569xugQMfdbbUTX`

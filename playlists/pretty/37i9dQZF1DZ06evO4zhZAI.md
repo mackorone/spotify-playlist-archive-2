@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zhZAI.md) - [plain]
 
 > This is Erykah Badu\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,565 likes - 44 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,600 likes - 44 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zhZAI.md) - [plain]
 | 35 | [The Healer](https://open.spotify.com/track/7otmKWoMlpWkrMnnIQHXEg) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 3:59 |
 | 36 | [Woo](https://open.spotify.com/track/7fRPY74Uk27yrTj1oYUFAj) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Worldwide Underground](https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ) | 3:14 |
 | 37 | [On Me](https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [So You Know](https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ) | 3:43 |
-| 38 | [Poetry](https://open.spotify.com/track/3nSECoLmCiUbpQVJtpmS1I) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 5:48 |
+| 38 | [Plenty](https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:38 |
 | 39 | [Soldier](https://open.spotify.com/track/5rI0lmvmena4CW3C4zwZ4v) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 5:03 |
-| 40 | [Plenty](https://open.spotify.com/track/6zSe7ZKNjb6Zl5AP78y5QN) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:38 |
+| 40 | [Poetry](https://open.spotify.com/track/3nSECoLmCiUbpQVJtpmS1I) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 5:48 |
 | 41 | [Hello](https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:19 |
 | 42 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
 | 43 | [Honey](https://open.spotify.com/track/2z4ypE6YI1mybsczNx4eRU) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 5:20 |
 | 44 | [Lowkey \(feat\. Erykah Badu\)](https://open.spotify.com/track/6PMb77Py549WyGEDJNAacT) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 4:17 |
 
-Snapshot ID: `awDfAAAAAAAbfTRX3KmhQtwi7oFuvk82`
+Snapshot ID: `awIwgAAAAADu65u0bj5nyw9ZoTDD5oxf`

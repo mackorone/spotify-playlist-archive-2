@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Turfy Gang
 
-248 songs - 11 hr 5 min
+249 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Française](https://open.spotify.com/track/3XdNLqN4nyNyYALXivzyuv) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Française + Fingerspitzengefühl](https://open.spotify.com/album/6oRD1xA4tfn69g2PjN5dvz) | 2:30 | 2026-10-08 |  |
 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-04-20 |  |
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-07-17 | 2025-09-26 |
-| [Gele Ferrari](https://open.spotify.com/track/7pEAaR3p9CVZGmBnpV2yfs) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Gele Ferrari](https://open.spotify.com/album/1MTgh7djiwrVTtQIyf4g0F) | 2:14 | 2026-11-05 |  |
+| [Gele Ferrari](https://open.spotify.com/track/7pEAaR3p9CVZGmBnpV2yfs) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Gele Ferrari](https://open.spotify.com/album/1MTgh7djiwrVTtQIyf4g0F) | 2:14 | 2026-11-05 | 2026-11-24 |
 | [Get Motivated ft\. jstlbby](https://open.spotify.com/track/3Z2Fv9bPjtEdKpxVUzAToD) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN), [jstlbby](https://open.spotify.com/artist/5BLDZvqf1kjdGL4jwFhAk5) | [Get Motivated ft\. jstlbby](https://open.spotify.com/album/72i0l28kBTOIaYKC84tMGG) | 2:24 | 2025-07-17 | 2025-12-12 |
 | [Get Stupid](https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Get Stupid](https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom) | 3:21 | 2025-08-25 | 2026-05-29 |
 | [Giftig](https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Giftig](https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2) | 2:52 | 2025-07-17 | 2025-10-14 |
@@ -246,6 +246,7 @@
 | [Weekend](https://open.spotify.com/track/6vIdMFb41Jdej53GSNPlQs) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zin In De Zomer Man](https://open.spotify.com/album/6Gkcya6VzCPstK4IcPBoiv) | 1:57 | 2025-07-17 | 2025-08-26 |
 | [What’s a Girl to Do in ‘25](https://open.spotify.com/track/4XsQ5Iq8VUNAY006J7GQY0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What’s a Girl to Do in ‘25](https://open.spotify.com/album/1wFswwju0J072xesMYeMCz) | 2:28 | 2025-10-01 |  |
 | [Where You Are](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2026-07-07 | 2026-09-05 |
+| [Wildeburg](https://open.spotify.com/track/5XUX0a6gjFDIv0fqOloS8u) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [DE GIER](https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw) | 2:21 | 2026-11-23 |  |
 | [Wonderful Days Reloaded](https://open.spotify.com/track/15CrTXlLEtKAtyNDVJeVzr) | [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Magro](https://open.spotify.com/artist/6pcRBddUXrkKkYn0bJs232) | [Wonderful Days Reloaded](https://open.spotify.com/album/1RqJBgZceR486K5x9OEQQC) | 2:58 | 2025-07-17 | 2026-05-29 |
 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 | 2025-07-17 |  |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2025-07-17 | 2025-08-29 |

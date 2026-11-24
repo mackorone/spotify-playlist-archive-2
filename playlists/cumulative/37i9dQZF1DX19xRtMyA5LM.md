@@ -4,7 +4,7 @@
 
 > ❗️Nieuwe tracks van Kevin, Spanker, Mesy, Rijck, Bartofso en meer..
 
-664 songs - 1 day 5 hr 50 min
+665 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Halverwege](https://open.spotify.com/track/7KxHjOF8gA8GalwSCXVvlG) | [Kieks](https://open.spotify.com/artist/726JnbIAqlICv9oInzGQ1Q), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Halverwege](https://open.spotify.com/album/6QnV0OMemf0a9y2ifU4VoI) | 1:57 | 2025-11-03 | 2026-02-06 |
 | [HAMBURG](https://open.spotify.com/track/347skOF66jCKg8S8wVW84l) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [UCEF](https://open.spotify.com/artist/5NVwsxoeAOa9CCgOHhAri4) | [HAMBURG](https://open.spotify.com/album/2IUQNfJNA98xqs4hOhqxr3) | 2:58 | 2025-09-11 | 2025-09-19 |
 | [Handschoen](https://open.spotify.com/track/2nronHAna955wZyk3SuS7n) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Handschoen](https://open.spotify.com/album/5SFCedMDXmTcxkENcrl1iL) | 2:08 | 2026-10-01 |  |
-| [Handy](https://open.spotify.com/track/5OXjVGVg7iDedV6UKNunhb) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [DE GIER](https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw) | 2:09 | 2026-11-19 |  |
+| [Handy](https://open.spotify.com/track/5OXjVGVg7iDedV6UKNunhb) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [DE GIER](https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw) | 2:09 | 2026-11-19 | 2026-11-24 |
 | [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 | 2026-03-12 | 2026-05-15 |
 | [Hans Kazan \- Remix](https://open.spotify.com/track/2hcKodQRgx1vN924gJz3Rf) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Hans Kazan](https://open.spotify.com/album/0y6RO57aYva65mN3l6E3aZ) | 2:27 | 2026-05-07 | 2026-06-12 |
 | [Hard Voor Weinig](https://open.spotify.com/track/67jyx8mRKgvSCjooCm2idy) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Praat van de Straat II](https://open.spotify.com/album/1FJjBOUikw0lbonmFIg0ew) | 2:52 | 2025-11-27 | 2025-12-19 |
@@ -509,6 +509,7 @@
 | [Rodney](https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [VOOR DE RITSELAARS](https://open.spotify.com/album/2h4PDrB0ZQFYxlaY2LCmb1) | 3:08 | 2025-12-04 | 2026-02-27 |
 | [Rondjes](https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Vrijspel](https://open.spotify.com/album/52cIFs3jvyBOzVuun6nu0r) | 3:03 | 2025-10-30 | 2026-01-23 |
 | [Rooie Tekens](https://open.spotify.com/track/1kveR5ZpvtT1ImeWTy8Sw9) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Rooie Tekens](https://open.spotify.com/album/6u9yVkuABzba88MMZy3J00) | 2:40 | 2025-07-24 | 2025-08-15 |
+| [Rook](https://open.spotify.com/track/0b2z6Y30P0MHVtVmoYVG3c) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [DE GIER](https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw) | 3:30 | 2026-11-23 |  |
 | [Route](https://open.spotify.com/track/74b6Krkz0zbNZRLaQuSxCn) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Hakmadafack](https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz) | [Route](https://open.spotify.com/album/6hh4CYTgPSAaPGeGOHOnAn) | 2:26 | 2025-08-14 | 2025-10-17 |
 | [Roze Zonnebril](https://open.spotify.com/track/5zD9fYFVY4vYPiI8ROEiy1) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Roze Zonnebril](https://open.spotify.com/album/3u2X1xkmS1Dd5X7xijhuIz) | 3:29 | 2025-08-28 | 2025-10-03 |
 | [Rozen & Blaadjes](https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Rozen & Blaadjes](https://open.spotify.com/album/1v6MVT0CLct3K7NGC9gQmj) | 2:29 | 2026-04-23 | 2026-10-02 |

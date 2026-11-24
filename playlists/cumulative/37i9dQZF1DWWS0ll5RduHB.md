@@ -4,7 +4,7 @@
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-277 songs - 15 hr 51 min
+278 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 | 2025-10-02 | 2026-11-07 |
 | [Opening Line](https://open.spotify.com/track/4SYuHF6mkmOm9kMEhZYSLv) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [everland](https://open.spotify.com/album/6KDACdZRZMtZGAv00d3cpP) | 2:50 | 2026-06-25 | 2026-11-07 |
 | [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 | 2025-07-02 | 2026-11-07 |
-| [Our Year](https://open.spotify.com/track/4faHxt98lvOrv4InWwgR6U) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Our Year](https://open.spotify.com/album/2g1D6JBcSrCBMnj3eQOVft) | 2:39 | 2026-10-20 |  |
+| [Our Year](https://open.spotify.com/track/4faHxt98lvOrv4InWwgR6U) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Our Year](https://open.spotify.com/album/2g1D6JBcSrCBMnj3eQOVft) | 2:39 | 2026-10-20 | 2026-11-24 |
 | [Oyster](https://open.spotify.com/track/4msP6oQS3o5LjQM2PmxcLK) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Oyster](https://open.spotify.com/album/7zjufVBqUzHUwJGPI7gI7f) | 4:46 | 2025-07-17 | 2025-09-06 |
 | [PANGEA](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [PANGEA](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 | 2026-11-06 |  |
 | [Paradise](https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Paradise](https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B) | 3:01 | 2026-10-20 |  |
@@ -233,6 +233,7 @@
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2024-06-20 | 2025-07-26 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-06-20 | 2026-04-18 |
 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 | 2026-05-21 | 2026-07-02 |
+| [When the Night Feels My Song](https://open.spotify.com/track/2QAfvEXiEihVL1VGt2NrRS) | [Luminati Suns](https://open.spotify.com/artist/3L3LFvtOjqaNkOvZDIFnW0) | [When the Night Feels My Song](https://open.spotify.com/album/4mDdGsHvEBu0rQKsJo5VA1) | 2:30 | 2026-11-06 |  |
 | [where the sunlight glows](https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [where the sunlight glows](https://open.spotify.com/album/0otYOrLWaDQLZLo3WychLa) | 2:43 | 2025-07-15 | 2025-09-06 |
 | [Who Do You Love \(feat\. The Milk Carton Kids\)](https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Little Miss Twain \- The Places I'll Go](https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6) | 2:59 | 2026-10-20 |  |
 | [Why I Don't Make Music Anymore](https://open.spotify.com/track/3AQcOWblLcNF8vkspZRuUX) | [Chisun](https://open.spotify.com/artist/2JXAtYX81CVMiouRhZ41u6) | [Why I Don't Make Music Anymore](https://open.spotify.com/album/3oqCZNxRAc6pYrHtzSUvEM) | 3:10 | 2025-07-17 | 2025-09-06 |

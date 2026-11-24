@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Guddhist Gunatita, Baby Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,157 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,521 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 25 | [So Bad \(feat\. Samsara 304\)](https://open.spotify.com/track/4sBQ98I4jaBeuFh6aVJHzl) | [GRA the Great](https://open.spotify.com/artist/3w5kgMZkmUD997k44uHz9N), [Samsara 304](https://open.spotify.com/artist/7iDnmQrHjOaihg0RLOp4RQ) | [So Bad](https://open.spotify.com/album/1uQpwZwVmvLSGccTfKvJs5) | 3:08 |
 | 26 | [SA GABE](https://open.spotify.com/track/3XyIsxrNNGzVUHmbQkANBt) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI), [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [LiFT OFF MiXTAPE](https://open.spotify.com/album/6AcssXGgA6H1jYq2eTVMsZ) | 5:04 |
 | 27 | [DI TO HIMALA](https://open.spotify.com/track/37ZH6VsIUmwRNX7kj6yDZU) | [Hijo](https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6), [riv](https://open.spotify.com/artist/3wn0W7LBB2D2t8ZKScTeJ6) | [DORK](https://open.spotify.com/album/4MAscIFcOOTKOJxg9GayR6) | 2:20 |
-| 28 | [Halik Sobrang Diin PT.3](https://open.spotify.com/track/1CPQMfBLzoCIvPyiKA2WUQ) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N), [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [Halik Sobrang Diin PT.3](https://open.spotify.com/album/1DmXOFSjAf7bcyuyYDwYpr) | 3:58 |
+| 28 | [Halik Sobrang Diin PT.3](https://open.spotify.com/track/1CPQMfBLzoCIvPyiKA2WUQ) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [Halik Sobrang Diin PT.3](https://open.spotify.com/album/1DmXOFSjAf7bcyuyYDwYpr) | 3:58 |
 | 29 | [Lason](https://open.spotify.com/track/6LfQlTiWfP73dcQlkU5fWk) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Lason](https://open.spotify.com/album/0W9fij7xoPXJdAOg7wW2y0) | 3:37 |
 | 30 | [SINAYANG MO](https://open.spotify.com/track/2en7U6rrWfZomS9y7AWleC) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [SINAYANG MO](https://open.spotify.com/album/0whfWV03SIkgggiwxATXRl) | 5:00 |
 | 31 | [SALINGPUSA](https://open.spotify.com/track/2Fsh0WRlXMWsc6PElFzvlo) | [Matt Habit](https://open.spotify.com/artist/7DUHV9eV5ylOpADLzvISe4) | [SALINGPUSA](https://open.spotify.com/album/2d93wVVEW72lW6oEEHgrwp) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Millionz](https://open.spotify.com/track/35nnC1CkiFCnfhCuEIfJQx) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Millionz](https://open.spotify.com/album/1i6350vDfRmlOozvH0OZQr) | 3:02 |
 | 50 | [Type G](https://open.spotify.com/track/2VhL5aPzVoGvniMFKgLmrq) | [Zombie Bleu](https://open.spotify.com/artist/0CelpCXw05DJ5EH7893QRv) | [Type G](https://open.spotify.com/album/0shX2EZZkqVPMGVOgLlPNb) | 3:11 |
 
-Snapshot ID: `AAAAAA966NiLApjfTwbgMdBXXhG+bQkI`
+Snapshot ID: `AAAAAOnhehx+DpJbhsDuzncR05WgiRMr`

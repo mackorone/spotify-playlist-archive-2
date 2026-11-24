@@ -4,7 +4,7 @@
 
 > 
 
-290 songs - 15 hr 11 min
+293 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [fall in love again](https://open.spotify.com/track/7pJahn2HDV3o13cTMfey1K) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [fall in love again](https://open.spotify.com/album/7vv4gLpYpoRWlsZ5KLLbyO) | 2:03 | 2026-03-15 |  |
 | [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 | 2025-12-11 |  |
 | [FAMOUS](https://open.spotify.com/track/4qEnIy1gg6nUNES2OxWr9N) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA), [w0nderthug](https://open.spotify.com/artist/4TaOqV1FUHnhkX67H25xJp) | [FAMOUS](https://open.spotify.com/album/1kNBfxOpHZ5JWiqixGLZXp) | 3:36 | 2026-01-02 |  |
+| [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy) | 2:55 | 2026-11-24 |  |
 | [Fastlife](https://open.spotify.com/track/37X0LVMpjlxIeiW7mpre4I) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Fastlife](https://open.spotify.com/album/17qINZKWn4KsLPIpiyZqV8) | 2:58 | 2025-04-06 |  |
 | [Feel Like I'm Brunson](https://open.spotify.com/track/4SQhdRS8ZGqBfrv5sHuAgB) | [LVLuck](https://open.spotify.com/artist/6I1V23yCf9NR48DNdniRd6) | [Feel Like I'm Brunson](https://open.spotify.com/album/4bPXWupAcwdH8olxYJZeWU) | 2:57 | 2026-07-03 |  |
 | [Fire](https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:04 | 2026-06-24 |  |
@@ -192,6 +193,7 @@
 | [Ojos Verdes](https://open.spotify.com/track/4Dm0V6rpjbEjQKACxbnG2L) | [Exen](https://open.spotify.com/artist/1nifjsMyLyjkDexOqptbeq) | [Ojos Verdes](https://open.spotify.com/album/197SmE1V69QtScoUSnvlhy) | 2:49 | 2025-04-10 |  |
 | [Old Soul](https://open.spotify.com/track/4zoyn0XwZ2MysyRYxNcTCp) | [Herald K](https://open.spotify.com/artist/1rG4pmrcpdK5cmkqFDVXRk) | [Mythologies](https://open.spotify.com/album/4kxNO2xUxABCx3RP6CgpSb) | 3:18 | 2026-01-07 |  |
 | [One and Only](https://open.spotify.com/track/73wr3gNS6bOGO7yv4vCD24) | [Dareen](https://open.spotify.com/artist/7azOWyR2mZ7PSy71udacAB), [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [One and Only](https://open.spotify.com/album/40N9skHDNb6YX6WfvOvZ2N) | 3:27 | 2025-07-15 |  |
+| [One Night Glance](https://open.spotify.com/track/6frjxTxA4yHrNrifHlMSNL) | [Medikate](https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh) | [One Night Glance](https://open.spotify.com/album/3cj11FNtdUKsNgkMtL2j7S) | 2:18 | 2026-11-24 |  |
 | [Or Nah \- Spanish Version](https://open.spotify.com/track/3szuFgl7zsoSKNtJAWpMPB) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Or Nah \(Spanish Version\)](https://open.spotify.com/album/67MJVFPDbsF5MkaqICtx2U) | 2:05 | 2026-03-13 |  |
 | [OSAKA GHOST](https://open.spotify.com/track/0tceQ475Sk4ZIkIqnLoJP7) | [Astro Wagon](https://open.spotify.com/artist/3GxYu9iRj6AMeIrydORMTI), [Jon Voyage](https://open.spotify.com/artist/1kJFnDZoyYXmMU7DIMktWN) | [OSAKA GHOST](https://open.spotify.com/album/2acZVzl7GZlIw1sbbTcAIC) | 2:25 | 2026-06-24 |  |
 | [Out Of Your Mind](https://open.spotify.com/track/5GrkmVVLabYjq1iap5aqF2) | [VANNAH LEE](https://open.spotify.com/artist/0o2AeqlJETyETAvfZcVgvG) | [Out Of Your Mind](https://open.spotify.com/album/2pzwxx7gyFsQG9ZZprCgpP) | 3:07 | 2025-09-15 |  |
@@ -273,6 +275,7 @@
 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 | 2025-12-10 |  |
 | [Tu veux du fric](https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H) | [Cody Blackstone](https://open.spotify.com/artist/5GqF0wXj5zyOE5O5gcOkqC) | [Instant T](https://open.spotify.com/album/4PuvykWwdBaxjdxNSkoX2f) | 3:06 | 2025-04-03 |  |
 | [Two Lives](https://open.spotify.com/track/7MncHPXeZMEQYtnbiaxxvJ) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Two Lives](https://open.spotify.com/album/6XHsRmumVaZpfST8VWaQEx) | 3:58 | 2026-06-03 |  |
+| [Tx](https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy) | [Tx](https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6) | 2:38 | 2026-11-24 |  |
 | [VUELVE SOLA](https://open.spotify.com/track/3ZMYR804hQICmG5GcLBL8p) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0) | [VUELVE SOLA](https://open.spotify.com/album/5Jc79SlcKcBxjnz1szJwLj) | 2:22 | 2026-05-06 |  |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2026-02-19 |  |
 | [Wait Up](https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wait Up](https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM) | 2:04 | 2026-03-27 |  |

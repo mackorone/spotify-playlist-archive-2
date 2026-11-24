@@ -1,12 +1,12 @@
 {
   "description": "LA P*TA GAMA LA MAMI \ud83d\udcf8 El More",
-  "num_followers": 312251,
+  "num_followers": 312445,
   "original_name": "El Diablo Viste a La Gama ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANMA24p3ys/QfdY4VbYYDw1qDs9C",
+  "snapshot_id": "AAAAABMDW2wNT9ovd5BkycW/3My03svF",
   "tracks": [
     {
       "added_at": "2026-11-20 02:17:57",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
-        "name": "candyOperreo",
-        "url": "https://open.spotify.com/album/0ILOLC0v8YFOVuyKu1RWmD"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        }
-      ],
-      "duration_ms": 120479,
-      "name": "candyOperreo",
-      "url": "https://open.spotify.com/track/66IBtyHXlV1TpTOrslG113"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
         "name": "TRABAJANDO",
         "url": "https://open.spotify.com/album/0Z0QsiRive6QhZ2yqlr1uf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 153722,
       "name": "TRABAJANDO",
       "url": "https://open.spotify.com/track/0LPRPUnkcCkZ3ZtEpQuema"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
+        "name": "candyOperreo",
+        "url": "https://open.spotify.com/album/0ILOLC0v8YFOVuyKu1RWmD"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "duration_ms": 120479,
+      "name": "candyOperreo",
+      "url": "https://open.spotify.com/track/66IBtyHXlV1TpTOrslG113"
     },
     {
       "added_at": "2026-11-20 02:17:57",

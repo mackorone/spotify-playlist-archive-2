@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 18291,
+  "num_followers": 18316,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAAD3BjdYAhPIfK0T9mbXPYtQ",
+  "snapshot_id": "awIwgAAAAADwlw99cZtZ4fgN1vuY2f6b",
   "tracks": [
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Chavosa",
-        "url": "https://open.spotify.com/album/1Gq0laUODJttT7TqiRXjHJ"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Diabelsmusic",
-          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Mina Chavosa",
-      "url": "https://open.spotify.com/track/3mCrLzxS2h3Y4thoNFnf7w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEUS ERROS DE NOVO",
         "url": "https://open.spotify.com/album/3jm5RUaGwTaCjVQyRd6x7m"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 174722,
       "name": "Quero, Penso, Posso",
       "url": "https://open.spotify.com/track/1nEPNhPbHqskS7hNb98Orb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Chavosa",
+        "url": "https://open.spotify.com/album/1Gq0laUODJttT7TqiRXjHJ"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Diabelsmusic",
+          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Mina Chavosa",
+      "url": "https://open.spotify.com/track/3mCrLzxS2h3Y4thoNFnf7w"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Romeo Santos & Prince Royce",
-  "num_followers": 1785921,
+  "num_followers": 1785715,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABHL/G21esTD2kFvbXlIIGNffWEU",
+  "snapshot_id": "AAAAAE/ejmV99wi51nyO1vF9OoC/P8+B",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:19",
@@ -231,26 +231,6 @@
     {
       "added_at": "2026-11-20 05:01:19",
       "album": {
-        "name": "Duro De Verdad pt.2",
-        "url": "https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA"
-      },
-      "artists": [
-        {
-          "name": "Los Sufridos",
-          "url": "https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 204303,
-      "name": "Duro De Verdad pt.2",
-      "url": "https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1"
-    },
-    {
-      "added_at": "2026-11-20 05:01:19",
-      "album": {
         "name": "Qu\u00e9 Pecao",
         "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 230073,
       "name": "Qu\u00e9 Pecao",
       "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
+    },
+    {
+      "added_at": "2026-11-20 05:01:19",
+      "album": {
+        "name": "Duro De Verdad pt.2",
+        "url": "https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA"
+      },
+      "artists": [
+        {
+          "name": "Los Sufridos",
+          "url": "https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 204303,
+      "name": "Duro De Verdad pt.2",
+      "url": "https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1"
     },
     {
       "added_at": "2026-11-20 05:01:19",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-11-20 05:01:19",
       "album": {
+        "name": "La Rueda",
+        "url": "https://open.spotify.com/album/4wOmtNiEwFgpJkMqpPvw2k"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "La Rueda",
+      "url": "https://open.spotify.com/track/1IhFRotuBhS4jJGxfk10LR"
+    },
+    {
+      "added_at": "2026-11-20 05:01:19",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/0v93cVeuek2BnhTDbLRcGa"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2026-11-20 05:01:19",
       "album": {
-        "name": "La Rueda",
-        "url": "https://open.spotify.com/album/4wOmtNiEwFgpJkMqpPvw2k"
+        "name": "Sin Gravedad",
+        "url": "https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6"
       },
       "artists": [
         {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+          "name": "Mario Baro",
+          "url": "https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP"
         }
       ],
-      "duration_ms": 235500,
-      "name": "La Rueda",
-      "url": "https://open.spotify.com/track/1IhFRotuBhS4jJGxfk10LR"
+      "duration_ms": 176097,
+      "name": "Sin Gravedad",
+      "url": "https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF"
     },
     {
       "added_at": "2026-11-20 05:01:19",
@@ -887,22 +903,6 @@
       "duration_ms": 208931,
       "name": "Cita",
       "url": "https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs"
-    },
-    {
-      "added_at": "2026-11-20 05:01:19",
-      "album": {
-        "name": "Sin Gravedad",
-        "url": "https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6"
-      },
-      "artists": [
-        {
-          "name": "Mario Baro",
-          "url": "https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Sin Gravedad",
-      "url": "https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF"
     }
   ],
   "unique_name": "Bachata Lovers",

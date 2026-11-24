@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAABMBLDK/yiVCCPzLdjloyaV",
+  "snapshot_id": "awIwgAAAAAD6bbJn0F7DhxH6XGj5PlTt",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
-        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
-      },
-      "artists": [
-        {
-          "name": "Linked Horizon",
-          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
-        }
-      ],
-      "duration_ms": 166033,
-      "name": "\u98a8\u304c\u5439\u3044\u305f\u65e5 - Piano Solo Version",
-      "url": "https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
         "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
       },
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 488513,
-      "name": "\u5e0c\u671b\u3078\u5411\u3046\u8b5a\u8a69\u66f2 - Long Version",
-      "url": "https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg"
+      "duration_ms": 166033,
+      "name": "\u98a8\u304c\u5439\u3044\u305f\u65e5 - Piano Solo Version",
+      "url": "https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5"
     },
     {
       "added_at": null,
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 372004,
-      "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
-      "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
+      "duration_ms": 488513,
+      "name": "\u5e0c\u671b\u3078\u5411\u3046\u8b5a\u8a69\u66f2 - Long Version",
+      "url": "https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg"
     },
     {
       "added_at": null,
@@ -468,9 +452,25 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 687298,
-      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
-      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
+      "duration_ms": 326693,
+      "name": "\u7d14\u611b(\u30cf\u30fc\u30c8\u30de\u30fc\u30af) \u5341\u5b57\u7832\u706b - Long Version",
+      "url": "https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 372004,
+      "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
+      "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
     },
     {
       "added_at": null,

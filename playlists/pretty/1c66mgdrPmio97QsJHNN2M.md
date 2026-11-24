@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,269 likes - 232 songs - 12 hr 4 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,276 likes - 246 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,5 +240,19 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 230 | [Stuck in the Middle](https://open.spotify.com/track/6PFUJO55SLs03ZoTnbv85C) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Iperborea Vol.1](https://open.spotify.com/album/6bB7FULYQlQwci2DZDrxTX) | 3:24 |
 | 231 | [I Found You](https://open.spotify.com/track/7FAOdJLKwdLJhe0BtEx9aU) | [Eden Roze](https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr) | [Verus](https://open.spotify.com/album/6yCCyLtibjser8qw0sdzvb) | 3:12 |
 | 232 | [The Mahdi](https://open.spotify.com/track/09fGfPrfeHoNB2J3c8GcqC) | [ZAYN REX](https://open.spotify.com/artist/6XYUi1Vy6fTFtpbFPMJ5ud) | [The Mahdi](https://open.spotify.com/album/0lpwaWj6VPgzTQaFPkrcrp) | 2:46 |
+| 233 | [Everybody Wanna Love Somebody](https://open.spotify.com/track/4fHnSiaf45SDue4SyiTJls) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Everybody Wanna Love Somebody](https://open.spotify.com/album/7eZ98siGjZDln2SYjXbqQj) | 2:42 |
+| 234 | [He'll never go far](https://open.spotify.com/track/1wM3Gj2X7nYv6fGzGzyeMW) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [He'll never go far](https://open.spotify.com/album/4er52XK8x32a4g9ThSrIeq) | 2:58 |
+| 235 | [Growing Pains](https://open.spotify.com/track/5PzA52j7HPKy7DUG37j2dQ) | [Sam Paige](https://open.spotify.com/artist/0XZOWlQJa4sLSePKpINvnt) | [Growing Pains](https://open.spotify.com/album/16PWLRi4H3mck51uDoocLo) | 2:55 |
+| 236 | [Good King Wenceslas \- Piano version](https://open.spotify.com/track/7gEGf52dgB1wWQiHoPtSoc) | [Juan María Solare](https://open.spotify.com/artist/0sr00YxbHKRAruzYrJ6PEg) | [Good King Wenceslas \(Piano version\)](https://open.spotify.com/album/2rYnpHCWy4qpBh6liWr0X4) | 2:15 |
+| 237 | [Circles](https://open.spotify.com/track/1Vh1EqodtaXy2NEzfKXMVO) | [Eden Roze](https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr) | [Verus](https://open.spotify.com/album/6yCCyLtibjser8qw0sdzvb) | 3:20 |
+| 238 | [Suck It Up](https://open.spotify.com/track/5DQHbWnMFJU05fBktOWbLW) | [Bethany Fernihough](https://open.spotify.com/artist/5XWLmej36z0IQPGcT5lf7G) | [Suck It Up](https://open.spotify.com/album/4jdyjUltYuUtGOi2F4QasF) | 2:24 |
+| 239 | [Samantha](https://open.spotify.com/track/2jrTh2j4W5ttmiKFPMekfU) | [Teishgram](https://open.spotify.com/artist/6ZfbhkKtXrzXklld74clvw) | [Samantha](https://open.spotify.com/album/0Le9QxSzMowprPlRg4uapl) | 2:50 |
+| 240 | [Goodbye on a High](https://open.spotify.com/track/1Rpf3vtHZIjk8QlfuqFZRA) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Goodbye on a High](https://open.spotify.com/album/4q8q2GmUdveEdHA33E2sb9) | 2:59 |
+| 241 | [Last Days of Rome](https://open.spotify.com/track/0EQkP95IMQbCFRrBULXrsw) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Last Days of Rome](https://open.spotify.com/album/0jZAfFVsQHjDuZTXpkkEWN) | 3:07 |
+| 242 | [LIFE](https://open.spotify.com/track/5sGm3brtmK71BAroKY48rE) | [Ryan Ashley](https://open.spotify.com/artist/7yqiktW2LbSk4i5jThiOxq) | [LIFE](https://open.spotify.com/album/2v9W4Dc2wgy9v6TCExINwi) | 2:57 |
+| 243 | [All Your Lovers](https://open.spotify.com/track/1OPWOUou0NHnJZpXjyYpOP) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [George and Jimmy the Machine](https://open.spotify.com/album/1uTHLXllYutimUi7vq5UOS) | 2:30 |
+| 244 | [\(This Is Not A\) Christmas Song](https://open.spotify.com/track/0ZwhAZXd6VUMFl9YASv9HM) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [\(This Is Not A\) Christmas Song](https://open.spotify.com/album/0HFNFqoA5JeCgicCc8pkoZ) | 3:19 |
+| 245 | [Bock Haben](https://open.spotify.com/track/5Yg44Z4B4VHZs2OwH2C2U3) | [World Sound Creations](https://open.spotify.com/artist/7ouI7ewdzlgfkh4n1rq8OR) | [Bock Haben](https://open.spotify.com/album/0lNiOi3eis2Shf15nzbVA6) | 3:04 |
+| 246 | [The Persian](https://open.spotify.com/track/2buthbCMjZzOR4Fp1QlawX) | [Ardeshir Farah](https://open.spotify.com/artist/3ijA529qU4mK7pOsSObT0P) | [The Persian](https://open.spotify.com/album/2b5tBYvPQYIjlfLxqMr6m0) | 4:09 |
 
-Snapshot ID: `AAA+Qk/4H1m/IYhLPjxfWBcct3cWUaA5`
+Snapshot ID: `AAA+UGWLNjK4mA/dJImprpcHWS0obd9p`

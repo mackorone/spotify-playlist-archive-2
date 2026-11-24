@@ -1,12 +1,12 @@
 {
   "description": "\"Ik draag geen handtjoeroes, bloten handen op die pijp. Pakkoes in je straat ik ben diegene die die gast vermijd\" -KLEPPER",
-  "num_followers": 38062,
+  "num_followers": 38084,
   "original_name": "Hoofd Heet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWhiRycUkwApB+FVgAY8V6OhW8s",
+  "snapshot_id": "AAAAANh1k6n6Z2KwfaSFTxpfg0keXkQn",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:35",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-11-19 23:01:35",
       "album": {
-        "name": "Wat Gaat",
-        "url": "https://open.spotify.com/album/2aaK8lpaj2jLzU0RQ9CQD1"
-      },
-      "artists": [
-        {
-          "name": "PB",
-          "url": "https://open.spotify.com/artist/6az4M83MZIelLYgaCKe6Rq"
-        }
-      ],
-      "duration_ms": 125281,
-      "name": "Wat Gaat",
-      "url": "https://open.spotify.com/track/3zVYfCzJ7PPvshOl1Lt0vi"
-    },
-    {
-      "added_at": "2026-11-19 23:01:35",
-      "album": {
         "name": "Sel3a Money",
         "url": "https://open.spotify.com/album/15OKfnir5TmKU9t4ZV8Lrw"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 252551,
       "name": "FF TERUG",
       "url": "https://open.spotify.com/track/0KxUxkxhBwFJaPSZxQkOB1"
+    },
+    {
+      "added_at": "2026-11-19 23:01:35",
+      "album": {
+        "name": "Wat Gaat",
+        "url": "https://open.spotify.com/album/2aaK8lpaj2jLzU0RQ9CQD1"
+      },
+      "artists": [
+        {
+          "name": "PB",
+          "url": "https://open.spotify.com/artist/6az4M83MZIelLYgaCKe6Rq"
+        }
+      ],
+      "duration_ms": 125281,
+      "name": "Wat Gaat",
+      "url": "https://open.spotify.com/track/3zVYfCzJ7PPvshOl1Lt0vi"
     },
     {
       "added_at": "2026-11-19 23:01:35",

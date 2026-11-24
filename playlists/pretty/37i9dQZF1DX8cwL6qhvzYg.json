@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
-  "num_followers": 461475,
+  "num_followers": 461493,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHprUl8GbDqD4P/9kyUpkTNHLXUL",
+  "snapshot_id": "AAAAAAkuxbq6NgDPOCsjS9oiLFRTgYKt",
   "tracks": [
     {
       "added_at": "2026-11-13 18:45:23",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Cuando No Estas Conmigo",
         "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 201367,
       "name": "Cuando No Estas Conmigo",
       "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -811,22 +811,18 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w"
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
         }
       ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C"
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -847,18 +843,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w"
       },
       "artists": [
         {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Fiesta Mexicana Con La Banda",
         "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 160626,
       "name": "La ni\u00f1a fresa",
       "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Quisiera regresar a t\u00ed",
-        "url": "https://open.spotify.com/album/0GM50rb8wZkUxA29aqWJPg"
-      },
-      "artists": [
-        {
-          "name": "Edgar Gonzalon",
-          "url": "https://open.spotify.com/artist/1H7VftuAq1hUQouE1VzrEh"
-        }
-      ],
-      "duration_ms": 249498,
-      "name": "Quisiera regresar a t\u00ed",
-      "url": "https://open.spotify.com/track/2o722RzlVedUkzKRjr01IN"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Negra Ron y Velas",
         "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Quisiera regresar a t\u00ed",
+        "url": "https://open.spotify.com/album/0GM50rb8wZkUxA29aqWJPg"
+      },
+      "artists": [
+        {
+          "name": "Edgar Gonzalon",
+          "url": "https://open.spotify.com/artist/1H7VftuAq1hUQouE1VzrEh"
+        }
+      ],
+      "duration_ms": 249498,
+      "name": "Quisiera regresar a t\u00ed",
+      "url": "https://open.spotify.com/track/2o722RzlVedUkzKRjr01IN"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Dominando y Controlando",
         "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
       },
@@ -1043,38 +1043,6 @@
       "duration_ms": 242586,
       "name": "El baile del gavil\u00e1n",
       "url": "https://open.spotify.com/track/4fzG5qBkdo1kT9UURFVrrL"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Recuerdos del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/7ImGLXDGaUWr0VufedVjUh"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos Negros De Tiberio",
-          "url": "https://open.spotify.com/artist/0aicnJzPuGJEnxUuAGBHO2"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Lagrimas de Escarcha",
-      "url": "https://open.spotify.com/track/6IXJ1OXYAVXbz0SBXorIhW"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Quiero Ser Feliz",
-        "url": "https://open.spotify.com/album/3DzoRQWzAcxVQ7rimv57Il"
-      },
-      "artists": [
-        {
-          "name": "La Cheverisima de Mauricio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5OjKMhPoN2Os8r86Nu4SkH"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Sue\u00f1o del Alma",
-      "url": "https://open.spotify.com/track/51rIVieMOTXVufas0FZ0SC"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1107,6 +1075,38 @@
       "duration_ms": 194826,
       "name": "Cumbia Del Sol",
       "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Recuerdos del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/7ImGLXDGaUWr0VufedVjUh"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Negros De Tiberio",
+          "url": "https://open.spotify.com/artist/0aicnJzPuGJEnxUuAGBHO2"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Lagrimas de Escarcha",
+      "url": "https://open.spotify.com/track/6IXJ1OXYAVXbz0SBXorIhW"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Quiero Ser Feliz",
+        "url": "https://open.spotify.com/album/3DzoRQWzAcxVQ7rimv57Il"
+      },
+      "artists": [
+        {
+          "name": "La Cheverisima de Mauricio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5OjKMhPoN2Os8r86Nu4SkH"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Sue\u00f1o del Alma",
+      "url": "https://open.spotify.com/track/51rIVieMOTXVufas0FZ0SC"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Vivo Pensando",
-        "url": "https://open.spotify.com/album/7a8EIsuzBITzyGuVEWdXcy"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Chaverra y Su Orquesta Salsa",
-          "url": "https://open.spotify.com/artist/3cMRB9zDn27gz917ELuHBD"
-        }
-      ],
-      "duration_ms": 297266,
-      "name": "Vivo Pensando",
-      "url": "https://open.spotify.com/track/535VOYu3rpCr6T8yxN4f0X"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Me Voy al Amanecer",
         "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
@@ -1871,6 +1855,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Vivo Pensando",
+        "url": "https://open.spotify.com/album/7a8EIsuzBITzyGuVEWdXcy"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Chaverra y Su Orquesta Salsa",
+          "url": "https://open.spotify.com/artist/3cMRB9zDn27gz917ELuHBD"
+        }
+      ],
+      "duration_ms": 297266,
+      "name": "Vivo Pensando",
+      "url": "https://open.spotify.com/track/535VOYu3rpCr6T8yxN4f0X"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "El Zapatazo Tribal (Remix)",
         "url": "https://open.spotify.com/album/5ZBEwO4cOHLjawYDniasMh"
       },
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "Cabo E",
-      "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Vampiresa",
         "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 298353,
       "name": "Vampiresa",
       "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "Cabo E",
+      "url": "https://open.spotify.com/track/7srQDWnrRqwnlNExaP9AJa"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "La Pobreza - Rebajada",
+      "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Malas Amistades - RADAR M\u00e9xico",
         "url": "https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 219500,
       "name": "Malas Amistades - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 166256,
-      "name": "La Pobreza - Rebajada",
-      "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
     },
     {
       "added_at": "2026-11-13 18:45:23",

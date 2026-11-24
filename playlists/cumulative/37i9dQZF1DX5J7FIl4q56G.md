@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: DOWN
 
-12,984 songs - 35 day 20 hr 5 min
+12,986 songs - 35 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4452,6 +4452,7 @@
 | [Full Fathom Five](https://open.spotify.com/track/2zBmWfRbtON2JgjwAVHorP) | [Atlantis Chronicles](https://open.spotify.com/artist/2yQwuvF6qxv98dqMrZ8iTm) | [Nera](https://open.spotify.com/album/7lxj95PeLr0SAQtSTNJxQH) | 3:51 | 2022-07-22 | 2022-07-30 |
 | [Full Moon Guidance](https://open.spotify.com/track/05vLPhjdmwj7Eq8JqDCUfz) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [I Don’t Want to See You in Heaven](https://open.spotify.com/album/3jTNWEwxFDdNCuHjc3CuHi) | 3:59 | 2025-05-16 | 2025-05-24 |
 | [Full Of Emptiness](https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Full Of Emptiness](https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa) | 2:54 | 2024-08-09 | 2024-08-17 |
+| [Full of Empty \- 2026 Version](https://open.spotify.com/track/3FVkJoB5jM7iB8mDJgeKFo) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Audio Secrecy \(15th Anniversary Edition\)](https://open.spotify.com/album/4GJijrNN1n75ynS6PbiDfx) | 4:14 | 2026-11-23 |  |
 | [Full Send](https://open.spotify.com/track/3qBJkEt0N3V2ka24NhqZqs) | [Fight From Within](https://open.spotify.com/artist/6mQi8LMPMts9Fz67wqneDV) | [Full Send](https://open.spotify.com/album/4bKLnzxR0GNIoUUdv8efRM) | 3:34 | 2023-05-19 | 2023-05-27 |
 | [Full Send](https://open.spotify.com/track/1IVOw9gDluD1wECrJNyokE) | [Spitting Glass](https://open.spotify.com/artist/0CXwaPUVaNtZyDoulC6cId), [Rhys Griffiths \(Mourn\)](https://open.spotify.com/artist/2xyDctLZr8veHEO3p0pkMm) | [Full Send](https://open.spotify.com/album/73rnhvdVoQCCfr6ICntAPM) | 3:03 | 2026-06-12 | 2026-07-04 |
 | [Full Tilt](https://open.spotify.com/track/431IRD7knRGUyAebdVgLmN) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Full Tilt](https://open.spotify.com/album/4VR5d5wfYWqReq8aWyNSiC) | 4:39 | 2023-07-14 | 2023-07-22 |
@@ -7337,6 +7338,7 @@
 | [Musket Fire](https://open.spotify.com/track/0zpU8xCvL1tuKPaWyInVvc) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Musket Fire](https://open.spotify.com/album/7L32VrKfCmxAaGzctwZnBl) | 3:46 | 2022-06-17 | 2022-06-24 |
 | [Mutilated Corpse in the Woods](https://open.spotify.com/track/01hvEVdtPY0H8WdCvgOkAR) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Mutilated Corpse in the Woods](https://open.spotify.com/album/3lXTQUxYKLsrw7mHHSsDhT) | 3:35 | 2026-04-10 | 2026-04-25 |
 | [Mutt](https://open.spotify.com/track/79srQ6xBvXMmCNiTVaI35z) | [Resistor](https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA) | [Mutt](https://open.spotify.com/album/5uMib9undb8tLueURTDtnf) | 2:41 | 2025-10-03 | 2025-10-18 |
+| [Mutual Death Warrant \(from GTAVI: The Album\)](https://open.spotify.com/track/5wHEByduQ67cUN48ddtgb0) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Mutual Death Warrant \(from GTAVI: The Album\)](https://open.spotify.com/album/6Ul8iBUTWthPOsoesxWMY5) | 3:47 | 2026-11-23 |  |
 | [Mutually Assured Dysfunction](https://open.spotify.com/track/4j0sPY8dAZhIXF8e7R41nG) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Mutually Assured Dysfunction](https://open.spotify.com/album/4MOFYm49csCCi9lyzFnrvM) | 6:15 | 2025-10-03 | 2025-10-18 |
 | [Muuntautuja](https://open.spotify.com/track/43koxanshMLCldZrTNsi1Y) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Muuntautuja](https://open.spotify.com/album/3H3pzXw7OUrgi4ZQbwmEmQ) | 4:30 | 2024-05-24 | 2024-06-01 |
 | [My Addiction](https://open.spotify.com/track/1IaINgwafAbbIhyxQ40DTJ) | [Silent Civilian](https://open.spotify.com/artist/25hWK9jrZMhT6bt3WvORpE) | [My Addiction](https://open.spotify.com/album/6rOlYxHh90YRtPzZ8lILs4) | 4:36 | 2022-12-09 | 2022-12-17 |

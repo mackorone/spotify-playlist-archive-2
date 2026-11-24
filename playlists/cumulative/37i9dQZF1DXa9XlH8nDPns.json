@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "9to5",
+        "url": "https://open.spotify.com/album/137SrdxZngzFFwUaZuRqS7"
+      },
+      "artists": [
+        {
+          "name": "uwase",
+          "url": "https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "9to5",
+      "url": "https://open.spotify.com/track/5nKwlZGvnxI3mKPl0JCXyv"
+    },
+    {
+      "album": {
+        "name": "A Different Kind of Happiness",
+        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246899,
+      "name": "A Different Kind of Happiness",
+      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
+    },
+    {
+      "album": {
         "name": "A Moment",
         "url": "https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa"
       },
@@ -164,7 +200,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 245836,
       "name": "Boston",
       "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
@@ -478,7 +514,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 201058,
       "name": "Don\u2019t Want to Know If You Are Lonely",
       "url": "https://open.spotify.com/track/390U9kFHudfXZWkk7LwZ3k"
@@ -994,7 +1030,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 189038,
       "name": "I Don't Dance",
       "url": "https://open.spotify.com/track/1IJYxWXp3UFOgnZDnmH6y9"
@@ -1712,7 +1748,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 139300,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/2pnAHWjCnYBSh3GXMBu2SF"
@@ -1730,7 +1766,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 328719,
       "name": "Red Flag Magician",
       "url": "https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb"
@@ -1971,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/1YAHNLFNRpKTg7BchT8crJ"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232454,
+      "name": "Simple Pleasures",
+      "url": "https://open.spotify.com/track/2WrxJ6w8SWXFtCRs14cpso"
+    },
+    {
+      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/1i5Ver0UuKtGr1eJSlbyXL"
       },
@@ -2191,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "T'Materiaal",
+        "url": "https://open.spotify.com/album/0ihPYf8yaLgFoVkbr6ITDV"
+      },
+      "artists": [
+        {
+          "name": "Don Melody Club",
+          "url": "https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "T'Materiaal",
+      "url": "https://open.spotify.com/track/6fz9rL2ofLahE4nf602QDM"
+    },
+    {
+      "album": {
         "name": "Young Chasers (Deluxe)",
         "url": "https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ"
       },
@@ -2353,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
+      },
+      "artists": [
+        {
+          "name": "Juney Boy",
+          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190157,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
+    },
+    {
+      "album": {
         "name": "undressed",
         "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
       },
@@ -2429,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "WALLFLOWER",
+        "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178334,
+      "name": "WALLFLOWER",
+      "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
+    },
+    {
+      "album": {
         "name": "we never dated",
         "url": "https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez"
       },
@@ -2476,7 +2584,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 204000,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/4fXvei4cy1NaaxaD6WNNtL"

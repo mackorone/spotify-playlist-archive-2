@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAACbLzCnHfKX1dSpHIwLElLo",
+  "snapshot_id": "awIwgAAAAABxB7bK0WE/raY8U3hItpFf",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural Wonder Beauty Concept",
-        "url": "https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/4MJUtAW4841s91OHlSbUsu"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 304000,
-      "name": "World Freehand Circle Drawing",
-      "url": "https://open.spotify.com/track/3NtOY5iEWTgTwt1zBTrFPq"
+      "duration_ms": 262000,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7"
     },
     {
       "added_at": null,
@@ -340,15 +340,15 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Wishful (draft)",
-      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
+      "duration_ms": 226000,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3YKoxarWdKzwVasA7oiAu7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/4MJUtAW4841s91OHlSbUsu"
+        "name": "Natural Wonder Beauty Concept",
+        "url": "https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7"
+      "duration_ms": 304000,
+      "name": "World Freehand Circle Drawing",
+      "url": "https://open.spotify.com/track/3NtOY5iEWTgTwt1zBTrFPq"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/3YKoxarWdKzwVasA7oiAu7"
+      "duration_ms": 189000,
+      "name": "Wishful (draft)",
+      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Claydee, Rena Morfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,580 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,583 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Esena Mono \- Malik Remix](https://open.spotify.com/track/5KNLxa9luSww08keMA65T0) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Esena Mono \(Malik Remix\)](https://open.spotify.com/album/2hrw2ocOVRZhCt0UYwyqjc) | 2:18 |
 | 50 | [Moiraia Sxesi](https://open.spotify.com/track/6EVzux5bgLYbYQX5ge4vIO) | [Marina Lamprou](https://open.spotify.com/artist/7iUCXsxIGTBfPEqSgyhYe5), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Moiraia Sxesi](https://open.spotify.com/album/41e2nWPNJCnHRpIwlIIZMn) | 2:54 |
 
-Snapshot ID: `AAAAAO5OdlOqxNdx0NvSAOSbMKDPeA70`
+Snapshot ID: `AAAAAGKD7kVmqlWHqY90hjya2Lv530MH`

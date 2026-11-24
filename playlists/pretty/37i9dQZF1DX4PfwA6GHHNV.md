@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,586 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,584 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 37 | [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 |
 | 38 | [OUTRA VIBE](https://open.spotify.com/track/55lABBf5SmAsYupb0Lt5Ww) | [Baby T](https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf), [137 Records](https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb), [Mc J9](https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [bernardo](https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9) | [OUTRA VIBE](https://open.spotify.com/album/0xUiOrMowCKvztafjQSvqe) | 3:20 |
 | 39 | [Blues](https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Blues](https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN) | 2:44 |
-| 40 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
-| 41 | [BRINDE](https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Avicena](https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L) | [BRINDE](https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac) | 2:56 |
-| 42 | [A Beira Mar](https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH) | [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I), [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [D3javú](https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ) | [A Beira Mar](https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N) | 3:48 |
-| 43 | [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 |
+| 40 | [BRINDE](https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Avicena](https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L) | [BRINDE](https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac) | 2:56 |
+| 41 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
+| 42 | [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 |
+| 43 | [A Beira Mar](https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH) | [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I), [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [D3javú](https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ) | [A Beira Mar](https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N) | 3:48 |
 | 44 | [Halo](https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Halo](https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4) | 3:11 |
 | 45 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
 | 46 | [Sem nada](https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Sem nada](https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [RINGUE](https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Hobb The Goat](https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ) | [RINGUE](https://open.spotify.com/album/5U60uRO6qeJOfwIiluPyTk) | 3:02 |
 | 50 | [Olé, Olé!](https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Olé, Olé!](https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH) | 2:44 |
 
-Snapshot ID: `AAAAAJRBWiZWEVO+LWSVIinRcWURialv`
+Snapshot ID: `AAAAAOLWuSXsc+Iq4tQ2tb4/5ajdC1BO`

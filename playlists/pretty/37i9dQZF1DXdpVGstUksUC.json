@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549915,
+  "num_followers": 549899,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALMzXaOcBGP/JmOhKpvPJytr3TMD",
+  "snapshot_id": "AAAAAEwtfa1d8HemOeNUTcXRkYMTOugc",
   "tracks": [
     {
       "added_at": "2026-03-13 04:00:13",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 333859,
       "name": "Noses in Roses, Forever",
       "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
-      },
-      "artists": [
-        {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Stoner Witch",
         "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 72800,
       "name": "Skweetis",
       "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+      },
+      "artists": [
+        {
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Dos E.P.'s",
-        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
-      },
-      "artists": [
-        {
-          "name": "Nebula",
-          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
-        }
-      ],
-      "duration_ms": 328960,
-      "name": "Smokin' Woman",
-      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Love Fear Choices and Astronauts",
         "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 651110,
       "name": "Bright Dawn of the Soul",
       "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Dos E.P.'s",
+        "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
+      },
+      "artists": [
+        {
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
+        }
+      ],
+      "duration_ms": 328960,
+      "name": "Smokin' Woman",
+      "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Run Run Run Run Run",
-        "url": "https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ"
-      },
-      "artists": [
-        {
-          "name": "Ghost Pipe",
-          "url": "https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0"
-        }
-      ],
-      "duration_ms": 329833,
-      "name": "Run Run Run Run Run",
-      "url": "https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 311546,
       "name": "Gold",
       "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Run Run Run Run Run",
+        "url": "https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ"
+      },
+      "artists": [
+        {
+          "name": "Ghost Pipe",
+          "url": "https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0"
+        }
+      ],
+      "duration_ms": 329833,
+      "name": "Run Run Run Run Run",
+      "url": "https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw"
     },
     {
       "added_at": "2026-03-13 04:00:13",

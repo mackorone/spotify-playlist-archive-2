@@ -4,7 +4,7 @@
 
 > New soul\-infused music! Cover: Bruno Mars
 
-1,390 songs - 3 day 11 hr 52 min
+1,391 songs - 3 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Justify](https://open.spotify.com/track/26UzerN8SGvaDcPf7nPohb) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Justify](https://open.spotify.com/album/4tjx0hXqgKopu5upjgVX6y) | 3:18 | 2025-10-14 | 2026-08-29 |
 | [K.T.Y.W.S.](https://open.spotify.com/track/1u3g9logKPJbG92rtABCR1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:16 | 2025-04-24 | 2026-02-04 |
 | [Kaleidoscope](https://open.spotify.com/track/39sR7JrYqrJwrlzXQWlDYN) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Kaleidoscope](https://open.spotify.com/album/3EQEzX8FHQuZ7TTKSJr2jQ) | 3:17 | 2024-06-14 | 2025-02-28 |
+| [Kamikazi](https://open.spotify.com/track/5NsWLe50IEKoV99IShQg86) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [Slingbaum](https://open.spotify.com/artist/1PWbIqVLjvg2W4dU0LdMA2) | [Kamikazi](https://open.spotify.com/album/04YHw3mpkB0q9BHYT60Vxu) | 4:22 | 2026-11-23 |  |
 | [Karma](https://open.spotify.com/track/2k9R6I6dhAWnNnsU4qS53p) | [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP) | [Karma](https://open.spotify.com/album/5YA9fKZpw1m6yGs360j4Ke) | 3:44 | 2024-04-25 | 2024-09-12 |
 | [Keep Movin'](https://open.spotify.com/track/00Lh7DFG3ScciWc6GbKDH5) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R), [Licks & Brains](https://open.spotify.com/artist/29FlGvcsEZMNyzE37QPB9Z) | [Keep Movin'](https://open.spotify.com/album/3WH6QxJj0oKMn7XhDegZai) | 3:56 | 2024-03-14 | 2024-06-29 |
 | [Keep Trying](https://open.spotify.com/track/31s5URWlrDn1rkgbheFcmi) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Season Of Vulnerability](https://open.spotify.com/album/5y8anfBliwhEni9FU66Bt4) | 3:27 | 2023-06-07 | 2023-08-16 |

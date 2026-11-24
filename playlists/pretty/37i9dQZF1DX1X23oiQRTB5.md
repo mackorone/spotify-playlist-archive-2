@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > SDM & Ninho au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,425,407 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,425,219 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [M.D](https://open.spotify.com/track/3bz3hKFyCsy60V2uURnEYZ) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Silence Radio](https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20) | 2:55 |
 | 40 | [Dégun](https://open.spotify.com/track/42KE76b1zWzeyFYYz6xKTF) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [Dégun](https://open.spotify.com/album/41PYeXwfA8Tenh0HajTLud) | 2:58 |
 
-Snapshot ID: `AAAAABGZItQF6oD3JKTugQHJLdHnTuF/`
+Snapshot ID: `AAAAALzS+PkEUjlbjIrTKf+j+NeaHSIO`

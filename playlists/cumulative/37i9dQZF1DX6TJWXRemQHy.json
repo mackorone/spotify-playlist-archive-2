@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 160000,
       "name": "End Of Day LA",
       "url": "https://open.spotify.com/track/7mQ9IPAzeUPumxluQQaUnE"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 186447,
       "name": "Essence",
       "url": "https://open.spotify.com/track/27H4fVlVuhcPH3buersmYj"
@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "feel like sleeping but i'm overthinking",
+        "url": "https://open.spotify.com/album/5qlJe5XQTzf3Pm0nIbXKWY"
+      },
+      "artists": [
+        {
+          "name": "lyr\u03bbmbient",
+          "url": "https://open.spotify.com/artist/2yTJYxhglamTW9F83R8wSV"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102257,
+      "name": "feel like sleeping but i'm overthinking",
+      "url": "https://open.spotify.com/track/2052qx8ojDySMWZu7bovzI"
+    },
+    {
+      "album": {
         "name": "Flare Of Dawn",
         "url": "https://open.spotify.com/album/4yX7PwdlXbhniMnP6HJJC1"
       },
@@ -918,6 +936,24 @@
       "duration_ms": 215320,
       "name": "Flyby",
       "url": "https://open.spotify.com/track/405P9q8Fp8OIlKFEYhutNE"
+    },
+    {
+      "album": {
+        "name": "Forest Mist",
+        "url": "https://open.spotify.com/album/4yrqUAYhUysA139waYJ3kd"
+      },
+      "artists": [
+        {
+          "name": "sdhrta",
+          "url": "https://open.spotify.com/artist/14TpPUIibKhlWAtdtxhG8w"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Forest Mist",
+      "url": "https://open.spotify.com/track/1WR99pSP2PMOOENLWs7dk2"
     },
     {
       "album": {
@@ -1040,7 +1076,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 184615,
       "name": "Grain",
       "url": "https://open.spotify.com/track/43btMXyMZj3tTDKb0LeiPF"
@@ -1192,6 +1228,24 @@
       "duration_ms": 88888,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/4zi5Dd1kVV3CCZFsXCAR6Q"
+    },
+    {
+      "album": {
+        "name": "The silk sessions",
+        "url": "https://open.spotify.com/album/2fyKHXfnOHb7B08HPypBSD"
+      },
+      "artists": [
+        {
+          "name": "Runaway Horses",
+          "url": "https://open.spotify.com/artist/1lHNqvzVo8By9u0C0pLwlh"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316317,
+      "name": "just observe",
+      "url": "https://open.spotify.com/track/2MWL65umrZsbVgaE6VlRsX"
     },
     {
       "album": {
@@ -1542,7 +1596,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 168000,
       "name": "Natural Spirit",
       "url": "https://open.spotify.com/track/0mWtYOhlnlUsVLCO1opzLJ"
@@ -1708,7 +1762,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 121146,
       "name": "Nord",
       "url": "https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F"
@@ -2285,6 +2339,28 @@
     },
     {
       "album": {
+        "name": "sleepwalk",
+        "url": "https://open.spotify.com/album/6AlqAnKx5LeMo7EqKXqGFF"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "sleepwalk",
+      "url": "https://open.spotify.com/track/4vmwaAExDiqJoSu3zsbJuq"
+    },
+    {
+      "album": {
         "name": "slowly fading",
         "url": "https://open.spotify.com/album/4ijrMyrkvwIKAKAugnJwBj"
       },
@@ -2638,7 +2714,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 109090,
       "name": "together into tomorrow",
       "url": "https://open.spotify.com/track/2FfiLze1ciFMe94X1pKiB7"
@@ -2714,6 +2790,24 @@
       "duration_ms": 159925,
       "name": "Unreality",
       "url": "https://open.spotify.com/track/5HAFJMvMoePbA8UwHCyYnv"
+    },
+    {
+      "album": {
+        "name": "vastness",
+        "url": "https://open.spotify.com/album/7L2l3xbcvgAoX8tXwigJvB"
+      },
+      "artists": [
+        {
+          "name": "away from",
+          "url": "https://open.spotify.com/artist/40dRV2ORNV9fYyPnTkHw0a"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "up in the sky",
+      "url": "https://open.spotify.com/track/08h8ps2JD1P4DBNUzLvk0k"
     },
     {
       "album": {
@@ -2807,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "we stayed a little longer",
+        "url": "https://open.spotify.com/album/3sWDkkxVXzd67b52sVlKxH"
+      },
+      "artists": [
+        {
+          "name": "green.light",
+          "url": "https://open.spotify.com/artist/41XYPsG87pO9CuTUWmiPfk"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166813,
+      "name": "we stayed a little longer",
+      "url": "https://open.spotify.com/track/0uKfDCkJF0LLy5LZkBLzd3"
+    },
+    {
+      "album": {
         "name": "what if",
         "url": "https://open.spotify.com/album/4Cjp7u20XaCmYllBoasGjd"
       },
@@ -2880,6 +2992,24 @@
       "duration_ms": 158328,
       "name": "Where The Sky Sleeps",
       "url": "https://open.spotify.com/track/2mNqIixaPXatfqQyC3fLBp"
+    },
+    {
+      "album": {
+        "name": "while the world slept",
+        "url": "https://open.spotify.com/album/4ZXQAer8uUzhqy9TA6fvv2"
+      },
+      "artists": [
+        {
+          "name": "green.light",
+          "url": "https://open.spotify.com/artist/41XYPsG87pO9CuTUWmiPfk"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141708,
+      "name": "while the world slept",
+      "url": "https://open.spotify.com/track/2Pakehqo3TF13I5yfWZAcD"
     },
     {
       "album": {
@@ -2966,7 +3096,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 183714,
       "name": "Woven Horizon",
       "url": "https://open.spotify.com/track/1zKhhaV2I0Z6hgN9gku8jp"

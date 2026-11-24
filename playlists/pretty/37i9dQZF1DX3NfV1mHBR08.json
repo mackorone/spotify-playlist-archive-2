@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50405,
+  "num_followers": 50404,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOyJcxeASg7akWlgEfKF+PjerqyI",
+  "snapshot_id": "AAAAANVpSZGltSXsi2WN+2I6PzLBFFzQ",
   "tracks": [
     {
       "added_at": "2026-08-18 06:15:23",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
-        "name": "Take-off",
-        "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
+        "name": "Kim Cheolsu Story",
+        "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 221000,
-      "name": "I'm happy",
-      "url": "https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM"
+      "duration_ms": 248433,
+      "name": "Kim Cheolsu Story",
+      "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
+        "name": "Take-off",
+        "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "I'm happy",
+      "url": "https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 166946,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
-        "name": "Kim Cheolsu Story",
-        "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 248433,
-      "name": "Kim Cheolsu Story",
-      "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
     },
     {
       "added_at": "2026-08-18 06:15:23",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-08-18 06:15:23",
       "album": {
+        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
+        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "duration_ms": 357120,
+      "name": "\ub0b4\uac00 \ub2c8\ud3b8\uc774 \ub418\uc5b4 \uc904\uac8c I Will Be on Your Side",
+      "url": "https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7"
+    },
+    {
+      "added_at": "2026-08-18 06:15:23",
+      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 225257,
       "name": "Being an Adult",
       "url": "https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No"
-    },
-    {
-      "added_at": "2026-08-18 06:15:23",
-      "album": {
-        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
-        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
-      },
-      "artists": [
-        {
-          "name": "Coffeeboy",
-          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
-        }
-      ],
-      "duration_ms": 357120,
-      "name": "\ub0b4\uac00 \ub2c8\ud3b8\uc774 \ub418\uc5b4 \uc904\uac8c I Will Be on Your Side",
-      "url": "https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7"
     },
     {
       "added_at": "2026-08-18 06:15:23",

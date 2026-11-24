@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The Kid LAROI, Lana Del Ray, Dua Lipa, Gracie Abrams, Keli Holiday + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,673 likes - 89 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,644 likes - 89 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 88 | [Down Low](https://open.spotify.com/track/2s06Tjym6Ul7XwVngiPCDj) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [That Gurl Bella](https://open.spotify.com/artist/1qMG4xNqbtKrqRQzFa5Mfj) | [Down Low](https://open.spotify.com/album/0VZTscp9f8CL76ziNJtuxv) | 2:56 |
 | 89 | [POV](https://open.spotify.com/track/5JOX8zkO1qqV9adai0ucql) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [LA Slim](https://open.spotify.com/artist/4ls7xj26Yz314SPjohihgS) | [POV](https://open.spotify.com/album/1bcWxCZtltBIAHHCB7jidJ) | 1:58 |
 
-Snapshot ID: `AAAAANs/bZPJ2u6gYV+hU+dBhEUHlJ8M`
+Snapshot ID: `AAAAAHkz0Tt0shSOOyCrdtgBAU0wGM52`

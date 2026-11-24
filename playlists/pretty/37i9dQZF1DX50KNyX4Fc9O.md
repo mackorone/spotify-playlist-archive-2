@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,849 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,842 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Unlike You](https://open.spotify.com/track/6e9Cu6KNAimXTlhuDNAWc7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Still Somewhere Here](https://open.spotify.com/album/1109HrTid5HIXWEFPHKpAh) | 3:54 |
 | 100 | [Casually Complicated](https://open.spotify.com/track/2iKZk4N2TC6qw86VmTywNG) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Casually Complicated](https://open.spotify.com/album/4jMrAuEG6tLhjyjKvAImeU) | 3:06 |
 
-Snapshot ID: `AAAAAKvS0T6hLkjgh7cbmj6eqnV2Hhgd`
+Snapshot ID: `AAAAAJlP0MyITrRifhfePPn5vXaFnUT6`

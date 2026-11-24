@@ -6,7 +6,7 @@
     "name": "CerVon Campbell",
     "url": "https://open.spotify.com/user/1275620579"
   },
-  "snapshot_id": "AAAWNAIRB04DmfzEqMLu7xNhDHf3Q5GE",
+  "snapshot_id": "AAAWN/Qpkg89jx1BL/3Y0ZSLgWSydjdw",
   "tracks": [
     {
       "added_at": "2025-03-12 13:37:59",
@@ -5123,6 +5123,54 @@
       "duration_ms": 308167,
       "name": "All the Days",
       "url": "https://open.spotify.com/track/1JKMMx5g3ShrVa0R7vjdqU"
+    },
+    {
+      "added_at": "2026-11-24 05:27:23",
+      "album": {
+        "name": "Farbenmeer (Piano Ballata)",
+        "url": "https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy"
+      },
+      "artists": [
+        {
+          "name": "Berqfeld",
+          "url": "https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr"
+        }
+      ],
+      "duration_ms": 175178,
+      "name": "Farbenmeer (Piano Ballata)",
+      "url": "https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t"
+    },
+    {
+      "added_at": "2026-11-24 05:27:26",
+      "album": {
+        "name": "Tx",
+        "url": "https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6"
+      },
+      "artists": [
+        {
+          "name": "Jey Z",
+          "url": "https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy"
+        }
+      ],
+      "duration_ms": 158014,
+      "name": "Tx",
+      "url": "https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6"
+    },
+    {
+      "added_at": "2026-11-24 06:18:37",
+      "album": {
+        "name": "One Night Glance",
+        "url": "https://open.spotify.com/album/3cj11FNtdUKsNgkMtL2j7S"
+      },
+      "artists": [
+        {
+          "name": "Medikate",
+          "url": "https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "One Night Glance",
+      "url": "https://open.spotify.com/track/6frjxTxA4yHrNrifHlMSNL"
     }
   ],
   "unique_name": "u pwetty",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 269 songs - 14 hr 28 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 272 songs - 14 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,5 +277,8 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 267 | [LA MER](https://open.spotify.com/track/49Ka6WAH2WAoJ3MXanfSwf) | [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [CT \#1](https://open.spotify.com/album/75tgk8xFzraJLyxbjVM7I5) | 2:27 |
 | 268 | [BIMMA](https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j) | [AME](https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV) | [BIMMA](https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v) | 2:57 |
 | 269 | [Kasanga](https://open.spotify.com/track/2reqGl9zaMY3Jc312uWr6A) | [YTP](https://open.spotify.com/artist/4FkXK5mCRdCOAfBWiKeX5H) | [Kasanga](https://open.spotify.com/album/4ZTd3uypHaieCb802NvQcn) | 2:15 |
+| 270 | [Magie](https://open.spotify.com/track/25kB5gdH7TxgTIkwpk9yMT) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Magus](https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW) | 3:15 |
+| 271 | [2012](https://open.spotify.com/track/0tekBW6yZxwHcWBOF3jaFD) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Magus](https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW) | 3:34 |
+| 272 | [Hypervantiler](https://open.spotify.com/track/5BwOvTHQwkyj9MfczfPZbK) | [YTP](https://open.spotify.com/artist/4FkXK5mCRdCOAfBWiKeX5H) | [Hypervantiler](https://open.spotify.com/album/6gep93s2umgaIA0m22BJkO) | 1:59 |
 
-Snapshot ID: `AAABN9UaVor8pdZtUUkqShDZ9S6IUMZ8`
+Snapshot ID: `AAABOn1lqIHNvZbm3EpJjvGyF3X9d2Pf`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: NELL) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Sultan of the Disco) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "The Art of Suffering",
+        "url": "https://open.spotify.com/album/1mn6TXY7XsAhsOwiWjE0sD"
+      },
+      "artists": [
+        {
+          "name": "Sultan of the Disco",
+          "url": "https://open.spotify.com/artist/2OlCSUqTMqHguyNtdE0mdv"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281828,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/1PqeJoNXrVLvKNbOEoIfII"
+    },
+    {
+      "album": {
         "name": "Terror Man Opening (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Utvw2Z8Tk9e2vxa4Z4yMy"
       },
@@ -2722,7 +2740,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 219000,
       "name": "Bye, Summer",
       "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 195000,
       "name": "can't love (feat. HAN (Stray Kids))",
       "url": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA"
@@ -20256,6 +20274,24 @@
       "duration_ms": 286150,
       "name": "War",
       "url": "https://open.spotify.com/track/5TV2bxWF3YZsjMQk2vaULt"
+    },
+    {
+      "album": {
+        "name": "Warm Season Will Come In The End",
+        "url": "https://open.spotify.com/album/2oJTsQWqmE4p0UpNWfvaVl"
+      },
+      "artists": [
+        {
+          "name": "\uc57c\uc790\uc218",
+          "url": "https://open.spotify.com/artist/6S4lccsgpUHRk007vr54Ag"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275018,
+      "name": "Warm Season Will Come In The End",
+      "url": "https://open.spotify.com/track/69XJcVSrjgM1wuM8pRXyyd"
     },
     {
       "album": {

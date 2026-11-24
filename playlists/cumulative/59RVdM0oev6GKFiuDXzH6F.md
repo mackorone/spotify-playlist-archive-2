@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,239 songs - 2 day 15 hr 45 min
+1,240 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,6 +886,7 @@
 | [Rave To The Grave](https://open.spotify.com/track/3cTncddIg0cBjuwPRlew0r) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [Rave To The Grave](https://open.spotify.com/album/6pK8ij9VluwiVJbJR48uE7) | 2:21 | 2023-06-08 | 2023-12-23 |
 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 | 2024-08-01 |  |
 | [Reach Your Soul](https://open.spotify.com/track/0T1S8QRJ2xvXM6SpFnd6YT) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Reach Your Soul](https://open.spotify.com/album/7lZS74Vqwv4FyVjabUQthO) | 2:44 | 2023-06-12 | 2023-07-14 |
+| [Ready for Work](https://open.spotify.com/track/0igCOFgEclWlXUjU2vfgHm) | [Alejo Martin](https://open.spotify.com/artist/6JvAiSRBTDUuUmiFV4HSXx) | [Ready for Work](https://open.spotify.com/album/0gyChg51p40NFygDqlZ7P4) | 3:23 | 2026-11-23 |  |
 | [Ready Steady Go](https://open.spotify.com/track/2kGlbfYmEM6d84e9UZfRqN) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Ready Steady Go](https://open.spotify.com/album/1WZQgERLkOFYrgtaCIdLe8) | 2:47 | 2025-05-15 |  |
 | [Ready to Fly](https://open.spotify.com/track/4AUqJ9BYqjQO141t5qe4qC) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Ready to Fly](https://open.spotify.com/album/3ZtYDkyonSlzp6atr7LjEO) | 3:08 | 2026-04-30 |  |
 | [Reality \- Radio Edit](https://open.spotify.com/track/2wPwPt1XM3IR9ErB80wehr) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Reality](https://open.spotify.com/album/5xsGdbomiUZpTOPI3LlBuo) | 3:09 | 2023-11-22 | 2024-10-11 |

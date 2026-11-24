@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 359458,
+  "num_followers": 359546,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI5eiwO4uKpmWzbDJGyYofmV9W6S",
+  "snapshot_id": "AAAAAHhtRdIX73Wk70aDN6D0MrK5lKYN",
   "tracks": [
     {
       "added_at": "2026-07-20 18:12:10",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
-        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
-      },
-      "artists": [
-        {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Tu Mujer En Mi Cama",
-      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "Despu\u00e9s de T\u00ed, Que",
         "url": "https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 235280,
       "name": "Si Me Ves Llorar por Ti",
       "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
+        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Tu Mujer En Mi Cama",
+      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
-        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
-        }
-      ],
-      "duration_ms": 245968,
-      "name": "Dios Me Libre",
-      "url": "https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 193853,
       "name": "Te Tengo que Olvidar",
       "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
+        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "duration_ms": 245968,
+      "name": "Dios Me Libre",
+      "url": "https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Se Enamor\u00f3 de Mi la Soledad",
-        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
-        }
-      ],
-      "duration_ms": 245864,
-      "name": "Se Enamor\u00f3 de Mi la Soledad",
-      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "El M\u00e1s Parrandero",
         "url": "https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 270453,
       "name": "Sufrir\u00e1s",
       "url": "https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "Se Enamor\u00f3 de Mi la Soledad",
+        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "duration_ms": 245864,
+      "name": "Se Enamor\u00f3 de Mi la Soledad",
+      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
-        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
-        }
-      ],
-      "duration_ms": 237949,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 295526,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
+        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "duration_ms": 237949,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Desn\u00fadame",
-        "url": "https://open.spotify.com/album/5j2YmyNql60Htp1WRFDOXv"
+        "name": "Los M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA"
       },
       "artists": [
         {
-          "name": "Grupo Alegria de Santa Fe",
-          "url": "https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 211865,
-      "name": "Desn\u00fadame",
-      "url": "https://open.spotify.com/track/2lijAMVz1pZxjcyqH14kCS"
+      "duration_ms": 185077,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1295,38 +1291,38 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Los M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA"
+        "name": "Mi \u00danica Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5zydYTOfjjzPENqxvR3qBH"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Marcos Castell\u00f3 Kaniche",
+          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
         }
       ],
-      "duration_ms": 185077,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
+      "duration_ms": 162037,
+      "name": "Humillate",
+      "url": "https://open.spotify.com/track/3trzCCEnxmzybmFYY8KPdL"
     },
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Te Sorprender\u00e1s",
-        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
+        "name": "Desn\u00fadame",
+        "url": "https://open.spotify.com/album/5j2YmyNql60Htp1WRFDOXv"
       },
       "artists": [
         {
-          "name": "Ezequiel El Brujo",
-          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
+          "name": "Grupo Alegria de Santa Fe",
+          "url": "https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk"
         },
         {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 188140,
-      "name": "Te Sorprender\u00e1s",
-      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
+      "duration_ms": 211865,
+      "name": "Desn\u00fadame",
+      "url": "https://open.spotify.com/track/2lijAMVz1pZxjcyqH14kCS"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1347,22 +1343,22 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Uriel Lozano: Sin Miedo Session #44 (Lado S) [En Vivo]",
-        "url": "https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7"
+        "name": "Te Sorprender\u00e1s",
+        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
       },
       "artists": [
         {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+          "name": "Ezequiel El Brujo",
+          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
         },
         {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 80439,
-      "name": "Mojada Por Dentro - En Vivo",
-      "url": "https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K"
+      "duration_ms": 188140,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
     },
     {
       "added_at": "2026-07-20 18:12:10",

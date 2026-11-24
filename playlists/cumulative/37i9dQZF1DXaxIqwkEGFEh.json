@@ -6588,6 +6588,10 @@
       },
       "artists": [
         {
+          "name": "DJ Scream",
+          "url": "https://open.spotify.com/artist/45h71dCVZaNAqP3YwQH6ER"
+        },
+        {
           "name": "Big Moochie Grape",
           "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
         }
@@ -15174,20 +15178,20 @@
           "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
         },
         {
-          "name": "YS",
-          "url": "https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN"
-        },
-        {
-          "name": "Hitta J3",
-          "url": "https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI"
-        },
-        {
           "name": "Rosecrans HopOut",
           "url": "https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M"
         },
         {
+          "name": "YS",
+          "url": "https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN"
+        },
+        {
           "name": "PHOPHO8IGHT",
           "url": "https://open.spotify.com/artist/43exFSfUqMqp3nlCLSQVwu"
+        },
+        {
+          "name": "Hitta J3",
+          "url": "https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI"
         }
       ],
       "date_added": "2025-08-08",

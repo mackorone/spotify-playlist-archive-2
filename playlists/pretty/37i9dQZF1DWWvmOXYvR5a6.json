@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: justinforthis) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221242,
+  "num_followers": 221239,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIpQCpPGoDQbGuKZDnBGjMkgFBav",
+  "snapshot_id": "AAAAAEb8edFciv5b4/1Ksi0K28/Z7rvj",
   "tracks": [
     {
       "added_at": "2026-11-19 04:47:19",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
-      },
-      "artists": [
-        {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "GIRLFRIEND (feat. CAMO)",
-      "url": "https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO"
-    },
-    {
-      "added_at": "2026-11-19 04:47:19",
-      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2026-11-19 04:47:19",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "GIRLFRIEND (feat. CAMO)",
+      "url": "https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO"
     },
     {
       "added_at": "2026-11-19 04:47:19",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Right Now (Feat. Crush)",
-      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
-    },
-    {
-      "added_at": "2026-11-19 04:47:19",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 240840,
       "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
       "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
+    },
+    {
+      "added_at": "2026-11-19 04:47:19",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Right Now (Feat. Crush)",
+      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
     },
     {
       "added_at": "2026-11-19 04:47:19",
@@ -803,18 +803,46 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
-        "name": "SAKOPAK: Birth Mother OST",
-        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
       "artists": [
         {
           "name": "CAMO",
           "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 106000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+    },
+    {
+      "added_at": "2026-11-19 04:47:19",
+      "album": {
+        "name": "VIEWSIC",
+        "url": "https://open.spotify.com/album/0sMxluwGB9hfWpotBwfuST"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "untell",
+          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Hysteria (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/4H20xWiwwvoEqwV1cBjtfg"
     },
     {
       "added_at": "2026-11-19 04:47:19",
@@ -863,30 +891,6 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
-        "name": "VIEWSIC",
-        "url": "https://open.spotify.com/album/0sMxluwGB9hfWpotBwfuST"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "untell",
-          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Hysteria (Feat. Sik-K)",
-      "url": "https://open.spotify.com/track/4H20xWiwwvoEqwV1cBjtfg"
-    },
-    {
-      "added_at": "2026-11-19 04:47:19",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -903,22 +907,18 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
+        "name": "SAKOPAK: Birth Mother OST",
+        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
       },
       "artists": [
         {
           "name": "CAMO",
           "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 124615,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+      "duration_ms": 106000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
     },
     {
       "added_at": "2026-11-19 04:47:19",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
-        "name": "chukchuk (demo)",
-        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "chukchuk - demo",
-      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
-    },
-    {
-      "added_at": "2026-11-19 04:47:19",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216293,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+    },
+    {
+      "added_at": "2026-11-19 04:47:19",
+      "album": {
+        "name": "chukchuk (demo)",
+        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "chukchuk - demo",
+      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
     },
     {
       "added_at": "2026-11-19 04:47:19",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Just Like This (Feat. george)",
+      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+    },
+    {
+      "added_at": "2026-11-19 04:47:19",
+      "album": {
         "name": "MY MAN (Remix)",
         "url": "https://open.spotify.com/album/6k0E3GIjRUxcWEts05AfMw"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 220000,
       "name": "MY MAN - Remix",
       "url": "https://open.spotify.com/track/2rHcAV9iKHs19oKvM2elyV"
-    },
-    {
-      "added_at": "2026-11-19 04:47:19",
-      "album": {
-        "name": "Just Like This",
-        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Just Like This (Feat. george)",
-      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
     },
     {
       "added_at": "2026-11-19 04:47:19",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
-        "name": "Day, One day",
-        "url": "https://open.spotify.com/album/7Ju0QIKUdgrWIcZsgqdSej"
-      },
-      "artists": [
-        {
-          "name": "Meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 177575,
-      "name": "Day, One day",
-      "url": "https://open.spotify.com/track/3r5ClfPZ6L70aI3l4HLCZr"
-    },
-    {
-      "added_at": "2026-11-19 04:47:19",
-      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 239983,
       "name": "TORO (feat. Crush)",
       "url": "https://open.spotify.com/track/0ljaG5dzwQG1E8j9sURWcB"
+    },
+    {
+      "added_at": "2026-11-19 04:47:19",
+      "album": {
+        "name": "Day, One day",
+        "url": "https://open.spotify.com/album/7Ju0QIKUdgrWIcZsgqdSej"
+      },
+      "artists": [
+        {
+          "name": "Meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 177575,
+      "name": "Day, One day",
+      "url": "https://open.spotify.com/track/3r5ClfPZ6L70aI3l4HLCZr"
     },
     {
       "added_at": "2026-11-19 04:47:19",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2026-11-19 04:47:19",
       "album": {
-        "name": "run it back",
-        "url": "https://open.spotify.com/album/37kq1v7lGL5TlF2wCWiUfI"
+        "name": "\uc18c\ub77c\uc0c9(Serenity)",
+        "url": "https://open.spotify.com/album/02TJ8ehMVVfnvXir1Ru6Uw"
       },
       "artists": [
         {
-          "name": "rosy",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+          "name": "Anandelight",
+          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
         }
       ],
-      "duration_ms": 142971,
-      "name": "run it back",
-      "url": "https://open.spotify.com/track/3W3ozTGLZNXEiLDtnuwOFB"
+      "duration_ms": 171989,
+      "name": "\uc18c\ub77c\uc0c9(Serenity)",
+      "url": "https://open.spotify.com/track/38H4u9icNiBSxnKZM61Wgp"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

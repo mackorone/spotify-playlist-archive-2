@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-93 songs - 7 hr 1 min
+94 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ijigen BIGBANG](https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j) | [Uzuki Shimamura \(CV: Ayaka Ohashi\)](https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [KOGANE TSUKIOKA \(CV: Karin Isobe\)](https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1), [Chika Takami \(CV: Anju Inami\)](https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5), [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF), [Kanon Shibuya \(CV: Sayuri Date\)](https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR), [Kaho Hinoshita \(CV: Nozomi Nirei\)](https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy) | [Ijigen BIGBANG](https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH) | 5:16 | 2023-11-07 | 2024-04-19 |
 | [INNOCENT BIRD](https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [GALAXY HidE and SeeK](https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq) | 3:44 | 2023-06-13 |  |
 | [KA\-GA\-YA\-KI\-RA\-RI\-RA \(feat\. 初音ミク\)](https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 3:20 | 2022-10-04 | 2023-10-18 |
-| [KOKORO Magic "A to Z" \- Digital Rock Ver.](https://open.spotify.com/track/33dJnxXYSbyZQf7Meouyzc) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:36 | 2024-12-17 |  |
+| [KOKORO Magic "A to Z" \- Digital Rock Ver.](https://open.spotify.com/track/33dJnxXYSbyZQf7Meouyzc) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:36 | 2024-12-17 | 2026-11-24 |
 | [KU\-RU\-KU\-RU Cruller! \- Rockabilly Ver.](https://open.spotify.com/track/5tS1J8iSdIOx0dJFCbJ9Se) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:07 | 2024-12-17 |  |
 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 | 2022-08-02 |  |
 | [Love is all, I sing love is all!](https://open.spotify.com/track/4FHxcdoJ0KfhQJUZz92zTF) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Ohara Mari](https://open.spotify.com/album/4tZnuXnlf0Lcn8dMRHnL9a) | 5:10 | 2022-08-02 | 2025-08-22 |
@@ -88,6 +88,7 @@
 | [想いよひとつになれ](https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [想いよひとつになれ/MIRAI TICKET](https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN) | 4:53 | 2022-08-02 |  |
 | [未体験HORIZON \- Punk Rock Ver.](https://open.spotify.com/track/1oWuwnDQ09dNIngknZ2RV0) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:57 | 2024-12-17 | 2026-11-17 |
 | [未来の僕らは知ってるよ](https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [未来の僕らは知ってるよ](https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U) | 4:10 | 2022-08-02 | 2026-11-21 |
+| [未来の僕らは知ってるよ \- Melodious Hardcore Ver.](https://open.spotify.com/track/0CYM55YKeSegBf83GlC8iX) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:04 | 2024-12-17 |  |
 | [水面にピアノ](https://open.spotify.com/track/3RS9vKkGpHczl1jXAXq0k4) | [桜内梨子 \(CV.逢田梨香子\) from Aqours](https://open.spotify.com/artist/1bQ5DK3eJXLLcqDEF8ZvCF) | [LoveLive! Sunshine!! Third Solo Concert Album ～THE STORY OF “OVER THE RAINBOW”～ starring Sakurauchi Riko](https://open.spotify.com/album/384lP44vmpllPywrmZMOef) | 4:33 | 2022-09-18 | 2024-11-18 |
 | [永久hours](https://open.spotify.com/track/0d7HxyRChgSXwmTlflrB4r) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [永久hours](https://open.spotify.com/album/5cDCiZlnue2BBwYQR01iyY) | 5:20 | 2024-12-17 |  |
 | [決めたよHand in Hand](https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:26 | 2022-08-02 |  |

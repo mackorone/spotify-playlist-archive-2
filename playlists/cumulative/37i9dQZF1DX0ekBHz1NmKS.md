@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,437 songs - 5 day 6 hr 16 min
+2,438 songs - 5 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Fantiserar](https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Fantiserar](https://open.spotify.com/album/1I5rl1epHuk0wEahddMPfL) | 2:36 | 2026-06-04 |  |
 | [Fantomsmärta](https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fantomsmärta](https://open.spotify.com/album/2eYfKVmCZo3EdIFNWijToG) | 3:17 | 2026-04-09 | 2026-09-25 |
 | [Farligaste](https://open.spotify.com/track/3EMO5vkEN7sFkDUyKNaD1Y) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [POWERBALLADER](https://open.spotify.com/album/278kUvgRBmXIOjp0tOO8FE) | 2:42 | 2026-05-28 |  |
+| [Farsans Lilla Anneli](https://open.spotify.com/track/4MqDDf2TgZQcJBjFIq8Iqd) | [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Farsans Lilla Anneli](https://open.spotify.com/album/5PLPDDZeVUpa2jSmcIE72B) | 3:00 | 2026-11-19 |  |
 | [Farstaglitter](https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:51 | 2021-12-16 | 2022-03-10 |
 | [Fartdårar](https://open.spotify.com/track/7KxEJiz9780bNowu0ukBb0) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Fartdårar](https://open.spotify.com/album/5Y1MsRF1YHUv5Vzfk8tIJU) | 2:40 | 2026-04-16 | 2026-05-05 |
 | [Farväl](https://open.spotify.com/track/78ojtQHsb5KBUjjTIJGvf1) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Farväl](https://open.spotify.com/album/4xrJlXt3MvNTbfNPuQfHrK) | 2:32 | 2024-04-18 | 2024-05-17 |
@@ -2217,7 +2218,7 @@
 | [Underbar](https://open.spotify.com/track/4kUW83853lU7hqhUJHV96p) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Underbar](https://open.spotify.com/album/0eNz0x9a8zKVGjlWi9wK1V) | 2:35 | 2025-09-25 | 2026-01-25 |
 | [Underbart](https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Underbart](https://open.spotify.com/album/6WoazjKrlteUKghj03CYDl) | 2:34 | 2024-05-09 | 2024-06-07 |
 | [Underbart är kort](https://open.spotify.com/track/3nBH4JLXw1XJuoMXxiuizQ) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Underbart är kort](https://open.spotify.com/album/3DLq7TpZfPda8HtNA8CIsx) | 2:18 | 2024-06-20 | 2024-08-30 |
-| [Underdog](https://open.spotify.com/track/1bk7kzc39EOwMZRbyKSy0i) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Livsvittne](https://open.spotify.com/album/0u3GcW94CKFXCvO09lixj3) | 4:02 | 2026-09-24 |  |
+| [Underdog](https://open.spotify.com/track/1bk7kzc39EOwMZRbyKSy0i) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Livsvittne](https://open.spotify.com/album/0u3GcW94CKFXCvO09lixj3) | 4:02 | 2026-09-24 | 2026-11-24 |
 | [Ung Igen](https://open.spotify.com/track/6Ws4wzdxFnKvXs0C0zqgui) | [Klara Keller](https://open.spotify.com/artist/3Utd6WFwBcRb2Piu9boAGm) | [Ung Igen](https://open.spotify.com/album/7f0NIJG3X4gYhH3M6TkKNc) | 4:14 | 2024-04-04 | 2024-05-03 |
 | [Ung med dig](https://open.spotify.com/track/69LIcyRjW4raKlQqEyUuG6) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Känslostorm](https://open.spotify.com/album/3YxmbBwBtoB9zJJonQdK1m) | 2:59 | 2024-04-19 | 2024-05-24 |
 | [Unnskyld, förlåt](https://open.spotify.com/track/6ebiZ791hh3KPSw8TcCPK7) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unnskyld, förlåt](https://open.spotify.com/album/4apzOYKZx2D4jnusHPf4C0) | 2:47 | 2024-01-04 | 2024-02-23 |

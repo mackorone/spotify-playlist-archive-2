@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu sedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1199820,
+  "num_followers": 1199806,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEGlgn9BcsJqpsWLesoFAw4QAzCS",
+  "snapshot_id": "AAAAANQLXnVnMyJmsvcUekJlAAW6Czbc",
   "tracks": [
     {
       "added_at": "2026-11-17 03:45:12",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-11-17 03:45:12",
       "album": {
-        "name": "And the Story Continues...",
-        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 241763,
-      "name": "Takkan Terganti",
-      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
-    },
-    {
-      "added_at": "2026-11-17 03:45:12",
-      "album": {
         "name": "Terpukau",
         "url": "https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 252093,
       "name": "Terpukau",
       "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"
+    },
+    {
+      "added_at": "2026-11-17 03:45:12",
+      "album": {
+        "name": "And the Story Continues...",
+        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 241763,
+      "name": "Takkan Terganti",
+      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
     },
     {
       "added_at": "2026-11-17 03:45:12",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-11-17 03:45:12",
       "album": {
-        "name": "Apa Mungkin",
-        "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 238879,
-      "name": "Apa Mungkin",
-      "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
-    },
-    {
-      "added_at": "2026-11-17 03:45:12",
-      "album": {
         "name": "It's Only Me (Studio Version)",
         "url": "https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 203075,
       "name": "It's Only Me - Studio Version",
       "url": "https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5"
+    },
+    {
+      "added_at": "2026-11-17 03:45:12",
+      "album": {
+        "name": "Apa Mungkin",
+        "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 238879,
+      "name": "Apa Mungkin",
+      "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
     },
     {
       "added_at": "2026-11-17 03:45:12",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-11-17 03:45:12",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
       },
       "artists": [
         {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
+      "duration_ms": 235280,
+      "name": "Sekali Ini Saja",
+      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
     }
   ],
   "unique_name": "Generasi Galau",

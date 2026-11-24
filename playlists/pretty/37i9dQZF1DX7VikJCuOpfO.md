@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Lucero, Majo Aguilar 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,379 likes - 88 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,389 likes - 88 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 20 | [Él No Eres Tú](https://open.spotify.com/track/7FtY7pcArLtn9U17F6fSsp) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [No Todo Fue Amor](https://open.spotify.com/album/1POaLG8Gt3chiBDTcw3VRw) | 3:21 |
 | 21 | [Mi Problema](https://open.spotify.com/track/7rPsUk73ECuvuliteIS5LE) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mi Problema](https://open.spotify.com/album/4R8EESNE81YaF6xBamLsjW) | 2:54 |
 | 22 | [Sabor A Ti](https://open.spotify.com/track/5HQjTtE2s7SxaMI87WoPxH) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sabor A Ti](https://open.spotify.com/album/0vlDCouQwOpSd2p299lUJ9) | 2:39 |
-| 23 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt) | 2:56 |
-| 24 | [Serpiente De Cascabel](https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Serpiente De Cascabel](https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG) | 3:09 |
+| 23 | [Serpiente De Cascabel](https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Serpiente De Cascabel](https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG) | 3:09 |
+| 24 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt) | 2:56 |
 | 25 | [TRAIGO UNA SED](https://open.spotify.com/track/7zyE3MoUk3tkf0T8k5HWDJ) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [AL ESTILO JALISCO](https://open.spotify.com/album/4tMqk85yHl5KPiXbDypOlc) | 4:38 |
 | 26 | [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 |
 | 27 | [Me Declaro Culpable](https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Voz De Mi Sangre](https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa) | 3:32 |
-| 28 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
-| 29 | [De Otro Planeta](https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Otro Planeta](https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b) | 2:58 |
+| 28 | [De Otro Planeta](https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Otro Planeta](https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b) | 2:58 |
+| 29 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
 | 30 | [Ya No Le Mientas](https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Ya No Le Mientas](https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf) | 2:39 |
 | 31 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
 | 32 | [Disculpe Usted](https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Disculpe Usted](https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7) | 3:05 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 87 | [La Noche de Mi Mal](https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [La Noche de Mi Mal \(Versión Mariachi\)](https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO) | 4:00 |
 | 88 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 |
 
-Snapshot ID: `AAAAAJFcQJ932Pd6elAo90i2l2TRnUfR`
+Snapshot ID: `AAAAACPYOaOXfqv4Nwu6xXGnhIJp+nnV`

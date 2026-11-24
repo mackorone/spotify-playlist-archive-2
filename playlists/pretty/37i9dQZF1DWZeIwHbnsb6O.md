@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,066 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,088 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 61 | [Quedate](https://open.spotify.com/track/6eyWgog31WtU2IG1irXU9l) | [Los João](https://open.spotify.com/artist/7u23Qh2OuzqBbQEuzHh7X9) | [Los Joao \- Quedate](https://open.spotify.com/album/2ZcSYMy0gzMQjSnT3PVNJL) | 3:34 |
 | 62 | [La Felicidad](https://open.spotify.com/track/4HfazXWeoXF1Tg4IRQUz7U) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [Tesoros De Coleccion \- Gualberto Castro](https://open.spotify.com/album/1larO2IxJUB00ju9MTGTfv) | 3:32 |
 
-Snapshot ID: `AAAAAErfpmMvJ61m8tmKXG0Tt/+3aMlS`
+Snapshot ID: `AAAAAFfFOal59MV+Plyke33PrlXH9LmV`

@@ -18417,6 +18417,24 @@
     },
     {
       "album": {
+        "name": "Ready for Work",
+        "url": "https://open.spotify.com/album/0gyChg51p40NFygDqlZ7P4"
+      },
+      "artists": [
+        {
+          "name": "Alejo Martin",
+          "url": "https://open.spotify.com/artist/6JvAiSRBTDUuUmiFV4HSXx"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203661,
+      "name": "Ready for Work",
+      "url": "https://open.spotify.com/track/0igCOFgEclWlXUjU2vfgHm"
+    },
+    {
+      "album": {
         "name": "Ready Steady Go",
         "url": "https://open.spotify.com/album/1WZQgERLkOFYrgtaCIdLe8"
       },

@@ -1,12 +1,12 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22927,
+  "num_followers": 22930,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFheFLDBtLkIE3cv5LYgLu+KC8nG",
+  "snapshot_id": "AAAAAGkQC/Z6mFo4IGZoLqaaGREVYFNM",
   "tracks": [
     {
       "added_at": "2026-02-03 15:00:13",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 234283,
-      "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
-      "url": "https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6"
-    },
-    {
-      "added_at": "2026-02-03 15:00:13",
-      "album": {
         "name": "\u3082\u3046\u4e00\u5ea6",
         "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 250766,
       "name": "\u3082\u3046\u4e00\u5ea6",
       "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
+    },
+    {
+      "added_at": "2026-02-03 15:00:13",
+      "album": {
+        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 234283,
+      "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6"
     },
     {
       "added_at": "2026-02-03 15:00:13",

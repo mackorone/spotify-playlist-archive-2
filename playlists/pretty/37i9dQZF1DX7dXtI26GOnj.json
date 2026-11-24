@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino aqui! Ay ay ay \ud83d\udd25  foto: WIU",
-  "num_followers": 249341,
+  "num_followers": 249343,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJW5Nna6rrjGpooiC57YNz5bkiJj",
+  "snapshot_id": "AAAAAOJnN8yhDU2H2Qz3PcwTcNbOt6KW",
   "tracks": [
     {
       "added_at": "2026-11-06 03:00:22",
@@ -235,18 +235,22 @@
     {
       "added_at": "2026-11-06 03:00:22",
       "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+        "name": "Macacoa 2000 (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 214642,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+      "duration_ms": 173881,
+      "name": "Macacoa 2000 (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn"
     },
     {
       "added_at": "2026-11-06 03:00:22",
@@ -271,22 +275,18 @@
     {
       "added_at": "2026-11-06 03:00:22",
       "album": {
-        "name": "Macacoa 2000 (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 173881,
-      "name": "Macacoa 2000 (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn"
+      "duration_ms": 214642,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
     },
     {
       "added_at": "2026-11-06 03:00:22",

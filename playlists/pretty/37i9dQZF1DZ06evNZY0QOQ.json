@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24930,
+  "num_followers": 24934,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAACNTzwJMQpvEJtuvUB+5B9i",
+  "snapshot_id": "awIwgAAAAAARkGcXpM8Nnd4mIaKoC9CV",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "E CLEAR",
-      "url": "https://open.spotify.com/track/23RZmdpN4Dp37ugeD3VIDb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 122346,
       "name": "Show My Side (feat. Amaarae)",
       "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "E CLEAR",
+      "url": "https://open.spotify.com/track/23RZmdpN4Dp37ugeD3VIDb"
     },
     {
       "added_at": null,

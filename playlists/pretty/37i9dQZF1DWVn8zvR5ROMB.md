@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Kane Brown, Kacey Musgraves, Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,741 likes - 61 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,793 likes - 61 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 60 | [Simplest Way](https://open.spotify.com/track/3bskwTN8otD1ghJrChowPI) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Simplest Way](https://open.spotify.com/album/18UH546GEAJDGBF32YN2Rg) | 3:07 |
 | 61 | [Another Life](https://open.spotify.com/track/4wALPCNaCQZ6v0XRjvcfW3) | [Luke Rob](https://open.spotify.com/artist/6xVnksnC8qln4WUd7Y3muQ) | [Another Life](https://open.spotify.com/album/1eI97OmxVmkJJqqaLc0d4S) | 3:42 |
 
-Snapshot ID: `AAAAACWhG7IiZozeDTXq6A2wEG75v2g5`
+Snapshot ID: `AAAAABXfYHFpASNuTIvZKDign0PoETPA`

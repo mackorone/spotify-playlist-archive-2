@@ -8329,6 +8329,32 @@
     },
     {
       "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/4oVtp47IW7IyevJL95hdf8"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/3FCIOA44iYIDsjDNeXthc1"
+    },
+    {
+      "album": {
         "name": "Almal Gly",
         "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
       },
@@ -13565,6 +13591,24 @@
     },
     {
       "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/2j1BVbjLs3HSsRGN1LpihP"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Omo Ologo",
+      "url": "https://open.spotify.com/track/5UziHRcYKB8foeAnfqy8sC"
+    },
+    {
+      "album": {
         "name": "on the street (with J. Cole)",
         "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
       },
@@ -14614,6 +14658,24 @@
       "duration_ms": 70870,
       "name": "Pray We Live Long",
       "url": "https://open.spotify.com/track/1HSMAJi7VW0w44L0OxXBFr"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/6qzU45BjfmPKlGK0KH5nxW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136593,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/59DqgKpSKsyCc2VE8h1SvD"
     },
     {
       "album": {
@@ -18105,6 +18167,28 @@
     },
     {
       "album": {
+        "name": "Ubaba wakho",
+        "url": "https://open.spotify.com/album/1z9xwLDpsc4ZNN8muN1ZUR"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        },
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297717,
+      "name": "Ubaba wakho",
+      "url": "https://open.spotify.com/track/5BFIZaRppuY4C160LkItjL"
+    },
+    {
+      "album": {
         "name": "uMalume",
         "url": "https://open.spotify.com/album/0qazgbQD6PQmFsEyqqeX3H"
       },
@@ -19094,6 +19178,40 @@
       "duration_ms": 212154,
       "name": "Water Water Yansh",
       "url": "https://open.spotify.com/track/0VSDlMxY0MmkVrTloPOKuJ"
+    },
+    {
+      "album": {
+        "name": "WAV. SZN",
+        "url": "https://open.spotify.com/album/71zaIsNlXApjfHLVgDkDtz"
+      },
+      "artists": [
+        {
+          "name": "Triple X Da Ghost",
+          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
+        },
+        {
+          "name": "Effected",
+          "url": "https://open.spotify.com/artist/4KsJvA119zereHG73B9sC7"
+        },
+        {
+          "name": "Benny Maverick",
+          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Leehleza",
+          "url": "https://open.spotify.com/artist/44bCE3ZXxsdBiMp6AHc4B2"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429026,
+      "name": "WAV. 2 (feat. Njelic & Leehleza)",
+      "url": "https://open.spotify.com/track/5YBS8PXXOWEcbWFXoLWlRn"
     },
     {
       "album": {

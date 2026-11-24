@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec K.Maro, Pomme, Ninho, La Zarra, Adéle Castillon,  Irdens Exantus, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,362 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,363 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 19 | [Dreams](https://open.spotify.com/track/4bIqQDoNfAXaeXhnmGK8jf) | [Che\_nous](https://open.spotify.com/artist/6iUtbHzHDDlKkoze6YG4Bk), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Dumis9ne I](https://open.spotify.com/artist/0HHIBSnMhAHwIpLlSc0uQr), [QUEST](https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi), [Émilie Marcadé](https://open.spotify.com/artist/3vHngeXdPWW2Dvj3TeHjra) | [Frontières ouvertes](https://open.spotify.com/album/4NpPIrFZ2lhXJfit3pLDRy) | 3:32 |
 | 20 | [You & me](https://open.spotify.com/track/44grXRk5oZvAKHYZwEeJ7g) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h), [Océanne](https://open.spotify.com/artist/7fE0922QYrhvyxc9A8nB4W) | [You & me](https://open.spotify.com/album/6hrzRie3rd0aIpshJOn1Kp) | 2:53 |
 | 21 | [pas mes amis ii](https://open.spotify.com/track/5GkRGykQEh83KmWelLCoLa) | [HAWA B](https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam) | [pas mes amis ii / pas mes amis iii](https://open.spotify.com/album/58m4EQZHGm0sJ4SBVvVJri) | 2:12 |
-| 22 | [Remords](https://open.spotify.com/track/0cTd6SCChFtwveoerTW4qR) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Remords](https://open.spotify.com/album/5Id4bDWsdu8cTRsklAG6ke) | 4:43 |
+| 22 | [Remords](https://open.spotify.com/track/0cTd6SCChFtwveoerTW4qR) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [DJ Fopop](https://open.spotify.com/artist/6xb8UtFCeK7uIpeZ0Ld972) | [Remords](https://open.spotify.com/album/5Id4bDWsdu8cTRsklAG6ke) | 4:43 |
 | 23 | [backseat bandit](https://open.spotify.com/track/1i58NiYUBupaiLyggkAKnQ) | [GabFreakyPie](https://open.spotify.com/artist/2YEFQTXVGZSspfPFeFiDrl) | [backseat bandit](https://open.spotify.com/album/1izhqyKJtHM6mLaW2fYAMb) | 1:51 |
 | 24 | [Ma fille](https://open.spotify.com/track/6erXGRrYL1pFaTjHg0B0mt) | [Meeko](https://open.spotify.com/artist/6mWepPXB2Ot85jKcT2843H) | [Ma fille](https://open.spotify.com/album/2wvizq1bFzacX6SbnoRD9k) | 2:49 |
 | 25 | [Kiné 2](https://open.spotify.com/track/1OPJy5coGoDZixee9sAvHu) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Kiné 2](https://open.spotify.com/album/7CksaPmUiFXC2Gc9II94OZ) | 2:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [Rends\-moi mes secondes](https://open.spotify.com/track/7Fib92j6rWWhyIkN8goIxg) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Re:Naissance Part\. 1](https://open.spotify.com/album/4WdMh8A2LAf4RATENEXu9a) | 2:31 |
 | 99 | [Toi ou la Mer](https://open.spotify.com/track/0ZSNeztLgSovD9ZuI3pHaq) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Toi ou la Mer](https://open.spotify.com/album/1BlwQXllvI5SnelRPh4WZ4) | 4:07 |
 
-Snapshot ID: `AAAAAJexir038xKeRuOzG6nvauZhKhSt`
+Snapshot ID: `AAAAAPD6+bMe3d4/tqTkjLVeV8xPpEyw`

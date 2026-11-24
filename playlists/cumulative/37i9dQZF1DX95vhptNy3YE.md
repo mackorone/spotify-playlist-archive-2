@@ -4,7 +4,7 @@
 
 > Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-749 songs - 1 day 18 hr 38 min
+750 songs - 1 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Frozone](https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [Frozone](https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs) | 2:58 | 2023-06-19 | 2023-09-16 |
 | [Fuga No Radar](https://open.spotify.com/track/1eK83OcKzky6k5WODgKe9E) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Fuga No Radar](https://open.spotify.com/album/2IAqtFNQpGeIv7NQfAm5bP) | 5:48 | 2024-05-03 | 2024-11-08 |
 | [Fumaça no Studio](https://open.spotify.com/track/4Yimh4Ut4dskqAJtuuTu0l) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Nova Moda](https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN) | 2:27 | 2022-06-06 | 2022-08-09 |
-| [Fuso](https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Fuso](https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP) | 1:54 | 2026-08-21 |  |
+| [Fuso](https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Fuso](https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP) | 1:54 | 2026-08-21 | 2026-11-24 |
+| [Fuso \- Live Video](https://open.spotify.com/track/1n82XCje65LKbtER78qF0Y) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Fuso \(Live Video\)](https://open.spotify.com/album/2nz1nxfjdNj9glQo2x7Ee1) | 3:04 | 2026-11-23 |  |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-06-03 | 2022-09-18 |
 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 | 2023-08-05 |
 | [Ganância](https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mc Rodson](https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4) | [23](https://open.spotify.com/album/0ZfN7vPj1ZyHEXHxLsvVu7) | 3:53 | 2026-03-20 | 2026-10-06 |

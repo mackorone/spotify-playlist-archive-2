@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: izna
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,963 likes - 16 songs - 43 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 52,950 likes - 16 songs - 43 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 15 | [TIMEBOMB](https://open.spotify.com/track/3CkGiFTTyIguBZzZGmE6eq) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko) | 2:51 |
 | 16 | [IWALY \- izna Version](https://open.spotify.com/track/3RKBemJLg88fpribzIO2CA) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko) | 3:02 |
 
-Snapshot ID: `AAAAAIIbbLrBNKTWF/9cHgVygIq/0czk`
+Snapshot ID: `AAAAAElNh1G1IecYF4wZ52Sc8MFRjmb0`

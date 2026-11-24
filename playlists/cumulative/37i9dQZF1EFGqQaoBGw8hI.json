@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
@@ -7730,10 +7730,32 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 229102,
       "name": "Lou\u010den\u00ed",
       "url": "https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i"
+    },
+    {
+      "album": {
+        "name": "Tis\u00edckr\u00e1t",
+        "url": "https://open.spotify.com/album/5kq4oT9xbWq3YlOHm5OACs"
+      },
+      "artists": [
+        {
+          "name": "Zora Jandov\u00e1",
+          "url": "https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz"
+        },
+        {
+          "name": "Martin Stropnick\u00fd",
+          "url": "https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229102,
+      "name": "Lou\u010den\u00ed",
+      "url": "https://open.spotify.com/track/6HUVv9KV3n1zyNryH71h2U"
     },
     {
       "album": {
@@ -8730,7 +8752,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
@@ -14834,10 +14856,28 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 229474,
       "name": "\u010c\u00e1st Kn\u00ed\u017eky",
       "url": "https://open.spotify.com/track/30G8BhKXy9lsm3EVM9bdU9"
+    },
+    {
+      "album": {
+        "name": "M\u00e1me si co \u0159\u00edct",
+        "url": "https://open.spotify.com/album/7lg3P2mQDHJEaqTxLNfhgN"
+      },
+      "artists": [
+        {
+          "name": "Jitka Zelenkov\u00e1",
+          "url": "https://open.spotify.com/artist/7JiWNPWFog0sTz1f63HToI"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229474,
+      "name": "\u010c\u00e1st kn\u00ed\u017eky",
+      "url": "https://open.spotify.com/track/38DbjjBjNPxT0mg3qdENgf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFGqQaoBGw8hI"

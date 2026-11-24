@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Destroy Boys
 
-12,716 songs - 30 day 6 hr 32 min
+12,717 songs - 30 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12225,6 +12225,7 @@
 | [Whatever It Takes](https://open.spotify.com/track/2Bv3pU74afHFWdCAZ8irlT) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Whatever It Takes](https://open.spotify.com/album/0cgPswcsgn7OSiqsrk71TO) | 2:33 | 2023-04-28 | 2023-05-06 |
 | [Whatever You Break](https://open.spotify.com/track/2lbbnBFUI01HUt8P2zwohA) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Whatever You Break](https://open.spotify.com/album/1yAcgprQYnkpyVHLSRWweb) | 3:06 | 2023-02-17 | 2023-02-25 |
 | [whatever you want](https://open.spotify.com/track/5efqMW9Qh0vwU8ZVlVZLmH) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [whatever you want](https://open.spotify.com/album/0FkjZVzTDkJlNJS9AtXiaK) | 3:17 | 2024-07-26 | 2024-08-03 |
+| [Whatever You Want](https://open.spotify.com/track/5tTbRCNaDmEmi1SjMEb42k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Whatever You Want](https://open.spotify.com/album/2bQUBit5DReqFgaXk4gSd0) | 5:23 | 2026-11-23 |  |
 | [Whatever, Who Cares](https://open.spotify.com/track/5NlkbhyJBy2WNJsl4hHpIB) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Whatever, Who Cares](https://open.spotify.com/album/1nAB5FeTy2zIHu3AEdlZtk) | 2:55 | 2022-08-05 | 2022-08-13 |
 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 | 2025-05-09 | 2025-05-31 |
 | [What’s Done is Done](https://open.spotify.com/track/4Gnn0gDHzMFRNx5DmX6gK8) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What's Done is Done](https://open.spotify.com/album/2ePmaLxFwdudLmUSj8eMwr) | 3:30 | 2022-03-24 | 2022-04-01 |

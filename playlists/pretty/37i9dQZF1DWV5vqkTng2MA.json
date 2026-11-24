@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marfa",
-  "num_followers": 429693,
+  "num_followers": 429715,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACn6wNChKc6sPcwEpz3xLH+HBFks",
+  "snapshot_id": "AAAAABjLJRnVeg8aGxHIoPyPprE61tAF",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:38",
@@ -260,8 +260,8 @@
           "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         },
         {
-          "name": "G. Love",
-          "url": "https://open.spotify.com/artist/5AzPpEIGzbOSQ7GIn1v29V"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
         },
         {
           "name": "Robert Randolph",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "When You Know You Know",
-        "url": "https://open.spotify.com/album/7jOp38flePWqWH0OxxTvDg"
-      },
-      "artists": [
-        {
-          "name": "Benny G",
-          "url": "https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8"
-        }
-      ],
-      "duration_ms": 209685,
-      "name": "Price of Love",
-      "url": "https://open.spotify.com/track/0dBOzs6h3OuMb9iGXtTbt1"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "someone to you",
         "url": "https://open.spotify.com/album/4WcXbD9aj2KAajoRnHK20p"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 199091,
       "name": "someone to you",
       "url": "https://open.spotify.com/track/7uk0hE1Wa4QaFHzEbLPhwt"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "When You Know You Know",
+        "url": "https://open.spotify.com/album/7jOp38flePWqWH0OxxTvDg"
+      },
+      "artists": [
+        {
+          "name": "Benny G",
+          "url": "https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8"
+        }
+      ],
+      "duration_ms": 209685,
+      "name": "Price of Love",
+      "url": "https://open.spotify.com/track/0dBOzs6h3OuMb9iGXtTbt1"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -595,22 +595,18 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Rina",
-        "url": "https://open.spotify.com/album/1WL3GoeS3sad2UrkUTAPXd"
+        "name": "Lay Down In a Pickup",
+        "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
       },
       "artists": [
         {
-          "name": "Sylvie",
-          "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
-        },
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
         }
       ],
-      "duration_ms": 279066,
-      "name": "Rina",
-      "url": "https://open.spotify.com/track/6FCJOwTvlHzpFDWx82L6WF"
+      "duration_ms": 206806,
+      "name": "Lay Down In a Pickup",
+      "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -631,22 +627,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Lay Down In a Pickup",
-        "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        }
-      ],
-      "duration_ms": 206806,
-      "name": "Lay Down In a Pickup",
-      "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Trespasser",
         "url": "https://open.spotify.com/album/5LsTcgEL5o7ivH0CUeAgXm"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 215486,
       "name": "Main Street U.S.A.",
       "url": "https://open.spotify.com/track/0vBLkHfCoJ7SEVyzDW86Co"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Rina",
+        "url": "https://open.spotify.com/album/1WL3GoeS3sad2UrkUTAPXd"
+      },
+      "artists": [
+        {
+          "name": "Sylvie",
+          "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
+        },
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "Rina",
+      "url": "https://open.spotify.com/track/6FCJOwTvlHzpFDWx82L6WF"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Free Again",
-        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
-      },
-      "artists": [
-        {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
-        }
-      ],
-      "duration_ms": 232104,
-      "name": "Free Again",
-      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Sushi and Coca-Cola",
         "url": "https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 157414,
       "name": "Sushi and Coca-Cola",
       "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Free Again",
+        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "duration_ms": 232104,
+      "name": "Free Again",
+      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "All My Shades Of Blue",
-        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
-      },
-      "artists": [
-        {
-          "name": "Ruen Brothers",
-          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Summer Sun",
-      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 166106,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "All My Shades Of Blue",
+        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
+      },
+      "artists": [
+        {
+          "name": "Ruen Brothers",
+          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Summer Sun",
+      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
         "name": "For the Time Being",
         "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 245333,
       "name": "For the Time Being",
       "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
-      },
-      "artists": [
-        {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "In the Hour of Chaos",
         "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Wandering Star",
-        "url": "https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4"
-      },
-      "artists": [
-        {
-          "name": "Haylie Davis",
-          "url": "https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3"
-        }
-      ],
-      "duration_ms": 210517,
-      "name": "I Was Wrong",
-      "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "A Real Fine Mess (Deluxe Version)",
         "url": "https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 169076,
       "name": "In and Out of Love",
       "url": "https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4"
+      },
+      "artists": [
+        {
+          "name": "Haylie Davis",
+          "url": "https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "I Was Wrong",
+      "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
         "name": "Tetris",
         "url": "https://open.spotify.com/album/5k6k7smqMIAQt78wLhV4El"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+        "name": "Dance For Love",
+        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
       "artists": [
         {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
         }
       ],
-      "duration_ms": 321400,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
+      "duration_ms": 262536,
+      "name": "Dance For Love",
+      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1223,22 +1239,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
-        "name": "Dance For Love",
-        "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 262536,
-      "name": "Dance For Love",
-      "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
         "name": "The Illusion Of Love (feat. Lukas Nelson)",
         "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 283427,
       "name": "The Illusion Of Love (feat. Lukas Nelson)",
       "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Life Is Good (Let That Shit Go)",
-        "url": "https://open.spotify.com/album/41BUBK20aUeU55cOQAFrdI"
-      },
-      "artists": [
-        {
-          "name": "Goldie Scott",
-          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
-        }
-      ],
-      "duration_ms": 178916,
-      "name": "Life Is Good (Let That Shit Go)",
-      "url": "https://open.spotify.com/track/2NA3zIhLsxqKcgoRyTfydR"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Wait Til I Get Over",
         "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Life Is Good (Let That Shit Go)",
+        "url": "https://open.spotify.com/album/41BUBK20aUeU55cOQAFrdI"
+      },
+      "artists": [
+        {
+          "name": "Goldie Scott",
+          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
+        }
+      ],
+      "duration_ms": 178916,
+      "name": "Life Is Good (Let That Shit Go)",
+      "url": "https://open.spotify.com/track/2NA3zIhLsxqKcgoRyTfydR"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "You've Got What It Takes",
-        "url": "https://open.spotify.com/album/3Lrx6TzBs7qgZGm1E4UVdw"
+        "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
+        "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
       },
       "artists": [
         {
-          "name": "Theo Lawrence",
-          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        },
+        {
+          "name": "The McCrary Sisters",
+          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
         }
       ],
-      "duration_ms": 215506,
-      "name": "You've Got What It Takes",
-      "url": "https://open.spotify.com/track/5n6UJnJc6JP9pqRWTigmQa"
+      "duration_ms": 215986,
+      "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
+      "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1575,22 +1579,18 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
-        "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
+        "name": "You've Got What It Takes",
+        "url": "https://open.spotify.com/album/3Lrx6TzBs7qgZGm1E4UVdw"
       },
       "artists": [
         {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        },
-        {
-          "name": "The McCrary Sisters",
-          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
         }
       ],
-      "duration_ms": 215986,
-      "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
-      "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
+      "duration_ms": 215506,
+      "name": "You've Got What It Takes",
+      "url": "https://open.spotify.com/track/5n6UJnJc6JP9pqRWTigmQa"
     },
     {
       "added_at": "2026-11-20 05:01:38",

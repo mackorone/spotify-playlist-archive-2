@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBKXDgLNOy7n.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uu0bFedEiZmJYPoqdB6uH">Shane MacGowan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBKXDgLNOy7n.md) - [plain]
 | 93 | [I’ll Be Your Handbag](https://open.spotify.com/track/0ud3fwmlgjxzHkylJlarI6) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 3:02 |
 | 94 | [Truck Drivin’ Man](https://open.spotify.com/track/4ojUPc82fzHFuOMEcBL20W) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Crock Of Gold](https://open.spotify.com/album/73Ol0lbNPEjdmW8ArCZkRa) | 2:45 |
 | 95 | [Mama Lou](https://open.spotify.com/track/2a8lDfFEKg55dED1sjRV3z) | [Sharon Shannon](https://open.spotify.com/artist/6gABJRqeRV4XW6T8vP9QEn), [The Cartoon Thieves](https://open.spotify.com/artist/4uue7j13GlizzmETNGG5pB) | [Saints & Scoundrels](https://open.spotify.com/album/4Zn9wFNJ78cyDMAL7z20ss) | 2:52 |
-| 96 | [Jim la jungle](https://open.spotify.com/track/6Tvse60Sq9iw86SyrD6Vdw) | [Grand Jojo](https://open.spotify.com/artist/66dFZAdzhpelh5KYTGMPbp) | [80](https://open.spotify.com/album/54wybvomxjjKPfyIjV8wee) | 3:40 |
-| 97 | [The Dunes](https://open.spotify.com/track/3d9QANjxZtm9YuBP0wtYMx) | [Jah Wobble's Invaders Of The Heart](https://open.spotify.com/artist/3f2ld0zljQSyarVWTmaYbd) | [The Celtic Poets](https://open.spotify.com/album/2CiGYsscnebb5IJY9xcj4T) | 5:06 |
-| 98 | [Mother Mo Chroi](https://open.spotify.com/track/0IO5T347zaf3wPRkrKpdo9) | [Shane MacGowan's Popes](https://open.spotify.com/artist/3hN31sylRHqrJt0OPkoDyh) | [Across The Broad Atlantic](https://open.spotify.com/album/2Cq5c0fufxAyNvZ1xINdEL) | 4:00 |
-| 99 | [Jukebox](https://open.spotify.com/track/0NDw8k6zPWHrwnt44UiqpP) | [The Popes](https://open.spotify.com/artist/6UXBk0CSeNtXrU0Wdk02uR) | [Holloway Boulevard](https://open.spotify.com/album/2BmBfwSRZDR0lASzmmgd29) | 3:04 |
-| 100 | [The Recruiting Sergeant](https://open.spotify.com/track/7HFnL3qiZEXSPfsyAQOkiL) | [ReGael](https://open.spotify.com/artist/5ASDQpBDLlyOOVBIb7GrWe) | [Coastlines](https://open.spotify.com/album/7sOkvlVTIH003fO40bdB6z) | 2:23 |
+| 96 | [Tomorrow Belongs To Me](https://open.spotify.com/track/38MMl0VlB55rOdiE4D9dtP) | [and The Celtic Chorus](https://open.spotify.com/artist/6Uz69lG9SCEiaaI9xwI6DO), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [The Ultimate Celtic Album](https://open.spotify.com/album/3saY0UotfunZVXnKI5VCJB) | 2:53 |
+| 97 | [Jim la jungle](https://open.spotify.com/track/6Tvse60Sq9iw86SyrD6Vdw) | [Grand Jojo](https://open.spotify.com/artist/66dFZAdzhpelh5KYTGMPbp) | [80](https://open.spotify.com/album/54wybvomxjjKPfyIjV8wee) | 3:40 |
+| 98 | [The Dunes](https://open.spotify.com/track/3d9QANjxZtm9YuBP0wtYMx) | [Jah Wobble's Invaders Of The Heart](https://open.spotify.com/artist/3f2ld0zljQSyarVWTmaYbd) | [The Celtic Poets](https://open.spotify.com/album/2CiGYsscnebb5IJY9xcj4T) | 5:06 |
+| 99 | [Mother Mo Chroi](https://open.spotify.com/track/0IO5T347zaf3wPRkrKpdo9) | [Shane MacGowan's Popes](https://open.spotify.com/artist/3hN31sylRHqrJt0OPkoDyh) | [Across The Broad Atlantic](https://open.spotify.com/album/2Cq5c0fufxAyNvZ1xINdEL) | 4:00 |
+| 100 | [Jukebox](https://open.spotify.com/track/0NDw8k6zPWHrwnt44UiqpP) | [The Popes](https://open.spotify.com/artist/6UXBk0CSeNtXrU0Wdk02uR) | [Holloway Boulevard](https://open.spotify.com/album/2BmBfwSRZDR0lASzmmgd29) | 3:04 |
+| 101 | [The Recruiting Sergeant](https://open.spotify.com/track/7HFnL3qiZEXSPfsyAQOkiL) | [ReGael](https://open.spotify.com/artist/5ASDQpBDLlyOOVBIb7GrWe) | [Coastlines](https://open.spotify.com/album/7sOkvlVTIH003fO40bdB6z) | 2:23 |
 
-Snapshot ID: `AciY3gAAAABQKsik+K2HiwWjdUpdVVl2`
+Snapshot ID: `AcifMgAAAAAmCXYbOBrLb5FjOyhZ4quk`

@@ -2,7 +2,7 @@
 
 ### [New Dance 2026](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
 
-> Wekelijkse update! Cover: LAMMER & mikii
+> Wekelijkse update! Cover: Lucas & Steve, Sick Individuals
 
 1,686 songs - 3 day 13 hr 55 min
 

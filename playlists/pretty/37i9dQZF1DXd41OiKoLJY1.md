@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Gloryen\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,382 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,386 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [Palayo](https://open.spotify.com/track/45tfQlFlhKgLvWXNyqUMEt) | [Kasane](https://open.spotify.com/artist/58GgU26kgH6KBhDx8pT3PO) | [Palayo](https://open.spotify.com/album/3IDPfWsyZcDyMtPCLXMCVv) | 4:24 |
 | 50 | [Retsina](https://open.spotify.com/track/2TqP5fkkTKhxAkCifNop0F) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Retsina](https://open.spotify.com/album/4R7GwVgx1BdJ4lN8NGAo1L) | 4:23 |
 
-Snapshot ID: `AAAAADK9iTANE3a00uXTMVwq9X+WUWLm`
+Snapshot ID: `AAAAAE/J1WLAyAjZFKG4/gsO9JHI1I44`

@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 8949,
+  "num_followers": 8950,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAABHdjsjk1fo0iK9wRrp/FuJ",
+  "snapshot_id": "awIwgAAAAABcm6ElTdkhk+wTeo80ssix",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Move With Tha",
-        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Move With Tha",
-      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unexpected",
         "url": "https://open.spotify.com/album/4reugbzJpVWhzSQfeNR7c5"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 174321,
       "name": "Unexpected",
       "url": "https://open.spotify.com/track/1Ab6qXXWkBrXMZj4G90SAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move With Tha",
+        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Move With Tha",
+      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
       "duration_ms": 169687,
       "name": "Blink",
       "url": "https://open.spotify.com/track/4VkKITpuA7aiGtMWst0hk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/6OzfaFoWjQlBNcOEO0rmea"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 215708,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/0Hj23OxppZlJzUlTbUWwJf"
     },
     {
       "added_at": null,
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/6OzfaFoWjQlBNcOEO0rmea"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 215708,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/0Hj23OxppZlJzUlTbUWwJf"
+      "duration_ms": 192975,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y"
     },
     {
       "added_at": null,
@@ -631,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
       },
       "artists": [
         {
@@ -640,25 +656,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 192975,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD"
+      "duration_ms": 216683,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 216683,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
+      "duration_ms": 186750,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 189697,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Mind / Let Me",
-        "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 188322,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Mind / Let Me",
+        "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 188322,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Want",
         "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 174260,
       "name": "I Want",
       "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 172757,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 172757,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club 95",
         "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 169455,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 171473,
-      "name": "Hustler - Radio Edit",
-      "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 171473,
+      "name": "Hustler - Radio Edit",
+      "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DNA (Radio Edit)",
         "url": "https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU"
       },
@@ -887,22 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Furious!",
-        "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
+        "name": "Money Zone",
+        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Hooders",
-          "url": "https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS"
         }
       ],
-      "duration_ms": 198100,
-      "name": "Furious!",
-      "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
+      "duration_ms": 171502,
+      "name": "Money Zone",
+      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
     }
   ],
   "unique_name": "This Is SUBSHIFT",

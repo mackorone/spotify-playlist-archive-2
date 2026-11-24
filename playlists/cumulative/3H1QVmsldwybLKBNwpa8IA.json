@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/6Be8h4Z8vABY5vhYF1eoJP"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "December",
+      "url": "https://open.spotify.com/track/18K5GtxK5LWDJm4WcQRbrP"
+    },
+    {
+      "album": {
         "name": "Glee: The Music, The Christmas Album",
         "url": "https://open.spotify.com/album/7FNrLZcarhJDymYgoUQfQN"
       },
@@ -768,6 +786,28 @@
       "duration_ms": 147547,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/4HMptEInOi2qAZHRh8MCMj"
+    },
+    {
+      "album": {
+        "name": "Get Ready (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/5BtjunbwHKGr2wYrNKsaBm"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186117,
+      "name": "Get Ready (From \"Snoopy Presents: 12 Days of Snoopy\")",
+      "url": "https://open.spotify.com/track/3VYKQXhjyM5I8DnChuuAeG"
     },
     {
       "album": {
@@ -1028,6 +1068,28 @@
       "duration_ms": 223240,
       "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
       "url": "https://open.spotify.com/track/3vvnvVvBYMsVAUn26yBaMn"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/76tS12f6S9QDPc9x6OxiWG"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "Have Yourself a Merry Little Christmas (From \"Snoopy Presents: 12 Days of Snoopy\")",
+      "url": "https://open.spotify.com/track/06tOzNfqvoD38Fo5lfg459"
     },
     {
       "album": {
@@ -1671,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "A Tyler Shaw Christmas",
+        "url": "https://open.spotify.com/album/3FZoAjWQNUMJy3DmbV9xX8"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124642,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/6cCzBFXBOPJOYZnPdads2N"
+    },
+    {
+      "album": {
         "name": "Maybe This Christmas",
         "url": "https://open.spotify.com/album/4EGRqGYQJHYNH0UdunImYb"
       },
@@ -1682,10 +1762,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 124642,
       "name": "Maybe This Christmas",
       "url": "https://open.spotify.com/track/6khrAXutKiVuYzs3oZHpRZ"
+    },
+    {
+      "album": {
+        "name": "The Christmas Tracks",
+        "url": "https://open.spotify.com/album/0qMYNqlfA6PJktEw7kuXkc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/06WRD9XExW1KyjnvxiXFE2"
     },
     {
       "album": {
@@ -1758,6 +1856,24 @@
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "album": {
+        "name": "MRS CLAUS DONT HAVE 2 KNOW",
+        "url": "https://open.spotify.com/album/3Zg749QlqxyZ6AWyS0sUCm"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "MRS CLAUS DONT HAVE 2 KNOW",
+      "url": "https://open.spotify.com/track/4AmvW6Xjym3pZvdjV2mG32"
     },
     {
       "album": {
@@ -1982,7 +2098,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 259276,
       "name": "O Holy Night (feat. The Tenors)",
       "url": "https://open.spotify.com/track/0z9Sjdm3vd95rdXNNNUERk"
@@ -2343,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "When the (Christmas) lights turn on",
+        "url": "https://open.spotify.com/album/3qrJZncaZ61Z2WVHzXva4G"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Season for leaving",
+      "url": "https://open.spotify.com/track/2ge3YPVdRAWeRxMZzKorkq"
+    },
+    {
+      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -2528,6 +2662,24 @@
       "duration_ms": 200440,
       "name": "Storybook Christmas",
       "url": "https://open.spotify.com/track/1mPvvclPZp80ivPZ8bVXnZ"
+    },
+    {
+      "album": {
+        "name": "Thank God It's Christmas... Again!",
+        "url": "https://open.spotify.com/album/5uVEnSIzW6j6u4BOgRQcLs"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259442,
+      "name": "Thank God It's Christmas",
+      "url": "https://open.spotify.com/track/6co4xLktrr3m2YswPT1zon"
     },
     {
       "album": {

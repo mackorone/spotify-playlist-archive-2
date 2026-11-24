@@ -3459,6 +3459,24 @@
     },
     {
       "album": {
+        "name": "Life on Earth",
+        "url": "https://open.spotify.com/album/6FdEXBCj6P3gUQjqNvUZue"
+      },
+      "artists": [
+        {
+          "name": "Orakleminds",
+          "url": "https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Life on Earth",
+      "url": "https://open.spotify.com/track/1D7zlFA2wwlx9uKmhK9bGJ"
+    },
+    {
+      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/129PEfz7ICa9PzjLfE0lo8"
       },
@@ -5684,7 +5702,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 178976,
       "name": "Soulful Gem",
       "url": "https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98"

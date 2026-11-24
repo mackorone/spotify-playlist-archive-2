@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Noor Chahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,552 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,561 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 2 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
 | 3 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 |
 | 4 | [Jogi](https://open.spotify.com/track/22OYPLWN8ADWaWJgt6VNh8) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jogi](https://open.spotify.com/album/3MTAv5z2xPjEJCEqMGIrf3) | 2:24 |
-| 5 | [BLOOMING](https://open.spotify.com/track/4OWRP84AGWb7rqAfZ5p1xi) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Just Overrated](https://open.spotify.com/album/2HfK5enUK557kbsro5iI8x) | 3:18 |
+| 5 | [BLOOMING](https://open.spotify.com/track/4OWRP84AGWb7rqAfZ5p1xi) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [RUMANE](https://open.spotify.com/artist/30Y5MpTLQy10jZ96324lV7) | [Just Overrated](https://open.spotify.com/album/2HfK5enUK557kbsro5iI8x) | 3:18 |
 | 6 | [Lala Lala](https://open.spotify.com/track/5a5xZ3iA2cB8vWEmHbC2kd) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Lala Lala](https://open.spotify.com/album/2TWuq3arHNQS8QeNVKWIaz) | 2:42 |
 | 7 | [Jee Nai Lagda](https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Jee Nai Lagda](https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF) | 2:43 |
 | 8 | [Ranjha](https://open.spotify.com/track/7xbKboQNFZR3A4unBPmYaJ) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Ranjha](https://open.spotify.com/album/4qC2NrokZ3iEVMJOdcuXFX) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Bhulekhe](https://open.spotify.com/track/5H9ry3GVPJ7sqyWl1Qth6F) | [Mikki Kalyan](https://open.spotify.com/artist/0ZNULUVcrieYhGci2qr134), [Pitterr](https://open.spotify.com/artist/4kFmVHFnKNFrkxQ2Pf42qt), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Bhulekhe](https://open.spotify.com/album/488S9BjZAsmSp52rDeLZqn) | 3:08 |
 | 50 | [Nazar](https://open.spotify.com/track/37ogTsqSzkHARCwff2p9f9) | [Sifat Dhillon](https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC), [Don Nas](https://open.spotify.com/artist/7z5ImG1hrWgPx7K5HMMEcC), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [Nazar](https://open.spotify.com/album/2JQSlImy0ITeARqyQQbTzw) | 2:51 |
 
-Snapshot ID: `AAAAAB4g/8D28qSth1asgtU/HMsetoBO`
+Snapshot ID: `AAAAAM8wlO9I9FvgASycVH0JK1N2VOgF`

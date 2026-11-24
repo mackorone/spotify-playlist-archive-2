@@ -1,13 +1,33 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Evan Loss, Putri Andien\n",
-  "num_followers": 265296,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Vandesta\n",
+  "num_followers": 265431,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGv4EayN5MuPuM1a2IFz3fUDH+QB",
+  "snapshot_id": "AAAAAK0s6n59kY9A7OCTBRYqDqr3ps4d",
   "tracks": [
+    {
+      "added_at": "2026-11-24 07:26:19",
+      "album": {
+        "name": "Samawa",
+        "url": "https://open.spotify.com/album/53Zc8uGn7ueOdps9Xb64d6"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        },
+        {
+          "name": "sasya arkhisna",
+          "url": "https://open.spotify.com/artist/4TFVh9SFsxoIIra4wghjxd"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Samawa",
+      "url": "https://open.spotify.com/track/22Y1ErTr537oNA9aH4u4ZK"
+    },
     {
       "added_at": "2026-11-20 03:52:57",
       "album": {

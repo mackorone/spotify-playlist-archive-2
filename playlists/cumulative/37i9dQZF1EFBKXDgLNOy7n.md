@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uu0bFedEiZmJYPoqdB6uH">Shane MacGowan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-100 songs - 5 hr 29 min
+101 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [The Song With No Name](https://open.spotify.com/track/5rzv9mo34xzPWHJZyysC05) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:06 | 2026-11-12 |  |
 | [The Sunnyside of the Street](https://open.spotify.com/track/1gyCtXIRuolBdRe4bVVF1u) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Hell's Ditch \(Expanded Edition\)](https://open.spotify.com/album/6vWXyEHqnvo4C5xniFTmR8) | 2:44 | 2026-11-12 |  |
 | [The Wild Rover](https://open.spotify.com/track/6JyYNPLalPgGa7XnclF5FO) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Red Roses for Me \(Expanded Edition\)](https://open.spotify.com/album/34iDTYlDC64HeosvJQ3VhK) | 2:37 | 2026-11-12 |  |
+| [Tomorrow Belongs To Me](https://open.spotify.com/track/38MMl0VlB55rOdiE4D9dtP) | [and The Celtic Chorus](https://open.spotify.com/artist/6Uz69lG9SCEiaaI9xwI6DO), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [The Ultimate Celtic Album](https://open.spotify.com/album/3saY0UotfunZVXnKI5VCJB) | 2:53 | 2026-11-23 |  |
 | [Transmetropolitan](https://open.spotify.com/track/6h2tB7PgKSowziC94IQwMP) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Red Roses for Me \(Expanded Edition\)](https://open.spotify.com/album/34iDTYlDC64HeosvJQ3VhK) | 4:25 | 2026-11-12 |  |
 | [Truck Drivin’ Man](https://open.spotify.com/track/4ojUPc82fzHFuOMEcBL20W) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Crock Of Gold](https://open.spotify.com/album/73Ol0lbNPEjdmW8ArCZkRa) | 2:45 | 2026-11-19 |  |
 | [Turkish Song of the Damned](https://open.spotify.com/track/7CbBkeadHfQih8Huwhd65m) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 3:26 | 2026-11-12 |  |

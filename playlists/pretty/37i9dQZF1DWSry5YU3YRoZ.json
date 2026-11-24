@@ -1,12 +1,12 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 11846,
+  "num_followers": 11847,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC0DI6rSu5FWMl4djds9KwLcESMZ",
+  "snapshot_id": "AAAAAOHvtwp6+Q74pjAHpTsj9ulHNmKd",
   "tracks": [
     {
       "added_at": "2026-06-29 08:10:11",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC"
+      },
+      "artists": [
+        {
+          "name": "O3ohn",
+          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Your River In Me",
+      "url": "https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
         "name": "Would You Sleep?",
         "url": "https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF"
       },
@@ -399,18 +415,22 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC"
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4"
       },
       "artists": [
         {
-          "name": "O3ohn",
-          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
+          "name": "n@di",
+          "url": "https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI"
+        },
+        {
+          "name": "Jang Jae Sung",
+          "url": "https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Your River In Me",
-      "url": "https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K"
+      "duration_ms": 200609,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu"
     },
     {
       "added_at": "2026-06-29 08:10:11",
@@ -443,26 +463,6 @@
       "duration_ms": 211800,
       "name": "Dawnlight",
       "url": "https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4"
-      },
-      "artists": [
-        {
-          "name": "n@di",
-          "url": "https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI"
-        },
-        {
-          "name": "Jang Jae Sung",
-          "url": "https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN"
-        }
-      ],
-      "duration_ms": 200609,
-      "name": "Shore",
-      "url": "https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu"
     },
     {
       "added_at": "2026-06-29 08:10:11",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
         "name": "A Form Of Love",
         "url": "https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 167992,
       "name": "To eunbi",
       "url": "https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2026-06-29 08:10:11",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "Mind Laundry",
-        "url": "https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4"
-      },
-      "artists": [
-        {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Could you?",
-      "url": "https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 245000,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
+        "name": "Mind Laundry",
+        "url": "https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Could you?",
+      "url": "https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf"
     },
     {
       "added_at": "2026-06-29 08:10:11",
@@ -727,38 +727,6 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "They say, that is the love",
-      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
-        "name": "Your Letter (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1"
-      },
-      "artists": [
-        {
-          "name": "HEN",
-          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/1KPgxV8aJDJh26Z3Ff7N5p"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
         "name": "Snow spectacle",
         "url": "https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo"
       },
@@ -775,6 +743,22 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "They say, that is the love",
+      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 155000,
       "name": "In Other Words",
       "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
+        "name": "Your Letter (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/1KPgxV8aJDJh26Z3Ff7N5p"
     },
     {
       "added_at": "2026-06-29 08:10:11",

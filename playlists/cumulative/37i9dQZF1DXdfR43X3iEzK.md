@@ -2,9 +2,9 @@
 
 ### [alt/pop](https://open.spotify.com/playlist/37i9dQZF1DXdfR43X3iEzK)
 
-> my alt/pop could mean anything ⚔️ cover: Shygirl
+> my alt/pop could mean anything ⚔️ cover: cikho
 
-771 songs - 1 day 17 hr 32 min
+772 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Can I Finish Please?](https://open.spotify.com/track/3gsQ4YYAT2eg4EaKh3X9v5) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Riot Youth](https://open.spotify.com/album/1QeB1OnMoM3nlnUhi1nP68) | 3:35 | 2026-10-08 |  |
 | [Can we talk about Isaac?](https://open.spotify.com/track/0vBbqvlbXY9ozSEtN2rROZ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 4:03 | 2025-06-06 | 2025-09-12 |
 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-04-03 | 2025-04-25 |
+| [Candy Love](https://open.spotify.com/track/0LHZzgNNxHOVRwZh02mzWd) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Stargazer](https://open.spotify.com/album/5vbmIGe4EuGvdzMcOPxilt) | 2:44 | 2026-11-23 |  |
 | [CANNIBALISM!](https://open.spotify.com/track/0d5maE1saK2pmlhZfW0xmh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CANNIBALISM!](https://open.spotify.com/album/20PiiYxiYvWiagbQ65z1Qo) | 2:47 | 2025-09-11 | 2025-10-24 |
 | [cardiograph](https://open.spotify.com/track/4jSCe9O0BX8AJUvjFevqad) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [earthling](https://open.spotify.com/album/7xnKBiSaKS5IGbt9dkXM1r) | 3:46 | 2025-03-14 | 2025-04-04 |
 | [CARRY YOU](https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [CARRY YOU](https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k) | 3:08 | 2024-08-08 | 2024-10-11 |

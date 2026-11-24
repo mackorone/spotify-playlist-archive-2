@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-113 songs - 6 hr 58 min
+115 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2023-09-08 |  |
 | [Port\-harcourt](https://open.spotify.com/track/4mYrASGvrm2xBWQskhg2P3) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN) | [Port\-harcourt](https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw) | 2:50 | 2024-10-25 |  |
 | [Run Jozi \(Godly\) \(feat\. K.O\)](https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:54 | 2023-09-08 |  |
+| [Santorini](https://open.spotify.com/track/4ppNFofJCDaq7rpRDmyAiW) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Lavida Boy](https://open.spotify.com/album/0dNVbO6bgRlqs1d6jDZ7wy) | 2:35 | 2026-11-23 |  |
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2024-05-03 |  |
 | [Somalia Somali Baa Leh](https://open.spotify.com/track/2vegLZ4xf2GmjaD1LExwjY) | [Sharma Boy](https://open.spotify.com/artist/4SllpFxwa14CeJf4LMkiXZ), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Somalia Somali Baa Leh](https://open.spotify.com/album/4bG7BuW0lT3Kx0X2WhHrux) | 4:31 | 2023-09-08 | 2024-08-09 |
 | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-09-08 |  |
@@ -108,6 +109,7 @@
 | [Soweto Blues](https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Soweto Blues](https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40) | 4:58 | 2023-09-08 |  |
 | [Sunsets in Mali](https://open.spotify.com/track/1WgVgu7b06lDj9Rdd7wd49) | [Oshun Grizzly](https://open.spotify.com/artist/3i6xQ8FElsPXsYLUsdEadD) | [Sunsets in Mali](https://open.spotify.com/album/7mnUtM2EmetLyn87eJ3Rvc) | 1:24 | 2026-04-17 |  |
 | [Tanzania](https://open.spotify.com/track/5Fc7n5o7UGFXEXZDaAbOyC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Muziki Wa Samia](https://open.spotify.com/album/3JnsY2Il2yMASXxB21Kf5R) | 3:07 | 2024-06-07 | 2025-10-10 |
+| [TANZANIA](https://open.spotify.com/track/2iz77djY2EC2swPRvRbFco) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [E\-Mortal Boy](https://open.spotify.com/album/4r6kHpL8Ql8O6FvfvdjVwg) | 2:51 | 2026-11-23 |  |
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2023-09-08 |  |
 | [Tanzania \(feat\. Sino Msolo and Boibizza\)](https://open.spotify.com/track/4qm0rzVQA3kqQ0yA7LkuFK) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Tanzania \(feat\. Sino Msolo and Boibizza\)](https://open.spotify.com/album/4Clh4Zi1rvftlZsgXa0FSF) | 6:16 | 2024-03-15 | 2024-04-19 |
 | [Ugandan Girl](https://open.spotify.com/track/1F2GvDPgcGDSY2vpMU2aHt) | [Peter Rhymer](https://open.spotify.com/artist/45RRDt2C7hWV0c4MqemmBq), [Laxzy Mover](https://open.spotify.com/artist/1LQDdqSrOOVblPnopOL8zI) | [Ugandan Girl](https://open.spotify.com/album/3MemuIRsWm2NnO7LSDSmGh) | 3:45 | 2023-09-08 | 2024-07-13 |

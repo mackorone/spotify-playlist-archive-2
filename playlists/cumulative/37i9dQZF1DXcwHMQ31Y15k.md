@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Evan Loss, Putri Andien
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Vandesta
 
-613 songs - 2 day 3 hr 28 min
+614 songs - 2 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [SAMAR](https://open.spotify.com/track/7kInuBn9J1a0tXn4hbGJRZ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [SAMAR](https://open.spotify.com/album/3VWHaPhQyKU90o1YGS65Nk) | 4:24 | 2023-12-15 | 2025-01-11 |
 | [Samar](https://open.spotify.com/track/73PrzEAs7xdpYF9dokBwX9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Samar](https://open.spotify.com/album/7FODJc8FgOUTWDBC0HDd61) | 4:37 | 2024-02-01 | 2024-08-30 |
 | [SAMAR \- Versi Akustik](https://open.spotify.com/track/5QBr8tq760ApYwE4I5ZxDg) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Indah Meghaa](https://open.spotify.com/artist/4XK4lbqOW01VPgvOfLp9rD) | [SAMAR \(Versi Akustik\)](https://open.spotify.com/album/54Ls8koKZtyqqC7cWw1WtD) | 4:37 | 2024-01-18 | 2024-10-19 |
+| [Samawa](https://open.spotify.com/track/22Y1ErTr537oNA9aH4u4ZK) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [sasya arkhisna](https://open.spotify.com/artist/4TFVh9SFsxoIIra4wghjxd) | [Samawa](https://open.spotify.com/album/53Zc8uGn7ueOdps9Xb64d6) | 5:08 | 2026-11-24 |  |
 | [Sambat](https://open.spotify.com/track/6beU0Phq5vUGvzYF4EtplM) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Sambat](https://open.spotify.com/album/51FhShmdp9AHOVwTd4rNT4) | 3:40 | 2023-02-02 | 2023-08-11 |
 | [Sampe Mbesok](https://open.spotify.com/track/4GHtcnUSpjU70WsitZceOq) | [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5), [Nanda Sayang](https://open.spotify.com/artist/3UE7G0tW09cb4xPMaWiyHg) | [Sampe Mbesok](https://open.spotify.com/album/3Ee8O2c0EGYzmn93VXgUIX) | 5:39 | 2025-06-13 | 2025-07-25 |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2022-05-26 | 2022-08-26 |

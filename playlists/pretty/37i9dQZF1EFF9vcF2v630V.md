@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577 likes - 78 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 78 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 48 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
 | 49 | [It Will Never Be Over](https://open.spotify.com/track/2qjxsqWn39qiIAdMeBnZF2) | [CAGGIE](https://open.spotify.com/artist/1heHpKKrCRibu4H4CjNjAD) | [It Will Never Be Over](https://open.spotify.com/album/6YHTdr373eX4wZQjDSonNS) | 3:11 |
 | 50 | [I Need a Night Out](https://open.spotify.com/track/0desJH8bu68LRIzBCe3Cnv) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [I Need a Night Out](https://open.spotify.com/album/0HhYDwhESPSeuyDjVxGRBV) | 3:20 |
-| 51 | [Tryna Not Fall in Love](https://open.spotify.com/track/7Haes1NHgFQ4DkVjtbHUzd) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Tryna Not Fall in Love](https://open.spotify.com/album/1qT5T3OVuOAIQxTwvm0QY7) | 3:34 |
-| 52 | [HYBRID](https://open.spotify.com/track/2DcoPHnwznHQimpVfMXL8Y) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS), [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [HYBRID \- SM STATION](https://open.spotify.com/album/3bL1FEeKZTzuTL85rLM0Qb) | 4:56 |
-| 53 | [Out Of Control](https://open.spotify.com/track/4sB48VYROXFtKbuRTreGma) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Out Of Control](https://open.spotify.com/album/7MTldAIUcnpLhNjFZpCHDb) | 3:13 |
+| 51 | [Out Of Control](https://open.spotify.com/track/4sB48VYROXFtKbuRTreGma) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Out Of Control](https://open.spotify.com/album/7MTldAIUcnpLhNjFZpCHDb) | 3:13 |
+| 52 | [Tryna Not Fall in Love](https://open.spotify.com/track/7Haes1NHgFQ4DkVjtbHUzd) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Tryna Not Fall in Love](https://open.spotify.com/album/1qT5T3OVuOAIQxTwvm0QY7) | 3:34 |
+| 53 | [HYBRID](https://open.spotify.com/track/2DcoPHnwznHQimpVfMXL8Y) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS), [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [HYBRID \- SM STATION](https://open.spotify.com/album/3bL1FEeKZTzuTL85rLM0Qb) | 4:56 |
 | 54 | [Bye Bye](https://open.spotify.com/track/4OjVl9VWxl45MXIvkLpl3c) | [NES](https://open.spotify.com/artist/2gVohQzPBy9wFFc3k7O9ot), [Nesrine](https://open.spotify.com/artist/3nCNWyIpMAMYnnCPrLtNAo), [Matthieu Saglio](https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx), [David Gadea](https://open.spotify.com/artist/2c54DqAX3lnRXDEtKO6vso) | [Ahlam](https://open.spotify.com/album/422LklmVZfFAoQOyCedcbl) | 4:28 |
 | 55 | [I Want](https://open.spotify.com/track/0SmxXmLh1b3Fzo538a1hFF) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [Mike City](https://open.spotify.com/artist/4b8jP3BNzAfeaKqd4Whlvd) | [Red Lips](https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1) | 3:58 |
 | 56 | [Empty the Bags](https://open.spotify.com/track/5lWbOppiC87CYEjAZA1zO2) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/0EKz5aJ3rWNVlxd7nsxraf) | 2:33 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 77 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 | 78 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
 
-Snapshot ID: `AciY3gAAAAD37lc218PqrWbFt5hQSJgl`
+Snapshot ID: `AcifMgAAAADZM/MY5zABWcyzfzzsHs1Z`

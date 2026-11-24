@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Wamen \(du titre \#1 au \#15\)\. Les titres \#16 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,613 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,553 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 40 | [Hot](https://open.spotify.com/track/01Gccj2VR5W5eZMg9h8Bmi) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Hot](https://open.spotify.com/album/5FNjUU3YrOLgc09fqV9Dq7) | 2:44 |
 | 41 | [Jeune Demoiselle](https://open.spotify.com/track/4uie9TydlbuQRptziBOzss) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Jeune Demoiselle](https://open.spotify.com/album/2AWZKCVDQGrAIiLNuBd9CG) | 2:27 |
 
-Snapshot ID: `AAAAANv5GD5GCch5En3SnOjh0FG4uOU4`
+Snapshot ID: `AAAAANRhJmcviD3oD5uUyaHiCf2JhSbe`

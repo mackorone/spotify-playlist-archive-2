@@ -2,7 +2,7 @@
 
 ### [Disney Christmas](https://open.spotify.com/playlist/37i9dQZF1DX10JY0qJoWDu)
 
-> Holiday cheer from your Disney favorites!
+> Make the holiday magic with festive Disney classics and pop hits.
 
 158 songs - 7 hr 15 min
 

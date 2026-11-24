@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- King
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,280,756 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,281,167 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Maine Tere Hi Bharose](https://open.spotify.com/track/5TtvunSnujYjeu4v9zGqss) | [Suneel Lodhi](https://open.spotify.com/artist/1s5aKgcudmePUHS5qAIlWS) | [Hanuman Ansh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DlVPtSdh0eXgXLZA4Newq) | 2:56 |
 | 50 | [Nafrat](https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:34 |
 
-Snapshot ID: `AAAAALA42lKU7MJfiBkxW8H+M7WRrWMh`
+Snapshot ID: `AAAAAI/j4K+qynj14utLhirDbkKewLPq`

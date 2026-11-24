@@ -4,7 +4,7 @@
 
 > entering my reputation era
 
-326 songs - 17 hr 51 min
+327 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Dark Days](https://open.spotify.com/track/4tPSsSJzDqxf6JGfJY9EnG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Dark Days](https://open.spotify.com/album/6VgSqqV9YvpZaXPRgcPP1I) | 3:21 | 2025-05-02 | 2025-06-21 |
 | [Dark Lady](https://open.spotify.com/track/7ckF0HeHGMOEjNqW5GoTqq) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Universal Masters Collection](https://open.spotify.com/album/6SlRWiNTV4uuona6bAUWId) | 3:25 | 2022-04-18 | 2022-04-21 |
 | [DARKSIDE](https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Wars In A Wonderland](https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ) | 2:48 | 2022-07-18 |  |
-| [Daughter of Eve](https://open.spotify.com/track/7yn85MEYkjsuRwBiU9hfVA) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Daughter of Eve](https://open.spotify.com/album/1W6gAVieZrMV1zPuLNAhli) | 2:41 | 2025-11-25 |  |
+| [Daughter of Eve](https://open.spotify.com/track/7yn85MEYkjsuRwBiU9hfVA) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Daughter of Eve](https://open.spotify.com/album/1W6gAVieZrMV1zPuLNAhli) | 2:41 | 2025-11-25 | 2026-11-24 |
 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 | 2022-09-22 | 2023-01-14 |
 | [Deal With The Devil](https://open.spotify.com/track/7eFIg4OmtXa0Wf5eeFOLs4) | [Rory Webley](https://open.spotify.com/artist/2vlC4o7h61xlMUop6QCuvK) | [Deal With The Devil](https://open.spotify.com/album/3sJM5AOASzuZETZOLf77ND) | 2:15 | 2022-01-27 | 2022-07-29 |
 | [Death Of Us](https://open.spotify.com/track/1b7kH8a40bQ0ttYPNdxrn6) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Death Of Us](https://open.spotify.com/album/2LkqNFhcGWp6PTyozndEXd) | 3:08 | 2022-01-27 | 2022-07-28 |
@@ -168,6 +168,7 @@
 | [I'm Coming For It](https://open.spotify.com/track/1QIqFCNyeUhRMeXXC1zkGV) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [GREYLEE](https://open.spotify.com/artist/2Jphi8NzWnXSePDSLqJ6V5) | [I'm Coming For It](https://open.spotify.com/album/0VVnR9NcCSZWOS5YLXty60) | 3:07 | 2022-03-09 | 2022-07-29 |
 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 | 2022-01-27 | 2022-05-20 |
 | [I'M NOT SORRY](https://open.spotify.com/track/1RcHsx2rw6ojtQyFlLr99O) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [I'M NOT SORRY](https://open.spotify.com/album/4cw4dZdBBmHxwQfSOVwbJ8) | 2:42 | 2022-07-18 | 2022-07-29 |
+| [I'm The Big Bad](https://open.spotify.com/track/5QJx5XzizMbWyPbltlUmzZ) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [I'm The Big Bad](https://open.spotify.com/album/3PKnH8Hvk1pE4hV8rEIp5S) | 2:51 | 2026-11-24 |  |
 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 | 2022-03-18 |  |
 | [IM NOT SORRY](https://open.spotify.com/track/1p7CC1v247IBsIGplONX2c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IM NOT SORRY](https://open.spotify.com/album/1fzAlBGccCu9IWM8eCM4DC) | 2:41 | 2022-01-27 | 2022-07-29 |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2022-01-27 | 2022-04-18 |

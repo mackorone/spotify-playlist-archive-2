@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11560,
+  "num_followers": 11562,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAAAEMuv+GUqY6rn/b2ukG7iQ",
+  "snapshot_id": "awIwgAAAAABdQ8hyccqCgYQSFcsdQaAv",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crush EP",
-        "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Computer Luv (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/2wsa9Re66HqlOkgb3DpnBX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon Shoes EP",
         "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crush EP",
+        "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Computer Luv (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/2wsa9Re66HqlOkgb3DpnBX"
     },
     {
       "added_at": null,

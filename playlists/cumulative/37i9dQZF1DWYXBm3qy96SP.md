@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: CHVRCHES
 
-2,446 songs - 5 day 23 hr 0 min
+2,447 songs - 5 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [BLACK MOONLIGHT](https://open.spotify.com/track/6Puhv2Iw9K8A3rkpxr4Dsz) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [BLACK MOONLIGHT](https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr) | 3:06 | 2023-09-21 | 2023-09-29 |
 | [Black Paint](https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Black Paint](https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d) | 1:59 | 2026-06-11 | 2026-06-19 |
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-03-23 | 2023-03-31 |
+| [BLACK SHEEP](https://open.spotify.com/track/68chs4vh0WYHDXrUgxKdWj) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [BLACK SHEEP](https://open.spotify.com/album/1SsXI4HzkULJ9IgCRNdobu) | 4:09 | 2026-11-19 |  |
 | [Black Stars \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/6qHi1FLsfgru61mcjxwDjm) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Black Stars](https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f) | 3:26 | 2026-10-15 |  |
 | [Black Tuesday](https://open.spotify.com/track/5VBp2Lwui2pQ09NoEpQQf2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Black Tuesday](https://open.spotify.com/album/1ldgcoD5YK1PIfZ3lUaHHe) | 1:32 | 2023-11-30 | 2023-12-08 |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 | 2025-04-12 |
@@ -2053,7 +2054,7 @@
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 | 2025-03-21 |
 | [That's Me](https://open.spotify.com/track/0ivNXNBIslaG7LeLfFaQ0T) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [That's Me](https://open.spotify.com/album/0OFePaI594VRdvqQETTPBn) | 2:11 | 2026-06-18 | 2026-07-10 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-27 | 2024-02-09 |
-| [The Allfather Awakes](https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Allfather Awakens](https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh) | 4:36 | 2026-10-08 |  |
+| [The Allfather Awakes](https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Allfather Awakens](https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh) | 4:36 | 2026-10-08 | 2026-11-24 |
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-10-26 | 2024-01-29 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-06-02 | 2024-08-16 |
 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 | 2023-09-15 | 2023-10-20 |

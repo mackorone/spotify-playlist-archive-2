@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,055,186 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,055,260 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Quem Que Tá](https://open.spotify.com/track/2kd04YGxY6v8t4HYztOHn7) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Quem Que Tá](https://open.spotify.com/album/6AOYra2DSu2cs5tBUhpEbS) | 2:32 |
 | 50 | [Amnésia \- Ao Vivo](https://open.spotify.com/track/1DYbj7SoFq9VKe83d1JIZt) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Impulso \(Ao Vivo\)](https://open.spotify.com/album/7HIETAJyLMywY7JBGnlTYS) | 2:46 |
 
-Snapshot ID: `AAAAAGJsEozIgjaWU0w8XcIRrVigdQRY`
+Snapshot ID: `AAAAAPruxeiRtpBA2WftUgJZZLm40+L3`

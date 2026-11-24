@@ -9317,6 +9317,24 @@
     },
     {
       "album": {
+        "name": "HBM Presents: Sleigh The Holidays, Vol. 3",
+        "url": "https://open.spotify.com/album/0V9C2rzujjBCLDDtIAzRZK"
+      },
+      "artists": [
+        {
+          "name": "Kate Yeager",
+          "url": "https://open.spotify.com/artist/0vs48tvMDwDmDLbnQ95TJQ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165928,
+      "name": "Home for Hanukkah",
+      "url": "https://open.spotify.com/track/41DGQLehCcKYmINUD00LzJ"
+    },
+    {
+      "album": {
         "name": "Home for the Holidays",
         "url": "https://open.spotify.com/album/1vN0txcf2OlDWBZTHLnGqu"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgIR1mhXzPQ.md) - [plain]
 
 > 대한민국 인디 음악의 현재와 미래가 한자리에! 2026 인디스땅스 & 사운드패스 The present and future of K\-Indie music! 2026 INDIESTANCE & SOUND PATH Showcase.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 44 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 44 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgIR1mhXzPQ.md) - [plain]
 | 43 | [CAN’T STOP ME NOW](https://open.spotify.com/track/0oATQTK7f0ignw98FRAAJN) | [Wack](https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr) | [Be Nice](https://open.spotify.com/album/6QmWhZwxs0teIWFMzmmHaz) | 2:24 |
 | 44 | [Bushwacker](https://open.spotify.com/track/0TVQdaHckjiutw3x2G9Knm) | [Wack](https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr) | [Be Nice](https://open.spotify.com/album/6QmWhZwxs0teIWFMzmmHaz) | 2:22 |
 
-Snapshot ID: `AAAAAEPNa5HZ6c37SMdskFDq2hfc30w8`
+Snapshot ID: `AAAAAI7GeKC0OxbA7jLjONScQ77Jt77W`

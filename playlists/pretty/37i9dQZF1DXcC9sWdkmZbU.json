@@ -1,12 +1,12 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 153553,
+  "num_followers": 153579,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG6AtYNHD611iGJO1u76r9bb4rAg",
+  "snapshot_id": "AAAAADlseiuxTKpv+We5xFDyClkRBTT/",
   "tracks": [
     {
       "added_at": "2026-10-19 16:22:30",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "King Of Me",
-        "url": "https://open.spotify.com/album/7jZ2YQQcGMOJWDRv1C55Wz"
-      },
-      "artists": [
-        {
-          "name": "Rend Co. Kids",
-          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
-        },
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 137066,
-      "name": "King Of Me",
-      "url": "https://open.spotify.com/track/03UpQxGiMEmoMK9cQSheaK"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Living Color",
         "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
       },
@@ -499,18 +479,22 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Sunday Songs (Deluxe)",
-        "url": "https://open.spotify.com/album/6xKtndZstXtHdLc5hXK9Kd"
+        "name": "King Of Me",
+        "url": "https://open.spotify.com/album/7jZ2YQQcGMOJWDRv1C55Wz"
       },
       "artists": [
         {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+          "name": "Rend Co. Kids",
+          "url": "https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK"
+        },
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 159519,
-      "name": "I've Got the Joy",
-      "url": "https://open.spotify.com/track/2iEOzBRKn2GHoAjgJGikSz"
+      "duration_ms": 137066,
+      "name": "King Of Me",
+      "url": "https://open.spotify.com/track/03UpQxGiMEmoMK9cQSheaK"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -539,6 +523,22 @@
       "duration_ms": 134207,
       "name": "Everything",
       "url": "https://open.spotify.com/track/61nfJmJlwatT1hCs8wbEpf"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "Sunday Songs (Deluxe)",
+        "url": "https://open.spotify.com/album/6xKtndZstXtHdLc5hXK9Kd"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "I've Got the Joy",
+      "url": "https://open.spotify.com/track/2iEOzBRKn2GHoAjgJGikSz"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "I Count on You",
-        "url": "https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY"
-      },
-      "artists": [
-        {
-          "name": "Amber Sky Records",
-          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
-        }
-      ],
-      "duration_ms": 150595,
-      "name": "Wherever Whatever",
-      "url": "https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Hes Got the Whole World in His Hands",
         "url": "https://open.spotify.com/album/0Xw01vBCWorR0ILodrB9TS"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 148000,
       "name": "Hes Got the Whole World in His Hands",
       "url": "https://open.spotify.com/track/3pihU0E5xgZ5JIAnsBdC71"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "I Count on You",
+        "url": "https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky Records",
+          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
+        }
+      ],
+      "duration_ms": 150595,
+      "name": "Wherever Whatever",
+      "url": "https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -907,18 +907,22 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "You Hypocrite",
-        "url": "https://open.spotify.com/album/2HH1ibbH5cwoh45fVo3UgS"
+        "name": "Sunday Songs",
+        "url": "https://open.spotify.com/album/2Fh0eiGiSGrvPWiV13gy66"
       },
       "artists": [
         {
           "name": "Slugs and Bugs",
           "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        },
+        {
+          "name": "Caleb Kirkland",
+          "url": "https://open.spotify.com/artist/0soJ846Ditx9OujgZJur4e"
         }
       ],
-      "duration_ms": 154626,
-      "name": "You Hypocrite",
-      "url": "https://open.spotify.com/track/1mMOXFPUFNYHlp7zsq7Utw"
+      "duration_ms": 144890,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/6LWGnDS2L4kpxjckKqkgzF"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -987,22 +991,18 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Sunday Songs",
-        "url": "https://open.spotify.com/album/2Fh0eiGiSGrvPWiV13gy66"
+        "name": "You Hypocrite",
+        "url": "https://open.spotify.com/album/2HH1ibbH5cwoh45fVo3UgS"
       },
       "artists": [
         {
           "name": "Slugs and Bugs",
           "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        },
-        {
-          "name": "Caleb Kirkland",
-          "url": "https://open.spotify.com/artist/0soJ846Ditx9OujgZJur4e"
         }
       ],
-      "duration_ms": 144890,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/6LWGnDS2L4kpxjckKqkgzF"
+      "duration_ms": 154626,
+      "name": "You Hypocrite",
+      "url": "https://open.spotify.com/track/1mMOXFPUFNYHlp7zsq7Utw"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0mFjaLCkfyQ6WQPSanvDJQ"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Kids Sing Praise",
+          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Best Day of My Life",
-      "url": "https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc"
+      "duration_ms": 290980,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/6nzJgJ3w3qGEoAz9vp7TrC"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0mFjaLCkfyQ6WQPSanvDJQ"
-      },
-      "artists": [
-        {
-          "name": "Kids Sing Praise",
-          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
-        }
-      ],
-      "duration_ms": 290980,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/6nzJgJ3w3qGEoAz9vp7TrC"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Top 50 Kids' Praise! Company",
         "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "Prayed for This Day",
-        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/7dBJvgDpKP4aF9DzkRdz7u"
       },
       "artists": [
         {
-          "name": "Chrissy Metz",
-          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
         }
       ],
-      "duration_ms": 157746,
-      "name": "When I Talk to God",
-      "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
+      "duration_ms": 196600,
+      "name": "Best Day of My Life",
+      "url": "https://open.spotify.com/track/1A6or9Pbj0RDBKHyiujChc"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
+        "name": "Prayed for This Day",
+        "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Metz",
+          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "When I Talk to God",
+      "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
         "name": "Hope For The Wobbly World",
         "url": "https://open.spotify.com/album/212VIFg5oHDU7J8K8Iol2K"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 177611,
       "name": "The Arky Arky Song",
       "url": "https://open.spotify.com/track/6rUOtgCuKhp53kuX6TBhNl"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
-        "name": "Lullabies",
-        "url": "https://open.spotify.com/album/66oGFlREKozY5rpHCAvINt"
-      },
-      "artists": [
-        {
-          "name": "Good News Guys",
-          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "I Love You Lord",
-      "url": "https://open.spotify.com/track/1dFXH9g4W8iBpeMqn8oQVS"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "We Are Royals",
-        "url": "https://open.spotify.com/album/7AXpJIJltWKonpyELP6Dx2"
+        "name": "Lullabies",
+        "url": "https://open.spotify.com/album/66oGFlREKozY5rpHCAvINt"
       },
       "artists": [
         {
-          "name": "Eagle Brook Kids",
-          "url": "https://open.spotify.com/artist/5aMVpIbDbna00tdWyXVdiJ"
+          "name": "Good News Guys",
+          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
         }
       ],
-      "duration_ms": 197666,
-      "name": "We Are Royals",
-      "url": "https://open.spotify.com/track/0xfLXC9JhJjEVYIFNrGlsy"
+      "duration_ms": 114000,
+      "name": "I Love You Lord",
+      "url": "https://open.spotify.com/track/1dFXH9g4W8iBpeMqn8oQVS"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1323,6 +1307,22 @@
       "duration_ms": 149538,
       "name": "Psalms 150",
       "url": "https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "We Are Royals",
+        "url": "https://open.spotify.com/album/7AXpJIJltWKonpyELP6Dx2"
+      },
+      "artists": [
+        {
+          "name": "Eagle Brook Kids",
+          "url": "https://open.spotify.com/artist/5aMVpIbDbna00tdWyXVdiJ"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "We Are Royals",
+      "url": "https://open.spotify.com/track/0xfLXC9JhJjEVYIFNrGlsy"
     },
     {
       "added_at": "2026-10-19 16:22:30",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-10-19 16:22:30",
       "album": {
-        "name": "I've Got Joy",
-        "url": "https://open.spotify.com/album/4PU0ENPEfHO2x413UT7ZKi"
-      },
-      "artists": [
-        {
-          "name": "Christ Fellowship Kids Worship",
-          "url": "https://open.spotify.com/artist/1tsylt2Jb4AxlcT3ipBuwt"
-        }
-      ],
-      "duration_ms": 206043,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/29GSY8mTzYvW15AYTCzYYh"
-    },
-    {
-      "added_at": "2026-10-19 16:22:30",
-      "album": {
         "name": "Everyone Should Know",
         "url": "https://open.spotify.com/album/4YxBerD4Pn7JWIAHviZrDh"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 144489,
       "name": "Everyone Should Know",
       "url": "https://open.spotify.com/track/183GRfsKbL6ES9W0qgjgL1"
+    },
+    {
+      "added_at": "2026-10-19 16:22:30",
+      "album": {
+        "name": "I've Got Joy",
+        "url": "https://open.spotify.com/album/4PU0ENPEfHO2x413UT7ZKi"
+      },
+      "artists": [
+        {
+          "name": "Christ Fellowship Kids Worship",
+          "url": "https://open.spotify.com/artist/1tsylt2Jb4AxlcT3ipBuwt"
+        }
+      ],
+      "duration_ms": 206043,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/29GSY8mTzYvW15AYTCzYYh"
     },
     {
       "added_at": "2026-10-19 16:22:30",

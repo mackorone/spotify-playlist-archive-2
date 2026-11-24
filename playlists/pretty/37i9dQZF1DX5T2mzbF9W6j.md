@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,141 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,142 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,21 +44,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 34 | [jakby ok](https://open.spotify.com/track/4agwHBJr7jnvS9VHEJRJ0n) | [LALE](https://open.spotify.com/artist/1BaXV5IqUHk4V3QkLsSN05), [Dizzma](https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1) | [jakby ok](https://open.spotify.com/album/2epRg7LZCWlzDT13OzMiAh) | 2:17 |
 | 35 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
 | 36 | [Będzie pięknie](https://open.spotify.com/track/1AQk1NyfDFar6N8h7sqGFo) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Będzie pięknie](https://open.spotify.com/album/0aScZB7r4zTGdeGlUlmxXY) | 2:27 |
-| 37 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
-| 38 | [Gravity](https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV) | [Wiktor Sas](https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT) | [Gravity](https://open.spotify.com/album/7vXymVunheG3BABabEky8f) | 2:40 |
+| 37 | [Gravity](https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV) | [Wiktor Sas](https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT) | [Gravity](https://open.spotify.com/album/7vXymVunheG3BABabEky8f) | 2:40 |
+| 38 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
 | 39 | [Będzie Było](https://open.spotify.com/track/1F0SMCHyLQHep0GkCBdLVK) | [Michał Wiśniewski](https://open.spotify.com/artist/5S81yF6soloHlD9Uq9ZDxg), [Mandaryna](https://open.spotify.com/artist/1wCHHmt2SQiCP7aajyxhYh) | [Będzie Było](https://open.spotify.com/album/6rZAWdLnycMjksTGkCY782) | 2:28 |
 | 40 | [Naturalny high](https://open.spotify.com/track/22ddQQtpnQkQJewBDHt25S) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:31 |
 | 41 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
 | 42 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
 | 43 | [27 \(Do gwiazd!\)](https://open.spotify.com/track/3oHwZgYpIasZdLxKH96hCy) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [27 \(Do gwiazd!\)](https://open.spotify.com/album/2HZkpRpFQHz3T1aCuLmmYP) | 3:12 |
 | 44 | [aż nie chce się wracać](https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [aż nie chce się wracać](https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW) | 2:14 |
-| 45 | [Można oddychać pod wodą](https://open.spotify.com/track/4sSZcoPhyj4nN7108NM7UN) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [Można oddychać pod wodą](https://open.spotify.com/album/4kaYUEmsV3KslNTZPFCXPi) | 3:32 |
-| 46 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
+| 45 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
+| 46 | [Można oddychać pod wodą](https://open.spotify.com/track/4sSZcoPhyj4nN7108NM7UN) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [Można oddychać pod wodą](https://open.spotify.com/album/4kaYUEmsV3KslNTZPFCXPi) | 3:32 |
 | 47 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 48 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 49 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 |
-| 50 | [Tu Mój Dom](https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN) | [Staszek z Gór](https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr), [Sound'n'Grace](https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo) | [Tu Mój Dom](https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB) | 2:18 |
-| 51 | [Serce z wosku](https://open.spotify.com/track/6rgF0ql0Gg200aoW0vp5X6) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Serce z wosku](https://open.spotify.com/album/2Boo6XvXersbCc8Cgry0aX) | 2:32 |
+| 50 | [Serce z wosku](https://open.spotify.com/track/6rgF0ql0Gg200aoW0vp5X6) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Serce z wosku](https://open.spotify.com/album/2Boo6XvXersbCc8Cgry0aX) | 2:32 |
+| 51 | [Tu Mój Dom](https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN) | [Staszek z Gór](https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr), [Sound'n'Grace](https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo) | [Tu Mój Dom](https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB) | 2:18 |
 | 52 | [A Jak](https://open.spotify.com/track/1IJIUgWX5Z4WTXz7S7CMB6) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [A Jak](https://open.spotify.com/album/79uqUDVizofi4IsC8tXNgw) | 2:38 |
 | 53 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
 | 54 | [Całą noc](https://open.spotify.com/track/3rdOArgTazJOV5JFNFZSTr) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Całą noc](https://open.spotify.com/album/25zHLYu9pqBujSBajPWRgH) | 2:52 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 57 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
 | 58 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
 | 59 | [Teraz mam serce](https://open.spotify.com/track/5WTN8q8J0IbkwWmobgEvsR) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Tamtej dziewczyny już nie ma](https://open.spotify.com/album/6l7Huc1Zk00By4v0QnAUJ1) | 3:17 |
-| 60 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 |
+| 60 | [SPOSÓB](https://open.spotify.com/track/1PRfKvxWbyJiPYMVzddOV9) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [SPOSÓB](https://open.spotify.com/album/2hO8mkfUQSuq0wHa4NfB0e) | 3:13 |
 
-Snapshot ID: `AAAAADMTk/GaUi3KYYZUDWTQoTvt2b/G`
+Snapshot ID: `AAAAALhXrLkQk+YbRKfdvl4dgF9fqoYK`

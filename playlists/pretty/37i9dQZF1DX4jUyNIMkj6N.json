@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 226136,
+  "num_followers": 226173,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANRo8TQAkUmEPI2TKnOqSr3xRS0I",
+  "snapshot_id": "AAAAAOsoVL3ViP4OZT+3meksS3dfUU8E",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:24",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "Down the River",
-        "url": "https://open.spotify.com/album/5xXDE5uhAnIeXaYwM8Kgm6"
-      },
-      "artists": [
-        {
-          "name": "ViVii",
-          "url": "https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa"
-        }
-      ],
-      "duration_ms": 383371,
-      "name": "Down the River",
-      "url": "https://open.spotify.com/track/5RbcXgY0pHBJfgSXU55JSr"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
+        "name": "Down the River",
+        "url": "https://open.spotify.com/album/5xXDE5uhAnIeXaYwM8Kgm6"
+      },
+      "artists": [
+        {
+          "name": "ViVii",
+          "url": "https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa"
+        }
+      ],
+      "duration_ms": 383371,
+      "name": "Down the River",
+      "url": "https://open.spotify.com/track/5RbcXgY0pHBJfgSXU55JSr"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
         "name": "Deadline",
         "url": "https://open.spotify.com/album/4CqcV7Ci1YEKqDppaa2SVO"
       },
@@ -575,26 +575,6 @@
       "duration_ms": 243000,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/1SOM6upNBqbWhkJ0mSiDCI"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
-        "name": "Overboda",
-        "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        },
-        {
-          "name": "Sofia HK",
-          "url": "https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Overboda",
-      "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -619,6 +599,26 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
+        "name": "Overboda",
+        "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        },
+        {
+          "name": "Sofia HK",
+          "url": "https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Overboda",
+      "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "In The Silver Wire Up The Hill",
-        "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "In The Silver Wire Up The Hill",
-      "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 180364,
       "name": "UFO",
       "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
+        "name": "In The Silver Wire Up The Hill",
+        "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "In The Silver Wire Up The Hill",
+      "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
         "name": "GUTWORK",
         "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 203373,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -815,50 +815,18 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "Til hverdagen tar oss igjen",
-        "url": "https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U"
+        "name": "Feels like That",
+        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
       },
       "artists": [
         {
-          "name": "Daniela Reyes",
-          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
+          "name": "Victor Lundberg",
+          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
         }
       ],
-      "duration_ms": 222053,
-      "name": "Til hverdagen tar oss igjen",
-      "url": "https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
-        "name": "Deliver Me From Trying",
-        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Deliver Me From Trying",
-      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
-        "name": "Laminar Flow",
-        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
-      },
-      "artists": [
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
-        }
-      ],
-      "duration_ms": 133613,
-      "name": "forever, for a while",
-      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+      "duration_ms": 216955,
+      "name": "Feels like That",
+      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -883,6 +851,54 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
+        "name": "Deliver Me From Trying",
+        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Deliver Me From Trying",
+      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
+        "name": "Til hverdagen tar oss igjen",
+        "url": "https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U"
+      },
+      "artists": [
+        {
+          "name": "Daniela Reyes",
+          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "Til hverdagen tar oss igjen",
+      "url": "https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
+        "name": "Laminar Flow",
+        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
+      },
+      "artists": [
+        {
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+        }
+      ],
+      "duration_ms": 133613,
+      "name": "forever, for a while",
+      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
         "name": "The Man Who Lost it All",
         "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 199712,
       "name": "The Man Who Lost it All",
       "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
-        "name": "Feels like That",
-        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
-      },
-      "artists": [
-        {
-          "name": "Victor Lundberg",
-          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
-        }
-      ],
-      "duration_ms": 216955,
-      "name": "Feels like That",
-      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
     },
     {
       "added_at": "2026-11-19 23:01:24",

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 14054,
+  "num_followers": 14092,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFdqrbhGlDlTB/ff8oNImaBpLvg",
+  "snapshot_id": "AAAAAFOIGAucno5OUq6m+rYKYWrfdlWV",
   "tracks": [
     {
       "added_at": "2022-10-14 00:00:00",
@@ -527,26 +527,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Midnight City (Eric Prydz Private Remix)",
         "url": "https://open.spotify.com/album/7lOidIGDpO6imOl4zDGQ9p"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 361740,
       "name": "Midnight City - Eric Prydz Private Remix",
       "url": "https://open.spotify.com/track/0FoSiffuAmaJ3VyPaebY6I"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo"
     },
     {
       "added_at": "2022-10-14 00:00:00",

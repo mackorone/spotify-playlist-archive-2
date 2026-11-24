@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-157 songs - 9 hr 44 min
+158 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,9 @@
 | [Far Away](https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Far Away](https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV) | 3:58 | 2026-04-20 |  |
 | [Feels Right](https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feels Right](https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj) | 3:09 | 2026-10-09 |  |
 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 | 2025-08-08 | 2026-05-27 |
-| [Garden of Eden \(In Memory Of Guus\-Jan Lieberwerth\)](https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Truth Is We'll Never Know](https://open.spotify.com/album/5UHNWSiKJQn3KS9XM9DHX3) | 5:06 | 2026-05-26 |  |
+| [Garden of Eden \(In Memory Of Guus\-Jan Lieberwerth\)](https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Truth Is We'll Never Know](https://open.spotify.com/album/5UHNWSiKJQn3KS9XM9DHX3) | 5:06 | 2026-05-26 | 2026-11-24 |
 | [Gaza is Calling](https://open.spotify.com/track/3J60sGMryOdR9iFriazOzm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/5VVL5bs1loPBnJc826gQGl) | 4:30 | 2025-08-08 | 2025-10-14 |
+| [Get Out Of My Life](https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Get Out Of My Life](https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX) | 3:18 | 2026-11-23 |  |
 | [Getting Up](https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Getting Up](https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI) | 4:34 | 2026-02-12 |  |
 | [Goodbye To A Lover Again](https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Goodbye To A Lover Again](https://open.spotify.com/album/3pCiut2DYa0xhcUlmlShi4) | 2:19 | 2026-11-17 |  |
 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 | 2025-09-25 | 2026-09-29 |

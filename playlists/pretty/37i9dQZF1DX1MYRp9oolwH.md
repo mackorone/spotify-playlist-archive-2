@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Alias Rukmini
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,650 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,666 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Erai Paare Hrudayam \(From "Premane Oorilo"\)](https://open.spotify.com/track/4HPy5fwaJPSYfyjg357ZDl) | [Sunaad Gowtham](https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Rambabu Gosala](https://open.spotify.com/artist/6dEfOjGcbT3HYATS6jETvH) | [Erai Paare Hrudayam \(From "Premane Oorilo"\)](https://open.spotify.com/album/7A9RU4XBGk10Bu929GCxd9) | 3:25 |
 | 50 | [Hey Pilla](https://open.spotify.com/track/7EmqaDmoj8sB8SzvSMjbmo) | [Raghavendra Saraswathula](https://open.spotify.com/artist/1zf5Oa5fPRUDqPPfacUv8m), [Sri Murali Karthikeya](https://open.spotify.com/artist/5hdDhVRtAtygssJd84hv06) | [Kalyanam Kamaneeyam Jeevitham](https://open.spotify.com/album/6KThYPI4OHPI0Y0qkGzdOt) | 4:07 |
 
-Snapshot ID: `AAAAALVrUd0g3B+dpj0nuO7lnCBAwtua`
+Snapshot ID: `AAAAAAwlY/kejGwixFTvhVjp3CwG64RS`

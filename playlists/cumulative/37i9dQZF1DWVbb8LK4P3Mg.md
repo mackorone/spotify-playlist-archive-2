@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: aespa, Eartha Kitt\)
 
-251 songs - 14 hr 36 min
+252 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 | 2021-12-21 | 2024-12-25 |
 | [Christmas in New York](https://open.spotify.com/track/02AkOM9aadzbRmOuLvVh3A) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Christmas in New York](https://open.spotify.com/album/3Arw97tnQUGQ3zBkWrEORn) | 2:58 | 2026-11-13 |  |
 | [Christmas is Coming \(feat\. Kelsey Kuan & prettyhappy\)](https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Christmas is Coming](https://open.spotify.com/album/02vzxxDPtbNmqeQx2XHWlH) | 3:26 | 2025-11-06 |  |
-| [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 | 2024-01-05 |  |
+| [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 | 2024-01-05 | 2026-11-24 |
 | [Christmas Love](https://open.spotify.com/track/1bSqmWIWw4AHevbOXBtBwm) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [KIM TAE WOO with Friends](https://open.spotify.com/album/0fj62kxyGEzyB1xYVNvaef) | 3:04 | 2021-12-21 | 2022-12-13 |
 | [christmas recipe \(feat\. 16\)](https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq) | [Stupinuts](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [christmas recipe](https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF) | 2:54 | 2024-01-08 |  |
 | [Christmas Rose \(feat\. LEEBADA\)](https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Christmas Rose](https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o) | 3:43 | 2021-12-21 |  |
@@ -125,6 +125,7 @@
 | [Like Christmas \(2018 Remastered Ver.\)](https://open.spotify.com/track/5DdvtTKvvIVzNoCd3M729I) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 2:37 | 2021-12-21 | 2022-07-29 |
 | [Lonely Christmas](https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Lonely Christmas](https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a) | 3:37 | 2021-12-21 |  |
 | [Love Again](https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 2:59 | 2022-12-09 |  |
+| [Love Again \(feat\. ZENA of RESCENE\)](https://open.spotify.com/track/5J3GBqhDMPqY2u1VRe2xPz) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Moon Se Yoon](https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05), [ZENA of RESCENE](https://open.spotify.com/artist/06SRXHPbXeyZ3mrpomD6ta) | [Love Again](https://open.spotify.com/album/0Xdlxm89ccLUmnJBSAFdRZ) | 3:15 | 2026-11-23 |  |
 | [Love Wishes](https://open.spotify.com/track/7rHnD8s71BcgDebwESWAKG) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB), [Hyunseong](https://open.spotify.com/artist/77RShpcU6y1y3qy2UyEnU8), [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [STARSHIP PLANET 2016](https://open.spotify.com/album/5MBIaQm8sMwMdZRw61fJJl) | 3:42 | 2021-12-21 |  |
 | [Lovin' the Christmas](https://open.spotify.com/track/6Ws8iBdUJWu9XGsTGvQoEa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Lovin' the Christmas](https://open.spotify.com/album/0n2rbF9KvlhkViJeW0JD8S) | 3:01 | 2025-12-16 |  |
 | [Maybe Christmas \- Orchestra Version](https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Maybe Christmas \(Orchestra Version\)](https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2) | 5:03 | 2021-12-21 |  |

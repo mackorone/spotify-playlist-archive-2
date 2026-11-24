@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "Ai Ngo\u00e0i Anh",
       "url": "https://open.spotify.com/track/6GM4ZOBDcDroldUxI8GZ2B"
@@ -6991,6 +6991,28 @@
     },
     {
       "album": {
+        "name": "DADOI",
+        "url": "https://open.spotify.com/album/5uH96y4S64P66nT9UDcstg"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        },
+        {
+          "name": "Ho\u00e0ng D\u0169ng",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231589,
+      "name": "C\u1ee8 TH\u1ebe",
+      "url": "https://open.spotify.com/track/2dtQ4b3KRBJBFNZHc59QHf"
+    },
+    {
+      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
         "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
       },
@@ -12200,7 +12222,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 354782,
       "name": "H\u01b0 kh\u00f4ng",
       "url": "https://open.spotify.com/track/0sR5ThoE0uoskXWrm6KDxP"
@@ -15252,7 +15274,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 258668,
       "name": "Li\u1ec7u Gi\u1edd (feat. V\u0103n)",
       "url": "https://open.spotify.com/track/2sSsy51uNPKas6x0JWr0TN"
@@ -20072,7 +20094,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -23606,7 +23628,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 280560,
       "name": "SECRET (feat. Quang H\u00f9ng MasterD, CODYNAMVO, CONGB & Wren Evans)",
       "url": "https://open.spotify.com/track/4TmcmTzr88j02kCDh19VNt"
@@ -25408,7 +25430,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -26956,7 +26978,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -28156,7 +28178,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
@@ -28192,7 +28214,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -29618,7 +29640,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 210067,
       "name": "V\u1ebft M\u01b0a",
       "url": "https://open.spotify.com/track/5cn5oHiXJTLiuthgbgfkMh"

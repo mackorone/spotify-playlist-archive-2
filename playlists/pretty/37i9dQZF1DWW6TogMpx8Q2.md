@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: MC張天賦
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,539 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,540 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 100 | [懷疑人生](https://open.spotify.com/track/64DtUTH1ZtBURnXIDzBzx1) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [Sweet & Sour](https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE) | 4:29 |
 | 101 | [我所看見的未來](https://open.spotify.com/track/7H4kKWF9aM6qm3puVzcwy6) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [我所看見的未來](https://open.spotify.com/album/5KyjhnUaXk2qzoFUqT0niK) | 4:07 |
 
-Snapshot ID: `AAAAACp6wiM7szAz04pSGsQzPERr4c7t`
+Snapshot ID: `AAAAALfFTiFLMVlqB726tdEYwjky96ih`

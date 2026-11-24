@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Mexe Mexe Mainha",
+        "url": "https://open.spotify.com/album/5151241LlOGqP7U9ReOJWn"
+      },
+      "artists": [
+        {
+          "name": "Cinara",
+          "url": "https://open.spotify.com/artist/7Ms4FkcqjvxbIvRezfbvEj"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122416,
+      "name": "Mexe Mexe Mainha",
+      "url": "https://open.spotify.com/track/3YpIdOy6IiYiEUgBkJNMXg"
+    },
+    {
+      "album": {
         "name": "Minha Intui\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6xoZ7lXF0gZRbfxD602lHP"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 294777,
       "name": "Newsroom Costumers",
       "url": "https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP"

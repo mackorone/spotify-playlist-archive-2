@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Gera MX en la tarima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,488 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,512 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 5 | [CEO](https://open.spotify.com/track/2xoiQADWe50bwxmPdfAI3G) | [Phyzh Eye](https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01), [David bukowski](https://open.spotify.com/artist/4bITAmagheKMaosETXK80X) | [CEO](https://open.spotify.com/album/4Jj7oDfcfg4k91SNyL1Kmu) | 2:41 |
 | 6 | [Ley del Calentón](https://open.spotify.com/track/0hMKglvWw42WIuh75fQ3o6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Maniako](https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3), [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Tm Zaiko](https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl) | [Deadpol](https://open.spotify.com/album/3eiCAYmSApFv5lAN89XWFz) | 4:12 |
 | 7 | [Prodigio](https://open.spotify.com/track/1RkbItB8kWDijT7pdVA2BQ) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Noesis](https://open.spotify.com/album/34l9G7KA7Np7oa3rBKOhyL) | 3:16 |
-| 8 | [Excéntrico](https://open.spotify.com/track/2RmPfx2YgcHdFUXyqJLXKl) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Clumsybeatz](https://open.spotify.com/artist/7rxsnYqEYab8ANeijAGUKy), [Cash](https://open.spotify.com/artist/1zADdEUAvH0EHGiwdhwEtd), [Casa Nova](https://open.spotify.com/artist/6bWviPqPBkwu4FcY2I5C0P) | [Excéntrico](https://open.spotify.com/album/0Pk1o52BO4XSNv7BMOBXyA) | 2:25 |
+| 8 | [Excéntrico](https://open.spotify.com/track/2RmPfx2YgcHdFUXyqJLXKl) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Clumsybeatz](https://open.spotify.com/artist/7rxsnYqEYab8ANeijAGUKy), [Cash](https://open.spotify.com/artist/2vPN2cubxpzTVKW5iymfLc), [Casa Nova](https://open.spotify.com/artist/6bWviPqPBkwu4FcY2I5C0P) | [Excéntrico](https://open.spotify.com/album/0Pk1o52BO4XSNv7BMOBXyA) | 2:25 |
 | 9 | [Ontas?](https://open.spotify.com/track/4mDyEDU5YDRztKuHDWyQhe) | [El Sensei](https://open.spotify.com/artist/6BcOVxe4V595dvArS23sXd), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Ontas?](https://open.spotify.com/album/7LgaBOWTUS0CRKFYK2DkIr) | 3:19 |
 | 10 | [Mac n Cheese](https://open.spotify.com/track/59FfOGtPpHu9NImxubVwzj) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [SANDRO & MALANDROS](https://open.spotify.com/album/6j5C9dLtEqFR96K0JyEtZF) | 2:35 |
 | 11 | [Hundido en la Oscuridad](https://open.spotify.com/track/5Hf5QHS96hitbmTf9JKWY6) | [Oscar Lee](https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz), [Ruido](https://open.spotify.com/artist/0250OEy6zueop2wumtDMXP) | [Hundido en la Oscuridad](https://open.spotify.com/album/7odd6PKEpV4ADjHaznJFxg) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 49 | [Me Ha Costado](https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:36 |
 | 50 | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP) | 4:08 |
 
-Snapshot ID: `AAAAALLu4KAfy47Z+xvkcNXiPWyVpV0B`
+Snapshot ID: `AAAAAPvQalWo+qfC7tTHAIkRdXLi2IEG`

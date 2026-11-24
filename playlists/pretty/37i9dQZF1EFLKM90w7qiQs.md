@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 40 | [LESS DEPRESSED](https://open.spotify.com/track/41LEQ35PkSIgeXF78oFyx3) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [LESS DEPRESSED](https://open.spotify.com/album/4QWhQfzQxuIz4sAea2MAMX) | 2:57 |
 | 41 | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/track/5tVRWM3CiMhy7CY0Aohyuh) | [Mullally](https://open.spotify.com/artist/4oc6eCUAzc3EcutZmmAg5y), [Bassette](https://open.spotify.com/artist/3Ky2r5H6y4cP5o00HcCE5R) | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/album/6y0l9GV5EM5afqnCX5fWgq) | 3:22 |
 | 42 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 |
-| 43 | [Don't](https://open.spotify.com/track/4xIEnb2MOEgIfveGoyIy71) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:08 |
-| 44 | [ONE CALL AWAY.](https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [ONE CALL AWAY.](https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a) | 2:56 |
+| 43 | [ONE CALL AWAY.](https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [ONE CALL AWAY.](https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a) | 2:56 |
+| 44 | [Don't](https://open.spotify.com/track/4xIEnb2MOEgIfveGoyIy71) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:08 |
 | 45 | [Can't Be Friends](https://open.spotify.com/track/3HjBenHdbppyR8Y3vVUe85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 2:47 |
 | 46 | [99%](https://open.spotify.com/track/0oUJB1ASvUvvO6xDjOvC85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:10 |
 | 47 | [the internet](https://open.spotify.com/track/2oXwBL6QlB7sYBXbvahZke) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [the internet](https://open.spotify.com/album/1Cmb2nNZWbB84xwfESSVYf) | 3:27 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 75 | [Lemonade](https://open.spotify.com/track/3Cof51IjtIRLXf9kE2rJWf) | [Alya](https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg) | [Lemonade](https://open.spotify.com/album/1FPTrSxtlfZvTcGE7n23DX) | 2:49 |
 | 76 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AciY3gAAAACW57mnCf12/Bh5Yn0fCL6Z`
+Snapshot ID: `AcifPAAAAABE1FHXa20y+ShgEbdvYWp1`

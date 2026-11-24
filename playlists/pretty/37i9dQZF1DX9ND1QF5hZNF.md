@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,218 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,215 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [fall again](https://open.spotify.com/track/6mIMiSAr10Fz7ws2vJMMqP) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [fall again](https://open.spotify.com/album/0AMi250Mqogv3Mab4dQdmN) | 2:30 |
 | 60 | [Baby Can I Hold You](https://open.spotify.com/track/1r9YpG9VizqqPfYDyP0hav) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Feels Like Home](https://open.spotify.com/album/2GMaa33OUYwIoSlZT1foei) | 2:32 |
 
-Snapshot ID: `AAAAACKxIbD/kBXGbvT8geXvyDV/Sa/C`
+Snapshot ID: `AAAAAE3dwVsAHQ92tPLTP9IEy8QKKtKn`

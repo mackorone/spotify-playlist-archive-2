@@ -1981,6 +1981,28 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151446,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/3MHXtz0Qu0ksVGcvlp7Mfu"
+    },
+    {
+      "album": {
         "name": "Let's Rock (feat. Kodak Black) [from GTAVI: The Album]",
         "url": "https://open.spotify.com/album/41i4XOUUlwpV6P7kWxnAPc"
       },
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 194666,
       "name": "Spend Dat (feat. Lil Baby & Kodak Black) - Remix",
       "url": "https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm"

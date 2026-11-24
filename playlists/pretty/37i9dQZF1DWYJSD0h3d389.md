@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJSD0h3d389.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6?si=ebf55f99cddb44b9">St\. Vincent's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,375 likes - 29 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,388 likes - 29 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Man at C&A](https://open.spotify.com/track/0nsxlqBKEUmuGmH0aSACgL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Too Much Too Young](https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB) | 3:36 |
 | 2 | [Wolf in the Breast](https://open.spotify.com/track/5Cg9aQIEM2exLNBPupf6V4) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:31 |
 | 3 | [Sketch for Summer](https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 2:58 |
-| 4 | [Iieee](https://open.spotify.com/track/5mYjL1KmNh5c1vuuCATFFu) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [From the Choir Girl Hotel](https://open.spotify.com/album/77Aoown5BoLvQJnZJBICPO) | 4:07 |
+| 4 | [Iieee](https://open.spotify.com/track/5mYjL1KmNh5c1vuuCATFFu) | [Tori Amos](https://open.spotify.com/artist/0vM1RvXyTFcqknHSFXjYiN) | [From the Choir Girl Hotel](https://open.spotify.com/album/77Aoown5BoLvQJnZJBICPO) | 4:07 |
 | 5 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 |
 | 6 | [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 |
 | 7 | [Girl Loves Me](https://open.spotify.com/track/6v7gMNeD8eK3HsbMPWlfME) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 4:51 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJSD0h3d389.md) - [plain]
 | 28 | [Percolator](https://open.spotify.com/track/2jb4UXfvv5wtPGvNcG5o6L) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/2AJqzRQltkneduxKsqmgYJ) | 4:14 |
 | 29 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 |
 
-Snapshot ID: `AAAAACkTHR9p60UKwlJWHwVUZ67KyCKM`
+Snapshot ID: `AAAAAOy8yP26kJutjdCV+pnVas83nvjm`

@@ -5548,7 +5548,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 202789,
       "name": "Mystic Nature",
       "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
@@ -6632,6 +6632,24 @@
       "duration_ms": 162475,
       "name": "Radura",
       "url": "https://open.spotify.com/track/1fZ2qoDTQB9VoMhNdb3wsh"
+    },
+    {
+      "album": {
+        "name": "Rain Drones",
+        "url": "https://open.spotify.com/album/4eZ4bHwRaUqzZBVXbwXXoD"
+      },
+      "artists": [
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2026-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Rain Drones",
+      "url": "https://open.spotify.com/track/0rdXmSHQcubaNQJFUnBAwi"
     },
     {
       "album": {

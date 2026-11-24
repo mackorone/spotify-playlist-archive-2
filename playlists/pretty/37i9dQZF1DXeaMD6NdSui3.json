@@ -1,12 +1,12 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 184218,
+  "num_followers": 184252,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACXY0JXF//GPDJZBuhFzTGzQ8V3z",
+  "snapshot_id": "AAAAADUf7qaR1+gm4DTZtBbgBV//7EtE",
   "tracks": [
     {
       "added_at": "2018-02-27 16:43:49",
@@ -137,24 +137,20 @@
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
-        "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
+        "name": "Catch Up With The Blues",
+        "url": "https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV"
       },
       "artists": [
         {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        },
-        {
-          "name": "Larry Davis",
-          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
+          "name": "Johnny Copeland",
+          "url": "https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL"
         }
       ],
-      "duration_ms": 347880,
-      "name": "Givin' Up On Love",
-      "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+      "duration_ms": 394333,
+      "name": "Rolling With The Punches",
+      "url": "https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -189,20 +185,24 @@
       "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Catch Up With The Blues",
-        "url": "https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV"
+        "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
+        "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
       },
       "artists": [
         {
-          "name": "Johnny Copeland",
-          "url": "https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL"
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        },
+        {
+          "name": "Larry Davis",
+          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
         }
       ],
-      "duration_ms": 394333,
-      "name": "Rolling With The Punches",
-      "url": "https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ"
+      "duration_ms": 347880,
+      "name": "Givin' Up On Love",
+      "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -223,22 +223,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Things I Used To Do",
-        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Too Much is not enough",
         "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 189040,
       "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
       "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Things I Used To Do",
+        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -307,22 +307,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Story of Sonny Boy Slim",
-        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Too Much is not enough",
         "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 141106,
       "name": "Honest I Do (feat. Gary Clark, Jr.)",
       "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Story of Sonny Boy Slim",
+        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -447,22 +447,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
-      },
-      "artists": [
-        {
-          "name": "Tutu Jones",
-          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Starting All Over",
-      "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Electric Blues",
         "url": "https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 299853,
       "name": "I'm About to Lose My Mind",
       "url": "https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+      },
+      "artists": [
+        {
+          "name": "Tutu Jones",
+          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Starting All Over",
+      "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
     },
     {
       "added_at": "2018-02-27 16:43:49",

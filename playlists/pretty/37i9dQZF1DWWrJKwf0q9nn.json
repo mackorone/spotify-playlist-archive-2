@@ -1,12 +1,12 @@
 {
-  "description": "Wekelijkse update! Cover: LAMMER & mikii",
-  "num_followers": 156408,
+  "description": "Wekelijkse update! Cover: Lucas & Steve, Sick Individuals",
+  "num_followers": 156398,
   "original_name": "New Dance 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANsiJ0/m5HkprDS0MxvrOcv2nCdR",
+  "snapshot_id": "AAAAACqb/icwInvQ0rTpKQZWD2sB+wO5",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:44",
@@ -47,6 +47,22 @@
       "duration_ms": 152058,
       "name": "Accelerate",
       "url": "https://open.spotify.com/track/2PLqvBiUeFOEYcGPC3xgdl"
+    },
+    {
+      "added_at": "2026-11-19 23:01:44",
+      "album": {
+        "name": "Get Loose",
+        "url": "https://open.spotify.com/album/1RHigG8o3lHaB7wnATKyJ3"
+      },
+      "artists": [
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+        }
+      ],
+      "duration_ms": 133002,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/3JNQmCVN97Lt7HZ6y759n0"
     },
     {
       "added_at": "2026-11-19 23:01:44",
@@ -95,58 +111,22 @@
     {
       "added_at": "2026-11-19 23:01:44",
       "album": {
-        "name": "Last Night On Earth",
-        "url": "https://open.spotify.com/album/7M4T9aHgRvsUXUJa0nslF4"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/19bfTUc47e6s9zFw5vNHsd"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         },
         {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 162894,
-      "name": "Last Night On Earth",
-      "url": "https://open.spotify.com/track/4fcxX5mglxYQdd4Wv251Yw"
-    },
-    {
-      "added_at": "2026-11-19 23:01:44",
-      "album": {
-        "name": "Back 2 Basics",
-        "url": "https://open.spotify.com/album/7j8isPHDehSK7vvzX8a7cG"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 216362,
-      "name": "Back 2 Basics",
-      "url": "https://open.spotify.com/track/2qOAPQHnLnmdGeMzpPgdLg"
-    },
-    {
-      "added_at": "2026-11-19 23:01:44",
-      "album": {
-        "name": "Siren Song (feat. OLIVIA)",
-        "url": "https://open.spotify.com/album/44R9YPArxVfS3V5aaqDYiI"
-      },
-      "artists": [
-        {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
-        },
-        {
-          "name": "OLIVIA",
-          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
-        }
-      ],
-      "duration_ms": 198065,
-      "name": "Siren Song (feat. OLIVIA)",
-      "url": "https://open.spotify.com/track/3ecgH8puWOymgdOwtuStOk"
+      "duration_ms": 223203,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3gXPPeGYuBhNHCrOXBwsrQ"
     },
     {
       "added_at": "2026-11-19 23:01:44",
@@ -171,6 +151,74 @@
       "duration_ms": 112781,
       "name": "Dansen Klootzak",
       "url": "https://open.spotify.com/track/4rpGtk9wFUJpHH7CY9Y0Ub"
+    },
+    {
+      "added_at": "2026-11-19 23:01:44",
+      "album": {
+        "name": "Last Night On Earth",
+        "url": "https://open.spotify.com/album/7M4T9aHgRvsUXUJa0nslF4"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "Last Night On Earth",
+      "url": "https://open.spotify.com/track/4fcxX5mglxYQdd4Wv251Yw"
+    },
+    {
+      "added_at": "2026-11-19 23:01:44",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3vHMC7mHLVHTzzP3GMhSQ1"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4Tqt5pkGTpPULhdlmYKpC3"
+    },
+    {
+      "added_at": "2026-11-19 23:01:44",
+      "album": {
+        "name": "Back 2 Basics",
+        "url": "https://open.spotify.com/album/7j8isPHDehSK7vvzX8a7cG"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 216362,
+      "name": "Back 2 Basics",
+      "url": "https://open.spotify.com/track/2qOAPQHnLnmdGeMzpPgdLg"
+    },
+    {
+      "added_at": "2026-11-19 23:01:44",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/5RM0HIHjiMaOPwCDpK3dKm"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/2XFRcchBUPCzNi613DWMaq"
     },
     {
       "added_at": "2026-11-19 23:01:44",
@@ -211,50 +259,6 @@
     {
       "added_at": "2026-11-19 23:01:44",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu"
-      },
-      "artists": [
-        {
-          "name": "Jaden Thompson",
-          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Nafe Smallz",
-          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
-        }
-      ],
-      "duration_ms": 202559,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH"
-    },
-    {
-      "added_at": "2026-11-19 23:01:44",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/19bfTUc47e6s9zFw5vNHsd"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 223203,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3gXPPeGYuBhNHCrOXBwsrQ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:44",
-      "album": {
         "name": "Wait All Night",
         "url": "https://open.spotify.com/album/5vgawNv5SNpnqsLgy1wpdI"
       },
@@ -279,34 +283,78 @@
     {
       "added_at": "2026-11-19 23:01:44",
       "album": {
-        "name": "Get Loose",
-        "url": "https://open.spotify.com/album/1RHigG8o3lHaB7wnATKyJ3"
+        "name": "Siren Song (feat. OLIVIA)",
+        "url": "https://open.spotify.com/album/44R9YPArxVfS3V5aaqDYiI"
       },
       "artists": [
         {
-          "name": "JAYC",
-          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
         }
       ],
-      "duration_ms": 133002,
-      "name": "Get Loose",
-      "url": "https://open.spotify.com/track/3JNQmCVN97Lt7HZ6y759n0"
+      "duration_ms": 198065,
+      "name": "Siren Song (feat. OLIVIA)",
+      "url": "https://open.spotify.com/track/3ecgH8puWOymgdOwtuStOk"
     },
     {
       "added_at": "2026-11-19 23:01:44",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/3vHMC7mHLVHTzzP3GMhSQ1"
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/0GSAQMpeSyCZsg24juc0Ud"
       },
       "artists": [
         {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4Tqt5pkGTpPULhdlmYKpC3"
+      "duration_ms": 132537,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/2Yt23KCMUX0TorSCg9qoBB"
+    },
+    {
+      "added_at": "2026-11-19 23:01:44",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/5SiJVz0BMDTRTtpAwXSsGM"
+      },
+      "artists": [
+        {
+          "name": "Gissa",
+          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
+        }
+      ],
+      "duration_ms": 179091,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/5hEok4VQyFJtupY6mBkLvp"
+    },
+    {
+      "added_at": "2026-11-19 23:01:44",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu"
+      },
+      "artists": [
+        {
+          "name": "Jaden Thompson",
+          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "duration_ms": 202559,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH"
     },
     {
       "added_at": "2026-11-19 23:01:44",
@@ -327,22 +375,6 @@
       "duration_ms": 153692,
       "name": "Like Stars (feat. TW3LVE)",
       "url": "https://open.spotify.com/track/6NvSvAxSHkdxKqB5D0PU5F"
-    },
-    {
-      "added_at": "2026-11-19 23:01:44",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/5RM0HIHjiMaOPwCDpK3dKm"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/2XFRcchBUPCzNi613DWMaq"
     },
     {
       "added_at": "2026-11-19 23:01:44",
@@ -427,38 +459,6 @@
       "duration_ms": 155624,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/006gAsx5p4oqzONvzv88UZ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:44",
-      "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/0GSAQMpeSyCZsg24juc0Ud"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 132537,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/2Yt23KCMUX0TorSCg9qoBB"
-    },
-    {
-      "added_at": "2026-11-19 23:01:44",
-      "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/5SiJVz0BMDTRTtpAwXSsGM"
-      },
-      "artists": [
-        {
-          "name": "Gissa",
-          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
-        }
-      ],
-      "duration_ms": 179091,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/5hEok4VQyFJtupY6mBkLvp"
     },
     {
       "added_at": "2026-11-19 23:01:44",

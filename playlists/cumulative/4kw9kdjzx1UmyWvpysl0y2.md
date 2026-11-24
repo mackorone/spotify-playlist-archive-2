@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,342 songs - 3 day 2 hr 21 min
+1,343 songs - 3 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Añoranza](https://open.spotify.com/track/202AaEVsc9I8iZnv9Q8Hu0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Alex Hentze](https://open.spotify.com/artist/5ItWUx5u41dOWwFl0W41aJ) | [Añoranza](https://open.spotify.com/album/6uu4bSK5v71AhM63AKunpG) | 3:00 | 2024-12-03 | 2025-03-12 |
 | [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-13 | 2023-07-09 |
 | [Back 2 The Rave](https://open.spotify.com/track/1SXRoogCywl9bDdRQL2BHd) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Back 2 The Rave](https://open.spotify.com/album/3Uf3ZTYmR2zZaf4pYCxnwi) | 3:59 | 2025-03-14 | 2025-06-13 |
+| [Back To Life](https://open.spotify.com/track/658cAhGaKl7nw45fNRuP77) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Jessy Covets](https://open.spotify.com/artist/0e35qB87R4rgIfDysLHzAV) | [Back To Life](https://open.spotify.com/album/0ZJMoFiQRGuQ1XN0VejOKV) | 2:33 | 2026-11-23 |  |
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 | 2023-03-25 |
 | [Back To The Stars](https://open.spotify.com/track/3OKq64mBkh7YM1DNkH8kPA) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Back To The Stars](https://open.spotify.com/album/6jFaTrPsJvsWouDobDWUeF) | 3:42 | 2025-12-18 | 2026-04-08 |
 | [Back To You](https://open.spotify.com/track/7wua5sZzdBAaPU6gO46b0N) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Back To You](https://open.spotify.com/album/2PauMsiWPwaQimpIJQWg02) | 2:54 | 2026-10-07 |  |

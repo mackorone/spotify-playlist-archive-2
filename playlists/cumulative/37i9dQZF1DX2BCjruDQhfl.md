@@ -4,7 +4,7 @@
 
 > Tracks voor de juiste vibe\. Cover: Idaly & CHO
 
-488 songs - 22 hr 34 min
+489 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [AAN JE DENK](https://open.spotify.com/track/7IKfJxyYqBptxmc8vZ0JmI) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [AAN JE DENK](https://open.spotify.com/album/1HSi7BDC3J1w63sQRgP2OW) | 2:40 | 2025-09-04 | 2025-12-19 |
 | [act like that](https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [act like that](https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw) | 2:40 | 2025-10-09 | 2026-09-05 |
 | [Aesthetic](https://open.spotify.com/track/6G1bcTNJORYUTB2IQn1ETb) | [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw) | [Aesthetic](https://open.spotify.com/album/3gJunBF6Rr9Nwi3CbdDM01) | 2:21 | 2025-07-17 | 2025-09-19 |
+| [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 | 2026-11-23 |  |
 | [After The Club](https://open.spotify.com/track/5sy9yiJcr7XzxBMRdYeAcv) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:48 | 2026-09-04 | 2026-11-06 |
 | [AIN'T 50/50 \(GIMME!\)](https://open.spotify.com/track/5xzhfNL0EU8lImndhgpyFL) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [AIN'T 50/50 \(GIMME!\)](https://open.spotify.com/album/1Mjv6B1L4My8eodYTGt2J6) | 2:32 | 2026-02-12 | 2026-04-03 |
 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 | 2026-07-02 | 2026-10-09 |
@@ -111,7 +112,7 @@
 | [Cruise Control](https://open.spotify.com/track/4xG7G5EzswBoe0P1hXns1C) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:04 | 2026-08-21 | 2026-09-19 |
 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 | 2025-07-17 | 2025-08-27 |
 | [CUPIDO](https://open.spotify.com/track/7DiE6PvCZkiqYs91XBGakU) | [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [CUPIDO](https://open.spotify.com/album/6NMrE4x53wdpi4d85W3Poe) | 2:31 | 2026-10-02 |  |
-| [D2F](https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7) | [JANE](https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe) | [D2F](https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi) | 2:03 | 2026-09-10 |  |
+| [D2F](https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7) | [JANE](https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe) | [D2F](https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi) | 2:03 | 2026-09-10 | 2026-11-24 |
 | [DAAROM](https://open.spotify.com/track/4a3hygWhqQUcQu8kOfhnN3) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [DAAROM](https://open.spotify.com/album/5ExXfmAFeUC0b1sv5XMFIx) | 2:37 | 2026-07-17 | 2026-09-11 |
 | [Damage](https://open.spotify.com/track/14fG8WwUWFwrZqYam8bWPz) | [jaïre](https://open.spotify.com/artist/00wG3HBn1NEc9LsF664PF9) | [Damage](https://open.spotify.com/album/7BUsFuc0GMwFJo68FKW5p7) | 3:00 | 2025-07-17 | 2025-11-21 |
 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 | 2026-09-04 | 2026-11-06 |

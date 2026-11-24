@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 羊文学
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,365 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,363 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [ファーストアウト・セカンドセーフ](https://open.spotify.com/track/1ZdU1z1PHsfK9MmupUXGf5) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [ファーストアウト・セカンドセーフ](https://open.spotify.com/album/4nIQzBMpXFIFhEdHB1M8sv) | 3:13 |
 | 50 | [Over](https://open.spotify.com/track/2zVE4nLu9V3Zn2uzIWeIif) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/42MJgfwbJUVVL7Ae30VJKE) | 2:48 |
 
-Snapshot ID: `AAAAAD+lqkJ8LE38ovK4Q83a/yjLTgms`
+Snapshot ID: `AAAAAOrLQQbm2Qb6alxsGyW8mk4DyAv3`

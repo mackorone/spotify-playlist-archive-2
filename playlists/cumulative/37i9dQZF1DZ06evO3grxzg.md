@@ -4,7 +4,7 @@
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-165 songs - 8 hr 51 min
+166 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [IDIOTA \(Real Magic\)](https://open.spotify.com/track/6oCieauXPhRe9kNLw1UF2F) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [IDIOTA \(Real Magic\)](https://open.spotify.com/album/5fuZD1Yv8ypB8ir1yJ9EGo) | 3:25 | 2023-11-10 | 2026-05-17 |
 | [Ilarie](https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Pop para los peques](https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb) | 3:49 | 2026-05-23 | 2026-11-20 |
 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 | 2023-03-19 | 2026-04-02 |
-| [Kaprichosa](https://open.spotify.com/track/1ZMwNlcmJZBEqzXOepOO5t) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Noche POP](https://open.spotify.com/album/55RkPo0b9go8SnPOcN73KA) | 3:20 | 2026-11-13 |  |
+| [Kaprichosa](https://open.spotify.com/track/1ZMwNlcmJZBEqzXOepOO5t) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Noche POP](https://open.spotify.com/album/55RkPo0b9go8SnPOcN73KA) | 3:20 | 2026-11-13 | 2026-11-24 |
 | [KHE CALOR](https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [KHE CALOR](https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M) | 2:06 | 2025-07-20 | 2026-04-02 |
 | [Know Me Too Well](https://open.spotify.com/track/3evNCP0dfoI8lXvSF1tRnN) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Know Me Too Well](https://open.spotify.com/album/6g86dBoCblCdA4kNcZQKdW) | 3:20 | 2025-03-28 | 2025-06-23 |
 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 | 2023-03-19 | 2026-09-25 |
@@ -111,6 +111,7 @@
 | [No Es Cierto \- Acústico](https://open.spotify.com/track/1YxqJf6F9J8MA7YFqMCLFu) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Piano y Voz en Español](https://open.spotify.com/album/4ZwCAY3oNENcqQR4dSLFTF) | 3:46 | 2026-05-15 | 2026-05-23 |
 | [No Puedo Olvidarlo](https://open.spotify.com/track/4ehaWjVLMPQngAsTAlNZ0C) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:38 | 2026-04-02 | 2026-04-09 |
 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 | 2023-03-19 | 2026-04-02 |
+| [Oye Pablo](https://open.spotify.com/track/0eQEebn9COvlAudSxOvbeJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Lo Mejor Del Pop](https://open.spotify.com/album/5bzCTP7gtYObiJGBjYTB8r) | 2:57 | 2026-11-24 |  |
 | [Pablo Y Andrea](https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 2:45 | 2026-05-23 | 2026-11-20 |
 | [Paranoia](https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Paranoia](https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq) | 3:00 | 2023-11-10 | 2026-05-13 |
 | [Paranoia](https://open.spotify.com/track/3fteNuQG0KtROKx1Egd5NT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 3:00 | 2026-05-13 |  |

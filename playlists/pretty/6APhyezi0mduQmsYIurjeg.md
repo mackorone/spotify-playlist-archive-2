@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 639 songs - 1 day 14 hr 43 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 641 songs - 1 day 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -647,5 +647,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 637 | [Almost Alright](https://open.spotify.com/track/1e2bfdoVKrSM4VbfhQkucw) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Almost Alright](https://open.spotify.com/album/1DLCkneGG65a5rQHuSZwon) | 1:39 |
 | 638 | [Sa Majesté Moi](https://open.spotify.com/track/2EoeD8rrdHEnA4piNSMyu6) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [Sa Majesté Moi](https://open.spotify.com/album/5DbdhSEY7ZdEqelbOrpvwb) | 3:58 |
 | 639 | [The Salem Shake](https://open.spotify.com/track/4sl29ZGG3WOnDMGs1mZMOS) | [Vordermann](https://open.spotify.com/artist/6q8MQV9ZLqQtv1UN44SgwN) | [/Feeding on Fireworks](https://open.spotify.com/album/5cYMOcakFvoZaLXaT7Dz2E) | 4:34 |
+| 640 | [48 horas](https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm) | [Ángel Valor](https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6) | [48 horas](https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki) | 4:02 |
+| 641 | [After The Show](https://open.spotify.com/track/2HMHJeKnIKUvVwvysbtW5r) | [Wayward Gnome](https://open.spotify.com/artist/5OGoDjttAfogU4Z7ymyhPd) | [A Wonderful Illusion](https://open.spotify.com/album/01lWggP5JEQhoLd6yOmzyk) | 4:49 |
 
-Snapshot ID: `AAADFXeyd4fPvAwuKz39b7spgGB4/23B`
+Snapshot ID: `AAADF9N6EhZ2PmyhqJZ8eLxvj6Lmn6sk`

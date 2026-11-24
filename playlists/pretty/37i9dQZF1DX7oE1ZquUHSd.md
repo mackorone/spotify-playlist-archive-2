@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,655 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,718 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Abuso de Poder \- Remix](https://open.spotify.com/track/5RHrHZnQLdBr1zYEvTD8pn) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Silvito "El Libre"](https://open.spotify.com/artist/0d0Ya20EqRvZriFbwRm7Gl), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0), [Rotwaila](https://open.spotify.com/artist/1eJOv2PV0ZWbez6OwwA2cd), [Quimico](https://open.spotify.com/artist/1g2AsdCl9c1SqL9g4ELWf4), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Abuso de Poder \(Remix\)](https://open.spotify.com/album/2HfSjM4orZYW9OshQUIBdY) | 8:17 |
 | 100 | [Jaque Mate](https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Jorge](https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR) | 2:59 |
 
-Snapshot ID: `AAAAAJhvNQwVW18C7CwuSB9bz0EgjNbn`
+Snapshot ID: `AAAAAJ2/THDnjHXFbdDT6lmTDRvJrEQg`

@@ -1,12 +1,12 @@
 {
   "description": "The best new indie music, indie folk &amp; rock discoveries. Fresh songs for your daily chill, focus and road trips. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists. Updated daily with new releases \u2014 hit save to stay tuned!",
-  "num_followers": 1340,
+  "num_followers": 1341,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAZzsNSJ4vVHkSOcGIuHPXQkzOKLd6e",
+  "snapshot_id": "AAAZ1iGq5f28tMPmRkIo/84A5Npk9ei5",
   "tracks": [
     {
       "added_at": "2026-09-19 10:09:33",
@@ -2199,6 +2199,138 @@
       "duration_ms": 256320,
       "name": "Do I Deserve Your Love?",
       "url": "https://open.spotify.com/track/4bocWQByC0089IiiyKhugL"
+    },
+    {
+      "added_at": "2026-11-23 07:05:55",
+      "album": {
+        "name": "Nowhere Near But Twice As Much.Acoustic",
+        "url": "https://open.spotify.com/album/1dVKUQVuU2i113OqddIegR"
+      },
+      "artists": [
+        {
+          "name": "Gareth Osborne",
+          "url": "https://open.spotify.com/artist/54cQ4ZoclwaX17ytgdBsMI"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Nowhere Near But Twice As Much.Acoustic",
+      "url": "https://open.spotify.com/track/710k5zx06C6aNDuQNqQsZY"
+    },
+    {
+      "added_at": "2026-11-23 07:06:11",
+      "album": {
+        "name": "ILL Fated Dawn",
+        "url": "https://open.spotify.com/album/11dgAkUtirxn7cQln5VqLW"
+      },
+      "artists": [
+        {
+          "name": "Prakriti Saluja",
+          "url": "https://open.spotify.com/artist/0NReCigfwe0R1PCaTppIQi"
+        }
+      ],
+      "duration_ms": 213075,
+      "name": "ILL Fated Dawn",
+      "url": "https://open.spotify.com/track/5DOII3SezBKKZyfqXcFDmM"
+    },
+    {
+      "added_at": "2026-11-24 09:28:45",
+      "album": {
+        "name": "Everybody Wanna Love Somebody",
+        "url": "https://open.spotify.com/album/7eZ98siGjZDln2SYjXbqQj"
+      },
+      "artists": [
+        {
+          "name": "Brave New Animals",
+          "url": "https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Everybody Wanna Love Somebody",
+      "url": "https://open.spotify.com/track/4fHnSiaf45SDue4SyiTJls"
+    },
+    {
+      "added_at": "2026-11-24 09:28:58",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5HX8n4H8MYJxra41xKkeDM"
+      },
+      "artists": [
+        {
+          "name": "Ross Herner",
+          "url": "https://open.spotify.com/artist/43djSoYAg6SfpewML6QJ4w"
+        }
+      ],
+      "duration_ms": 208562,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5mBPRV8lF927wLu0ObsFF5"
+    },
+    {
+      "added_at": "2026-11-24 09:29:13",
+      "album": {
+        "name": "ADINI YOLLARA YAZDIM",
+        "url": "https://open.spotify.com/album/0LtplaKPDEz3iEpGb0Wzsx"
+      },
+      "artists": [
+        {
+          "name": "\u0130stanbul Arabesque Project",
+          "url": "https://open.spotify.com/artist/7A7y6x4Z6DZ8KuXCwfE4xg"
+        }
+      ],
+      "duration_ms": 217812,
+      "name": "ADINI YOLLARA YAZDIM",
+      "url": "https://open.spotify.com/track/7sU0ay5RWulpNoDvZcn21s"
+    },
+    {
+      "added_at": "2026-11-24 09:29:16",
+      "album": {
+        "name": "Bir Ses",
+        "url": "https://open.spotify.com/album/5PDEG7b5Nar5ZJYzohezSR"
+      },
+      "artists": [
+        {
+          "name": "Ers \u00d6zl\u00fc",
+          "url": "https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz"
+        }
+      ],
+      "duration_ms": 136060,
+      "name": "Bir Ses",
+      "url": "https://open.spotify.com/track/6shQUSFp5hC2LDjcIUWbIA"
+    },
+    {
+      "added_at": "2026-11-24 09:29:17",
+      "album": {
+        "name": "Keep Talking",
+        "url": "https://open.spotify.com/album/3uAUaQHNI4Y3tBt5dNRqpd"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 213531,
+      "name": "Keep Talking",
+      "url": "https://open.spotify.com/track/5ntORZ2kCJhmf7BUUkewH6"
+    },
+    {
+      "added_at": "2026-11-24 09:29:45",
+      "album": {
+        "name": "Always Thought You'd Stay",
+        "url": "https://open.spotify.com/album/40z1zEOiy2rdXzJ5rM1QKM"
+      },
+      "artists": [
+        {
+          "name": "John Henderson",
+          "url": "https://open.spotify.com/artist/15RnTvJc9hPCUuIjuFrl4n"
+        },
+        {
+          "name": "Lemonhead",
+          "url": "https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "Always Thought You'd Stay",
+      "url": "https://open.spotify.com/track/2U43ZcwqAvGcak7e9Upo3a"
     }
   ],
   "unique_name": "New Indie Music",

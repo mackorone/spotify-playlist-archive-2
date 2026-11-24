@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43762,
+  "num_followers": 43764,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MpaE0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mpf+KAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "J\u00f3lagestir Bj\u00f6rgvins: Vins\u00e6lustu l\u00f6gin 1987-2014",
         "url": "https://open.spotify.com/album/74q62NGs7NP9LrDnlpfbyD"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/7AVc0FQzRUopEBdSxzpeSQ"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "J\u00f3la hva\u00f0?",
         "url": "https://open.spotify.com/album/7K0zalN9K2k2bj4TAoCA6c"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/0YNjSwEcA9mZjyVqHppnMX"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -88,12 +104,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "J\u00f3lasj\u00f3r",
         "url": "https://open.spotify.com/album/4nr67uzUX2JWEbAxiNI9yw"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/5PBsDt2vYSTSjuSnf35qMp"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "J\u00f3lagestir 3",
         "url": "https://open.spotify.com/album/7AMU0ZxBxQyGGHEkP0dqxE"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/6bCu7FswJ645hR55DcuNbl"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -144,12 +160,80 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "Komdu um j\u00f3lin",
+        "url": "https://open.spotify.com/album/3iJixDJYLkG6jxwkgVlajk"
+      },
+      "artists": [
+        {
+          "name": "\u00cd sv\u00f6rtum f\u00f6tum",
+          "url": "https://open.spotify.com/artist/68F8J8hIEdL7evUNDqIH2N"
+        }
+      ],
+      "duration_ms": 171316,
+      "name": "J\u00f3lin eru a\u00f0 koma",
+      "url": "https://open.spotify.com/track/47yBX7sAHQqaYOV2Pybjzv"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
+        "url": "https://open.spotify.com/album/2fd1rSY3AKpXIaKnob5uDh"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
+          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
+        }
+      ],
+      "duration_ms": 197241,
+      "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
+      "url": "https://open.spotify.com/track/07d7gcSd3Jja0W7S1jDYKh"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "\u00c9g kem me\u00f0 j\u00f3lin til \u00fe\u00edn",
         "url": "https://open.spotify.com/album/7q7HKsORUxIJiOtOPAvfAw"
@@ -173,59 +257,7 @@
       "url": "https://open.spotify.com/track/0Opkn3i4fDWfs6PedK661t"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "Komdu um j\u00f3lin",
-        "url": "https://open.spotify.com/album/3iJixDJYLkG6jxwkgVlajk"
-      },
-      "artists": [
-        {
-          "name": "\u00cd sv\u00f6rtum f\u00f6tum",
-          "url": "https://open.spotify.com/artist/68F8J8hIEdL7evUNDqIH2N"
-        }
-      ],
-      "duration_ms": 171316,
-      "name": "J\u00f3lin eru a\u00f0 koma",
-      "url": "https://open.spotify.com/track/47yBX7sAHQqaYOV2Pybjzv"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
-        "url": "https://open.spotify.com/album/2fd1rSY3AKpXIaKnob5uDh"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        },
-        {
-          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
-          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
-        }
-      ],
-      "duration_ms": 197241,
-      "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
-      "url": "https://open.spotify.com/track/07d7gcSd3Jja0W7S1jDYKh"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -236,12 +268,60 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -257,23 +337,7 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "N\u00fa stendur miki\u00f0 til",
         "url": "https://open.spotify.com/album/5fvBYDDFuMOfToaI1lqFnb"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/6ysi2LwFuBCgdfQgUDxU63"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
@@ -313,7 +377,23 @@
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "\u00deessi T\u00fdp\u00edsku J\u00f3l",
         "url": "https://open.spotify.com/album/6ParLmmTIwyPsVlDRITR39"
@@ -329,7 +409,23 @@
       "url": "https://open.spotify.com/track/2oBgo1udjEp72pDo4u5O3P"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -345,7 +441,7 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -356,12 +452,28 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 193282,
+      "name": "Sof\u00f0u",
+      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "Bestu j\u00f3lal\u00f6g Bj\u00f6rgvins",
+        "url": "https://open.spotify.com/album/6v9O6NfLVSzGo8QvX1jXi4"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
+          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
+        }
+      ],
+      "duration_ms": 125341,
+      "name": "Sn\u00e6finnur snj\u00f3karl",
+      "url": "https://open.spotify.com/track/0VIiCofkLOS1DRxkmlLT8J"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -372,12 +484,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "\u00c9g kem me\u00f0 j\u00f3lin til \u00fe\u00edn",
         "url": "https://open.spotify.com/album/7q7HKsORUxIJiOtOPAvfAw"
@@ -397,23 +509,23 @@
       "url": "https://open.spotify.com/track/4VTQl8TUosCskPMqTg6thG"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+      "duration_ms": 182090,
+      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
+      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "\u00deessi T\u00fdp\u00edsku J\u00f3l",
         "url": "https://open.spotify.com/album/6ParLmmTIwyPsVlDRITR39"
@@ -429,115 +541,23 @@
       "url": "https://open.spotify.com/track/4LzdTeHlzU087CdQwqee9z"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
-        "name": "Bestu j\u00f3lal\u00f6g Bj\u00f6rgvins",
-        "url": "https://open.spotify.com/album/6v9O6NfLVSzGo8QvX1jXi4"
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
-          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 125341,
-      "name": "Sn\u00e6finnur snj\u00f3karl",
-      "url": "https://open.spotify.com/track/0VIiCofkLOS1DRxkmlLT8J"
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 152570,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "City Of Joy",
-        "url": "https://open.spotify.com/album/2Phb5pZhEo0LRYWyoTfuw6"
-      },
-      "artists": [
-        {
-          "name": "FM95BL\u00d6",
-          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
-        },
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        },
-        {
-          "name": "Steindi Jr.",
-          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
-        },
-        {
-          "name": "DJ Muscleboy",
-          "url": "https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f"
-        }
-      ],
-      "duration_ms": 182627,
-      "name": "City Of Joy",
-      "url": "https://open.spotify.com/track/4vDJSDWkxVobVfmI6hKgDo"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
@@ -569,135 +589,7 @@
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "Komdu um j\u00f3lin",
-        "url": "https://open.spotify.com/album/3iJixDJYLkG6jxwkgVlajk"
-      },
-      "artists": [
-        {
-          "name": "Gunnar \u00d3lason",
-          "url": "https://open.spotify.com/artist/1TwnyOTSWJl910xTFZwJUk"
-        }
-      ],
-      "duration_ms": 233824,
-      "name": "Komdu um j\u00f3lin",
-      "url": "https://open.spotify.com/track/6zN8LsOE6lMq73nXAgVHMw"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229638,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -713,43 +605,39 @@
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
-        "name": "Sniglabandi\u00f0 1985 - 1995",
-        "url": "https://open.spotify.com/album/6gADVfs1jbRqGTWkPaaiTZ"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
       "artists": [
         {
-          "name": "Sniglabandi\u00f0",
-          "url": "https://open.spotify.com/artist/4Uz0pHuaABFuqkkErrSMha"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 265868,
-      "name": "J\u00f3lahj\u00f3l",
-      "url": "https://open.spotify.com/track/1bjDn2g6VX62OB1Igw5cNo"
+      "duration_ms": 152570,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
-        "name": "J\u00f3lasj\u00f3r",
-        "url": "https://open.spotify.com/album/4nr67uzUX2JWEbAxiNI9yw"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Baggal\u00fatur",
-          "url": "https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD"
-        },
-        {
-          "name": "Bryndis Jakobsdottir",
-          "url": "https://open.spotify.com/artist/0DhIXgQNwZlP63RyqKiiiD"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 203156,
-      "name": "Styttist \u00ed \u00fea\u00f0",
-      "url": "https://open.spotify.com/track/5wTyujDdXNA0tuTN6ZiNk9"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -765,7 +653,83 @@
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "Sniglabandi\u00f0 1985 - 1995",
+        "url": "https://open.spotify.com/album/6gADVfs1jbRqGTWkPaaiTZ"
+      },
+      "artists": [
+        {
+          "name": "Sniglabandi\u00f0",
+          "url": "https://open.spotify.com/artist/4Uz0pHuaABFuqkkErrSMha"
+        }
+      ],
+      "duration_ms": 265868,
+      "name": "J\u00f3lahj\u00f3l",
+      "url": "https://open.spotify.com/track/1bjDn2g6VX62OB1Igw5cNo"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "Komdu um j\u00f3lin",
+        "url": "https://open.spotify.com/album/3iJixDJYLkG6jxwkgVlajk"
+      },
+      "artists": [
+        {
+          "name": "Gunnar \u00d3lason",
+          "url": "https://open.spotify.com/artist/1TwnyOTSWJl910xTFZwJUk"
+        }
+      ],
+      "duration_ms": 233824,
+      "name": "Komdu um j\u00f3lin",
+      "url": "https://open.spotify.com/track/6zN8LsOE6lMq73nXAgVHMw"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "City Of Joy",
+        "url": "https://open.spotify.com/album/2Phb5pZhEo0LRYWyoTfuw6"
+      },
+      "artists": [
+        {
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        },
+        {
+          "name": "Steindi Jr.",
+          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
+        },
+        {
+          "name": "DJ Muscleboy",
+          "url": "https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f"
+        }
+      ],
+      "duration_ms": 182627,
+      "name": "City Of Joy",
+      "url": "https://open.spotify.com/track/4vDJSDWkxVobVfmI6hKgDo"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -785,23 +749,43 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+        "name": "J\u00f3lasj\u00f3r",
+        "url": "https://open.spotify.com/album/4nr67uzUX2JWEbAxiNI9yw"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Baggal\u00fatur",
+          "url": "https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD"
+        },
+        {
+          "name": "Bryndis Jakobsdottir",
+          "url": "https://open.spotify.com/artist/0DhIXgQNwZlP63RyqKiiiD"
         }
       ],
-      "duration_ms": 199460,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+      "duration_ms": 203156,
+      "name": "Styttist \u00ed \u00fea\u00f0",
+      "url": "https://open.spotify.com/track/5wTyujDdXNA0tuTN6ZiNk9"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -817,27 +801,55 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
-        "name": "\u00cdslenski draumurinn",
-        "url": "https://open.spotify.com/album/5z5KYSkxzw2AalpJVLxSya"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Kristmundur Axel",
-          "url": "https://open.spotify.com/artist/2hZoJ9EKrV6YLfUKebCZCo"
-        },
-        {
-          "name": "Bubbi Morthens",
-          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 201789,
-      "name": "Kominn heim",
-      "url": "https://open.spotify.com/track/2gXAPQRBr1WWqJos2EaXzM"
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
+      "album": {
+        "name": "ICEGUYS: The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7t3ZCKwtxCEbAxHPaCWX1F"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "duration_ms": 164102,
+      "name": "7-9-13",
+      "url": "https://open.spotify.com/track/5oLrF0dPsWUszPitBf74r4"
+    },
+    {
+      "added_at": "2026-11-23 14:40:34",
       "album": {
         "name": "J\u00f3laland",
         "url": "https://open.spotify.com/album/5qAluh9bNhGTSffPnMHktP"
@@ -857,36 +869,20 @@
       "url": "https://open.spotify.com/track/64yVFDc2n1cc7A9dSac0DE"
     },
     {
-      "added_at": "2026-11-22 14:18:36",
+      "added_at": "2026-11-23 14:40:34",
       "album": {
-        "name": "ICEGUYS: The Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7t3ZCKwtxCEbAxHPaCWX1F"
+        "name": "J\u00f3lastrengir",
+        "url": "https://open.spotify.com/album/5Dnajp93zScyAWst6QYRAY"
       },
       "artists": [
         {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+          "name": "Ruth Reginalds",
+          "url": "https://open.spotify.com/artist/32NO7A47yiL6am7Dc8Z8AK"
         }
       ],
-      "duration_ms": 164102,
-      "name": "7-9-13",
-      "url": "https://open.spotify.com/track/5oLrF0dPsWUszPitBf74r4"
-    },
-    {
-      "added_at": "2026-11-22 14:18:36",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+      "duration_ms": 208097,
+      "name": "\u00c9g s\u00e1 m\u00f6mmu kyssa j\u00f3lasvein",
+      "url": "https://open.spotify.com/track/3vr2MSHWP81XA7JCYBI2BJ"
     }
   ],
   "unique_name": "Top 50 - Iceland",

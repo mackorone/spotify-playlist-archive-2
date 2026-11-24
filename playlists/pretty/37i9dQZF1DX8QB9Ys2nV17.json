@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 273619,
+  "num_followers": 273657,
   "original_name": "Women of Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUmrfyeqMJTg3gAnUdL/SdlBiOd",
+  "snapshot_id": "AAAAAJmYGXdJYSAxSc9Aw2eewhcdC5mr",
   "tracks": [
     {
       "added_at": "2024-08-13 17:16:13",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Soft Place To Fall",
-        "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
-      },
-      "artists": [
-        {
-          "name": "Deborah Coleman",
-          "url": "https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Soft Place To Fall",
+        "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
+      },
+      "artists": [
+        {
+          "name": "Deborah Coleman",
+          "url": "https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Bad Spell",
-      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Broken People",
         "url": "https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 251613,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
     },
     {
       "added_at": "2024-08-13 17:16:13",

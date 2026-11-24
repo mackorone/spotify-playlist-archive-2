@@ -1,12 +1,12 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 132304,
+  "num_followers": 132322,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXnrTaf5/gxFPj96pa5Srs1/pB8",
+  "snapshot_id": "AAAAAB4LWSIKen91uLZr+bVZFFERy04p",
   "tracks": [
     {
       "added_at": "2026-04-26 03:10:51",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Chevrolet 4 X 4",
-        "url": "https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Grandes De La Sierra",
-          "url": "https://open.spotify.com/artist/58EWXwU9oVr0Iwuh4rF6on"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Chevrolet Cuatro por Cuatro",
-      "url": "https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "14 \u00c9xitos",
         "url": "https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 174440,
       "name": "El More\u00f1o",
       "url": "https://open.spotify.com/track/0IZcLOevGQ6LYG9IV3w1gx"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Chevrolet 4 X 4",
+        "url": "https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Grandes De La Sierra",
+          "url": "https://open.spotify.com/artist/58EWXwU9oVr0Iwuh4rF6on"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Chevrolet Cuatro por Cuatro",
+      "url": "https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS"
     },
     {
       "added_at": "2026-04-26 03:10:51",

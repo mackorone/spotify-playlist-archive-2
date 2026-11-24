@@ -4,7 +4,7 @@
 
 > This is Ludwig Göransson\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 5 min
+38 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Shakari](https://open.spotify.com/track/6vDpN2kuIs8YjDsC9RH1Q1) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 1:29 | 2026-08-08 |  |
 | [Sirens](https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 2:39 | 2026-08-08 |  |
 | [Smokestack Twins](https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Score\)](https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT) | 3:28 | 2026-08-08 |  |
+| [Séance](https://open.spotify.com/track/5uonyTM56HgMpHnqMNuZzK) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 4:08 | 2026-11-24 |  |
 | [The Book of Boba Fett](https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:55 | 2026-08-08 |  |
 | [The Mandalorian](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:18 | 2026-08-08 |  |
 | [The Mandalorian and Grogu](https://open.spotify.com/track/2soMoQzD2HlsVmys7Se3Pq) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Star Wars: The Mandalorian and Grogu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn) | 3:07 | 2026-08-08 |  |

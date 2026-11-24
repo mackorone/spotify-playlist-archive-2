@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 134000,
       "name": "Gele Ferrari",
       "url": "https://open.spotify.com/track/7pEAaR3p9CVZGmBnpV2yfs"
@@ -5154,6 +5154,24 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"
+    },
+    {
+      "album": {
+        "name": "DE GIER",
+        "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141074,
+      "name": "Wildeburg",
+      "url": "https://open.spotify.com/track/5XUX0a6gjFDIv0fqOloS8u"
     },
     {
       "album": {

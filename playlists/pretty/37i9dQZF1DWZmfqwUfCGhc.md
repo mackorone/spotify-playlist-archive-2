@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmfqwUfCGhc.md) - [plain]
 
 > Vibrant stories that celebrate the full spectrum of queer experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAACy4pYlutFpXeppHb6XTv1HfyFwX`
+Snapshot ID: `AAAAANE3IXeY3kXoLFBCLBjdxgU7SIo2`

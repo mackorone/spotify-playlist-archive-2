@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 【ROOTSステージ楽曲を公開！】ABEMA「RAPSTAR 2026」公式プレイリスト。番組内で活躍しているアーティストの楽曲を毎週更新。 マイライブラリに保存して毎週チェックしよう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,077 likes - 113 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,491 likes - 113 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 112 | [尾田栄一郎](https://open.spotify.com/track/0w1yV65ChSmWQueYkJBAO9) | [Nust B](https://open.spotify.com/artist/7oHVVNzpDc4oxhQ8INY6X5) | [Type B](https://open.spotify.com/album/4qOaRMn8d51qHyqZGzM34C) | 2:18 |
 | 113 | [合法的トビ方ノススメ](https://open.spotify.com/track/3z6X1pQSGdky5rQADTLM2g) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [INDIES COMPLETE](https://open.spotify.com/album/77eV8yKbsB79ANtICA6ZN9) | 4:00 |
 
-Snapshot ID: `AAAAAEVELl3ltVmBk5ZfyHFYBh0ZwPCT`
+Snapshot ID: `AAAAABd7QQAc1NUiJn+skob/NGDrRR9v`

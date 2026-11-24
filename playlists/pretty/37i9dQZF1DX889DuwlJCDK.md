@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: This is LAST
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,326 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,331 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 42 | [不安鏡人](https://open.spotify.com/track/5s07RQzNslJ9IbpVDtrGFS) | [NAME.O](https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL) | [不安鏡人](https://open.spotify.com/album/35yCkfrQJg6Mo0FMihWxRn) | 3:30 |
 | 43 | [コンテンポラリーダンス](https://open.spotify.com/track/0abmIa1nBnueKntVaUbGbk) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [コンテンポラリーダンス](https://open.spotify.com/album/6GTYf6MfNubPMziBRCLfAf) | 3:57 |
 | 44 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |
-| 45 | [呼びすて](https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [呼びすて](https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE) | 3:14 |
-| 46 | [Always](https://open.spotify.com/track/6oOjMDHkEMbYWtyGXCWrlX) | [Vivanz Eden](https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I) | [Always](https://open.spotify.com/album/3EqLmrPUWNeeFzlf9t3Mkb) | 3:36 |
+| 45 | [Always](https://open.spotify.com/track/6oOjMDHkEMbYWtyGXCWrlX) | [Vivanz Eden](https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I) | [Always](https://open.spotify.com/album/3EqLmrPUWNeeFzlf9t3Mkb) | 3:36 |
+| 46 | [呼びすて](https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [呼びすて](https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE) | 3:14 |
 | 47 | [AMANO\-JAKU?](https://open.spotify.com/track/6VJhmMpFarGlye7JgHmGO5) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [AMANO\-JAKU?](https://open.spotify.com/album/2x13fvNwgTlaV6vjIH7efT) | 4:24 |
 | 48 | [SWEET AND SOUR](https://open.spotify.com/track/7as2oLEK0etzCt2d3hXpUD) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWEET AND SOUR](https://open.spotify.com/album/27qRVeCalrcCi8BQHrSBLm) | 2:59 |
 | 49 | [パラレルナイト](https://open.spotify.com/track/3sUupr1kIWVUtNOgjIAFhg) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [パラレルナイト](https://open.spotify.com/album/7eLUFaFni4wNgQTnOSmU3I) | 4:21 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 61 | [まばたき](https://open.spotify.com/track/7C8ZmYeJN1UfmgrOiXD31c) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [まばたき](https://open.spotify.com/album/3NuPaqQCc8bkmGe4IsvKfC) | 3:16 |
 | 62 | [パルス](https://open.spotify.com/track/4exRySsBiNAZB4AeRjctMB) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [パルス](https://open.spotify.com/album/1pRZosYED7veA2GH8JiuJX) | 3:42 |
 | 63 | [lost child](https://open.spotify.com/track/0malRIspJdEgbXYxYiP4IU) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [lost child](https://open.spotify.com/album/5r1CErElcmXVYJP21FzzAd) | 3:41 |
-| 64 | [Feel like slowing down feat\. WurtS, Deu, Ito, Takeuchi](https://open.spotify.com/track/72DgxjgUvTmbcUTSihVh34) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x), [Takeuchi](https://open.spotify.com/artist/1zUTozTKMKBXHjwxgvCaDm) | [Feel like slowing down feat\. WurtS, Deu, Ito, Takeuchi](https://open.spotify.com/album/1JMP99YJUSYq7E0Er8eHan) | 4:08 |
+| 64 | [YOROSHIKU!!!](https://open.spotify.com/track/1KKEV2FQlfiU7wjKwtbCRp) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [I\-BULL](https://open.spotify.com/album/0v4nc64jQYVwNexCyLTqhi) | 2:56 |
 | 65 | [Capretto](https://open.spotify.com/track/1oM4DM6i6AGGe3KVGmqrqD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Capretto](https://open.spotify.com/album/2DlIzREnQVSuhNkgGRIu8W) | 3:25 |
-| 66 | [YOROSHIKU!!!](https://open.spotify.com/track/1KKEV2FQlfiU7wjKwtbCRp) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [I\-BULL](https://open.spotify.com/album/0v4nc64jQYVwNexCyLTqhi) | 2:56 |
+| 66 | [Feel like slowing down feat\. WurtS, Deu, Ito, Takeuchi](https://open.spotify.com/track/72DgxjgUvTmbcUTSihVh34) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x), [Takeuchi](https://open.spotify.com/artist/1zUTozTKMKBXHjwxgvCaDm) | [Feel like slowing down feat\. WurtS, Deu, Ito, Takeuchi](https://open.spotify.com/album/1JMP99YJUSYq7E0Er8eHan) | 4:08 |
 | 67 | [プライドガール](https://open.spotify.com/track/3UI7lgO6ywk5dNoZjzUmoW) | [Gum\-9](https://open.spotify.com/artist/1YSj6FRViBXAzCzoKKaoGn) | [プライドガール](https://open.spotify.com/album/6Jk1HTnDsXydXwUk8DZORK) | 3:12 |
 | 68 | [小さな僕ら](https://open.spotify.com/track/4NWr9o6nQKwBzYEpoCVzBB) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [小さな僕ら](https://open.spotify.com/album/5HYVtM8Jfns6vcvKbOzEWx) | 3:16 |
 | 69 | [Firetail](https://open.spotify.com/track/4VocvAYtw3Vad3Fx0YH3p4) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [Firetail](https://open.spotify.com/album/4jSlDDk2biX9KdhQRceKH6) | 3:35 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 87 | [あなたは悪魔](https://open.spotify.com/track/4fD91tUGdJkPL1kj1SnZgj) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [ふたりのe.p](https://open.spotify.com/album/5ExMqCWlrPuo8hHS4rwuEY) | 2:36 |
 | 88 | [秘密のパノラマ](https://open.spotify.com/track/3tCiwcbtprnj4NzMxNTgNf) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [秘密のパノラマ](https://open.spotify.com/album/1CrgYqJsoHxi5yBB5YaWIe) | 3:50 |
 | 89 | [天使のはしご](https://open.spotify.com/track/6O8Xcn1WhdJUQz8AFN0ghn) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [天使のはしご](https://open.spotify.com/album/0oApufYEdDGDYYmQ05fsqG) | 3:22 |
-| 90 | [かがやき](https://open.spotify.com/track/0YXktRXAL9jVJeHETbUUdl) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [プールサイド・コア](https://open.spotify.com/album/5AUG0yOZZvyioH2IUn8KjR) | 3:06 |
-| 91 | [パラソムニア](https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [パラソムニア](https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0) | 2:07 |
-| 92 | [落下するデジャヴ](https://open.spotify.com/track/7mwX7Zu6RyxYUVM3lSdRSX) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [avenue](https://open.spotify.com/album/3ctgFQlPy4mCq5UClgSV3x) | 3:25 |
-| 93 | [絶命ごっこ](https://open.spotify.com/track/27ceHMCFxoaf8JRSmq7I2X) | [バチカン市国に愛されたい](https://open.spotify.com/artist/1TEvVC6sabCl9knRndyHKu) | [絶命ごっこ / 延命ごっこ](https://open.spotify.com/album/4CzCD4nxR2490q3wDpQYx4) | 4:06 |
-| 94 | [Yomigaeri](https://open.spotify.com/track/4RgwLcidaKCOwJeM6gS8rV) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Yomigaeri](https://open.spotify.com/album/1IzZXSFT7zuD2Dkxklij4Z) | 3:52 |
-| 95 | [BLUE TRAIN](https://open.spotify.com/track/7gNTa9hgqCuxfuTViRsGWF) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [されど、暮らしはつづくからん](https://open.spotify.com/album/1q2338qPzwEnwPiPK8YHsZ) | 3:42 |
+| 90 | [絶命ごっこ](https://open.spotify.com/track/27ceHMCFxoaf8JRSmq7I2X) | [バチカン市国に愛されたい](https://open.spotify.com/artist/1TEvVC6sabCl9knRndyHKu) | [絶命ごっこ / 延命ごっこ](https://open.spotify.com/album/4CzCD4nxR2490q3wDpQYx4) | 4:06 |
+| 91 | [かがやき](https://open.spotify.com/track/0YXktRXAL9jVJeHETbUUdl) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [プールサイド・コア](https://open.spotify.com/album/5AUG0yOZZvyioH2IUn8KjR) | 3:06 |
+| 92 | [パラソムニア](https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [パラソムニア](https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0) | 2:07 |
+| 93 | [BLUE TRAIN](https://open.spotify.com/track/7gNTa9hgqCuxfuTViRsGWF) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [されど、暮らしはつづくからん](https://open.spotify.com/album/1q2338qPzwEnwPiPK8YHsZ) | 3:42 |
+| 94 | [落下するデジャヴ](https://open.spotify.com/track/7mwX7Zu6RyxYUVM3lSdRSX) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [avenue](https://open.spotify.com/album/3ctgFQlPy4mCq5UClgSV3x) | 3:25 |
+| 95 | [Yomigaeri](https://open.spotify.com/track/4RgwLcidaKCOwJeM6gS8rV) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Yomigaeri](https://open.spotify.com/album/1IzZXSFT7zuD2Dkxklij4Z) | 3:52 |
 | 96 | [Echo](https://open.spotify.com/track/1xNHXY5qj8POfdPcE9OGrc) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [In Liminal](https://open.spotify.com/album/2ojeeDP4pasbPWUrxiWwbh) | 3:59 |
 | 97 | [隣愛](https://open.spotify.com/track/55lSYn8928dCWPcUP2vDLq) | [Be my Girl](https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx) | [隣愛](https://open.spotify.com/album/1mCdkc5C4rsQHN3DJDtpp5) | 5:17 |
 | 98 | [FLASHBULB](https://open.spotify.com/track/5ctRwWDnQxNtAS7wVjbuZj) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [FLASHBULB](https://open.spotify.com/album/2Ab8Cerp6XYaiKEs2K3vPZ) | 3:39 |
-| 99 | [Tough Love](https://open.spotify.com/track/6y64BIoQhoo7DaybxPKxir) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Tough Love](https://open.spotify.com/album/1DS0uFeCXZEauZkNdYtm8o) | 3:34 |
+| 99 | [ナサケナイラブストーリー](https://open.spotify.com/track/6R761Wzpz8mcd9NjXvePVN) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [ナサケナイラブストーリー](https://open.spotify.com/album/2BNk3lipNixzfX9Qjij1tC) | 3:09 |
 | 100 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 |
 
-Snapshot ID: `AAAAAOHlWgIw0drnuqahtmnCvdsG7/0B`
+Snapshot ID: `AAAAAPuwg5JXA3Yo7NhYQLQBRZCK2ewS`

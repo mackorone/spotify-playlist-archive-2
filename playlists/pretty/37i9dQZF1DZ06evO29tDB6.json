@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 146980,
+  "num_followers": 146988,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAADjoYOnKGhCtkPl9wtg0GI/",
+  "snapshot_id": "awIwgAAAAADKwIjjVAjsOyT9zplEcCuJ",
   "tracks": [
     {
       "added_at": null,
@@ -347,34 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Tripas Corazon",
-        "url": "https://open.spotify.com/album/6Wmf35PuB45Hd0H3ab9Au6"
-      },
-      "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
-        {
-          "name": "Chela Lora",
-          "url": "https://open.spotify.com/artist/5qh2vmAPXtLgMQTq2t1vC7"
-        }
-      ],
-      "duration_ms": 181654,
-      "name": "De Tripas Corazon",
-      "url": "https://open.spotify.com/track/7IhxmLSsaeCBxhbPGcuNox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
       },
@@ -467,6 +439,34 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/77CnYt4OBz9RcScXtagsC0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Tripas Corazon",
+        "url": "https://open.spotify.com/album/6Wmf35PuB45Hd0H3ab9Au6"
+      },
+      "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "Chela Lora",
+          "url": "https://open.spotify.com/artist/5qh2vmAPXtLgMQTq2t1vC7"
+        }
+      ],
+      "duration_ms": 181654,
+      "name": "De Tripas Corazon",
+      "url": "https://open.spotify.com/track/7IhxmLSsaeCBxhbPGcuNox"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Los minusv\u00e1lidos",
-      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+      "duration_ms": 244666,
+      "name": "Los minusv\u00e1lidos",
+      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "L\u00e1grimas en la lluvia",
+      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rayito Colombiano y los Grandes Compositores",
         "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 206426,
       "name": "Triste Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "L\u00e1grimas en la lluvia",
-      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 A\u00f1os Vol. 2",
-        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 259053,
-      "name": "Chilangolandia",
-      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 363146,
       "name": "Chavo de onda - Live",
       "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "Chilangolandia",
+      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 253173,
-      "name": "El enmascarado de l\u00e1tex",
-      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
+      "duration_ms": 273400,
+      "name": "S\u00f3pleme usted primero",
+      "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 273400,
-      "name": "S\u00f3pleme usted primero",
-      "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
+      "duration_ms": 253173,
+      "name": "El enmascarado de l\u00e1tex",
+      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
     },
     {
       "added_at": null,

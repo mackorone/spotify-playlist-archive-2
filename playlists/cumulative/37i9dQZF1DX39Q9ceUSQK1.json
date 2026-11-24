@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Fat Dog",
+  "description": "Nieuwe alternative & rock releases. Cover: Warhaus",
   "name": "New Alternative",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 222213,
       "name": "9to5",
       "url": "https://open.spotify.com/track/5nKwlZGvnxI3mKPl0JCXyv"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 246899,
       "name": "A Different Kind of Happiness",
       "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 179440,
       "name": "A Scent",
       "url": "https://open.spotify.com/track/4wuFbKAAfBfpUTuqFC2d8F"
@@ -3387,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "Comparison",
+        "url": "https://open.spotify.com/album/3dtKIJIvgfL5XhJbB8FgD6"
+      },
+      "artists": [
+        {
+          "name": "Crowd Of Chairs",
+          "url": "https://open.spotify.com/artist/4Ehx6DxVH4Q9AJtGvC7jS2"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262386,
+      "name": "Comparison",
+      "url": "https://open.spotify.com/track/2fDENSXdFvK32vbyzgJJS9"
+    },
+    {
+      "album": {
         "name": "Compass Will Fracture",
         "url": "https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR"
       },
@@ -3910,6 +3928,32 @@
       "duration_ms": 152929,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/4D9KNvjwtCqTZhjQM00hAZ"
+    },
+    {
+      "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/5CGYYkjkcsYQHhYjrLNQ5x"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Cotillon",
+          "url": "https://open.spotify.com/artist/0yeQiKm1Prh60QcQuDCoUK"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166062,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/3gm5NScTs2JFzfoDbfUD1e"
     },
     {
       "album": {
@@ -6419,6 +6463,24 @@
     },
     {
       "album": {
+        "name": "Great Destroyer",
+        "url": "https://open.spotify.com/album/3ovb20hHInBOA8IQA6cSGr"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249586,
+      "name": "Great Destroyer",
+      "url": "https://open.spotify.com/track/37VSm7OkJYKnGszEqUQm6d"
+    },
+    {
+      "album": {
         "name": "Great Lovers",
         "url": "https://open.spotify.com/album/6dLfV3LKIIMUVPqv3SI5Ns"
       },
@@ -7356,6 +7418,24 @@
       "duration_ms": 201142,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/5fozOqtsNOgIO2Mtl1uz21"
+    },
+    {
+      "album": {
+        "name": "Hound",
+        "url": "https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281786,
+      "name": "Hound",
+      "url": "https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr"
     },
     {
       "album": {
@@ -8851,6 +8931,24 @@
     },
     {
       "album": {
+        "name": "Just a Spark Away",
+        "url": "https://open.spotify.com/album/2m6M5dDi2OUxYa1oFG3BDW"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174799,
+      "name": "Just a Spark Away",
+      "url": "https://open.spotify.com/track/15dKV97tfPah9U97C307uo"
+    },
+    {
+      "album": {
         "name": "Just All Heart, Flesh and Mind",
         "url": "https://open.spotify.com/album/4NZe4BIIl1yyIrMLdZP76T"
       },
@@ -9194,7 +9292,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 144906,
       "name": "lamb (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
@@ -9562,6 +9660,24 @@
       "duration_ms": 187639,
       "name": "Like You Did Before",
       "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
+    },
+    {
+      "album": {
+        "name": "Limewood",
+        "url": "https://open.spotify.com/album/5blAp6zsldtdGua0bzpITn"
+      },
+      "artists": [
+        {
+          "name": "Eosine",
+          "url": "https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252640,
+      "name": "Limewood",
+      "url": "https://open.spotify.com/track/51TJRPkBwuElvU11NeJuRt"
     },
     {
       "album": {
@@ -11320,7 +11436,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 137287,
       "name": "Niemand is Niemand",
       "url": "https://open.spotify.com/track/7IBd6evqgcAyWi4u9cmOm6"
@@ -11436,6 +11552,24 @@
       "duration_ms": 135529,
       "name": "NO ENEMIES",
       "url": "https://open.spotify.com/track/5S0KEQI5lgZAmzP2UShUfa"
+    },
+    {
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/2amUA1Nyxy4jdzzSST7Rk2"
+      },
+      "artists": [
+        {
+          "name": "IST IST",
+          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218372,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/0noyTky8SB4OF9NQbWVqhd"
     },
     {
       "album": {
@@ -11670,7 +11804,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 210693,
       "name": "Not Your Problem",
       "url": "https://open.spotify.com/track/7cknimGRlMu18ZKlSeslHg"
@@ -11778,7 +11912,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 157720,
       "name": "Nothing to Teach",
       "url": "https://open.spotify.com/track/4dGWDxdFBeXQsS70rPqhBw"
@@ -12816,6 +12950,24 @@
       "duration_ms": 180353,
       "name": "Pony",
       "url": "https://open.spotify.com/track/3CTe6w4tYbP6AvgHuICTEe"
+    },
+    {
+      "album": {
+        "name": "Ponzi",
+        "url": "https://open.spotify.com/album/0MKPkkwSioCaAOo5qaNfRw"
+      },
+      "artists": [
+        {
+          "name": "Delivery",
+          "url": "https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255367,
+      "name": "Ponzi",
+      "url": "https://open.spotify.com/track/54oTZtcIgSCA7grkVTxk1L"
     },
     {
       "album": {
@@ -14362,7 +14514,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 192826,
       "name": "Shelly",
       "url": "https://open.spotify.com/track/1jfh9b8BkvPTGXlqPjRIYU"
@@ -14582,7 +14734,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 232454,
       "name": "Simple Pleasures",
       "url": "https://open.spotify.com/track/2WrxJ6w8SWXFtCRs14cpso"
@@ -15270,6 +15422,24 @@
       "duration_ms": 244840,
       "name": "Straight Line Was A Lie",
       "url": "https://open.spotify.com/track/2cZaZRwbtf5aZXtJC43tx4"
+    },
+    {
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/4nGtjV0zC1YljWmMRX0eyZ"
+      },
+      "artists": [
+        {
+          "name": "Pale Puma",
+          "url": "https://open.spotify.com/artist/79bbqMgV2GjDdD6fA7pOBe"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217978,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/5kLCXVZOJnic27U4eXrElP"
     },
     {
       "album": {
@@ -17249,6 +17419,28 @@
     },
     {
       "album": {
+        "name": "Through Fire & Ashes",
+        "url": "https://open.spotify.com/album/7f1msXBK4lKC77wXUaLdg0"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268058,
+      "name": "Through Fire & Ashes",
+      "url": "https://open.spotify.com/track/6zXOb0twqoNTKfhckpzvjj"
+    },
+    {
+      "album": {
         "name": "Through the Beam",
         "url": "https://open.spotify.com/album/3v5TBf7ZtfGDvi6WSyLYk0"
       },
@@ -18874,7 +19066,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 314733,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"

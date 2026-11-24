@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,022,941 likes - 260 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,024,607 likes - 260 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 259 | [Astra](https://open.spotify.com/track/2f1JlOL1dj1wBIrM0vofGw) | [Milk E Way](https://open.spotify.com/artist/1FpLDA8N2boR9fqwgaeY7H) | [Astra](https://open.spotify.com/album/64dy0coqyMgGfXMEqXiqGb) | 2:45 |
 | 260 | [Moonlight](https://open.spotify.com/track/5JwPU1V6ntfbFsLkrP8UUy) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Moonlight](https://open.spotify.com/album/6IxL2RWs9b4QOemtImzC7s) | 2:14 |
 
-Snapshot ID: `AAAAAP6pdSzNpslY29fp7r+TuS1BI+ot`
+Snapshot ID: `AAAAAPRxEqPoUFFG5UTsiNTJ8QaL5QY7`

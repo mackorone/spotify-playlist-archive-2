@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5iwkYfnHAGMEFLiHFFGnP4.md) - [plain]
 
 > HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Ashe
 
-[Topsify](https://open.spotify.com/user/topsify) - 651,302 likes - 73 songs - 4 hr 0 min
+[Topsify](https://open.spotify.com/user/topsify) - 651,372 likes - 73 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

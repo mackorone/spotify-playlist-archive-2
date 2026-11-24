@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 17527,
+  "num_followers": 17530,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA34xuHgMv1g0NYHCSwKBQ8xwNyj",
+  "snapshot_id": "AAAAAFbCkTc5POR+TXwWf/Yj8eQR3AOT",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1021,6 +1021,22 @@
       "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 387786,
+      "name": "We Carry On",
+      "url": "https://open.spotify.com/track/1wp2yT7sSjfRmHJbLsinOB"
+    },
+    {
       "added_at": "2022-03-04 01:55:34",
       "album": {
         "name": "Mandatory Enjoyment",
@@ -1067,22 +1083,6 @@
       "duration_ms": 141160,
       "name": "Hei\u00dfe Lippen",
       "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 387786,
-      "name": "We Carry On",
-      "url": "https://open.spotify.com/track/1wp2yT7sSjfRmHJbLsinOB"
     },
     {
       "added_at": "2024-02-23 00:15:43",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Blood-Drums",
+        "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 509853,
+      "name": "Blood-Drums",
+      "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Minami Deutsch",
         "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blood-Drums",
-        "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
+        "name": "Wunderbar",
+        "url": "https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Riechmann",
+          "url": "https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP"
         }
       ],
-      "duration_ms": 509853,
-      "name": "Blood-Drums",
-      "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
+      "duration_ms": 520850,
+      "name": "Himmelblau",
+      "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
     },
     {
       "added_at": "2022-08-19 02:50:25",
@@ -1327,22 +1343,6 @@
       "duration_ms": 352542,
       "name": "El Veh\u00edculo de las Transformaciones",
       "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Wunderbar",
-        "url": "https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X"
-      },
-      "artists": [
-        {
-          "name": "Riechmann",
-          "url": "https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP"
-        }
-      ],
-      "duration_ms": 520850,
-      "name": "Himmelblau",
-      "url": "https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/6T42JJsew8dVP9s87D8mA1"
     },
     {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
-      },
-      "artists": [
-        {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Feather Float",
@@ -1423,6 +1407,22 @@
       "duration_ms": 465066,
       "name": "Be Sure To Loop",
       "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
+      },
+      "artists": [
+        {
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Songs of Love and Revolution",
-        "url": "https://open.spotify.com/album/696w66r6e8uJcPYPUh5JrU"
-      },
-      "artists": [
-        {
-          "name": "The Telescopes",
-          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Strange Waves",
-      "url": "https://open.spotify.com/track/3cYrfhx1aOlUXQGPQGRqxg"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Superplus",
         "url": "https://open.spotify.com/album/4KMlPTCWrJ3DhTjykEGa9x"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 183866,
       "name": "Scubaplus",
       "url": "https://open.spotify.com/track/3vimjIcDxpTBDs3Q1ONJH6"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Songs of Love and Revolution",
+        "url": "https://open.spotify.com/album/696w66r6e8uJcPYPUh5JrU"
+      },
+      "artists": [
+        {
+          "name": "The Telescopes",
+          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Strange Waves",
+      "url": "https://open.spotify.com/track/3cYrfhx1aOlUXQGPQGRqxg"
     }
   ],
   "unique_name": "Krautrock",

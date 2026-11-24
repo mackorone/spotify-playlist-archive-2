@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Valgur en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,017 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,019 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 49 | [BARBIE](https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [rodrii](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi), [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk) | [BARBIE](https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz) | 3:27 |
 | 50 | [me olvidarás \(como lo haces ya\)](https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3) | [incluso si nunca despiertas](https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI) | [soñé que me llevabas](https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c) | 2:57 |
 
-Snapshot ID: `AAAAAH0/176QZpijfrs9a6UIYC6/WYTw`
+Snapshot ID: `AAAAAMYcAZLeuhyQHF5xiyUwWpcZbjT0`

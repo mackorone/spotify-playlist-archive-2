@@ -1,12 +1,12 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 233489,
+  "num_followers": 233542,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMII1SiVGP00rjY5dlvRkEgjhMxs",
+  "snapshot_id": "AAAAAHDgvzfjkhyz27XWTuyRv8qAK1RJ",
   "tracks": [
     {
       "added_at": "2025-12-04 18:43:31",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
+      },
+      "artists": [
+        {
+          "name": "Denise De Kalafe",
+          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Arre Borriquito",
+      "url": "https://open.spotify.com/track/3qqxSpnpYCMkg6opoFRjA3"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
         "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 223200,
       "name": "Aires De Navidad",
       "url": "https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
-        "name": "Eterna Navidad",
-        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
-      },
-      "artists": [
-        {
-          "name": "Denise De Kalafe",
-          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "Arre Borriquito",
-      "url": "https://open.spotify.com/track/3qqxSpnpYCMkg6opoFRjA3"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Una Navidad Con Gilberto",
-        "url": "https://open.spotify.com/album/6vX1tbiWHuHkths8Gtq1xc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Me Gustan las Navidades",
-      "url": "https://open.spotify.com/track/4f1tQ7QYq0WihANZEdAGCp"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Navidad con Pandora",
         "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 165306,
       "name": "Los Peces en el R\u00edo",
       "url": "https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Una Navidad Con Gilberto",
+        "url": "https://open.spotify.com/album/6vX1tbiWHuHkths8Gtq1xc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Me Gustan las Navidades",
+      "url": "https://open.spotify.com/track/4f1tQ7QYq0WihANZEdAGCp"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 145898,
+      "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
+      "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
         "name": "Tarjeta De Navidad, VOL. II",
         "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 300506,
       "name": "El Cuerpo Me Pide",
       "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 145898,
-      "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
-      "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
     },
     {
       "added_at": "2025-12-04 18:43:31",

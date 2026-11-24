@@ -1,12 +1,12 @@
 {
   "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
-  "num_followers": 189667,
+  "num_followers": 189710,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL04YLdwQMPN0EeG1+XQyO7LtWKE",
+  "snapshot_id": "AAAAAPIMmBYZAEs7kpn2oiW6KaICo8+5",
   "tracks": [
     {
       "added_at": "2026-11-19 23:02:25",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
-        "name": "Distorted Love",
-        "url": "https://open.spotify.com/album/3zYXTglqvKAOFtbELVNpdJ"
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/3X2sMZJRhYsnqOQ4hsPlQt"
       },
       "artists": [
         {
@@ -1224,13 +1224,13 @@
           "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
         },
         {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Distorted Love",
-      "url": "https://open.spotify.com/track/7qhw9e6NTSdEQSnrVlWe0u"
+      "duration_ms": 178124,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/0r5liOaryIuC0Mq13XBPUs"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/3X2sMZJRhYsnqOQ4hsPlQt"
+        "name": "Distorted Love",
+        "url": "https://open.spotify.com/album/3zYXTglqvKAOFtbELVNpdJ"
       },
       "artists": [
         {
@@ -1328,29 +1328,13 @@
           "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
         },
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
         }
       ],
-      "duration_ms": 178124,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/0r5liOaryIuC0Mq13XBPUs"
-    },
-    {
-      "added_at": "2026-11-19 23:02:25",
-      "album": {
-        "name": "My Head",
-        "url": "https://open.spotify.com/album/5II6feKvMjA1MVxKA4YnLy"
-      },
-      "artists": [
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "My Head",
-      "url": "https://open.spotify.com/track/1wEHf73SzexXPjQozFSVFz"
+      "duration_ms": 220952,
+      "name": "Distorted Love",
+      "url": "https://open.spotify.com/track/7qhw9e6NTSdEQSnrVlWe0u"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -1371,6 +1355,22 @@
       "duration_ms": 201289,
       "name": "A Feeling I Miss",
       "url": "https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ"
+    },
+    {
+      "added_at": "2026-11-19 23:02:25",
+      "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/5II6feKvMjA1MVxKA4YnLy"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/1wEHf73SzexXPjQozFSVFz"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/1KcpzRBXg96b5XWCzV2OKX"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Prometheus",
+      "url": "https://open.spotify.com/track/60P2oWucNoN42kb80XRiaW"
+    },
+    {
+      "added_at": "2026-11-19 23:02:25",
+      "album": {
         "name": "Love Is A Drug (Agents Of Time Remix)",
         "url": "https://open.spotify.com/album/0SRxj3K6ZgCVd3qgEn6PU0"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 182433,
       "name": "Love Is A Drug - Agents Of Time Remix",
       "url": "https://open.spotify.com/track/3MFiwJCd3rMIzFyQkt8FOo"
-    },
-    {
-      "added_at": "2026-11-19 23:02:25",
-      "album": {
-        "name": "Prometheus",
-        "url": "https://open.spotify.com/album/1KcpzRBXg96b5XWCzV2OKX"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        },
-        {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Prometheus",
-      "url": "https://open.spotify.com/track/60P2oWucNoN42kb80XRiaW"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -1743,22 +1743,18 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
-        "name": "Inside The Brain",
-        "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
       },
       "artists": [
         {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        },
-        {
-          "name": "Franksy",
-          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Inside The Brain",
-      "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -1787,18 +1783,22 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+        "name": "Inside The Brain",
+        "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
       },
       "artists": [
         {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Franksy",
+          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
         }
       ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+      "duration_ms": 210461,
+      "name": "Inside The Brain",
+      "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
-        "name": "Rotation",
-        "url": "https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 174701,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx"
-    },
-    {
-      "added_at": "2026-11-19 23:02:25",
-      "album": {
         "name": "Chasing Highs",
         "url": "https://open.spotify.com/album/56MYEO6O1jpj4r1TXIHP5g"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 177142,
       "name": "Chasing Highs",
       "url": "https://open.spotify.com/track/13GYGqWyUHGYKjgemAR6Wd"
+    },
+    {
+      "added_at": "2026-11-19 23:02:25",
+      "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 174701,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/6IEvNtAI3YvtjPk6xR8OyB"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Paradigm",
+      "url": "https://open.spotify.com/track/3qklz3reI4PMULFdMnvh9E"
+    },
+    {
+      "added_at": "2026-11-19 23:02:25",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/0H4U0eTkvNrusfZAYfzeNj"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 227419,
       "name": "Overture",
       "url": "https://open.spotify.com/track/49T4tjyFAyzi1CxRNeja89"
-    },
-    {
-      "added_at": "2026-11-19 23:02:25",
-      "album": {
-        "name": "Paradigm",
-        "url": "https://open.spotify.com/album/6IEvNtAI3YvtjPk6xR8OyB"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Paradigm",
-      "url": "https://open.spotify.com/track/3qklz3reI4PMULFdMnvh9E"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -2139,6 +2139,26 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4PeopsVYBPuPyr83e3T0H0"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 225130,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk"
+    },
+    {
+      "added_at": "2026-11-19 23:02:25",
+      "album": {
         "name": "Famax (Goom Gum Remix)",
         "url": "https://open.spotify.com/album/6NaIUD5NH59gzeSYwkkI8V"
       },
@@ -2159,22 +2179,18 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/4PeopsVYBPuPyr83e3T0H0"
+        "name": "Dreams Control / Rock 'n Roll - EP",
+        "url": "https://open.spotify.com/album/2PhwDlPYnxHOTuNjWoKChO"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Shapov",
+          "url": "https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ"
         }
       ],
-      "duration_ms": 225130,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk"
+      "duration_ms": 194032,
+      "name": "Dreams Control",
+      "url": "https://open.spotify.com/track/326P7mByhALBFbO9XXAHiN"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -2199,18 +2215,22 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
-        "name": "Dreams Control / Rock 'n Roll - EP",
-        "url": "https://open.spotify.com/album/2PhwDlPYnxHOTuNjWoKChO"
+        "name": "Gate / Masterplan",
+        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
       "artists": [
         {
-          "name": "Shapov",
-          "url": "https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ"
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 194032,
-      "name": "Dreams Control",
-      "url": "https://open.spotify.com/track/326P7mByhALBFbO9XXAHiN"
+      "duration_ms": 343764,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -2235,22 +2255,18 @@
     {
       "added_at": "2026-11-19 23:02:25",
       "album": {
-        "name": "Gate / Masterplan",
-        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
+        "name": "What U Like EP",
+        "url": "https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX"
       },
       "artists": [
         {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 343764,
-      "name": "Gate",
-      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+      "duration_ms": 193345,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19"
     },
     {
       "added_at": "2026-11-19 23:02:25",
@@ -2271,22 +2287,6 @@
       "duration_ms": 183750,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD"
-    },
-    {
-      "added_at": "2026-11-19 23:02:25",
-      "album": {
-        "name": "What U Like EP",
-        "url": "https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX"
-      },
-      "artists": [
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19"
     },
     {
       "added_at": "2026-11-19 23:02:25",

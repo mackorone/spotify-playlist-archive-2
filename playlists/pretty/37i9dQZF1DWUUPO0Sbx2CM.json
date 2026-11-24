@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 242047,
+  "num_followers": 242083,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJcJwjaigPX1PeqdHyXNrWKIEpDv",
+  "snapshot_id": "AAAAAFhP/yPHPr3+UDex2CKvqPc4ZOAP",
   "tracks": [
     {
       "added_at": "2026-10-30 04:00:37",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "SUCH A BLESSING",
+        "url": "https://open.spotify.com/album/0MJZEOl92wS6cQj1RjD3vq"
+      },
+      "artists": [
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        },
+        {
+          "name": "HAGEN",
+          "url": "https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT"
+        }
+      ],
+      "duration_ms": 182459,
+      "name": "SUCH A BLESSING",
+      "url": "https://open.spotify.com/track/2Yiw3f6eckXcZUzbwo2Wks"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "It's Your Light (Lukas Goss Remix)",
         "url": "https://open.spotify.com/album/74G5tivnFWErJYEWM8uogX"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 211428,
       "name": "It's Your Light - Lukas Goss Remix",
       "url": "https://open.spotify.com/track/3cHB2seP6WB5DKHU0cQfsU"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "SUCH A BLESSING",
-        "url": "https://open.spotify.com/album/0MJZEOl92wS6cQj1RjD3vq"
-      },
-      "artists": [
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        },
-        {
-          "name": "HAGEN",
-          "url": "https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT"
-        }
-      ],
-      "duration_ms": 182459,
-      "name": "SUCH A BLESSING",
-      "url": "https://open.spotify.com/track/2Yiw3f6eckXcZUzbwo2Wks"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Perfect Duet",
-        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
-      },
-      "artists": [
-        {
-          "name": "LZ7",
-          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
-        },
-        {
-          "name": "Gracie",
-          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
-        }
-      ],
-      "duration_ms": 219418,
-      "name": "Perfect Duet",
-      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Take Me Higher (King Topher Club Mix)",
         "url": "https://open.spotify.com/album/6n7PWpccBwPBKYzjJQEb36"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 192283,
       "name": "Take Me Higher - King Topher Club Mix",
       "url": "https://open.spotify.com/track/0HLtuE90EIAjJFRCzY2cRu"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Perfect Duet",
+        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
+      },
+      "artists": [
+        {
+          "name": "LZ7",
+          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
+        },
+        {
+          "name": "Gracie",
+          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
+        }
+      ],
+      "duration_ms": 219418,
+      "name": "Perfect Duet",
+      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -947,8 +947,8 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "the Rock",
-        "url": "https://open.spotify.com/album/4fkiB2QuoNDnbM2Heubc3D"
+        "name": "go back",
+        "url": "https://open.spotify.com/album/7FLrjtMHZgWVS0gA1xGOEU"
       },
       "artists": [
         {
@@ -956,29 +956,9 @@
           "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
         }
       ],
-      "duration_ms": 133814,
-      "name": "the Rock",
-      "url": "https://open.spotify.com/track/27uYExfLTZn11OJFzwcAfD"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/605PHYH4Q0gO9oaJinHg63"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
+      "duration_ms": 126780,
+      "name": "go back",
+      "url": "https://open.spotify.com/track/4fhVo2oTvsbOvUDKhsYx1O"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -999,6 +979,26 @@
       "duration_ms": 211653,
       "name": "everywhere",
       "url": "https://open.spotify.com/track/5jykaHK1zVpmiJV6UGGYMV"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/605PHYH4Q0gO9oaJinHg63"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "go back",
-        "url": "https://open.spotify.com/album/7FLrjtMHZgWVS0gA1xGOEU"
+        "name": "the Rock",
+        "url": "https://open.spotify.com/album/4fkiB2QuoNDnbM2Heubc3D"
       },
       "artists": [
         {
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
         }
       ],
-      "duration_ms": 126780,
-      "name": "go back",
-      "url": "https://open.spotify.com/track/4fhVo2oTvsbOvUDKhsYx1O"
+      "duration_ms": 133814,
+      "name": "the Rock",
+      "url": "https://open.spotify.com/track/27uYExfLTZn11OJFzwcAfD"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
-      },
-      "artists": [
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "ELIJAH LEVEL EP",
         "url": "https://open.spotify.com/album/42HqbTzC7Rw2L05IBUnJPy"
       },
@@ -1299,6 +1279,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
       },
@@ -1315,26 +1315,6 @@
       "duration_ms": 131250,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "S150",
-        "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
-      },
-      "artists": [
-        {
-          "name": "KA2SH",
-          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
-        },
-        {
-          "name": "Lairos",
-          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
-        }
-      ],
-      "duration_ms": 194296,
-      "name": "Correr\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/740Uk4GQZxX8sLPmSeuQ5H"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1363,34 +1343,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
+        "name": "S150",
+        "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
       },
       "artists": [
         {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
-      },
-      "artists": [
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        },
         {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+          "name": "Lairos",
+          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
         }
       ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+      "duration_ms": 194296,
+      "name": "Correr\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/740Uk4GQZxX8sLPmSeuQ5H"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1411,6 +1379,38 @@
       "duration_ms": 208800,
       "name": "Who I Was",
       "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1823,18 +1823,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "SO GOOD !!!",
-        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
+        "name": "Stand In Peace",
+        "url": "https://open.spotify.com/album/6uSI7VYmhYJx9VZr9L8uX0"
       },
       "artists": [
         {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+          "name": "Peter Mac",
+          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
+        },
+        {
+          "name": "Lalo Leyy",
+          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
         }
       ],
-      "duration_ms": 120700,
-      "name": "SO GOOD !!!",
-      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
+      "duration_ms": 397076,
+      "name": "Stand In Peace - Original Mix",
+      "url": "https://open.spotify.com/track/4kDawQblKKlEQo0GL9ZQRz"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1863,22 +1867,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Stand In Peace",
-        "url": "https://open.spotify.com/album/6uSI7VYmhYJx9VZr9L8uX0"
+        "name": "SO GOOD !!!",
+        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
       },
       "artists": [
         {
-          "name": "Peter Mac",
-          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
-        },
-        {
-          "name": "Lalo Leyy",
-          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
         }
       ],
-      "duration_ms": 397076,
-      "name": "Stand In Peace - Original Mix",
-      "url": "https://open.spotify.com/track/4kDawQblKKlEQo0GL9ZQRz"
+      "duration_ms": 120700,
+      "name": "SO GOOD !!!",
+      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Out of the Darkness",
-        "url": "https://open.spotify.com/album/5cRBn6W2LfmGFjVQIVzuQ1"
-      },
-      "artists": [
-        {
-          "name": "The Two Fake Blondes",
-          "url": "https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Out of the Darkness",
-      "url": "https://open.spotify.com/track/6na0OmLZnWgYe0WoOIxK7B"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Praise Him",
         "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
       },
@@ -1955,22 +1939,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Fire Fall (Paris Jones Remix)",
-        "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
+        "name": "Out of the Darkness",
+        "url": "https://open.spotify.com/album/5cRBn6W2LfmGFjVQIVzuQ1"
       },
       "artists": [
         {
-          "name": "Seth & Nirva",
-          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
-        },
-        {
-          "name": "Paris Jones",
-          "url": "https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp"
+          "name": "The Two Fake Blondes",
+          "url": "https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi"
         }
       ],
-      "duration_ms": 250378,
-      "name": "Fire Fall - Paris Jones Remix",
-      "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
+      "duration_ms": 217440,
+      "name": "Out of the Darkness",
+      "url": "https://open.spotify.com/track/6na0OmLZnWgYe0WoOIxK7B"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1987,6 +1967,26 @@
       "duration_ms": 231435,
       "name": "Building \"What are you waiting on?\"",
       "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Fire Fall (Paris Jones Remix)",
+        "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
+      },
+      "artists": [
+        {
+          "name": "Seth & Nirva",
+          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
+        },
+        {
+          "name": "Paris Jones",
+          "url": "https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp"
+        }
+      ],
+      "duration_ms": 250378,
+      "name": "Fire Fall - Paris Jones Remix",
+      "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
     }
   ],
   "unique_name": "Christian Dance",

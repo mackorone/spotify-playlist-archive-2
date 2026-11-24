@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,880 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,882 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [12 Łez](https://open.spotify.com/track/4c1SMZWc243YtmF3Nw7Tc6) | [Sylwia Wisniewska](https://open.spotify.com/artist/0wLnqvt0oQEeDBTUZyYKgH) | [Dedykacja](https://open.spotify.com/album/5axpzP33FpIyaO31gCPtSz) | 3:48 |
 | 75 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
 
-Snapshot ID: `AAAAAC+YaCPrpS3dFWlrpcYgaGlZib7o`
+Snapshot ID: `AAAAACY1jSxoptwsRdAgVG62ILIIowlG`

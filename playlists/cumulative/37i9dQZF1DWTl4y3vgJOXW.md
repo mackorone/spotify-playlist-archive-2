@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Nico Collins
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Patrick Mahomes
 
 966 songs - 2 day 0 hr 48 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 17185,
+  "num_followers": 17184,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADyi7XX0PJEHHDffZnYfEzIOfDl+",
+  "snapshot_id": "AAAAAF4rOHDU6TTLflA6SmLvJK1eWfAg",
   "tracks": [
     {
       "added_at": "2026-09-18 15:19:05",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
-        "url": "https://open.spotify.com/album/31fF9TEfPk5yCoVrmiGz1o"
+        "name": "\u00daszunk az \u00e1rral",
+        "url": "https://open.spotify.com/album/1EtIyDqDAdNQc7LbZmGrku"
       },
       "artists": [
         {
-          "name": "Lenkke_",
-          "url": "https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr"
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 270830,
-      "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
-      "url": "https://open.spotify.com/track/7cpvbgMfldIejIVFMpUiVZ"
+      "duration_ms": 169500,
+      "name": "\u00daszunk az \u00e1rral",
+      "url": "https://open.spotify.com/track/6nHlJ0Iq3lGzggoQ3v1OHj"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "\u00daszunk az \u00e1rral",
-        "url": "https://open.spotify.com/album/1EtIyDqDAdNQc7LbZmGrku"
+        "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
+        "url": "https://open.spotify.com/album/31fF9TEfPk5yCoVrmiGz1o"
       },
       "artists": [
         {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+          "name": "Lenkke_",
+          "url": "https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr"
         }
       ],
-      "duration_ms": 169500,
-      "name": "\u00daszunk az \u00e1rral",
-      "url": "https://open.spotify.com/track/6nHlJ0Iq3lGzggoQ3v1OHj"
+      "duration_ms": 270830,
+      "name": "Sz\u00edven \u00fctnek a m\u00e9lyek",
+      "url": "https://open.spotify.com/track/7cpvbgMfldIejIVFMpUiVZ"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "IM\u00c1G\u00d3",
-        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "\u00dcDV A KLUBBAN",
-      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Az a szerelem",
         "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 293888,
       "name": "Az a szerelem",
       "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "IM\u00c1G\u00d3",
+        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "\u00dcDV A KLUBBAN",
+      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "buligyilkos",
+        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 178838,
+      "name": "buligyilkos",
+      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "\u00c9LEK \u00c9S VIRULOK",
         "url": "https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 176500,
       "name": "\u00c9LEK \u00c9S VIRULOK",
       "url": "https://open.spotify.com/track/7EknOyrrRIVBQNWrwOkuSl"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "buligyilkos",
-        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 178838,
-      "name": "buligyilkos",
-      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "Eddig k\u00e9s\u0151n fek\u00fcdtem le",
+        "url": "https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 181121,
+      "name": "A nyaral\u00f3 terasz\u00e1n",
+      "url": "https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "ALL-IN",
         "url": "https://open.spotify.com/album/5OBtMgai6IIIudhnm0hGBz"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 218508,
       "name": "ALL-IN",
       "url": "https://open.spotify.com/track/2y4F6BLHSKnwfaML1PVWk0"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "Eddig k\u00e9s\u0151n fek\u00fcdtem le",
-        "url": "https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 181121,
-      "name": "A nyaral\u00f3 terasz\u00e1n",
-      "url": "https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "Utcasarki f\u00e9ny",
+        "url": "https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges"
+      },
+      "artists": [
+        {
+          "name": "Art\u016br Rambo",
+          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
+        }
+      ],
+      "duration_ms": 190724,
+      "name": "Utcasarki f\u00e9ny",
+      "url": "https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "MR. CITYWIDE",
         "url": "https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 187849,
       "name": "MARIO",
       "url": "https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "Utcasarki f\u00e9ny",
-        "url": "https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges"
-      },
-      "artists": [
-        {
-          "name": "Art\u016br Rambo",
-          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
-        }
-      ],
-      "duration_ms": 190724,
-      "name": "Utcasarki f\u00e9ny",
-      "url": "https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Senki m\u00e1s",
-        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+        "name": "T\u00e9lbe \u00e1t",
+        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
       },
       "artists": [
         {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Senki m\u00e1s",
-      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
+      "duration_ms": 161280,
+      "name": "T\u00e9lbe \u00e1t",
+      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     }
   ],
   "unique_name": "Nemazapop",

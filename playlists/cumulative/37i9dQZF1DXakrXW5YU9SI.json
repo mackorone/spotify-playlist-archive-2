@@ -9586,7 +9586,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 200126,
       "name": "List do starych",
       "url": "https://open.spotify.com/track/6FgBZF8PBkEWTDgQJPDmMN"
@@ -11896,6 +11896,24 @@
       "duration_ms": 182339,
       "name": "Nareszcie",
       "url": "https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI"
+    },
+    {
+      "album": {
+        "name": "Nast\u0119pny prosz\u0119",
+        "url": "https://open.spotify.com/album/54YQmIx2vjYKMMTi0e0SNn"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "date_added": "2026-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164915,
+      "name": "Nast\u0119pny prosz\u0119",
+      "url": "https://open.spotify.com/track/6Tps1gh9OaN7XerstTIEAi"
     },
     {
       "album": {

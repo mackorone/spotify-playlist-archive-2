@@ -4,7 +4,7 @@
 
 > Vibe out with Epic Records cover: Future, Drake, Travis Scott, &amp; Sexy Redd
 
-301 songs - 15 hr 4 min
+303 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [EXCHANGE](https://open.spotify.com/track/2DYNyO657ppfS7Hl7jHg7a) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [EXCHANGE](https://open.spotify.com/album/2QZQ6HUp0WhpxpnkCqZrkw) | 2:54 | 2022-06-03 | 2022-07-23 |
 | [Famous](https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Maybe It's Me...](https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx) | 3:46 | 2023-07-14 | 2024-01-10 |
 | [FAR AWAY](https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 3:15 | 2022-07-22 | 2022-12-10 |
+| [Fast Asleep](https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Fast Asleep](https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd) | 3:00 | 2026-11-24 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-01-09 |  |
 | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/track/4c9fF18rZHbsA8X8apjuRd) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/album/78vPH1YGbwtqZuF0sFcFv7) | 2:23 | 2021-12-17 | 2022-10-01 |
 | [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 | 2022-05-06 | 2024-01-10 |
@@ -290,6 +291,7 @@
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-26 | 2026-11-07 |
 | [UH HUH \(feat\. Tay Money\)](https://open.spotify.com/track/7uoFImyxzGwMH1aSkYQrGU) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [ALTOID COWBOY](https://open.spotify.com/album/343vSuShIqEKKXrdQ1LKV3) | 2:36 | 2023-07-21 | 2023-08-20 |
 | [Vegetarian](https://open.spotify.com/track/41RKlnFgfpJ5DHnxjJ4oBj) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF) | [Alpha Wolf](https://open.spotify.com/album/02ehniiotaZRN8WiM69LwP) | 1:40 | 2023-07-21 | 2024-01-10 |
+| [Wadup Wadup](https://open.spotify.com/track/0XnPxNGx6IwIP7ohagjtN2) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Wadup Wadup](https://open.spotify.com/album/2mAdatqGcHJBeIwt1A7OqQ) | 2:22 | 2026-11-24 |  |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-29 | 2026-11-07 |
 | [WANNABE](https://open.spotify.com/track/39MVjtmCAbQPxOhqzKarUB) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA) | [WANNABE](https://open.spotify.com/album/6lyWUsY9aT7YqAVEAKOcvo) | 2:14 | 2023-07-07 | 2024-01-10 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-28 | 2026-11-07 |

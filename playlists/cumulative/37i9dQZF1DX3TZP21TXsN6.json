@@ -8105,6 +8105,24 @@
     },
     {
       "album": {
+        "name": "Kijk Omhoog",
+        "url": "https://open.spotify.com/album/6sxJ4pMEhlb1Ud1ysCI5HO"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Kijk Omhoog",
+      "url": "https://open.spotify.com/track/3ZMFW1vJQV6EI4fHbKvg72"
+    },
+    {
+      "album": {
         "name": "Lente In De Akkers",
         "url": "https://open.spotify.com/album/1Bl3U6NZVBahAJHfLMZE4k"
       },

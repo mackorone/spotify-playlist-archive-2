@@ -1,12 +1,12 @@
 {
   "description": "Tallando, bailando y cantando. ",
-  "num_followers": 412238,
+  "num_followers": 412343,
   "original_name": "Canciones para lavar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVUweBhAv5BfT5djcgO0J/bebtE",
+  "snapshot_id": "AAAAAHVviEwV/5a34SaIOkm2+BIZMwH1",
   "tracks": [
     {
       "added_at": "2026-09-21 17:58:20",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 280120,
-      "name": "Ese Loco Soy Yo",
-      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Una L\u00e1grima No Basta",
         "url": "https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 246453,
       "name": "S\u00e9 Que Te Amo",
       "url": "https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 280120,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 213026,
       "name": "Amor Regresa",
       "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 168720,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Cumbias Pa' Bailar",
-        "url": "https://open.spotify.com/album/2gZbn5CcZQ0mny27gbV8Ve"
-      },
-      "artists": [
-        {
-          "name": "Los Guacharacos de Colombia",
-          "url": "https://open.spotify.com/artist/5ebyRyRMat0MDvrmIwh1ow"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "El cafetero",
-      "url": "https://open.spotify.com/track/2p0dAybBIdHwLEizVAz4ql"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "TRR TAC TAC",
         "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 187000,
       "name": "TRR TAC TAC",
       "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Cumbias Pa' Bailar",
+        "url": "https://open.spotify.com/album/2gZbn5CcZQ0mny27gbV8Ve"
+      },
+      "artists": [
+        {
+          "name": "Los Guacharacos de Colombia",
+          "url": "https://open.spotify.com/artist/5ebyRyRMat0MDvrmIwh1ow"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "El cafetero",
+      "url": "https://open.spotify.com/track/2p0dAybBIdHwLEizVAz4ql"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 218267,
+      "name": "Feliz, Feliz",
+      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
         "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 224256,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 218267,
-      "name": "Feliz, Feliz",
-      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
+        "name": "Sonido La Conga \u201cForever\u201d",
+        "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
+      },
+      "artists": [
+        {
+          "name": "Organazacion Bohio",
+          "url": "https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Embrujo De Cumbia",
+      "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
         "name": "Grupo El Mexicano",
         "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 206913,
       "name": "Del Signo Libra",
       "url": "https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
-        "name": "Sonido La Conga \u201cForever\u201d",
-        "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
-      },
-      "artists": [
-        {
-          "name": "Organazacion Bohio",
-          "url": "https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Embrujo De Cumbia",
-      "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
     },
     {
       "added_at": "2026-09-21 17:58:20",

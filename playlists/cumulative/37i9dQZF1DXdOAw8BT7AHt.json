@@ -3579,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "How to Count to Five",
+        "url": "https://open.spotify.com/album/336ZRfgCtvRuRPp0THNrYJ"
+      },
+      "artists": [
+        {
+          "name": "Holidays in United States",
+          "url": "https://open.spotify.com/artist/4Hx2EMq5CumzokenbyEcSM"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246895,
+      "name": "Dainty Flower Song",
+      "url": "https://open.spotify.com/track/3hMcwwnatAWMmDfcD3r1z2"
+    },
+    {
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg"
       },
@@ -4214,7 +4232,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 213773,
       "name": "Don't Come Easy",
       "url": "https://open.spotify.com/track/1jSVZ6MAaVPvYYxwSI5qB6"
@@ -8886,7 +8904,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 191602,
       "name": "Lobotomize Me",
       "url": "https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y"
@@ -11366,7 +11384,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 153671,
       "name": "Pirates",
       "url": "https://open.spotify.com/track/79BXR9Y8zZItnMQFGjCCWE"

@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 298941,
+  "num_followers": 298977,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABnuSqu+1bTDH4ufz7GK1vOIzlIL",
+  "snapshot_id": "AAAAAIaOXw0tCELmqEycejaMYc1f1Sxo",
   "tracks": [
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "duration_ms": 220355,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "keepsakeFM",
         "url": "https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 136320,
       "name": "locket",
       "url": "https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 220355,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Good Night Baby",
+        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 261884,
+      "name": "Good Night Baby",
+      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
@@ -1611,38 +1627,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Good Night Baby",
-        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 261884,
-      "name": "Good Night Baby",
-      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
       },
       "artists": [
         {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     }
   ],
   "unique_name": "Electronica Romantica",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: asthma
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,588 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,587 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 98 | [tsunami](https://open.spotify.com/track/349FRybvknRPvvE9bcQJ0r) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU) | [tsunami](https://open.spotify.com/album/7zx3ibXRHFbCGGS3UVRq1H) | 3:51 |
 | 99 | [Błysk](https://open.spotify.com/track/4PJCgoSFXXdEMgXVhoHcma) | [Kasia Krzyżaniak](https://open.spotify.com/artist/2kLHwEGS9prOyM4qvqjolg), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Błysk](https://open.spotify.com/album/2mX1zqOMzPsCvaY0n6UoXo) | 3:11 |
 
-Snapshot ID: `AAAAAKcbF3wEJugpvmLxxkq0DMqw4gzU`
+Snapshot ID: `AAAAAArK+mpxmGG3L1NEHmXNT9U8T2bK`

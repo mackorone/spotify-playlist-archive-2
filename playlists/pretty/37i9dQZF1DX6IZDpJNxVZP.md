@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,937 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,944 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 99 | [LOCA NAVIDAD](https://open.spotify.com/track/2dVg3aNxEyDqHaj4VL7uTY) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [LOCA NAVIDAD](https://open.spotify.com/album/59RAxEjafry6sNP6CPw06b) | 2:36 |
 | 100 | [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [The Fixies](https://open.spotify.com/artist/1GmIrV9vwP3OqwrvUI64nm) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 |
 
-Snapshot ID: `AAAAABDuOAkgfuI5JHmt/tUKGk+XT02w`
+Snapshot ID: `AAAAAA9XiCLdYdspVxyTTztZsgFpm5bU`

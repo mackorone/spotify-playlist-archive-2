@@ -2,9 +2,9 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop<br/>Cover: Romy Mars
+> next gen pop<br/>Cover: Haute & Freddy
 
-2,604 songs - 5 day 8 hr 1 min
+2,605 songs - 5 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1995,6 +1995,7 @@
 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-02-24 | 2023-05-27 |
 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 | 2022-03-04 | 2022-04-02 |
 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 | 2022-07-08 | 2022-10-22 |
+| [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 | 2026-11-23 |  |
 | [SICK](https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [SICK](https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO) | 2:12 | 2026-06-26 |  |
 | [sick of myself](https://open.spotify.com/track/0uNcqssd2jsd9zhZhgLl0o) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [sick of myself](https://open.spotify.com/album/20OOBBJM61941fgjyk4e4b) | 2:21 | 2023-09-08 | 2024-02-10 |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-09-30 | 2022-12-10 |
@@ -2291,7 +2292,7 @@
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 | 2024-08-31 |
 | [The Pavement](https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [The Pavement](https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ) | 3:04 | 2026-06-26 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-05 | 2022-09-24 |
-| [The Rage](https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [The Rage](https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk) | 3:40 | 2026-10-09 |  |
+| [The Rage](https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [The Rage](https://open.spotify.com/album/3rATpXb10GsrrKV2Gzfavk) | 3:40 | 2026-10-09 | 2026-11-24 |
 | [The Real Thing](https://open.spotify.com/track/6dQouK9atua68vEQrnIwf8) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [The Real Thing](https://open.spotify.com/album/4TFpy2A4CuGv18cQfH9PYY) | 2:53 | 2021-10-16 | 2021-11-20 |
 | [The Reminder](https://open.spotify.com/track/72QuVfFahOw2LmiqBJBheh) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Reminder](https://open.spotify.com/album/4JOh5OuC6W4fiMqtNyTL08) | 2:38 | 2021-10-09 | 2021-10-30 |
 | [The Rose Song \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Rose Song \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m) | 2:54 | 2021-06-19 | 2021-07-24 |

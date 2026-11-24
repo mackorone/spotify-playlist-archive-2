@@ -4,7 +4,7 @@
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-158 songs - 7 hr 42 min
+159 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,8 +150,9 @@
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2024-10-17 | 2025-10-18 |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7B8SS0aj4uWcJwohbYVLyt) | [The Corner Booth Trio](https://open.spotify.com/artist/6ALUb9jkrDpLSnIeDLBSax) | [We Wish You a Merry Christmas](https://open.spotify.com/album/7q3eVyorarJ5tAyevuMesk) | 2:46 | 2026-11-06 |  |
 | [What Are You Doing New Years Eve](https://open.spotify.com/track/5jRbKBFU3v3taMeS7UZ3h2) | [Piccadilly Blue Trio](https://open.spotify.com/artist/1UoHg0FjzkJ585vQq9NkT3) | [What Are You Doing New Years Eve](https://open.spotify.com/album/4ZeUwxj3422C87PXMN8ajR) | 2:00 | 2026-11-06 |  |
-| [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 | 2024-10-17 |  |
+| [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 | 2024-10-17 | 2026-11-24 |
 | [What Child Is This](https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [What Child Is This](https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3) | 2:44 | 2024-10-17 | 2024-12-06 |
+| [When Bells Go Quiet](https://open.spotify.com/track/73WJID0iO4cQfmt1GG1vfk) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [When Bells Go Quiet](https://open.spotify.com/album/5JmVlutZebvFOFtZDKPX7p) | 2:34 | 2026-11-20 |  |
 | [When Christmas Comes To Town](https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [When Christmas Comes To Town](https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO) | 3:29 | 2025-11-13 |  |
 | [When Christmas Falls Silent](https://open.spotify.com/track/1U4v0Iy6dyVSpOZoHqqIQp) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [When Christmas Falls Silent](https://open.spotify.com/album/4L32lmO7v5wyTxVNkxDU3t) | 3:01 | 2026-11-06 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 | 2024-10-17 | 2024-12-06 |

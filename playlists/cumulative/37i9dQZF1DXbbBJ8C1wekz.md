@@ -4,7 +4,7 @@
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-461 songs - 23 hr 46 min
+462 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Bailean](https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Andressinha](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al), [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW) | [Bailean](https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS) | 3:38 | 2021-09-02 | 2022-07-28 |
 | [Bailão](https://open.spotify.com/track/2hgfeYKzJIaUlrhk6oP3wc) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Bailão](https://open.spotify.com/album/7sZwY31f8pBNa5KvlFfSYR) | 3:30 | 2021-09-02 | 2022-06-07 |
 | [Bailão](https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mestre B](https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bailão](https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp) | 3:30 | 2021-09-02 | 2024-04-19 |
-| [Bairro 2](https://open.spotify.com/track/6Wzjl9dI5gXB8qtUktXBzc) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Bairro 2](https://open.spotify.com/album/4W6LxkFoj6VbkJykLn2zyM) | 2:13 | 2025-12-11 |  |
+| [Bairro 2](https://open.spotify.com/track/6Wzjl9dI5gXB8qtUktXBzc) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Bairro 2](https://open.spotify.com/album/4W6LxkFoj6VbkJykLn2zyM) | 2:13 | 2025-12-11 | 2026-11-24 |
 | [Baixa Pressão](https://open.spotify.com/track/0cIXy6ghgpiVvMerv47Upl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Ch7](https://open.spotify.com/artist/4zIIFgP1E0k77UkUiAJUFk) | [Baixa Pressão](https://open.spotify.com/album/2MwlhD6TrjFJi6MfOjimY8) | 2:44 | 2021-09-02 | 2022-07-26 |
 | [bala e fogo](https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [bala e fogo](https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1) | 3:47 | 2025-01-03 | 2025-07-04 |
 | [Bala nos Mandado](https://open.spotify.com/track/7ty2MwHKyA7ZENxc01WKR4) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Bala nos Mandado](https://open.spotify.com/album/29TwohGiZJQDG9KnWEGR1o) | 2:40 | 2023-10-16 | 2023-12-09 |
@@ -182,6 +182,7 @@
 | [Franco, The Sir! On The Radar Freestyle](https://open.spotify.com/track/28XT01pAGWnQTJrrGXcJh5) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [Franco, The Sir! On The Radar Freestyle](https://open.spotify.com/album/1n1VqHx9HS0ty0QnbhXBv4) | 2:06 | 2025-07-04 |  |
 | [Fuego](https://open.spotify.com/track/7GXPBPKNNInpZWqIwDPSdh) | [Phantom Mob](https://open.spotify.com/artist/5uIQliKMyGkfEwn9JA9S8T), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [B.I.G Carter](https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70), [T.D.L Music](https://open.spotify.com/artist/4ZpCGXNbBVYbVht0txq54g), [Murillo Zenki](https://open.spotify.com/artist/4sn4agFKcZRLswKocRvpI3) | [Fuego](https://open.spotify.com/album/60LixlamUaXavqDFKQ6FpT) | 3:07 | 2021-09-02 | 2022-07-09 |
 | [Fuso](https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Fuso](https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP) | 1:54 | 2025-02-21 |  |
+| [Fuso \- Live Video](https://open.spotify.com/track/1n82XCje65LKbtER78qF0Y) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Fuso \(Live Video\)](https://open.spotify.com/album/2nz1nxfjdNj9glQo2x7Ee1) | 3:04 | 2026-11-23 |  |
 | [Futuro](https://open.spotify.com/track/0JqeNZ9naWlaojoueuwBQg) | [Mc Lucy](https://open.spotify.com/artist/44bzWn6GQs6zVXvnYtqIMa), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c) | [Poder](https://open.spotify.com/album/2Avjohr3TQNOdMaCbw3dOd) | 2:23 | 2021-09-02 | 2022-07-09 |
 | [Fuuga](https://open.spotify.com/track/44JedU7eYNmip1BfvtLIqw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Dj Coala](https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI) | [Fuuga](https://open.spotify.com/album/5Rlri89W7uov0vfeG2bHXl) | 2:15 | 2023-10-16 | 2024-01-12 |
 | [Fuuga](https://open.spotify.com/track/27C3ZWAo3xPFR6rXw2sfHI) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw), [Dj Coala](https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI) | [Fuuga](https://open.spotify.com/album/1hMEnHTNEDjElq7I7SGMuT) | 2:15 | 2021-09-02 | 2022-07-27 |

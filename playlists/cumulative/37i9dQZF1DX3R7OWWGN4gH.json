@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 161415,
       "name": "Daughter of Eve",
       "url": "https://open.spotify.com/track/7yn85MEYkjsuRwBiU9hfVA"
@@ -3006,6 +3006,24 @@
       "duration_ms": 162782,
       "name": "I'M NOT SORRY",
       "url": "https://open.spotify.com/track/1RcHsx2rw6ojtQyFlLr99O"
+    },
+    {
+      "album": {
+        "name": "I'm The Big Bad",
+        "url": "https://open.spotify.com/album/3PKnH8Hvk1pE4hV8rEIp5S"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "I'm The Big Bad",
+      "url": "https://open.spotify.com/track/5QJx5XzizMbWyPbltlUmzZ"
     },
     {
       "album": {

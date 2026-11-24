@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Make It Shine",
+        "url": "https://open.spotify.com/album/0lSVRExvQKviwjxIrwPKLD"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172100,
+      "name": "All You Need is One",
+      "url": "https://open.spotify.com/track/0KVBd0FcmIHlzXDj9Tm8fr"
+    },
+    {
+      "album": {
         "name": "Hanukkah Rocks",
         "url": "https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl"
       },
@@ -208,6 +226,28 @@
       "duration_ms": 217680,
       "name": "Chanukah (Shake It Off)",
       "url": "https://open.spotify.com/track/41o6DOxHFQxVJFCo1PvcNy"
+    },
+    {
+      "album": {
+        "name": "Feel The Ohr / Chanukah Days",
+        "url": "https://open.spotify.com/album/3ihu1FaU3KnNU9lVI6IWio"
+      },
+      "artists": [
+        {
+          "name": "Thank You Hashem",
+          "url": "https://open.spotify.com/artist/2h0dMILtNngHh2mxwdjwB9"
+        },
+        {
+          "name": "TYH Boys",
+          "url": "https://open.spotify.com/artist/3Vn8i9eiKjpOXz90OgTsHq"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194621,
+      "name": "Chanukah Days",
+      "url": "https://open.spotify.com/track/3omPpCMSnG9fKMqVDOzJjk"
     },
     {
       "album": {
@@ -692,6 +732,24 @@
       "duration_ms": 220413,
       "name": "Happy Joyous Hanukkah",
       "url": "https://open.spotify.com/track/6MEsn0DpqBBV6dhDRASOd3"
+    },
+    {
+      "album": {
+        "name": "HBM Presents: Sleigh The Holidays, Vol. 3",
+        "url": "https://open.spotify.com/album/0V9C2rzujjBCLDDtIAzRZK"
+      },
+      "artists": [
+        {
+          "name": "Kate Yeager",
+          "url": "https://open.spotify.com/artist/0vs48tvMDwDmDLbnQ95TJQ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165928,
+      "name": "Home for Hanukkah",
+      "url": "https://open.spotify.com/track/41DGQLehCcKYmINUD00LzJ"
     },
     {
       "album": {

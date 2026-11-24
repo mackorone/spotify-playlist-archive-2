@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 130529,
+  "num_followers": 130548,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF+OkJoVfdrPq/rVZisiqANmwHPV",
+  "snapshot_id": "AAAAAHDP/C95VEd2VjGxC3HMSYgBkoen",
   "tracks": [
     {
       "added_at": "2026-06-17 15:55:41",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
+        "name": "Ju\u00edzo e Responsabilidade",
+        "url": "https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 157511,
+      "name": "Ju\u00edzo e Responsabilidade",
+      "url": "https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
         "name": "Deixa a Chuva Cair (Acoustic Version)",
         "url": "https://open.spotify.com/album/0L7Ch86WVPvPjf1LoIDcPl"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 164166,
       "name": "Deixa a Chuva Cair - Acoustic Version",
       "url": "https://open.spotify.com/track/466NYRgtd3gPNH43VQ5A33"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
-        "name": "Ju\u00edzo e Responsabilidade",
-        "url": "https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 157511,
-      "name": "Ju\u00edzo e Responsabilidade",
-      "url": "https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK"
     },
     {
       "added_at": "2026-06-17 15:55:41",

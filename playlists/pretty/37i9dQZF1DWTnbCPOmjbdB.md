@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Lanberry, Justyna Steczkowska, Wiktor Waligóra
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,534 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,529 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 69 | [Parasolka](https://open.spotify.com/track/7ArKXOg6lAKARi5xC1QkEZ) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Parasolka](https://open.spotify.com/album/1V2yU8T8TMLdo11yrkws3C) | 3:05 |
 | 70 | [Serce](https://open.spotify.com/track/7CLoNAwsM3ObHdNCo6XNwn) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Serce](https://open.spotify.com/album/1SAGltZWmoSsN3qyS4RL1r) | 2:48 |
 
-Snapshot ID: `AAAAAMumaYSczPZuiz99rfSlcPEz6kWq`
+Snapshot ID: `AAAAAGAual9uSvntL/CimWcBq9cqNYQ8`

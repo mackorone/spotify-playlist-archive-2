@@ -1,12 +1,12 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22359,
+  "num_followers": 22368,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIgMJaBwpWeA5E55ftAECOUTLBsf",
+  "snapshot_id": "AAAAAHhLxx/kQXafZzyb8Fd44GXnwqIa",
   "tracks": [
     {
       "added_at": "2024-09-30 14:25:52",
@@ -633,6 +633,26 @@
       "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
     },
     {
+      "added_at": "2026-07-31 00:01:30",
+      "album": {
+        "name": "Beautiful One",
+        "url": "https://open.spotify.com/album/0pmidcdB8w4UxVjAYLFFxd"
+      },
+      "artists": [
+        {
+          "name": "Taiwo Oshin",
+          "url": "https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U"
+        },
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "duration_ms": 329042,
+      "name": "Beautiful One",
+      "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
+    },
+    {
       "added_at": "2026-02-27 00:01:20",
       "album": {
         "name": "Holy Love",
@@ -655,26 +675,6 @@
       "duration_ms": 170500,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
-    },
-    {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
-        "name": "Beautiful One",
-        "url": "https://open.spotify.com/album/0pmidcdB8w4UxVjAYLFFxd"
-      },
-      "artists": [
-        {
-          "name": "Taiwo Oshin",
-          "url": "https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U"
-        },
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        }
-      ],
-      "duration_ms": 329042,
-      "name": "Beautiful One",
-      "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
     },
     {
       "added_at": "2026-10-16 00:01:42",
@@ -729,6 +729,38 @@
       "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
     },
     {
+      "added_at": "2026-11-13 00:01:42",
+      "album": {
+        "name": "Ego Ole (Live)",
+        "url": "https://open.spotify.com/album/1lWEQZSMeiE4dFvpUE6NNZ"
+      },
+      "artists": [
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "duration_ms": 537464,
+      "name": "Ego Ole",
+      "url": "https://open.spotify.com/track/0gPmTJ0QcBRa2aGO4jzsAm"
+    },
+    {
+      "added_at": "2025-12-19 00:01:10",
+      "album": {
+        "name": "\u00d3 D\u00e1ra",
+        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 507645,
+      "name": "\u00d3 D\u00e1ra",
+      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
+    },
+    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Yours Truly",
@@ -747,22 +779,6 @@
       "duration_ms": 173153,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
-    },
-    {
-      "added_at": "2025-12-19 00:01:10",
-      "album": {
-        "name": "\u00d3 D\u00e1ra",
-        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 507645,
-      "name": "\u00d3 D\u00e1ra",
-      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
     },
     {
       "added_at": "2026-11-06 00:02:01",
@@ -785,22 +801,6 @@
       "url": "https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim"
     },
     {
-      "added_at": "2026-11-13 00:01:42",
-      "album": {
-        "name": "Ego Ole (Live)",
-        "url": "https://open.spotify.com/album/1lWEQZSMeiE4dFvpUE6NNZ"
-      },
-      "artists": [
-        {
-          "name": "Tkeyz",
-          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
-        }
-      ],
-      "duration_ms": 537464,
-      "name": "Ego Ole",
-      "url": "https://open.spotify.com/track/0gPmTJ0QcBRa2aGO4jzsAm"
-    },
-    {
       "added_at": "2026-09-25 00:01:24",
       "album": {
         "name": "Already Loved",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/1eQcRsCGoDTiRmTLPzPbae"
     },
     {
-      "added_at": "2026-08-07 00:01:10",
-      "album": {
-        "name": "Many",
-        "url": "https://open.spotify.com/album/1UrUin8IxAkH39CfanCbxW"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Many",
-      "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Aanu Ni",
@@ -851,6 +835,22 @@
       "duration_ms": 258741,
       "name": "Ogbon Mi O Gbe",
       "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
+    },
+    {
+      "added_at": "2026-08-07 00:01:10",
+      "album": {
+        "name": "Many",
+        "url": "https://open.spotify.com/album/1UrUin8IxAkH39CfanCbxW"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Many",
+      "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
       "added_at": "2024-09-30 14:25:52",
@@ -1277,26 +1277,6 @@
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
-      "added_at": "2026-10-16 00:01:42",
-      "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
-      },
-      "artists": [
-        {
-          "name": "Eno Michael",
-          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
-        },
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 291235,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
-    },
-    {
       "added_at": "2026-11-06 00:02:01",
       "album": {
         "name": "Still",
@@ -1315,6 +1295,26 @@
       "duration_ms": 144000,
       "name": "You are the reason",
       "url": "https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC"
+    },
+    {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
+      },
+      "artists": [
+        {
+          "name": "Eno Michael",
+          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 291235,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
     },
     {
       "added_at": "2026-11-13 00:01:42",
@@ -1393,6 +1393,34 @@
       "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
     },
     {
+      "added_at": "2026-11-20 00:01:47",
+      "album": {
+        "name": "TENKI (Remix)",
+        "url": "https://open.spotify.com/album/3CyoT7afZvbi9wMkRN2wuw"
+      },
+      "artists": [
+        {
+          "name": "ICXN",
+          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
+        },
+        {
+          "name": "Drizilik",
+          "url": "https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P"
+        },
+        {
+          "name": "Shadow Boxxer",
+          "url": "https://open.spotify.com/artist/1V6ZXpsxkb3B5pyilT9kJn"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        }
+      ],
+      "duration_ms": 287438,
+      "name": "TENKI - Remix",
+      "url": "https://open.spotify.com/track/1WMk0lkidxPEoKGTzUhFaM"
+    },
+    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Breakthrough",
@@ -1449,34 +1477,6 @@
       "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
     },
     {
-      "added_at": "2026-11-20 00:01:47",
-      "album": {
-        "name": "TENKI (Remix)",
-        "url": "https://open.spotify.com/album/3CyoT7afZvbi9wMkRN2wuw"
-      },
-      "artists": [
-        {
-          "name": "ICXN",
-          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
-        },
-        {
-          "name": "Drizilik",
-          "url": "https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P"
-        },
-        {
-          "name": "Shadow Boxxer",
-          "url": "https://open.spotify.com/artist/1V6ZXpsxkb3B5pyilT9kJn"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        }
-      ],
-      "duration_ms": 287438,
-      "name": "TENKI - Remix",
-      "url": "https://open.spotify.com/track/1WMk0lkidxPEoKGTzUhFaM"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1513,26 +1513,6 @@
       "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
-      "added_at": "2026-10-02 00:01:17",
-      "album": {
-        "name": "When I Walk (Psalm 23) [World Version]",
-        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        },
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
-        }
-      ],
-      "duration_ms": 222162,
-      "name": "When I Walk (Psalm 23) - World Version",
-      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Ifeoma",
@@ -1551,6 +1531,26 @@
       "duration_ms": 144000,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1"
+    },
+    {
+      "added_at": "2026-10-02 00:01:17",
+      "album": {
+        "name": "When I Walk (Psalm 23) [World Version]",
+        "url": "https://open.spotify.com/album/2OmCFEVSl0ne69VgwsRk1e"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        },
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 222162,
+      "name": "When I Walk (Psalm 23) - World Version",
+      "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
     }
   ],
   "unique_name": "Blessed",

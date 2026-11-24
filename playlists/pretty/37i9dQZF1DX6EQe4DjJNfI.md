@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,371 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,368 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 45 | [Alô? É Você](https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Crisálida](https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe) | 2:14 |
 | 46 | [Prisma](https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Prisma](https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W) | 4:14 |
 | 47 | [Diz Pra Mim](https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Jones](https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG) | [Diz Pra Mim](https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm) | 3:19 |
-| 48 | [Rude](https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W) | [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA), [Monrabeatz](https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C), [Juce Rock](https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv) | [Dublê](https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh) | 2:38 |
-| 49 | [Logo Eu](https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Logo Eu](https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6) | 2:59 |
+| 48 | [Logo Eu](https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Logo Eu](https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6) | 2:59 |
+| 49 | [Rude](https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W) | [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA), [Monrabeatz](https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C), [Juce Rock](https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv) | [Dublê](https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh) | 2:38 |
 | 50 | [Novehoras](https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu) | [João Loroza](https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [DJ TamY](https://open.spotify.com/artist/78BI41VSButcqEG7ptvi17) | [Novehoras](https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw) | 3:31 |
 | 51 | [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 |
 | 52 | [Anjo](https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Decepções de Alguém que Ama](https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk) | 2:32 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 63 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 64 | [TRATO](https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [TRATO](https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO) | 2:29 |
 | 65 | [Sinais de Relevância](https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Visto por Último](https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg) | 1:58 |
-| 66 | [Se For Com Você](https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE) | [GAEL](https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr), [EVY](https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU) | [Se For Com Você](https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay) | 2:50 |
-| 67 | [Carta](https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Carta](https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST) | 2:24 |
+| 66 | [Carta](https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Carta](https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST) | 2:24 |
+| 67 | [Se For Com Você](https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE) | [GAEL](https://open.spotify.com/artist/0KldWtKElJL5W5rNXUkRKr), [EVY](https://open.spotify.com/artist/6rxKzGmvhqeeOELJyoTpyU) | [Se For Com Você](https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay) | 2:50 |
 | 68 | [Deixa Eu Te Amar](https://open.spotify.com/track/6lDXIuB0vevm5u5V4WGhvC) | [Drana](https://open.spotify.com/artist/7Iq6BvLAp3ew8oGoB1dNPu), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Deixa eu Te Amar](https://open.spotify.com/album/1vE08xjDnTZhGxNC5hBBm8) | 4:00 |
 | 69 | [COMO ELA FAZ](https://open.spotify.com/track/3iB07baQMJKsQDyZTck8g9) | [Aura Soul](https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT), [Dee Double Dee](https://open.spotify.com/artist/3qeTcXLyWKs2wFY1zNGFhC), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [SKY](https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl) | 4:05 |
 | 70 | [Me Deixa Ser Pausa](https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Me Deixa Ser Pausa](https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0) | 2:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 75 | [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 |
 
-Snapshot ID: `AAAAAF5OCaYMLKrXf9qid0vLbkPu3T5X`
+Snapshot ID: `AAAAAJOGrGxR0j9NHE2betqodnXGbBAx`

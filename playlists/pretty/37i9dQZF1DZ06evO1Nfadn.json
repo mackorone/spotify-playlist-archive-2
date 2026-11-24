@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 42093,
+  "num_followers": 42099,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAACiQ7ylLOGF4Ehgw/BajcZw",
+  "snapshot_id": "awIwgAAAAACXYPelKyGaHaazDpwHxtb8",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escorpion",
-        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Qu\u00e9 Bonito Amor",
-      "url": "https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Veas Lo Que Se Siente",
         "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 170933,
       "name": "Te Lavaste la Cara, El Mono No",
       "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escorpion",
+        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Qu\u00e9 Bonito Amor",
+      "url": "https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/5F1r9gvkQNWDYLFAGplUJr"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 195361,
+      "name": "El Caderazo",
+      "url": "https://open.spotify.com/track/4dT8wYuL1JczxaaZANmqU7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mundo Gira",
         "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
       },
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+        "name": "Lagrimas De Sangre",
+        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
       "artists": [
         {
@@ -708,25 +724,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 195361,
-      "name": "El Caderazo",
-      "url": "https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 190440,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj"
+      "duration_ms": 153093,
+      "name": "El Avestruz",
+      "url": "https://open.spotify.com/track/71FNAliR0LmbD46fnWAGBx"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
       },
       "artists": [
         {
@@ -756,25 +756,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153093,
-      "name": "El Avestruz",
-      "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lagrimas De Sangre",
-        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Si la Ven por Ah\u00ed",
-      "url": "https://open.spotify.com/track/1yOEp1DlTTSbC5AM2WzVIK"
+      "duration_ms": 190440,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 172306,
       "name": "Tu precio",
       "url": "https://open.spotify.com/track/2ZbVZyUkHjy6EFXV3R7dsm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagrimas De Sangre",
+        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Si la Ven por Ah\u00ed",
+      "url": "https://open.spotify.com/track/1yOEp1DlTTSbC5AM2WzVIK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Grace Enger
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,645 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,650 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 74 | [Maggie](https://open.spotify.com/track/4a2r6VPZAbFcSX1qf0Aw74) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Maggie](https://open.spotify.com/album/4OmNQi3AudOnWKdhTQpkD7) | 3:32 |
 | 75 | [Vinyl](https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Just My Luck](https://open.spotify.com/album/7BJsNyKpMF59uelRRp9p4K) | 3:35 |
 
-Snapshot ID: `AAAAALPfdT4UCVughqYtlFsm4YA/nUA7`
+Snapshot ID: `AAAAACLTE6ls0Au5hrwb5nFvIlyxGpA/`

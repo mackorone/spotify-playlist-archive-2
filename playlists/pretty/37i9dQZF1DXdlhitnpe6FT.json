@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 346926,
+  "num_followers": 346998,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPRqb1WfzwvFjwUJUf6a/Su+U85v",
+  "snapshot_id": "AAAAANgg/MFzNvoRU+zFWy0R4I6B8Brb",
   "tracks": [
     {
       "added_at": "2025-02-14 17:45:29",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Nadia's Theme (Theme from the Young and Restless)",
+        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
+      },
+      "artists": [
+        {
+          "name": "Barry DeVorzon",
+          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Nadia's Theme (Theme from the Young and Restless)",
+      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
         "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Nadia's Theme (Theme from the Young and Restless)",
-        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
-      },
-      "artists": [
-        {
-          "name": "Barry DeVorzon",
-          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Nadia's Theme (Theme from the Young and Restless)",
-      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Tribute to Richard Clayderman: Collection",
         "url": "https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "The Gold Series - Latin Romance",
         "url": "https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 234962,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+      },
+      "artists": [
+        {
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Al Caiola",
-        "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 127440,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Heimat Deine Sterne, Folge 4",
         "url": "https://open.spotify.com/album/6fdvYtn7d6Atb998x2iCvs"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 133733,
       "name": "Wenn wir auseinandergeh'n (Please Release Me)",
       "url": "https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Al Caiola",
+        "url": "https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 127440,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
       },
       "artists": [
         {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
         }
       ],
-      "duration_ms": 130586,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7"
+      "duration_ms": 161773,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1191,6 +1175,22 @@
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 130586,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Exploring New Sounds In Stereo",
         "url": "https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 165200,
       "name": "Lazy Bones",
       "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034"
       },
       "artists": [
         {
@@ -1380,9 +1380,25 @@
           "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl"
+      "duration_ms": 457400,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "The Essential Kenny G 3.0",
+        "url": "https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1435,6 +1451,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Emociones Sin L\u00edmite Volumen 1",
         "url": "https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL"
       },
@@ -1447,22 +1479,6 @@
       "duration_ms": 355653,
       "name": "Lluvia De Primavera",
       "url": "https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 457400,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "!!!Going Places!!!",
-        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Fandango",
         "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
       },
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Essential Kenny G 3.0",
-        "url": "https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt"
+        "name": "!!!Going Places!!!",
+        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
       },
       "artists": [
         {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
         }
       ],
-      "duration_ms": 303253,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "!!!Going Places!!!",
-        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "16 Grandes \u00c9xitos Instrumentales",
         "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 157986,
       "name": "Ballade Pour Adeline",
       "url": "https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "!!!Going Places!!!",
+        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "16 Grandes \u00c9xitos Instrumentales",
+        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
+      },
+      "artists": [
+        {
+          "name": "John Days",
+          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/3kZQQ8e85TzwzFLtJTvVz0"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "60 Timeless Classics from the Giants of Traditional Jazz",
         "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 164360,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "16 Grandes \u00c9xitos Instrumentales",
-        "url": "https://open.spotify.com/album/27l2H5cdTFAZt8qTckJJBL"
-      },
-      "artists": [
-        {
-          "name": "John Days",
-          "url": "https://open.spotify.com/artist/381XbRqPbjN6703cLjKXh7"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/3kZQQ8e85TzwzFLtJTvVz0"
     },
     {
       "added_at": "2025-02-14 17:45:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,803 likes - 47 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,819 likes - 47 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 46 | [Go Tell It On The Mountain](https://open.spotify.com/track/6BUM0QcEos9oIxwhYyGLte) | [Stephanie Murere](https://open.spotify.com/artist/1E8h8SdoO4FQeoOkU6yaG6) | [Go Tell It On The Mountain](https://open.spotify.com/album/5agwXEO2uGYmw1yjcTUJlS) | 1:52 |
 | 47 | [Feliz Navidad](https://open.spotify.com/track/6MJpv7POTvRHO1KYlgfSK7) | [Juan Mergilla](https://open.spotify.com/artist/2ZOuDHSAh86zcZITUBggDR) | [Feliz Navidad](https://open.spotify.com/album/7l2ZT8qvOA78NLxorH5cBc) | 2:06 |
 
-Snapshot ID: `AAAAANwkigyRSUv00hRSop0f+WUVOuXS`
+Snapshot ID: `AAAAAC0Hg5DLyp3c53qc5kwwuoNl+N08`

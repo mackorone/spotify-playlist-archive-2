@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "How Promises Become a Chain",
+        "url": "https://open.spotify.com/album/57F3rUwTcNCrNytSPtna68"
+      },
+      "artists": [
+        {
+          "name": "Purple Sway",
+          "url": "https://open.spotify.com/artist/17P6RanMkDBbjn8o0U6qE8"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238474,
+      "name": "A Thing of Beauty",
+      "url": "https://open.spotify.com/track/5EwBHmXkNsrNmG2ehNn33i"
+    },
+    {
+      "album": {
         "name": "About",
         "url": "https://open.spotify.com/album/365c1yvUjRJu5qrLcTdwRp"
       },
@@ -526,6 +544,24 @@
       "duration_ms": 139047,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/3TaaGhgk77jA9uFW8x8PHa"
+    },
+    {
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/4IBnvV3q1beVycqsMJJK0Z"
+      },
+      "artists": [
+        {
+          "name": "The Quiet Part",
+          "url": "https://open.spotify.com/artist/6QKUDaqFHakvfomD79HqSW"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247760,
+      "name": "Afterword",
+      "url": "https://open.spotify.com/track/2v2X9DUk3KrnIpMhstO1dO"
     },
     {
       "album": {
@@ -3653,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Birds of a Feather - Vibey (sunrise mix)",
+        "url": "https://open.spotify.com/album/5kpTXdTC2afppNa1RokdfO"
+      },
+      "artists": [
+        {
+          "name": "Sunset Party",
+          "url": "https://open.spotify.com/artist/0iZJq4OfXSTsfrC7OdUjQh"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153214,
+      "name": "Birds of a Feather - Vibey - sunrise mix",
+      "url": "https://open.spotify.com/track/0S6A6uPwuJfyK1GLXcTv9J"
+    },
+    {
+      "album": {
         "name": "Bitter & Sweet",
         "url": "https://open.spotify.com/album/7MnFDMrgsgf78OLx5MGd0H"
       },
@@ -5709,6 +5763,28 @@
     },
     {
       "album": {
+        "name": "Caught On Exes",
+        "url": "https://open.spotify.com/album/5IhUc154ZsQtMHg5ftXhn9"
+      },
+      "artists": [
+        {
+          "name": "CROSS CITY",
+          "url": "https://open.spotify.com/artist/2YEX28QkrNloZQR3SgVXMh"
+        },
+        {
+          "name": "Yung Ta",
+          "url": "https://open.spotify.com/artist/0BtWJZaHgSsVOp71L14leH"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148153,
+      "name": "Caught On Exes",
+      "url": "https://open.spotify.com/track/52HqdL4Dns407j1I1FmYW0"
+    },
+    {
+      "album": {
         "name": "Celestial Bodies",
         "url": "https://open.spotify.com/album/4rJEHuViByD70eYEVLZCDW"
       },
@@ -7170,6 +7246,24 @@
       "duration_ms": 187750,
       "name": "Crescens",
       "url": "https://open.spotify.com/track/7wtlMSZa22qD7H9hl5Wry9"
+    },
+    {
+      "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/5SSHTB4G7BnLXnYzsMCVyv"
+      },
+      "artists": [
+        {
+          "name": "The Bookends",
+          "url": "https://open.spotify.com/artist/5dbAVxYJulw3E5y9kleiJS"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Crested Hens",
+      "url": "https://open.spotify.com/track/3FmIHRtq54SGnSrLDIrMJs"
     },
     {
       "album": {
@@ -9832,7 +9926,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 182972,
       "name": "Dying Castles",
       "url": "https://open.spotify.com/track/1QdiNGrhuYy9yLshUOwd8j"
@@ -10608,7 +10702,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 210360,
       "name": "Everybody Likes Red",
       "url": "https://open.spotify.com/track/7gpkRDBxFPnf7YNsNnviql"
@@ -13200,7 +13294,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 247595,
       "name": "Galizia",
       "url": "https://open.spotify.com/track/0YsPVTi99s8xMYkqWbpSgd"
@@ -14722,6 +14816,24 @@
       "duration_ms": 194840,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa"
+    },
+    {
+      "album": {
+        "name": "heardnotseen",
+        "url": "https://open.spotify.com/album/62Yv0kJ0WBYEl3iDFaj0qk"
+      },
+      "artists": [
+        {
+          "name": "Curtis Johnson",
+          "url": "https://open.spotify.com/artist/6pnOT8t8mhdbXBHv88mDIH"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "heardnotseen",
+      "url": "https://open.spotify.com/track/0RskYtX5nTYapWF0cK4BRI"
     },
     {
       "album": {
@@ -16438,7 +16550,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 180000,
       "name": "How Have You Been?",
       "url": "https://open.spotify.com/track/7xsIwxf8AojSA4YDnhJDmk"
@@ -17741,6 +17853,24 @@
     },
     {
       "album": {
+        "name": "How Promises Become a Chain",
+        "url": "https://open.spotify.com/album/57F3rUwTcNCrNytSPtna68"
+      },
+      "artists": [
+        {
+          "name": "Purple Sway",
+          "url": "https://open.spotify.com/artist/17P6RanMkDBbjn8o0U6qE8"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226954,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/133vem3TC4oAfvTeZbuy4z"
+    },
+    {
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/1M3PT3o7HRXFfXDdPX7QGp"
       },
@@ -18516,6 +18646,24 @@
       "duration_ms": 153333,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/4DCvSq0xOOKOmGAm0XSMTG"
+    },
+    {
+      "album": {
+        "name": "INFECT",
+        "url": "https://open.spotify.com/album/7lOsm26XYaozRv2Xc3u3zW"
+      },
+      "artists": [
+        {
+          "name": "Mia Matayoshi",
+          "url": "https://open.spotify.com/artist/3xD63Nqw1QM9R7mDTNSXvd"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161658,
+      "name": "INFECT",
+      "url": "https://open.spotify.com/track/4N9VoboPHxxzLWCH9vD1dO"
     },
     {
       "album": {
@@ -21011,6 +21159,28 @@
     },
     {
       "album": {
+        "name": "Live Like Angels (K\u00d8LA Remix)",
+        "url": "https://open.spotify.com/album/69DFvMm9mFebb7oHfqCkYs"
+      },
+      "artists": [
+        {
+          "name": "Asta Bria",
+          "url": "https://open.spotify.com/artist/5c7BkExpyMOnoMXwlTHczQ"
+        },
+        {
+          "name": "K\u00d8LA",
+          "url": "https://open.spotify.com/artist/0dFCTSFnVbtnqXqJLBAzbn"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Live Like Angels - K\u00d8LA Remix",
+      "url": "https://open.spotify.com/track/36hHMhDTHBotSjfyttrfiE"
+    },
+    {
+      "album": {
         "name": "Living",
         "url": "https://open.spotify.com/album/24ULqinNPIMgMQF1Jsdlgb"
       },
@@ -21354,7 +21524,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 199493,
       "name": "Look at my Love - Radio Edit",
       "url": "https://open.spotify.com/track/5IWyskphFSIUtZBlnMWBp6"
@@ -24667,6 +24837,24 @@
     },
     {
       "album": {
+        "name": "Never be the same",
+        "url": "https://open.spotify.com/album/41FtpKOAn1tdHVkghi946e"
+      },
+      "artists": [
+        {
+          "name": "KEV-Y",
+          "url": "https://open.spotify.com/artist/1L7q6Gudwg7tIt03VyACzD"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200596,
+      "name": "Never be the same",
+      "url": "https://open.spotify.com/track/6T4DIBC2qubc3PzzT9VCEx"
+    },
+    {
+      "album": {
         "name": "Never Felt So Long",
         "url": "https://open.spotify.com/album/4WVom736tEY5iBHPV2Nvbs"
       },
@@ -26901,6 +27089,24 @@
     },
     {
       "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/4IBnvV3q1beVycqsMJJK0Z"
+      },
+      "artists": [
+        {
+          "name": "The Quiet Part",
+          "url": "https://open.spotify.com/artist/6QKUDaqFHakvfomD79HqSW"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246120,
+      "name": "Only This",
+      "url": "https://open.spotify.com/track/0w5mhbDQh0MoIoLWrFHhk2"
+    },
+    {
+      "album": {
         "name": "Only Us",
         "url": "https://open.spotify.com/album/0Q7CHtFnknIDlRplfLOoy9"
       },
@@ -26970,6 +27176,24 @@
       "duration_ms": 120070,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5crqZBhECyWYGCziGadL3G"
+    },
+    {
+      "album": {
+        "name": "Open Doors",
+        "url": "https://open.spotify.com/album/5lkgDsP5VMBqlJjv7Uncha"
+      },
+      "artists": [
+        {
+          "name": "Nemz Fola",
+          "url": "https://open.spotify.com/artist/3tiu2p2VD0rXQzuCwlmyLn"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126390,
+      "name": "Open Doors",
+      "url": "https://open.spotify.com/track/2FT4HZWmYRcBYwxfWcK5TD"
     },
     {
       "album": {
@@ -28032,6 +28256,24 @@
       "duration_ms": 194789,
       "name": "Praying To A God - LUKE Remix",
       "url": "https://open.spotify.com/track/4qB9e24mvDa5rG93OnmiC8"
+    },
+    {
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/47n6MiCLhR7VFQVCMoWyNh"
+      },
+      "artists": [
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/63YmhEjnheGc25nio8J0R8"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248987,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/6ds9Cq913QvQA5kXyyDwar"
     },
     {
       "album": {
@@ -31147,6 +31389,24 @@
     },
     {
       "album": {
+        "name": "Extinction",
+        "url": "https://open.spotify.com/album/4uyIxpFKjBAhiFhf2mP5Se"
+      },
+      "artists": [
+        {
+          "name": "USERAUS",
+          "url": "https://open.spotify.com/artist/6zAOW86p336OETXW0GRXjd"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309160,
+      "name": "Siesta Siesta",
+      "url": "https://open.spotify.com/track/1UzEDhLBhHxYFQPP3ILhTS"
+    },
+    {
+      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/3JlHbhYEpLGb1bGl9jLo9h"
       },
@@ -32486,7 +32746,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 238784,
       "name": "STARGAZING",
       "url": "https://open.spotify.com/track/1dYb200lX0Nt5c994WY61P"
@@ -35234,7 +35494,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 298500,
       "name": "The Love I Hide",
       "url": "https://open.spotify.com/track/7LGxi45TzsbLFzxyZt7ptX"
@@ -37204,7 +37464,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 286631,
       "name": "Unplugged",
       "url": "https://open.spotify.com/track/6sDHlEmOphr52UIdZhfJkj"
@@ -40496,7 +40756,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 305977,
       "name": "You'd Be So Proud",
       "url": "https://open.spotify.com/track/7eHkX5GWqtntVEkMwmMF0A"
@@ -40540,6 +40800,24 @@
       "duration_ms": 120000,
       "name": "You'll Be Okay",
       "url": "https://open.spotify.com/track/4tozrFHPJO9xVHvmPWocai"
+    },
+    {
+      "album": {
+        "name": "You're",
+        "url": "https://open.spotify.com/album/230UyXqK1yunCHyRuTdsUD"
+      },
+      "artists": [
+        {
+          "name": "Sharon Eitan",
+          "url": "https://open.spotify.com/artist/2FRmFgrbgc5xA9PFYocQ1K"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215381,
+      "name": "You're",
+      "url": "https://open.spotify.com/track/5EQGDDusNTWhU0RQtRjbQm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-200 songs - 11 hr 16 min
+201 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Metáfora](https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:01 | 2023-09-15 | 2023-11-10 |
 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 | 2025-03-24 |  |
 | [Meu Querubim](https://open.spotify.com/track/2yBr0BtvA0fDD7ciQApe4b) | [Akin](https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv), [Jucy](https://open.spotify.com/artist/4L31ewbdCE5LxYxwGO3oR1) | [Como eu vim parar aqui?](https://open.spotify.com/album/3ZMXh0gQOYgGYGpGQMSNAK) | 5:06 | 2023-09-15 | 2024-01-27 |
+| [Mexe Mexe Mainha](https://open.spotify.com/track/3YpIdOy6IiYiEUgBkJNMXg) | [Cinara](https://open.spotify.com/artist/7Ms4FkcqjvxbIvRezfbvEj) | [Mexe Mexe Mainha](https://open.spotify.com/album/5151241LlOGqP7U9ReOJWn) | 2:02 | 2026-11-23 |  |
 | [Milão](https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX) | [Milão](https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl) | 3:19 | 2024-04-05 | 2024-06-01 |
 | [Minha Casa](https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml) | [Malu Magri](https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7) | [Morrendo de Prazer](https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g) | 4:19 | 2024-09-20 | 2025-09-20 |
 | [MOLHAR](https://open.spotify.com/track/25QN8GH2KpkJT7FLYsMiYO) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [INVERNO](https://open.spotify.com/album/4dABCu9tcbxA1mOqRzdFyX) | 2:10 | 2024-03-29 | 2024-05-25 |
@@ -181,7 +182,7 @@
 | [sinais](https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [rara e Brasileira](https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr) | 3:43 | 2026-03-13 |  |
 | [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2023-09-15 | 2023-09-23 |
 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 | 2023-09-15 | 2025-05-16 |
-| [só \(mais\) uma vez](https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [só \(mais\) uma vez](https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp) | 3:41 | 2025-08-22 |  |
+| [só \(mais\) uma vez](https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [só \(mais\) uma vez](https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp) | 3:41 | 2025-08-22 | 2026-11-24 |
 | [Só Agradecer \- Ao Vivo](https://open.spotify.com/track/5F5zaoD15lYmW3yGB1VNm3) | [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Só Agradecer \(Ao Vivo\)](https://open.spotify.com/album/4GxPHApUC1I89SuDbMiiVX) | 3:59 | 2024-07-05 | 2024-08-24 |
 | [só eu sei](https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [só eu sei](https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo) | 1:55 | 2023-09-15 | 2024-11-29 |
 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 | 2023-09-15 | 2024-06-29 |

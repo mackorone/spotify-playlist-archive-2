@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,514 likes - 83 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,527 likes - 83 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 82 | [COMBAT](https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [COMBAT](https://open.spotify.com/album/42jsGc1o1OVyaLqg0eIr0o) | 4:16 |
 | 83 | [Nothing's Gonna Stop Me Now \- Club Mix](https://open.spotify.com/track/27vDdULgcHCs2BLYQEz17x) | [Samantha Fox](https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa), [Jerry Peal](https://open.spotify.com/artist/3QlSO9e7ChTDzeMnI6cSJ4) | [Samantha Fox \(Deluxe Edition\)](https://open.spotify.com/album/12CMr3rPSq2al1lF4uK3Ev) | 7:00 |
 
-Snapshot ID: `AAAAADPVgM+dRu1L8f2yNJ9Pl0FZW12U`
+Snapshot ID: `AAAAAG6a6861Z6aIYx57f6YlymsobK4M`

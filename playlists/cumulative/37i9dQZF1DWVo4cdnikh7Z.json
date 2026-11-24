@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 195161,
       "name": "Address Ila Emotion (From \"John Doe\")",
       "url": "https://open.spotify.com/track/5ntQ0ESi17hUFReo5deVFp"
@@ -8306,7 +8306,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 128318,
       "name": "Bhairaa\u2019s Rebirth",
       "url": "https://open.spotify.com/track/1E2Oa0irgwbvDsbm2eIO2I"
@@ -9670,7 +9670,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 149975,
       "name": "Cheen Dapak Dum Dum",
       "url": "https://open.spotify.com/track/3ZAPdN85n9SlP4PrmgYedw"
@@ -16012,8 +16012,8 @@
       },
       "artists": [
         {
-          "name": "808Krshna",
-          "url": "https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE"
+          "name": "Adyar Gana Hari",
+          "url": "https://open.spotify.com/artist/1nSTU8aqfCkYSE9juLDhLd"
         }
       ],
       "date_added": "2026-11-20",
@@ -39693,6 +39693,36 @@
     },
     {
       "album": {
+        "name": "Nee Indri (From \"Signal At 11.30\")",
+        "url": "https://open.spotify.com/album/6f5xoUFx6px16eZt707O5K"
+      },
+      "artists": [
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Kabilan",
+          "url": "https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231473,
+      "name": "Nee Indri (From \"Signal At 11.30\")",
+      "url": "https://open.spotify.com/track/4FC2T9QdH1uUnZtypCI6MC"
+    },
+    {
+      "album": {
         "name": "Nee Irukkum (From \"Jama\")",
         "url": "https://open.spotify.com/album/2rVDLsKEQ6zF43RgKr9nJE"
       },
@@ -51244,7 +51274,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 41915,
       "name": "Rise of Mahasakthi",
       "url": "https://open.spotify.com/track/0tNYOyLqZh0vttsvNggdSR"
@@ -63129,6 +63159,36 @@
     },
     {
       "album": {
+        "name": "Unfinished Business (From \"Jailer 2\")",
+        "url": "https://open.spotify.com/album/22Qy1VURjfGdeJVtaiUshm"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Ananthakrrishnan",
+          "url": "https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR"
+        },
+        {
+          "name": "Anand Kashinath",
+          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176249,
+      "name": "Unfinished Business (From \"Jailer 2\")",
+      "url": "https://open.spotify.com/track/7tl2kYuhiDhllO0Nv02mmG"
+    },
+    {
+      "album": {
         "name": "Kadaisi Ulaga Por (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WtnnFU79T9DmcGETED4v5"
       },
@@ -64770,6 +64830,28 @@
       "duration_ms": 205544,
       "name": "Vaa Namakkena",
       "url": "https://open.spotify.com/track/42AaG27qYJuhVGl5e4fKdL"
+    },
+    {
+      "album": {
+        "name": "Vaa Nira song (From \"Never My Ex\")",
+        "url": "https://open.spotify.com/album/72ltEEFExDbFk0gKcNSmR2"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ganesh",
+          "url": "https://open.spotify.com/artist/20TF9zs0MDa4wwUXVFhBLr"
+        },
+        {
+          "name": "Vikram Elangovan",
+          "url": "https://open.spotify.com/artist/39PmHsAyfFgmV7OCTNoHBE"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Vaa Nira song - From \"Never My Ex\"",
+      "url": "https://open.spotify.com/track/7vAi4a18IRpAgm6NpKz9s1"
     },
     {
       "album": {
@@ -69100,6 +69182,24 @@
       "duration_ms": 193952,
       "name": "Who am I",
       "url": "https://open.spotify.com/track/2EmQMi2HLvsIJpzlefyM38"
+    },
+    {
+      "album": {
+        "name": "Who Am I - Elevation Theme (From \"Family Boy\")",
+        "url": "https://open.spotify.com/album/44qdUhzvgFD8onqVNAP3cJ"
+      },
+      "artists": [
+        {
+          "name": "Nirmal JP",
+          "url": "https://open.spotify.com/artist/1KtuB9NZOPer6LCRPG22rf"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43791,
+      "name": "Who Am I - Elevation Theme (From \"Family Boy\")",
+      "url": "https://open.spotify.com/track/3pjlW78grVpTM6lsrA0TBy"
     },
     {
       "album": {

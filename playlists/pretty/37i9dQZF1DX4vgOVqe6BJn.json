@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 437956,
+  "num_followers": 437926,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALqZEC8CUZFy6ID/+jwAZ0JfjcXv",
+  "snapshot_id": "AAAAAACs7PxeKSo/DKHFgNr27BQLc0EX",
   "tracks": [
     {
       "added_at": "2026-09-25 16:48:56",
@@ -727,30 +727,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "JOGA BONITO",
-        "url": "https://open.spotify.com/album/3MxiIcnkAdx7gJg6zvhkId"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Enzo from the Block",
-          "url": "https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Garage",
-      "url": "https://open.spotify.com/track/1UiTxC6y88t1Li8yrIga8F"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "What You Want (Fcukers Remix)",
         "url": "https://open.spotify.com/album/6pTEOWVGMpx8keqO9xRhDC"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 202773,
       "name": "What You Want - Fcukers Remix",
       "url": "https://open.spotify.com/track/0vDEDfoMO57db8lb60xE2s"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "JOGA BONITO",
+        "url": "https://open.spotify.com/album/3MxiIcnkAdx7gJg6zvhkId"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Enzo from the Block",
+          "url": "https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Garage",
+      "url": "https://open.spotify.com/track/1UiTxC6y88t1Li8yrIga8F"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "FITNESS FIRST",
         "url": "https://open.spotify.com/album/62FuCq483syEgtWTFD03zP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 165931,
       "name": "FITNESS FIRST",
       "url": "https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 248709,
-      "name": "Achtung! Optimism",
-      "url": "https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Maybe Not Tonight",
         "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 168456,
       "name": "23",
       "url": "https://open.spotify.com/track/7yBH2DRYZ5zsklX5nseXzK"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 248709,
+      "name": "Achtung! Optimism",
+      "url": "https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Moon And Back",
+        "url": "https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Wagathoni",
+          "url": "https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moon And Back",
+      "url": "https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "\u5186\u76f8 \uff5cEnso",
         "url": "https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 227000,
       "name": "Small Town Life",
       "url": "https://open.spotify.com/track/0pMHeLbRHgky3mGNKqEXHu"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Moon And Back",
-        "url": "https://open.spotify.com/album/0dOt8bZuT1r9sqOxBiEoyx"
-      },
-      "artists": [
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
-        },
-        {
-          "name": "Wagathoni",
-          "url": "https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moon And Back",
-      "url": "https://open.spotify.com/track/1oWgxKqMRdTEMna4ny7Sls"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "It Grows On Trees (Money)",
-        "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv"
-        }
-      ],
-      "duration_ms": 184100,
-      "name": "It Grows On Trees (Money)",
-      "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "TRINITY",
         "url": "https://open.spotify.com/album/48GuVeZZVvfy6lpdprJFlv"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Heaven 2",
-        "url": "https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e"
+        "name": "It Grows On Trees (Money)",
+        "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
       },
       "artists": [
         {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv"
         }
       ],
-      "duration_ms": 209533,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
+      "duration_ms": 184100,
+      "name": "It Grows On Trees (Money)",
+      "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Heaven 2",
+        "url": "https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "Look Into My Eyes",
         "url": "https://open.spotify.com/album/4JoCQNTEXBtF9FdARsICHp"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "In All Of My Tomorrows",
-        "url": "https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 141546,
-      "name": "Ethereal",
-      "url": "https://open.spotify.com/track/0iSLB5okQOzIwzx9vJiDdT"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "PULL!",
         "url": "https://open.spotify.com/album/648lpKLEqArep6MeMl90ae"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 145116,
       "name": "Eyesore",
       "url": "https://open.spotify.com/track/4U34LgBduKiubvUIbqaLmc"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "In All Of My Tomorrows",
+        "url": "https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 141546,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/0iSLB5okQOzIwzx9vJiDdT"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Chien M\u00e9chant",
-        "url": "https://open.spotify.com/album/1Qw8GNSNWGMFT6TMJH7SWb"
-      },
-      "artists": [
-        {
-          "name": "Chien M\u00e9chant",
-          "url": "https://open.spotify.com/artist/3tGEmt91uOUsBANyfWmABd"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "\u00c9toile Filante",
-      "url": "https://open.spotify.com/track/6EuvKVXsQrJa7nePwN7ve7"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "NAFIDA",
         "url": "https://open.spotify.com/album/2y09iaCtieD2Aj1lsEpKvs"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 161260,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/2UjL9PumdAIde8LDN9iwJD"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Chien M\u00e9chant",
+        "url": "https://open.spotify.com/album/1Qw8GNSNWGMFT6TMJH7SWb"
+      },
+      "artists": [
+        {
+          "name": "Chien M\u00e9chant",
+          "url": "https://open.spotify.com/artist/3tGEmt91uOUsBANyfWmABd"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "\u00c9toile Filante",
+      "url": "https://open.spotify.com/track/6EuvKVXsQrJa7nePwN7ve7"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "The Runner",
-        "url": "https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh"
-      },
-      "artists": [
-        {
-          "name": "Carli",
-          "url": "https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "The Runner",
-      "url": "https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "APUESTA AL NEGRO",
         "url": "https://open.spotify.com/album/2Thjjg1KbIfaWJPyQpKnlu"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 149677,
       "name": "POR ESTAS CALLES",
       "url": "https://open.spotify.com/track/41mPzEjgJiP3wifIO6H1tL"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "The Runner",
+        "url": "https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh"
+      },
+      "artists": [
+        {
+          "name": "Carli",
+          "url": "https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "The Runner",
+      "url": "https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn"
     },
     {
       "added_at": "2026-09-25 16:48:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Crispy脆樂團
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,515 likes - 65 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,520 likes - 65 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 64 | [New World](https://open.spotify.com/track/2RvhwjrLMrZsNSsG2uVV8n) | [Sleep Leaps 碎梦飞跃](https://open.spotify.com/artist/6SzldORVMPXulsJFkLqNTL) | [外面是夏天](https://open.spotify.com/album/5zMKN3Q5BK91foqe9MfbSX) | 4:14 |
 | 65 | [dream epiphany](https://open.spotify.com/track/2wIAdT56b9xV84DtPunyHC) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [A Midsummer Night's Dream](https://open.spotify.com/album/11nDJsEuk7zScDtJIGUrzS) | 4:54 |
 
-Snapshot ID: `AAAAAOmQMdQivkrX8E9imVipbPdW++lf`
+Snapshot ID: `AAAAAGVwoSu69r/qC0rwj6syN68eyFdt`

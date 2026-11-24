@@ -4777,6 +4777,24 @@
     },
     {
       "album": {
+        "name": "BLACK SHEEP",
+        "url": "https://open.spotify.com/album/1SsXI4HzkULJ9IgCRNdobu"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249520,
+      "name": "BLACK SHEEP",
+      "url": "https://open.spotify.com/track/68chs4vh0WYHDXrUgxKdWj"
+    },
+    {
+      "album": {
         "name": "Black Stars",
         "url": "https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f"
       },
@@ -38066,7 +38084,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 276706,
       "name": "The Allfather Awakes",
       "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"

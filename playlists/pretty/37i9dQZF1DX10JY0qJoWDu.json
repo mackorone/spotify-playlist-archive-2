@@ -1,12 +1,12 @@
 {
-  "description": "Holiday cheer from your Disney favorites!",
-  "num_followers": 206663,
+  "description": "Make the holiday magic with festive Disney classics and pop hits.",
+  "num_followers": 206773,
   "original_name": "Disney Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACsvoLzhXmGm0h3l1QE3GRnbuLjV",
+  "snapshot_id": "AAAAAKkLtVghZhn00nf77KeMvKp+1aBB",
   "tracks": [
     {
       "added_at": "2025-12-17 18:55:29",
@@ -35,42 +35,6 @@
       "duration_ms": 206506,
       "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
-    },
-    {
-      "added_at": "2025-12-17 18:55:29",
-      "album": {
-        "name": "Winter Dream",
-        "url": "https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Winter Dream",
-      "url": "https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA"
-    },
-    {
-      "added_at": "2025-12-17 18:55:29",
-      "album": {
-        "name": "Disney Channel Holiday",
-        "url": "https://open.spotify.com/album/1A7xeEQISORj0aNqjIdUdv"
-      },
-      "artists": [
-        {
-          "name": "Hannah Montana",
-          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
-        },
-        {
-          "name": "Miley Cyrus as Hannah Montana",
-          "url": "https://open.spotify.com/artist/3NkUVbGU8HjV9CqzfmtwMa"
-        }
-      ],
-      "duration_ms": 142826,
-      "name": "Rockin' Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/6R9qZhOAWrClF5KLPZn8Ht"
     },
     {
       "added_at": "2025-12-17 18:55:29",
@@ -283,38 +247,6 @@
     {
       "added_at": "2025-12-17 18:55:29",
       "album": {
-        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
-      },
-      "artists": [
-        {
-          "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Cast - Olaf's Frozen Adventure",
-          "url": "https://open.spotify.com/artist/5UvAcLn6pAJHjdtA1yVI1A"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 183174,
-      "name": "That Time of Year",
-      "url": "https://open.spotify.com/track/1kEFzZpyfpgBYC0PnODx2F"
-    },
-    {
-      "added_at": "2025-12-17 18:55:29",
-      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0"
       },
@@ -375,6 +307,34 @@
       "duration_ms": 170521,
       "name": "When We're Together",
       "url": "https://open.spotify.com/track/6xsanHBuSwNCTESsldlB0o"
+    },
+    {
+      "added_at": "2025-12-17 18:55:29",
+      "album": {
+        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 118833,
+      "name": "Ring in the Season",
+      "url": "https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt"
     },
     {
       "added_at": "2025-12-17 18:55:29",
@@ -489,6 +449,26 @@
       "url": "https://open.spotify.com/track/5jtvS4uu9odCpRC4XvI29B"
     },
     {
+      "added_at": "2026-11-16 18:00:04",
+      "album": {
+        "name": "Christmas Calls (From Hong Kong Disneyland Resort \"Mickey and Friends' Christmas Surprise\")",
+        "url": "https://open.spotify.com/album/4FvlbVrpLhx2Iw4VnXKDnK"
+      },
+      "artists": [
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        },
+        {
+          "name": "Heather Snare",
+          "url": "https://open.spotify.com/artist/1JTjqgnZfVCibzfBBE5dBq"
+        }
+      ],
+      "duration_ms": 145802,
+      "name": "Christmas Calls - From Hong Kong Disneyland Resort \"Mickey and Friends' Christmas Surprise\"",
+      "url": "https://open.spotify.com/track/39GGTb8dnI9Qdc47lKMTSD"
+    },
+    {
       "added_at": "2025-12-17 18:55:29",
       "album": {
         "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
@@ -543,6 +523,22 @@
     {
       "added_at": "2025-12-17 18:55:29",
       "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "One More Sleep \u2019til Christmas",
+      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
+    },
+    {
+      "added_at": "2025-12-17 18:55:29",
+      "album": {
         "name": "Rockin' Holiday",
         "url": "https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA"
       },
@@ -571,22 +567,6 @@
       "duration_ms": 149877,
       "name": "Chillin' Like a Snowman",
       "url": "https://open.spotify.com/track/0OB9E1FwewopKBgGTEc8Ir"
-    },
-    {
-      "added_at": "2025-12-17 18:55:29",
-      "album": {
-        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
-        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
-      },
-      "artists": [
-        {
-          "name": "Kermit",
-          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "One More Sleep \u2019til Christmas",
-      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
     },
     {
       "added_at": "2025-12-17 18:55:29",
@@ -743,6 +723,22 @@
       "duration_ms": 176093,
       "name": "Shake Santa Shake (from \"Shake It Up\")",
       "url": "https://open.spotify.com/track/5IfCZf4C8zcaww1npKkCn7"
+    },
+    {
+      "added_at": "2025-12-17 18:55:29",
+      "album": {
+        "name": "Winter Dream",
+        "url": "https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Winter Dream",
+      "url": "https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA"
     },
     {
       "added_at": "2025-12-17 18:55:29",
@@ -915,34 +911,6 @@
     {
       "added_at": "2025-12-17 18:55:29",
       "album": {
-        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 118833,
-      "name": "Ring in the Season",
-      "url": "https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt"
-    },
-    {
-      "added_at": "2025-12-17 18:55:29",
-      "album": {
         "name": "Tangled",
         "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
       },
@@ -963,26 +931,6 @@
       "duration_ms": 224240,
       "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl"
-    },
-    {
-      "added_at": "2026-11-16 18:00:04",
-      "album": {
-        "name": "Christmas Calls (From Hong Kong Disneyland Resort \"Mickey and Friends' Christmas Surprise\")",
-        "url": "https://open.spotify.com/album/4FvlbVrpLhx2Iw4VnXKDnK"
-      },
-      "artists": [
-        {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
-        },
-        {
-          "name": "Heather Snare",
-          "url": "https://open.spotify.com/artist/1JTjqgnZfVCibzfBBE5dBq"
-        }
-      ],
-      "duration_ms": 145802,
-      "name": "Christmas Calls - From Hong Kong Disneyland Resort \"Mickey and Friends' Christmas Surprise\"",
-      "url": "https://open.spotify.com/track/39GGTb8dnI9Qdc47lKMTSD"
     },
     {
       "added_at": "2025-12-17 18:55:29",
@@ -1019,6 +967,26 @@
       "duration_ms": 154720,
       "name": "'Zat You, Santa Claus?",
       "url": "https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH"
+    },
+    {
+      "added_at": "2025-12-17 18:55:29",
+      "album": {
+        "name": "Disney Channel Holiday",
+        "url": "https://open.spotify.com/album/1A7xeEQISORj0aNqjIdUdv"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        },
+        {
+          "name": "Miley Cyrus as Hannah Montana",
+          "url": "https://open.spotify.com/artist/3NkUVbGU8HjV9CqzfmtwMa"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/6R9qZhOAWrClF5KLPZn8Ht"
     },
     {
       "added_at": "2025-12-17 18:55:29",
@@ -1203,6 +1171,38 @@
       "duration_ms": 112799,
       "name": "We Wish You a Merry Christmas - From \"The Santa Clauses: Season 2\"",
       "url": "https://open.spotify.com/track/0fMSRi3f7CBLQ6BROBqVhH"
+    },
+    {
+      "added_at": "2025-12-17 18:55:29",
+      "album": {
+        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
+      },
+      "artists": [
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Cast - Olaf's Frozen Adventure",
+          "url": "https://open.spotify.com/artist/5UvAcLn6pAJHjdtA1yVI1A"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 183174,
+      "name": "That Time of Year",
+      "url": "https://open.spotify.com/track/1kEFzZpyfpgBYC0PnODx2F"
     },
     {
       "added_at": "2025-12-17 18:55:29",

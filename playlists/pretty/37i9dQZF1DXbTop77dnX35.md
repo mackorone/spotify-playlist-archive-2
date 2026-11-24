@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  Rema, Olamide, Burna Boy, Deto Blvck, Fameye, Shoday  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,598 likes - 81 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,741 likes - 81 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 33 | [Pressure](https://open.spotify.com/track/2KdoiCTCV2UCnpXUSmC9ey) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Tai Lung](https://open.spotify.com/album/3k0Q5XemuzdiQLlUQiwUDr) | 2:57 |
 | 34 | [My Leader](https://open.spotify.com/track/0zxPaJV4V1NXRlhz33D0NK) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [My Leader](https://open.spotify.com/album/72UBlqAYtTeBMISpVBfUDv) | 3:22 |
 | 35 | [DELUSIONAL](https://open.spotify.com/track/4mt6irOyTgtM55c76PnKpJ) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [DELUSIONAL](https://open.spotify.com/album/4Y9XdN5H6LdM19hr6hLo0p) | 2:30 |
-| 36 | [Plus jahin](https://open.spotify.com/track/1ZpsuOG0eE7wRqzIr9BXYz) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Désmothène Zeus](https://open.spotify.com/album/60fPHO1yeZ4CVHkg2tsD3W) | 2:56 |
+| 36 | [Plus jahin](https://open.spotify.com/track/1ZpsuOG0eE7wRqzIr9BXYz) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Démosthène Zeus](https://open.spotify.com/album/60fPHO1yeZ4CVHkg2tsD3W) | 2:56 |
 | 37 | [Reminder](https://open.spotify.com/track/0dHey8DZjVUpUjTReXSyS1) | [Myx Quest](https://open.spotify.com/artist/6JmBU7YwghMOJWV31Su7Ra), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Reminder](https://open.spotify.com/album/6aHI6aK4gBDKDB9q5dpvUW) | 2:41 |
 | 38 | [Camaro Mi](https://open.spotify.com/track/0ZuLBhj9wKTp4eIxdIDdIM) | [Dragon INC.](https://open.spotify.com/artist/1CFA4mlNiGiqAfrfIdApwu), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Camaro Mi](https://open.spotify.com/album/4zKzzIaD53qwg2CsQoqjW1) | 2:24 |
 | 39 | [Dealer \(feat\. Blaqbonez & TAR1Q\)](https://open.spotify.com/track/11kEtbWHSVbObAyXEkd0pj) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [1823](https://open.spotify.com/album/6tmvMIfqkN9NDqCXtnl0fV) | 2:14 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 80 | [Your Lies](https://open.spotify.com/track/0k65jpxAil63RGVtJDcdfD) | [Debba](https://open.spotify.com/artist/3Upr4OOMVKLF2LoFgBaL5X) | [Your Lies](https://open.spotify.com/album/3vsg9BDGvAeiZv5YEwb4q2) | 3:39 |
 | 81 | [liminal?](https://open.spotify.com/track/3vmGvIxO2H1fIGyq4Q5pbR) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [liminal?](https://open.spotify.com/album/19sZSR3N2gmjYAvYC0i04O) | 2:39 |
 
-Snapshot ID: `AAAAAJJIgRsiExt5agA2kU8VoIr05HBR`
+Snapshot ID: `AAAAAKlc8ig19uuMP95V1LD83c1oDNKk`

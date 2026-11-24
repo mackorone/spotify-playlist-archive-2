@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: Terapia de Parejas, Ahora me entero, Querido P\u00edcaro, Chronically Online y Pareja in Crime.\n\nEn portada, Chronically Online",
+  "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: Terapia de Parejas, Ahora me entero, Querido P\u00edcaro, Chronically Online y Pareja in Crime.\n\nEn portada, Pareja in Crime",
   "name": "RADAR Creators Espa\u00f1a",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 2479082,
       "name": "Caso 42 - Chiara Poggi: 19 a\u00f1os de dudas en el Caso Garlasco (Garlasco, 2007)",
       "url": "https://open.spotify.com/episode/7Bnc4aECLW5SU0KnOprpod"
@@ -718,10 +718,46 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 3894592,
       "name": "Caso 44 - O.J. Simpson: El Juicio del Siglo (Los \u00c1ngeles, 1994)",
       "url": "https://open.spotify.com/episode/1IlcnGloWVfQVzRzbz5hNJ"
+    },
+    {
+      "album": {
+        "name": "Pareja in Crime",
+        "url": "https://open.spotify.com/album/5kZoxoTKOrVIB5oM5Wgp9w"
+      },
+      "artists": [
+        {
+          "name": "Pareja in Crime",
+          "url": "https://open.spotify.com/show/5kZoxoTKOrVIB5oM5Wgp9w"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2077888,
+      "name": "Caso 48 - El crimen de Pazos (Ver\u00edn, 2015)",
+      "url": "https://open.spotify.com/episode/1vy4UqRDWuxJldUdhzI3lI"
+    },
+    {
+      "album": {
+        "name": "Pareja in Crime",
+        "url": "https://open.spotify.com/album/5kZoxoTKOrVIB5oM5Wgp9w"
+      },
+      "artists": [
+        {
+          "name": "Pareja in Crime",
+          "url": "https://open.spotify.com/show/5kZoxoTKOrVIB5oM5Wgp9w"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2636522,
+      "name": "Caso 49 - El Crimen de Fago: La emboscada que sacudi\u00f3 a un pueblo (Fago, 2007)",
+      "url": "https://open.spotify.com/episode/7fgcAwV8JJEoybA58cv8hJ"
     },
     {
       "album": {
@@ -880,7 +916,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 5707840,
       "name": "Crimin\u00f3loga: Los 10 ASESINOS que parec\u00edan personas NORMALES",
       "url": "https://open.spotify.com/episode/5sb48xs3rsNNz9X0px7SK6"
@@ -902,6 +938,24 @@
       "duration_ms": 3189415,
       "name": "Cuerpas, biopol\u00edtica y autogobierno",
       "url": "https://open.spotify.com/episode/3Mtoj1XmLinwf8M9fJNTCw"
+    },
+    {
+      "album": {
+        "name": "Chronically Online",
+        "url": "https://open.spotify.com/album/6YJ5u4yr0YLStYDWRMSZHB"
+      },
+      "artists": [
+        {
+          "name": "Chronically Online",
+          "url": "https://open.spotify.com/show/6YJ5u4yr0YLStYDWRMSZHB"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2422189,
+      "name": "C\u00f3mo CASI perdemos a DEMI LOVATO \u2013 01x24 Chronically Online",
+      "url": "https://open.spotify.com/episode/65aLGArjxjX1UnZC7WSFFC"
     },
     {
       "album": {
@@ -1013,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Querido P\u00eccaro",
+        "url": "https://open.spotify.com/album/6ARmhjqBizRxdXqVWgVgQZ"
+      },
+      "artists": [
+        {
+          "name": "Querido P\u00eccaro",
+          "url": "https://open.spotify.com/show/6ARmhjqBizRxdXqVWgVgQZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1838022,
+      "name": "El arte del golismeo, la labor de los profesores y so\u00f1ar con traumas con Berry Berryuca | QP 2X06",
+      "url": "https://open.spotify.com/episode/0ZWsveUiptVLnB8xxViVh8"
+    },
+    {
+      "album": {
         "name": "La Cr\u00f3nica Oscura",
         "url": "https://open.spotify.com/album/1gIOIXYHYKdu2osi0eNsBc"
       },
@@ -1085,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Querido P\u00eccaro",
+        "url": "https://open.spotify.com/album/6ARmhjqBizRxdXqVWgVgQZ"
+      },
+      "artists": [
+        {
+          "name": "Querido P\u00eccaro",
+          "url": "https://open.spotify.com/show/6ARmhjqBizRxdXqVWgVgQZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2167791,
+      "name": "El futuro del pa\u00eds, el 'phubbing postcoital' y vivir el presente con Alpilpil | QP 2X04",
+      "url": "https://open.spotify.com/episode/3hZquFQt83kTHd5M943KmY"
+    },
+    {
+      "album": {
         "name": "La Cr\u00f3nica Oscura",
         "url": "https://open.spotify.com/album/1gIOIXYHYKdu2osi0eNsBc"
       },
@@ -1114,7 +1204,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 2384362,
       "name": "El verdadero LOVERS TO ENEMIES, CHRISTINA AGUILERA Y EMINEM \u201306x01 Chronically Online",
       "url": "https://open.spotify.com/episode/6aa1NDcdTYHrEYqspJyccS"
@@ -1366,7 +1456,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 1764134,
       "name": "Gays and girls, la macho masculinidad y el fin del romanticismo con Tigrillo | Querido P\u00eccaro 1X07",
       "url": "https://open.spotify.com/episode/4eiBa975ujaSaVLTi7dqtw"
@@ -1445,6 +1535,42 @@
     },
     {
       "album": {
+        "name": "Querido P\u00eccaro",
+        "url": "https://open.spotify.com/album/6ARmhjqBizRxdXqVWgVgQZ"
+      },
+      "artists": [
+        {
+          "name": "Querido P\u00eccaro",
+          "url": "https://open.spotify.com/show/6ARmhjqBizRxdXqVWgVgQZ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1986931,
+      "name": "La comedia espa\u00f1ola, envejecer sin dignidad y comer huevos duros con Iggy Rub\u00edn | QP 2X05",
+      "url": "https://open.spotify.com/episode/27gvRgWoo6GgO6DVj3jkYX"
+    },
+    {
+      "album": {
+        "name": "Chronically Online",
+        "url": "https://open.spotify.com/album/6YJ5u4yr0YLStYDWRMSZHB"
+      },
+      "artists": [
+        {
+          "name": "Chronically Online",
+          "url": "https://open.spotify.com/show/6YJ5u4yr0YLStYDWRMSZHB"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2311407,
+      "name": "La DESTRUCCI\u00d3N de una estrella Disney, DEMI LOVATO \u2013 01x23 Chronically Online",
+      "url": "https://open.spotify.com/episode/5Em5n7YSlKK4YqV3MeBSj2"
+    },
+    {
+      "album": {
         "name": "Te la pinto",
         "url": "https://open.spotify.com/album/7h7Ol2q5eruuobw526Ao6k"
       },
@@ -1492,10 +1618,28 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 1998216,
       "name": "La reina de realities, Paris Hilton \u2013 01x18 Chronically Online",
       "url": "https://open.spotify.com/episode/26RKr4Ys788VymE1ro3sK3"
+    },
+    {
+      "album": {
+        "name": "Chronically Online",
+        "url": "https://open.spotify.com/album/6YJ5u4yr0YLStYDWRMSZHB"
+      },
+      "artists": [
+        {
+          "name": "Chronically Online",
+          "url": "https://open.spotify.com/show/6YJ5u4yr0YLStYDWRMSZHB"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2353644,
+      "name": "La turbulenta relaci\u00f3n de KHLOE KARDASHIAN y TRISTAN THOMPSON \u2013 01x22 Chronically Online",
+      "url": "https://open.spotify.com/episode/518q9ZhBslGyAIlM2q7IRh"
     },
     {
       "album": {
@@ -1733,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Ahora me entero",
+        "url": "https://open.spotify.com/album/1KOIc2AOrYJMsYn56kWiZg"
+      },
+      "artists": [
+        {
+          "name": "Ahora me entero",
+          "url": "https://open.spotify.com/show/1KOIc2AOrYJMsYn56kWiZg"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5780608,
+      "name": "Me obligaron a CASARME con mi PRIMO en MARRUECOS",
+      "url": "https://open.spotify.com/episode/4LnCXnryijnUCxQFkeGiit"
+    },
+    {
+      "album": {
         "name": "Coquetas y Bravas",
         "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
       },
@@ -1780,7 +1942,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 6777365,
       "name": "Negociador de SECUESTROS y CRISIS: as\u00ed convenzo a personas ARMADAS",
       "url": "https://open.spotify.com/episode/6lVdFb96MySOTxFDX0hydl"
@@ -1859,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Pareja in Crime",
+        "url": "https://open.spotify.com/album/5kZoxoTKOrVIB5oM5Wgp9w"
+      },
+      "artists": [
+        {
+          "name": "Pareja in Crime",
+          "url": "https://open.spotify.com/show/5kZoxoTKOrVIB5oM5Wgp9w"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589440,
+      "name": "Pasaporte en Serie #14: Robert Pickton - Las desaparecidas de Vancouver",
+      "url": "https://open.spotify.com/episode/7LKNgvOvwRcZoiu8mv5myV"
+    },
+    {
+      "album": {
         "name": "Sobran Las Palabras Podcast",
         "url": "https://open.spotify.com/album/0cTWV2uMImJk9I9Vuq6ei9"
       },
@@ -1895,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Ahora me entero",
+        "url": "https://open.spotify.com/album/1KOIc2AOrYJMsYn56kWiZg"
+      },
+      "artists": [
+        {
+          "name": "Ahora me entero",
+          "url": "https://open.spotify.com/show/1KOIc2AOrYJMsYn56kWiZg"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5759765,
+      "name": "Psic\u00f3loga Criminal Revela c\u00f3mo funciona la mente de un PSIC\u00d3PATA",
+      "url": "https://open.spotify.com/episode/5XDWLu1aswFM7E2MIp4t67"
+    },
+    {
+      "album": {
         "name": "Querido P\u00eccaro",
         "url": "https://open.spotify.com/album/6ARmhjqBizRxdXqVWgVgQZ"
       },
@@ -1906,7 +2104,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 1461671,
       "name": "Segundas oportunidades, amores imposibles y ser nud1sta con Marta Jim\u00e9nez | Querido P\u00eccaro 1X09",
       "url": "https://open.spotify.com/episode/5tj50jagD7shEYbWchqyGD"
@@ -2066,9 +2264,63 @@
           "url": "https://open.spotify.com/show/6V7gzGJwYsHg4uJOCPM7C1"
         }
       ],
-      "date_added": "2026-10-20",
+      "date_added": "2026-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 6377289,
+      "name": "Terapia de Parejas - 918 - Dej\u00e9 a MI PROMETIDO por un ROBO",
+      "url": "https://open.spotify.com/episode/1UWXElU2n91i20pFEsHYrK"
+    },
+    {
+      "album": {
+        "name": "Terapia de Parejas",
+        "url": "https://open.spotify.com/album/6V7gzGJwYsHg4uJOCPM7C1"
+      },
+      "artists": [
+        {
+          "name": "Terapia de Parejas",
+          "url": "https://open.spotify.com/show/6V7gzGJwYsHg4uJOCPM7C1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6991805,
+      "name": "Terapia de Parejas - 919 - Los EX-NOVIOS en la BODA",
+      "url": "https://open.spotify.com/episode/3hl14z4pjQK90ZYzr4eUzK"
+    },
+    {
+      "album": {
+        "name": "Terapia de Parejas",
+        "url": "https://open.spotify.com/album/6V7gzGJwYsHg4uJOCPM7C1"
+      },
+      "artists": [
+        {
+          "name": "Terapia de Parejas",
+          "url": "https://open.spotify.com/show/6V7gzGJwYsHg4uJOCPM7C1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7534247,
+      "name": "Terapia de Parejas - 920 - Pero la L\u00c1MPARA se ve\u00eda RARA",
+      "url": "https://open.spotify.com/episode/2DaX1rGnR70tNWtprcliUa"
+    },
+    {
+      "album": {
+        "name": "Terapia de Parejas",
+        "url": "https://open.spotify.com/album/6V7gzGJwYsHg4uJOCPM7C1"
+      },
+      "artists": [
+        {
+          "name": "Terapia de Parejas",
+          "url": "https://open.spotify.com/show/6V7gzGJwYsHg4uJOCPM7C1"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-24",
       "duration_ms": 8221116,
       "name": "Terapia de Parejas - 925 - QUIERO que mi MUJER cocine PARA MI",
       "url": "https://open.spotify.com/episode/2WxYBWLw6vIR0i90LtOL05"
@@ -2086,7 +2338,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 7855495,
       "name": "Terapia de Parejas - 926 - Por CULPA del COLOR de un VESTIDO",
       "url": "https://open.spotify.com/episode/5veICDHmyBLIqctGtIcHrX"
@@ -2144,6 +2396,24 @@
       "duration_ms": 1825322,
       "name": "T\u00e9cnicas de resoluci\u00f3n de conflictos | Ep.138",
       "url": "https://open.spotify.com/episode/1YeqrB4MerU6FyFDDMQiei"
+    },
+    {
+      "album": {
+        "name": "Ahora me entero",
+        "url": "https://open.spotify.com/album/1KOIc2AOrYJMsYn56kWiZg"
+      },
+      "artists": [
+        {
+          "name": "Ahora me entero",
+          "url": "https://open.spotify.com/show/1KOIc2AOrYJMsYn56kWiZg"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6054250,
+      "name": "Un FRANCOTIRADOR me dispar\u00f3 en SIRIA con 14 a\u00f1os: As\u00ed sobreviv\u00ed",
+      "url": "https://open.spotify.com/episode/2vWq2fMnjPlDIyJiVMcZpu"
     },
     {
       "album": {

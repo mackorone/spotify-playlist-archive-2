@@ -6390,7 +6390,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -6412,7 +6412,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -9748,7 +9748,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 257713,
       "name": "LA GRACIOSA",
       "url": "https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw"
@@ -11700,6 +11700,24 @@
       "duration_ms": 159480,
       "name": "Matatan",
       "url": "https://open.spotify.com/track/7jaYm0oq552xugGmOeE6w5"
+    },
+    {
+      "album": {
+        "name": "Me Estoy Muriendo Por Ti",
+        "url": "https://open.spotify.com/album/7zYazof9SLkGn5fbKmnrvc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aliados",
+          "url": "https://open.spotify.com/artist/1KaZPQvuCDd6IDO82937MJ"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198073,
+      "name": "Me Estoy Muriendo por Ti",
+      "url": "https://open.spotify.com/track/12cf6I6Nb8T0Lpqo2xzXSa"
     },
     {
       "album": {
@@ -16152,7 +16170,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Quien Dir\u00eda",
       "url": "https://open.spotify.com/track/2tGOrCgMZX4ht7tmCzNzPL"
@@ -17081,6 +17099,24 @@
     },
     {
       "album": {
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/47OsO3TSiXsdsEY4UoH19h"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249030,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/2EsuDnVRUz7LwJI2TrSv6L"
+    },
+    {
+      "album": {
         "name": "Se Te Nota (with Guaynaa)",
         "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
       },
@@ -17364,7 +17400,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -19322,7 +19358,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -19541,6 +19577,24 @@
     },
     {
       "album": {
+        "name": "A Bailar La Cumbia - 20 Exitos",
+        "url": "https://open.spotify.com/album/3FjqHiHNgX8z1TyI2q9x0j"
+      },
+      "artists": [
+        {
+          "name": "Tropical Caribe",
+          "url": "https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200013,
+      "name": "Tomame O Dejame",
+      "url": "https://open.spotify.com/track/5IuY6IXvQPdrxB45f1gLvL"
+    },
+    {
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -19756,7 +19810,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,637 likes - 150 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,644 likes - 150 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 13 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 |
 | 14 | [Summer Nights](https://open.spotify.com/track/61S3v0zujG9J171zdMEap7) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Pacific Coast Highway](https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ) | 3:58 |
 | 15 | [Still Lovin' You](https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Feelin' It](https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l) | 4:13 |
-| 16 | [Infinite Love](https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Infinite Love](https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25) | 4:17 |
-| 17 | [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 |
-| 18 | [Echoes of the Heart](https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 3:58 |
+| 16 | [Echoes of the Heart](https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 3:58 |
+| 17 | [Infinite Love](https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Infinite Love](https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25) | 4:17 |
+| 18 | [Deep Blue C](https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Deep Blue C](https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0) | 4:26 |
 | 19 | [Fall For You](https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Fall For You](https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV) | 4:32 |
 | 20 | [10\. Soul Dream](https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh) | 5:02 |
 | 21 | [Revolving Door](https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:47 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 56 | [Adriatic Flow](https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Adriatic Flow](https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5) | 4:07 |
 | 57 | [Lavish](https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh) | [Special EFX](https://open.spotify.com/artist/5xUKGtiP4KvMEJWSQ72SyZ) | [Lavish](https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr) | 4:05 |
 | 58 | [Just Once \(Radio Edit\)](https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Just Once \(Radio Edit\)](https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t) | 4:04 |
-| 59 | [So Many Ways](https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [So Many Ways](https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw) | 4:07 |
-| 60 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
+| 59 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
+| 60 | [So Many Ways](https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [So Many Ways](https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw) | 4:07 |
 | 61 | [Sweet Kisses](https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Limitless](https://open.spotify.com/album/3iE43BPltF4nvTGrSynFLL) | 4:54 |
 | 62 | [The B Spot](https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:59 |
 | 63 | [Can't Stop](https://open.spotify.com/track/2vBjecyzspx6GsoL3FU6mF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Escape](https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T) | 4:40 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 70 | [Stylin'](https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e) | [Gregory Goodloe](https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY) | [Stylin'](https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c) | 4:07 |
 | 71 | [Release](https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Release](https://open.spotify.com/album/7xjP0qV8h62UHwown45INg) | 4:52 |
 | 72 | [In Key](https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu) | [Spur Of The Moment](https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe) | [Out Of The Shadows](https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf) | 4:41 |
-| 73 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 |
-| 74 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 |
+| 73 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 |
+| 74 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 |
 | 75 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 |
 | 76 | [Sippin the Yak](https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [Sippin the Yak](https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx) | 4:27 |
 | 77 | [Zephyr](https://open.spotify.com/track/7H8SthzNfUQphbs96I2Gfs) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Coevolve](https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT) | 4:53 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 |
 | 150 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 |
 
-Snapshot ID: `AAAAAP8fYjo4gk2wMPYYfpiwiHXWqMmD`
+Snapshot ID: `AAAAALjGzJmJaa1vlXby1Ya8ydQldf7k`

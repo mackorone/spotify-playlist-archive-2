@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 39,374 likes - 211 songs - 12 hr 5 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 39,414 likes - 212 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,5 +219,6 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 | 209 | [In Violet](https://open.spotify.com/track/7z79MoOyPZFBvBlfkkfaPB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 4:09 |
 | 210 | [Die Happy](https://open.spotify.com/track/3EVLd2B0qKPCGItoVz9onn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:49 |
 | 211 | [I've Seen It](https://open.spotify.com/track/6tHVEMyRfxGgQuXRzl2yOF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:06 |
+| 212 | [Voorbestemde Wegen](https://open.spotify.com/track/3d0ORih3jwKq6dGdFKKMu2) | [Ralph Moerman](https://open.spotify.com/artist/1KnT4e4f38872CbGkEo3UR) | [Voorbestemde Wegen](https://open.spotify.com/album/2aMTTK0moioPgS12ZGSsgn) | 3:58 |
 
-Snapshot ID: `AAAR/ecuA88NMENbtAdrWXGvWMJGTUpo`
+Snapshot ID: `AAAR/mqVxawRSJyfug+ZvfdraglRRmfh`

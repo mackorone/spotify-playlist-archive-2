@@ -4,7 +4,7 @@
 
 > Het zomergevoel met Nederlandstalig ☀️🧡\. Cover: Justen de Wildt
 
-159 songs - 7 hr 29 min
+160 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alles](https://open.spotify.com/track/3M6C5q9Eh6xtWymtQLjH4V) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Senna](https://open.spotify.com/album/0K3ZI0ZK70IC77HdYsomsG) | 2:46 | 2026-07-07 | 2026-09-08 |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-01 |  |
 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 | 2026-04-07 |  |
-| [Alles Wat Ik Zoek](https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Alles Wat Ik Zoek](https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3) | 3:07 | 2026-04-07 |  |
+| [Alles Wat Ik Zoek](https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Alles Wat Ik Zoek](https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3) | 3:07 | 2026-04-07 | 2026-11-24 |
 | [Als De Zon Schijnt](https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr) | [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Als De Zon Schijnt](https://open.spotify.com/album/6ksMXdJiJxIwCKL59GCxrH) | 2:17 | 2026-05-26 |  |
 | [Als Ik Aan De Laatste Zit](https://open.spotify.com/track/6K18CnzVJB2GImrUaYhFhp) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Als Ik Aan De Laatste Zit](https://open.spotify.com/album/3oKjGiy4uBk4NGraTDv24P) | 2:41 | 2026-08-17 | 2026-11-11 |
 | [Als Ik Je Weer Zie](https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Als Ik Je Weer Zie](https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI) | 3:27 | 2025-07-01 | 2026-07-08 |
@@ -140,6 +140,7 @@
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2025-07-01 | 2026-04-08 |
 | [Vespa](https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Vespa](https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb) | 3:04 | 2026-07-07 | 2026-09-08 |
 | [Viva Cerveza](https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Viva Cerveza](https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD) | 3:26 | 2025-07-01 |  |
+| [Vlinders](https://open.spotify.com/track/1kYo0gziAjD4oe9iHWQLr3) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Vlinders](https://open.spotify.com/album/71is3fQG4sfVH8pbOLCssp) | 2:32 | 2026-11-23 |  |
 | [Volare](https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Innamorato](https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD) | 3:40 | 2026-08-17 | 2026-11-11 |
 | [Voor de straten](https://open.spotify.com/track/1KEnIOAe6vLqj7uNvLOCn9) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Voor de straten](https://open.spotify.com/album/4LpLWzuQmZD581Z1NPyQtD) | 2:33 | 2026-04-07 | 2026-06-16 |
 | [Vuurwerk](https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Vuurwerk](https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf) | 3:04 | 2026-07-07 | 2026-09-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Marvin x Senyss
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,661 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,680 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 4 | [10/10](https://open.spotify.com/track/15fNl35Exi0tYvGAmDXtBP) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Yohan](https://open.spotify.com/artist/4W5SzASne4jBSoSzCqEWzq) | [10/10](https://open.spotify.com/album/59yQwKHVPpNV1FGWri7IDV) | 2:43 |
 | 5 | [ONE TRACK MIND \- PART II](https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [ONE TRACK MIND \(PART II\)](https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh) | 2:40 |
 | 6 | [Ya Niveau](https://open.spotify.com/track/3fuOvo1vjbEaS0CqYsUbnp) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Ya Niveau](https://open.spotify.com/album/2nVTZCOe6fXurXhs9IPhTY) | 3:10 |
-| 7 | [Remords](https://open.spotify.com/track/0cTd6SCChFtwveoerTW4qR) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Remords](https://open.spotify.com/album/5Id4bDWsdu8cTRsklAG6ke) | 4:43 |
+| 7 | [Remords](https://open.spotify.com/track/0cTd6SCChFtwveoerTW4qR) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [DJ Fopop](https://open.spotify.com/artist/6xb8UtFCeK7uIpeZ0Ld972) | [Remords](https://open.spotify.com/album/5Id4bDWsdu8cTRsklAG6ke) | 4:43 |
 | 8 | [Tes mots](https://open.spotify.com/track/3n0LFME8XILdU1WcCAg37A) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [Tes mots](https://open.spotify.com/album/11NX2XtA4FYWLSPSiz0HkN) | 3:03 |
 | 9 | [Rihanna](https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Rihanna](https://open.spotify.com/album/7jvhFuArohMk5JOGfhH84L) | 3:28 |
 | 10 | [NOUS](https://open.spotify.com/track/2rJRrn9zybkjvUifLB83Su) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY), [Stony](https://open.spotify.com/artist/28aqPACWUpArqc9MVJIOv6) | [NOUS](https://open.spotify.com/album/1CSLMxZzyF03Gfe17boyZF) | 3:13 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [DON'T CARE](https://open.spotify.com/track/5kYQ0GagBehowLHQOvlXQY) | [Dj Blax](https://open.spotify.com/artist/44VNFYznTUZXUy2b0KMhZx), [Tamillia](https://open.spotify.com/artist/5yjlPxR2NMOjm2JiHtJR3Q) | [DON'T CARE](https://open.spotify.com/album/2nNnIqw4MROGSDYiXhnY28) | 2:12 |
 | 40 | [Bandit](https://open.spotify.com/track/2dkfeyEWCbCCYgfXqlN2u0) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Bandit](https://open.spotify.com/album/0smJ1wGocZWRvZX5ZpzmSF) | 3:18 |
 
-Snapshot ID: `AAAAAOSZ3B2jJyhBZmEk+bZZ/iQ0c08t`
+Snapshot ID: `AAAAAB3oSXs/yk0Cmsj0FhktiTQo6uR5`

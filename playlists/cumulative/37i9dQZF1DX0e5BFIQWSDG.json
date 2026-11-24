@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "2310",
+        "url": "https://open.spotify.com/album/0z9vHNH2KQtFXBEGu89VQH"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "Lived",
+          "url": "https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196010,
+      "name": "2310",
+      "url": "https://open.spotify.com/track/35wM6XldbiFkUEFkHh9S7U"
+    },
+    {
+      "album": {
         "name": "G.T.K.",
         "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
       },
@@ -2423,6 +2445,32 @@
     },
     {
       "album": {
+        "name": "BEYONC\u00c9",
+        "url": "https://open.spotify.com/album/3JysBTsuV4EYp6pX6U4PT0"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159849,
+      "name": "BEYONC\u00c9",
+      "url": "https://open.spotify.com/track/1Xg8TwV1fuooICDTuOA9fN"
+    },
+    {
+      "album": {
         "name": "Big Moves (Vol. 5)",
         "url": "https://open.spotify.com/album/747EY8D8c4okD7qyfWOKNt"
       },
@@ -4388,7 +4436,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 166875,
       "name": "Ela Poios?",
       "url": "https://open.spotify.com/track/6TgFF0enkF3Fp8h5CzXLE9"
@@ -5944,7 +5992,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 157500,
       "name": "GOUSTAREI",
       "url": "https://open.spotify.com/track/4lImgorP9eA6MqjZzDJVQ4"
@@ -9724,7 +9772,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 159660,
       "name": "OLA",
       "url": "https://open.spotify.com/track/10HdOwmrZ9IrX9vYIfXNKZ"
@@ -10470,6 +10518,28 @@
       "duration_ms": 165288,
       "name": "PARE DOSE",
       "url": "https://open.spotify.com/track/3gTqUQql07sL6Eutx82ZQV"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/0YQNRWc1QiFrDZLdOLozjE"
+      },
+      "artists": [
+        {
+          "name": "Merko",
+          "url": "https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166168,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6ZRoikFxCekpUFknCO0HFB"
     },
     {
       "album": {
@@ -11710,7 +11780,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 138240,
       "name": "ROLEX",
       "url": "https://open.spotify.com/track/5cmKbslP4SeZR84cMCKkyO"
@@ -14988,6 +15058,28 @@
       "duration_ms": 209310,
       "name": "ZELJKO",
       "url": "https://open.spotify.com/track/4TiuDw2IxnpGAYtLDODAbG"
+    },
+    {
+      "album": {
+        "name": "ZORO",
+        "url": "https://open.spotify.com/album/6t6bDv7wKWaO8bXnvZiNml"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200233,
+      "name": "ZORO",
+      "url": "https://open.spotify.com/track/3dXIOrX6ixec2EcZsGcsjw"
     },
     {
       "album": {

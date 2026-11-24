@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Olivia Rodrigo
 
-1,226 songs - 2 day 17 hr 35 min
+1,227 songs - 2 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 | 2021-12-24 | 2022-09-28 |
 | [Home For Christmas](https://open.spotify.com/track/1ZRiviWvQQt7y38kvaaNHY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Home For Christmas](https://open.spotify.com/album/17cUUrg6kF2dMo44VBkAYN) | 2:18 | 2026-11-20 |  |
 | [Home For Christmas \- Reimagined](https://open.spotify.com/track/2C9FVbr3IRWBqzdNaun1I3) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Home For Christmas \(Reimagined\)](https://open.spotify.com/album/0pRJJQH0y2GwybL5xQUMFp) | 3:17 | 2026-11-13 |  |
+| [Home for Hanukkah](https://open.spotify.com/track/41DGQLehCcKYmINUD00LzJ) | [Kate Yeager](https://open.spotify.com/artist/0vs48tvMDwDmDLbnQ95TJQ) | [HBM Presents: Sleigh The Holidays, Vol\. 3](https://open.spotify.com/album/0V9C2rzujjBCLDDtIAzRZK) | 2:45 | 2026-11-23 |  |
 | [Home for the Holidays](https://open.spotify.com/track/50hymMrSfeJMzMhNU4I1lO) | [Lexi Cline](https://open.spotify.com/artist/6lEoCGXHaKRE9SjA3qZIIr) | [Home for the Holidays](https://open.spotify.com/album/1vN0txcf2OlDWBZTHLnGqu) | 3:28 | 2024-11-29 | 2025-09-27 |
 | [Home for the Holidays](https://open.spotify.com/track/1RFCzbcBvzpq4Jpq3sGWfT) | [The Bean Tones](https://open.spotify.com/artist/6Wxb4Zhq1Q5WEuwEntvCIZ) | [Home for the Holidays](https://open.spotify.com/album/17AauVY9n57kXBJSGpGcT9) | 3:21 | 2025-12-16 | 2026-10-15 |
 | [Home On Christmas](https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Home On Christmas](https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv) | 2:32 | 2022-11-11 | 2023-10-04 |

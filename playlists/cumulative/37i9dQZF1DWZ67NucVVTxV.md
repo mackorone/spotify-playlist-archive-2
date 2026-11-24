@@ -4,7 +4,7 @@
 
 > My enemy na sapa
 
-961 songs - 1 day 21 hr 20 min
+962 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Big Man](https://open.spotify.com/track/64AIGkXqeAcQ6qD0beLfWu) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jay Teazer](https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl) | [Strange Vibes](https://open.spotify.com/album/1nlolPM5eKVhJi8s0lX9Ja) | 3:05 | 2021-12-09 | 2023-01-20 |
 | [Big Money](https://open.spotify.com/track/5cKpgv19Uh2kwWM29Q5YNp) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Big Money](https://open.spotify.com/album/1kXCtMduX4ysnZnIfEdBBA) | 2:18 | 2022-09-19 | 2022-10-14 |
 | [BIG TIME \(feat\. Wizkid\)](https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 3:26 | 2025-10-10 |  |
+| [Bigger \(from GTAVI: The Album\)](https://open.spotify.com/track/4BDrbdeodpenlrORv4yqnc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Bigger \(from GTAVI: The Album\)](https://open.spotify.com/album/6hkaerWZMubBWwyTDJP8J3) | 2:49 | 2026-11-23 |  |
 | [Bigger Than Life](https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Bigger Than Life](https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G) | 2:40 | 2022-06-30 | 2022-08-06 |
 | [Billing](https://open.spotify.com/track/5Uf7FM6gBCvAp8NRXEeghY) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Billing](https://open.spotify.com/album/453klLTlEAFDEBFvJiR3Xw) | 2:45 | 2022-07-28 | 2023-07-01 |
 | [Billion Dollar](https://open.spotify.com/track/2Se3sIu5cf3iVbZ7XFgmgZ) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Realness Over Hype](https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW) | 3:07 | 2024-03-29 | 2024-05-10 |
@@ -968,6 +969,6 @@
 | [Zuckerberg](https://open.spotify.com/track/64dSBPStmr9UUeEqWq4uJD) | [JoulesDaKid](https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV) | [University Of Lamba \(Deluxe Version\)](https://open.spotify.com/album/4m9TS7WFjGlRebIcFU0MYX) | 3:28 | 2025-11-14 | 2026-01-23 |
 | [Àjàlá Travel \(Remix\)](https://open.spotify.com/track/5SBpWlMbFWtW8XKh6mOWFp) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Àjàlá Travel \(Remix\)](https://open.spotify.com/album/2DsBLOT4nk3UjFq80hw3Pz) | 3:19 | 2022-05-05 | 2022-10-31 |
 | [Àjàlá Travel \(Remix\)](https://open.spotify.com/track/7vECPXXTtBOScFvOyOE8jn) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Àjàlá Travel \(Remix\)](https://open.spotify.com/album/3C8imbIaltvztxhHnVOuOu) | 3:19 | 2022-05-05 | 2022-10-02 |
-| [Óri Mi](https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI) | [Gäby](https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Óri Mi](https://open.spotify.com/album/121GR2YemARVcJLRYganqy) | 1:23 | 2026-11-20 |  |
+| [Óri Mi](https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI) | [Gäby](https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Óri Mi](https://open.spotify.com/album/121GR2YemARVcJLRYganqy) | 1:23 | 2026-11-20 | 2026-11-24 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

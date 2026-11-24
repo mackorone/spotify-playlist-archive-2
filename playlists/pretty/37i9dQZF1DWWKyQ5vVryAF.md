@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKyQ5vVryAF.md) - [plain]
 | 29 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 |
 | 30 | [I Love You](https://open.spotify.com/track/3ABFbSGqDSmsNf3OuqvPJi) | [Gloom Girl MFG](https://open.spotify.com/artist/2UXI5X9jhT0bwCO13Gb3LL) | [Polycrisis](https://open.spotify.com/album/7GVSZ3bRudjRc2ywH9GITp) | 3:07 |
 
-Snapshot ID: `AAAAAGWJSuQfQQnOngAjgvBlj+/pS/p6`
+Snapshot ID: `AAAAAHdgCxd8d8310iP7B2uQ8EN94DAO`

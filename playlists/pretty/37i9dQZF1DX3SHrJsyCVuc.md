@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: MUDRAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,099 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,705 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Foresight](https://open.spotify.com/track/5sqbrBym3BeDQgO7OGU6JJ) | [Bennetts Grove](https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA) | [Foresight](https://open.spotify.com/album/5ToirZ1URa5H2hbUUHGNlZ) | 4:16 |
 | 75 | [Something Else to Give](https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Something Else to Give](https://open.spotify.com/album/3PrliZHJTv3ymXXcP80ON0) | 4:45 |
 
-Snapshot ID: `AAAAAE3sZcD5rNHQGWQruv3slL5FwD0z`
+Snapshot ID: `AAAAAFL2xhXCU6IS3ddSDHOTpYsL1PYI`

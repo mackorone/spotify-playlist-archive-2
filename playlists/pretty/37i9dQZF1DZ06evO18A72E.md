@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,267 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,268 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 45 | [Tonight, Tonight \- Live In Denver](https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:06 |
 | 46 | [High Hopes \- White Panda Remix](https://open.spotify.com/track/1wR8ATQr0sxSfp6jGJ5Oe6) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [White Panda](https://open.spotify.com/artist/1mOUOvOOaoTF2b3kDjrety) | [High Hopes \(White Panda Remix\)](https://open.spotify.com/album/1b5e5xUCsIua9I2YzhDL8q) | 2:56 |
 
-Snapshot ID: `awDfAAAAAADNbMF+3d7R7orhUMwiTE13`
+Snapshot ID: `awIwgAAAAAAEcfPn+zM+qfTFgIdgsVD/`

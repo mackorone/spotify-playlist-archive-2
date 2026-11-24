@@ -37363,20 +37363,24 @@
     },
     {
       "album": {
-        "name": "Wanna Be Somewhere With You",
+        "name": "Wanna Be Somewhere with You",
         "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
       },
       "artists": [
         {
           "name": "Rules",
           "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Jamie McCool",
+          "url": "https://open.spotify.com/artist/5QLHxIflbfcyiniywmSNiP"
         }
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220959,
-      "name": "Wanna Be Somewhere With You",
+      "name": "Wanna Be Somewhere with You",
       "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
     },
     {

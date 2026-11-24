@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 30624,
+  "num_followers": 30629,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPzqIFfiFkceVeggtdrc+Sutveef",
+  "snapshot_id": "AAAAAGZji+iqmuwM++HHhC1OaJ1oFDBi",
   "tracks": [
     {
       "added_at": "2026-09-15 16:17:03",
@@ -228,13 +228,13 @@
       },
       "artists": [
         {
-          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
-          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
+          "name": "\u90c1\u7530\u306f\u308b\u304d (CV.\u5c0f\u6fa4\u9e97\u90a3)",
+          "url": "https://open.spotify.com/artist/0KkcrLs9Anr68r8QEhuaol"
         }
       ],
-      "duration_ms": 226600,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/6CmWQauZTW5cVa5Vj5UH1d"
+      "duration_ms": 212500,
+      "name": "HSV\u8272\u7a7a\u9593",
+      "url": "https://open.spotify.com/track/2T3MPjwNIT9uzGMjQUBCxf"
     },
     {
       "added_at": "2026-09-15 16:17:03",
@@ -244,13 +244,13 @@
       },
       "artists": [
         {
-          "name": "\u90c1\u7530\u306f\u308b\u304d (CV.\u5c0f\u6fa4\u9e97\u90a3)",
-          "url": "https://open.spotify.com/artist/0KkcrLs9Anr68r8QEhuaol"
+          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
+          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
         }
       ],
-      "duration_ms": 212500,
-      "name": "HSV\u8272\u7a7a\u9593",
-      "url": "https://open.spotify.com/track/2T3MPjwNIT9uzGMjQUBCxf"
+      "duration_ms": 226600,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/6CmWQauZTW5cVa5Vj5UH1d"
     },
     {
       "added_at": "2026-09-15 16:17:03",
@@ -383,18 +383,34 @@
     {
       "added_at": "2026-09-15 16:17:03",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2\u76e4\u3011",
-        "url": "https://open.spotify.com/album/7x0Bomz5mJjVH2j8zqZS0j"
+        "name": "\u30db\u30e0\u30e9\u30a4\u30f3\u30d3\u30c6\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2SMURyI1Jvv83ZkP8LUiLA"
       },
       "artists": [
         {
-          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
-          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
+          "name": "\u82b9\u6ca2\u3042\u3055\u3072 (CV.\u7530\u4e2d\u6709\u7d00)",
+          "url": "https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4"
+        },
+        {
+          "name": "\u9edb \u51ac\u512a\u5b50 (CV.\u5e78\u6751\u6075\u7406)",
+          "url": "https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0"
+        },
+        {
+          "name": "\u548c\u6cc9\u611b\u4f9d (CV.\u5317\u539f\u6c99\u5f25\u9999)",
+          "url": "https://open.spotify.com/artist/5EL1PeXHLhtARmaFhNeCTT"
+        },
+        {
+          "name": "\u4e03\u8349\u306b\u3061\u304b (CV.\u7d2b\u6708\u674f\u6731\u5f69)",
+          "url": "https://open.spotify.com/artist/4QBth13tNmPlWh8cwsIMdm"
+        },
+        {
+          "name": "\u7dcb\u7530\u7f8e\u7434 (CV.\u5c71\u6839 \u7dba)",
+          "url": "https://open.spotify.com/artist/0VJYBd628F6WoLMA7tDX5h"
         }
       ],
-      "duration_ms": 264146,
-      "name": "\u660e\u65e5\u3082Beautiful Day",
-      "url": "https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH"
+      "duration_ms": 222866,
+      "name": "\u30db\u30e0\u30e9\u30a4\u30f3\u30d3\u30c6\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0vXs7097cLK8vQlKMlwpV5"
     },
     {
       "added_at": "2026-09-15 16:17:03",
@@ -431,34 +447,18 @@
     {
       "added_at": "2026-09-15 16:17:03",
       "album": {
-        "name": "\u30db\u30e0\u30e9\u30a4\u30f3\u30d3\u30c6\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/2SMURyI1Jvv83ZkP8LUiLA"
+        "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2\u76e4\u3011",
+        "url": "https://open.spotify.com/album/7x0Bomz5mJjVH2j8zqZS0j"
       },
       "artists": [
         {
-          "name": "\u82b9\u6ca2\u3042\u3055\u3072 (CV.\u7530\u4e2d\u6709\u7d00)",
-          "url": "https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4"
-        },
-        {
-          "name": "\u9edb \u51ac\u512a\u5b50 (CV.\u5e78\u6751\u6075\u7406)",
-          "url": "https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0"
-        },
-        {
-          "name": "\u548c\u6cc9\u611b\u4f9d (CV.\u5317\u539f\u6c99\u5f25\u9999)",
-          "url": "https://open.spotify.com/artist/5EL1PeXHLhtARmaFhNeCTT"
-        },
-        {
-          "name": "\u4e03\u8349\u306b\u3061\u304b (CV.\u7d2b\u6708\u674f\u6731\u5f69)",
-          "url": "https://open.spotify.com/artist/4QBth13tNmPlWh8cwsIMdm"
-        },
-        {
-          "name": "\u7dcb\u7530\u7f8e\u7434 (CV.\u5c71\u6839 \u7dba)",
-          "url": "https://open.spotify.com/artist/0VJYBd628F6WoLMA7tDX5h"
+          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
+          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
         }
       ],
-      "duration_ms": 222866,
-      "name": "\u30db\u30e0\u30e9\u30a4\u30f3\u30d3\u30c6\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/0vXs7097cLK8vQlKMlwpV5"
+      "duration_ms": 264146,
+      "name": "\u660e\u65e5\u3082Beautiful Day",
+      "url": "https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH"
     },
     {
       "added_at": "2026-09-15 16:17:03",

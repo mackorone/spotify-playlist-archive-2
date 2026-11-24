@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: Travis Japan
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,628 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,630 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [消えない花火](https://open.spotify.com/track/5z5igGbFD4MOgAWwvcIhJ5) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [消えない花火](https://open.spotify.com/album/0WaEQ93ujik1fE7wV9AQEU) | 3:50 |
 | 50 | [KAKUMEI](https://open.spotify.com/track/1W0qopAxXLHvNMQ3JP3sB1) | [MORE STAR](https://open.spotify.com/artist/573r1p29tKPr2KNUNZkPww) | [KAKUMEI](https://open.spotify.com/album/7vZYCFC4FRMyl2pi5X3QvI) | 3:18 |
 
-Snapshot ID: `AAAAAGf0uN3mKkOqzGo04hq41rPxgg1b`
+Snapshot ID: `AAAAAEwnHOEy3bcoTHaY/Gz19Vgo3Lit`

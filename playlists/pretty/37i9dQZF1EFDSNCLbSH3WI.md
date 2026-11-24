@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 170 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 468 likes - 170 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,16 +151,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 141 | [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
 | 142 | [Played Me](https://open.spotify.com/track/4G78cLI7es3u3NLu9pIOfH) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:20 |
 | 143 | [GONE \(feat\. KIRBY\)](https://open.spotify.com/track/6VnzFlhf19vmBlrIDin9y3) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:53 |
-| 144 | [Barriers](https://open.spotify.com/track/5vPxOu3JpgJqYC0MB9opob) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 4:09 |
-| 145 | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP) | 3:07 |
+| 144 | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP) | 3:07 |
+| 145 | [Barriers](https://open.spotify.com/track/5vPxOu3JpgJqYC0MB9opob) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 4:09 |
 | 146 | [DECEIVED](https://open.spotify.com/track/7Lzaeenk97uEdQltVzGPm6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:40 |
 | 147 | [Stay for a While](https://open.spotify.com/track/04cnZuf2GVxH3NGW2DuPEV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:32 |
 | 148 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
 | 149 | [Colonize](https://open.spotify.com/track/2dsnRzDX6BprwJSeml0FqY) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Colonize](https://open.spotify.com/album/5VXcZnepZ0dpLCWFundnrW) | 3:03 |
 | 150 | [Sincerely Casey](https://open.spotify.com/track/53Zq4HtiPffqCyGbTtifge) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [Live & Grow](https://open.spotify.com/album/4YsS6HUCoyntWFTReZD1GU) | 3:00 |
 | 151 | [Let Us In](https://open.spotify.com/track/10JJgpWFPMJsxfZ50qTfhj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:02 |
-| 152 | [Bad Attitude](https://open.spotify.com/track/446zGDLKKEDELRQDvmoEtD) | [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn) | [Turn The Lights On](https://open.spotify.com/album/5enHYKdCZgw3oetOUqIibl) | 4:08 |
-| 153 | [Square Up](https://open.spotify.com/track/2vEVYGhlNKrLxL4dKeK6DV) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 3:02 |
+| 152 | [Square Up](https://open.spotify.com/track/2vEVYGhlNKrLxL4dKeK6DV) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 3:02 |
+| 153 | [Bad Attitude](https://open.spotify.com/track/446zGDLKKEDELRQDvmoEtD) | [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn) | [Turn The Lights On](https://open.spotify.com/album/5enHYKdCZgw3oetOUqIibl) | 4:08 |
 | 154 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 |
 | 155 | [No Label](https://open.spotify.com/track/2QYalRAh6mAs1PoUSxrnbI) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [It's Not Me, It's You](https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM) | 3:39 |
 | 156 | [Spirit](https://open.spotify.com/track/6XZANPD0UCJZsVdcczgl2V) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 1:59 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 169 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 | 170 | [Mamacita](https://open.spotify.com/track/5FhcbG04J2xE4Yl89tU0tJ) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed Vol\. 4](https://open.spotify.com/album/2H7pgyDHTtaee6AL6je1xZ) | 3:40 |
 
-Snapshot ID: `AciY3gAAAAAANowgz6MiSv0DnDp3NFYD`
+Snapshot ID: `AcifPAAAAAB9XAphYdPuhQOPs/CP5/25`

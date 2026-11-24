@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 553 likes - 112 songs - 6 hr 7 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 553 likes - 119 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,12 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 110 | [ADINI YOLLARA YAZDIM](https://open.spotify.com/track/7sU0ay5RWulpNoDvZcn21s) | [İstanbul Arabesque Project](https://open.spotify.com/artist/7A7y6x4Z6DZ8KuXCwfE4xg) | [ADINI YOLLARA YAZDIM](https://open.spotify.com/album/0LtplaKPDEz3iEpGb0Wzsx) | 3:37 |
 | 111 | [God Can Never Fail](https://open.spotify.com/track/6m1F0Huo4A6CNjwIm0wrqc) | [Godson](https://open.spotify.com/artist/4PhoGS5tJZcVTaxXagf91B), [Emmasings](https://open.spotify.com/artist/2vrvBX9lthpm3qNQ1OhdvT) | [God Can Never Fail](https://open.spotify.com/album/1aoMJ2Hg6ZkgCHu1iJ8GEN) | 4:08 |
 | 112 | [The Girl I Love](https://open.spotify.com/track/3DPuXRLGViQTSq7xoGFGfu) | [Stanshow](https://open.spotify.com/artist/43pMkEmyvlWuS1jwqp8I3j) | [The Girl I Love](https://open.spotify.com/album/59ImkOVscYwjNxaUHA9LSX) | 4:14 |
+| 113 | [Valentine](https://open.spotify.com/track/1dIUemEcQ2i2P0AlC2QXUU) | [Villainelle\-Isobel](https://open.spotify.com/artist/4v3pwuID08km1Ud0za46D1) | [Back from hell](https://open.spotify.com/album/4O0jiozUAlnNEdlJgQBx1l) | 3:21 |
+| 114 | [Falling Lights](https://open.spotify.com/track/54AeZKTBxamRvuMydPhEqw) | [D&M](https://open.spotify.com/artist/5DBY6WEuxQbQRZ27OA0d7L) | [Falling Lights](https://open.spotify.com/album/2UtGfEYcUat2mD5As3OAEu) | 4:07 |
+| 115 | [Chosen!](https://open.spotify.com/track/18ufDMUrEx5hVgyechTfxy) | [talib4n.micah!](https://open.spotify.com/artist/2uYR32fp1YCUbM4KoWRfvC) | [Chosen!](https://open.spotify.com/album/5tfAYonXBVYpcqlIfZB4a3) | 1:39 |
+| 116 | [PABLO ESCOBAR V2](https://open.spotify.com/track/3vblZ6fn97KBWkapY7WuQG) | [MC BLACK 225](https://open.spotify.com/artist/35cfNTawg8XmjrulORj7WO) | [PABLO ESCOBAR V2](https://open.spotify.com/album/6fgaBFji03x4H9bhC66qQ1) | 2:40 |
+| 117 | [Money & Power](https://open.spotify.com/track/7FLNhnSboUnPj6sv6Ue1LN) | [Cuzzo Guapp](https://open.spotify.com/artist/50SKfJ8vhjgbfbep2ogHgC) | [Money & Power](https://open.spotify.com/album/3TqrmqVxiOsFZqZaclE66l) | 2:00 |
+| 118 | [no pidas de mas](https://open.spotify.com/track/0xE1V5iaKooIQm1BnNeyah) | [elale jaime](https://open.spotify.com/artist/5GE8U9KQnANFfsh18U3kkl), [milton leon](https://open.spotify.com/artist/1vQtS8Z0NUQZqge46C840B) | [no pidas de mas](https://open.spotify.com/album/5OYOzWppNSFeXOQljhHQxm) | 4:01 |
+| 119 | [Fuera de su tiempo](https://open.spotify.com/track/5Cj1B87X025rUBF6RjFJwx) | [Leo Tiberi](https://open.spotify.com/artist/3C9ioBuuDOiJaDBfpfH9y5) | [Fuera de su tiempo](https://open.spotify.com/album/0c0fdA2WR8rmyghdzIPhpi) | 3:02 |
 
-Snapshot ID: `AAAC0247ij8qGnn7ZY3yolpYz89EpjQa`
+Snapshot ID: `AAAC2s1pY9IxuyRM0Uk8dB/gIIX28fa8`

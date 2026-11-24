@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAADBknsY6ZveDSr+3qEof31q",
+  "snapshot_id": "awIwgAAAAAA7Fv7qqLclmn8CBqs8AAYk",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 131106,
-      "name": "Mais Perto Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria E Honra (Ao Vivo)",
         "url": "https://open.spotify.com/album/3eFvsvNCI4tgilQJs1uIHl"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 334400,
       "name": "Filho Do Deus Vivo - Ao Vivo",
       "url": "https://open.spotify.com/track/5eIjkjzroymfYRNeNCUKGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 131106,
+      "name": "Mais Perto Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
     },
     {
       "added_at": null,
@@ -343,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Som da Liberdade 2.0",
+        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 305076,
+      "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Ele a Gl\u00f3ria na Igreja",
         "url": "https://open.spotify.com/album/03Oehqdaqtyu4ubVUcBh7k"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 904635,
       "name": "At\u00e9 que o Senhor venha + At\u00e9 que Ele venha + Ser achado Fiel",
       "url": "https://open.spotify.com/track/1iH4wVFCRPZjmL4VlyHiFs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Som da Liberdade 2.0",
-        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 305076,
-      "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
     },
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gloria A Deus",
-        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship Portugu\u00eas",
-          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
-        },
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 379803,
-      "name": "Maravilhado",
-      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pardal (Ao Vivo)",
         "url": "https://open.spotify.com/album/0p9wsS6LiLS0a163eLC6PE"
       },
@@ -531,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/07v04MgOyAk8ydF6OlKF4q"
+        "name": "Gloria A Deus",
+        "url": "https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx"
       },
       "artists": [
+        {
+          "name": "Gateway Worship Portugu\u00eas",
+          "url": "https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy"
+        },
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/15hr5UqjR9bNPqbpgVZt1T"
+      "duration_ms": 379803,
+      "name": "Maravilhado",
+      "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/6kfF8X9VCsYHOYkbTOSAVD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/07v04MgOyAk8ydF6OlKF4q"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/15hr5UqjR9bNPqbpgVZt1T"
     },
     {
       "added_at": null,
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 790360,
-      "name": "Em Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/5dVJKhH37X59z49GwroBA1"
+      "duration_ms": 291266,
+      "name": "Meu Maior Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/447U3YczGxze6rB1tAcARb"
     },
     {
       "added_at": null,
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 291266,
-      "name": "Meu Maior Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/447U3YczGxze6rB1tAcARb"
+      "duration_ms": 790360,
+      "name": "Em Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/5dVJKhH37X59z49GwroBA1"
     },
     {
       "added_at": null,

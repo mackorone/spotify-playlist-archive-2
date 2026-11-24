@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "PER SEMPRE S\u00cc",
+        "url": "https://open.spotify.com/album/4YU8yCSiVxq4JhN4o7AVCs"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        },
+        {
+          "name": "Serena Brancale",
+          "url": "https://open.spotify.com/artist/7108jelN43seqWILMvJwKi"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "Dimmelo (feat. Serena Brancale)",
+      "url": "https://open.spotify.com/track/2NyXAhzDakgUQgJHq1LO9Q"
+    },
+    {
+      "album": {
         "name": "ESTREMO",
         "url": "https://open.spotify.com/album/6D3qG5DjMocLkP88CEZ0go"
       },

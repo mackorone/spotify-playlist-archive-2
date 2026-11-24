@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "48 horas",
+        "url": "https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Valor",
+          "url": "https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242559,
+      "name": "48 horas",
+      "url": "https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm"
+    },
+    {
+      "album": {
         "name": "Drunk & Found",
         "url": "https://open.spotify.com/album/76448blzoa2GmYMpdK2P78"
       },
@@ -294,6 +312,24 @@
       "duration_ms": 258363,
       "name": "Ada",
       "url": "https://open.spotify.com/track/7ADfAfJQ3wMrFUqTi2BlWp"
+    },
+    {
+      "album": {
+        "name": "A Wonderful Illusion",
+        "url": "https://open.spotify.com/album/01lWggP5JEQhoLd6yOmzyk"
+      },
+      "artists": [
+        {
+          "name": "Wayward Gnome",
+          "url": "https://open.spotify.com/artist/5OGoDjttAfogU4Z7ymyhPd"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289963,
+      "name": "After The Show",
+      "url": "https://open.spotify.com/track/2HMHJeKnIKUvVwvysbtW5r"
     },
     {
       "album": {

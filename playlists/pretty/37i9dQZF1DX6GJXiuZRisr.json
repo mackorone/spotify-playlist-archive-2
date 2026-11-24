@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1619898,
+  "num_followers": 1619899,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7CFJwxnIYL/zTGhgapVoROcS0F",
+  "snapshot_id": "AAAAAGp1beo9tfx24i8XxiL78fStXZ+M",
   "tracks": [
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2026-11-20 05:02:17",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
+        "name": "Undertone",
+        "url": "https://open.spotify.com/album/6Pj4otyxWEqyhaT6JsdKEK"
       },
       "artists": [
         {
@@ -1012,13 +1012,13 @@
           "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         },
         {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
         }
       ],
-      "duration_ms": 198190,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
+      "duration_ms": 186785,
+      "name": "Undertone",
+      "url": "https://open.spotify.com/track/5AFINGs0La7oRTsG8foLA9"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2026-11-20 05:02:17",
       "album": {
+        "name": "Rajada",
+        "url": "https://open.spotify.com/album/6kYN2vsmpLd6fw6o3RwdbI"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Rajada",
+      "url": "https://open.spotify.com/track/2TfQdeD0hXYLV6Nco71GJm"
+    },
+    {
+      "added_at": "2026-11-20 05:02:17",
+      "album": {
         "name": "After You (feat. FAANGS)",
         "url": "https://open.spotify.com/album/2RabLUJKd1jpDS9NbojepU"
       },
@@ -1091,28 +1111,8 @@
     {
       "added_at": "2026-11-20 05:02:17",
       "album": {
-        "name": "Rajada",
-        "url": "https://open.spotify.com/album/6kYN2vsmpLd6fw6o3RwdbI"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Rajada",
-      "url": "https://open.spotify.com/track/2TfQdeD0hXYLV6Nco71GJm"
-    },
-    {
-      "added_at": "2026-11-20 05:02:17",
-      "album": {
-        "name": "Undertone",
-        "url": "https://open.spotify.com/album/6Pj4otyxWEqyhaT6JsdKEK"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
       },
       "artists": [
         {
@@ -1120,13 +1120,13 @@
           "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         },
         {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 186785,
-      "name": "Undertone",
-      "url": "https://open.spotify.com/track/5AFINGs0La7oRTsG8foLA9"
+      "duration_ms": 198190,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1251,6 +1251,26 @@
       "duration_ms": 212307,
       "name": "Super Powers",
       "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
+    },
+    {
+      "added_at": "2026-11-20 05:02:17",
+      "album": {
+        "name": "Keep Me Up",
+        "url": "https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+        }
+      ],
+      "duration_ms": 231562,
+      "name": "Keep Me Up",
+      "url": "https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1403,22 +1423,18 @@
     {
       "added_at": "2026-11-20 05:02:17",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/5m5Ymv0cF173Zz1GnaSVUO"
+        "name": "Manta",
+        "url": "https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         }
       ],
-      "duration_ms": 267241,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/3iy57ZiUayRdFStKC2s9tq"
+      "duration_ms": 247152,
+      "name": "Manta",
+      "url": "https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1447,18 +1463,22 @@
     {
       "added_at": "2026-11-20 05:02:17",
       "album": {
-        "name": "Manta",
-        "url": "https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5"
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/5m5Ymv0cF173Zz1GnaSVUO"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
         }
       ],
-      "duration_ms": 247152,
-      "name": "Manta",
-      "url": "https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm"
+      "duration_ms": 267241,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/3iy57ZiUayRdFStKC2s9tq"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1535,26 +1555,6 @@
       "duration_ms": 191076,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
-    },
-    {
-      "added_at": "2026-11-20 05:02:17",
-      "album": {
-        "name": "Keep Me Up",
-        "url": "https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "BJOERN",
-          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
-        }
-      ],
-      "duration_ms": 231562,
-      "name": "Keep Me Up",
-      "url": "https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-11-20 05:02:17",
       "album": {
-        "name": "Too High",
-        "url": "https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "Too High",
-      "url": "https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl"
-    },
-    {
-      "added_at": "2026-11-20 05:02:17",
-      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2026-11-20 05:02:17",
       "album": {
-        "name": "Bounce Music",
-        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
+        "name": "Too High",
+        "url": "https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy"
       },
       "artists": [
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         }
       ],
-      "duration_ms": 230769,
-      "name": "Bounce Music",
-      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
+      "duration_ms": 367973,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1795,6 +1779,22 @@
       "duration_ms": 211535,
       "name": "High On A Feeling",
       "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
+    },
+    {
+      "added_at": "2026-11-20 05:02:17",
+      "album": {
+        "name": "Bounce Music",
+        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Bounce Music",
+      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2026-11-20 05:02:17",
       "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+    },
+    {
+      "added_at": "2026-11-20 05:02:17",
+      "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/5ywMl2Va7lGZJq4LsJOiI1"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 194000,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/1T1vC3MiuhjmeGmiZzIQBn"
-    },
-    {
-      "added_at": "2026-11-20 05:02:17",
-      "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -1947,30 +1947,6 @@
       "duration_ms": 196691,
       "name": "Endless",
       "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
-    },
-    {
-      "added_at": "2026-11-20 05:02:17",
-      "album": {
-        "name": "VISIONS",
-        "url": "https://open.spotify.com/album/0yG0Z8DBUK71NVxtSIUI5e"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Julian Gray",
-          "url": "https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN"
-        },
-        {
-          "name": "Elliot Vast",
-          "url": "https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA"
-        }
-      ],
-      "duration_ms": 217619,
-      "name": "VISIONS",
-      "url": "https://open.spotify.com/track/2ynp3xX9DVxUpZEZIMvYiO"
     },
     {
       "added_at": "2026-11-20 05:02:17",
@@ -2035,6 +2011,22 @@
       "duration_ms": 212883,
       "name": "Forgive Them",
       "url": "https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2"
+    },
+    {
+      "added_at": "2026-11-20 05:02:17",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     }
   ],
   "unique_name": "Night Rider",

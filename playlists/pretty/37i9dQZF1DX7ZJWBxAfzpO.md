@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 10 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 10 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 | 9 | [Bakas Ng Bagyong Ondoy \| Panaghoy \| A Pinoy Horror Story](https://open.spotify.com/episode/0StkJP3tgnBEjul8jSww4n) | [Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan](https://open.spotify.com/show/08WHleYpmBVjCu1sbgTaFn) | [Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan](https://open.spotify.com/album/08WHleYpmBVjCu1sbgTaFn) | 25:42 |
 | 10 | [Ang Boses Ng Radyo Sa Eloria Mall \| Panaghoy \| A Pinoy Horror Story](https://open.spotify.com/episode/7HRfwV3NA37vyDf7iJJ8aZ) | [Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan](https://open.spotify.com/show/08WHleYpmBVjCu1sbgTaFn) | [Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan](https://open.spotify.com/album/08WHleYpmBVjCu1sbgTaFn) | 26:57 |
 
-Snapshot ID: `AAAAAFfNvJmOrO8NFwEMD2ZwZOKHHgC8`
+Snapshot ID: `AAAAAMrOMVLS68I7SW7XDAVNnvezum7p`

@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/44Edi5FYpWFMXaVxzF9sNX"
+      },
+      "artists": [
+        {
+          "name": "Manami",
+          "url": "https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334188,
+      "name": "Turning Point",
+      "url": "https://open.spotify.com/track/3Kv8NlpoEnfijONzRQmiGJ"
+    },
+    {
+      "album": {
         "name": "Ghost Talk / Tusk",
         "url": "https://open.spotify.com/album/579NIcHU4u4K2nUBPqaiVF"
       },

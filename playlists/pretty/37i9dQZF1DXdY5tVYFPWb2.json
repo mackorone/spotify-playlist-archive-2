@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 183573,
+  "num_followers": 183579,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADgTGySETRjcJAdAUmcGqLyd1Z3U",
+  "snapshot_id": "AAAAAFZp7OHhe/zeslPJFhJd2HfFlKgK",
   "tracks": [
     {
       "added_at": "2026-11-10 15:00:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 169620,
-      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
         "name": "COOOL",
         "url": "https://open.spotify.com/album/2X9EFWmSWAYLjKm9y6llqL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 253786,
       "name": "SURPRISE OF SUMMER",
       "url": "https://open.spotify.com/track/3uYCbGo0mc5p7volIb5k2N"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
+        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 169620,
+      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "\u30b9\u30c6\u30ad\u30c3\uff01\uff01",
-        "url": "https://open.spotify.com/album/5uws2TezX8oeBoNfxJWJTN"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "\u30b9\u30c6\u30ad\u30c3\uff01\uff01",
-      "url": "https://open.spotify.com/track/3LjmO7wYa1pjgbnpC58Ibe"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
         "name": "Guess Who?",
         "url": "https://open.spotify.com/album/0vbmhoUstB351YpKBO2hM7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 279000,
       "name": "NEW ERA",
       "url": "https://open.spotify.com/track/1mJxoz6ErtRhtkZHVgOuK6"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
+        "name": "\u30b9\u30c6\u30ad\u30c3\uff01\uff01",
+        "url": "https://open.spotify.com/album/5uws2TezX8oeBoNfxJWJTN"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "\u30b9\u30c6\u30ad\u30c3\uff01\uff01",
+      "url": "https://open.spotify.com/track/3LjmO7wYa1pjgbnpC58Ibe"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
-      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
         "name": "Groooovy",
         "url": "https://open.spotify.com/album/3GV1i2K1FB8eSEz8z3QfwZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 170863,
       "name": "Groooovy",
       "url": "https://open.spotify.com/track/3pyYSab4cpXjizWmcdteyU"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
+      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 235914,
-      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
         "name": "\u767d\u7121\u57a2",
         "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 206533,
       "name": "\u767d\u7121\u57a2",
       "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
+        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 235914,
+      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj"
-      },
-      "artists": [
-        {
-          "name": "RYUSENKEI",
-          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
-        }
-      ],
-      "duration_ms": 125294,
-      "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
         "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
-        "url": "https://open.spotify.com/album/3zZR5S5dbKN1h0vp6g5QAJ"
+        "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "RYUSENKEI",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
         }
       ],
-      "duration_ms": 187896,
-      "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
-      "url": "https://open.spotify.com/track/3eqLFoEeE09019Chfmhlrq"
+      "duration_ms": 125294,
+      "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -1155,6 +1139,22 @@
       "duration_ms": 376000,
       "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
       "url": "https://open.spotify.com/track/0WUrnNtdEXTboycmTCjgj9"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
+        "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
+        "url": "https://open.spotify.com/album/3zZR5S5dbKN1h0vp6g5QAJ"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 187896,
+      "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
+      "url": "https://open.spotify.com/track/3eqLFoEeE09019Chfmhlrq"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "Fools in the Rain",
-        "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
-      },
-      "artists": [
-        {
-          "name": "XinU",
-          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
-        }
-      ],
-      "duration_ms": 176990,
-      "name": "Fools in the Rain",
-      "url": "https://open.spotify.com/track/2Yv4p5nBE2FCOI8s7qggct"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
         "name": "4:00 A.M. (2025 Re-edit Version)",
         "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 283854,
       "name": "4:00 A.M. (2025 Re-edit Version)",
       "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
+        "name": "Fools in the Rain",
+        "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
+      },
+      "artists": [
+        {
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+        }
+      ],
+      "duration_ms": 176990,
+      "name": "Fools in the Rain",
+      "url": "https://open.spotify.com/track/2Yv4p5nBE2FCOI8s7qggct"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
+        "name": "\u771f\u590f\u306e\u77ac\u9593",
+        "url": "https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d"
+      },
+      "artists": [
+        {
+          "name": "RYUSENKEI",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "duration_ms": 233596,
+      "name": "\u771f\u590f\u306e\u77ac\u9593",
+      "url": "https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
         "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
         "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 168353,
       "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
       "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
-        "name": "\u5fae\u70ad\u9178",
-        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 180441,
-      "name": "\u5fae\u70ad\u9178",
-      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "\u771f\u590f\u306e\u77ac\u9593",
-        "url": "https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d"
+        "name": "\u5fae\u70ad\u9178",
+        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
       },
       "artists": [
         {
-          "name": "RYUSENKEI",
-          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 233596,
-      "name": "\u771f\u590f\u306e\u77ac\u9593",
-      "url": "https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ"
+      "duration_ms": 180441,
+      "name": "\u5fae\u70ad\u9178",
+      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
     },
     {
       "added_at": "2026-11-10 15:00:42",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-11-10 15:00:42",
       "album": {
-        "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
-        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
-      },
-      "artists": [
-        {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
-        },
-        {
-          "name": "Emi Okamoto",
-          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
-        }
-      ],
-      "duration_ms": 248842,
-      "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
-      "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
-    },
-    {
-      "added_at": "2026-11-10 15:00:42",
-      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
+    },
+    {
+      "added_at": "2026-11-10 15:00:42",
+      "album": {
+        "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
+        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        }
+      ],
+      "duration_ms": 248842,
+      "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
+      "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
     },
     {
       "added_at": "2026-11-10 15:00:42",

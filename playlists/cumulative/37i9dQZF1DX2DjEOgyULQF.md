@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-553 songs - 1 day 2 hr 6 min
+554 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Moulding](https://open.spotify.com/track/4VdkE87ZahjkBxDxzlHelB) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Moulding](https://open.spotify.com/album/0o3kTphCqfHGDhrKTHfcdw) | 2:20 | 2026-02-23 | 2026-04-04 |
 | [My Sanctuary](https://open.spotify.com/track/3MiOoOWcIVfxT4DtiVx7RW) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [My Sanctuary](https://open.spotify.com/album/6LD9SZaxij45q5VylWfDpM) | 3:31 | 2023-04-28 | 2024-06-04 |
 | [My Small River](https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 2:59 | 2023-06-09 | 2025-10-16 |
-| [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2026-04-03 |  |
+| [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2026-04-03 | 2026-11-24 |
 | [Namah \(Nature\)](https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Namah](https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU) | 3:19 | 2023-04-28 | 2025-12-18 |
 | [Nattskärra](https://open.spotify.com/track/066Uh3GE4k6K18PIooSScs) | [Nordan](https://open.spotify.com/artist/3TYnzUsJ9UUWSwmphRiqct) | [Nattskärra](https://open.spotify.com/album/1Y6yXs3DjMm3BkGfoZaNZf) | 2:29 | 2026-08-19 |  |
 | [Natura Deambulatio](https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy) | [Floating Portal](https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X) | [Natura Deambulatio](https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2) | 3:30 | 2024-04-01 | 2026-02-24 |
@@ -375,6 +375,7 @@
 | [Quietude](https://open.spotify.com/track/36nQpufEYzDmPgstzJd6l2) | [Eves Haven](https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT) | [Quietude](https://open.spotify.com/album/50IfTSztYG6d57ECN2t1Ub) | 2:48 | 2026-08-19 |  |
 | [Radiant Recovery](https://open.spotify.com/track/6vrIfscwRw6648jkgY5JUO) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Radiant Recovery](https://open.spotify.com/album/7laP0oMseLBZjSjM912dh2) | 2:28 | 2025-05-28 | 2026-02-12 |
 | [Radura](https://open.spotify.com/track/1fZ2qoDTQB9VoMhNdb3wsh) | [Silentia Natura](https://open.spotify.com/artist/66451HoublFc32cocZpJjd) | [Radura](https://open.spotify.com/album/5aYpBEovuAH7MSZ5te2yCj) | 2:42 | 2026-07-03 |  |
+| [Rain Drones](https://open.spotify.com/track/0rdXmSHQcubaNQJFUnBAwi) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Rain Drones](https://open.spotify.com/album/4eZ4bHwRaUqzZBVXbwXXoD) | 2:36 | 2026-11-12 |  |
 | [Rainbow's End](https://open.spotify.com/track/7qYia3491jXCpBz9LXI9HU) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Rainbow's End](https://open.spotify.com/album/3CYTEAvcYSEFe61NBk1lWD) | 3:10 | 2024-06-03 | 2026-04-04 |
 | [Rebalanced](https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Rebalanced](https://open.spotify.com/album/58zk4RDP4DnF1nObrEpn8L) | 2:49 | 2026-04-03 |  |
 | [Recovery](https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Recovery](https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk) | 2:36 | 2026-04-03 | 2026-09-11 |

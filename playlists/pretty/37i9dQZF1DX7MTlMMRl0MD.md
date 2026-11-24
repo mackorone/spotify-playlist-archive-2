@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Romeo Santos & Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,921 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785,715 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 10 | [Brindo Con Agua](https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Brindo Con Agua](https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO) | 4:41 |
 | 11 | [Better Late Than Never](https://open.spotify.com/track/6E16aoeOwaph7iNqiw38Mo) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:08 |
 | 12 | [SILENCIO](https://open.spotify.com/track/4q8bfTmtDfgLGmDc5IuoIQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 3:54 |
-| 13 | [Duro De Verdad pt.2](https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Duro De Verdad pt.2](https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA) | 3:24 |
-| 14 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 |
+| 13 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 |
+| 14 | [Duro De Verdad pt.2](https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Duro De Verdad pt.2](https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA) | 3:24 |
 | 15 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 |
 | 16 | [Punta Cana](https://open.spotify.com/track/6tFXzOTZCTZ8t62NiLjC5z) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Punta Cana](https://open.spotify.com/album/55851CfWJef6CzkdeJPpIu) | 3:05 |
 | 17 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 44 | [Ruta 66](https://open.spotify.com/track/3uMZGqWOjFQTPhgls6ZVSj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Ruta 66](https://open.spotify.com/album/7myyJNpaXyechOOyTuQoPA) | 3:41 |
 | 45 | [Ya No Comparto](https://open.spotify.com/track/0099ZFXDXNi4DuRhoOiEaV) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:19 |
 | 46 | [El Amante](https://open.spotify.com/track/75o9TCfKzMTpNJ5QrHvrdj) | [Wilven Bello](https://open.spotify.com/artist/6cJpv2M7hjes1BxCIfqq8B) | [Midnight Confessions](https://open.spotify.com/album/6BEAJJ5WC70dfDIoqBHurP) | 3:54 |
-| 47 | [Solo](https://open.spotify.com/track/7drxsX64tVAdhqkfa3B0D1) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Solo](https://open.spotify.com/album/0v93cVeuek2BnhTDbLRcGa) | 3:10 |
-| 48 | [La Rueda](https://open.spotify.com/track/1IhFRotuBhS4jJGxfk10LR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [La Rueda](https://open.spotify.com/album/4wOmtNiEwFgpJkMqpPvw2k) | 3:55 |
-| 49 | [Cita](https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Cita](https://open.spotify.com/album/3ttKofk4OSgzyNzvAgHeSo) | 3:28 |
-| 50 | [Sin Gravedad](https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP) | [Sin Gravedad](https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6) | 2:56 |
+| 47 | [La Rueda](https://open.spotify.com/track/1IhFRotuBhS4jJGxfk10LR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [La Rueda](https://open.spotify.com/album/4wOmtNiEwFgpJkMqpPvw2k) | 3:55 |
+| 48 | [Solo](https://open.spotify.com/track/7drxsX64tVAdhqkfa3B0D1) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Solo](https://open.spotify.com/album/0v93cVeuek2BnhTDbLRcGa) | 3:10 |
+| 49 | [Sin Gravedad](https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP) | [Sin Gravedad](https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6) | 2:56 |
+| 50 | [Cita](https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Cita](https://open.spotify.com/album/3ttKofk4OSgzyNzvAgHeSo) | 3:28 |
 
-Snapshot ID: `AAAAABHL/G21esTD2kFvbXlIIGNffWEU`
+Snapshot ID: `AAAAAE/ejmV99wi51nyO1vF9OoC/P8+B`

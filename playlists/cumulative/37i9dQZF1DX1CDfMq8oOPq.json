@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 185666,
       "name": "Amina",
       "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 171796,
       "name": "Dedo na ferida",
       "url": "https://open.spotify.com/track/5iKY4gOVZwpnRG9v4dj3g3"
@@ -2114,6 +2114,32 @@
       "duration_ms": 132857,
       "name": "Difere",
       "url": "https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G"
+    },
+    {
+      "album": {
+        "name": "O Come\u00e7o de Algo Novo",
+        "url": "https://open.spotify.com/album/0v78d5gyOHWhxexMv0QEwf"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/769Gi21VgDNZY3jsS6gJnP"
     },
     {
       "album": {
@@ -3423,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Fuso (Live Video)",
+        "url": "https://open.spotify.com/album/2nz1nxfjdNj9glQo2x7Ee1"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184340,
+      "name": "Fuso - Live Video",
+      "url": "https://open.spotify.com/track/1n82XCje65LKbtER78qF0Y"
+    },
+    {
+      "album": {
         "name": "FUTURO DO PA\u00cdS",
         "url": "https://open.spotify.com/album/0iPdazhl9zp5DLpCcqhrQ0"
       },
@@ -3892,7 +3936,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 125076,
       "name": "Imp\u00e9rio",
       "url": "https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06"
@@ -9406,6 +9450,28 @@
       "duration_ms": 182484,
       "name": "Vinhedo",
       "url": "https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia"
+    },
+    {
+      "album": {
+        "name": "O Come\u00e7o de Algo Novo",
+        "url": "https://open.spotify.com/album/0v78d5gyOHWhxexMv0QEwf"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126185,
+      "name": "Vinho e Sushi",
+      "url": "https://open.spotify.com/track/5m6jyw6GLzw9Bpdhgv24PT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2CJ1ODOHx6DhVpaDJaq6dy">Ola Poskrop</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,120 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,129 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [puszczaMy](https://open.spotify.com/track/673pKLuWNq2rkgSoehZX3M) | [złośnice](https://open.spotify.com/artist/4v4dTWKvYUH2CQapJEPEgP) | [puszczaMy](https://open.spotify.com/album/4N6m9LpQQNNrka9bOU1DBm) | 3:48 |
 | 50 | [Projekt żona!](https://open.spotify.com/track/6HXlQKrmqr7mHP3sbLe7Qf) | [Pola Błasik](https://open.spotify.com/artist/5uZWOg9SH9pMTGV7G2awtj) | [Projekt żona!](https://open.spotify.com/album/20g8pJZ0DuEkihN1zE3s7K) | 3:11 |
 
-Snapshot ID: `AAAAALO/BWSAxIG+QHgdBlVHIm68kViO`
+Snapshot ID: `AAAAALbDEgLgPO1pv4SCGaS40E7e2RzC`

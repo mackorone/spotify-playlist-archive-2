@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,465 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,444 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Düren](https://open.spotify.com/track/1FCoGPb0tQyCxV5cSlYQLI) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Bad Düren](https://open.spotify.com/album/7Aq2rOEqlvC9ihTG19IzwD) | 1:47 |
 | 2 | [keine freunde](https://open.spotify.com/track/2ANRzIoEoHfEGdovYeWzJn) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [Panorama](https://open.spotify.com/album/3HyCyLodVfdUsL9dQyi4ru) | 2:01 |
-| 3 | [Blumen geschenkt](https://open.spotify.com/track/4bhiE9z1G6w4NDfHOACB1u) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Blumen geschenkt](https://open.spotify.com/album/7m551qrKMvSQY8RB8Ujpfj) | 4:56 |
-| 4 | [Scheitern](https://open.spotify.com/track/3QFNqRn1g5jSuWaE4LIm9B) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren \(Deluxe Version\)](https://open.spotify.com/album/0vDrER9fy9sQ1jNiJoJKi8) | 2:02 |
-| 5 | [es tut nur weil's schön war weh](https://open.spotify.com/track/0vZprjl93WErvZiAZA4yAz) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [es tut nur weil's schön war weh](https://open.spotify.com/album/6yiEYbUzTW5gcMqkitgsHj) | 2:34 |
-| 6 | [garnichts mehr](https://open.spotify.com/track/1ETcxn1m4SQLKyuxNQWxhd) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [garnichts mehr](https://open.spotify.com/album/6vCO5cmKyseqVoNFrxSd1z) | 1:50 |
-| 7 | [himmelblau](https://open.spotify.com/track/6CmtS8fJO5nezVHRdzw4j3) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [himmelblau](https://open.spotify.com/album/0y53Zf2ofTwzuGvh76XZdx) | 3:03 |
-| 8 | [Dunkelheit](https://open.spotify.com/track/3pK23ewCGU09RZOIktaFf8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Dunkelheit](https://open.spotify.com/album/2msuGh4Cp3mN9iRi1CQTKt) | 4:10 |
-| 9 | [Porzellan](https://open.spotify.com/track/7JaQ5mKkqxCH6TCzNPUQqU) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Porzellan](https://open.spotify.com/album/3iNGXTLSv67TOfXqEc5Hfl) | 3:24 |
-| 10 | [Schnee Engel](https://open.spotify.com/track/0orTySS5mdbRIYBJ9AdexB) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA), [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Schnee Engel](https://open.spotify.com/album/7jDuKEsHfd4Xv7L5OnU9rW) | 2:16 |
-| 11 | [arm um mich](https://open.spotify.com/track/5jRvFqocteQ2pgwdbST4AN) | [CEDDO](https://open.spotify.com/artist/42trS2y9sQiZ14tTr2ghvG) | [arm um mich](https://open.spotify.com/album/7GnsoCfRL0XLIe1HcdzpQr) | 2:30 |
-| 12 | [weiße wand](https://open.spotify.com/track/27gtQESTxxnzgZSa5UpqGB) | [CRS](https://open.spotify.com/artist/1AIAI5HLnPGnPRRDVec6Qr) | [weiße wand](https://open.spotify.com/album/65eVOy3XyW6ECla2N6a5yZ) | 2:27 |
+| 3 | [arm um mich](https://open.spotify.com/track/5jRvFqocteQ2pgwdbST4AN) | [CEDDO](https://open.spotify.com/artist/42trS2y9sQiZ14tTr2ghvG) | [arm um mich](https://open.spotify.com/album/7GnsoCfRL0XLIe1HcdzpQr) | 2:30 |
+| 4 | [Blumen geschenkt](https://open.spotify.com/track/4bhiE9z1G6w4NDfHOACB1u) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Blumen geschenkt](https://open.spotify.com/album/7m551qrKMvSQY8RB8Ujpfj) | 4:56 |
+| 5 | [Scheitern](https://open.spotify.com/track/3QFNqRn1g5jSuWaE4LIm9B) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Wir sind so schön verloren \(Deluxe Version\)](https://open.spotify.com/album/0vDrER9fy9sQ1jNiJoJKi8) | 2:02 |
+| 6 | [es tut nur weil's schön war weh](https://open.spotify.com/track/0vZprjl93WErvZiAZA4yAz) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [es tut nur weil's schön war weh](https://open.spotify.com/album/6yiEYbUzTW5gcMqkitgsHj) | 2:34 |
+| 7 | [Dunkelheit](https://open.spotify.com/track/3pK23ewCGU09RZOIktaFf8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Dunkelheit](https://open.spotify.com/album/2msuGh4Cp3mN9iRi1CQTKt) | 4:10 |
+| 8 | [weiße wand](https://open.spotify.com/track/27gtQESTxxnzgZSa5UpqGB) | [CRS](https://open.spotify.com/artist/1AIAI5HLnPGnPRRDVec6Qr) | [weiße wand](https://open.spotify.com/album/65eVOy3XyW6ECla2N6a5yZ) | 2:27 |
+| 9 | [garnichts mehr](https://open.spotify.com/track/1ETcxn1m4SQLKyuxNQWxhd) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [garnichts mehr](https://open.spotify.com/album/6vCO5cmKyseqVoNFrxSd1z) | 1:50 |
+| 10 | [himmelblau](https://open.spotify.com/track/6CmtS8fJO5nezVHRdzw4j3) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [himmelblau](https://open.spotify.com/album/0y53Zf2ofTwzuGvh76XZdx) | 3:03 |
+| 11 | [Porzellan](https://open.spotify.com/track/7JaQ5mKkqxCH6TCzNPUQqU) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Porzellan](https://open.spotify.com/album/3iNGXTLSv67TOfXqEc5Hfl) | 3:24 |
+| 12 | [Schnee Engel](https://open.spotify.com/track/0orTySS5mdbRIYBJ9AdexB) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA), [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Schnee Engel](https://open.spotify.com/album/7jDuKEsHfd4Xv7L5OnU9rW) | 2:16 |
 | 13 | [Ruhe vor dem Sturm](https://open.spotify.com/track/46jNF7UgPJDibuUzRrkjbJ) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Ruhe vor dem Sturm](https://open.spotify.com/album/1werthvkqKZgfaeoENyTUb) | 3:33 |
 | 14 | [WIMPERN](https://open.spotify.com/track/6PG7Icq1H6gv6KIIO1o8Pe) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [WIMPERN](https://open.spotify.com/album/5Qs3aFYREuukqipiDxqGlL) | 2:24 |
 | 15 | [Most Wanted List](https://open.spotify.com/track/4sCRehp27HB4b9UoTBIGXT) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Most Wanted List](https://open.spotify.com/album/0KWkrEQvhv8pNWyYdQc05t) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [ALLES WAS ICH HASS](https://open.spotify.com/track/6J7Q0gOTdEtH5AJHZOrJ7P) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [Die kleinste Stadt](https://open.spotify.com/album/07OJjbzHj4Cd4xF3IQB67H) | 2:32 |
 | 75 | [Stille](https://open.spotify.com/track/5ZeMthVlLr3CFHYOUfv5U5) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Stille EP](https://open.spotify.com/album/5YzhHMU4eQyu1aovE6Bj0S) | 2:59 |
 
-Snapshot ID: `AAAAAMHfADlngHGXha9rpZ/nFeU3L7LB`
+Snapshot ID: `AAAAAPpq/aNfSIchSTH+1tt+cZcZV3NW`

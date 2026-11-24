@@ -1,12 +1,12 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f Lo nuevo y lo mejor de la salsa.",
-  "num_followers": 1847237,
+  "num_followers": 1847085,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN9BhF/kMexk74pz/r+M+v7jYC2h",
+  "snapshot_id": "AAAAAOF72VjhL6IcLpCYRdJ8ZhXg3RuW",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:46",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Caer y Levantarse",
-        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 270925,
-      "name": "Caer y Levantarse",
-      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Yo Deluxe",
         "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/7utWV0K0bud4V8tca7S5Sl"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Cosa Extra\u00f1a",
+      "url": "https://open.spotify.com/track/18z0OksR0zYfEHA7WkADf9"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "un",
         "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Mal Necesario",
-        "url": "https://open.spotify.com/album/7utWV0K0bud4V8tca7S5Sl"
+        "name": "Caer y Levantarse",
+        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 179437,
-      "name": "Cosa Extra\u00f1a",
-      "url": "https://open.spotify.com/track/18z0OksR0zYfEHA7WkADf9"
+      "duration_ms": 270925,
+      "name": "Caer y Levantarse",
+      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+        "name": "Oro Salsero (Vol 2)",
+        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
       },
       "artists": [
         {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 296133,
-      "name": "P\u00e1ginas De Amor",
-      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+      "duration_ms": 298546,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1311,34 +1311,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Oro Salsero (Vol 2)",
-        "url": "https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh"
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
         }
       ],
-      "duration_ms": 298546,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
+      "duration_ms": 296133,
+      "name": "P\u00e1ginas De Amor",
+      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1363,6 +1347,22 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Doble Vida",
+      "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 278920,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/4TlKKyNg7S07aEgoh8eEw5"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "Soy La Candela",
         "url": "https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 209723,
       "name": "LA RONDA",
       "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 278920,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/4TlKKyNg7S07aEgoh8eEw5"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Me Espera (La Salsa del Nonno)",
-        "url": "https://open.spotify.com/album/6t4tcMhyknRfmN9s3EewpE"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 220746,
-      "name": "Me Espera (La Salsa del Nonno) - Esp. Vesion",
-      "url": "https://open.spotify.com/track/5WXqJIriE5tbaRiXtVE2lo"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/2egG2DlANQY3fxAI3gOaCZ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 281400,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/72AMsl79P96E6rz36zQ7Rc"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Me Espera (La Salsa del Nonno)",
+        "url": "https://open.spotify.com/album/6t4tcMhyknRfmN9s3EewpE"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 220746,
+      "name": "Me Espera (La Salsa del Nonno) - Esp. Vesion",
+      "url": "https://open.spotify.com/track/5WXqJIriE5tbaRiXtVE2lo"
     },
     {
       "added_at": "2026-10-02 04:02:46",

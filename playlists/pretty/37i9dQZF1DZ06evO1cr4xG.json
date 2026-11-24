@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 90043,
+  "num_followers": 90052,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAACApHITonKA/4b0/6SLbvaM",
+  "snapshot_id": "awIwgAAAAADDX3pBHrlIO2s2ieQm2omm",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crown In The Grave",
+        "url": "https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "The Haunting Never Ends",
+      "url": "https://open.spotify.com/track/3K7dldjDIssU1prAKTiUh2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -132,9 +148,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 186906,
-      "name": "The Haunting Never Ends",
-      "url": "https://open.spotify.com/track/3K7dldjDIssU1prAKTiUh2"
+      "duration_ms": 254520,
+      "name": "Lie Of It All",
+      "url": "https://open.spotify.com/track/61U5VlqhMjxWYoIfww076d"
     },
     {
       "added_at": null,
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 254520,
-      "name": "Lie Of It All",
-      "url": "https://open.spotify.com/track/61U5VlqhMjxWYoIfww076d"
+      "duration_ms": 276133,
+      "name": "Death Throes",
+      "url": "https://open.spotify.com/track/19mGhL2FbJJqLHaouiWvau"
     },
     {
       "added_at": null,
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 276133,
-      "name": "Death Throes",
-      "url": "https://open.spotify.com/track/19mGhL2FbJJqLHaouiWvau"
+      "duration_ms": 264173,
+      "name": "Blackout The Dawn",
+      "url": "https://open.spotify.com/track/5N9VFOZVhZdnVmU6xuoieG"
     },
     {
       "added_at": null,
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 264173,
-      "name": "Blackout The Dawn",
-      "url": "https://open.spotify.com/track/5N9VFOZVhZdnVmU6xuoieG"
+      "duration_ms": 191480,
+      "name": "Paradise Of Sinners",
+      "url": "https://open.spotify.com/track/1S5zzDuq7LZ9Vi2kC6QW9Z"
     },
     {
       "added_at": null,
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 191480,
-      "name": "Paradise Of Sinners",
-      "url": "https://open.spotify.com/track/1S5zzDuq7LZ9Vi2kC6QW9Z"
+      "duration_ms": 246800,
+      "name": "The Agony",
+      "url": "https://open.spotify.com/track/2AuKzHppidpoTCWGeeNVkg"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
       "duration_ms": 317174,
       "name": "Struck Dead",
       "url": "https://open.spotify.com/track/3b8yFZD80QgsltsbrYjJXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crown In The Grave",
-        "url": "https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "The Agony",
-      "url": "https://open.spotify.com/track/2AuKzHppidpoTCWGeeNVkg"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 249653,
-      "name": "The Ghost That's Haunting You",
-      "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
+      "duration_ms": 226426,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 226426,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
+      "duration_ms": 249653,
+      "name": "The Ghost That's Haunting You",
+      "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
     }
   ],
   "unique_name": "This Is Trivium",

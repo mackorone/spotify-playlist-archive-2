@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 498499,
+  "num_followers": 498486,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADTBIY0IO2aSWg7cDbeOdltA4low",
+  "snapshot_id": "AAAAAH8G6KPLZV0q82V8fAgU3eEtqIUp",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:43",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "The Best of Dewa 19",
+        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Kamulah Satu - Satunya",
+      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Sialan",
         "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
-        "name": "The Best of Dewa 19",
-        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "Kamulah Satu - Satunya",
-      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "MARKERS AND SUCH PENS FLASHDISKS",
-        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 231187,
-      "name": "Semua lagu cinta",
-      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Marion",
         "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 295542,
       "name": "Badai Telah Berlalu",
       "url": "https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 231187,
+      "name": "Semua lagu cinta",
+      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -989,7 +989,7 @@
       "artists": [
         {
           "name": "Alexa",
-          "url": "https://open.spotify.com/artist/19aDvXqd8iJncnUTcxy4Ge"
+          "url": "https://open.spotify.com/artist/7kgIhvlm3erTv0zwykiOPy"
         }
       ],
       "duration_ms": 241000,
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
-        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 249503,
-      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
-      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "It's Me BCL",
         "url": "https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 211965,
       "name": "Aku Wanita (with Dipha Barus)",
       "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
+        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 249503,
+      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
+      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "The Best Of Andre Hehanussa",
-        "url": "https://open.spotify.com/album/3Y2EhVB5y5EhZ8arApRoas"
-      },
-      "artists": [
-        {
-          "name": "Andre Hehanussa",
-          "url": "https://open.spotify.com/artist/76uP2Wqg5YSfW8JLOQk4Qb"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "KKEB",
-      "url": "https://open.spotify.com/track/71NQP11KgFDEJzzrks7wcn"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Hit Singles BCL And More",
         "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 292306,
       "name": "Karena Kucinta Kau",
       "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "The Best Of Andre Hehanussa",
+        "url": "https://open.spotify.com/album/3Y2EhVB5y5EhZ8arApRoas"
+      },
+      "artists": [
+        {
+          "name": "Andre Hehanussa",
+          "url": "https://open.spotify.com/artist/76uP2Wqg5YSfW8JLOQk4Qb"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "KKEB",
+      "url": "https://open.spotify.com/track/71NQP11KgFDEJzzrks7wcn"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "Cinta Pertama",
+        "url": "https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Cinta Pertama (Sunny)",
+      "url": "https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Dengan Caraku",
         "url": "https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 272631,
       "name": "Dengan Caraku",
       "url": "https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
-        "name": "Cinta Pertama",
-        "url": "https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Cinta Pertama (Sunny)",
-      "url": "https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih"
     },
     {
       "added_at": "2026-02-27 14:15:43",

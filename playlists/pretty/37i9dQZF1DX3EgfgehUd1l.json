@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 179426,
+  "num_followers": 179417,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI6gMljQkFQd45PB5uf8ha/dbU40",
+  "snapshot_id": "AAAAAMx73AOw2PYl/2MNC/g0agqFx4n3",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 119837,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits: Walking To New Orleans",
-        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 143440,
-      "name": "Blueberry Hill - Remastered 2002",
-      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 206072,
       "name": "Love Me Tender - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/1bZdOnI0GIcB2xqQqQH7DY"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Greatest Hits: Walking To New Orleans",
+        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 143440,
+      "name": "Blueberry Hill - Remastered 2002",
+      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 144066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 148493,
       "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
       "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 144066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Definitive Pop: The Everly Brothers",
-        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 168288,
       "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
       "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Definitive Pop: The Everly Brothers",
+        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best Of Tony Brent",
-        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
-      },
-      "artists": [
-        {
-          "name": "Tony Brent",
-          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Make It Soon - 1999 Remaster",
-      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Guaglione",
         "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 161333,
       "name": "Come prima",
       "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Best Of Tony Brent",
+        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
+      },
+      "artists": [
+        {
+          "name": "Tony Brent",
+          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Make It Soon - 1999 Remaster",
+      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
     },
     {
       "added_at": "2023-10-17 16:18:55",

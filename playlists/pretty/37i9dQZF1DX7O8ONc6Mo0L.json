@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 389914,
+  "num_followers": 389982,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALqcwv+/k9qbURFfZbigsyMutb+d",
+  "snapshot_id": "AAAAABGb5qkNKe0ayZcknTMStRRjl2hW",
   "tracks": [
     {
       "added_at": "2026-11-20 13:09:55",
@@ -467,6 +467,26 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
+        "name": "Me Alegrar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5mV6q57MdDUSRU7G7LAmUA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Me Alegrar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1APH91wfvZVnKZKLsNP2Cp"
+    },
+    {
+      "added_at": "2026-11-20 13:09:55",
+      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 380520,
       "name": "Florescer",
       "url": "https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0"
-    },
-    {
-      "added_at": "2026-11-20 13:09:55",
-      "album": {
-        "name": "Me Alegrar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5mV6q57MdDUSRU7G7LAmUA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Me Alegrar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1APH91wfvZVnKZKLsNP2Cp"
     },
     {
       "added_at": "2026-11-20 13:09:55",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-11-20 13:09:55",
       "album": {
-        "name": "Eu e o Rei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 337525,
-      "name": "Eu e o Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
-    },
-    {
-      "added_at": "2026-11-20 13:09:55",
-      "album": {
         "name": "Viver Em Comunh\u00e3o",
         "url": "https://open.spotify.com/album/7vpCq0TqxtBc8Ye0K0ZHCb"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 159000,
       "name": "Viver Em Comunh\u00e3o - Ac\u00fastico Ao Vivo",
       "url": "https://open.spotify.com/track/2NkA66BkNG4qINmvobpcvz"
+    },
+    {
+      "added_at": "2026-11-20 13:09:55",
+      "album": {
+        "name": "Eu e o Rei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 337525,
+      "name": "Eu e o Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
     },
     {
       "added_at": "2026-11-20 13:09:55",

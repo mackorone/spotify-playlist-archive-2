@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-219 songs - 12 hr 47 min
+222 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Holding](https://open.spotify.com/track/47NrciGzvU6RGZ3nVue5BE) | [Max1](https://open.spotify.com/artist/69b4ydZadh6w5FrfTm1Zwh) | [Against the FALL](https://open.spotify.com/album/0bEw8zPxgpXZlQzkdwTsQb) | 4:06 | 2025-11-02 | 2025-12-09 |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-07 | 2025-12-09 |
 | [Home](https://open.spotify.com/track/6t43UbUBVc3a3X4sQLc2BJ) | [CALDAERA](https://open.spotify.com/artist/7e142HcUPLKYMr3krYaPKt) | [Home](https://open.spotify.com/album/6LGW8Mg243k9xtdhs3QxtK) | 4:16 | 2025-11-01 | 2025-12-09 |
+| [Home](https://open.spotify.com/track/3XF2darIe2LTIXzlJ8mnzF) | [N2E\-NottwoEasy](https://open.spotify.com/artist/5xBhLcIgakIWCzVQ8LgNvz) | [Home](https://open.spotify.com/album/7lUrBl93vleB53jeKKyCNH) | 3:26 | 2026-11-23 |  |
 | [HOME](https://open.spotify.com/track/5SSwaaEflTrax8JPsW6ZkC) | [Scarlet City](https://open.spotify.com/artist/49klWMejrBkHg8mUW4tQrj) | [HOME](https://open.spotify.com/album/09ldHO1i16Ygsxi4CXzinL) | 3:05 | 2025-11-03 | 2025-12-09 |
 | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 | 2026-06-03 |  |
 | [House of Affection](https://open.spotify.com/track/0sHhdvNQBMxDNfC9ZzPWEi) | [Talles Cattarin](https://open.spotify.com/artist/77SAbQybNSZmuluK93v8AO) | [House of Affection](https://open.spotify.com/album/4t1EDjbrbUiGlyVgRZAtDs) | 3:25 | 2025-11-06 | 2025-12-09 |
@@ -102,6 +103,7 @@
 | [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-15 |  |
 | [I\-95](https://open.spotify.com/track/4Sh3dTSxURmD84A9tavTWc) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:53 | 2026-06-21 |  |
 | [If I Die](https://open.spotify.com/track/6p1154wPVVepKN9XxLRVJQ) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 3:42 | 2026-05-31 |  |
+| [If I Leave](https://open.spotify.com/track/6AIay8XGCE1EQaAU34Yo0j) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg), [Nick Barone](https://open.spotify.com/artist/44ZrVV2xoUesi81G23Th9i) | [If I Leave](https://open.spotify.com/album/0Zc0PYs6sdtFUL5lSeQw6T) | 3:34 | 2026-11-23 |  |
 | [If I Was A Ghost](https://open.spotify.com/track/5YfgZXyqNf9vOAI9iNRNFj) | [Dar1en](https://open.spotify.com/artist/4YQi46tcPcgpcABa2vVF6n) | [If I Was A Ghost](https://open.spotify.com/album/0PkjL6ESR2Fav9OToP3UVd) | 3:08 | 2025-11-13 | 2026-03-15 |
 | [Ill Prepared](https://open.spotify.com/track/0jSvYQyCBmtVcXb8uSUGvm) | [Aquarius Blue](https://open.spotify.com/artist/1wDJPxelLABSCLlS39l5Y0) | [Black & Blue 4u](https://open.spotify.com/album/6kEDZDoPcsW1oAL5sK5UzT) | 3:54 | 2026-09-22 |  |
 | [INSTINTOS](https://open.spotify.com/track/2dz1D6WQn8nZUVCxVuftas) | [REGIO](https://open.spotify.com/artist/0s0flUIzQsZF0HKCrqX2xL) | [INSTINTOS](https://open.spotify.com/album/5qA7tHnprPBLmki6WXQKk9) | 4:22 | 2026-07-22 |  |
@@ -216,6 +218,7 @@
 | [Working Nights and Weekends](https://open.spotify.com/track/3BBs9GYT85irXh1iaaM02o) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Working Nights and Weekends](https://open.spotify.com/album/3j87mSrNLlK02e3fUTgiXi) | 3:23 | 2026-06-21 |  |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-29 | 2025-12-09 |
 | [World Of Thirds](https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [MIK's Tape](https://open.spotify.com/album/2fhP1JdNOxSnAjjS739uQL) | 3:49 | 2025-11-25 | 2026-06-14 |
+| [Yo Quebré Tu Corazón](https://open.spotify.com/track/2V8QtChjDwcQHiqc9mWx3y) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Yo Quebré Tu Corazón](https://open.spotify.com/album/0swb7yBxDIRhe764xEsGS8) | 3:45 | 2026-11-23 |  |
 | [You Got The Chops](https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [You Got The Chops](https://open.spotify.com/album/0ruXTwor3TO4B7Y8MZJt0I) | 4:00 | 2026-01-22 |  |
 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-06-03 |  |
 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 | 2026-08-27 |  |

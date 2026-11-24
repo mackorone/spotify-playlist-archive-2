@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: justinforthis\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-864 songs - 1 day 21 hr 56 min
+865 songs - 1 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,7 @@
 | [ROWROW \(feat\. JAEHA & Street Baby\)](https://open.spotify.com/track/2jubtw4DrIUTwHRtlZxFxl) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 2:30 | 2022-07-14 | 2022-07-17 |
 | [Ruby \(Feat\. Gist\)](https://open.spotify.com/track/0Z3om4bmisjO5e97PQizEe) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [zillamode 4](https://open.spotify.com/album/6O7AASfdsj9oQMAV3do7yF) | 2:22 | 2022-06-09 | 2022-07-01 |
 | [Run away](https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 2:25 | 2022-04-01 | 2026-03-14 |
-| [run it back](https://open.spotify.com/track/3W3ozTGLZNXEiLDtnuwOFB) | [rosy](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [run it back](https://open.spotify.com/album/37kq1v7lGL5TlF2wCWiUfI) | 2:22 | 2026-10-23 |  |
+| [run it back](https://open.spotify.com/track/3W3ozTGLZNXEiLDtnuwOFB) | [rosy](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [run it back](https://open.spotify.com/album/37kq1v7lGL5TlF2wCWiUfI) | 2:22 | 2026-10-23 | 2026-11-24 |
 | [Running Up \(feat\. Loopy\)](https://open.spotify.com/track/6IDUUvEtYdulauqCdCejXF) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 2:13 | 2023-03-22 | 2023-04-07 |
 | [S2 \(feat\. PUP\)](https://open.spotify.com/track/2YmLArTfOhxCnBfxbXMekK) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [PUP](https://open.spotify.com/artist/6FOvvhBeIv1hZxIWAMuWV6) | [S2 \(feat\. PUP\)](https://open.spotify.com/album/0318L0SYTl2AgyBCM8Ju5t) | 3:04 | 2022-06-18 | 2022-07-15 |
 | [SAD BOY](https://open.spotify.com/track/6QvZoyYSh7PkHQ3onJBjbr) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [A LOVE LETTER FROM THE SAD BOY](https://open.spotify.com/album/6vcTyikf0IfJ19LWAQBXdA) | 4:04 | 2022-04-21 | 2022-04-26 |
@@ -868,6 +868,7 @@
 | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 | 2026-06-21 |
 | [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 | 2024-04-24 | 2024-07-18 |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 | 2022-09-01 |
+| [소라색\(Serenity\)](https://open.spotify.com/track/38H4u9icNiBSxnKZM61Wgp) | [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [소라색\(Serenity\)](https://open.spotify.com/album/02TJ8ehMVVfnvXir1Ru6Uw) | 2:51 | 2026-11-19 |  |
 | [애 \(just like uh huh\)](https://open.spotify.com/track/383c6EPYFELVPnQObxy026) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [audiogothh](https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR) | [희 / 노 / 애 / 락](https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf) | 3:08 | 2026-02-06 | 2026-03-14 |
 | [오염](https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [오염,추](https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ) | 2:45 | 2022-09-06 | 2023-04-17 |
 | [이 고요가 너무 좋아](https://open.spotify.com/track/2KvpeVhE15918QtnCc3QCJ) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [수면마취](https://open.spotify.com/album/4aXsVV3ulNKMj6H3TZThgS) | 3:06 | 2022-04-01 | 2022-07-14 |

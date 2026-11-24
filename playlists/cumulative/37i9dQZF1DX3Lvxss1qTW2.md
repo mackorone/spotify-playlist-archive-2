@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: Kidd Carder & BNXN
 
-971 songs - 1 day 20 hr 23 min
+972 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [BAD GIRL](https://open.spotify.com/track/5zQZDxmfSGutv2RG1x57Xb) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [BAD GIRL](https://open.spotify.com/album/1R2WMCImWOIUOqh599TORo) | 2:46 | 2026-05-22 | 2026-06-12 |
 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 | 2024-11-22 | 2025-01-31 |
 | [Bad Guyz](https://open.spotify.com/track/2ldT01LXWYnfhqnwidnEgG) | [Champz](https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs), [Paranormal Dj](https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68) | [Young Poet](https://open.spotify.com/album/0nHn9AApVFtQ0exBt9Gf4Q) | 2:33 | 2026-03-20 | 2026-04-03 |
-| [Bahubali](https://open.spotify.com/track/2jSkGbyUK1VmBXE3hgJyBl) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Bahubali](https://open.spotify.com/album/3sg7XmCUiue0W7dW77hS0b) | 2:24 | 2026-09-25 |  |
+| [Bahubali](https://open.spotify.com/track/2jSkGbyUK1VmBXE3hgJyBl) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Bahubali](https://open.spotify.com/album/3sg7XmCUiue0W7dW77hS0b) | 2:24 | 2026-09-25 | 2026-11-24 |
 | [BALANCE \(with Lasmid\)](https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [BALANCE \(with Lasmid\)](https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED) | 2:46 | 2025-11-28 | 2026-03-13 |
 | [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 | 2025-09-19 | 2026-03-20 |
 | [BALENCIAGA II](https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [SAMA'](https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [BALENCIAGA II](https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug) | 5:01 | 2025-12-05 | 2026-01-15 |
@@ -303,6 +303,7 @@
 | [Finally \(feat\. Sons of Sonix\)](https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:09 | 2024-07-19 | 2024-09-20 |
 | [Fine Girl](https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Fine Girl](https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR) | 2:36 | 2024-12-13 | 2025-05-09 |
 | [Fine Shiii](https://open.spotify.com/track/5SwcI97gcKSlQtmwKtI855) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk) | [Fine Shiii](https://open.spotify.com/album/29HBh5SZ1OFlINEUILcnDG) | 2:28 | 2026-05-08 | 2026-06-19 |
+| [FINE SHIT](https://open.spotify.com/track/1HljNtyI1FuDDaeVhiGR1z) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [FINE SHIT](https://open.spotify.com/album/1NAF5JmDyhAJ4MzeI50zgQ) | 2:20 | 2026-11-23 |  |
 | [FINE SHYT \(feat\. Tml Vibez\)](https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [No Excuses Deluxe](https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0) | 2:12 | 2026-04-17 | 2026-07-31 |
 | [Fini](https://open.spotify.com/track/750xvuULIPZ4U5vk251SvI) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Fini](https://open.spotify.com/album/4kEVAL6PC7RAZZRkyr1z0L) | 1:52 | 2025-06-27 | 2025-09-20 |
 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 | 2024-07-19 | 2024-10-26 |

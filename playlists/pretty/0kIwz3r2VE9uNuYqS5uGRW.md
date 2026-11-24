@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 302 songs - 15 hr 55 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 305 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -310,5 +310,8 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 300 | [empecemos devuelta](https://open.spotify.com/track/6F17ZOfEoSSHJeYXLrsnqI) | [amazing](https://open.spotify.com/artist/0mkweBNmdERTJdBeTCIJby), [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy) | [zetahayunosolo](https://open.spotify.com/album/4B6ynl0EHi4wVGidxfGzjp) | 2:21 |
 | 301 | [Ban2leros \#1](https://open.spotify.com/track/3FIZxxvk9GDlxiFlVFaibx) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Migue Ceballos](https://open.spotify.com/artist/2J1JjCZxLNmw8CRKADx9qe) | [Ban2leros \#1](https://open.spotify.com/album/2moNJyy7a1uxT0CoRyWuDP) | 2:05 |
 | 302 | [All the Days](https://open.spotify.com/track/1JKMMx5g3ShrVa0R7vjdqU) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [All the Days](https://open.spotify.com/album/0Y08f2d57uXxG4dj1zIzHf) | 5:08 |
+| 303 | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy) | 2:55 |
+| 304 | [Tx](https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy) | [Tx](https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6) | 2:38 |
+| 305 | [One Night Glance](https://open.spotify.com/track/6frjxTxA4yHrNrifHlMSNL) | [Medikate](https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh) | [One Night Glance](https://open.spotify.com/album/3cj11FNtdUKsNgkMtL2j7S) | 2:18 |
 
-Snapshot ID: `AAAWNAIRB04DmfzEqMLu7xNhDHf3Q5GE`
+Snapshot ID: `AAAWN/Qpkg89jx1BL/3Y0ZSLgWSydjdw`

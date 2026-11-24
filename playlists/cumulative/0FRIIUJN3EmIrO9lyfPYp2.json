@@ -3877,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "damaged (slowed + reverb)",
+        "url": "https://open.spotify.com/album/0sYvttzP9do97Q16hMaQwM"
+      },
+      "artists": [
+        {
+          "name": "kurisu.",
+          "url": "https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140564,
+      "name": "damaged - slowed + reverb",
+      "url": "https://open.spotify.com/track/3AOgMlXUrYIDnKXkm66VQG"
+    },
+    {
+      "album": {
         "name": "human error",
         "url": "https://open.spotify.com/album/1ZgIOm26Sc6dvBfuNwxHN8"
       },
@@ -13207,6 +13225,24 @@
     },
     {
       "album": {
+        "name": "noise",
+        "url": "https://open.spotify.com/album/709A55hnlqvFImbw68Ndds"
+      },
+      "artists": [
+        {
+          "name": "empty street",
+          "url": "https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99776,
+      "name": "noise",
+      "url": "https://open.spotify.com/track/0fBdasTdX0SvSLxWSAcUnU"
+    },
+    {
+      "album": {
         "name": "Samsara Passengers",
         "url": "https://open.spotify.com/album/1ZO0FfO35vAA2Z6Qnp2xEC"
       },
@@ -18581,7 +18617,7 @@
         },
         {
           "name": "dreamveil",
-          "url": "https://open.spotify.com/artist/2rS07JNfWaQ1W4R83bM6HW"
+          "url": "https://open.spotify.com/artist/0F2gYjk0T59nQZiJUgogLa"
         }
       ],
       "date_added": "2026-11-21",
@@ -19118,6 +19154,24 @@
       "duration_ms": 98250,
       "name": "unspoken",
       "url": "https://open.spotify.com/track/6CkShYe5Qi2qPfOeV9ogPo"
+    },
+    {
+      "album": {
+        "name": "unstable",
+        "url": "https://open.spotify.com/album/47JtznOkHu5gwQE4JGDsIc"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90461,
+      "name": "unstable",
+      "url": "https://open.spotify.com/track/4Mxcx5LfOwYBoYrsdMEbbS"
     },
     {
       "album": {

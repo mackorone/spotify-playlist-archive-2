@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,288 likes - 44 songs - 2 hr 52 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,288 likes - 45 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 42 | [Hurt Me](https://open.spotify.com/track/5SZDQAuJ1Gpzy8RE0E3sD4) | [Sia Vaiz](https://open.spotify.com/artist/3KXDHgGTsVxS9tVl3bVX64) | [Muscle](https://open.spotify.com/album/3QmwsT82fU3YeGYPAbKGyX) | 4:17 |
 | 43 | [Synthimacy](https://open.spotify.com/track/5CPQEzZj3kYN84JDIZmphl) | [NOXON](https://open.spotify.com/artist/60v7Pw2EQJBDbGo3vAdCQH) | [Synthimacy](https://open.spotify.com/album/06S4JQAzX9Y8wfQipQWRmY) | 3:31 |
 | 44 | [Narcisos](https://open.spotify.com/track/3LSJOhY0BCCfPvwLBbKy3H) | [Kamy](https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS) | [Narcisos](https://open.spotify.com/album/2FnbIvZBheqlp9hrrjeYcK) | 2:47 |
+| 45 | [Bad News Bear](https://open.spotify.com/track/06gijoAL4er9g0FWqWUrsL) | [Tanner Boyle](https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt) | [Bad News Bear](https://open.spotify.com/album/6STKhZJUlBl6aKEyxXvlkq) | 4:16 |
 
-Snapshot ID: `AAAkczaHvbqIRPpyzNm+6XBl8rChX/Nb`
+Snapshot ID: `AAAkdNzEqtPuVmb3C6hnBOq/Ax1heR5+`

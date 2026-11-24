@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Riel
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,193 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,194 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 111 | [Gringa Gringa](https://open.spotify.com/track/561pFwIK3pcEg4MIgZVFrz) | [SHOOSH](https://open.spotify.com/artist/1WNMpyIs1PTzPLklyRRpfb) | [Gringa Gringa](https://open.spotify.com/album/19w6WAIKzdEImIdLeYlyAs) | 4:59 |
 | 112 | [Inmundo](https://open.spotify.com/track/4N2zuwpqbbKYzOZujAZhXd) | [Fuun](https://open.spotify.com/artist/6Y1pJTGK0tkRmWbcxMrq15) | [Inmundo](https://open.spotify.com/album/7zntLSAIKktiByDvS71Nka) | 3:22 |
 
-Snapshot ID: `AAAAABK+oI5ywhhooJVXmILj4OsqCndU`
+Snapshot ID: `AAAAAHqJC6vQAQV2Q6Vy1AGG6z0uVbZ4`

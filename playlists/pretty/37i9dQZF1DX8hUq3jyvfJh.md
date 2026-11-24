@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça BUDAH e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">BUDAH</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,149 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,152 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 25 | [Feature Me](https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:21 |
 | 26 | [Dilema](https://open.spotify.com/track/4fJWANIINf6cHT0woUuxkL) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Me Dá Uma Luz](https://open.spotify.com/album/0a5I4iN5Vrq6K5b8dUAFgQ) | 3:11 |
 | 27 | [Break Me Off](https://open.spotify.com/track/0KDYm0fzKFjavVoRA0T3vM) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Comes to Light](https://open.spotify.com/album/081jLkJYWGp76MJTPu650Z) | 2:54 |
-| 28 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
-| 29 | [ELA GOSTA DE MENINA](https://open.spotify.com/track/2Iaj6B6CmvrCDa3fhYOs1K) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:27 |
+| 28 | [ELA GOSTA DE MENINA](https://open.spotify.com/track/2Iaj6B6CmvrCDa3fhYOs1K) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:27 |
+| 29 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 30 | [Donas do Plaque](https://open.spotify.com/track/0mdytA1LWltYL5LPzE3ltU) | [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk) | [Donas do Plaque](https://open.spotify.com/album/42Ni9CX6XB5OuteqOIjG6L) | 4:02 |
 | 31 | [INTUIÇÃO](https://open.spotify.com/track/0maxReIRGuc3rYIaAc2qxW) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 3:45 |
 | 32 | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC) | 2:30 |
 | 33 | [Coisa De Pele \- Ao Vivo](https://open.spotify.com/track/3jiiKkspnb3OVLKPxocjwE) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos – A Experiência \(Ao Vivo\)](https://open.spotify.com/album/3vYeDMqdfmPRURnvr2dEM7) | 3:33 |
-| 34 | [Foca em mim \- Spotify Singles](https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Foca em mim \- Spotify Singles](https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN) | 2:11 |
-| 35 | [Dedo no Gatilho](https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Dedo no Gatilho](https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG) | 2:43 |
-| 36 | [FEEL SOMETHING](https://open.spotify.com/track/20QCGkd9sKJKuBbkWUkb3b) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 2:32 |
+| 34 | [FEEL SOMETHING](https://open.spotify.com/track/20QCGkd9sKJKuBbkWUkb3b) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 2:32 |
+| 35 | [Foca em mim \- Spotify Singles](https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Foca em mim \- Spotify Singles](https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN) | 2:11 |
+| 36 | [Dedo no Gatilho](https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Dedo no Gatilho](https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG) | 2:43 |
 | 37 | [Dharma](https://open.spotify.com/track/5jSzJVIrtAaj6xQtslPBq8) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [AJULLIACOSTA: WE4Sessions](https://open.spotify.com/album/4hlz09t1ElUNWchQPwLo6W) | 3:20 |
 | 38 | [Mundo das Espertas](https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 4:02 |
 | 39 | [QUENTE](https://open.spotify.com/track/0u36aIP4TgvvRcvP8GxB9C) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [ECLIPSE](https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Me Tem](https://open.spotify.com/track/2LOJz7RtrxujgbDrOF5FeO) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Me Tem](https://open.spotify.com/album/5wgLpUq2DWBHj1HFbLSoKP) | 2:55 |
 | 50 | [Bonde do esculacho](https://open.spotify.com/track/7cTN37m9Lhl1p6QAH5d0V6) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [Bonde do esculacho](https://open.spotify.com/album/1gHE3XGsJxsqHFdUZKk6xZ) | 2:08 |
 
-Snapshot ID: `AAAAAMMOWv4lgjNab/IB0JTA+6NX/9pS`
+Snapshot ID: `AAAAAAh+w/Xm6jaFKCcG89d9bjTP+qxN`

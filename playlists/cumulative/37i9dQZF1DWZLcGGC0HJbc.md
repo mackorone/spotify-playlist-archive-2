@@ -4,7 +4,7 @@
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-345 songs - 20 hr 34 min
+346 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 | 2026-09-10 |  |
 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 | 2025-07-03 | 2025-09-20 |
 | [Lullabye For Losers](https://open.spotify.com/track/7GGwiBcQbfTWnYx2ZK3Byk) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Rock Bottom Ballads](https://open.spotify.com/album/47fvZIFsSRHdYQW378dNlZ) | 4:29 | 2024-06-27 | 2024-07-19 |
+| [Make A Living](https://open.spotify.com/track/5F9rXjjmy8zY1VCZgaNZhZ) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Make A Living](https://open.spotify.com/album/4oKXfybVgUOj3zb8acJQAG) | 3:23 | 2026-11-23 |  |
 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 | 2026-07-07 | 2026-11-13 |
 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 | 2026-03-30 | 2026-07-18 |
 | [Miffed It](https://open.spotify.com/track/4wmnvRtZ4BNmXQ4sRrUbpg) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly) | 4:06 | 2026-07-07 | 2026-11-13 |
@@ -297,7 +298,7 @@
 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 | 2025-04-17 | 2025-09-26 |
 | [the blue hour](https://open.spotify.com/track/1o1WWgL6RNxUylfh3l0m2E) | [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [once a blue hour](https://open.spotify.com/album/3LxcnMgbkssjwIc5LB0upr) | 2:52 | 2025-07-03 | 2025-09-20 |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2026-07-07 | 2026-10-16 |
-| [The Dog](https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [The Dog](https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad) | 5:01 | 2025-08-14 |  |
+| [The Dog](https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [The Dog](https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad) | 5:01 | 2025-08-14 | 2026-11-24 |
 | [The Gallery](https://open.spotify.com/track/3HLo1lNhX00b4DH2yRmGYE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:12 | 2025-07-03 | 2025-09-20 |
 | [The Giant](https://open.spotify.com/track/5Jl6UX6DzT1nf5EiuPdfuk) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [The Giant](https://open.spotify.com/album/60JyYSkfOJB9JlcUl5HNs2) | 8:12 | 2024-08-30 | 2025-01-24 |
 | [The Kid](https://open.spotify.com/track/6nuaqxG949UzL6pLZLVCb8) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [The Kid](https://open.spotify.com/album/7gEfwwmCPea9IDGTGCQixd) | 3:37 | 2026-10-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Suena",
-  "num_followers": 51842,
+  "num_followers": 51834,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACU6HmXxdukmgpK9sK7EK0oKfdSZ",
+  "snapshot_id": "AAAAAFIFkDSvyntVMqHCBTnH7Dpb9y8a",
   "tracks": [
     {
       "added_at": "2026-11-10 23:00:18",
@@ -480,7 +480,7 @@
           "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
         }
       ],
-      "duration_ms": 210446,
+      "duration_ms": 210197,
       "name": "kontrolle (interlude)",
       "url": "https://open.spotify.com/track/5xjTqKeAfaNIwKDtsInoYe"
     },
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-11-10 23:00:18",
       "album": {
-        "name": "Andersson Funeral Home",
-        "url": "https://open.spotify.com/album/4LVy5KnKjaN6h6DBC8lVVD"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 225687,
-      "name": "Good timing (Good girl) - Bonus Track",
-      "url": "https://open.spotify.com/track/6cVIIAFjpYkNH5slgvYIOh"
-    },
-    {
-      "added_at": "2026-11-10 23:00:18",
-      "album": {
         "name": "Frieden",
         "url": "https://open.spotify.com/album/5tLBntYjVWu4tS1midufJm"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 137538,
       "name": "Frieden",
       "url": "https://open.spotify.com/track/2JGCidUP7ItZ5bbigZ4vCy"
+    },
+    {
+      "added_at": "2026-11-10 23:00:18",
+      "album": {
+        "name": "Andersson Funeral Home",
+        "url": "https://open.spotify.com/album/4LVy5KnKjaN6h6DBC8lVVD"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 225687,
+      "name": "Good timing (Good girl) - Bonus Track",
+      "url": "https://open.spotify.com/track/6cVIIAFjpYkNH5slgvYIOh"
     },
     {
       "added_at": "2026-11-10 23:00:18",

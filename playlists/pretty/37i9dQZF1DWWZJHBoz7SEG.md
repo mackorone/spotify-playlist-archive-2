@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Rolitas que te vienen a revolucionar la semana, Paloma Morphy en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259,250 likes - 82 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,259,143 likes - 82 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 77 | [Al fin me conozco](https://open.spotify.com/track/5OYMi8apzl0uNPECtGX8CG) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Al fin me conozco](https://open.spotify.com/album/6uNSwe5peIcOeVEReDvQUw) | 2:16 |
 | 78 | [KURAMA](https://open.spotify.com/track/14QOOM7BwqmQyeQETVOZKZ) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [KURAMA](https://open.spotify.com/album/4pgdMAn8zkYYo1lI2HOsX0) | 3:39 |
 | 79 | [Como ratón al queso](https://open.spotify.com/track/7Mno36Ot96tk1CpjWDRgYI) | [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ), [Beangel](https://open.spotify.com/artist/0r4vWhARLwFqZ8hCzPKryf) | [Como ratón al queso](https://open.spotify.com/album/53zCzQ9e1QP8AauVfk48BT) | 3:12 |
-| 80 | [SPÍRITUS](https://open.spotify.com/track/1CNFMPKL6jW1MnvMclGHMr) | [Jesse and The Supernovas](https://open.spotify.com/artist/6RbNIcxsKnVidiYwkshQgH) | [SPÍRITUS](https://open.spotify.com/album/0PKeldyOuuxKVgjQ21m2nh) | 4:11 |
+| 80 | [SPIRITUS](https://open.spotify.com/track/1CNFMPKL6jW1MnvMclGHMr) | [Jesse and The Supernovas](https://open.spotify.com/artist/6RbNIcxsKnVidiYwkshQgH) | [SPIRITUS](https://open.spotify.com/album/0PKeldyOuuxKVgjQ21m2nh) | 4:11 |
 | 81 | [INTENSO](https://open.spotify.com/track/3zECAmenZqFieCRGLfG3Jn) | [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [INTENSO](https://open.spotify.com/album/5vrSCb808EdjxsM2s63xRd) | 2:51 |
 | 82 | [LA DISCO](https://open.spotify.com/track/5fZpqin8sQoaIgllciJJQP) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Gil Cerezo](https://open.spotify.com/artist/0IriYFJ4bOlHotHiwweJdG), [NOESUNAETAPA](https://open.spotify.com/artist/3WovYsWH9obL3GJCSndSwo) | [LA DISCO](https://open.spotify.com/album/1lMZZxupnuWKUuTRThOEA7) | 4:37 |
 
-Snapshot ID: `AAAAADqnetnzsVUwiWUyPGd9WO5ETsVe`
+Snapshot ID: `AAAAAI9iqOqRw6K9JDAHq/BA3ERICSvB`

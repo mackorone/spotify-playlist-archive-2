@@ -3185,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "DE GIER",
+        "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159564,
+      "name": "Belangrijk",
+      "url": "https://open.spotify.com/track/1SStwka8Rc6xFWMsViJgOf"
+    },
+    {
+      "album": {
         "name": "Believe (Shooting Stars)",
         "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
       },
@@ -19292,7 +19310,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 195285,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
@@ -28466,7 +28484,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 120920,
       "name": "VOODOO",
       "url": "https://open.spotify.com/track/1m6CMEuJPdFJolVZOyuuy8"
@@ -29896,6 +29914,24 @@
       "duration_ms": 161901,
       "name": "Wild West",
       "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+    },
+    {
+      "album": {
+        "name": "DE GIER",
+        "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141074,
+      "name": "Wildeburg",
+      "url": "https://open.spotify.com/track/5XUX0a6gjFDIv0fqOloS8u"
     },
     {
       "album": {

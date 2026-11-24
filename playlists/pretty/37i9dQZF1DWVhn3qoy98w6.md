@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: antimorbo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,991 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,001 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 48 | [Fashion Victim](https://open.spotify.com/track/1SSsdOgBXWGd5T30SPIq2m) | [Infanta](https://open.spotify.com/artist/44NyITL7drZYoCifvi3GaZ) | [Fashion Victim](https://open.spotify.com/album/11mTVlEB4gJH7DGg2TWXqd) | 3:04 |
 | 49 | [Superficial](https://open.spotify.com/track/2VBfwh6XZsgU3LceDILfQo) | [Sita Rizzi](https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3) | [Superficial](https://open.spotify.com/album/1h7Ei3h0Ozqm7JwoZtdJDm) | 2:20 |
 
-Snapshot ID: `AAAAAEhoBEaXSy2y1PFvDxZamwjmSQQl`
+Snapshot ID: `AAAAAONQgpMjgPPbjIjXh82Ef+r1vmcO`

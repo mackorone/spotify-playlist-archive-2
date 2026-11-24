@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop\nCover: Romy Mars",
+  "description": "next gen pop\nCover: Haute & Freddy",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -36707,6 +36707,24 @@
     },
     {
       "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187658,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO"
       },
@@ -42226,7 +42244,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 220198,
       "name": "The Rage",
       "url": "https://open.spotify.com/track/3WT7mTie7v1QxBmzJjOYzc"

@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 21242,
+  "num_followers": 21243,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAAC0XQQvNuwWFD8OdALQpyvH",
+  "snapshot_id": "awIwgAAAAABAj6GcmpQ9xtx/aK1fNrIR",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Faith (BBC Session)",
+        "url": "https://open.spotify.com/album/25ay5Qj85HqQ6eTHHecpVY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 302106,
+      "name": "True Faith - BBC Session",
+      "url": "https://open.spotify.com/track/22p4EDZmtQjkS2wYq0jYjH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trip The Light Fantastic",
         "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Faith (BBC Session)",
-        "url": "https://open.spotify.com/album/25ay5Qj85HqQ6eTHHecpVY"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 302106,
-      "name": "True Faith - BBC Session",
-      "url": "https://open.spotify.com/track/22p4EDZmtQjkS2wYq0jYjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perimenopop",
         "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
@@ -499,6 +499,26 @@
       "duration_ms": 170393,
       "name": "Taste",
       "url": "https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Marco Rakascan",
+          "url": "https://open.spotify.com/artist/3qEzJpZr4UYRdW9fVMbNDD"
+        }
+      ],
+      "duration_ms": 265186,
+      "name": "Is It Any Wonder",
+      "url": "https://open.spotify.com/track/1gbDVb8GzhAL7TOZ5HeLeU"
     },
     {
       "added_at": null,
@@ -535,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "Marco Rakascan",
-          "url": "https://open.spotify.com/artist/3qEzJpZr4UYRdW9fVMbNDD"
-        }
-      ],
-      "duration_ms": 265186,
-      "name": "Is It Any Wonder",
-      "url": "https://open.spotify.com/track/1gbDVb8GzhAL7TOZ5HeLeU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perimenopop",
         "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Today The Sun's On Us",
-      "url": "https://open.spotify.com/track/3KqFrUNkrv3TntnvM3hx8T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 240040,
       "name": "Runaway Daydreamer",
       "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Today The Sun's On Us",
+      "url": "https://open.spotify.com/track/3KqFrUNkrv3TntnvM3hx8T"
     },
     {
       "added_at": null,

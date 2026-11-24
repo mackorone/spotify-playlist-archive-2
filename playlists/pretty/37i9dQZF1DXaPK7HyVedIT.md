@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Öwnboss
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,722 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,563 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Louboutin](https://open.spotify.com/track/4gB2PHBDWqjZV2ynWLqME8) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Louboutin](https://open.spotify.com/album/0JDfPxytFUdxY4swdIHYgI) | 3:11 |
 | 80 | [Onda 7](https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [ID](https://open.spotify.com/album/4HArTcixlcIpIla56geDfK) | 3:03 |
 
-Snapshot ID: `AAAAAE+LgU4bV6/SuMvAXt/5qzjfEO5a`
+Snapshot ID: `AAAAAB7dvzyizOyIWYw06U3wAa2LtBoU`

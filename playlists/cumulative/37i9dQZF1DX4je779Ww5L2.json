@@ -828,7 +828,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 306766,
       "name": "Garden of Eden (In Memory Of Guus-Jan Lieberwerth)",
       "url": "https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B"
@@ -850,6 +850,24 @@
       "duration_ms": 270400,
       "name": "Gaza is Calling",
       "url": "https://open.spotify.com/track/3J60sGMryOdR9iFriazOzm"
+    },
+    {
+      "album": {
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE"
     },
     {
       "album": {

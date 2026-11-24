@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de noviembre 2026. Cover: Hamilton & Sech",
-  "num_followers": 1538140,
+  "num_followers": 1537956,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPuK6K+cjQbAAiqTDrOAhBjrP78p",
+  "snapshot_id": "AAAAAEyMXBCJ/QHFaNtBRukB8qNs4GBj",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:07",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
+        "name": "carita linda ;)",
+        "url": "https://open.spotify.com/album/3al9PBD5XqE5XWYPfySKdx"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 210281,
+      "name": "carita linda ;)",
+      "url": "https://open.spotify.com/track/64N5BvavEYBpPoUXglzTQL"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
         "name": "Milko Freestyle",
         "url": "https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 127326,
       "name": "Milko Freestyle",
       "url": "https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
-        "name": "carita linda ;)",
-        "url": "https://open.spotify.com/album/3al9PBD5XqE5XWYPfySKdx"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        }
-      ],
-      "duration_ms": 210281,
-      "name": "carita linda ;)",
-      "url": "https://open.spotify.com/track/64N5BvavEYBpPoUXglzTQL"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -387,26 +387,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "After (feat. Young Miko)",
-        "url": "https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq"
-      },
-      "artists": [
-        {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 189697,
-      "name": "After (feat. Young Miko)",
-      "url": "https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "Tremendo Desastre",
         "url": "https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 202573,
       "name": "Tremendo Desastre",
       "url": "https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "After (feat. Young Miko)",
+        "url": "https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 189697,
+      "name": "After (feat. Young Miko)",
+      "url": "https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 159528,
-      "name": "For Eva",
-      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "ATRAVESAO",
         "url": "https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 180000,
       "name": "ATRAVESAO",
       "url": "https://open.spotify.com/track/6U7pLc5fR5ksO2Ljl7Bgjo"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 159528,
+      "name": "For Eva",
+      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "fill de la mar (2026)",
-        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "gaviotas de cristal",
-      "url": "https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "HAGALO (Remix)",
         "url": "https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 209411,
       "name": "HAGALO - Remix",
       "url": "https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "fill de la mar (2026)",
+        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "gaviotas de cristal",
+      "url": "https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
-      },
-      "artists": [
-        {
-          "name": "Blua",
-          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
-        }
-      ],
-      "duration_ms": 181344,
-      "name": "Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "una en un mill\u00f3n . . & te qued\u00f3 grande [v13 xii] . -",
         "url": "https://open.spotify.com/album/5WV8k3KiC0QuUuR70gwESF"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 180944,
       "name": "una en un mill\u00f3n . .",
       "url": "https://open.spotify.com/track/62R3iw59IeKbl2VbFR2mzp"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "CALLA\u00cdTO SAFARI",
-        "url": "https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo"
-      },
-      "artists": [
-        {
-          "name": "LOS MENOR3S",
-          "url": "https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ"
-        }
-      ],
-      "duration_ms": 176074,
-      "name": "calla\u00edto safari",
-      "url": "https://open.spotify.com/track/2tpCPmC6r2HYQUfVAF9GF3"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "62 GANG",
         "url": "https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 87058,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "CALLA\u00cdTO SAFARI",
+        "url": "https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo"
+      },
+      "artists": [
+        {
+          "name": "LOS MENOR3S",
+          "url": "https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ"
+        }
+      ],
+      "duration_ms": 176074,
+      "name": "calla\u00edto safari",
+      "url": "https://open.spotify.com/track/2tpCPmC6r2HYQUfVAF9GF3"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
+        "name": "bark bark bark",
+        "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 146114,
+      "name": "bark bark bark",
+      "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
         "name": "La gravedad y el tiempo.",
         "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "bark bark bark",
-        "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 146114,
-      "name": "bark bark bark",
-      "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "feel trip.",
         "url": "https://open.spotify.com/album/0ulcvQush73hnL6XY3odm7"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 145449,
       "name": "siete veces",
       "url": "https://open.spotify.com/track/0hG1rclLdrv3OzVWimq6dO"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
-        "name": "VALIENTE",
-        "url": "https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 150434,
-      "name": "VALIENTE",
-      "url": "https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -995,6 +979,22 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
+        "name": "VALIENTE",
+        "url": "https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 150434,
+      "name": "VALIENTE",
+      "url": "https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
         "name": "LOS CISNES",
         "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "Bashiata",
-        "url": "https://open.spotify.com/album/52B2HnetcclvWedmBU9aQc"
-      },
-      "artists": [
-        {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Bashiata",
-      "url": "https://open.spotify.com/track/1sxTOfJebwCInle9Wc0YGt"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "me cuidas!",
         "url": "https://open.spotify.com/album/5clxHG7ty01B6ZS2Vdy0uH"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 192000,
       "name": "me cuidas!",
       "url": "https://open.spotify.com/track/4Qo3BGa95WkK0wEssoM15X"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "Bashiata",
+        "url": "https://open.spotify.com/album/52B2HnetcclvWedmBU9aQc"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Bashiata",
+      "url": "https://open.spotify.com/track/1sxTOfJebwCInle9Wc0YGt"
     },
     {
       "added_at": "2026-11-20 05:01:07",

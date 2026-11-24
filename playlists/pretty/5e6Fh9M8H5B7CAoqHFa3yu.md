@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 360 likes - 2,909 songs - 7 day 1 hr 3 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 361 likes - 2,910 songs - 7 day 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2917,5 +2917,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2907 | [Як сильно люблю…](https://open.spotify.com/track/1MMk8HieUWCzKQv0jXSLIi) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Як сильно люблю…](https://open.spotify.com/album/6wphriPeTxBeWsLTC0dRaT) | 4:08 |
 | 2908 | [Outra Dimensão](https://open.spotify.com/track/3gkD19XV88tMkcSg4rdPQy) | [Alezy](https://open.spotify.com/artist/3TBtpZozgCYPtqxkhJY6In), [Jenny Branches](https://open.spotify.com/artist/0BqVxNjV21NIf73Udep68x) | [Outra Dimensão](https://open.spotify.com/album/64x8yeEIQgkvRih104zPvx) | 2:53 |
 | 2909 | [Better Days](https://open.spotify.com/track/33lJ5jJEq7Uerw0gwnMRZ1) | [XGee](https://open.spotify.com/artist/3O63QS5bGscvAG6LMpmT7T) | [Better Days](https://open.spotify.com/album/2Y54jttYlCeFVOemy7LyEt) | 2:50 |
+| 2910 | [strange!](https://open.spotify.com/track/1ghrdMu33eFpiGQlxEm4kW) | [Wavediffraction](https://open.spotify.com/artist/76q0NXdh3xAMgtSVhmpHpd) | [strange!](https://open.spotify.com/album/3dCR2wuIZsgHtpRSaicUlt) | 2:14 |
 
-Snapshot ID: `AAAMVdxFMnbigqrdq8eb8HfmW+RNFtU+`
+Snapshot ID: `AAAMVslHO3MM5oJJKm35QkrAaGU5DHZQ`

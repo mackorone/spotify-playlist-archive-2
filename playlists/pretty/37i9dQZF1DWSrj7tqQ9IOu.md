@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois d'Octobre sélectionnés par les éditos de Spotify\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,989 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,981 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 34 | [les fourmis](https://open.spotify.com/track/5PDQo9PRufKGHpobY2nUAl) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [guérir](https://open.spotify.com/album/5SLhRamBJlp8UHE5VhKj5Y) | 2:53 |
 | 35 | [Wishing Well](https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Wishing Well](https://open.spotify.com/album/73agEe7EOBj973yHVERdiX) | 3:53 |
 | 36 | [Living Room](https://open.spotify.com/track/0bFB03Qc4ZoLiaNy2zkuvJ) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Autumn](https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW) | 4:55 |
-| 37 | [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 |
-| 38 | [Photos au mur](https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Photos au mur](https://open.spotify.com/album/6sAWUdypDkS7q4nXVisEM3) | 2:32 |
+| 37 | [Photos au mur](https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Photos au mur](https://open.spotify.com/album/6sAWUdypDkS7q4nXVisEM3) | 2:32 |
+| 38 | [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 |
 | 39 | [Plus rien ne m'étonne \(Partager le monde\)](https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Plus rien ne m'étonne \(Partager le monde\)](https://open.spotify.com/album/62l59GYI179OIDENsm93wr) | 3:13 |
 | 40 | [sex](https://open.spotify.com/track/2KMVizTVC3iUOcG6il4lBr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [sex](https://open.spotify.com/album/0kL12szrXp4blmzGMztPOp) | 2:42 |
 | 41 | [Tout est facile](https://open.spotify.com/track/5XtgNLRh1K5kdiXQ4s5k3d) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Lesley](https://open.spotify.com/artist/4iPGEsej2ak9iDheY1I0Tt), [RAPHA](https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW), [Bruant](https://open.spotify.com/artist/2EfwQcJnqlGwAUqasHlHSO), [Génération Débrouille](https://open.spotify.com/artist/4G6KO5j7IoMEM3A7Gk6g2s) | [Tout est facile](https://open.spotify.com/album/0IqkkvkolyF92zvcgfxXKY) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Les oiseaux qui chantent](https://open.spotify.com/track/2S79KZogGAUkVl3xN62UyI) | [Sauve](https://open.spotify.com/artist/3jXzioLWZnWUIaEjXPxpHw) | [Les oiseaux qui chantent](https://open.spotify.com/album/42MRurG1TXXLyja3zbRnOt) | 2:27 |
 | 50 | [Who You Callin' Crazy](https://open.spotify.com/track/6RoAAej2b94deRZ23FehHW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues, Loose Lips](https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3) | 4:09 |
 
-Snapshot ID: `AAAAAHM1SWT3JAHDPda5Hs/KpxdqrPDn`
+Snapshot ID: `AAAAAEaDllVokI/F0YOp7Y3597FDX4Ws`

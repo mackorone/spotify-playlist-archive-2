@@ -4,7 +4,7 @@
 
 > The best of every corner of modern punk rock\. Cover: PISS
 
-906 songs - 1 day 21 hr 44 min
+907 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Cut It Out](https://open.spotify.com/track/3ZGUHN7vCL1ylsV7pV0X79) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Cut It Out](https://open.spotify.com/album/1n4mAv6vK1zXMfWyfse2Mp) | 3:02 | 2026-07-10 |  |
 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 | 2024-02-16 | 2024-06-04 |
 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 | 2022-12-02 | 2023-11-18 |
+| [Dainty Flower Song](https://open.spotify.com/track/3hMcwwnatAWMmDfcD3r1z2) | [Holidays in United States](https://open.spotify.com/artist/4Hx2EMq5CumzokenbyEcSM) | [How to Count to Five](https://open.spotify.com/album/336ZRfgCtvRuRPp0THNrYJ) | 4:06 | 2026-11-23 |  |
 | [Dance In The USA](https://open.spotify.com/track/2SLa0Jx8kXhpc31lffr9CP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Alone Together](https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg) | 2:59 | 2026-07-10 | 2026-09-26 |
 | [Dance In The USA](https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dance In The USA](https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg) | 2:59 | 2026-04-24 | 2026-07-11 |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-12-02 | 2023-11-18 |
@@ -237,7 +238,7 @@
 | [Do It Again](https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do It Again](https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe) | 2:28 | 2025-09-04 | 2026-02-07 |
 | [Do One](https://open.spotify.com/track/0m8IKzcaOnjMIDMgFzmkFE) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Do One](https://open.spotify.com/album/2ENUR4w5JHhovY6tKRX7DS) | 2:38 | 2026-03-27 | 2026-06-05 |
 | [Do What’s Right \(Happy\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/7aFuo1wnHfOKRPhJpjNajO) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Spotify Live Room](https://open.spotify.com/album/0F6WmHuS2Cohk0rnnOv879) | 4:05 | 2026-09-25 |  |
-| [Don't Come Easy](https://open.spotify.com/track/1jSVZ6MAaVPvYYxwSI5qB6) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bark At The Moon](https://open.spotify.com/album/5JFB4Mf6lc18wMATG1g1oo) | 3:33 | 2026-08-21 |  |
+| [Don't Come Easy](https://open.spotify.com/track/1jSVZ6MAaVPvYYxwSI5qB6) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bark At The Moon](https://open.spotify.com/album/5JFB4Mf6lc18wMATG1g1oo) | 3:33 | 2026-08-21 | 2026-11-24 |
 | [Don't Date The Devil](https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Don't Date The Devil](https://open.spotify.com/album/62emvRyHGLkEYQctxBA1Pi) | 2:50 | 2023-06-20 | 2023-12-16 |
 | [Don't MisStep](https://open.spotify.com/track/61NDAaJEyNfixD2e0bmBe1) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Not Your Kingdom](https://open.spotify.com/album/5Ga69zVHRQGaY7Kqo0aGRU) | 1:34 | 2026-07-24 | 2026-10-17 |
 | [Don't Move](https://open.spotify.com/track/3cXCctsuwJnTvJXNZ8Pv8K) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Don't Move](https://open.spotify.com/album/37fe0FOmbbGDUygbS9jJac) | 4:01 | 2026-08-21 | 2026-09-22 |
@@ -491,7 +492,7 @@
 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 | 2025-09-04 | 2026-06-12 |
 | [Live by the Sword](https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live by the Sword](https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2) | 3:39 | 2026-08-21 |  |
 | [Living Hell](https://open.spotify.com/track/48c7OG5qnI46q1GkspLrXv) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Proceed With Caution](https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR) | 2:33 | 2026-10-02 |  |
-| [Lobotomize Me](https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y) | [The Rat Utopia Experiment](https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa) | [Lobotomize Me](https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW) | 3:11 | 2026-06-29 |  |
+| [Lobotomize Me](https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y) | [The Rat Utopia Experiment](https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa) | [Lobotomize Me](https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW) | 3:11 | 2026-06-29 | 2026-11-24 |
 | [Lonely Island](https://open.spotify.com/track/0l0hy8NAZPk5qCzS2UTgu6) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Disposable Life](https://open.spotify.com/album/5gqYeI142C7UdF0eD8ZRLi) | 3:17 | 2022-12-02 | 2023-01-19 |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-07-04 | 2025-07-29 |
 | [Long Tooth \(feat\. Brooklyn Doran\)](https://open.spotify.com/track/6HTAqQPGlhDbvvUa7bU1oA) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc), [Brooklyn Doran](https://open.spotify.com/artist/6Bh4Wmbb3LfoS8J5TXpQcj) | [Long Tooth](https://open.spotify.com/album/5nmaxgEP5Kgwx2POEfNOlY) | 3:25 | 2026-06-12 | 2026-09-22 |
@@ -625,7 +626,7 @@
 | [Piece of Me](https://open.spotify.com/track/4WlZkSjQ0ZJlZfhwVcQmXB) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Piece of Me](https://open.spotify.com/album/06LTuc8p6IdzP0lGil2aCZ) | 3:06 | 2023-11-13 | 2024-01-12 |
 | [Pilot Light](https://open.spotify.com/track/24HILc3OqEmHTzspI3k6pe) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Probable Claws](https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7) | 3:31 | 2026-06-26 |  |
 | [Pinesol](https://open.spotify.com/track/4LVILYOTc3CrGnyuDibZ3N) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Pinesol](https://open.spotify.com/album/6as8r11PG29Y6jHyIEdR0C) | 3:31 | 2026-09-25 | 2026-11-14 |
-| [Pirates](https://open.spotify.com/track/79BXR9Y8zZItnMQFGjCCWE) | [XCOMM](https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Time To Burn](https://open.spotify.com/album/1qpGHOmNg4AV5xXm1BlzrG) | 2:33 | 2026-05-22 |  |
+| [Pirates](https://open.spotify.com/track/79BXR9Y8zZItnMQFGjCCWE) | [XCOMM](https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Time To Burn](https://open.spotify.com/album/1qpGHOmNg4AV5xXm1BlzrG) | 2:33 | 2026-05-22 | 2026-11-24 |
 | [Pockets](https://open.spotify.com/track/4JUmLb7NjUuF5Dkd63m5Fy) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Panic Shack](https://open.spotify.com/album/2yox6fBqg5BEBHpARToOav) | 3:07 | 2025-07-19 | 2026-05-02 |
 | [Power In Numbers](https://open.spotify.com/track/58OXps27n41UlUfW8rGETg) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Power In Numbers](https://open.spotify.com/album/0zQAQcwwAthTDWdsajR8AK) | 2:52 | 2026-06-12 |  |
 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 | 2025-07-31 | 2026-05-09 |

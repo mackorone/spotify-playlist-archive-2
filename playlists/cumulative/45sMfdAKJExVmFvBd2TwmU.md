@@ -4,7 +4,7 @@
 
 > LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional, Love, Pyaar, 2025, 2024, Old, Retro, Classic, Top Hits, Bollywood, Arijit Singh , Hindi , Lofi, Soothing, Night, Romance, Bollywood, 1am Feels, BEST SONG'S FOREVER, Sad Love,  Metro
 
-190 songs - 14 hr 29 min
+191 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Tu Hi Haqeeqat](https://open.spotify.com/track/3OLFqbd9ZeVjaUKTiaLsD6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Irshan Ashraf](https://open.spotify.com/artist/5OG0IXzIqYPB67VMlEJOo0), [Shadab](https://open.spotify.com/artist/0NeoPmJb4LMYLHhX8OVaNA), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Tum Mile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ip9JCpT1IF9GvhAxzufTH) | 5:02 | 2022-05-10 |  |
 | [Tu Hi Mera](https://open.spotify.com/track/1CVqr5LImdmJ1Upt4z08Pm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Jannat 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi) | 4:32 | 2022-03-17 |  |
 | [Tu Jo Hain](https://open.spotify.com/track/3HH3xlISSAhadC8bu0UDdl) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Mr\. X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3e3ZKoA9RTy6QZxKrb1vP0) | 4:55 | 2022-03-24 | 2025-02-22 |
+| [Tu Keh De Toh \(From "Call Me Bae \- Season 2"\)](https://open.spotify.com/track/1cKijExn2LEjzsgVNnUlhE) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Tu Keh De Toh \(From "Call Me Bae \- Season 2"\)](https://open.spotify.com/album/7krMvUJpKtMZqFBokwOqVs) | 3:12 | 2026-11-23 |  |
 | [Tu Meri Hai](https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tu Meri Hai](https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC) | 3:55 | 2024-01-18 | 2024-03-22 |
 | [Tujhe Sochta Hoon](https://open.spotify.com/track/47l2Dd3XPBLio3kjbEMyDJ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Jannat 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi) | 5:13 | 2022-06-03 | 2025-04-30 |
 | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T) | 4:54 | 2023-11-06 | 2025-02-22 |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mikael Karlsson, Vickie Winans, Marvin Winans and more
+> With Le'Andria Johnson, Isaac Cates, Mikael Karlsson and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 5 hr 12 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [He's An On Time God](https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3) | [Dottie Peoples & The Peoples Choice Chorale](https://open.spotify.com/artist/1NqEdHZu5o9r4I37uGUNHI) | [On Time God](https://open.spotify.com/album/0dxumKdj4uqdUsJCivUuTv) | 5:52 |
 | 50 | [More Than I Can Bear](https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:21 |
 
-Snapshot ID: `AAAAAD3EWrPFxVVK74QkXxYHarKCLAr9`
+Snapshot ID: `AAAAANXtejWuQpDeTqDxIcapzSRARMDq`

@@ -4,11 +4,11 @@
 
 > Boost your energy with these dance tracks.
 
-824 songs - 1 day 17 hr 4 min
+825 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$MONEY](https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [$MONEY](https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys) | 2:34 | 2026-07-31 |  |
+| [$MONEY](https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [$MONEY](https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys) | 2:34 | 2026-07-31 | 2026-11-24 |
 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 | 2022-02-18 | 2022-04-16 |
 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 | 2023-05-05 | 2023-11-11 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-18 | 2026-03-14 |
@@ -80,6 +80,7 @@
 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 | 2026-05-22 |  |
 | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh) | [GRATIFY](https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Norman Alexander](https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts) | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI) | 2:15 | 2024-10-04 | 2026-03-14 |
 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-21 | 2025-05-17 |
+| [BASS DOWN LOW](https://open.spotify.com/track/4SfmfGdmkNKaAehfaJNBLI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [BASS DOWN LOW](https://open.spotify.com/album/3ETPAwPRfnD3RafGRa93qL) | 2:19 | 2026-11-20 |  |
 | [Bass Down Low \(feat\. DEV\) \[Trap Version\]](https://open.spotify.com/track/6ww3QtV3wV0qBfgYCfFu3C) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Bass Down Low \(feat\. DEV\) \[Trap Version\]](https://open.spotify.com/album/3bi9DlUjl64Rcd6gMddtek) | 2:46 | 2026-04-17 | 2026-07-19 |
 | [BbY WOW \- John Summit Remix](https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [BbY WOW \- John Summit Remix](https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv) | 3:38 | 2026-11-13 |  |
 | [Be Mine](https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Be Mine](https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE) | 1:53 | 2026-03-13 | 2026-07-04 |

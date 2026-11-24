@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,048 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,062 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 31 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 32 | [Bondade de Deus](https://open.spotify.com/track/1D446XqMZdTDW2EcGUj9zb) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5) | 4:42 |
 | 33 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/42hGFJMwrPOYiQMvvDYcR7) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/6vYQjK501SKN1eBix64ZmR) | 6:24 |
-| 34 | [O Mover do Espírito \(Quero Que Valorize\)](https://open.spotify.com/track/5A4UCKQyAVpf2GwvntqV7d) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/3mayY7D6HRvqNEQr7YQHeK) | 3:50 |
-| 35 | [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/2yD7EU4QTTEoRHnwvqu1vV) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/1gJRrBTFtZn4gSbFzyOezh) | 8:40 |
+| 34 | [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/2yD7EU4QTTEoRHnwvqu1vV) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/1gJRrBTFtZn4gSbFzyOezh) | 8:40 |
+| 35 | [O Mover do Espírito \(Quero Que Valorize\)](https://open.spotify.com/track/5A4UCKQyAVpf2GwvntqV7d) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/3mayY7D6HRvqNEQr7YQHeK) | 3:50 |
 | 36 | [A Bênção](https://open.spotify.com/track/3PoGIF3VwQKqyPOINuOjWR) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/7l3EdlQWWtsVMq8Et1hLU5) | 4:15 |
 | 37 | [Vou Seguir](https://open.spotify.com/track/7zcBin5wuNJUuWnfRS9cOa) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar 3](https://open.spotify.com/album/4qINaNhLhhkXFrMrk0qFDH) | 4:48 |
 | 38 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 49 | [Essência da Adoração](https://open.spotify.com/track/4KoQN1sEF0q7AyomRFVjLP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/1xI0My3Cq8ZQOjHY3YXwmD) | 7:53 |
 | 50 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/6PGTtlFYNqK8nyYpuMj4wi) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/17bkTKEjHWr60N9bMUrGo6) | 5:09 |
 
-Snapshot ID: `awDfAAAAAAAKeopM3nrjN4oS5udhZiaP`
+Snapshot ID: `awIwgAAAAABNrsw8NQpaU6nDSi+0fS0D`

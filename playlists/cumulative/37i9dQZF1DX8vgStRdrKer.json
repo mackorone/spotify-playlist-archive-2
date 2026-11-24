@@ -11231,6 +11231,24 @@
     },
     {
       "album": {
+        "name": "My Leader",
+        "url": "https://open.spotify.com/album/72UBlqAYtTeBMISpVBfUDv"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "My Leader",
+      "url": "https://open.spotify.com/track/0zxPaJV4V1NXRlhz33D0NK"
+    },
+    {
+      "album": {
         "name": "My Life (Live)",
         "url": "https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu"
       },
@@ -12426,7 +12444,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 762750,
       "name": "Oloruko Aperire (The God whose name brings good tidings)",
       "url": "https://open.spotify.com/track/03jto4VJ7fBUXCkYKyN43t"

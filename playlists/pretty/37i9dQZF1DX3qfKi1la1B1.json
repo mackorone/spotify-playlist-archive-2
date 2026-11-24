@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 126963,
+  "num_followers": 126962,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANxfTaitye7No9M6UGLieJj13LB1",
+  "snapshot_id": "AAAAALr3YOECpKF6iCQSyX/zRH2VzTAo",
   "tracks": [
     {
       "added_at": "2026-11-06 09:54:19",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
     },
     {
-      "added_at": "2026-06-25 15:33:31",
-      "album": {
-        "name": "My Guy",
-        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
-    },
-    {
       "added_at": "2026-06-12 13:48:34",
       "album": {
         "name": "Tell Me",
@@ -323,6 +307,22 @@
       "duration_ms": 206808,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+    },
+    {
+      "added_at": "2026-06-25 15:33:31",
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -521,6 +521,26 @@
       "url": "https://open.spotify.com/track/4gjvW6WlvGgGGHE0PhfmJK"
     },
     {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
+    {
       "added_at": "2026-11-06 09:54:19",
       "album": {
         "name": "Talk to Me",
@@ -559,26 +579,6 @@
       "duration_ms": 142926,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 223443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
     },
     {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
+    },
+    {
       "added_at": "2026-11-06 09:54:19",
       "album": {
         "name": "Puddle",
@@ -831,22 +847,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Above Me",
-        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/1C58yPdGxhkoCiXL0yuDXF"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 270484,
       "name": "\u3067\u3053\u307c\u3053",
       "url": "https://open.spotify.com/track/1Z9aXBfOBXrHOCRx5ZfdqH"
+    },
+    {
+      "added_at": "2026-11-06 09:54:19",
+      "album": {
+        "name": "Sunrise and the Life We Live",
+        "url": "https://open.spotify.com/album/31ThyB8ak2l02Q771fQKez"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        }
+      ],
+      "duration_ms": 371000,
+      "name": "Blue Green Eyes",
+      "url": "https://open.spotify.com/track/4Sgh74qPIxlk4YF2rpwrB1"
     },
     {
       "added_at": "2026-11-06 09:54:19",
@@ -883,18 +899,18 @@
     {
       "added_at": "2026-11-06 09:54:19",
       "album": {
-        "name": "Sunrise and the Life We Live",
-        "url": "https://open.spotify.com/album/31ThyB8ak2l02Q771fQKez"
+        "name": "LongTime",
+        "url": "https://open.spotify.com/album/2KQRuR4jBZvb5h5dNunyMO"
       },
       "artists": [
         {
-          "name": "John Beltran",
-          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
         }
       ],
-      "duration_ms": 371000,
-      "name": "Blue Green Eyes",
-      "url": "https://open.spotify.com/track/4Sgh74qPIxlk4YF2rpwrB1"
+      "duration_ms": 211714,
+      "name": "LongTime",
+      "url": "https://open.spotify.com/track/4npxGodAWNwUlfGhHFt617"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -911,22 +927,6 @@
       "duration_ms": 216751,
       "name": "Tides",
       "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"
-    },
-    {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
-        "name": "LongTime",
-        "url": "https://open.spotify.com/album/2KQRuR4jBZvb5h5dNunyMO"
-      },
-      "artists": [
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 211714,
-      "name": "LongTime",
-      "url": "https://open.spotify.com/track/4npxGodAWNwUlfGhHFt617"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/5w9XvpOBv2FviDF7lSV5Kb"
     },
     {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
-        "name": "A Million More",
-        "url": "https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW"
-      },
-      "artists": [
-        {
-          "name": "reina",
-          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "A Million More",
-      "url": "https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3"
-    },
-    {
       "added_at": "2026-11-06 09:54:19",
       "album": {
         "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
@@ -1051,6 +1035,22 @@
       "duration_ms": 327446,
       "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
       "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "A Million More",
+        "url": "https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "A Million More",
+      "url": "https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Juri",
-        "url": "https://open.spotify.com/album/71uxnuSOmEX77aEKhbIi2b"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 361059,
-      "name": "Juri",
-      "url": "https://open.spotify.com/track/62Tjv63LVohMHUeRBlRHny"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "Mental Acupuncture",
         "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 152000,
       "name": "Mental Acupuncture",
       "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Juri",
+        "url": "https://open.spotify.com/album/71uxnuSOmEX77aEKhbIi2b"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 361059,
+      "name": "Juri",
+      "url": "https://open.spotify.com/track/62Tjv63LVohMHUeRBlRHny"
     },
     {
       "added_at": "2026-11-06 09:54:19",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 100747,
-      "name": "NEIGHBORHOOD",
-      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 100747,
+      "name": "NEIGHBORHOOD",
+      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Dim Stars / For Residue (Extended)",
-        "url": "https://open.spotify.com/album/1apaH4pqZbqx7ETQ5BBdTw"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Dim Stars",
-      "url": "https://open.spotify.com/track/4uXMT0xoObBj422bkwOnXv"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
         "url": "https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 181714,
       "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
       "url": "https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Dim Stars / For Residue (Extended)",
+        "url": "https://open.spotify.com/album/1apaH4pqZbqx7ETQ5BBdTw"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Dim Stars",
+      "url": "https://open.spotify.com/track/4uXMT0xoObBj422bkwOnXv"
     },
     {
       "added_at": "2026-06-12 13:48:34",

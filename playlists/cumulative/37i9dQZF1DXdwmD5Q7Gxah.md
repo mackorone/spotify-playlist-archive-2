@@ -4,7 +4,7 @@
 
 > aLex vs aLex its barking season <a href="https://loremandfriends.substack.com/p/sincerely\-and\-always\-forever"> plus \~new substack ft Heathers & Sammie Pearson here\~</a>
 
-4,094 songs - 9 day 8 hr 44 min
+4,095 songs - 9 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2024,6 +2024,7 @@
 | [Last Words](https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:49 | 2022-09-02 | 2022-12-24 |
 | [Lately](https://open.spotify.com/track/6K1fLqDS1ntEEQ1HtjeZxW) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [the Slow Rage Project](https://open.spotify.com/album/2Nfb9ehRWJi7sHjKVcbfIP) | 3:40 | 2019-08-02 | 2019-09-27 |
 | [LAUREN](https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [LAUREN](https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB) | 2:53 | 2023-12-08 | 2024-02-22 |
+| [Lavender Buds](https://open.spotify.com/track/3755f0ihUO09qh3dg7AH5A) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Lavender Buds b/w Nettle Leaves](https://open.spotify.com/album/5iTPrPucPUw4QwEM8rCV5M) | 3:28 | 2026-11-23 |  |
 | [leading me on but i'm not mad about it](https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [leading me on but i'm not mad about it](https://open.spotify.com/album/5FrXGtQvP3jyfycc9CXrKe) | 2:54 | 2020-05-29 | 2020-07-31 |
 | [Lean](https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [Lean](https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD) | 3:53 | 2026-01-16 | 2026-04-11 |
 | [Learn To Fly](https://open.spotify.com/track/518miTxc3a15X7HB8FgJUW) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Learn To Fly \(with Elton John\)](https://open.spotify.com/album/0smKCfZ1XlApoqIg3AG3Dc) | 3:29 | 2020-06-13 | 2020-07-31 |

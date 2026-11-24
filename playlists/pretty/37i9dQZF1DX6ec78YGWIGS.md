@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,964 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,951 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [EXILIATE](https://open.spotify.com/track/0bL5rusI2PzKkP1w9KaynX) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [EXILIATE](https://open.spotify.com/album/31ZgRsbna1ZFkDWgkhiPpH) | 2:09 |
 | 100 | [Deci que se siente](https://open.spotify.com/track/6aEalzYS20nIwJeMS9zZbE) | [ARA](https://open.spotify.com/artist/3e7RQVUk78GpHhRiBWULff) | [Deci que se siente](https://open.spotify.com/album/15S6hddMwvK5NctxlRxZvY) | 3:12 |
 
-Snapshot ID: `AAAAAOX8R+jT1mNd/YDeROBcIKgyZKHI`
+Snapshot ID: `AAAAAPNKCD/FD0/7qF8WE75fS5QHaxtI`

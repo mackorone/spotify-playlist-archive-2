@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Adèle Castillon, Jul x J Balvin, Dua Lipa, Ninho et Pomme au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,549 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,527 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 98 | [EPITAPH](https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [EPITAPH](https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj) | 3:08 |
 | 99 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 
-Snapshot ID: `AAAAAO+lb/6HMj7cLO9BYwRKJ7B9+cAM`
+Snapshot ID: `AAAAAEyfXniLSPBgPTwvI/kBLuyQBhXp`

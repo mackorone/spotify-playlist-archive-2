@@ -540,7 +540,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -1190,24 +1190,6 @@
       "duration_ms": 160000,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/2iDKmDDsETpmtAAThCrpph"
-    },
-    {
-      "album": {
-        "name": "Small Chops",
-        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "date_added": "2026-06-19",
-      "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
-      "duration_ms": 104070,
-      "name": "Cry On You",
-      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
     },
     {
       "album": {
@@ -4448,6 +4430,24 @@
       "duration_ms": 277447,
       "name": "Omoge Mi",
       "url": "https://open.spotify.com/track/3zIxgjPo9SJaynGuD2WNmQ"
+    },
+    {
+      "album": {
+        "name": "Small Chops",
+        "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104070,
+      "name": "On You",
+      "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
     },
     {
       "album": {

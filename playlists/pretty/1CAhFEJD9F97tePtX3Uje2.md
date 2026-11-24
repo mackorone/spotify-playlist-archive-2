@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 331 likes - 251 songs - 14 hr 35 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 330 likes - 252 songs - 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,5 +259,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 249 | [Let Me Know](https://open.spotify.com/track/4eCTlg0pauVt8REuAuX0sz) | [ROUDS](https://open.spotify.com/artist/5I1A3GQ1w7E1uQnJvfbC4Z) | [Let Me Know](https://open.spotify.com/album/6FB153y3kIgVArxGejzHgV) | 2:38 |
 | 250 | [BETRAY ME](https://open.spotify.com/track/6NOejift3Q16eUfQZgJAwG) | [V.I.P.N](https://open.spotify.com/artist/2gtZypy6QDN8UfPbDQG6ro) | [BETRAY ME](https://open.spotify.com/album/4sm7HjHhd7o1yXYErV0IN0) | 2:05 |
 | 251 | [Fade Away](https://open.spotify.com/track/7Fcgid3E3CdTbIEGSxhoqi) | [BorrenFam](https://open.spotify.com/artist/17T9lCTLkB0j1nfkNzOAe6) | [Fade Away](https://open.spotify.com/album/1dMQtHlKqsxCq7nO1AJUMD) | 2:14 |
+| 252 | [VORTEX](https://open.spotify.com/track/2zoh1BsYe8A0rE4tBWJrKT) | [REA4E](https://open.spotify.com/artist/18WcVhn6ylYELBVasV1QsU) | [VORTEX](https://open.spotify.com/album/0MihLqk33JdQEs7EJgnMKm) | 2:28 |
 
-Snapshot ID: `AAABCy11g4f/RSHFQSH1btT/7/REGUfF`
+Snapshot ID: `AAABDOTBh7S/NVj62bCPAZwn0ZUl+LPw`

@@ -4,7 +4,7 @@
 
 > le canzoni di cui siamo ossessionati 💛 Angelina Mango in cover
 
-781 songs - 1 day 16 hr 11 min
+782 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Musica Animale](https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Musica Animale](https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ) | 3:02 | 2024-07-01 | 2024-09-24 |
 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-07-01 | 2024-09-26 |
 | [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 | 2026-04-16 | 2026-05-08 |
-| [Napoleone Buonanotte](https://open.spotify.com/track/2JbvlE5JTHu5ZE0evugA6I) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Napoleone Buonanotte](https://open.spotify.com/album/7yTyZ9574u0BgRhpeQt9rM) | 3:35 | 2026-10-29 |  |
+| [Napoleone Buonanotte](https://open.spotify.com/track/2JbvlE5JTHu5ZE0evugA6I) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Napoleone Buonanotte](https://open.spotify.com/album/7yTyZ9574u0BgRhpeQt9rM) | 3:35 | 2026-10-29 | 2026-11-24 |
 | [Ne vale la pena feat\. Sayf](https://open.spotify.com/track/4SwCfaa4bSDcmviaT9hFbf) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 3:21 | 2026-09-17 |  |
 | [Nel Dubbio](https://open.spotify.com/track/2uh2JOMP03bNf7IZ9g7H0J) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Nel Dubbio](https://open.spotify.com/album/7yeKQ8tejQplwhROY2YcIG) | 3:10 | 2026-10-15 | 2026-10-30 |
 | [Nella Borsa Di Anna](https://open.spotify.com/track/0wOJD6ahoCXJJzyybnYOX2) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Nella Borsa Di Anna](https://open.spotify.com/album/44CUu8u5rgsXGTw9lX8snG) | 3:07 | 2026-11-05 |  |
@@ -770,6 +770,7 @@
 | [VITA MORTE MIRACOLI](https://open.spotify.com/track/5kTTmHImyUi7JirBBC9iOq) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [VITA MORTE MIRACOLI](https://open.spotify.com/album/40r7qBVfienPoRHOuJhluR) | 2:55 | 2026-09-03 | 2026-10-09 |
 | [Viva la Vasca](https://open.spotify.com/track/6Jssaf4jsrSLqAeP7PE58T) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm), [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [Viva la Vasca](https://open.spotify.com/album/6H8euPbHTQjaq1Hr9qJEcq) | 2:39 | 2026-06-04 | 2026-09-04 |
 | [Viva la vita](https://open.spotify.com/track/3cQy6pN38rw0wyUNhQ1Ax3) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Viva la vita](https://open.spotify.com/album/64f3m5IfWvEkcJRG0sAmGZ) | 3:38 | 2025-02-12 | 2025-03-07 |
+| [Vivian](https://open.spotify.com/track/6QkXWOi9lL54T2QOf2IFeP) | [Alex Fontana](https://open.spotify.com/artist/4WxHNeMUO9NIo0A0M6hkr9) | [Vivian](https://open.spotify.com/album/5R4UcURDTa8iAhmADCrY4j) | 3:02 | 2026-11-23 |  |
 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/0VGPQdeIhFg1BqfKqKW0b4) | 2:33 | 2025-10-23 | 2025-11-14 |
 | [VOGLIONO ESSERE ME](https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [VOGLIONO ESSERE ME](https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY) | 2:09 | 2024-10-24 | 2024-11-29 |
 | [Voilà](https://open.spotify.com/track/6IhEd41nfdL7qG4MVfZVAp) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Voilà](https://open.spotify.com/album/1sPD0TpvV5Q62TCnyijamW) | 3:12 | 2026-03-05 | 2026-04-24 |

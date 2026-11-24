@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Joel Corry
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,668 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,642 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 84 | [HYPE](https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ), [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [HYPE](https://open.spotify.com/album/0rekevcYYxTEEgoAxYlNrd) | 3:05 |
 | 85 | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx) | 3:02 |
 
-Snapshot ID: `AAAAAOC84xxhrK33JjjqRJp5aK9LbDGW`
+Snapshot ID: `AAAAAN/gUvovIJlJxfTGwcjcNfm+qg4D`

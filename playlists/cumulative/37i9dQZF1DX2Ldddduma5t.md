@@ -4,7 +4,7 @@
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-159 songs - 9 hr 9 min
+160 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [COMO FUERA](https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [COMO FUERA](https://open.spotify.com/album/0DYHkQOfhGRb9Lek2wo51b) | 2:48 | 2026-11-06 |  |
 | [Constant Companion](https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hazel Eyes](https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh) | 4:51 | 2026-08-25 | 2026-09-12 |
 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 | 2026-09-11 | 2026-10-01 |
-| [Cóbrame tú](https://open.spotify.com/track/3Y3M7wKLxnxKByDDFVGc6V) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Cóbrame tú](https://open.spotify.com/album/6Ff1vmuejWakKEfWMKDSwc) | 2:56 | 2026-10-23 |  |
+| [Cóbrame tú](https://open.spotify.com/track/3Y3M7wKLxnxKByDDFVGc6V) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Cóbrame tú](https://open.spotify.com/album/6Ff1vmuejWakKEfWMKDSwc) | 2:56 | 2026-10-23 | 2026-11-24 |
 | [dance around it](https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [ashley cooke](https://open.spotify.com/album/5vNtvppAHCSsUdI9dBvqEy) | 3:58 | 2026-08-17 | 2026-09-12 |
 | [DEPENDS](https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [DEPENDS](https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8) | 3:05 | 2026-11-06 |  |
 | [Different Religion \(feat\. Model/Actriz\)](https://open.spotify.com/track/1GcpSlH0WVIJLLQnkdUrlw) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Different Religion \(feat\. Model/Actriz\)](https://open.spotify.com/album/5tzFFaD5t63vOcKpSktIDN) | 3:53 | 2026-09-30 | 2026-10-17 |
@@ -65,6 +65,7 @@
 | [Heaven Can Wait](https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Heaven Can Wait](https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A) | 3:55 | 2026-10-23 | 2026-11-21 |
 | [HERETIC](https://open.spotify.com/track/5u74bjEr8UeSVFcBAcYGtP) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ONCE UPON A TIME](https://open.spotify.com/album/6EdSkWoFNcsrKV4tRPlzmq) | 3:16 | 2026-11-13 |  |
 | [hey boyyy](https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [hey boyyy](https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga) | 4:38 | 2026-11-06 |  |
+| [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/track/2KSPGgMz3fdWRGSiinMSSh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hong Kong \(feat\. 王菲季候風\)](https://open.spotify.com/album/0Ird3BTe1tW5ru9cMLhpwK) | 3:42 | 2026-11-23 |  |
 | [Hot & talking](https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Hot & talking](https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW) | 3:11 | 2026-10-16 | 2026-11-21 |
 | [Hound](https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hound](https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il) | 4:41 | 2026-11-20 |  |
 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-16 | 2026-11-07 |

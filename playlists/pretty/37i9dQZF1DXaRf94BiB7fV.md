@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Prithvi Prakash
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,307 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,384 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Keh Do Na](https://open.spotify.com/track/0KfJMKzKwez0VsGzmqrQAu) | [Nihal Ahmed](https://open.spotify.com/artist/30mp8i9AigxCAPGxDl8qPQ), [Plushy](https://open.spotify.com/artist/6dcXgXnNeCWtFgUZBAdTdj), [drew.](https://open.spotify.com/artist/7paEWaPicxxRzFlU4Tz48S) | [Keh Do Na](https://open.spotify.com/album/1yZ4WNgzeaR1i3bh5DBGKo) | 2:29 |
 | 50 | [Bata Zara](https://open.spotify.com/track/2wUvjrkR4YooAvZrXqjNKY) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2), [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx) | [Bata Zara](https://open.spotify.com/album/4mMzTydbLzeW4Z1EkN6uvy) | 3:51 |
 
-Snapshot ID: `AAAAAKf7owifSIkfcGdJYx+8FAK3I6SV`
+Snapshot ID: `AAAAABxTa1Qg/7UVKLDN1YdgobirU2YA`

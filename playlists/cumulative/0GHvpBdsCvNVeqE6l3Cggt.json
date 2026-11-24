@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Bad News Bear",
+        "url": "https://open.spotify.com/album/6STKhZJUlBl6aKEyxXvlkq"
+      },
+      "artists": [
+        {
+          "name": "Tanner Boyle",
+          "url": "https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256650,
+      "name": "Bad News Bear",
+      "url": "https://open.spotify.com/track/06gijoAL4er9g0FWqWUrsL"
+    },
+    {
+      "album": {
         "name": "Barebones",
         "url": "https://open.spotify.com/album/1B86dpWBr8KajNzOHk27iB"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. EL DE LA TINTA 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,046 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,058 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 79 | [Vibrando bajo](https://open.spotify.com/track/3uXyUBP9LLfpmHwsxSlDx9) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [Vibrando bajo](https://open.spotify.com/album/4JgZOF7no0vY7JEYc45O62) | 2:53 |
 | 80 | [Oscuro Lo Que Sentías](https://open.spotify.com/track/5Lz4M01FHW2NCxBUybszpp) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [PPYPQ](https://open.spotify.com/album/0JjvlPTGieLo797CUjEzex) | 3:36 |
 
-Snapshot ID: `AAAAAH0BGf69vslmGW3yp/GXKAhGTRgz`
+Snapshot ID: `AAAAAFsPfY5Y+Ertl0IOFdFm0ykGt+t7`

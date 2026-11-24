@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38551,
+  "num_followers": 38554,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAAC+ffdDJ1qPOPgCBODsC4Qf",
+  "snapshot_id": "awIwgAAAAAAB/ChcHz1kuADBvEo1AP92",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 219212,
+      "name": "Forever - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 272524,
       "name": "9 (After Coachella) (feat. M\u00d8 & SOPHIE)",
       "url": "https://open.spotify.com/track/66QK2ov3jneXmdquV0JpZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "Forever - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
     },
     {
       "added_at": null,

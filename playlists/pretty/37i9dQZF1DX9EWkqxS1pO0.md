@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: MA RA
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,382 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,379 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 | 47 | [Aynı Olmayacak](https://open.spotify.com/track/0nEk2R7U209V7e8HvxbBxM) | [Umut Er](https://open.spotify.com/artist/2dIg9NWnGgv2XFcXcdEMDp) | [Aynı Olmayacak](https://open.spotify.com/album/2DtGAmurNOiru5eA2itbrq) | 3:00 |
 | 48 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 |
 | 49 | [senli sevda](https://open.spotify.com/track/2COpBVUNsMs075MZGDhXi4) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [senli sevda](https://open.spotify.com/album/5N0pN6uF6MGeHlkNcKPJaw) | 2:17 |
-| 50 | [iki yaralı kuş](https://open.spotify.com/track/7frZAaCRQFMv9lQqwlYMcZ) | [Sena Hoşel](https://open.spotify.com/artist/64UoFKhjHNjy7gb1QXlVMU) | [iki yaralı kuş](https://open.spotify.com/album/7lWFlbUF3XSUgSFYxVEL25) | 3:43 |
-| 51 | [balo \(mektup\)](https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [balo \(mektup\)](https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy) | 1:46 |
-| 52 | [Yine Sana](https://open.spotify.com/track/5NGjkRdIGxK4N6cF1gocD7) | [kara'lamalar](https://open.spotify.com/artist/0rVGLlyFBQoucdEZUlzmo4) | [Yine Sana](https://open.spotify.com/album/1uh6PYbaAjyeM3cYeNoeK6) | 2:59 |
+| 50 | [balo \(mektup\)](https://open.spotify.com/track/7nBOtGPxVcR906LF2AEsUc) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [balo \(mektup\)](https://open.spotify.com/album/51RCkBDMkYhvBtU1fdyDWy) | 1:46 |
+| 51 | [Yine Sana](https://open.spotify.com/track/5NGjkRdIGxK4N6cF1gocD7) | [kara'lamalar](https://open.spotify.com/artist/0rVGLlyFBQoucdEZUlzmo4) | [Yine Sana](https://open.spotify.com/album/1uh6PYbaAjyeM3cYeNoeK6) | 2:59 |
+| 52 | [iki yaralı kuş](https://open.spotify.com/track/7frZAaCRQFMv9lQqwlYMcZ) | [Sena Hoşel](https://open.spotify.com/artist/64UoFKhjHNjy7gb1QXlVMU) | [iki yaralı kuş](https://open.spotify.com/album/7lWFlbUF3XSUgSFYxVEL25) | 3:43 |
 | 53 | [Şarap İstiyorum](https://open.spotify.com/track/1IOO7cJ9uMKJPFK0a55aKy) | [Aziz Piyade](https://open.spotify.com/artist/207ge5nlUkftKtQYe76iW4) | [Şarap İstiyorum](https://open.spotify.com/album/2xOT9oRk6LfeexjAO8Bd1v) | 4:56 |
 | 54 | [Kalbim Atmıyor Sana](https://open.spotify.com/track/6HEUqS6m0xBMm6gYQWttVg) | [Nil Dönmez](https://open.spotify.com/artist/1VVCToquAQNb7cFzQiShUv) | [Kalbim Atmıyor Sana](https://open.spotify.com/album/1efNMfOsupvALJeggz7shl) | 2:45 |
 | 55 | [Neyse](https://open.spotify.com/track/509inIvWm6E20MRSkmHd2V) | [Kalabalıklar](https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw) | [Neyse](https://open.spotify.com/album/0LfyiV8HT3r06i4xCc6SHP) | 2:49 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 | 64 | [Yine de Yalan](https://open.spotify.com/track/4e4P6LEHRWZmP2ycwmSUUH) | [NEİ?](https://open.spotify.com/artist/3T2e3J6CJowqxJh8WyN42F) | [Yine de Yalan](https://open.spotify.com/album/6xqbV20seMettE0OMuyfnE) | 3:20 |
 | 65 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 |
 | 66 | [İnanmadın Bana](https://open.spotify.com/track/6lr7nzm8MhQNVMFwjYGyu4) | [Mert Nadir](https://open.spotify.com/artist/30iUiyRwy0msR9kSZ3rmRU) | [İnanmadın Bana](https://open.spotify.com/album/7HqTO6UsIeCAhjJAgJdwQJ) | 3:04 |
-| 67 | [Güzel Bir Gün](https://open.spotify.com/track/67FUDG69vSveFfKXNHCtgx) | [Cem Baysal](https://open.spotify.com/artist/0pbfsV6TegwmfeAxLQkrZ0) | [Güzel Bir Gün](https://open.spotify.com/album/5y7ff1TC68L72T1KjVmGMJ) | 2:52 |
-| 68 | [Yana Yana](https://open.spotify.com/track/372o63OFKXAni65PUS3IOu) | [Polen](https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl) | [Yana Yana](https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW) | 2:27 |
-| 69 | [Her Şeye İnat](https://open.spotify.com/track/051D0YSSXL3nAW2xUv4DwF) | [Siren](https://open.spotify.com/artist/4uY69xEo1jXgSSKiO06GGy) | [Her Şeye İnat](https://open.spotify.com/album/1HbGyB13Mxp5U0u7M5qThG) | 3:51 |
-| 70 | [Harabeyim](https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Harabeyim](https://open.spotify.com/album/3NoyGdQPzxEGF3roKzLosS) | 2:58 |
+| 67 | [Yana Yana](https://open.spotify.com/track/372o63OFKXAni65PUS3IOu) | [Polen](https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl) | [Yana Yana](https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW) | 2:27 |
+| 68 | [Güzel Bir Gün](https://open.spotify.com/track/67FUDG69vSveFfKXNHCtgx) | [Cem Baysal](https://open.spotify.com/artist/0pbfsV6TegwmfeAxLQkrZ0) | [Güzel Bir Gün](https://open.spotify.com/album/5y7ff1TC68L72T1KjVmGMJ) | 2:52 |
+| 69 | [Harabeyim](https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Harabeyim](https://open.spotify.com/album/3NoyGdQPzxEGF3roKzLosS) | 2:58 |
+| 70 | [Her Şeye İnat](https://open.spotify.com/track/051D0YSSXL3nAW2xUv4DwF) | [Siren](https://open.spotify.com/artist/4uY69xEo1jXgSSKiO06GGy) | [Her Şeye İnat](https://open.spotify.com/album/1HbGyB13Mxp5U0u7M5qThG) | 3:51 |
 | 71 | [Sevgilim Beni Affet](https://open.spotify.com/track/3E3ausTrcU9zkSxYYD3dim) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Sevgilim Beni Affet](https://open.spotify.com/album/2HVcIH8PqjlmKZSQWTYsPO) | 3:46 |
 | 72 | [Açıklarda Bir Kara](https://open.spotify.com/track/4I5NJVpbMUa50jeRDObCMJ) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Açıklarda Bir Kara](https://open.spotify.com/album/30wEQnC52g72y208JK6R4P) | 2:56 |
 | 73 | [Aklında Kim Var?](https://open.spotify.com/track/5rTEZu5um5xHiRzHz5UbSQ) | [Doğa](https://open.spotify.com/artist/3GsGRGDFFTzDbigXSVbqne) | [Aklında Kim Var?](https://open.spotify.com/album/1ZJh6UmpsRscCZ2arR4hXk) | 2:55 |
-| 74 | [Yanımda Kal](https://open.spotify.com/track/0wEsnGypb7XUq82MiMjynU) | [Reva](https://open.spotify.com/artist/0wonn88Fok2eDNWMyViwBg) | [Yanımda Kal](https://open.spotify.com/album/0ddX2lBevpgtszev4sCEZP) | 2:18 |
-| 75 | [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 |
+| 74 | [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 |
+| 75 | [Yanımda Kal](https://open.spotify.com/track/0wEsnGypb7XUq82MiMjynU) | [Reva](https://open.spotify.com/artist/0wonn88Fok2eDNWMyViwBg) | [Yanımda Kal](https://open.spotify.com/album/0ddX2lBevpgtszev4sCEZP) | 2:18 |
 
-Snapshot ID: `AAAAAOWYeh9njqed0xa31YodWC0WUBhX`
+Snapshot ID: `AAAAAPZRhxdE6QsAWXUvHlAItIdhkmt4`

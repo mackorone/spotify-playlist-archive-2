@@ -950,7 +950,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 203212,
       "name": "Crush - Radio Dance Edit",
       "url": "https://open.spotify.com/track/2tPyQNtMIrHN1OuYVIGFE9"
@@ -2776,6 +2776,24 @@
       "duration_ms": 281460,
       "name": "I Remember - Strobelite Mix",
       "url": "https://open.spotify.com/track/3sJ2XGBUSqlJhgsmuYZKzK"
+    },
+    {
+      "album": {
+        "name": "I Want Your Soul",
+        "url": "https://open.spotify.com/album/04EAVlVTo2cVYXmDyESFov"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "I Want Your Soul",
+      "url": "https://open.spotify.com/track/1uqnKeoy55KA6LqoOiW4Pm"
     },
     {
       "album": {

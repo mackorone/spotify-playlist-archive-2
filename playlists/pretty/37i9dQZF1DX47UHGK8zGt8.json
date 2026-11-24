@@ -1,12 +1,12 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 622206,
+  "num_followers": 622270,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMODFyFtu2ssBzuxaA6tfosI6da1",
+  "snapshot_id": "AAAAANa3Dc2AL8ozTmNG9ryvrT2TxonV",
   "tracks": [
     {
       "added_at": "2026-11-20 03:00:53",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "Ensaio Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
+        "name": "At\u00e9 Outro Dia Amor",
+        "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 181276,
-      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
+      "duration_ms": 208492,
+      "name": "At\u00e9 Outro Dia Amor",
+      "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
+        "name": "Ensaio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
+    },
+    {
+      "added_at": "2026-11-20 03:00:53",
+      "album": {
         "name": "Le\u00e3o",
         "url": "https://open.spotify.com/album/1N5Lvy0FhCxXpB0P047oRg"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 207321,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/5jyhJeoNPBM5EGMU1OTfb8"
-    },
-    {
-      "added_at": "2026-11-20 03:00:53",
-      "album": {
-        "name": "At\u00e9 Outro Dia Amor",
-        "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 208492,
-      "name": "At\u00e9 Outro Dia Amor",
-      "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2026-11-20 03:00:53",
-      "album": {
         "name": "Garotos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/3yYpPiPKxnoL39eKC6H3gk"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 198075,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
+    },
+    {
+      "added_at": "2026-11-20 03:00:53",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
+        "name": "Aqui, Ali, Em Qualquer Lugar",
+        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/5dIZa3pwSn1vDenZpSBEFO"
+    },
+    {
+      "added_at": "2026-11-20 03:00:53",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "Aqui, Ali, Em Qualquer Lugar",
-        "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 185733,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/5dIZa3pwSn1vDenZpSBEFO"
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+        "name": "MAIS UM VER\u00c3O SEM VOC\u00ca",
+        "url": "https://open.spotify.com/album/670bjpsTWBCDbymYfvk6aN"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
         }
       ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+      "duration_ms": 174188,
+      "name": "Mais Um Ver\u00e3o Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NytioHZ8nm6cq1rVBfWzj"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "MAIS UM VER\u00c3O SEM VOC\u00ca",
-        "url": "https://open.spotify.com/album/670bjpsTWBCDbymYfvk6aN"
-      },
-      "artists": [
-        {
-          "name": "GIANA",
-          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
-        }
-      ],
-      "duration_ms": 174188,
-      "name": "Mais Um Ver\u00e3o Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/1NytioHZ8nm6cq1rVBfWzj"
-    },
-    {
-      "added_at": "2026-11-20 03:00:53",
-      "album": {
         "name": "Moska Apresenta Zoombido: Mart'n\u00e1lia",
         "url": "https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "Meu Esquema",
-        "url": "https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 188203,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
-    },
-    {
-      "added_at": "2026-11-20 03:00:53",
-      "album": {
         "name": "Ser\u00e1 Que \u00c9 Amor?",
         "url": "https://open.spotify.com/album/0y37fswbscUTCzBBdD7tOF"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "N\u00c3O ME CHAME DE AMOR",
-        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
+        "name": "Meu Esquema",
+        "url": "https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 278033,
-      "name": "N\u00c3O ME CHAME DE AMOR",
-      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
+      "duration_ms": 188203,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "Cada L\u00e1grima",
-        "url": "https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3"
+        "name": "N\u00c3O ME CHAME DE AMOR",
+        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
       },
       "artists": [
         {
-          "name": "Tom Ribeira",
-          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Cada L\u00e1grima",
-      "url": "https://open.spotify.com/track/0TuWcYJZGXeujugmIJTvEm"
+      "duration_ms": 278033,
+      "name": "N\u00c3O ME CHAME DE AMOR",
+      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -1367,18 +1351,38 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
-        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
+        "name": "Cada L\u00e1grima",
+        "url": "https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
         }
       ],
-      "duration_ms": 189276,
-      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
-      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
+      "duration_ms": 218333,
+      "name": "Cada L\u00e1grima",
+      "url": "https://open.spotify.com/track/0TuWcYJZGXeujugmIJTvEm"
+    },
+    {
+      "added_at": "2026-11-20 03:00:53",
+      "album": {
+        "name": "Kavita 1",
+        "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 392813,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -1411,38 +1415,18 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "Kavita 1",
-        "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
+        "name": "LAGUM - Ao Vivo na Amaz\u00f4nia",
+        "url": "https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q"
       },
       "artists": [
         {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 392813,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
-    },
-    {
-      "added_at": "2026-11-20 03:00:53",
-      "album": {
-        "name": "\u00c9 Segredo",
-        "url": "https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 173100,
-      "name": "\u00c9 Segredo",
-      "url": "https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ"
+      "duration_ms": 189276,
+      "name": "T\u00d4 DE OLHO - Ao Vivo na Amaz\u00f4nia",
+      "url": "https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -1459,6 +1443,22 @@
       "duration_ms": 169086,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
+    },
+    {
+      "added_at": "2026-11-20 03:00:53",
+      "album": {
+        "name": "\u00c9 Segredo",
+        "url": "https://open.spotify.com/album/1APuWL3FkCtKXZsiInnDMY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "\u00c9 Segredo",
+      "url": "https://open.spotify.com/track/6st5PHzmcwv6XlDyEHqHbJ"
     },
     {
       "added_at": "2026-11-20 03:00:53",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-11-20 03:00:53",
       "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 106452,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
-    },
-    {
-      "added_at": "2026-11-20 03:00:53",
-      "album": {
         "name": "Mano",
         "url": "https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "added_at": "2026-11-20 03:00:53",
+      "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
       "added_at": "2026-11-20 03:00:53",

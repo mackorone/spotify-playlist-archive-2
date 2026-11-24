@@ -10,11 +10,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Won't Force You](https://open.spotify.com/track/4c7awiaRsAal1uZXPDbpBr) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 3:26 |
 | 2 | [Mixed Signals](https://open.spotify.com/track/37Ul8ruDPOdhMuCRYbSUn6) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr), [Matt McGhee](https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN) | [Conversations From A Payphone](https://open.spotify.com/album/0T4Z5y6addAX9snpSlDNr7) | 4:08 |
-| 3 | [Can You Do It for Me?](https://open.spotify.com/track/70QhXL1osJ7lRfIqZ1Doux) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 3:58 |
+| 3 | [She Got It](https://open.spotify.com/track/4AebZz6zjrNpqk7mehE24x) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 3:09 |
 | 4 | [Feel](https://open.spotify.com/track/6WxxFT9MzFntsebivQkxXB) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Alchemy](https://open.spotify.com/album/5tRH929SEHDYOHg4Ky1Y0a) | 3:50 |
 | 5 | [I Believe \(Selfish\)](https://open.spotify.com/track/7vpejOgd1PfPuBqFZ6Sw0y) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 4:00 |
 | 6 | [Southern Delicacy](https://open.spotify.com/track/3TzHYI4SvydLcaQxGJZ7Mm) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 3:17 |
-| 7 | [She Got It](https://open.spotify.com/track/4AebZz6zjrNpqk7mehE24x) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 3:09 |
+| 7 | [Can You Do It for Me?](https://open.spotify.com/track/70QhXL1osJ7lRfIqZ1Doux) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 3:58 |
 | 8 | [Painting The Stars \- feat\. Jai’Len Josey](https://open.spotify.com/track/1f3eqj3tjdUMi3JYyMEhMZ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [HunnyMoon Mountain](https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26) | 4:36 |
 | 9 | [Truce](https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 4:09 |
 | 10 | [Good Soup](https://open.spotify.com/track/5xMWNzqWHBrUld2AIEVXoH) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 2:45 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 | 27 | [A Few Things](https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [A Few Things](https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN) | 3:21 |
 | 28 | [Welcome Home](https://open.spotify.com/track/4d6v0CvPR7lnsE5P4djMYj) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Remember Me: The Mahalia Jackson Story \(Original Soundtrack\)](https://open.spotify.com/album/69SalyGJ7nBvOrex2NJTWN) | 2:06 |
 
-Snapshot ID: `awDfAAAAAABKlaXON45AaNqwjW4bL1hM`
+Snapshot ID: `awIwgAAAAAAz5yjXa3Rz6OsxVj/BLvrf`

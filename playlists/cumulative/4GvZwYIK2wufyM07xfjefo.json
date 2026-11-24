@@ -583,6 +583,28 @@
     },
     {
       "album": {
+        "name": "Clap! Clap!",
+        "url": "https://open.spotify.com/album/4QcvMHr9obDsEqMxuTE9iW"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
+          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Clap! Clap! (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0i90hXKjFSLfJ1Oh3oWbCW"
+    },
+    {
+      "album": {
         "name": "Close My Eyes -\u8a18\u61b6\u306e\u6249-",
         "url": "https://open.spotify.com/album/0yzKO62qkg0eDuJZLLCkkG"
       },
@@ -1603,6 +1625,28 @@
     },
     {
       "album": {
+        "name": "Morning Soda Sky",
+        "url": "https://open.spotify.com/album/2MAhY9BUXi25qQjrXDm6wx"
+      },
+      "artists": [
+        {
+          "name": "\u3046\u3069\u3093\u30bf\u30a4\u30de\u30fcP",
+          "url": "https://open.spotify.com/artist/4ta5vqvsNmN0wFUultQHdJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276001,
+      "name": "Morning Soda Sky (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5RXf7DOaX08Cusau6D8ZBI"
+    },
+    {
+      "album": {
         "name": "FantasiC",
         "url": "https://open.spotify.com/album/0E9zFLvDXOZXE0k8Ujyx71"
       },
@@ -1672,7 +1716,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 230625,
       "name": "New Dawn (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/1VUvcIh2uAwkcqh70mcIk1"
@@ -2000,7 +2044,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 265296,
       "name": "Rush Life (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/6cL5FN4A7c5De5uQm0SRju"
@@ -4073,6 +4117,32 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30a4\u30c7\u30a3\u30b9\u30de\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/6m8AVfIm0o84TETJFraZl6"
+      },
+      "artists": [
+        {
+          "name": "Toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "\u30a2\u30a4\u30c7\u30a3\u30b9\u30de\u30a4\u30eb (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/1OoeeGDN3UpFxqfHfLLbxO"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30ce",
         "url": "https://open.spotify.com/album/4SO6nYLcZemhrRpqJ0a74T"
       },
@@ -4882,7 +4952,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 305925,
       "name": "\u30b3\u30b3\u30ed\u30ce\u30fc\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4H13q3URX6g9bTGrNSelcN"
@@ -8153,6 +8223,28 @@
     },
     {
       "album": {
+        "name": "\u611b\u3092\u77e5\u308b",
+        "url": "https://open.spotify.com/album/32FGjASBqmXzn1Lr3Rbyop"
+      },
+      "artists": [
+        {
+          "name": "Marasy",
+          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "\u611b\u3092\u77e5\u308b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6C4Rg9EFQD7b1SrCAkkGnW"
+    },
+    {
+      "album": {
         "name": "\u611b\u5bfe\u3059\u308b\u54c0\u306b\u3064\u3044\u3066",
         "url": "https://open.spotify.com/album/0mFZKSAHCU9FYMrgH94uDQ"
       },
@@ -8728,7 +8820,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 158260,
       "name": "\u671d\u51ea\u3050",
       "url": "https://open.spotify.com/track/7eyxHV8geW8CQRBZAmAV9T"
@@ -8750,6 +8842,28 @@
       "duration_ms": 289865,
       "name": "\u6727\u6708\u591c\u3068\u6625\u4e59\u5973",
       "url": "https://open.spotify.com/track/4yp49AyXvUV9bJnEINbaYG"
+    },
+    {
+      "album": {
+        "name": "\u67af\u308c\u306a\u3044\u3088\u3046\u306b\u304a\u546a\u3044\u3092\uff01",
+        "url": "https://open.spotify.com/album/47ucDabRyXm0yMH7moF451"
+      },
+      "artists": [
+        {
+          "name": "eco",
+          "url": "https://open.spotify.com/artist/52ucEWRXDAG6YYspFxjN0N"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "\u67af\u308c\u306a\u3044\u3088\u3046\u306b\u304a\u546a\u3044\u3092\uff01 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6VtxjqqeiwOf2djaE8HENJ"
     },
     {
       "album": {
@@ -9040,7 +9154,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 169249,
       "name": "\u6df1\u591c\u30e9\u30b8\u30aa\u306b\u304a\u3044\u3067\u3088",
       "url": "https://open.spotify.com/track/5QMNZvvdkdDnIgWZqvqfgy"

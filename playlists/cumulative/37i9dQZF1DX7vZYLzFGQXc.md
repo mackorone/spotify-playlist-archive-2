@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-1,723 songs - 4 day 0 hr 31 min
+1,724 songs - 4 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1095,7 +1095,7 @@
 | [pairing](https://open.spotify.com/track/2XHoK0scxzTMYEG7W0Bogc) | [greenbeige](https://open.spotify.com/artist/4x3Fz4qscjiV4wNg5jCznm) | [pairing](https://open.spotify.com/album/0hgQZ9Cl6KnOSCWRVu3LhV) | 2:26 | 2022-06-09 | 2022-06-19 |
 | [palindrome](https://open.spotify.com/track/1dVkhC11bocbMGiJw8RZ0I) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [palindrome](https://open.spotify.com/album/7KSmXVUSnMZRG0jQghsTVh) | 3:08 | 2024-08-02 | 2024-11-12 |
 | [Pandilla](https://open.spotify.com/track/4Pj1dst4iDwGCYsYxm5X4r) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [BRAT](https://open.spotify.com/album/3lHfVs7dsuxQRF51fu7w6f) | 3:12 | 2022-11-07 | 2023-02-01 |
-| [Paper Chase](https://open.spotify.com/track/4lUs1YqwoJ4hKYlfYWZkA3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Paper Chase](https://open.spotify.com/album/15DhkRELmap2H04SghgrDR) | 2:47 | 2026-04-24 |  |
+| [Paper Chase](https://open.spotify.com/track/4lUs1YqwoJ4hKYlfYWZkA3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Paper Chase](https://open.spotify.com/album/15DhkRELmap2H04SghgrDR) | 2:47 | 2026-04-24 | 2026-11-24 |
 | [Parasol Violet \(feat\. Jade\)](https://open.spotify.com/track/34K57qXV5vNW7DmCSau8TH) | [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Parasol Violet](https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D) | 4:13 | 2024-08-02 | 2024-10-05 |
 | [Part of the plan](https://open.spotify.com/track/4T8T6XxNvK1cUNua0bqw7n) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4) | [Part of the plan](https://open.spotify.com/album/5uKY6FJ4QEuyOqEIiYVjef) | 2:50 | 2022-05-02 | 2022-06-10 |
 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 | 2025-10-02 | 2026-06-03 |
@@ -1532,6 +1532,7 @@
 | [Wanna go for a walk?](https://open.spotify.com/track/05aHjamumAJ0m9L24mgGBp) | [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Wanna go for a walk?](https://open.spotify.com/album/3ULtXyAUl3AQ3t6iXvXfIp) | 3:05 | 2022-04-20 | 2022-06-10 |
 | [Want It](https://open.spotify.com/track/4v9PcIdztDeSL7OQBc47Ql) | [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP), [Sadboy JB](https://open.spotify.com/artist/7g2bqT5lmeea6rpG3cbEYc) | [Want It](https://open.spotify.com/album/1pUylhY8MZHv8QP5oHifWY) | 2:53 | 2022-04-07 | 2022-05-12 |
 | [War](https://open.spotify.com/track/4pbr6svVODh83MHULe3n57) | [LUAMEL](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Orbital](https://open.spotify.com/album/1dvPM4PE5R1RLrXE0b3uCE) | 4:46 | 2021-12-02 | 2022-01-11 |
+| [Warm Season Will Come In The End](https://open.spotify.com/track/69XJcVSrjgM1wuM8pRXyyd) | [야자수](https://open.spotify.com/artist/6S4lccsgpUHRk007vr54Ag) | [Warm Season Will Come In The End](https://open.spotify.com/album/2oJTsQWqmE4p0UpNWfvaVl) | 4:35 | 2026-11-24 |  |
 | [Water](https://open.spotify.com/track/4DzoOO0LZhhvJjvznrMyzp) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Water](https://open.spotify.com/album/6dDu8VJPo88IBkCtTCKLsJ) | 3:36 | 2022-03-17 | 2022-04-21 |
 | [water blue indigo](https://open.spotify.com/track/37cs7Sl4CNeEbNCU8q1Bww) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [water blue indigo](https://open.spotify.com/album/6kHVLOkQzZyHhXkSQliLsp) | 5:19 | 2023-03-31 | 2023-06-02 |
 | [water drop](https://open.spotify.com/track/6cGSFAkpPuO4ray6C6IwNp) | [zfuul](https://open.spotify.com/artist/34vy394kjoH1hmTYmIAMnx) | [kyeon](https://open.spotify.com/album/7on3hpcrztRDoNM24qLGDO) | 4:50 | 2025-07-28 | 2026-01-15 |

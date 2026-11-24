@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-09",
-  "description": "Prepare for the upcoming world tour kickoff by listening to TXT\u2019s best songs! (TXT\uc758 \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \uc6d4\ub4dc \ud22c\uc5b4\uc758 \uc2dc\uc791\uc744 \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the TOMORROW X TOGETHER WORLD TOUR [STEAL THE WIND] IN SEOUL LIVE SET including the voices of the group on stage! (TXT\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c [STEAL THE WIND] IN SEOUL \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
   "tracks": [
     {
@@ -45,6 +45,42 @@
     },
     {
       "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Angel Bite",
+      "url": "https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq"
+    },
+    {
+      "album": {
+        "name": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+        "url": "https://open.spotify.com/album/484LprbSEWrxQNuL5B4FHc"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63963,
+      "name": "Are we different?",
+      "url": "https://open.spotify.com/track/31yyXD7ynlTTEOgv0hJCz2"
+    },
+    {
+      "album": {
         "name": "Back for More (with Anitta)",
         "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
       },
@@ -60,7 +96,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 131037,
       "name": "Back for More (with Anitta)",
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
@@ -132,7 +168,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 209105,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
@@ -168,7 +204,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 182670,
       "name": "Chasing That Feeling",
       "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
@@ -316,10 +352,28 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 145065,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX"
+    },
+    {
+      "album": {
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140720,
+      "name": "Dream of Mine",
+      "url": "https://open.spotify.com/track/1s8LlzOSetYeUcmYKxaRY1"
     },
     {
       "album": {
@@ -377,6 +431,24 @@
     },
     {
       "album": {
+        "name": "NO LABELS: PART 02",
+        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Fxxking Star",
+      "url": "https://open.spotify.com/track/5jZmP10S3uMyDNJJ5rgsmT"
+    },
+    {
+      "album": {
         "name": "The Star Chapter: TOGETHER",
         "url": "https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG"
       },
@@ -388,7 +460,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 186601,
       "name": "Ghost Girl",
       "url": "https://open.spotify.com/track/5voKDnuTGXBnIZbAqWnb8R"
@@ -431,6 +503,60 @@
     },
     {
       "album": {
+        "name": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+        "url": "https://open.spotify.com/album/484LprbSEWrxQNuL5B4FHc"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41374,
+      "name": "Growing up to perform CROWN",
+      "url": "https://open.spotify.com/track/26rLKhjWUAn1uSPGZe0cdZ"
+    },
+    {
+      "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Hate It or Love It",
+      "url": "https://open.spotify.com/track/21NpJLOBIwpTAsELENNN2V"
+    },
+    {
+      "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6WLgkCznWhVkDKqI5mPx5M"
+    },
+    {
+      "album": {
         "name": "The Star Chapter: SANCTUARY",
         "url": "https://open.spotify.com/album/72JboNccBYyXR676YNfcYE"
       },
@@ -449,6 +575,42 @@
     },
     {
       "album": {
+        "name": "NO LABELS: PART 02",
+        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124896,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
+    },
+    {
+      "album": {
+        "name": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+        "url": "https://open.spotify.com/album/484LprbSEWrxQNuL5B4FHc"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25091,
+      "name": "It's a PERFECT STORM performance",
+      "url": "https://open.spotify.com/track/1j5FTLpKR8b56O2YX48AOg"
+    },
+    {
+      "album": {
         "name": "minisode 3: TOMORROW",
         "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
       },
@@ -460,7 +622,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 196694,
       "name": "I\u2019ll See You There Tomorrow",
       "url": "https://open.spotify.com/track/0bMWoFtQIrnW5YyNMc4aKQ"
@@ -478,7 +640,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 199919,
       "name": "LO$ER=LO\u2661ER",
       "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
@@ -496,7 +658,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 177514,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ"
@@ -568,10 +730,46 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 157149,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/3BQeCOUf7M9B7NEpx9r4qj"
+    },
+    {
+      "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149346,
+      "name": "Quarter Life",
+      "url": "https://open.spotify.com/track/0Dv0R4tfRj5jy8e8CF3JB9"
+    },
+    {
+      "album": {
+        "name": "Setsuna Hanabi",
+        "url": "https://open.spotify.com/album/153JTbgmYpKCR1VuXwl8YD"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173874,
+      "name": "Setsuna Hanabi",
+      "url": "https://open.spotify.com/track/3aqF8pFI35U2Iv8V05D9r7"
     },
     {
       "album": {
@@ -737,6 +935,24 @@
     },
     {
       "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Storm is...",
+      "url": "https://open.spotify.com/track/2I2Z8xm5YBubjsEn3FS9I2"
+    },
+    {
+      "album": {
         "name": "The Name Chapter: TEMPTATION",
         "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
       },
@@ -773,6 +989,24 @@
     },
     {
       "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Sweetest Escape",
+      "url": "https://open.spotify.com/track/5IxtjRC1JrgOlIsCxCAenB"
+    },
+    {
+      "album": {
         "name": "7TH YEAR: A Moment of Stillness in the Thorns",
         "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
       },
@@ -806,10 +1040,46 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 176076,
       "name": "Take My Half",
       "url": "https://open.spotify.com/track/13tz8REkfaAuQrmKQwbToR"
+    },
+    {
+      "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162642,
+      "name": "The Killa (I Belong to You)",
+      "url": "https://open.spotify.com/track/33RfPb7Vca7s2x5xzXR5E3"
+    },
+    {
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211399,
+      "name": "Thursday's Child Has Far To Go",
+      "url": "https://open.spotify.com/track/04CHEoMbrLOiX8co3EG5dO"
     },
     {
       "album": {
@@ -831,6 +1101,42 @@
     },
     {
       "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Touch the Sky",
+      "url": "https://open.spotify.com/track/7E75wy21SphJ5Q6J5BaGmW"
+    },
+    {
+      "album": {
+        "name": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+        "url": "https://open.spotify.com/album/484LprbSEWrxQNuL5B4FHc"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44744,
+      "name": "Trying out new things",
+      "url": "https://open.spotify.com/track/62RZJilG2tOVzodlT0nbGD"
+    },
+    {
+      "album": {
         "name": "The Star Chapter: TOGETHER",
         "url": "https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG"
       },
@@ -842,10 +1148,28 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 135331,
       "name": "Upside Down Kiss",
       "url": "https://open.spotify.com/track/6bp3UWuLklGIK8VgkRUKkP"
+    },
+    {
+      "album": {
+        "name": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+        "url": "https://open.spotify.com/album/484LprbSEWrxQNuL5B4FHc"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21855,
+      "name": "We love our MOA",
+      "url": "https://open.spotify.com/track/5AuXh8176NhEyZW8RPCZvF"
     },
     {
       "album": {
@@ -878,7 +1202,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-24",
       "duration_ms": 173874,
       "name": "\u30bb\u30c4\u30ca\u30cf\u30ca\u30d3 (Setsuna Hanabi)",
       "url": "https://open.spotify.com/track/2Hq8l2e9BkRVaQtJni4Ss9"

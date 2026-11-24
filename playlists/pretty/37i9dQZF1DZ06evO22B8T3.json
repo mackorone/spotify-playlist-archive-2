@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1309605,
+  "num_followers": 1309613,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awDfAAAAAADKDxWAbyetkyb/SsZqad7U",
+  "snapshot_id": "awIwgAAAAADAN1vMwUW9qfD8rTN5dsOz",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUIMERA",
-        "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
+        "name": "C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "XROSS",
-          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
         }
       ],
-      "duration_ms": 231999,
-      "name": "RAMEN PARA DOS",
-      "url": "https://open.spotify.com/track/5KJacLbQNuqzR9IizaPI6h"
+      "duration_ms": 195709,
+      "name": "C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
     },
     {
       "added_at": null,
@@ -303,18 +295,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm"
+        "name": "QUIMERA",
+        "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
       },
       "artists": [
         {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
         }
       ],
-      "duration_ms": 195709,
-      "name": "C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX"
+      "duration_ms": 231999,
+      "name": "RAMEN PARA DOS",
+      "url": "https://open.spotify.com/track/5KJacLbQNuqzR9IizaPI6h"
     },
     {
       "added_at": null,

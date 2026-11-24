@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:7rO4wSpJVcfp1mXLCOgjj0">Vinnie Marakas</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,307 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,312 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Tutte le volte](https://open.spotify.com/track/2sDdprCxCrjOCws9nERY5o) | [VIOLETOVYY BEZ](https://open.spotify.com/artist/2VqV1IfoZc8W7epfuvgM5F) | [Meccanica Quasica](https://open.spotify.com/album/2un4jWuejVdejIFtct0MQG) | 2:36 |
 | 50 | [RICORDATI DI CORRERE!! \(e non fermarti mai\)](https://open.spotify.com/track/2XhiFVMmqJMj9HqHDqqSas) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k) | [RICORDATI DI CORRERE!! \(e non fermarti mai\)](https://open.spotify.com/album/77hZxdzNB5Dcy7z5UZKbCY) | 3:04 |
 
-Snapshot ID: `AAAAAJsgBb4PdP98uxbwrjR2Du3zuT0V`
+Snapshot ID: `AAAAAKI7CY6QOO1uOqUv2oizVbG456Cc`

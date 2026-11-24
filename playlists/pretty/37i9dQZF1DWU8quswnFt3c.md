@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Miss Monique from Ukraine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,429 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,343 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 33 | [I'm Going Back to Lebanon](https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:45 |
 | 34 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
 | 35 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 |
-| 36 | [隱痛](https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [重寫第一章](https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6) | 3:32 |
-| 37 | [Danger](https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Danger](https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF) | 3:28 |
+| 36 | [Danger](https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Danger](https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF) | 3:28 |
+| 37 | [隱痛](https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [重寫第一章](https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6) | 3:32 |
 | 38 | [December Forever](https://open.spotify.com/track/1lV0KkH0yn4nxdfxQUlOoy) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:38 |
 | 39 | [Every Aching Minute](https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartsong](https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G) | 4:51 |
 | 40 | [RUDE](https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [RUDE](https://open.spotify.com/album/6XfoImzNgOYzcLVp7ybzCz) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 49 | [winters gonna come](https://open.spotify.com/track/3OoJRP74QttUB17tTe5gwm) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [winters gonna come](https://open.spotify.com/album/6qr5fMgyonax6366SQHTfy) | 4:12 |
 | 50 | [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 |
 
-Snapshot ID: `AAAAAGhuV7w2plu6cMu3tcGzuUIjTFG8`
+Snapshot ID: `AAAAANQvFKNUXu7MoF2EC5o+kbE+NGmE`

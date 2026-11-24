@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAvU3P32oEu87qIVIttBYUfLb1Nq",
+  "snapshot_id": "AAAAAC+ZMNMsF15h5AjdKegHwtfpbfQO",
   "tracks": [
     {
       "added_at": "2026-11-17 15:00:48",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-11-17 15:00:48",
       "album": {
-        "name": "\u7121\u793c\u306a\uff01",
-        "url": "https://open.spotify.com/album/4xafNHau4Vni9TMBfsXnPk"
-      },
-      "artists": [
-        {
-          "name": "POLKADOT STINGRAY",
-          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "\u7121\u793c\u306a\uff01",
-      "url": "https://open.spotify.com/track/3jon0WlH0JjYRm6gEq6cY4"
-    },
-    {
-      "added_at": "2026-11-17 15:00:48",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2026-11-17 15:00:48",
       "album": {
-        "name": "OK\u96c6",
-        "url": "https://open.spotify.com/album/3fzX4zbJ8I5gLMzb4aQq11"
+        "name": "\u7121\u793c\u306a\uff01",
+        "url": "https://open.spotify.com/album/4xafNHau4Vni9TMBfsXnPk"
       },
       "artists": [
         {
-          "name": "\u540d\u8a89\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
         }
       ],
-      "duration_ms": 222493,
-      "name": "\u5e0c\u671b\u6cd5",
-      "url": "https://open.spotify.com/track/5DzWLPj0m3dEGD8bsKOU57"
+      "duration_ms": 166000,
+      "name": "\u7121\u793c\u306a\uff01",
+      "url": "https://open.spotify.com/track/3jon0WlH0JjYRm6gEq6cY4"
     },
     {
       "added_at": "2026-11-17 15:00:48",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-11-17 15:00:48",
       "album": {
+        "name": "OK\u96c6",
+        "url": "https://open.spotify.com/album/3fzX4zbJ8I5gLMzb4aQq11"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "\u5e0c\u671b\u6cd5",
+      "url": "https://open.spotify.com/track/5DzWLPj0m3dEGD8bsKOU57"
+    },
+    {
+      "added_at": "2026-11-17 15:00:48",
+      "album": {
         "name": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/2mpJQNIjm5czakxjOb5cIZ"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 147720,
       "name": "\u30c8\u30ea\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/3IB0BJE9hybJMOxufysBpu"
+    },
+    {
+      "added_at": "2026-11-17 15:00:48",
+      "album": {
+        "name": "THE GOLDEN PROTOTYPE.",
+        "url": "https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl"
+      },
+      "artists": [
+        {
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+        }
+      ],
+      "duration_ms": 230232,
+      "name": "\u6771\u4eac\u30b4\u30c3\u30c9\u30b9\u30c8\u30ea\u30fc\u30c8\u30dc\u30fc\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ"
     },
     {
       "added_at": "2026-11-17 15:00:48",
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2026-11-17 15:00:48",
       "album": {
-        "name": "THE GOLDEN PROTOTYPE.",
-        "url": "https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl"
+        "name": "Shoot Shoot Shoot",
+        "url": "https://open.spotify.com/album/3rsVT07lHEG8SyQkdj62ea"
       },
       "artists": [
         {
-          "name": "OddRe:",
-          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+          "name": "METALVERSE",
+          "url": "https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp"
         }
       ],
-      "duration_ms": 230232,
-      "name": "\u6771\u4eac\u30b4\u30c3\u30c9\u30b9\u30c8\u30ea\u30fc\u30c8\u30dc\u30fc\u30a4\u30ba",
-      "url": "https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ"
+      "duration_ms": 166853,
+      "name": "Shoot Shoot Shoot",
+      "url": "https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ"
     },
     {
       "added_at": "2026-11-17 15:00:48",
@@ -1111,22 +1127,6 @@
       "duration_ms": 247887,
       "name": "\u30ad\u30e9\u30ad\u30e9\u306e\u7070",
       "url": "https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX"
-    },
-    {
-      "added_at": "2026-11-17 15:00:48",
-      "album": {
-        "name": "Shoot Shoot Shoot",
-        "url": "https://open.spotify.com/album/3rsVT07lHEG8SyQkdj62ea"
-      },
-      "artists": [
-        {
-          "name": "METALVERSE",
-          "url": "https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp"
-        }
-      ],
-      "duration_ms": 166853,
-      "name": "Shoot Shoot Shoot",
-      "url": "https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ"
     },
     {
       "added_at": "2026-11-17 15:00:48",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-11-17 15:00:48",
       "album": {
-        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+        "name": "Fooocus",
+        "url": "https://open.spotify.com/album/6GMdck1kasizpyASeI18i7"
       },
       "artists": [
         {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
         }
       ],
-      "duration_ms": 234627,
-      "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-      "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
+      "duration_ms": 236000,
+      "name": "\u9b54\u6cd5\u306f\u30b9\u30d1\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V"
     }
   ],
   "unique_name": "She Rocks",

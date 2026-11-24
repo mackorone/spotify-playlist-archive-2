@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7lUrBl93vleB53jeKKyCNH"
+      },
+      "artists": [
+        {
+          "name": "N2E-NottwoEasy",
+          "url": "https://open.spotify.com/artist/5xBhLcIgakIWCzVQ8LgNvz"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206635,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3XF2darIe2LTIXzlJ8mnzF"
+    },
+    {
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/09ldHO1i16Ygsxi4CXzinL"
       },
@@ -1702,6 +1720,28 @@
       "duration_ms": 222051,
       "name": "If I Die",
       "url": "https://open.spotify.com/track/6p1154wPVVepKN9XxLRVJQ"
+    },
+    {
+      "album": {
+        "name": "If I Leave",
+        "url": "https://open.spotify.com/album/0Zc0PYs6sdtFUL5lSeQw6T"
+      },
+      "artists": [
+        {
+          "name": "Nat Longordo",
+          "url": "https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg"
+        },
+        {
+          "name": "Nick Barone",
+          "url": "https://open.spotify.com/artist/44ZrVV2xoUesi81G23Th9i"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214890,
+      "name": "If I Leave",
+      "url": "https://open.spotify.com/track/6AIay8XGCE1EQaAU34Yo0j"
     },
     {
       "album": {
@@ -3826,6 +3866,24 @@
       "duration_ms": 229034,
       "name": "World Of Thirds",
       "url": "https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk"
+    },
+    {
+      "album": {
+        "name": "Yo Quebr\u00e9 Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0swb7yBxDIRhe764xEsGS8"
+      },
+      "artists": [
+        {
+          "name": "Nacho Sarmiento",
+          "url": "https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr"
+        }
+      ],
+      "date_added": "2026-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225751,
+      "name": "Yo Quebr\u00e9 Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2V8QtChjDwcQHiqc9mWx3y"
     },
     {
       "album": {
